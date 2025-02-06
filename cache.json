@@ -1657,6 +1657,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=123817",
+          "author": "EthoTech",
+          "description": "xxx\nEmployees and employers often focus their attention primarily on variable pay, but it’s vital to consider the entire compensation plan. These tips help you craft a balanced compensation strategy. As […]\nThe post How to Fit Variable Comp into Your Company’s Overall Compensation Plan appeared first on ERP Software Blog.\nUsing Variable Compensation to Improve Employee Happiness\nHow To Overcome The 1 Big Drawback To Your Variable Compensation Plan\nBetter Information = Stronger Company in Tough Economy",
+          "link": "https://erpsoftwareblog.com/2025/02/how-to-fit-variable-comp-into-your-companys-overall-compensation-plan/",
+          "publishedOn": "2025-02-05T22:25:49.000Z",
+          "wordCount": 7815,
+          "title": "How to Fit Variable Comp into Your Company’s Overall Compensation Plan",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2502-Compensation-Plan.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123809",
+          "author": "NMB Solutions",
+          "description": "xxx\nPresident Trump’s second term officially began on January 20, 2025, but concerns about his strict trade policies have been building since his presidential campaign. On his first day back in […]\nThe post The Compliance Tightrope: Navigating Trade Risks Under Trump’s New Policies appeared first on ERP Software Blog.\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers\nIntegrated Planning with deFacto Power Planning - Webinar\nWhy Is Data Migration Crucial for PLM-ERP Integration for D365?",
+          "link": "https://erpsoftwareblog.com/2025/02/the-compliance-tightrope-navigating-trade-risks-under-trumps-new-policies/",
+          "publishedOn": "2025-02-05T18:41:40.000Z",
+          "wordCount": 8483,
+          "title": "The Compliance Tightrope: Navigating Trade Risks Under Trump’s New Policies",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123770",
+          "author": "Insight Works",
+          "description": "xxx\nExplore how Quality Inspector v7.19 for Business Central enhances quality control with new features like FAIR Form 3, advanced range detection, and tooling management for improved efficiency and compliance.\nThe post What’s New in Quality Inspector v7.19 for Business Central? appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
+          "link": "https://erpsoftwareblog.com/2025/02/whats-new-in-quality-inspector-v7-19-for-business-central/",
+          "publishedOn": "2025-02-05T12:26:51.000Z",
+          "wordCount": 7631,
+          "title": "What’s New in Quality Inspector v7.19 for Business Central?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Quality-Inspector-2000.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123798",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nAre you planning for Microsoft Dynamics NAV to Business Central upgrade? This shift can offer significant benefits for your business operations but requires careful planning and execution. Business Central is […]\nThe post Dynamics NAV to Business Central Upgrade: Complete Guide appeared first on ERP Software Blog.\nMicrosoft Navision to Microsoft Business Central Comparison\nDynamics NAV Upgrade Options\nThe Obsolete ERP Conundrum: Upgrade NAV to Business Central or Move Systems?",
+          "link": "https://erpsoftwareblog.com/2025/02/dynamics-nav-to-business-central-upgrade-complete-guide/",
+          "publishedOn": "2025-02-05T08:04:05.000Z",
+          "wordCount": 8423,
+          "title": "Dynamics NAV to Business Central Upgrade: Complete Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Group-47316.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=123613",
           "author": "Catapult",
           "description": "xxx\nFor many organizations, providing subscription-based products and/or services has become a way to generate ongoing revenue, but until recently, there wasn’t a simple way to manage it in Business Central […]\nThe post Learn All You Need to Know About Subscription Billing in Business Central appeared first on ERP Software Blog.\nVIDEO: See How Dynamics 365 Business Central Integrates with Outlook!\nWhat makes the LS Central POS system a Real fit for your Business\nIs Your ERP Software Incomplete Without BI?",
@@ -18609,6 +18649,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=66736",
+          "author": "Tracey Santos",
+          "description": "Evaluating TCO When Transitioning to Dynamics 365 Business Central from Dynamics GP\nWhen considering a transition from Dynamics GP to Dynamics 365 Business Central, one of the most critical factors to evaluate is the total cost of ownership (TCO). This article will help you understand the differences in TCO between these two solutions, highlight the key factors that can influence your decision, and explain how Encore can...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/tco-for-gp-to-bc/",
+          "publishedOn": "2025-02-05T15:37:17.000Z",
+          "wordCount": 2382,
+          "title": "Evaluating TCO When Transitioning to Dynamics 365 Business Central from Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/09/GP-to-D365BC-Img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=45421",
           "author": "Erika Colson",
           "description": "Field Level Security in Microsoft Dynamics 365 CRM\nField-level security in Microsoft Dynamics 365 CRM apps allows you to create precise controls as to which users can edit which fields. It’s a very useful but often overlooked and forgotten feature. I have trained many of Encore’s D365 CRM clients on how to set up field-level security for their users. Below are step-by-step instructions for...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -19813,8 +19863,98 @@
     {
       "title": "365 Community Online",
       "feedUrl": "https://365community.online/feed",
-      "siteUrl": "https://365community.online",
+      "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-open-a-dataverse-record-on-mobile-from-a-canvas-app",
+          "author": "harditbhatia",
+          "description": "Learn how to open a Dataverse record in a model-driven app on mobile in the Power Apps app from within a canvas app! The post How to open a Dataverse record on mobile from a canvas app appeared first on Hardit Bhatia: The Power Addict. Continue Reading Hardit Bhatia’s Article on their blog How to […]\nThe post How to open a Dataverse record on mobile from a canvas app appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-open-a-dataverse-record-on-mobile-from-a-canvas-app",
+          "publishedOn": "2025-02-05T18:39:00.000Z",
+          "wordCount": 1915,
+          "title": "How to open a Dataverse record on mobile from a canvas app",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/How-to-open-a-Dataverse-record-on-mobile-from-a.jpg"
+        },
+        {
+          "id": "https://365community.online/business-central-2025-wave-1-novedades-en-fabricacion-y-la-cadena-de-suministro",
+          "author": "jarmesto",
+          "description": "En un entorno donde la eficiencia en la cadena de suministro es clave para la competitividad, Microsoft continúa mejorando Business Central con nuevas funcionalidades que optimizan la planificación, producción y distribución de productos. La actualización 2025 Wave 1 introduce mejoras en la gestión de inventarios, producción, documentos y procesos de almacenamiento, facilitando un mayor control […]\nThe post Business Central 2025 Wave 1: Novedades en  fabricación y la cadena de suministro appeared first on 365 Community Online.",
+          "link": "https://365community.online/business-central-2025-wave-1-novedades-en-fabricacion-y-la-cadena-de-suministro",
+          "publishedOn": "2025-02-05T15:30:00.000Z",
+          "wordCount": 2684,
+          "title": "Business Central 2025 Wave 1: Novedades en  fabricación y la cadena de suministro",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-define-allowed-languages-per-environment",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2025 Wave 1. The 2nd of the new functionality in the Country and regional section is define allowed languages […]\nThe post New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Define Allowed Languages Per Environment appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-define-allowed-languages-per-environment",
+          "publishedOn": "2025-02-05T15:00:00.000Z",
+          "wordCount": 2003,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Define Allowed Languages Per Environment",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/Preview-of-Microsoft-Dynamics-365-Business-Central-2025-Wave-1.png"
+        },
+        {
+          "id": "https://365community.online/work-order-life-cycle-in-ms-dynamics-365-field-service-youtube",
+          "author": "Manish chauhan",
+          "description": "Learn how to navigate the Work Order Life Cycle in Microsoft Dynamics 365 Field Service with this simple and informative guide. This video covers everything from creating and assigning work orders to scheduling, tracking progress, and closing the job. This video consists of: 00:00-00:19 Introduction 0:20-0:56 Work order Overview 0:57- 2:00-Work Order Life cycle overview […]\nThe post Work Order Life Cycle in MS Dynamics 365 Field Service – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/work-order-life-cycle-in-ms-dynamics-365-field-service-youtube",
+          "publishedOn": "2025-02-05T14:30:14.000Z",
+          "wordCount": 1937,
+          "title": "Work Order Life Cycle in MS Dynamics 365 Field Service – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/a-journey-through-wine-how-integrated-maps-transform-the-wine-business",
+          "author": "Inogic",
+          "description": "Imagine standing in the heart of a vast vineyard, surrounded by rows of lush grapevines, with the sun setting over rolling hills, and the air carrying the pleasant whiff of ripe grapes. As you sip on a glass of fine wine, your guide begins to walk you through the intricate journey that transforms a simple […]\nThe post A Journey Through Wine: How Integrated Maps Transform the Wine Business appeared first on 365 Community Online.",
+          "link": "https://365community.online/a-journey-through-wine-how-integrated-maps-transform-the-wine-business",
+          "publishedOn": "2025-02-05T12:25:00.000Z",
+          "wordCount": 2948,
+          "title": "A Journey Through Wine: How Integrated Maps Transform the Wine Business",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/How-Integrated-Maps-Transform-the-Wine-Business.png"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-use-peppol-a-nz-format-in-e-docs-in-australia-new-zealand",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2025 Wave 1. The 1st of the new functionality in the Country and regional section is use PEPPOL A-NZ […]\nThe post New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Use PEPPOL A-Nz Format In E-Docs In Australia, New Zealand appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-use-peppol-a-nz-format-in-e-docs-in-australia-new-zealand",
+          "publishedOn": "2025-02-05T11:00:00.000Z",
+          "wordCount": 2041,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Use PEPPOL A-Nz Format In E-Docs In Australia, New Zealand",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/Preview-of-Microsoft-Dynamics-365-Business-Central-2025-Wave-1.png"
+        },
+        {
+          "id": "https://365community.online/harnessing-dynamics-365-copilot-to-access-tailored-content-from-sharepoint",
+          "author": "Inogic",
+          "description": "As a salesperson, your success depends on providing accurate and on-time information to your clients. Whether it’s product brochures, pricing details, sales pitches, or specifications, having instant access to this data is critical. Most of these clients store this kind of information in SharePoint folders, but searching for it manually can be time-consuming. This is […]\nThe post Harnessing Dynamics 365 Copilot to Access Tailored Content from SharePoint appeared first on 365 Community Online.",
+          "link": "https://365community.online/harnessing-dynamics-365-copilot-to-access-tailored-content-from-sharepoint",
+          "publishedOn": "2025-02-05T10:32:00.000Z",
+          "wordCount": 2110,
+          "title": "Harnessing Dynamics 365 Copilot to Access Tailored Content from SharePoint",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Dynamics-365-Copilot.png"
+        },
+        {
+          "id": "https://365community.online/closing-the-gap-how-connecting-d365-field-service-can-transform-your-business",
+          "author": "Mark Christie",
+          "description": "Closing the Gap: How Connecting D365 Field Service Can Transform Your Business Businesses are facing significant challenges stemming from outdated or disconnected IT systems. These inefficiencies can disrupt operations, impacting both employees and customers. Here’s how integrating D365 Field Service into your organisation can address these issues and revolutionise your service delivery. Key Business Challenges […]\nThe post Closing the Gap: How Connecting D365 Field Service Can Transform Your Business appeared first on 365 Community Online.",
+          "link": "https://365community.online/closing-the-gap-how-connecting-d365-field-service-can-transform-your-business",
+          "publishedOn": "2025-02-05T09:18:00.000Z",
+          "wordCount": 2237,
+          "title": "Closing the Gap: How Connecting D365 Field Service Can Transform Your Business",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/create-dynamic-email-signatures-with-user-images-in-realtime-marketing",
+          "author": "Megan V. Walker",
+          "description": "I’ve previously written about how you can send emails from the owner of a record which can be useful to send out communications using Customer Insights – Journeys from an Account Manager or Support Rep. What about building nice dynamic email signatures for the bottom of those emails, including the profile image of that person? […]\nThe post Create Dynamic Email Signatures With User Images In Realtime Marketing appeared first on 365 Community Online.",
+          "link": "https://365community.online/create-dynamic-email-signatures-with-user-images-in-realtime-marketing",
+          "publishedOn": "2025-02-05T08:20:00.000Z",
+          "wordCount": 1924,
+          "title": "Create Dynamic Email Signatures With User Images In Realtime Marketing",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Create-Dynamic-Email-Signatures-With-User-Images-In-Realtime-Marketing.jpg"
+        },
         {
           "id": "https://365community.online/customizing-business-process-flows-stage-validation-using-javascript-dynamics-365-dataverse",
           "author": "Nishant Rana",
@@ -47175,6 +47315,36 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/02/03/accelerating-sales-with-unified-data-in-the-ai-era/",
+          "author": "Karan Nigam",
+          "description": "AI-powered customer profiling enables a shift from reactive decision making by sales teams to proactive customer engagement. \nThe post Accelerating sales with unified data in the AI era appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/02/03/accelerating-sales-with-unified-data-in-the-ai-era/",
+          "publishedOn": "2025-02-03T16:00:00.000Z",
+          "wordCount": 3695,
+          "title": "Accelerating sales with unified data in the AI era",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/01/1.17-social.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/01/29/mobile-offline-data-application-insights/",
+          "author": "Jonathan Baker",
+          "description": "This feature uses Application Insights to provide detailed analytics and reporting capabilities. Within Application Insights, you can create queries to drill down to data most relevant for your organization.  Based on those queries, create dashboards with visualizations tailored to your specific needs.  \nThe post Mobile Offline Data with Application Insights appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/01/29/mobile-offline-data-application-insights/",
+          "publishedOn": "2025-01-29T18:38:59.000Z",
+          "wordCount": 3079,
+          "title": "Mobile Offline Data with Application Insights",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/02/CLO22_Cafe_005_v2.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/01/28/end-of-support-for-smart-assist-case-and-knowledge-suggestions/",
+          "author": "Rushil Vora",
+          "description": "As Copilot in Dynamics 365 Customer Service continues to improve, it offers a better alternative for case and knowledge suggestions than Smart Assist. Therefore, starting June 2, 2025, we will no longer support case and knowledge suggestions via Smart Assist in Dynamics 365 Customer Service. We strongly encourage customer service organizations to turn on Copilot\nThe post End of support for Smart Assist case and knowledge suggestions appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/01/28/end-of-support-for-smart-assist-case-and-knowledge-suggestions/",
+          "publishedOn": "2025-01-28T16:04:07.000Z",
+          "wordCount": 2934,
+          "title": "End of support for Smart Assist case and knowledge suggestions",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/11/CLO22_TechOffice_028.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/01/23/2025-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-copilot-offerings/",
           "author": "Ryan Darby Martin",
