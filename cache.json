@@ -1580,6 +1580,16 @@
       "siteUrl": "https://impulztech.com/category/dynamics-365/",
       "articles": [
         {
+          "id": "https://impulztech.com/?p=3687",
+          "author": "Ahmad Hussain",
+          "description": "Data upgrade from Dynamics AX 2012 to Dynamics 365 Finance and Operations is a big undertake. The nature of the upgrade projects is very different from the re-implementation or master data migration approach projects. The first challenge the implementation team is going to face is the lack of community support. Reason – not many AX2012 […]\nThe post 3 things you must consider when doing the data upgrade from AX2012 to Dynamics 365 appeared first on Impulz Technologies LLC.",
+          "link": "https://impulztech.com/3-things-to-consider-while-doing-the-ax2012-data-upgrade-to-dynamics-365-finance-and-operations/",
+          "publishedOn": "2025-02-11T00:21:39.000Z",
+          "wordCount": 1487,
+          "title": "3 things you must consider when doing the data upgrade from AX2012 to Dynamics 365",
+          "imageUrl": null
+        },
+        {
           "id": "https://impulztech.com/?p=3277",
           "author": "Muhammad Ali",
           "description": "In the previous section, we examined the Azure DevOps build pipeline and its role in creating a deployable software package (Part 1). In this section, We will delve into the Azure DevOps tasks designed for the release pipeline. These tasks enable you to both upload the deployable software package to a project’s asset library in […]\nThe post Setup A Release Pipeline In D365 FO – Part 2 appeared first on Impulz Technologies LLC.",
@@ -1656,6 +1666,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=123997",
+          "author": "Andrew King, WebSan Solutions, Inc.",
+          "description": "xxx\nOptimizing Resources for Maximum Efficiency One of the most overlooked aspects of manufacturing is the effective use of resources. Whether it's machines, labour, or materials, inefficiencies can cost both time […]\nThe post Mastering Manufacturing with Business Central: Streamlining Work Centers and Capacity Planning appeared first on ERP Software Blog.\nMastering Manufacturing with Business Central: Introduction to Manufacturing in Business Central\nMastering Manufacturing with Business Central: Setting the Stage – Master Data in Business Central\nGetting in Tune with the Shop Floor with Microsoft Dynamics 365 for Manufacturing",
+          "link": "https://erpsoftwareblog.com/2025/02/mastering-manufacturing-with-business-central-streamlining-work-centers-and-capacity-planning/",
+          "publishedOn": "2025-02-10T22:06:52.000Z",
+          "wordCount": 7664,
+          "title": "Mastering Manufacturing with Business Central: Streamlining Work Centers and Capacity Planning",
+          "imageUrl": "https://www.websan.com/images/easyblog_articles/663/b2ap3_large_Work-center-card.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123930",
+          "author": "FIELDBOSS",
+          "description": "xxx\nField service leaders are increasingly contending with a pressing issue: the departure of seasoned technicians as they reach retirement. These veterans leave behind not just empty roles but also a […]\nThe post The Aging Workforce Challenge: Solutions for Field Service appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/02/the-aging-workforce-challenge-solutions-for-field-service/",
+          "publishedOn": "2025-02-10T20:35:10.000Z",
+          "wordCount": 8013,
+          "title": "The Aging Workforce Challenge: Solutions for Field Service",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/FIELDBOSS-How-to-address-an-aging-workforce-in-field-service.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123961",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nInvesting in a business management solution is essential in today’s modern business environment. With advanced technologies and functional capabilities, these solutions enhance core operations and boost profitability. To stay competitive, […]\nThe post Upgrade to Business Central and Maximize your ERP Investment appeared first on ERP Software Blog.\n2019 Summit - Business Central Sessions for New or Migrating Users\nHow to Migrate Data to Business Central During Your Upgrade Transition\nShould I Upgrade to Business Central from Dynamics NAV?",
+          "link": "https://erpsoftwareblog.com/2025/02/upgrade-to-business-central-and-maximize-your-erp-investment/",
+          "publishedOn": "2025-02-10T13:02:27.000Z",
+          "wordCount": 8390,
+          "title": "Upgrade to Business Central and Maximize your ERP Investment",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Steps-of-Power-BI-and-Business-Central-Integration-visual-selection-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123924",
+          "author": "Insight Works",
+          "description": "xxx\nNine Microsoft Partners joined Insight Works' reseller program in January 2025, strengthening manufacturing and distribution solutions for Dynamics 365 Business Central.\nThe post Insight Works Welcomes Nine New Partners, Boosting Business Central Solutions appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nOptimize your Distribution Process with Advanced Warehouse Management System\nHow to Choose a Mobile Computer to use with Business Central",
+          "link": "https://erpsoftwareblog.com/2025/02/insight-works-welcomes-nine-new-partners-boosting-business-central-solutions/",
+          "publishedOn": "2025-02-10T12:20:08.000Z",
+          "wordCount": 7520,
+          "title": "Insight Works Welcomes Nine New Partners, Boosting Business Central Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Partner-6.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=123888",
           "author": "ACE Micro, LLC",
@@ -19985,6 +20035,56 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/reduce-log-storage-delete-audit-logs-power-platform-admin-center",
+          "author": "Nishant Rana",
+          "description": "Recently we had to copy our production environment to one of our sandbox environments for some analysis and testing. But before we copied we made sure we deleted the data/attachments/ logs that are not required to save some storage space. Get more information – https://nishantrana.me/2024/10/15/free-up-storage-space-activitypointerbase-and-workflowlogbase-dataverse-dynamics-365/ We had around… Continue Reading Nishant Rana’s Article on their […]\nThe post Reduce log storage: Delete audit logs  – Power Platform Admin Center appeared first on 365 Community Online.",
+          "link": "https://365community.online/reduce-log-storage-delete-audit-logs-power-platform-admin-center",
+          "publishedOn": "2025-02-10T19:30:00.000Z",
+          "wordCount": 2530,
+          "title": "Reduce log storage: Delete audit logs  – Power Platform Admin Center",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-delete-incorrect-e-documents-and-avoid-duplicates",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2025 Wave 1. The 1st of the new functionality in the E-commerce section is delete incorrect e-documents and avoid […]\nThe post New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Delete Incorrect E-Documents And Avoid Duplicates appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-delete-incorrect-e-documents-and-avoid-duplicates",
+          "publishedOn": "2025-02-10T15:00:00.000Z",
+          "wordCount": 2611,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Delete Incorrect E-Documents And Avoid Duplicates",
+          "imageUrl": "https://365community.online/wp-content/uploads/2023/03/1679400571_603_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2023-Wave.png"
+        },
+        {
+          "id": "https://365community.online/retrieving-dynamics-365-data-using-sql-in-plugin-tds-endpoint",
+          "author": "Inogic",
+          "description": "In Dynamics 365, the TDS (Tabular Data Stream) endpoint allows developers to query Dataverse data using SQL-like commands. For example, suppose a sales manager wants to find the top three accounts with the highest revenue. Here’s how they can use the TDS endpoint to get that data. Why Use SQL for Retrieving D365 Data? Familiar […]\nThe post Retrieving Dynamics 365 Data Using SQL in Plugin: TDS Endpoint appeared first on 365 Community Online.",
+          "link": "https://365community.online/retrieving-dynamics-365-data-using-sql-in-plugin-tds-endpoint",
+          "publishedOn": "2025-02-10T13:06:00.000Z",
+          "wordCount": 2732,
+          "title": "Retrieving Dynamics 365 Data Using SQL in Plugin: TDS Endpoint",
+          "imageUrl": "https://365community.online/wp-content/uploads/2020/11/D365HR-Series-Capitulo-35-Campos-customizados.png"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-embed-power-bi-content-in-web-client-with-new-page-type",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2025 Wave 1. The 5th of the new functionality in the Development section is embed Power BI content in […]\nThe post New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Embed Power BI Content In Web Client With New Page Type appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2025-wave-1-embed-power-bi-content-in-web-client-with-new-page-type",
+          "publishedOn": "2025-02-10T11:00:00.000Z",
+          "wordCount": 2656,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2025 Wave 1: Embed Power BI Content In Web Client With New Page Type",
+          "imageUrl": "https://365community.online/wp-content/uploads/2023/03/1679400571_603_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2023-Wave.png"
+        },
+        {
+          "id": "https://365community.online/the-voice-a-to-z-a11y",
+          "author": "Mike Hartley",
+          "description": "In this AI-assistant world of Copilots, Agents, and ever-listening smart devices, Voice is becoming more prevalent. What if this is the primary source of control for people though? Here I take a look at the importance of the voice in solutions we build. The post The Voice [A to Z a11y] appeared first on Hart […]\nThe post The Voice [A to Z a11y] appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-voice-a-to-z-a11y",
+          "publishedOn": "2025-02-10T09:03:00.000Z",
+          "wordCount": 2484,
+          "title": "The Voice [A to Z a11y]",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/job-oriented-courses-at-scholarhat-build-skills-land-your-dream-job-youtube",
           "author": "Sourav Raj",
@@ -44143,6 +44243,26 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=7221",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/02/10/power-platform-security-9-2/",
+          "publishedOn": "2025-02-10T05:28:15.000Z",
+          "wordCount": 3448,
+          "title": "Power platform security (9.2)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "http://dynamicsax-fico.com/?p=7214",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/02/10/power-platform-security-9-1/",
+          "publishedOn": "2025-02-10T05:23:29.000Z",
+          "wordCount": 3451,
+          "title": "Power platform security (9.1)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=7198",
           "author": "Ludwig Reinhard",
