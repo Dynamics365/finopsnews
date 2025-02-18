@@ -2,10 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-02-17T01:37:03.586Z</updated>
+    <updated>2025-02-18T01:26:10.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Future-Proofing Dynamics 365: A Strategic Approach to Sustainable Development]]></title>
+        <id>https://erpsoftwareblog.com/?p=124343</id>
+        <link href="https://erpsoftwareblog.com/2025/02/future-proofing-dynamics-365-a-strategic-approach-to-sustainable-development/"/>
+        <updated>2025-02-17T22:03:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today's rapidly evolving technological landscape, organizations face a critical challenge: how to ensure their Dynamics 365 implementations remain relevant, efficient, and cost-effective over time. The key lies in future-proofing […]
+The post Future-Proofing Dynamics 365: A Strategic Approach to Sustainable Development appeared first on ERP Software Blog.
+Demystifying Microsoft Dynamics 365 Warehousing: Basic vs. Advanced 
+Comparing the Dynamics 365 Warehouse Management Module with Best-of-Breed Solutions
+Microsoft NAV 2016 Version Upgrade! Never Worry!!]]></summary>
+        <author>
+            <name>enVista</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power BI Copilot Overview, Features, and Best Practices (Part 1)]]></title>
+        <id>https://erpsoftwareblog.com/?p=124072</id>
+        <link href="https://erpsoftwareblog.com/2025/02/microsoft-power-bi-copilot-overview-features-and-best-practices-part-1/"/>
+        <updated>2025-02-17T20:34:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today's fast-paced digital landscape, data is the key to making informed business decisions. However, navigating through massive datasets can be overwhelming. Enter Microsoft Power BI Copilot, an AI-powered assistant […]
+The post Microsoft Power BI Copilot Overview, Features, and Best Practices (Part 1) appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>Pharos Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Solution manifest import: FAILURE: Solution patch with version already exists. Updating patch is not supported.” – Power Platform / Dynamics 365]]></title>
+        <id>https://365community.online/solution-manifest-import-failure-solution-patch-with-version-already-exists-updating-patch-is-not-supported-power-platform-dynamics-365</id>
+        <link href="https://365community.online/solution-manifest-import-failure-solution-patch-with-version-already-exists-updating-patch-is-not-supported-power-platform-dynamics-365"/>
+        <updated>2025-02-17T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While importing a patch (unmanaged) solution we got the below error – “Solution ‘abc_Configuration’ failed to import: Solution manifest import: FAILURE: Solution patch with version 1.6.1.1 already exists. Updating patch is not supported.” This is because Dataverse does not allow updating an existing patch solution with the same version number. Dataverse treats patches as immutable […]
+The post “Solution manifest import: FAILURE: Solution patch with version already exists. Updating patch is not supported.” – Power Platform / Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Retrieve and Display related Contact Email in D365 CRM Using JavaScript – YouTube]]></title>
+        <id>https://365community.online/how-to-retrieve-and-display-related-contact-email-in-d365-crm-using-javascript-youtube</id>
+        <link href="https://365community.online/how-to-retrieve-and-display-related-contact-email-in-d365-crm-using-javascript-youtube"/>
+        <updated>2025-02-17T14:45:03.000Z</updated>
+        <summary type="html"><![CDATA[In this video, learn how to use JavaScript in Dynamics 365 CRM to automatically retrieve the email address from a related Contact record (selected via the Primary Contact lookup) and update a custom field on the Account form. This step-by-step tutorial walks you through setting up the client-side code with Xrm.WebApi, ensuring seamless integration and […]
+The post How to Retrieve and Display related Contact Email in D365 CRM Using JavaScript – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud ERP vs Traditional Business Tools: Which One Powers Your Business Best?]]></title>
+        <id>https://erpsoftwareblog.com/?p=124315</id>
+        <link href="https://erpsoftwareblog.com/2025/02/cloud-erp-vs-traditional-business-tools-which-one-powers-your-business-best/"/>
+        <updated>2025-02-17T14:40:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As businesses expand, their management needs become more complex. ERP vs traditional business tools, which is the right fit? While traditional solutions may suffice for smaller organizations, they often lack […]
+The post Cloud ERP vs Traditional Business Tools: Which One Powers Your Business Best? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Korcomptenz Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Warehouse Shipping Order with MetaShip]]></title>
+        <id>https://erpsoftwareblog.com/?p=124309</id>
+        <link href="https://erpsoftwareblog.com/2025/02/streamlining-warehouse-shipping-order-with-metaship/"/>
+        <updated>2025-02-17T13:46:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing warehouse shipping orders isn’t easy; it’s about efficiently regulating orders to maintain customer satisfaction and operational excellence in logistics. Nowadays, businesses need a seamless process integrating packing, shipping, and […]
+The post Streamlining Warehouse Shipping Order with MetaShip appeared first on ERP Software Blog.
+Revolutionize your Logistics Strategy with MetaShip for Business Central
+Streamlined ASN Label Printing with MetaShip for Business Central
+Optimize Your Warehouse Shipping Operations: MetaShip]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pay Vendors Directly Out of D365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=124295</id>
+        <link href="https://erpsoftwareblog.com/2025/02/d365-business-central-vendor-payments-and-remittances/"/>
+        <updated>2025-02-17T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Managing vendor payments can often feel like a complex task, especially when dealing with manual processes, tedious configurations, and disparate third party systems. However, with the integration of XE […]
+The post How to Pay Vendors Directly Out of D365 Business Central appeared first on ERP Software Blog.
+10 Time Saving Business Central Keyboard Shortcuts You Need Today
+Case Study: Embracing ClickLearn as a corporate Dynamics 365 training platform
+How to Install D365 Business Central Apps as a GDAP Partner in V25]]></summary>
+        <author>
+            <name>Ben Cole - President @ ERP Connect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonas skiing in Hemavan 2025 – YouTube]]></title>
+        <id>https://365community.online/jonas-skiing-in-hemavan-2025-youtube</id>
+        <link href="https://365community.online/jonas-skiing-in-hemavan-2025-youtube"/>
+        <updated>2025-02-17T09:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Jonas Rapp is skiing, four years after my stroke. source
+The post Jonas skiing in Hemavan 2025 – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Consultancy Firms can Leverage Integrated Maps for Smarter Operations]]></title>
+        <id>https://365community.online/how-consultancy-firms-can-leverage-integrated-maps-for-smarter-operations</id>
+        <link href="https://365community.online/how-consultancy-firms-can-leverage-integrated-maps-for-smarter-operations"/>
+        <updated>2025-02-17T08:42:00.000Z</updated>
+        <summary type="html"><![CDATA[“Working hard is great, but working smart means you get to leave the office before your coffee gets cold.” Imagine you’re running a top-tier consultancy firm, juggling multiple client locations, field visits, data analysis, and strategic planning—all while sipping your fourth cup of coffee. As much as your spreadsheets and CRM try to keep up, […]
+The post How Consultancy Firms can Leverage Integrated Maps for Smarter Operations appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sostenibilidad en Business Central: Optimizando la Gestión Empresarial con el Módulo de Sostenibilidad]]></title>
+        <id>https://365community.online/sostenibilidad-en-business-central-optimizando-la-gestion-empresarial-con-el-modulo-de-sostenibilidad</id>
+        <link href="https://365community.online/sostenibilidad-en-business-central-optimizando-la-gestion-empresarial-con-el-modulo-de-sostenibilidad"/>
+        <updated>2025-02-17T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[La sostenibilidad se ha convertido en un pilar clave para las empresas que buscan no solo cumplir con regulaciones ambientales, sino también mejorar su eficiencia operativa. Microsoft Dynamics 365 Business Central ha dado un paso adelante en este ámbito con su Módulo de Sostenibilidad, diseñado para ayudar a las organizaciones a medir y reducir su […]
+The post Sostenibilidad en Business Central: Optimizando la Gestión Empresarial con el Módulo de Sostenibilidad appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Specific Dates Drive and Track Marketing Campaigns in Dynamics 365 CRM and Mailchimp]]></title>
+        <id>https://365community.online/using-specific-dates-drive-and-track-marketing-campaigns-in-dynamics-365-crm-and-mailchimp</id>
+        <link href="https://365community.online/using-specific-dates-drive-and-track-marketing-campaigns-in-dynamics-365-crm-and-mailchimp"/>
+        <updated>2025-02-17T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[To stand out in today’s busy market, businesses need to communicate with customers in a personal and meaningful way. Using the right app makes it easier to send targeted messages and keep track of interactions. By integrating Mailchimp with Dynamics 365 CRM, you can sync Dynamics 365 records with Mailchimp, target customers based on specific […]
+The post Using Specific Dates Drive and Track Marketing Campaigns in Dynamics 365 CRM and Mailchimp appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP systems for Startups: Choosing the right fit in 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=124298</id>
+        <link href="https://erpsoftwareblog.com/2025/02/erp-systems-for-startups-choosing-the-right-fit-in-2025/"/>
+        <updated>2025-02-17T04:01:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For startups, growth is a delicate balance of innovation, speed, and efficiency. One of the core components to ensure this success is the seamless integration of internal processes-this is where […]
+The post ERP systems for Startups: Choosing the right fit in 2025 appeared first on ERP Software Blog.
+Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip
+Investing in Your ERP Software the Right Way
+TrinSoft Introduces TrinAuto Mfg - Automotive Manufacturing & Supply Chain Management Solution]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start your Full Stack .NET journey with ScholarHat! – YouTube]]></title>
+        <id>https://365community.online/start-your-full-stack-net-journey-with-scholarhat-youtube</id>
+        <link href="https://365community.online/start-your-full-stack-net-journey-with-scholarhat-youtube"/>
+        <updated>2025-02-16T10:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Start your Full Stack .NET journey with ScholarHat! Start your Full Stack .NET journey with ScholarHat! Learn, build, and get ready for top tech jobs. Start your Full Stack .NET journey with ScholarHat! Learn, build, and get ready for top tech jobs. source
+The post Start your Full Stack .NET journey with ScholarHat! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #44]]></title>
         <id>http://dynamicsax-fico.com/?p=6963</id>
