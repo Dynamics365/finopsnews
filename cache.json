@@ -1657,6 +1657,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=124401",
+          "author": "Insight Works",
+          "description": "xxx\nLearn how to optimize maintenance in Business Central with Maintenance Manager, a CMMS solution that streamlines scheduling, work orders, and asset management to minimize downtime and boost efficiency.\nThe post 10 Tips to Maximize Efficiency in Business Central with Maintenance Manager appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
+          "link": "https://erpsoftwareblog.com/2025/02/10-tips-to-maximize-efficiency-in-business-central-with-maintenance-manager/",
+          "publishedOn": "2025-02-18T22:48:13.000Z",
+          "wordCount": 7866,
+          "title": "10 Tips to Maximize Efficiency in Business Central with Maintenance Manager",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Maintenance-Manager-1200-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124384",
+          "author": "Technology Management Concepts",
+          "description": "xxx\nManaging multiple software vendors can feel like a never-ending juggling act. Between different contracts, support teams, and integration challenges, businesses often waste valuable time and resources just keeping their tech […]\nThe post Eliminate Vendor Chaos - How Microsoft Simplifies Business Technology appeared first on ERP Software Blog.\nTMC Secures Growth Investment to Drive Innovation in Microsoft Cloud Solutions\nHow Cloud ERP Helps Build Strong Supply Chains\nEp 65 | Copilot in Business Central | A Shot of Business Central and A Beer",
+          "link": "https://erpsoftwareblog.com/2025/02/eliminate-vendor-chaos-how-microsoft-simplifies-business-technology/",
+          "publishedOn": "2025-02-18T19:51:33.000Z",
+          "wordCount": 7845,
+          "title": "Eliminate Vendor Chaos - How Microsoft Simplifies Business Technology",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-Microsoft-Simplifies-Business-Technology-TMC.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123983",
+          "author": "Stoneridge Software",
+          "description": "xxx\nMicrosoft Dynamics 365 solutions offer ag retail companies comprehensive, cloud-based solutions that can modernize operations, improve efficiency, increase automation, and ensure compliance. When agribusinesses implement Dynamics 365 ERP and CRM […]\nThe post How Dynamics 365 Solutions Help Ag Retail Companies Enhance Efficiency and Compliance appeared first on ERP Software Blog.\nFuture-Proofing Dynamics 365: A Strategic Approach to Sustainable Development\nCommunication - the key to a smarter supply chain\nCrisis Management in your supply chain",
+          "link": "https://erpsoftwareblog.com/2025/02/how-dynamics-365-solutions-help-ag-retail-companies-enhance-efficiency-and-compliance/",
+          "publishedOn": "2025-02-18T16:51:56.000Z",
+          "wordCount": 8142,
+          "title": "How Dynamics 365 Solutions Help Ag Retail Companies Enhance Efficiency and Compliance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Ag-Biz-Mgmt.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124320",
+          "author": "x2x eCommerce",
+          "description": "xxx\nIn the contemporary age, sustainability goes beyond mere catchphrases, it is necessary. Companies today are realizing how necessary it is to keep tabs on their effect on the planet and […]\nThe post Embracing Sustainability with Microsoft Business Central Sustainability Manager appeared first on ERP Software Blog.\nBooklet | Centralized or decentralized accounts payable?\nTop ERP Trends to Look for in 2024\nBenefits of Bundle Solutions",
+          "link": "https://erpsoftwareblog.com/2025/02/embracing-sustainability-with-microsoft-business-central-sustainability-manager/",
+          "publishedOn": "2025-02-18T14:08:59.000Z",
+          "wordCount": 7572,
+          "title": "Embracing Sustainability with Microsoft Business Central Sustainability Manager",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-2025-02-17T124842.681-625x352.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124363",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nThe retail industry is experiencing a significant shift, with consumers demanding a smooth and integrated shopping experience that seamlessly connects online and offline stores. To effectively navigate this omnichannel environment, […]\nThe post ERP Software for Retail Industry: Importance & Benefits appeared first on ERP Software Blog.\nCut Costs, Save Time with LS Central for your Retail Business\nHow LS Central for Retail can redefine your business process?\nStreamline Operations of your Retail Business with LS Central",
+          "link": "https://erpsoftwareblog.com/2025/02/erp-software-for-retail-industry-importance-benefits/",
+          "publishedOn": "2025-02-18T08:25:59.000Z",
+          "wordCount": 8549,
+          "title": "ERP Software for Retail Industry: Importance & Benefits",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Importance-of-ERP-Software-for-Retail-Industry-visual-selection-e1739865004332.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=124343",
           "author": "enVista",
           "description": "xxx\nIn today's rapidly evolving technological landscape, organizations face a critical challenge: how to ensure their Dynamics 365 implementations remain relevant, efficient, and cost-effective over time. The key lies in future-proofing […]\nThe post Future-Proofing Dynamics 365: A Strategic Approach to Sustainable Development appeared first on ERP Software Blog.\nDemystifying Microsoft Dynamics 365 Warehousing: Basic vs. Advanced \nComparing the Dynamics 365 Warehouse Management Module with Best-of-Breed Solutions\nMicrosoft NAV 2016 Version Upgrade! Never Worry!!",
@@ -20385,6 +20435,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/display-method-in-onhand-form-d365fo",
+          "author": "Anitha Santosh",
+          "description": "Adding a display method is generally straightforward, but implementing it on the OnHand form can be challenging since the buffers consistently return empty values. For example, the following code snippet always results in an empty _inventSum buffer: display Qty MyDisplayMethod(InventSum _inventSum) { InventSum inventSum; FormDataSource InventSum_ds = _inventSum.datasource(); FormDataSource InventDim_ds = InventSum_ds.formRun().dataSource(\"InventDim\"); return InventSum.MyCustomMethod(_inventSum, InventDim_ds); […]\nThe post Display method in OnHand form – D365FO appeared first on 365 Community Online.",
+          "link": "https://365community.online/display-method-in-onhand-form-d365fo",
+          "publishedOn": "2025-02-18T23:00:00.000Z",
+          "wordCount": 2228,
+          "title": "Display method in OnHand form – D365FO",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/03/D365-FO-10039-revised-release-notes.png"
+        },
+        {
+          "id": "https://365community.online/change-choice-optionset-values-text-label-using-javascript-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "In Dynamics 365, there are instances when we need to dynamically change the labels of option set fields based on specific conditions. For example, we might want to update the label of the “Priority” field option from High to Critical when a case is marked as escalated (Is Escalated = True). Below is the sample […]\nThe post Change Choice / OptionSet value’s text/label using JavaScript    – Dataverse / Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/change-choice-optionset-values-text-label-using-javascript-dataverse-dynamics-365",
+          "publishedOn": "2025-02-18T19:30:00.000Z",
+          "wordCount": 2144,
+          "title": "Change Choice / OptionSet value’s text/label using JavaScript    – Dataverse / Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Change-Choice-OptionSet-values-textlabel-using-JavaScript-–.jpeg"
+        },
+        {
+          "id": "https://365community.online/d365fo-security-myth-segregation-of-duties-can-be-done-at-the-duty-level",
+          "author": "Alex Meyer",
+          "description": "Photo designed by FreePik I’ve written in the past about the segregation of duties area of Dynamics 365 for Finance & Operations (D365FO) but wanted to revisit this as part of the ongoing ‘security myths’ series. The ‘myth’ in this case is that segregation of duties (SOD) can be done at the ‘duty’ level within D365FO […]\nThe post D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level appeared first on 365 Community Online.",
+          "link": "https://365community.online/d365fo-security-myth-segregation-of-duties-can-be-done-at-the-duty-level",
+          "publishedOn": "2025-02-18T14:56:00.000Z",
+          "wordCount": 4059,
+          "title": "D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/D365FO-Security-Myth-Segregation-of-Duties-Can-Be-Done-at.png"
+        },
+        {
+          "id": "https://365community.online/1739365185293491-youtube",
+          "author": "Manish chauhan",
+          "description": "source\nThe post 1739365185293491 – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/1739365185293491-youtube",
+          "publishedOn": "2025-02-18T14:15:01.000Z",
+          "wordCount": 1983,
+          "title": "1739365185293491 – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/multiple-compliance-centers-in-a-form",
+          "author": "Malin Martnes",
+          "description": "Not too long ago I got some really good advice from someone at Microsoft. I had a customer who had an issue and this solution fixed all their problems. I promised Petr I’d blog about his brilliant solution – so here it is. PS; If you’re not familiar with compliance profiles and consent center – […]\nThe post Multiple compliance centers in a form appeared first on 365 Community Online.",
+          "link": "https://365community.online/multiple-compliance-centers-in-a-form",
+          "publishedOn": "2025-02-18T11:08:00.000Z",
+          "wordCount": 2668,
+          "title": "Multiple compliance centers in a form",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Multiple-compliance-centers-in-a-form.png"
+        },
+        {
+          "id": "https://365community.online/use-governance-controls-to-disable-anonymous-access-in-power-pages",
+          "author": "Inogic",
+          "description": "In today’s digital world, most businesses and organizations prioritize protecting sensitive data. Power Pages gives administrators the power to disable anonymous access to their websites, which ensures that only authenticated users can view sensitive information. This entry covers how one can define anonymous access, explain its importance, and explore governance controls that can effectively eliminate […]\nThe post Use Governance Controls to Disable Anonymous Access in Power Pages appeared first on 365 Community Online.",
+          "link": "https://365community.online/use-governance-controls-to-disable-anonymous-access-in-power-pages",
+          "publishedOn": "2025-02-18T10:42:00.000Z",
+          "wordCount": 2764,
+          "title": "Use Governance Controls to Disable Anonymous Access in Power Pages",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/1Power-Pages.png"
+        },
+        {
+          "id": "https://365community.online/power-platform-low-code-plugins-a-step-forward-or-sideways",
+          "author": "Thomas Sandsør",
+          "description": "Microsoft’s vision for the Power Platform has always been about enablement. “Low-code, no-code” has enabled many makers to build business applications without writing traditional code. It’s an attractive idea—why rely on scarce pro-dev resources when we can empower citizen developers to build what they need? But then, there’s the reality. And reality often doesn’t align […]\nThe post Power Platform Low-Code Plugins: A Step Forward or Sideways? appeared first on 365 Community Online.",
+          "link": "https://365community.online/power-platform-low-code-plugins-a-step-forward-or-sideways",
+          "publishedOn": "2025-02-18T09:08:00.000Z",
+          "wordCount": 2661,
+          "title": "Power Platform Low-Code Plugins: A Step Forward or Sideways?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Power-Platform-Low-Code-Plugins-A-Step-Forward-or-Sideways.jpeg"
+        },
         {
           "id": "https://365community.online/solution-manifest-import-failure-solution-patch-with-version-already-exists-updating-patch-is-not-supported-power-platform-dynamics-365",
           "author": "Nishant Rana",
@@ -45034,6 +45154,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=7243",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/02/18/power-platform-security-10/",
+          "publishedOn": "2025-02-18T06:51:30.000Z",
+          "wordCount": 3450,
+          "title": "Power platform security (10)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6963",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -46503,6 +46633,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=3440",
+          "author": "Alex",
+          "description": "Photo designed by FreePik I’ve written in the past about the segregation of duties area of Dynamics 365 for Finance & Operations (D365FO) but wanted to revisit this as part of the ongoing ‘security myths’ series. The ‘myth’ in this case is that segregation of duties (SOD) can be done at the ‘duty’ level within D365FO […]\nThe post D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2025/02/18/d365fo-security-myth-segregation-of-duties-can-be-done-at-the-duty-level/",
+          "publishedOn": "2025-02-18T14:56:05.000Z",
+          "wordCount": 5897,
+          "title": "D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2025/02/Segregation-of-Duties-e1739830504894.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=3417",
           "author": "Alex",
           "description": "Photo designed by FreePik Security within ERP systems is not easy or straightforward, over the years I have heard a lot of different ways that people have tried to create an ‘easy button’ for developing or configuring security. In most cases, these methods do not follow best practice but in some cases they can be flat […]\nThe post D365FO Security Myth: Applying Company Restrictions to Just the System User Role appeared first on Alex Meyer.",
@@ -47160,6 +47300,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3762",
+          "author": "AnithaEswaran",
+          "description": "Adding a display method is generally straightforward, but implementing it on the OnHand form can be challenging since the buffers consistently return empty values. For example, the following code snippet always results in an empty _inventSum buffer: Recently I came … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2025/02/18/display-method-in-onhand-form-d365fo/",
+          "publishedOn": "2025-02-18T23:00:00.000Z",
+          "wordCount": 3203,
+          "title": "Display method in OnHand form – D365FO",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2023/06/community_5f00_badge_5f00_logo_2d00_01.png?w=143"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3728",
           "author": "AnithaEswaran",

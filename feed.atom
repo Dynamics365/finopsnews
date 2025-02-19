@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-02-18T01:26:10.471Z</updated>
+    <updated>2025-02-19T01:26:43.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Display method in OnHand form – D365FO]]></title>
+        <id>https://365community.online/display-method-in-onhand-form-d365fo</id>
+        <link href="https://365community.online/display-method-in-onhand-form-d365fo"/>
+        <updated>2025-02-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adding a display method is generally straightforward, but implementing it on the OnHand form can be challenging since the buffers consistently return empty values. For example, the following code snippet always results in an empty _inventSum buffer: display Qty MyDisplayMethod(InventSum _inventSum) { InventSum inventSum; FormDataSource InventSum_ds = _inventSum.datasource(); FormDataSource InventDim_ds = InventSum_ds.formRun().dataSource("InventDim"); return InventSum.MyCustomMethod(_inventSum, InventDim_ds); […]
+The post Display method in OnHand form – D365FO appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Display method in OnHand form – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3762</id>
+        <link href="https://anithasantosh.wordpress.com/2025/02/18/display-method-in-onhand-form-d365fo/"/>
+        <updated>2025-02-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adding a display method is generally straightforward, but implementing it on the OnHand form can be challenging since the buffers consistently return empty values. For example, the following code snippet always results in an empty _inventSum buffer: Recently I came … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Tips to Maximize Efficiency in Business Central with Maintenance Manager]]></title>
+        <id>https://erpsoftwareblog.com/?p=124401</id>
+        <link href="https://erpsoftwareblog.com/2025/02/10-tips-to-maximize-efficiency-in-business-central-with-maintenance-manager/"/>
+        <updated>2025-02-18T22:48:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Learn how to optimize maintenance in Business Central with Maintenance Manager, a CMMS solution that streamlines scheduling, work orders, and asset management to minimize downtime and boost efficiency.
+The post 10 Tips to Maximize Efficiency in Business Central with Maintenance Manager appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eliminate Vendor Chaos - How Microsoft Simplifies Business Technology]]></title>
+        <id>https://erpsoftwareblog.com/?p=124384</id>
+        <link href="https://erpsoftwareblog.com/2025/02/eliminate-vendor-chaos-how-microsoft-simplifies-business-technology/"/>
+        <updated>2025-02-18T19:51:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing multiple software vendors can feel like a never-ending juggling act. Between different contracts, support teams, and integration challenges, businesses often waste valuable time and resources just keeping their tech […]
+The post Eliminate Vendor Chaos - How Microsoft Simplifies Business Technology appeared first on ERP Software Blog.
+TMC Secures Growth Investment to Drive Innovation in Microsoft Cloud Solutions
+How Cloud ERP Helps Build Strong Supply Chains
+Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Choice / OptionSet value’s text/label using JavaScript    – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/change-choice-optionset-values-text-label-using-javascript-dataverse-dynamics-365</id>
+        <link href="https://365community.online/change-choice-optionset-values-text-label-using-javascript-dataverse-dynamics-365"/>
+        <updated>2025-02-18T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365, there are instances when we need to dynamically change the labels of option set fields based on specific conditions. For example, we might want to update the label of the “Priority” field option from High to Critical when a case is marked as escalated (Is Escalated = True). Below is the sample […]
+The post Change Choice / OptionSet value’s text/label using JavaScript    – Dataverse / Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 Solutions Help Ag Retail Companies Enhance Efficiency and Compliance]]></title>
+        <id>https://erpsoftwareblog.com/?p=123983</id>
+        <link href="https://erpsoftwareblog.com/2025/02/how-dynamics-365-solutions-help-ag-retail-companies-enhance-efficiency-and-compliance/"/>
+        <updated>2025-02-18T16:51:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 solutions offer ag retail companies comprehensive, cloud-based solutions that can modernize operations, improve efficiency, increase automation, and ensure compliance. When agribusinesses implement Dynamics 365 ERP and CRM […]
+The post How Dynamics 365 Solutions Help Ag Retail Companies Enhance Efficiency and Compliance appeared first on ERP Software Blog.
+Future-Proofing Dynamics 365: A Strategic Approach to Sustainable Development
+Communication - the key to a smarter supply chain
+Crisis Management in your supply chain]]></summary>
+        <author>
+            <name>Stoneridge Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level]]></title>
+        <id>https://alexdmeyer.com/?p=3440</id>
+        <link href="https://alexdmeyer.com/2025/02/18/d365fo-security-myth-segregation-of-duties-can-be-done-at-the-duty-level/"/>
+        <updated>2025-02-18T14:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Photo designed by FreePik I’ve written in the past about the segregation of duties area of Dynamics 365 for Finance & Operations (D365FO) but wanted to revisit this as part of the ongoing ‘security myths’ series. The ‘myth’ in this case is that segregation of duties (SOD) can be done at the ‘duty’ level within D365FO […]
+The post D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level]]></title>
+        <id>https://365community.online/d365fo-security-myth-segregation-of-duties-can-be-done-at-the-duty-level</id>
+        <link href="https://365community.online/d365fo-security-myth-segregation-of-duties-can-be-done-at-the-duty-level"/>
+        <updated>2025-02-18T14:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo designed by FreePik I’ve written in the past about the segregation of duties area of Dynamics 365 for Finance & Operations (D365FO) but wanted to revisit this as part of the ongoing ‘security myths’ series. The ‘myth’ in this case is that segregation of duties (SOD) can be done at the ‘duty’ level within D365FO […]
+The post D365FO Security Myth: Segregation of Duties Can Be Done at the Duty Level appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1739365185293491 – YouTube]]></title>
+        <id>https://365community.online/1739365185293491-youtube</id>
+        <link href="https://365community.online/1739365185293491-youtube"/>
+        <updated>2025-02-18T14:15:01.000Z</updated>
+        <summary type="html"><![CDATA[source
+The post 1739365185293491 – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing Sustainability with Microsoft Business Central Sustainability Manager]]></title>
+        <id>https://erpsoftwareblog.com/?p=124320</id>
+        <link href="https://erpsoftwareblog.com/2025/02/embracing-sustainability-with-microsoft-business-central-sustainability-manager/"/>
+        <updated>2025-02-18T14:08:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the contemporary age, sustainability goes beyond mere catchphrases, it is necessary. Companies today are realizing how necessary it is to keep tabs on their effect on the planet and […]
+The post Embracing Sustainability with Microsoft Business Central Sustainability Manager appeared first on ERP Software Blog.
+Booklet | Centralized or decentralized accounts payable?
+Top ERP Trends to Look for in 2024
+Benefits of Bundle Solutions]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple compliance centers in a form]]></title>
+        <id>https://365community.online/multiple-compliance-centers-in-a-form</id>
+        <link href="https://365community.online/multiple-compliance-centers-in-a-form"/>
+        <updated>2025-02-18T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Not too long ago I got some really good advice from someone at Microsoft. I had a customer who had an issue and this solution fixed all their problems. I promised Petr I’d blog about his brilliant solution – so here it is. PS; If you’re not familiar with compliance profiles and consent center – […]
+The post Multiple compliance centers in a form appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Governance Controls to Disable Anonymous Access in Power Pages]]></title>
+        <id>https://365community.online/use-governance-controls-to-disable-anonymous-access-in-power-pages</id>
+        <link href="https://365community.online/use-governance-controls-to-disable-anonymous-access-in-power-pages"/>
+        <updated>2025-02-18T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, most businesses and organizations prioritize protecting sensitive data. Power Pages gives administrators the power to disable anonymous access to their websites, which ensures that only authenticated users can view sensitive information. This entry covers how one can define anonymous access, explain its importance, and explore governance controls that can effectively eliminate […]
+The post Use Governance Controls to Disable Anonymous Access in Power Pages appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Low-Code Plugins: A Step Forward or Sideways?]]></title>
+        <id>https://365community.online/power-platform-low-code-plugins-a-step-forward-or-sideways</id>
+        <link href="https://365community.online/power-platform-low-code-plugins-a-step-forward-or-sideways"/>
+        <updated>2025-02-18T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s vision for the Power Platform has always been about enablement. “Low-code, no-code” has enabled many makers to build business applications without writing traditional code. It’s an attractive idea—why rely on scarce pro-dev resources when we can empower citizen developers to build what they need? But then, there’s the reality. And reality often doesn’t align […]
+The post Power Platform Low-Code Plugins: A Step Forward or Sideways? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Thomas Sandsør</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Software for Retail Industry: Importance & Benefits]]></title>
+        <id>https://erpsoftwareblog.com/?p=124363</id>
+        <link href="https://erpsoftwareblog.com/2025/02/erp-software-for-retail-industry-importance-benefits/"/>
+        <updated>2025-02-18T08:25:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The retail industry is experiencing a significant shift, with consumers demanding a smooth and integrated shopping experience that seamlessly connects online and offline stores. To effectively navigate this omnichannel environment, […]
+The post ERP Software for Retail Industry: Importance & Benefits appeared first on ERP Software Blog.
+Cut Costs, Save Time with LS Central for your Retail Business
+How LS Central for Retail can redefine your business process?
+Streamline Operations of your Retail Business with LS Central]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power platform security (10)]]></title>
+        <id>http://dynamicsax-fico.com/?p=7243</id>
+        <link href="https://dynamicsax-fico.com/2025/02/18/power-platform-security-10/"/>
+        <updated>2025-02-18T06:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Future-Proofing Dynamics 365: A Strategic Approach to Sustainable Development]]></title>
         <id>https://erpsoftwareblog.com/?p=124343</id>
