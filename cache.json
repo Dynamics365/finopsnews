@@ -1657,6 +1657,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=124353",
+          "author": "Erin Bonde, MV2 MES",
+          "description": "xxx\nA Manufacturing Execution System (MES) is software designed to enhance manufacturing processes on the shop floor. MES platforms provide capabilities that monitor, track, document, and control the entire production lifecycle. […]\nThe post 10 Advantages of MV2 Cloud-Based Manufacturing Execution System for Dynamics 365 Business Central appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix",
+          "link": "https://erpsoftwareblog.com/2025/02/10-advantages-of-mv2-cloud-based-manufacturing-execution-system-for-dynamics-365-business-central/",
+          "publishedOn": "2025-02-19T20:32:19.000Z",
+          "wordCount": 7887,
+          "title": "10 Advantages of MV2 Cloud-Based Manufacturing Execution System for Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MV2-Rewrite-scaled.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124424",
+          "author": "Michael Intravartolo",
+          "description": "xxx\nThe modern distribution supply chain is shaped by complexity, scale, and the relentless pursuit of efficiency. In this environment, integrating EDI (Electronic Data Interchange) has become essential for seamless supplier […]\nThe post Integrating EDI & Supplier Data Feeds: Why It Hurts & How to Fix It appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/02/integrating-edi-supplier-data-feeds-why-it-hurts-how-to-fix-it/",
+          "publishedOn": "2025-02-19T17:17:30.000Z",
+          "wordCount": 8280,
+          "title": "Integrating EDI & Supplier Data Feeds: Why It Hurts & How to Fix It",
+          "imageUrl": "https://files.oaiusercontent.com/file-DEfrQGC6MaZqQAB3EWmUr2?se=2025-02-19T16%3A58%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D7c6e89d3-680a-41f8-a316-9c0f143ee3e0.webp&sig=r4ivzrkvFWrL9qsBwTuUYiPaNNB7yq6NHelxyyxsJz8%3D"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124276",
+          "author": "TheTestMart",
+          "description": "xxx\nTackling Dynamics 365 Testing Challenges with Test Automation In the competitive landscape of modern business, ensuring your ERP system runs smoothly is essential. Dynamics 365, a leading ERP solution, offers […]\nThe post Common Challenges Testing Dynamics 365 and How Test Automation Can Help appeared first on ERP Software Blog.\nMicrosoft NAV 2016 Version Upgrade! Never Worry!!\nCustomize Your Microsoft Dynamics AX…?? Learn from Travel Industry\nCan the web client be your answer to a portal?",
+          "link": "https://erpsoftwareblog.com/2025/02/common-challenges-testing-dynamics-365-and-how-test-automation-can-help/",
+          "publishedOn": "2025-02-19T16:16:04.000Z",
+          "wordCount": 8159,
+          "title": "Common Challenges Testing Dynamics 365 and How Test Automation Can Help",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124419",
+          "author": "Andrew King, WebSan Solutions, Inc.",
+          "description": "xxx\nTurning Plans into Reality The execution of a production order is where all the planning, scheduling, and preparation come together. In Microsoft Dynamics 365 Business Central, production orders are not just […]\nThe post Mastering Manufacturing with Business Central: Production Order Execution and Costing appeared first on ERP Software Blog.\nMastering Manufacturing with Business Central: Navigating Production Orders in Business Central\nMastering Manufacturing with Business Central: Introduction to Manufacturing in Business Central\nMastering Manufacturing with Business Central: Setting the Stage – Master Data in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/02/mastering-manufacturing-with-business-central-production-order-execution-and-costing/",
+          "publishedOn": "2025-02-19T15:32:22.000Z",
+          "wordCount": 7540,
+          "title": "Mastering Manufacturing with Business Central: Production Order Execution and Costing",
+          "imageUrl": "https://www.websan.com/images/easyblog_articles/664/b2ap3_large_Production-Order-Lifecycle-Diagram.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124415",
+          "author": "Dynamics Square CA",
+          "description": "xxx\nEffective management of logistics calls for appropriate technologies. Businesses need solutions with better control and visibility as supply chains get more complicated. Could the best logistics ERP software be the […]\nThe post Best Logistics ERP Software in 2025 | Canada appeared first on ERP Software Blog.\nWhat is an ERP Consultant?\nDynamics GP 2013 New Features - Drill Thru Management Reporter 2012 to Dynamics GP 2013\n17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2025/02/logistics-erp-software/",
+          "publishedOn": "2025-02-19T14:11:28.000Z",
+          "wordCount": 8429,
+          "title": "Best Logistics ERP Software in 2025 | Canada",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Best-Logistics-ERP.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=124401",
           "author": "Insight Works",
           "description": "xxx\nLearn how to optimize maintenance in Business Central with Maintenance Manager, a CMMS solution that streamlines scheduling, work orders, and asset management to minimize downtime and boost efficiency.\nThe post 10 Tips to Maximize Efficiency in Business Central with Maintenance Manager appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
@@ -20435,6 +20485,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/welsh-azure-user-group-february-2025-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG February 2025 meet up and we had yet another two amazing speakers join us. We were joined by another fantastic community speaker and Microsoft Strategic CTO Tim Hinchey on to discuss using Azure AI Foundry for experimentation. Unfortunately Tayyeba couldn’t join us tonight but […]\nThe post Welsh Azure User Group February 2025 Meet Up! appeared first on 365 Community Online.",
+          "link": "https://365community.online/welsh-azure-user-group-february-2025-meet-up",
+          "publishedOn": "2025-02-19T20:03:00.000Z",
+          "wordCount": 2100,
+          "title": "Welsh Azure User Group February 2025 Meet Up!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Welsh-Azure-User-Group-February-2025-Meet-Up.jpg"
+        },
+        {
+          "id": "https://365community.online/how-to-show-notes-annotations-on-a-model-driven-app-dashboard",
+          "author": "Richard Wilson",
+          "description": "Model-driven apps in Power Apps allow users to create dashboards that display key data from different entities. By default, dashboards do not provide an easy way to display Notes (Annotations). However, using a combination of dashboard customization and XrmToolBox, you can modify a dashboard to include a list of Notes. This article provides a step-by-step […]\nThe post How to Show Notes (Annotations) on a Model-Driven App Dashboard appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-show-notes-annotations-on-a-model-driven-app-dashboard",
+          "publishedOn": "2025-02-19T17:18:00.000Z",
+          "wordCount": 2452,
+          "title": "How to Show Notes (Annotations) on a Model-Driven App Dashboard",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/1739989327_How-to-Show-Notes-Annotations-on-a-Model-Driven-App-Dashboard.png"
+        },
+        {
+          "id": "https://365community.online/using-web-templates-as-custom-components-in-power-pages-a-classification-banner-example",
+          "author": "Richard Wilson",
+          "description": "Introduction Web templates in Power Pages offer a powerful way to create reusable components that can be used across multiple pages, headers, and footers. This approach simplifies development and maintenance by allowing common elements, such as banners or data tables, to be managed centrally. In this article, we will explore how to use web templates […]\nThe post Using Web Templates as Custom Components in Power Pages: A Classification Banner Example appeared first on 365 Community Online.",
+          "link": "https://365community.online/using-web-templates-as-custom-components-in-power-pages-a-classification-banner-example",
+          "publishedOn": "2025-02-19T15:34:00.000Z",
+          "wordCount": 2877,
+          "title": "Using Web Templates as Custom Components in Power Pages: A Classification Banner Example",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/1740002982_Using-Web-Templates-as-Custom-Components-in-Power-Pages-A.png"
+        },
+        {
+          "id": "https://365community.online/how-to-personalize-messages-and-make-journey-decisions-based-on-web-interactions",
+          "author": "Malla Reddy Gurram",
+          "description": "Hello Everyone, Today i am going to share my thoughts on how to personalize messages and make journey decisions based on web interactions. Let’s get’s started. Let’s see an example of how you can personalize messages and make journey decisions based on web interactions in a customer engagement scenario using Microsoft Dynamics 365 Customer Insights […]\nThe post {How to} Personalize messages and make journey decisions based on web interactions appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-personalize-messages-and-make-journey-decisions-based-on-web-interactions",
+          "publishedOn": "2025-02-19T15:30:00.000Z",
+          "wordCount": 2449,
+          "title": "{How to} Personalize messages and make journey decisions based on web interactions",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/How20to20enable20optimizing20ranking20in20Dynamics2036520Sales20for20insight20cards2093.png"
+        },
+        {
+          "id": "https://365community.online/sharing-and-opening-business-central-in-teams",
+          "author": "Pete Murray",
+          "description": "This tip is all about using Business Central and Teams together to improve your workflow. How to share a record from Business Central to people or groups in Teams How to add Business Central to a Team withing Teams AMS Club – Business Central You can browse each lesson here, or follow the course in […]\nThe post Sharing and Opening Business Central In Teams appeared first on 365 Community Online.",
+          "link": "https://365community.online/sharing-and-opening-business-central-in-teams",
+          "publishedOn": "2025-02-19T11:51:00.000Z",
+          "wordCount": 2221,
+          "title": "Sharing and Opening Business Central In Teams",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/github-copilot-y-al-configuracion-y-requisitos-para-el-desarrollo-en-business-central",
+          "author": "jarmesto",
+          "description": "GitHub Copilot ha cambiado la forma en que los desarrolladores escriben código, proporcionando sugerencias inteligentes en tiempo real. Para los desarrolladores de Business Central, integrar Copilot con AL puede acelerar el desarrollo de extensiones y mejorar la eficiencia en la escritura de código. En este artículo, exploramos los requisitos y opciones de configuración para usar […]\nThe post GitHub Copilot y AL: Configuración y Requisitos para el Desarrollo en Business Central appeared first on 365 Community Online.",
+          "link": "https://365community.online/github-copilot-y-al-configuracion-y-requisitos-para-el-desarrollo-en-business-central",
+          "publishedOn": "2025-02-19T11:30:00.000Z",
+          "wordCount": 2667,
+          "title": "GitHub Copilot y AL: Configuración y Requisitos para el Desarrollo en Business Central",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/GitHub-Copilot-y-AL-Configuracion-y-Requisitos-para-el-Desarrollo.png"
+        },
+        {
+          "id": "https://365community.online/whats-new-in-2025-microsoft-dynamics-365-crm-kanban-board-release",
+          "author": "Inogic",
+          "description": "What If You Could Manage Your Work in a Way That’s Simple, Agile, and 100% Focused on What Matters Most? Take a second to think about your current CRM workflow. How often do you find yourself scrolling through endless records and data, trying to track your sales leads, projects, or customer interactions? Frustrating, right? Now, […]\nThe post What’s new in 2025 Microsoft Dynamics 365 CRM Kanban Board release! appeared first on 365 Community Online.",
+          "link": "https://365community.online/whats-new-in-2025-microsoft-dynamics-365-crm-kanban-board-release",
+          "publishedOn": "2025-02-19T10:29:00.000Z",
+          "wordCount": 2988,
+          "title": "What’s new in 2025 Microsoft Dynamics 365 CRM Kanban Board release!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Dynamics-365-CRM-Kanban-Board-new-updates.png"
+        },
+        {
+          "id": "https://365community.online/notification-for-failed-flow-runs-in-power-automate",
+          "author": "Megan V. Walker",
+          "description": "If you create flows for your organisation, or for clients on projects, you’ve no doubt improved your skills over the years. This might mean you started including steps in the flow to notify you of any failures. Or you might have just come in to a project with tens or even hundreds of flows and […]\nThe post Notification For Failed Flow Runs In Power Automate appeared first on 365 Community Online.",
+          "link": "https://365community.online/notification-for-failed-flow-runs-in-power-automate",
+          "publishedOn": "2025-02-19T08:30:00.000Z",
+          "wordCount": 3714,
+          "title": "Notification For Failed Flow Runs In Power Automate",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/Notification-For-Failed-Flow-Runs-In-Power-Automate.jpg"
+        },
         {
           "id": "https://365community.online/display-method-in-onhand-form-d365fo",
           "author": "Anitha Santosh",
