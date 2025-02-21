@@ -140,6 +140,16 @@
       "siteUrl": "https://kishoredynamics11.blogspot.com/",
       "articles": [
         {
+          "id": "https://kishoredynamics11.blogspot.com/2025/02/exporting-file-from-d365-using-deque.html",
+          "author": null,
+          "description": "Exporting a File from D365 Using Deque and Uploading It to Blob via Logic Apps\n\n\n\n\nFollow the below steps:\n1. Create an export project in the Data Management(DMF).\n\n\n\n2. Under Manage Recurring Data Jobs, create a new record and add the application ID.\n3. Set the processing recurrence and enable the corresponding boolean.\n4. Copy the value from the ID field.\n\n\n\n5. Create an HTTP request, paste the URL provided below, and use the GET method.\n\n     {{resource}}/api/connector/dequeue/{activity ID}?company=USMF\n\n\n\n6. Instead of generating a token, assign the values in the Authentication tab.\n\n\n\n7. Retrieve the Download Location from the previous step and assign it to a new HTTP trigger to get the file.\n\n       body('Get_the_package_Download_URL')?['DownloadLocation']\n\n\n\n8. Use the Upload to Blob action and provide the container name, blob name, and content.\n\n\n\n\n\n\n\nOutput:\n\n\n\n\n1. The Get Package Download URL step will return the JSON response, from which we need to capture the DownloadLocation.\n\n\n\n2. The Download Package step will return an octet-stream.\n\n\n\n3. Since the response is a ZIP file, it is not possible to read the data directly.\n4. The ZIP file will be stored in Blob Storage.\n\n\n\n\n\n\n5. Below is the CSV file exported from D365.\n\n\n\n\n\nD365:\n\n\n\n\n\n\n\n\n\n\n\nOnce file is fetched from D365 status will change in manage messages.\n\n\n\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2025/02/exporting-file-from-d365-using-deque.html",
+          "publishedOn": "2025-02-20T07:18:00.000Z",
+          "wordCount": 3020,
+          "title": "Exporting a File from D365 Using Deque and Uploading It to Blob via Logic Apps",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSC_zHJbnOENf_K2Ns6fe7npL-WIyuk0mVqcsjo0o3qnI6skH9Jfy9WlVjPxEZ_mnRj0hQqkfirv3keDn8e_oYENwK85E2wDmYEJetTT-BQZ3tjYV4L95ZtJpZXIWfSPyNeEYi9vM81SLEciqdmtwgmWw9AGf_EUk3FqHXzIHpvMOsPC7TzDnVlP5eM0/w1200-h630-p-k-no-nu/image_2025_01_03T11_24_08_972Z.png"
+        },
+        {
           "id": "https://kishoredynamics11.blogspot.com/2025/02/push-multiple-records-in-single-http.html",
           "author": null,
           "description": "Pushing Multiple Records in a Single Request Using Batch API in Logic Apps:\n        We can perform the multiple operations in single request by using Batch API. To know more Click Here\nPlease follow the below steps:\n\nI have added the HTTP request.\nI configured the following URL and headers.\nContent-Type: multipart/mixed; boundary=batch_CR\n\n\n\n\nI used the batch number as batch_CR and the change set number as changeset_EE.\n\n\n\n\n\n\n\n\nI am performing three operations:\n\nCreating a record in the vendgroup table.\nUpdating a record in the custgroup table.\nDeleting a record in the vendgroup table\n\n--batch_CR\nContent-Type: multipart/mixed; boundary=changeset_EE\n\n--changeset_EE\nContent-Type: application/http\nContent-Transfer-Encoding: binary\nContent-ID: 1\n\nPOST VendorGroups?cross-company=true HTTP/1.1\nC…",
@@ -1041,6 +1051,16 @@
           "imageUrl": "https://poojithjain.files.wordpress.com/2024/04/image-1.png"
         },
         {
+          "id": "http://azureintegrations.com/?p=1594",
+          "author": "Poojith Jain",
+          "description": "Deploying Azure Logic Apps Azure Logic Apps provide a powerful way to automate workflows, integrate services, and orchestrate business processes. But where and how you deploy them can make a significant impact on performance, security, and cost. Should you go with Azure’s standard Platform as a Service (PaaS) deployment, or should you leverage an AppContinue reading \"Deploying Azure Logic Apps: PaaS vs. App Service Environment (ASE)\"",
+          "link": "https://azureintegrations.com/2024/01/14/deploying-azure-logic-apps-paas-vs-app-service-environment-ase/",
+          "publishedOn": "2024-01-14T17:29:00.000Z",
+          "wordCount": 3986,
+          "title": "Deploying Azure Logic Apps: PaaS vs. App Service Environment (ASE)",
+          "imageUrl": "https://azureintegrations.com/wp-content/uploads/2019/10/cropped-pic.png?w=200"
+        },
+        {
           "id": "http://azureintegrations.com/?p=1576",
           "author": "Poojith Jain",
           "description": "In modern CI/CD workflows, it’s common to have interconnected pipelines where the successful completion of one pipeline triggers the execution of another. Azure DevOps makes this seamless with YAML pipelines. This guide explains how to set up automatic pipeline triggering in Azure DevOps using YAML.",
@@ -1656,6 +1676,96 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=124498",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nAre you eager to attend DynamicsCon 2025 but concerned about the costs? ERP Software Blog is thrilled to announce an exclusive giveaway, offering two full-access passes to this premier event, […]\nThe post Two Chances to Win a Pass to DynamicsCon 2025 appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/02/two-chances-to-win-a-pass-to-dynamicscon-2025/",
+          "publishedOn": "2025-02-20T22:58:39.000Z",
+          "wordCount": 7526,
+          "title": "Two Chances to Win a Pass to DynamicsCon 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DynamicsCon-Giveaway-Banners_276-x-398.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124445",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "xxx\nThere are many Cloud (and still On-Premises) Business Management ERP Software Systems on the market today. How to choose the best ERP fit for your business is not easy.  Modern […]\nThe post How Microsoft Business Central ERP can Increase Revenue appeared first on ERP Software Blog.\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central",
+          "link": "https://erpsoftwareblog.com/2025/02/how-microsoft-business-central-erp-can-increase-revenue/",
+          "publishedOn": "2025-02-20T20:54:49.000Z",
+          "wordCount": 8048,
+          "title": "How Microsoft Business Central ERP can Increase Revenue",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/iStock-539953664.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124480",
+          "author": "360 Visibility",
+          "description": "xxx\nRunning a non-profit means juggling funding, reporting, compliance, and making sure every dollar is put to good use. But if your accounting system is outdated, it makes everything much harder […]\nThe post Why Non-Profits Are Switching to Dynamics 365 Business Central appeared first on ERP Software Blog.\nMicrosoft Offers Grants to Help Nonprofits\nWhy Microsoft Dynamics GP is the Right ERP Choice for Not-for-Profit Organizations Right Now\nWorld Vision Selects Dynamics ERP for eProcurement and Global Supply Chain Management",
+          "link": "https://erpsoftwareblog.com/2025/02/why-non-profits-are-switching-to-dynamics-365-business-central/",
+          "publishedOn": "2025-02-20T19:16:22.000Z",
+          "wordCount": 7715,
+          "title": "Why Non-Profits Are Switching to Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/26875.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124468",
+          "author": "Cavallo",
+          "description": "xxx\nCavallo today announced significant upgrades to its SalesPad Inventory Manager to improve warehouse operations by optimizing efficiency, accuracy, and scalability. The innovation highlights Cavallo's commitment to supporting new and existing […]\nThe post Cavallo Unveils New SalesPad Inventory Manager Capabilities for Improved Warehouse and Distribution Operational Performance appeared first on ERP Software Blog.\nThe Perfect Storm Causing Global Supply Chain Disruption\nMicrosoft D365 Business Central Tips & Tricks\n6 Supply Chain Purchasing Alert Tools Provided by StockIQ",
+          "link": "https://erpsoftwareblog.com/2025/02/cavallo-unveils-new-salespad-inventory-manager-capabilities-for-improved-warehouse-and-distribution-operational-performance/",
+          "publishedOn": "2025-02-20T15:31:34.000Z",
+          "wordCount": 7504,
+          "title": "Cavallo Unveils New SalesPad Inventory Manager Capabilities for Improved Warehouse and Distribution Operational Performance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123895",
+          "author": "OMZY",
+          "description": "xxx\nWhen missing functionality in Microsoft Dynamics 365 Business Central, the decision to develop the functionality yourself or to look for an existing application on the AppSource marketplace is crucial. This […]\nThe post Choosing Between Developing Functionality Yourself or Using an App in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nGet More in the Cloud with Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central: Essentials vs. Premium\nTop Takeaways from Microsoft Inspire 2020 (Global Partner Conference)",
+          "link": "https://erpsoftwareblog.com/2025/02/choosing-between-developing-functionality-yourself-or-using-an-app-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-02-20T15:00:52.000Z",
+          "wordCount": 8305,
+          "title": "Choosing Between Developing Functionality Yourself or Using an App in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/erpswblog-dev-vs-app-blog.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124463",
+          "author": "MetaViewer from Metafile",
+          "description": "xxx\nIn the dynamic landscape of manufacturing, CFOs face the challenge of managing intricate supply chains, fluctuating raw material costs, and ongoing operational inefficiencies. Achieving financial visibility isn’t merely a priority; […]\nThe post Unlocking Real-Time Financial Insights: How AP Automation Empowers Manufacturing CFOs appeared first on ERP Software Blog.\nEnhancing Manufacturing ERP Systems with AP Automation\nHow AP Invoice Automation Drives Cost Savings for Dynamics GP Customers\nDoes It Make Sense To Automate Accounts Payable?",
+          "link": "https://erpsoftwareblog.com/2025/02/unlocking-real-time-financial-insights-how-ap-automation-empowers-manufacturing-cfos/",
+          "publishedOn": "2025-02-20T13:30:31.000Z",
+          "wordCount": 7473,
+          "title": "Unlocking Real-Time Financial Insights: How AP Automation Empowers Manufacturing CFOs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/image-8-1-e1740057967702.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124405",
+          "author": "Insight Works",
+          "description": "xxx\nMaintenance Manager seamlessly integrates with Microsoft Dynamics 365 Business Central, providing businesses with advanced tools for work order management, preventive maintenance scheduling, and asset tracking to improve efficiency and minimize downtime.\nThe post Optimize Maintenance Operations in Business Central with Maintenance Manager appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nHow to Choose a Mobile Computer to use with Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2025/02/optimize-maintenance-operations-in-business-central-with-maintenance-manager/",
+          "publishedOn": "2025-02-20T13:04:33.000Z",
+          "wordCount": 7850,
+          "title": "Optimize Maintenance Operations in Business Central with Maintenance Manager",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Maintenance-Manager-1200-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124451",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn today’s world, Technology can play a key role in enhancing humanitarian efforts. If you're facing challenges in managing your non-profit organization's operations, Dynamics 365 offers a powerful solution. With […]\nThe post Non-Profit Success Stories: How Organizations are Leveraging Dynamics 365 appeared first on ERP Software Blog.\nMicrosoft Dynamics 365: Ideal for 'vertical' markets.\nTech Insider Update Features Latest ERP Enhancements to Microsoft Dynamics 365 and Full Microsoft Suite\nUsing Dynamics 365 Marketing to Create a Personalized Event",
+          "link": "https://erpsoftwareblog.com/2025/02/how-non-profits-industries-leverage-dynamics-365/",
+          "publishedOn": "2025-02-20T08:16:22.000Z",
+          "wordCount": 8369,
+          "title": "Non-Profit Success Stories: How Organizations are Leveraging Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124453",
+          "author": "Benito Ramirez, BGR Softworks LLC",
+          "description": "xxx\nDiscovering the Magic of Dynamics 365 Business Central How the ERP Software Blog and a Thriving Community Led Me to a Fulfilling Career  While the ERP Software Blog is a […]\nThe post Pursuing a Career in Dynamics ERP appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/02/pursuing-a-career-in-dynamics-erp-consulting/",
+          "publishedOn": "2025-02-20T07:41:42.000Z",
+          "wordCount": 8061,
+          "title": "Pursuing a Career in Dynamics ERP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=124353",
           "author": "Erin Bonde, MV2 MES",
@@ -53131,18 +53241,7 @@
       "title": "Birger Larsen – Dynamics 365 for operations blog on WMS",
       "feedUrl": "https://axscm.wordpress.com/feed/",
       "siteUrl": "https://axscm.wordpress.com",
-      "articles": [
-        {
-          "id": "http://axscm.wordpress.com/?p=2014",
-          "author": "birgerlarsen",
-          "description": "A warehouse workspace in Dynamics 365 for operations (D365FO) is a cost-effective tool, that can increase efficiency and productivity in the warehouse. Warehouse workspaces can provide excellent overview on daily operations in the warehouse and alert supervisors when intervention is required. This is the second of two post on warehouse workspaces. In the first post&ellipsis;Read the full post »",
-          "link": "https://axscm.wordpress.com/2023/02/22/warehouse-workspaces-a-no-code-approach-to-increase-warehouse-efficiency/",
-          "publishedOn": "2023-02-22T08:01:57.000Z",
-          "wordCount": 6312,
-          "title": "Warehouse workspaces – a no-code approach to increase warehouse efficiency",
-          "imageUrl": "https://axscm.files.wordpress.com/2023/01/work-blocked-by-replenishment-create-join-1-1.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rakesh Darge's Blog",
@@ -53335,16 +53434,6 @@
           "wordCount": 4002,
           "title": "Finance and operations integrations through one(Dataverse) connector  using business events and Data events.",
           "imageUrl": "https://elearnd365.files.wordpress.com/2023/02/image-9.png"
-        },
-        {
-          "id": "http://elearnd365.com/?p=623",
-          "author": "Sukrut Parab",
-          "description": "Microsoft’s Power platform has rich functionalities which can be used while working with Finance and operations apps. To unlock those features for Finance and operations customer Microsoft has provided power platform integration through LCS which gives us ability to use following features The above features provide a way of convergence of F&O with dataverse platform […]",
-          "link": "https://elearnd365.com/2023/02/21/using-power-platform-integration-capabilities-in-finance-and-operations-integrations/",
-          "publishedOn": "2023-02-22T05:30:39.000Z",
-          "wordCount": 3979,
-          "title": "Using power platform integration capabilities in Finance and operations integrations",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2023/02/image-2.png"
         }
       ]
     },
@@ -54788,18 +54877,7 @@
       "title": "D365FandO(m)",
       "feedUrl": "https://d365fandom.com/feeds/posts/default",
       "siteUrl": "https://www.d365fandom.com/",
-      "articles": [
-        {
-          "id": "https://www.d365fandom.com/2023/02/subscription-billing-renewals.html",
-          "author": null,
-          "description": "One thing I appreciate about subscriptions is the automatic renewal process. It's nice to sign up for a subscription and not have to worry about manually renewing every time the contract period is up. This brings in automatic revenue for the company and keeps the hassle of manually renewing out of everyone's hands. \nFortunately, the process for setting up renewals in Subscription billing in Microsoft Dynamics 365 for Finance and Operations is fairly simple to execute as well. Let's dive in! \n\n\nRenewing Subscriptions\nThe process to renew a subscription set up in D365FO Subscription billing is done on the Billing schedule itself. When setting up your customer's billing schedule, there is a button to Renew automatically on the Billing schedule header. If this subscription should be renewed automatically, select this toggle and specify how many lines to add per renewal. \n\n\nSet the toggle for Renew automatically and specify how many lines to add per renewal\n\n\nIn my example above, I have a short billing cycle set for one quarter. I set the toggle for Renew automatically to Yes and Lines to add per renewal to 1. \nOnce I invoiced the period, a new renewal line gets added to the Renewal section in the Line details for the line being renewed. The line shows who renewed it, the date it was renewed, and that it is, in fact, a renewal. \n\n\nSee the renewals in Line details\n\n\nIf I navigate to View billing detail on the line, there is now a new billing line to be invoiced. This is the first automatic renewal line! \n\n\nBilling details now show a new line to be invoiced\n\n\nAutomatic renewals allow users to set up a billing schedule and continually renew the subscription until the customer decides to terminate it.",
-          "link": "https://www.d365fandom.com/2023/02/subscription-billing-renewals.html",
-          "publishedOn": "2023-02-21T19:04:00.000Z",
-          "wordCount": 2054,
-          "title": "Subscription Billing - Renewals",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS15Mf-OkurMnZWlXkTXiV7RpU28EUcyDO3lAoypyW4TeoDR0DSEYK3L8x3_AyW5ToxKQRIAQoO6pzcBJMJxN97BLBz33XW9xMGuREHrPe-fLbAAwRdRlExc0F4q_4AR_S09xVZFz6bRJ07u-InVmlIiBxdwBLZp1ThoJPUonFjRBn2U1kP3TKduJz/w1200-h630-p-k-no-nu/2023-02-21_13-34-35.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ievgen's ax blog",
