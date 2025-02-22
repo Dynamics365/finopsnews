@@ -1658,16 +1658,6 @@
           "wordCount": 1517,
           "title": "Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services",
           "imageUrl": "https://impulztech.com/wp-content/uploads/2023/04/imppp-300x200.jpg"
-        },
-        {
-          "id": "https://impulztech.com/?p=3073",
-          "author": "Ahmad Hussain",
-          "description": "Postman, has been in use by the web development community for more than a decade now. When it comes to the Microsoft Dynamics community, more specifically, Microsoft Dynamics Finance and Supply Chain consultants, it can be a comparatively new tool. The majority of Microsoft Dynamics professionals (including myself) have a background in Microsoft Dynamics […]\nThe post Postman Best Practices for Microsoft Dynamics 365 Finance and Supply Chain Management appeared first on Impulz Technologies LLC.",
-          "link": "https://impulztech.com/postman-best-practices-for-microsoft-dynamics-365-finance-and-supply-chain-management/",
-          "publishedOn": "2023-02-23T07:00:43.000Z",
-          "wordCount": 1615,
-          "title": "Postman Best Practices for Microsoft Dynamics 365 Finance and Supply Chain Management",
-          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/02/Postman-D365-300x120.jpeg"
         }
       ]
     },
@@ -1676,6 +1666,26 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=124506",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nIf you’re a warehouse manager, you already know the stakes: rising operational costs, supply chain disruptions, and sky-high customer expectations. Yet, many warehouses still rely on outdated systems that struggle […]\nThe post How Dynamics 365 SCM Solves Logistics Challenges appeared first on ERP Software Blog.\nSolving Supply Chain Management Problems with Business Central\nMicrosoft Dynamics 365 Business Central Supply Chain Management Functionality\nSunrise Technologies’ Sunrise 365® Supply Chain for Microsoft Dynamics 365 Is TEC Certified for ERP for Fashion Industries",
+          "link": "https://erpsoftwareblog.com/2025/02/dynamics-365-scm-for-logistics/",
+          "publishedOn": "2025-02-21T22:26:06.000Z",
+          "wordCount": 8477,
+          "title": "How Dynamics 365 SCM Solves Logistics Challenges",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2016/04/245290_5F00_header_5F00_manufacture_5F00_679.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124190",
+          "author": "enVista",
+          "description": "xxx\nAs Microsoft Dynamics Great Plains (GP) users know, Microsoft support for that ERP solution is being phased out in favor of Microsoft's modern cloud-based ERP offerings, such as Dynamics 365 […]\nThe post Dynamics GP to 365 BC Migration Checklist appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/02/dynamics-gp-to-365-bc-migration-checklist/",
+          "publishedOn": "2025-02-21T16:56:38.000Z",
+          "wordCount": 7698,
+          "title": "Dynamics GP to 365 BC Migration Checklist",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-02-Dynamics-GP-to-365-BC-Migration-A-Checklist-for-Success_1200-x-628.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=124498",
           "author": "ERP Software Blog Writer",
@@ -45394,6 +45404,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6968",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/02/21/microsoft-bizapps-deutschland-podcast-45/",
+          "publishedOn": "2025-02-21T05:51:20.000Z",
+          "wordCount": 3536,
+          "title": "Microsoft BizApps Deutschland Podcast #45",
+          "enclosure": {
+            "url": "https://dynamicsax-fico.com/wp-content/uploads/2024/12/2024-11-05_albinv2.mp3",
+            "length": "29309152",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/12/collagev2.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=7243",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -47541,6 +47566,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=3770",
+          "author": "AnithaEswaran",
+          "description": "A table structure always ensures that information is presented in a clear and easily digestible format, making it quick for customers to understand when included in an email. Tables help organize data efficiently, improving readability and professionalism. By utilizing the … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2025/02/21/tabular-format-html-table-in-power-automate/",
+          "publishedOn": "2025-02-21T18:54:09.000Z",
+          "wordCount": 3549,
+          "title": "Tabular format (HTML table) in Power Automate",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2025/02/image-8.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=3762",
           "author": "AnithaEswaran",
           "description": "Adding a display method is generally straightforward, but implementing it on the OnHand form can be challenging since the buffers consistently return empty values. For example, the following code snippet always results in an empty _inventSum buffer: Recently I came … Continue reading →",
@@ -48875,16 +48910,6 @@
           "wordCount": 3620,
           "title": "D365 eCommerce – My personal copy-paste blog",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/03/033023_1654_d365ecommer1.jpg"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4443",
-          "author": "Kurt Hatlevik",
-          "description": "As we know, the Dynamics 365 portfolio of apps and functionally is extremely rich and have vertical features for most industries. We also know that driving the Microsoft R&D with a tight coordination between the apps is difficult, and I also understand Microsoft want to provide new highly requested features and innovation quickly to the … Continue reading D365 Understanding limitations",
-          "link": "https://kurthatlevik.com/2023/02/22/d365-understanding-limitations/",
-          "publishedOn": "2023-02-22T21:33:52.000Z",
-          "wordCount": 4001,
-          "title": "D365 Understanding limitations",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/02/022223_2133_d365underst1.png"
         }
       ]
     },
@@ -52202,6 +52227,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=30261",
+          "author": "Marjeta Dimnik",
+          "description": "Want to learn more about Docentric and explore if it's the right place for you? Let us introduce ourselves! In this blog, we take you behind the scenes at Docentric - who we are, what we do, and how we’re making a positive impact for […]\nThe post Docentric: Exploring Our Business, Core Values, and Positive Impact on the Community appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/docentric-exploring-our-business-core-values-and-positive-impact-on-the-community/",
+          "publishedOn": "2025-02-15T15:01:57.000Z",
+          "wordCount": 12615,
+          "title": "Docentric: Exploring Our Business, Core Values, and Positive Impact on the Community",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2025/01/D365Blog_DocentricExploringOurBuisnessCoreValuesAndPositiveImpactOnTheCommunity_Image01-scaled.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=30227",
           "author": "Miha Vuk",
           "description": "Microsoft Dynamics 365 Finance and Operations (D365FO) uses an internal Azure Storage account as the default storage for various standard functionalities like: Attachments Document templates File download Printing via DRA etc. It can also be used from custom code wherever it needs some file storage […]\nThe post How to Access D365FO Azure Storage When EnableSharingOfValidStorageConnectionString Flight is Disabled appeared first on Docentric AX.",
@@ -53665,6 +53700,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-visualize-with-copilot-preview/",
+          "author": "Srihari Srinivasa",
+          "description": "Every business decision starts with insights backed by data. However, trying to spot trends while staring at rows and columns of data isn’t exactly the most efficient way to get insights. Manually exporting data, creating charts and adjusting filters can be time-consuming and frustrating, creating spreadsheet fatigue. What if you could skip all this busy work and get straight to insights? We’re introducing Visualize with Copilot, a new capability that instantly transforms your business data into a meaningful interactive chart. Whether you’re tracking sales or driving customer service excellence or managing inventory, Visualize with Copilot can help you see the bigger picture instantly.\nThe post Introducing Visualize with Copilot (preview) appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-visualize-with-copilot-preview/",
+          "publishedOn": "2025-02-20T14:00:00.000Z",
+          "wordCount": 2890,
+          "title": "Introducing Visualize with Copilot (preview)",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2025/02/Visualize-Featured-Image-2.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-the-data-exploration-agent-to-quickly-find-records-using-natural-language-in-model-driven-apps/",
+          "author": "Claudio Romano",
+          "description": "Discover the new Data Exploration Agent in Model-driven Apps! Leverage Copilot and natural language to effortlessly find records using complex filters. Shift your focus from manual filtering to analyzing data and gaining valuable insights. Available now via manual opt-in and rolling out through the Monthly Channel. Enhance your daily workflows with this powerful tool!\nThe post Introducing the data exploration agent to quickly find records using natural language in model-driven apps! appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-the-data-exploration-agent-to-quickly-find-records-using-natural-language-in-model-driven-apps/",
+          "publishedOn": "2025-02-19T00:42:46.000Z",
+          "wordCount": 2708,
+          "title": "Introducing the data exploration agent to quickly find records using natural language in model-driven apps!",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2025/01/Grid-featured.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-january-2025-feature-update/",
           "author": "Clay Wesener",
