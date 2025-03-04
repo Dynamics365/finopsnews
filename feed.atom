@@ -2,10 +2,266 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-03-03T01:39:50.079Z</updated>
+    <updated>2025-03-04T01:38:37.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winning the AP Game with Mekorma Embedded Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=124755</id>
+        <link href="https://erpsoftwareblog.com/2025/03/winning-the-ap-game-with-mekorma-embedded-solutions/"/>
+        <updated>2025-03-03T21:31:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Professional sports organizations face unique challenges when it comes to managing accounts payable (AP). With the high volume of transactions, multiple entities, and the complexity of managing vendor payments across […]
+The post Winning the AP Game with Mekorma Embedded Solutions appeared first on ERP Software Blog.
+Mekorma Payment Hub v0.9: New Features for Business Central
+Choosing the Right AP Automation Solution: Checklist
+Centralized AP: Streamline Accounts Payable Easily]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating the Supply Chain: The Path to Greater Efficiency and Fewer Errors]]></title>
+        <id>https://erpsoftwareblog.com/?p=124753</id>
+        <link href="https://erpsoftwareblog.com/2025/03/automating-the-supply-chain-the-path-to-greater-efficiency-and-fewer-errors/"/>
+        <updated>2025-03-03T20:39:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s business environment, supply chain automation is no longer a luxury; it’s a necessity. Companies that automate their supply chain operations experience reduced manual effort, minimized errors, and significant […]
+The post Automating the Supply Chain: The Path to Greater Efficiency and Fewer Errors appeared first on ERP Software Blog.
+7 Common Problems to Avoid in Demand Forecasting
+6 Strategies to Cut Costs Across Your Supply Chain
+6 Tips To Cut Your Supply Chain Cost]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Date Formulas in D365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=124749</id>
+        <link href="https://erpsoftwareblog.com/2025/03/mastering-date-formulas-in-d365-business-central/"/>
+        <updated>2025-03-03T20:06:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  In this blog post - we will be diving into the fascinating world of date formulas in D365 Business Central. Whether you're dealing with payment terms or recurring documents, […]
+The post Mastering Date Formulas in D365 Business Central appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Microsoft Dynamics 365 Business Central: Essentials vs. Premium
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge]]></summary>
+        <author>
+            <name>Ben Cole - President @ ERP Connect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Trigger a Plugin on a Calculated Column Change in Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/how-to-trigger-a-plugin-on-a-calculated-column-change-in-dataverse-dynamics-365</id>
+        <link href="https://365community.online/how-to-trigger-a-plugin-on-a-calculated-column-change-in-dataverse-dynamics-365"/>
+        <updated>2025-03-03T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In Microsoft Dataverse, calculated columns are a powerful way to derive values dynamically without the need for manual updates. However, one challenge is that plugins do not trigger directly on calculated column changes since these values are computed at runtime and not stored in the database. Calculated field considerations Since calculated columns use/depend on other […]
+The post How to Trigger a Plugin on a Calculated Column Change in Dataverse / Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Forecasting and Planning in Business Central: A Guide for Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=124746</id>
+        <link href="https://erpsoftwareblog.com/2025/03/mastering-forecasting-and-planning-in-business-central-a-guide-for-manufacturers/"/>
+        <updated>2025-03-03T19:15:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Accurate demand forecasting and inventory planning are critical for manufacturing success. Without proper planning, businesses may overstock materials, leading to cash flow issues, or run out of essential components, delaying production and […]
+The post Mastering Forecasting and Planning in Business Central: A Guide for Manufacturers appeared first on ERP Software Blog.
+Mastering Manufacturing with Business Central: Introduction to Manufacturing in Business Central
+Mastering Manufacturing with Business Central: Setting the Stage – Master Data in Business Central
+Mastering Manufacturing with Business Central: Navigating Production Orders in Business Central]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[{Do you know} Allow individuals to reenter a one-time dynamic segment journey in Dynamics 365 Customer Insights]]></title>
+        <id>https://365community.online/do-you-know-allow-individuals-to-reenter-a-one-time-dynamic-segment-journey-in-dynamics-365-customer-insights</id>
+        <link href="https://365community.online/do-you-know-allow-individuals-to-reenter-a-one-time-dynamic-segment-journey-in-dynamics-365-customer-insights"/>
+        <updated>2025-03-03T17:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone, Today I am going to share my thoughts on allowing individuals to reenter a one-time dynamic segment journey in Dynamics 365 Customer Insights. Let’s get’s started. In Dynamics 365 Customer Insights – Journeys, a one-time dynamic segment journey typically processes contacts only once. However, you can configure it to allow individuals to reenter […]
+The post {Do you know} Allow individuals to reenter a one-time dynamic segment journey in Dynamics 365 Customer Insights appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Malla Reddy Gurram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What you need to know when building Autonomous Agent in Copilot Studio]]></title>
+        <id>https://365community.online/what-you-need-to-know-when-building-autonomous-agent-in-copilot-studio</id>
+        <link href="https://365community.online/what-you-need-to-know-when-building-autonomous-agent-in-copilot-studio"/>
+        <updated>2025-03-03T17:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, Intro Today, I want to share my findings regarding the creation of an autonomous agent in Copilot Studio (CS). What I missed and spent too much time figuring out, the pre-requisites and so on. As you know, we can build agents in Copilot Studio using Topics, Generative Answers, Orchestration, Generative Actions. Those capabilities […]
+The post What you need to know when building Autonomous Agent in Copilot Studio appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Clement Olivier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[brainstorming 🥱 – YouTube]]></title>
+        <id>https://365community.online/brainstorming-%f0%9f%a5%b1-youtube</id>
+        <link href="https://365community.online/brainstorming-%f0%9f%a5%b1-youtube"/>
+        <updated>2025-03-03T16:03:30.000Z</updated>
+        <summary type="html"><![CDATA[brainstorming 🥱 source
+The post brainstorming 🥱 – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-powered sales journeys: Personalization at scale for exceptional customer experiences]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/03/03/ai-powered-sales-journeys-personalization-at-scale-for-exceptional-customer-experiences/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/03/03/ai-powered-sales-journeys-personalization-at-scale-for-exceptional-customer-experiences/"/>
+        <updated>2025-03-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Personalizing customer journeys requires a more proactive approach assisted with AI. 
+The post AI-powered sales journeys: Personalization at scale for exceptional customer experiences appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Hunt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Finance ERPs: SLA and Data Security]]></title>
+        <id>https://erpsoftwareblog.com/?p=123691</id>
+        <link href="https://erpsoftwareblog.com/2025/03/microsoft-finance-erps-sla-and-data-security/"/>
+        <updated>2025-03-03T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You rely on robust software like Microsoft's Finance & Operations (F&O) or Finance & Supply Chain Management (F&SCM) to manage your business. Sure, Microsoft makes promises about its products, to […]
+The post Microsoft Finance ERPs: SLA and Data Security appeared first on ERP Software Blog.
+Upgrading from Dynamics AX to Dynamics 365 Finance and Supply Chain Management – Is It Worth It?
+What Does Moving to the Cloud Mean for Dynamics AX Users?
+Breaking Down the Cost of Dynamics AX Compared to Dynamics 365 Finance and Operations]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All roads lead to PPAC: Unified Experience for D365 FO and PP.]]></title>
+        <id>https://365community.online/all-roads-lead-to-ppac-unified-experience-for-d365-fo-and-pp</id>
+        <link href="https://365community.online/all-roads-lead-to-ppac-unified-experience-for-d365-fo-and-pp"/>
+        <updated>2025-03-03T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[It's not a surprise that tech is changing, and this applies to all the big providers. While some changes are scary, most are indeed mandatory. So, let's jump into one of the changes that have been introduced lately and speaks to all of us – well, maybe not all – but a lot of us. […]
+The post All roads lead to PPAC: Unified Experience for D365 FO and PP. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Abdul Kareem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Power BI Alerts Using Microsoft Power Automate]]></title>
+        <id>https://erpsoftwareblog.com/?p=120227</id>
+        <link href="https://erpsoftwareblog.com/2025/03/enhancing-power-bi-alerts-using-microsoft-power-automate/"/>
+        <updated>2025-03-03T14:33:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Power BI is a powerful tool for data visualization and analysis, but its alerting capabilities are somewhat limited. By integrating Power BI with Microsoft Power Automate, you can extend these […]
+The post Enhancing Power BI Alerts Using Microsoft Power Automate appeared first on ERP Software Blog.
+Introducing deFacto POWER Planning
+Join JourneyTEAM's Tech Insider Update Webinar on 8/6
+DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021]]></summary>
+        <author>
+            <name>ArcherPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Compose Action in Power Automate Flow D365 CRM/CE – YouTube]]></title>
+        <id>https://365community.online/how-to-use-compose-action-in-power-automate-flow-d365-crm-ce-youtube</id>
+        <link href="https://365community.online/how-to-use-compose-action-in-power-automate-flow-d365-crm-ce-youtube"/>
+        <updated>2025-03-03T14:00:36.000Z</updated>
+        <summary type="html"><![CDATA[In this video, learn how to use the Compose action in Power Automate to extract and format data efficiently. We’ll also cover handling option set labels like Shipping Method, configuring emails, and implementing a timeline approach for structured automation. 🚀   🔹 Key Topics: ✅ Extracting values using Compose Action ✅ Getting Option Set Labels […]
+The post How to use Compose Action in Power Automate Flow D365 CRM/CE – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Risk Assessment Can Prevent Your Dynamics 365 Project from Failing]]></title>
+        <id>https://erpsoftwareblog.com/?p=124694</id>
+        <link href="https://erpsoftwareblog.com/2025/03/how-a-risk-assessment-can-prevent-your-dynamics-365-project-from-failing/"/>
+        <updated>2025-03-03T13:47:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Implementing Microsoft Dynamics 365 Business Central is a major step for any business looking to improve ERP software, financial management, and business process automation. However, without proper planning, your Dynamics […]
+The post How a Risk Assessment Can Prevent Your Dynamics 365 Project from Failing appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+How to Manage Your Inventory Using Microsoft Dynamics 365 Business Central
+Three ERP Implementation Tips for SMB Manufacturers]]></summary>
+        <author>
+            <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closing the Gaps in Business Central: Elevating Warehouse and Inventory Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=124618</id>
+        <link href="https://erpsoftwareblog.com/2025/03/closing-the-gaps-in-business-central-elevating-warehouse-and-inventory-management/"/>
+        <updated>2025-03-03T12:24:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central is a powerful ERP for SMBs, but gaps in inventory and warehouse management can create inefficiencies. Insight Works apps like Warehouse Insight, License Plating, and Dynamic Ship enhance workflows, improving accuracy, automation, and order fulfillment.
+The post Closing the Gaps in Business Central: Elevating Warehouse and Inventory Management appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Customer Service Efficiency with Multisession and Productivity Tools in Custom Apps within Dynamics 365 CRM]]></title>
+        <id>https://365community.online/boosting-customer-service-efficiency-with-multisession-and-productivity-tools-in-custom-apps-within-dynamics-365-crm</id>
+        <link href="https://365community.online/boosting-customer-service-efficiency-with-multisession-and-productivity-tools-in-custom-apps-within-dynamics-365-crm"/>
+        <updated>2025-03-03T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet Jack, a customer service representative working at a B2B company. He often finds himself too busy and stressed under a constant stream of cases, customer chats, and follow-ups. He juggles multiple conversations at once, trying to manage urgent support tickets while keeping up with ongoing inquiries. The back-and-forth causes him to lose track of […]
+The post Boosting Customer Service Efficiency with Multisession and Productivity Tools in Custom Apps within Dynamics 365 CRM appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right ERP for Pharmaceutical Industry in 2025?]]></title>
+        <id>https://erpsoftwareblog.com/?p=124730</id>
+        <link href="https://erpsoftwareblog.com/2025/03/how-to-choose-the-right-erp-for-pharmaceutical-industry-in-2025/"/>
+        <updated>2025-03-03T11:30:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Maintaining competitiveness and compliance while handling multiple business functions is essential. Whether in manufacturing, distribution, or retail, implementing a robust ERP system can enhance efficiency, improve accuracy, and ensure seamless […]
+The post How to Choose the Right ERP for Pharmaceutical Industry in 2025? appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Curious About Business Central? Join AVT to Learn More!
+The Top 7 ERP Vendors for All Industries in 2025]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Connections during deployments – Power Platform Pipelines]]></title>
+        <id>https://365community.online/change-connections-during-deployments-power-platform-pipelines</id>
+        <link href="https://365community.online/change-connections-during-deployments-power-platform-pipelines"/>
+        <updated>2025-03-03T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[I've previously blogged about my architecture patterns for delegated deployments for connections using oAuth. This pattern allows you to change the connections of a connection reference during a deployment to another account. The benefit of this is that you can force which account using oAuth (Dataverse, SharePoint etc) is used in your downstream environments. While […]
+The post Change Connections during deployments – Power Platform Pipelines appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📡 Telemetría en Business Central: La clave para mejorar el rendimiento y anticipar problemas]]></title>
+        <id>https://365community.online/%f0%9f%93%a1-telemetria-en-business-central-la-clave-para-mejorar-el-rendimiento-y-anticipar-problemas</id>
+        <link href="https://365community.online/%f0%9f%93%a1-telemetria-en-business-central-la-clave-para-mejorar-el-rendimiento-y-anticipar-problemas"/>
+        <updated>2025-03-03T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Acerca de la telemetría en Business Central Uno de los grandes cambios en la evolución de Business Central en su versión SaaS ha sido la capacidad de obtener datos de rendimiento en tiempo real a través de la telemetría. Aunque durante años hemos dependido de pruebas manuales, feedback de los usuarios y herramientas de diagnóstico […]
+The post 📡 Telemetría en Business Central: La clave para mejorar el rendimiento y anticipar problemas appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combobox – Everything you want to know about modern control #5]]></title>
+        <id>https://365community.online/combobox-everything-you-want-to-know-about-modern-control-5</id>
+        <link href="https://365community.online/combobox-everything-you-want-to-know-about-modern-control-5"/>
+        <updated>2025-03-03T05:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn everything about the new modern combobox as I take a deep dive into its properties and show how to use it. The post Combobox – Everything you want to know about modern control #5 appeared first on Hardit Bhatia: The Power Addict. Original Post https://thepoweraddict.com/combobox-everything-you-want-to-know-about-modern-control-5/?utm_source=rss&utm_medium=rss&utm_campaign=combobox-everything-you-want-to-know-about-modern-control-5
+The post Combobox – Everything you want to know about modern control #5 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Managing Multiple Countries and Companies in Dynamics 365 Business Central (BC)]]></title>
         <id>https://erpsoftwareblog.com/?p=124724</id>
@@ -33561,6 +33817,16 @@ I recently presented at DynamicsMinds on batch jobs and how to design them for
 Continue reading →]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run ER report from a F&O form]]></title>
+        <id>http://elearnd365.com/?p=1465</id>
+        <link href="https://elearnd365.com/2024/06/28/run-er-report-from-a-fo-form/"/>
+        <updated>2024-06-28T23:08:40.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 FO implementation its common since ER’s inception to create electronics reports and business documents. A lot can be achieved by creating data models , model mapping and by creating formats through UI than doing coding in visual studio. Also, a functional consultant or a business user can also create or modify these […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>
