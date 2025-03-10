@@ -1031,6 +1031,16 @@
       "siteUrl": "https://azureintegrations.com",
       "articles": [
         {
+          "id": "http://azureintegrations.com/?p=1597",
+          "author": "Poojith Jain",
+          "description": "Artificial intelligence (AI) has become essential to modern business operations, enabling organizations to automate workflows, enhance customer interactions, and drive intelligent decision-making. Microsoft offers two powerful AI platforms—Microsoft Copilot Studio and Azure AI Studio—each catering to different audiences and use cases. In this blog, we’ll compare Microsoft Copilot Studio and Azure AI Studio based onContinue reading \"Microsoft copilot studio vs Azure AI studio\"",
+          "link": "https://azureintegrations.com/2025/03/09/microsoft-copilot-studio-vs-azure-ai-studio/",
+          "publishedOn": "2025-03-09T09:53:34.000Z",
+          "wordCount": 4165,
+          "title": "Microsoft copilot studio vs Azure AI studio",
+          "imageUrl": "https://azureintegrations.com/wp-content/uploads/2025/03/image.png"
+        },
+        {
           "id": "http://azureintegrations.com/?p=1523",
           "author": "Poojith Jain",
           "description": "Introduction The introduction of OpenAI on Azure enables the integration of ChatGPT with existing enterprise data through Azure OpenAI and Azure AI Search in .NET (or any front-end) applications. These services enhance business operations using advanced Natural Language Processing (NLP), allowing organizations to develop efficient Enterprise Knowledge Management and Customer Support systems. This post discussesContinue reading \"Leveraging Azure OpenAI and Cognitive Search for Enterprise AI Applications\"",
@@ -21195,6 +21205,26 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-in-power-platform-part-2",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "In Part 1 of this blog series, we explored how to set up Entra ID apps for both custom connectors (signed-in users) and daemon apps (sign-in on behalf of users). We also explored various Microsoft Graph API endpoints required to retrieve meeting transcription content. In this post, we’ll explore how to retrieve transcription content using […]\nThe post Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 2 appeared first on 365 Community Online.",
+          "link": "https://365community.online/automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-in-power-platform-part-2",
+          "publishedOn": "2025-03-09T19:48:00.000Z",
+          "wordCount": 3280,
+          "title": "Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 2",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Automating-Meeting-Notes-with-Microsoft-Graph-API-and-Azure-OpenAI.png"
+        },
+        {
+          "id": "https://365community.online/when-to-create-a-batch-bundled-batch-job",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/08/25. Last modified:  03/08/25 Tags:  BatchRetryable Bundle Bundle When should you use a Bundled Batch Job? In F&O, you can easily upgrade your custom batch jobs from a “classic” batch job to a bundled batch job. But what would doing that mean or change how work gets done? First, let’s […]\nThe post When to Create a Batch Bundled Batch Job appeared first on 365 Community Online.",
+          "link": "https://365community.online/when-to-create-a-batch-bundled-batch-job",
+          "publishedOn": "2025-03-09T02:48:00.000Z",
+          "wordCount": 3989,
+          "title": "When to Create a Batch Bundled Batch Job",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/When-to-Create-a-Batch-Bundled-Batch-Job.jpg"
+        },
         {
           "id": "https://365community.online/how-to-hide-the-legacy-app-for-admins-on-power-platform-admin-center",
           "author": "Malla Reddy Gurram",
@@ -49961,6 +49991,16 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1712 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/08/25.\n\n\nLast modified: \n\n03/08/25\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nBatchRetryable      \nBundle Bundle      \n\nWhen should you use a Bundled Batch Job?\n\nIn F&O, you can easily upgrade your custom batch jobs from a \"classic\" batch job to a bundled batch job. But what would doing that mean or change how work gets done? First, let's review a visual.\n\nThis shows the basic process for scheduling and execution of a bundled batch job. This can look sort of similar to a individual task model batch job but a bundle in this context is a group of tasks that will be executed using 1 thread. A bundle batch job has parameters the define a start and an end that has at least more than 1 elements in it where individual task modeling has a parameter that defines an individual unit o…",
+          "link": "https://www.atomicax.com/article/when-create-batch-bundled-batch-job",
+          "publishedOn": "2025-03-09T02:48:47.000Z",
+          "wordCount": 2416,
+          "title": "When to Create a Batch Bundled Batch Job",
+          "imageUrl": null
+        },
+        {
           "id": "1714 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 01/19/25.\n\n\nLast modified: \n\n01/19/25\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nIndividual Task Modeling      \nBatch      \n\nWhen should you use an Individual Task Modeled Batch Job?\n \nCreating an Individual Task Modeled Batch Job in the context of finance and operations can bring several advantages and disadvantages. First, let's have a visual for how Individual Task Modeled batch jobs work just to set the stage.\n\nNow, let's break the pros and cons down:\nPros\nFirst is scalability. When using SysOperation in the style of \"individual task modeling\", you can scale your workloads nearly infinitely. This scalability comes with some costs, which we'll discuss later. However, if those costs are not a concern, you can stack up to 2 million tasks. These tasks will run whenever capacit…",
@@ -53785,16 +53825,6 @@
           "wordCount": 2427,
           "title": "Two outer joined tables in a report without duplicates from both sides",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgJlNxlYwHotpiJtjZooTpFUghyshF1Z-HyrAoqP-EOQ-C9mB6ApMUXI5mqwOsL36rrcMCEtLHMW41hGhC-rJDeJen7bmelSED0V1_kSJBbWLHGuj5rjrxSMtIhi6eNoUsZnIhFRnRFEwypMj1IC8h6cV-KoQvcGhFYC3xVSuUpLSTncJVh11YsObKi=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html",
-          "author": null,
-          "description": "D365FO contains a special data entity which can be used for both DMF export/import and also in Excel Add-in, but... \nThere is an interesting InnerJoin inside of this data entity, which may be a hurdle for understanding why you still have no records exported; nevertheless, you have some in TaxRegistration table.\n\n\n\n\nIn fact, when you create records in Vendor Registration IDs form, it does not tell you about this constraint.\n\n\n\n\n\n\nTo get these records exported, you simply need to add it in Registration categories.\n\n\n\nand voila!",
-          "link": "https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html",
-          "publishedOn": "2023-03-11T00:52:00.002Z",
-          "wordCount": 2073,
-          "title": "How to export/import Tax registration numbers for Vendors",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj72qXn1gQm7gfTmtVPGonn0guZcsTLd3_1Ydh9J0aIaqFJdaTFOSlxPJr3SN1qbJDUUzXYrU7e7qaHZ9X5aNSW0SBmMJKSf372-io_BOli61m0QKAOa7G7aL6UcZ977_0_wT2awu-Iz0zzLBh2ECe1L7dSh5B-dpnaT3nhTCId0gFFlUTFVOdGey2y=w1200-h630-p-k-no-nu"
         }
       ]
     },

@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-03-09T01:18:43.390Z</updated>
+    <updated>2025-03-10T01:16:26.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 2]]></title>
+        <id>https://365community.online/automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-in-power-platform-part-2</id>
+        <link href="https://365community.online/automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-in-power-platform-part-2"/>
+        <updated>2025-03-09T19:48:00.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1 of this blog series, we explored how to set up Entra ID apps for both custom connectors (signed-in users) and daemon apps (sign-in on behalf of users). We also explored various Microsoft Graph API endpoints required to retrieve meeting transcription content. In this post, we’ll explore how to retrieve transcription content using […]
+The post Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 2 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft copilot studio vs Azure AI studio]]></title>
+        <id>http://azureintegrations.com/?p=1597</id>
+        <link href="https://azureintegrations.com/2025/03/09/microsoft-copilot-studio-vs-azure-ai-studio/"/>
+        <updated>2025-03-09T09:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence (AI) has become essential to modern business operations, enabling organizations to automate workflows, enhance customer interactions, and drive intelligent decision-making. Microsoft offers two powerful AI platforms—Microsoft Copilot Studio and Azure AI Studio—each catering to different audiences and use cases. In this blog, we’ll compare Microsoft Copilot Studio and Azure AI Studio based onContinue reading "Microsoft copilot studio vs Azure AI studio"]]></summary>
+        <author>
+            <name>Poojith Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Create a Batch Bundled Batch Job]]></title>
+        <id>1712 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/when-create-batch-bundled-batch-job"/>
+        <updated>2025-03-09T02:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/08/25.
+
+
+Last modified: 
+
+03/08/25
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+BatchRetryable      
+Bundle Bundle      
+
+When should you use a Bundled Batch Job?
+
+In F&O, you can easily upgrade your custom batch jobs from a "classic" batch job to a bundled batch job. But what would doing that mean or change how work gets done? First, let's review a visual.
+
+This shows the basic process for scheduling and execution of a bundled batch job. This can look sort of similar to a individual task model batch job but a bundle in this context is a group of tasks that will be executed using 1 thread. A bundle batch job has parameters the define a start and an end that has at least more than 1 elements in it where individual task modeling has a parameter that defines an individual unit o…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Create a Batch Bundled Batch Job]]></title>
+        <id>https://365community.online/when-to-create-a-batch-bundled-batch-job</id>
+        <link href="https://365community.online/when-to-create-a-batch-bundled-batch-job"/>
+        <updated>2025-03-09T02:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/08/25. Last modified:  03/08/25 Tags:  BatchRetryable Bundle Bundle When should you use a Bundled Batch Job? In F&O, you can easily upgrade your custom batch jobs from a “classic” batch job to a bundled batch job. But what would doing that mean or change how work gets done? First, let’s […]
+The post When to Create a Batch Bundled Batch Job appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[{How to } Hide the legacy app for admins on Power Platform Admin Center]]></title>
         <id>https://365community.online/how-to-hide-the-legacy-app-for-admins-on-power-platform-admin-center</id>
@@ -69180,33 +69249,6 @@ side : How to deploy a Dataverse C# Plugin for a Virtual Table of Dynamics
         <summary type="html"><![CDATA[How to manage security for Open in Excel option in journal screens In Dynamics 365 F&O The open in excel option present on the journal screen you can create, update, and delete data very efficiently. For finance users it’s a go to tool for uploading and updating journal entries. When we design security roles, there […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to export/import Tax registration numbers for Vendors]]></title>
-        <id>https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html</id>
-        <link href="https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html"/>
-        <updated>2023-03-11T00:52:00.002Z</updated>
-        <summary type="html"><![CDATA[D365FO contains a special data entity which can be used for both DMF export/import and also in Excel Add-in, but... 
-There is an interesting InnerJoin inside of this data entity, which may be a hurdle for understanding why you still have no records exported; nevertheless, you have some in TaxRegistration table.
-
-
-
-
-In fact, when you create records in Vendor Registration IDs form, it does not tell you about this constraint.
-
-
-
-
-
-
-To get these records exported, you simply need to add it in Registration categories.
-
-
-
-and voila!]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
