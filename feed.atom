@@ -2,10 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-03-10T01:16:26.892Z</updated>
+    <updated>2025-03-11T01:39:11.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Preparing for Sprint 1 with Hamish Sheild – YouTube]]></title>
+        <id>https://365community.online/preparing-for-sprint-1-with-hamish-sheild-youtube</id>
+        <link href="https://365community.online/preparing-for-sprint-1-with-hamish-sheild-youtube"/>
+        <updated>2025-03-10T23:09:56.000Z</updated>
+        <summary type="html"><![CDATA[What can Power Platform and Dynamics 365 teams do in a Discovery to prepare for sprint 1? Join me and Hamish Sheild as we break down goal setting, the value of including the development team early, design sprints and lots more. https://youtu.be/p0fehtzI378 Keep experimenting 🧪 -Neil *MY ONLINE COURSES* 🚀 *Agile Foundations for Microsoft Business […]
+The post Preparing for Sprint 1 with Hamish Sheild – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing for the First Sprint: Design Thinking and Discovery with Hamish Sheild]]></title>
+        <id>https://365community.online/preparing-for-the-first-sprint-design-thinking-and-discovery-with-hamish-sheild</id>
+        <link href="https://365community.online/preparing-for-the-first-sprint-design-thinking-and-discovery-with-hamish-sheild"/>
+        <updated>2025-03-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#160. Hamish Sheild is a Microsoft MVP and Power Platform consultant specialising in applying Design Thinking practices to our apps and projects to make them more human-centred. Hamish and I discuss the different activities and artifacts we’ve experimented with before starting the delivery phase of our Power Platform and Dynamics 365 projects. Join us as […]
+The post Preparing for the First Sprint: Design Thinking and Discovery with Hamish Sheild appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unable to save. This form can’t be saved due to a custom setting error in Dynamics 365 / Dataverse.]]></title>
+        <id>https://365community.online/unable-to-save-this-form-cant-be-saved-due-to-a-custom-setting-error-in-dynamics-365-dataverse</id>
+        <link href="https://365community.online/unable-to-save-this-form-cant-be-saved-due-to-a-custom-setting-error-in-dynamics-365-dataverse"/>
+        <updated>2025-03-10T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we got the below error while trying to assign the record. Unable to save. This form can’t be saved due to a custom setting. Turned out we had certain conditions in the OnSave event for the form, and if the record satisfies those conditions we were canceling the save event using executionContext.getEventArgs().preventDefault(); So it […]
+The post Unable to save. This form can’t be saved due to a custom setting error in Dynamics 365 / Dataverse. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Downtime in D365 F&O with Automated Testing]]></title>
+        <id>https://erpsoftwareblog.com/?p=124863</id>
+        <link href="https://erpsoftwareblog.com/2025/03/minimizing-downtime-d365-fo-automated-testing/"/>
+        <updated>2025-03-10T18:24:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The True Cost of Downtime for Dynamics 365 F&O Users System downtime isn’t just an inconvenience, it’s a costly disruption that can derail business operations and negatively impact your bottom […]
+The post How to Prevent Downtime in D365 F&O with Automated Testing appeared first on ERP Software Blog.
+Common Challenges Testing Dynamics 365 and How Test Automation Can Help
+Automated Testing Dynamics 365 F&O: Driving Digital Transformation
+Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry]]></summary>
+        <author>
+            <name>TheTestMart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Businesses with Microsoft’s Copilot Studio: Navigating Autonomous Agents – YouTube]]></title>
+        <id>https://365community.online/empowering-businesses-with-microsofts-copilot-studio-navigating-autonomous-agents-youtube</id>
+        <link href="https://365community.online/empowering-businesses-with-microsofts-copilot-studio-navigating-autonomous-agents-youtube"/>
+        <updated>2025-03-10T17:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Empowering Businesses with Microsoft’s Copilot Studio: Navigating Autonomous Agents Get featured on the show by leaving us a Voice Mail: https://bit.ly/MIPVM FULL SHOW NOTES https://www.microsoftinnovationpodcast.com/663    Step into the world of AI with our latest episode, where Dewain Robinson from Microsoft unpacks the transformative power of Copilot Studio and intelligent agents in 2025. As organizations […]
+The post Empowering Businesses with Microsoft’s Copilot Studio: Navigating Autonomous Agents – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect to an Existing D365F&O Environment Using Postman – Part 1]]></title>
+        <id>https://365community.online/how-to-connect-to-an-existing-d365fo-environment-using-postman-part-1</id>
+        <link href="https://365community.online/how-to-connect-to-an-existing-d365fo-environment-using-postman-part-1"/>
+        <updated>2025-03-10T17:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to learn how to connect to a D365F&O instance using Postman? If your answer is Yes this post is for you. Existing blog posts… Original Post https://maique00.wixsite.com/blog/post/how-to-connect-to-an-existing-d365f-o-environment-using-postman-part-1
+The post How to Connect to an Existing D365F&O Environment Using Postman – Part 1 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>José Miguel Azevedo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central - MRP vs. MPS: How Business Central Optimizes Inventory Planning]]></title>
+        <id>https://erpsoftwareblog.com/?p=124959</id>
+        <link href="https://erpsoftwareblog.com/2025/03/mastering-manufacturing-with-business-central-mrp-vs-mps-how-business-central-optimizes-inventory-planning/"/>
+        <updated>2025-03-10T16:45:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manufacturers rely on efficient production and inventory planning to meet customer demand while minimizing costs. However, many businesses struggle with overstocking, material shortages, or misaligned production schedules, often due to poor […]
+The post Mastering Manufacturing with Business Central - MRP vs. MPS: How Business Central Optimizes Inventory Planning appeared first on ERP Software Blog.
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+Increase profits by managing material costs
+Upgrade to Dynamics 365: What Version is Best for My Business?]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Models + AI prompts: CV screening with Power Apps and Power Automate]]></title>
+        <id>https://365community.online/ai-models-ai-prompts-cv-screening-with-power-apps-and-power-automate</id>
+        <link href="https://365community.online/ai-models-ai-prompts-cv-screening-with-power-apps-and-power-automate"/>
+        <updated>2025-03-10T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[During my career, I’ve been very lucky to find amazing human beings from whom I learn constantly. I met Denisa two years ago, we got… Original Post https://www.anainesurrutia.com/post/ai-models-ai-prompts-cv-screening-with-power-apps-and-power-automate
+The post AI Models + AI prompts: CV screening with Power Apps and Power Automate appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Abdul Kareem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: previewing a file from AL.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-previewing-a-file-from-al</id>
+        <link href="https://365community.online/dynamics-365-business-central-previewing-a-file-from-al"/>
+        <updated>2025-03-10T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[With Dynamics 365 Business Central 2025 Wave 1 release (version 26) and the new AL Language extension version 15, it will be possible to preview a file directly in the web client (no need to use control add-ins anymore) without downloading it first. Doing that is very easy. The new runtime 15 adds the following […]
+The post Dynamics 365 Business Central: previewing a file from AL. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: YAML to JSON and JSON to YAML conversion.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-yaml-to-json-and-json-to-yaml-conversion</id>
+        <link href="https://365community.online/dynamics-365-business-central-yaml-to-json-and-json-to-yaml-conversion"/>
+        <updated>2025-03-10T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[When talking about data exchange between systems, probably the most common ways to represent (serialize) objects are by using JSON and XML. JSON (JavaScript Object Notation) in particular is the de-facto standard protocol in the REST-ful world. It is a lightweight, text-based data interchange format that is both human-readable and machine-readable. It was derived from JavaScript but […]
+The post Dynamics 365 Business Central: YAML to JSON and JSON to YAML conversion. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event portal enhancements]]></title>
+        <id>https://365community.online/event-portal-enhancements</id>
+        <link href="https://365community.online/event-portal-enhancements"/>
+        <updated>2025-03-10T14:49:00.000Z</updated>
+        <summary type="html"><![CDATA[In the February release we finally got a major enhancement to connecting events from Dynamics 365 Customer Insights – Journeys and Power Pages and your own website. This blog will go through how you can create a Power Pages website with event template and connect your event to your own website. Prerequisites Creating your event […]
+The post Event portal enhancements appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot en AL: Ejemplo Práctico de Generación y Corrección de Código]]></title>
+        <id>https://365community.online/github-copilot-en-al-ejemplo-practico-de-generacion-y-correccion-de-codigo</id>
+        <link href="https://365community.online/github-copilot-en-al-ejemplo-practico-de-generacion-y-correccion-de-codigo"/>
+        <updated>2025-03-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Copilot en AL: Ejemplo Práctico de Generación y Corrección de Código GitHub Copilot ha demostrado ser una herramienta poderosa para la generación de código en diversos lenguajes, y en AL, el lenguaje de desarrollo de Business Central, puede ser un gran aliado. En este artículo, exploramos un caso práctico en el que Copilot nos […]
+The post GitHub Copilot en AL: Ejemplo Práctico de Generación y Corrección de Código appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Manufacturer’s Operations and Reporting in Dynamics BC]]></title>
+        <id>https://erpsoftwareblog.com/?p=124757</id>
+        <link href="https://erpsoftwareblog.com/2025/03/process-manufacturers-operations-and-reporting-in-dynamics-bc/"/>
+        <updated>2025-03-10T13:36:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you run a batch or process manufacturing company, you know the struggle of managing inventory, scheduling production efficiently, and ensuring accurate reporting. Outdated systems can slow down operations and […]
+The post Process Manufacturer’s Operations and Reporting in Dynamics BC appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Don’t Stop the Flow: Managing a Job Shop
+Get More in the Cloud with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best ERP for Startups: Profit Booster for Small Business Entrepreneurs]]></title>
+        <id>https://erpsoftwareblog.com/?p=124935</id>
+        <link href="https://erpsoftwareblog.com/2025/03/best-erp-for-startups-profit-booster-for-small-business-entrepreneurs/"/>
+        <updated>2025-03-10T08:18:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Starting a business is an exciting journey filled with dreams, determination, and challenges. Entrepreneurs juggle multiple responsibilities, from product development and customer engagement to operations management and financial oversight. Amidst […]
+The post Best ERP for Startups: Profit Booster for Small Business Entrepreneurs appeared first on ERP Software Blog.
+DYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?
+Transform your retail business with point of sale software
+Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automating Meeting Notes with Microsoft Graph API and Azure OpenAI in Power Platform – Part 2]]></title>
         <id>https://365community.online/automating-meeting-notes-with-microsoft-graph-api-and-azure-openai-in-power-platform-part-2</id>
@@ -106,6 +276,21 @@ The post Perth Panthers are ready to take the ice with Field Service appeared fi
 The post Top Java Testing Frameworks You Must Know! | JUnit, TestNG & More – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 ERP Empowers the Pharmaceutical Industry with AI and Automation?]]></title>
+        <id>https://erpsoftwareblog.com/?p=124948</id>
+        <link href="https://erpsoftwareblog.com/2025/03/how-dynamics-365-erp-empowers-the-pharmaceutical-industry-with-ai-and-automation/"/>
+        <updated>2025-03-08T14:56:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The pharmaceutical industry is a highly regulated and complex sector that faces numerous challenges, ranging from compliance issues to supply chain disruptions. To overcome these hurdles, companies are increasingly turning […]
+The post How Dynamics 365 ERP Empowers the Pharmaceutical Industry with AI and Automation? appeared first on ERP Software Blog.
+Executive Planning Guide  - Field Service Inventory Management
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+December GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
