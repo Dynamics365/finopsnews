@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-03-16T01:44:36.132Z</updated>
+    <updated>2025-03-17T01:41:49.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting the best out of Teams Facilitator Agent]]></title>
+        <id>https://365community.online/getting-the-best-out-of-teams-facilitator-agent</id>
+        <link href="https://365community.online/getting-the-best-out-of-teams-facilitator-agent"/>
+        <updated>2025-03-16T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In April 2025, Microsoft will start rolling out the Teams Facilitator Agent feature that automatically generates meeting notes based on the transcript. This feature makes following up on the tasks decided during the meeting easier when they are written right there on the go. But there are things to be considered when having people from […]
+The post Getting the best out of Teams Facilitator Agent appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Sari Soinoja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer Address revisited]]></title>
+        <id>https://365community.online/customer-address-revisited</id>
+        <link href="https://365community.online/customer-address-revisited"/>
+        <updated>2025-03-16T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently two new features were introduced to dataverse that allows us to better manage customer addresses. A few years ago (2012) I wrote an article on the subject (https://community.dynamics.com/blogs/post/?postid=b889a366-d3fb-4b39-bdb9-7f3716283d4c) which goes into some detail about how the customeraddress table works. This post will revisit some of that and also discuss how the two new features […]
+The post Customer Address revisited appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Gustaf Westerlund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improved typings in Dataverse DevTools]]></title>
         <id>https://365community.online/improved-typings-in-dataverse-devtools</id>
@@ -70194,16 +70216,6 @@ The post Production order should not get Released on material shortage appeared 
         <summary type="html"><![CDATA[Here you are the talk I gave in the Finance and Supply Chain summit 2023 event, organized by the Power Community in Lisbon. This session is an introduction to Unit tests focused in D365FO, where many (or almost all) the technical consultants and developers skip that good practice of software development. I hope you enjoy it as much as I did preparing, giving and editing the session. Thanks! … More Developing unit tests in D365FO, Finance and Supply Chain summit 2023 event session]]></summary>
         <author>
             <name>Fernando Tudela Desantes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting Trial balance information out of Dynamics 365 for Finance and Operations for consolidation through integration]]></title>
-        <id>http://elearnd365.com/?p=655</id>
-        <link href="https://elearnd365.com/2023/03/17/extracting-trial-balance-information-out-of-dynamics-365-for-finance-and-operations-for-consolidation-through-integration/"/>
-        <updated>2023-03-17T22:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Exporting trial balance from Dynamics 365 for Finance and Operations is a common ask for consolidation purpose by third party software’s like blackline ,Hyperion etc. I have uploaded a code sample for generating report in csv format on my github page. The following steps would help you to configure this project and a successful test. […]]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>
