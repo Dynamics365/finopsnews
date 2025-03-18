@@ -140,6 +140,16 @@
       "siteUrl": "https://kishoredynamics11.blogspot.com/",
       "articles": [
         {
+          "id": "https://kishoredynamics11.blogspot.com/2025/03/creating-zip-file-and-push-to-d365.html",
+          "author": null,
+          "description": "Creating a ZIP File and push to D365 Using REST API in Logic Apps\n           I will receive a CSV file, which I need to convert into a ZIP file. This ZIP file will then be pushed to D365.\n    \n\n\n        To create the ZIP file, I have developed an Azure Function. The input file for the function will be the CSV file, and within the code, I will fetch the manifest files from the blob storage.\n\n\nCreating a ZIP File Using Azure Function\n1. I have a CSV file that needs to be converted into a ZIP file, which will include two manifest XML files.\n\n2. The CSV file is picked from the input.\n\n\n3. The manifest XML files are stored in blob storage. Within the code, I connect to the blob storage and retrieve the XML files.\n4. These three files (the CSV and two XML files) are added to the ZIP file, which …",
+          "link": "https://kishoredynamics11.blogspot.com/2025/03/creating-zip-file-and-push-to-d365.html",
+          "publishedOn": "2025-03-17T06:52:00.000Z",
+          "wordCount": 3524,
+          "title": "Creating a ZIP File and push to D365 Using REST API in Logic Apps",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZVSSfXQwYGadWIPnCgBtLD8q5JrcST1Ei3wgme0ME5xq8P1vym5YWq-INVNWnFHYIs1Z_cex-7UbqNQnVXBNSacsJq_cPSXWl6DG_6AxPSOgSla7ZG95_pjJNznIBkQCWbJgVFChq9z4_e0L8AG-8pCgDyI2F5M_UxeEIOOYOF6zyp-RSQ_myhk5IVdQ/w1200-h630-p-k-no-nu/d365FO.png"
+        },
+        {
           "id": "https://kishoredynamics11.blogspot.com/2025/02/exporting-file-from-d365-using-deque.html",
           "author": null,
           "description": "Exporting a File from D365 Using Deque and Uploading It to Blob via Logic Apps\n\n\n\n\nFollow the below steps:\n1. Create an export project in the Data Management(DMF).\n\n\n\n2. Under Manage Recurring Data Jobs, create a new record and add the application ID.\n3. Set the processing recurrence and enable the corresponding boolean.\n4. Copy the value from the ID field.\n\n\n\n5. Create an HTTP request, paste the URL provided below, and use the GET method.\n\n     {{resource}}/api/connector/dequeue/{activity ID}?company=USMF\n\n\n\n6. Instead of generating a token, assign the values in the Authentication tab.\n\n\n\n7. Retrieve the Download Location from the previous step and assign it to a new HTTP trigger to get the file.\n\n       body('Get_the_package_Download_URL')?['DownloadLocation']\n\n\n\n8. Use the Upload to Blob action and provide the container name, blob name, and content.\n\n\n\n\n\n\n\nOutput:\n\n\n\n\n1. The Get Package Download URL step will return the JSON response, from which we need to capture the DownloadLocation.\n\n\n\n2. The Download Package step will return an octet-stream.\n\n\n\n3. Since the response is a ZIP file, it is not possible to read the data directly.\n4. The ZIP file will be stored in Blob Storage.\n\n\n\n\n\n\n5. Below is the CSV file exported from D365.\n\n\n\n\n\nD365:\n\n\n\n\n\n\n\n\n\n\n\nOnce file is fetched from D365 status will change in manage messages.\n\n\n\n\n\n\nKeep Daxing!!",
@@ -1687,6 +1697,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=125118",
+          "author": "Red Maple",
+          "description": "xxx\n Businesses operating internationally face the challenge of providing seamless, localized shopping experiences while managing global transactions efficiently. Red Maple simplifies this challenge with advanced payment solutions, empowering merchants to succeed […]\nThe post Red Maple Payment Solutions with Global Capabilities for Dynamics 365 BC and FO appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nDon’t Stop the Flow: Managing a Job Shop\nGet More in the Cloud with Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/03/red-maple-payment-solutions-with-global-capabilities-for-dynamics-365-bc-and-fo/",
+          "publishedOn": "2025-03-17T22:06:25.000Z",
+          "wordCount": 7830,
+          "title": "Red Maple Payment Solutions with Global Capabilities for Dynamics 365 BC and FO",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-03-Red-Maple-Payment-Solutions-with-Global-Capabilities-for-Dynamics-365-BC-and-FO_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125368",
+          "author": "Solver Inc",
+          "description": "xxx\nIn today's rapidly evolving business landscape, traditional financial planning and analysis (FP&A) tools are no longer sufficient. Organizations are turning to Extended Financial Planning and Analysis (xFP&A) solutions to maintain […]\nThe post Five xFP&A Trends to Watch in 2025 appeared first on ERP Software Blog.\nTop Business Intelligence trends for equipment rental, leasing, and services companies\nSelecting the Ideal Extended Financial Planning and Analysis (xFP&A) Tool\nBetter Information = Stronger Company in Tough Economy",
+          "link": "https://erpsoftwareblog.com/2025/03/five-xfpa-trends-to-watch-in-2025/",
+          "publishedOn": "2025-03-17T21:36:51.000Z",
+          "wordCount": 7433,
+          "title": "Five xFP&A Trends to Watch in 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-Trends-WP-Blog.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125343",
+          "author": "Velosio",
+          "description": "xxx\nFor business leaders, generative AI presents a crucial reality check: without high-quality, well-governed, and secure data, generative AI can become a liability rather than a competitive advantage. Biased models, inaccurate […]\nThe post The Data Challenge of Generative AI: Why a Strong Governance Strategy is Essential appeared first on ERP Software Blog.\nDynamics Copilot: How Six AI Experts Save Hours Every Day\nMust-See Exhibitors at Community Summit NA 2024\nEp 65 | Copilot in Business Central | A Shot of Business Central and A Beer",
+          "link": "https://erpsoftwareblog.com/2025/03/the-data-challenge-of-generative-ai/",
+          "publishedOn": "2025-03-17T20:32:45.000Z",
+          "wordCount": 8234,
+          "title": "The Data Challenge of Generative AI: Why a Strong Governance Strategy is Essential",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Data-Management-scaled.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125136",
+          "author": "Insight Works",
+          "description": "xxx\nOptimize order fulfillment in Business Central with the Order Fulfillment Worksheet app, automating shipments, managing inventory efficiently, and improving warehouse operations for faster, accurate deliveries.\nThe post Optimize Order Fulfillment in Business Central appeared first on ERP Software Blog.\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App",
+          "link": "https://erpsoftwareblog.com/2025/03/optimize-order-fulfillment-in-business-central/",
+          "publishedOn": "2025-03-17T11:51:34.000Z",
+          "wordCount": 7645,
+          "title": "Optimize Order Fulfillment in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Order-Fulfillment-Worksheet-250.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125219",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nThe world of enterprise resource planning (ERP) is evolving rapidly, and businesses are seeking advanced tools to optimize their business operations. If you're currently using Tally ERP and considering a […]\nThe post Tally to Business Central Migration: Why it Makes Sense in 2025 appeared first on ERP Software Blog.\nCreate a Closed-Loop Analysis, Planning, and Reporting Process\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nA Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge",
+          "link": "https://erpsoftwareblog.com/2025/03/tally-to-business-central-migration-why-it-makes-sense-in-2025/",
+          "publishedOn": "2025-03-17T11:03:04.000Z",
+          "wordCount": 8323,
+          "title": "Tally to Business Central Migration: Why it Makes Sense in 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Important-Factors-for-a-Successful-Startup-in-2025-visual-selection-7-e1742209365992.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=125198",
           "author": "MetaViewer from Metafile",
           "description": "xxx\nIn manufacturing, procurement delays can be a major challenge. They have the potential to slow production, raise costs, and disrupt supply chains. When invoices take too long to process, payments […]\nThe post Breaking the Bottleneck: How AP Automation Speeds Up Procurement in Manufacturing appeared first on ERP Software Blog.\nHow AP Invoice Automation Drives Cost Savings for Dynamics GP Customers\nMekorma Payment Hub v0.9: New Features for Business Central\nWinning the AP Game with Mekorma Embedded Solutions",
@@ -2285,6 +2345,16 @@
           "wordCount": 7781,
           "title": "Managing Multiple Countries and Companies in Dynamics 365 Business Central (BC)",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Intercompany-Setup.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125220",
+          "author": "Dynamics Square CA",
+          "description": "xxx\nIn today's digital landscape, the business world is always evolving, and Companies are looking for smarter ways to operate, manage customer relations, and improve productivity. The common methods used for […]\nThe post ERP vs CRM: Key Differences | ERP Software Blog appeared first on ERP Software Blog.\nHow Real Companies are Using Dynamics 365\nWhat is an ERP Consultant?\nGive Customers Everything They Want This Year with Integrated ERP and CRM",
+          "link": "https://erpsoftwareblog.com/2025/03/erp-vs-crm-key-differences/",
+          "publishedOn": "2025-03-02T11:31:57.000Z",
+          "wordCount": 8240,
+          "title": "ERP vs CRM: Key Differences | ERP Software Blog",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/erp-vs-crm-1.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=124717",
@@ -21535,6 +21605,56 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/identify-the-event-that-triggered-the-flow-using-the-sdkmessage-in-dataverse-power-automate",
+          "author": "Nishant Rana",
+          "description": "When working with Power Automate (Cloud Flows) for Dataverse, a common scenario is handling multiple triggers efficiently. By default, we often create separate flows for different events, such as Create, Update, or Delete. However, using the SdkMessage field, we can identify the event that triggered the flow and handle different scenarios within a single flow. […]\nThe post Identify the Event That Triggered the Flow using the SdkMessage in Dataverse / Power Automate. appeared first on 365 Community Online.",
+          "link": "https://365community.online/identify-the-event-that-triggered-the-flow-using-the-sdkmessage-in-dataverse-power-automate",
+          "publishedOn": "2025-03-17T19:30:00.000Z",
+          "wordCount": 2432,
+          "title": "Identify the Event That Triggered the Flow using the SdkMessage in Dataverse / Power Automate.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Identify-the-Event-That-Triggered-the-Flow-using-the-SdkMessage.jpeg"
+        },
+        {
+          "id": "https://365community.online/auto-populating-power-automate-callback-urls-for-http-flows-in-dataverse",
+          "author": "Inogic",
+          "description": "In our previous blog, we covered regenerating the SAS key to secure Power Automate flows. While security is important, another challenge is managing callback URLs, which are crucial for external applications to trigger automation, especially in large-scale implementations. Manually accessing the Power Automate portal, finding the flow, and copying the callback URL each time is […]\nThe post Auto-Populating Power Automate Callback URLs for HTTP Flows in Dataverse appeared first on 365 Community Online.",
+          "link": "https://365community.online/auto-populating-power-automate-callback-urls-for-http-flows-in-dataverse",
+          "publishedOn": "2025-03-17T12:02:00.000Z",
+          "wordCount": 2903,
+          "title": "Auto-Populating Power Automate Callback URLs for HTTP Flows in Dataverse",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/HTTP-Flows-in-Dataverse.jpg"
+        },
+        {
+          "id": "https://365community.online/business-central-2025-wave-1-novedades-imprescindibles-en-desarrollo-integracion-y-seguridad-lectura-rapida",
+          "author": "jarmesto",
+          "description": "Microsoft ha anunciado las novedades de Business Central 2025 Wave 1, y esta versión viene cargada de funcionalidades orientadas a desarrolladores, partners y responsables técnicos. El foco está claro: mejorar la extensibilidad, modernizar integraciones y reforzar la seguridad. En este artículo, te comparto un análisis de las novedades más relevantes, con ejemplos, para que prepares […]\nThe post Business Central 2025 Wave 1: Novedades imprescindibles en desarrollo, integración y seguridad (lectura rápida ) appeared first on 365 Community Online.",
+          "link": "https://365community.online/business-central-2025-wave-1-novedades-imprescindibles-en-desarrollo-integracion-y-seguridad-lectura-rapida",
+          "publishedOn": "2025-03-17T11:05:00.000Z",
+          "wordCount": 2920,
+          "title": "Business Central 2025 Wave 1: Novedades imprescindibles en desarrollo, integración y seguridad (lectura rápida )",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Business-Central-2025-Wave-1-Novedades-imprescindibles-en-desarrollo-integracion.png"
+        },
+        {
+          "id": "https://365community.online/ai-innovations-with-microsoft-at-nvidia-gtc-2025-azure-ais-latest-breakthroughs-youtube",
+          "author": "John Lunn",
+          "description": "AI Innovations with Microsoft at NVIDIA GTC 2025: Azure AI’s Latest Breakthroughs! Welcome back to AzBytes! In this episode, John Lunn and Ty Parkin dive into the exciting AI innovations showcased by Microsoft at the NVIDIA GTC AI Conference. Event Details: March 17th to 21st, San Jose, California, or virtually Azure AI Platform: Build and […]\nThe post AI Innovations with Microsoft at NVIDIA GTC 2025: Azure AI’s Latest Breakthroughs! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/ai-innovations-with-microsoft-at-nvidia-gtc-2025-azure-ais-latest-breakthroughs-youtube",
+          "publishedOn": "2025-03-17T10:19:39.000Z",
+          "wordCount": 2679,
+          "title": "AI Innovations with Microsoft at NVIDIA GTC 2025: Azure AI’s Latest Breakthroughs! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/creating-an-instant-cloud-flow-from-scratch-youtube",
+          "author": "Manish chauhan",
+          "description": "Learn how to create an Instant Cloud Flow in Power Automate from scratch! This step-by-step guide will show you how to trigger a flow manually and automate simple tasks easily. This video consists of: 00:00 – 00:24 → Introduction 00:25 – 00:48 → In This Video 00:49 – 02:07 → Creating the Flow 02:08 – […]\nThe post Creating an Instant Cloud Flow from Scratch – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/creating-an-instant-cloud-flow-from-scratch-youtube",
+          "publishedOn": "2025-03-17T05:54:09.000Z",
+          "wordCount": 2440,
+          "title": "Creating an Instant Cloud Flow from Scratch – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/getting-the-best-out-of-teams-facilitator-agent",
           "author": "Sari Soinoja",
@@ -48881,6 +49001,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=19327",
+          "author": "André Arnaud de Calavon",
+          "description": "Investments and improvements are made by Microsoft on many different solutions. You hardly won’t miss the updates around Copilot and anonymous agents. In this post, I will share information about a new feature within Process Mining which is at the time of writing this post in preview. A new option is available to load event […]\nThe post The F&O Twist on Process Mining – Ingest from OneLake appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/03/the-fo-twist-on-process-mining-ingest-from-onelake/",
+          "publishedOn": "2025-03-17T07:22:43.000Z",
+          "wordCount": 4858,
+          "title": "The F&O Twist on Process Mining – Ingest from OneLake",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/03/OneLake1200.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=19257",
           "author": "André Arnaud de Calavon",
           "description": "In the autumn of last year, Microsoft shared a blog focusing on managing user security, visibility, and compliance for Microsoft Dynamics 365 F&O. Shortly thereafter, a post from Executive Automats revealed that Microsoft had plans to include features initially developed as ISV into the standard solution. The features are recently announced in the new 2025 […]\nThe post My first look at User Security Governance appeared first on Dynamicspedia.",
@@ -54666,6 +54796,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=30512",
+          "author": "Marjeta Dimnik",
+          "description": "At Docentric, we believe technology should be ethical, inclusive, and accessible to all. We actively support initiatives that empower women in technology, promote diversity in STEM, and promote responsible AI development. At the start of 2025, we proudly supported and participated in two key events: […]\nThe post Empowering Women in Engineering & Promoting Ethical AI: Inženirka leta, DATA_FAIR appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/empowering-women-in-engineering-and-promoting-ethical-ai_inzenirka-leta-data_fair/",
+          "publishedOn": "2025-03-03T10:34:36.000Z",
+          "wordCount": 11966,
+          "title": "Empowering Women in Engineering & Promoting Ethical AI: Inženirka leta, DATA_FAIR",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2025/03/D365Blog_Supporting_Women_in_Engineering_and_Ethical_AI_00.png"
+        },
         {
           "id": "https://ax.docentric.com/?p=30261",
           "author": "Marjeta Dimnik",
