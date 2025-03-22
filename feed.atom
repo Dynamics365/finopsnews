@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-03-21T01:40:42.835Z</updated>
+    <updated>2025-03-22T01:38:03.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Directions North America 2025: A Hub for Partners, ISVs & Resellers]]></title>
+        <id>https://erpsoftwareblog.com/?p=125579</id>
+        <link href="https://erpsoftwareblog.com/2025/03/directions-north-america-2025-conference/"/>
+        <updated>2025-03-21T18:51:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Directions North America 2025 is bringing Microsoft Partners, ISVs, and resellers together. Past attendees say Directions conferences foster collaboration, knowledge sharing, and discussions around developments within the Microsoft ecosystem. Continuing […]
+The post Directions North America 2025: A Hub for Partners, ISVs & Resellers appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASN Shipping Label: Everything You Need to Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=125580</id>
+        <link href="https://erpsoftwareblog.com/2025/03/asn-shipping-label-everything-you-need-to-know/"/>
+        <updated>2025-03-21T18:28:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Is inaccurate or missing information leading to delays and disrupting your shipping process? Advanced Shipping Notice (ASN) Shipping Label plays a crucial role in ensuring seamless logistics operations. The function of […]
+The post ASN Shipping Label: Everything You Need to Know appeared first on ERP Software Blog.
+Enhancing Efficiency with Advanced Packing and Shipping Options
+Benefits of ERP Software for Business: Top 7 Industries
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A subtle change in authentication to Dataverse in Dataverse DevTool]]></title>
+        <id>https://365community.online/a-subtle-change-in-authentication-to-dataverse-in-dataverse-devtool</id>
+        <link href="https://365community.online/a-subtle-change-in-authentication-to-dataverse-in-dataverse-devtool"/>
+        <updated>2025-03-21T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have been using Dataverse DevTools and went through adding a connection to your Dataverse environment and picked “Microsoft Login Prompt” as the authentication type you might have gone through the process where you need additional Global Admin approval for the app. This was because I was using my own AppId in Azure Entra […]
+The post A subtle change in authentication to Dataverse in Dataverse DevTool appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Danish Naglekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install and Configure Power BI Template Reports in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=125510</id>
+        <link href="https://erpsoftwareblog.com/2025/03/how-to-install-and-configure-power-bi-template-reports-in-business-central/"/>
+        <updated>2025-03-21T15:19:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central provides a seamless integration with Power BI, allowing businesses to gain real-time insights from their financial and operational data. Power BI Template Reports make it easier […]
+The post How to Install and Configure Power BI Template Reports in Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting
+Ep. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast
+The Important Business Function Your ERP System CAN'T Do]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AP Automation Integration for Microsoft Dynamics GP]]></title>
+        <id>https://erpsoftwareblog.com/?p=125203</id>
+        <link href="https://erpsoftwareblog.com/2025/03/ap-automation-integration-for-microsoft-dynamics-gp/"/>
+        <updated>2025-03-21T13:45:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Organizations today are increasingly seeking ways to automate their financial operations to improve efficiency and reduce manual workloads. One of the primary challenges with many ERP solutions is their inability […]
+The post AP Automation Integration for Microsoft Dynamics GP appeared first on ERP Software Blog.
+Connect the Dots Between Your AP Automation System and Binary Stream MEM
+Why You Should Consider Replacing Your Custom Solution With Microsoft Accounting Software
+Why to Consider Microsoft Dynamics GP for E-Commerce vs. NetSuite]]></summary>
+        <author>
+            <name>Rillion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded Power BI Reports in D365BC 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=125193</id>
+        <link href="https://erpsoftwareblog.com/2025/03/embedded-power-bi-reports-in-d365bc-2024/"/>
+        <updated>2025-03-21T13:40:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The latest release of Business Central 2024 marks a significant advancement in data analysis and reporting by integrating Embedded Power BI Reports in D365BC. This enhancement is specifically designed to […]
+The post Embedded Power BI Reports in D365BC 2024 appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Innovia Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move from Legacy ERP to Business Central for Distributors]]></title>
+        <id>https://erpsoftwareblog.com/?p=124721</id>
+        <link href="https://erpsoftwareblog.com/2025/03/move-from-legacy-erp-to-business-central-for-distributors/"/>
+        <updated>2025-03-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When your on-premises ERP system starts to show its age, it’s the perfect opportunity to upgrade to modern technology. That’s exactly what Accutech Data Supplies, a wholesale distributor with a […]
+The post Move from Legacy ERP to Business Central for Distributors appeared first on ERP Software Blog.
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+How to Perform a Year-End Close in Dynamics 365 Business Central
+Navigating Success in Supply Chain Planning: A Conversation with Netstock at Community Summit 2023]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Forms and How to Create Them in D365 CE | Step-by-Step Guide – YouTube]]></title>
+        <id>https://365community.online/what-are-forms-and-how-to-create-them-in-d365-ce-step-by-step-guide-youtube</id>
+        <link href="https://365community.online/what-are-forms-and-how-to-create-them-in-d365-ce-step-by-step-guide-youtube"/>
+        <updated>2025-03-21T13:01:18.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we’ll explore Forms in Dynamics 365 CE, understand their types, and learn how to create them step by step. Whether you are a beginner or looking to refine your skills, this tutorial will help you master Main Forms, Quick Create Forms, and Quick View Forms in D365. 🔹 This video consists of […]
+The post What are Forms and How to Create Them in D365 CE | Step-by-Step Guide – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Filter Dynamics Records Using Natural Language Search]]></title>
+        <id>https://365community.online/how-to-filter-dynamics-records-using-natural-language-search</id>
+        <link href="https://365community.online/how-to-filter-dynamics-records-using-natural-language-search"/>
+        <updated>2025-03-21T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Find and filter records by describing in plain English what you want Dynamics to show Microsoft have released a new feature in Dynamics called Natural Language Grid and View Search This feature makes it much quicker and easier to search for records in your system, by simply telling Dynamics what you’re looking for using Plain […]
+The post How To Filter Dynamics Records Using Natural Language Search appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Standard Business Central Inventory Counting Falls Short (And How to Fix It)]]></title>
+        <id>https://erpsoftwareblog.com/?p=125440</id>
+        <link href="https://erpsoftwareblog.com/2025/03/why-standard-business-central-inventory-counting-falls-short-and-how-to-fix-it/"/>
+        <updated>2025-03-21T11:24:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For companies using Microsoft Dynamics 365 Business Central, keeping an accurate inventory count is critical for maintaining smooth operations, reducing stock discrepancies, and ensuring financial accuracy. However, Business Central’s standard […]
+The post Why Standard Business Central Inventory Counting Falls Short (And How to Fix It) appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing “Flow Client Error: BadRequest” in Power Automate Unbound Actions]]></title>
+        <id>https://365community.online/fixing-flow-client-error-badrequest-in-power-automate-unbound-actions</id>
+        <link href="https://365community.online/fixing-flow-client-error-badrequest-in-power-automate-unbound-actions"/>
+        <updated>2025-03-21T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we’ll cover why the “Flow Client Error: BadRequest” error while working with Power Automate occurs and guide you through the exact steps to resolve it, ensuring your flows run smoothly without unnecessary disruptions. Have you ever come across this error? It can be frustrating, especially when the error message doesn’t provide much […]
+The post Fixing “Flow Client Error: BadRequest” in Power Automate Unbound Actions appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seamless Microsoft Dynamics ERP Migration Best Practices: A CTO's Step-by-Step Roadmap]]></title>
         <id>https://erpsoftwareblog.com/?p=125563</id>
@@ -104,6 +253,17 @@ The post Power Pages: Inserting Content Snippets in Design Studio appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365 Field Service: Record Log Fields | Work Order Legacy Form Overview – YouTube]]></title>
+        <id>https://365community.online/d365-field-service-record-log-fields-work-order-legacy-form-overview-youtube</id>
+        <link href="https://365community.online/d365-field-service-record-log-fields-work-order-legacy-form-overview-youtube"/>
+        <updated>2025-03-20T15:15:07.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we’ll walk you through using the Total Estimate Duration, First Arrived On, Completed On, and Closed On fields in the Work Order legacy form in Microsoft Dynamics 365 Field Service. These fields are essential for tracking the progress and completion of work orders, and we’ll explain how to utilize them to improve […]
+The post D365 Field Service: Record Log Fields | Work Order Legacy Form Overview – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Want to avoid #migration headaches? #shorts #dynamicsnav #upgrades – YouTube]]></title>
         <id>https://365community.online/want-to-avoid-migration-headaches-shorts-dynamicsnav-upgrades-youtube</id>
         <link href="https://365community.online/want-to-avoid-migration-headaches-shorts-dynamicsnav-upgrades-youtube"/>
@@ -121,6 +281,17 @@ The post Want to avoid #migration headaches? #shorts #dynamicsnav #upgrades – 
         <updated>2025-03-20T11:50:00.000Z</updated>
         <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG March 2025 meet up and we had yet another two amazing speakers join us. We were joined by another two brilliant community speakers, firstly Turja Chaudhuri joined us to talk Multi Tenant Architectures, then Maik van der Gaag came to discuss Reusable Bicep Modules […]
 The post Welsh Azure User Group March 2025 Meet Up! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group – March 2025 Event – YouTube]]></title>
+        <id>https://365community.online/welsh-azure-user-group-march-2025-event-youtube</id>
+        <link href="https://365community.online/welsh-azure-user-group-march-2025-event-youtube"/>
+        <updated>2025-03-20T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Welsh Azure User Group – March 2025 Event It was the day of our Welsh Azure User Group #WAUG March 2025 meet up and we had yet another two amazing speakers join us. We were joined by another two brilliant community speakers, firstly Turja Chaudhuri joined us to talk Multi Tenant Architectures, then Maik van […]
+The post Welsh Azure User Group – March 2025 Event – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>John Lunn</name>
         </author>
