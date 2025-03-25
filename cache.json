@@ -140,6 +140,16 @@
       "siteUrl": "https://kishoredynamics11.blogspot.com/",
       "articles": [
         {
+          "id": "https://kishoredynamics11.blogspot.com/2025/03/export-package-from-d365-using-rest-api.html",
+          "author": null,
+          "description": "Export a Package from D365 Using the Rest API (ExportToPackage) and Upload It to Blob Storage Using Logic Apps\n\n\n\n\n\nFollow the below steps:\n\n1. Create an export project in DMF.\n\n\n\n2. Use the ExportToPackage API URL listed below and pass the required parameters.\n    URL:\n\n\n{Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.ExportToPackage\n   Input parameters:\n\n  {\n    \"definitionGroupId\":\"<Data project name>\",\n    \"packageName\":\"<Name to use for downloaded file.>\",\n    \"executionId\":\"<Execution Id if it is a rerun>\",\n    \"reExecute\":<bool>,\n    \"legalEntityId\":\"<Legal entity Id>\"\n}\n\n\n\n\n3. After triggering the ExportToPackage API, a record will be created in the job history, and the system will prepare a ZIP file.\n\n\n\n4. The system will take some time to generate the package based on the data volume.\n5. To handle this delay, use the until function and add a delay. Use the provided URL to check the status of the export job.\n\n\n\n6. Assign the retrieved status to the Compose action.\n\n   body('Get_the_execution_status')?['value']\n\n\n7. The until loop will continue running until the status equals \"Success.\"\n\n\n\n8. After that, add a condition to check the status, and based on the result, proceed with downloading the file.\n\n\n\n9. To download the file, trigger the API URL using the POST method and pass the executionId in the request body.\n\n{Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.GetExportedPackageUrl\n\n\n{\"executionId\":\"<Execution Id>\"}\n\n\n\n\n10. Finally, upload the downloaded file to Blob Storage.\n\n\n\n\nOutPut:\n\n\n\n\n\n\n\n\n\nFile uploaded to Blob:\n\n\n \n\n\n\nWe have passed the required parameters, and it is returning the execution ID.\n\n\n\n\n\n\n\nWe are passing the execution ID, and it is returning the status.\n\n\n\n\n\n\n\n\n\nWe are passing the execution ID, and it is returning the temporary blob URL.\n\n\n\n\n\n\n\n\n\nWe are assigning it to the blob, and it is being saved in the blob.\n\n\n\n\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2025/03/export-package-from-d365-using-rest-api.html",
+          "publishedOn": "2025-03-24T06:38:00.000Z",
+          "wordCount": 3081,
+          "title": "Export a Package from D365 Using the Rest API (ExportToPackage) and Upload It to Blob Storage Using Logic Apps",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuiUde2Nr9vyXg6abj4SUJT5vjXTGXb23xSs-mFOZNCu2uDx4ChvK47zl65eUohxxVtZuBgYOt6DAd2dShUY_1SBg2wfWdh393Sb6i8QM0u8Q_m8hhdAVw1bwsnclIvqoW7hnoW_5z2X5MJmffW00sm2ov5facorLo4rRvp3exwQ7ewY85vz9c52eZ7o/w1200-h630-p-k-no-nu/image_2025_01_03T12_36_34_563Z.png"
+        },
+        {
           "id": "https://kishoredynamics11.blogspot.com/2025/03/creating-zip-file-and-push-to-d365.html",
           "author": null,
           "description": "Creating a ZIP File and push to D365 Using REST API in Logic Apps\n           I will receive a CSV file, which I need to convert into a ZIP file. This ZIP file will then be pushed to D365.\n    \n\n\n        To create the ZIP file, I have developed an Azure Function. The input file for the function will be the CSV file, and within the code, I will fetch the manifest files from the blob storage.\n\n\nCreating a ZIP File Using Azure Function\n1. I have a CSV file that needs to be converted into a ZIP file, which will include two manifest XML files.\n\n2. The CSV file is picked from the input.\n\n\n3. The manifest XML files are stored in blob storage. Within the code, I connect to the blob storage and retrieve the XML files.\n4. These three files (the CSV and two XML files) are added to the ZIP file, which …",
@@ -1697,6 +1707,66 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=125661",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nThe countdown is on for Directions North America 2025, and this year's venue makes it especially exciting. The organizers are targeting between 1,300-1,400 attendees this year, with registrations already around […]\nThe post The Smart Attendee's Guide to the Directions NA 2025 Venue & Event appeared first on ERP Software Blog.\nGet More in the Cloud with Dynamics 365 Business Central\nShould You Attend AXUG or D365UG for Summit Phoenix?\nUser Group Summit Phoenix is THE Event For ALL Legacy, Current and Future Microsoft Dynamics Users",
+          "link": "https://erpsoftwareblog.com/2025/03/the-smart-attendees-guide-to-the-directions-na-2025-venue-event/",
+          "publishedOn": "2025-03-25T00:51:35.000Z",
+          "wordCount": 8707,
+          "title": "The Smart Attendee's Guide to the Directions NA 2025 Venue & Event",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Venue-Guide-Graphic.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125576",
+          "author": "Tigunia",
+          "description": "xxx\nLet’s face it: reporting and analytics can often feel daunting. Whether you're generating financial reports, tracking key metrics, or studying sales patterns, the data you collect should enhance decision-making and […]\nThe post How to Unlock Better Microsoft Dynamics 365 Analytics appeared first on ERP Software Blog.\nEp. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast\n10 Ways to Tell You Need Better Dynamics 365 Reporting for Business Central \nBusiness Intelligence BI:  Reporting on Steroids",
+          "link": "https://erpsoftwareblog.com/2025/03/how_to_unlock_better_microsoct_dynamics_365_analytics/",
+          "publishedOn": "2025-03-24T19:01:15.000Z",
+          "wordCount": 7990,
+          "title": "How to Unlock Better Microsoft Dynamics 365 Analytics",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Tigunia-10-Steps-to-Better-Analytical-Reporting-LinkedIn.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=123725",
+          "author": "Boyer &#38; Associates",
+          "description": "xxx\nSupply chain leaders, we know you're navigating a battlefield where agility isn't just an advantage—it's your lifeline. The difference between leading the pack and falling behind comes down to one […]\nThe post Revolutionize Demand Planning with Microsoft's Copilot in Supply Chain Management appeared first on ERP Software Blog.\nComparing the Dynamics 365 Warehouse Management Module with Best-of-Breed Solutions\nFuture-Proofing Dynamics 365: A Strategic Approach to Sustainable Development\nUpgrading from Dynamics AX to Dynamics 365 Finance and Supply Chain Management – Is It Worth It?",
+          "link": "https://erpsoftwareblog.com/2025/03/revolutionize-demand-planning-with-microsofts-copilot-in-supply-chain-management/",
+          "publishedOn": "2025-03-24T15:07:53.000Z",
+          "wordCount": 8555,
+          "title": "Revolutionize Demand Planning with Microsoft's Copilot in Supply Chain Management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Boyer-Banner.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125624",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nIf your business is still running on Microsoft Dynamics NAV, you could be at risk of non-compliance with HMRC’s VAT regulations in 2025. With the UK government tightening tax regulations […]\nThe post UK Businesses at Risk! Why Your Dynamics NAV Upgrade is Crucial for HMRC VAT Compliance in 2025 appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nMicrosoft Dynamics NAV – 1.3 Million Users Can’t Be Wrong\nA Simple Comparison of the Four Microsoft Dynamics ERP Products",
+          "link": "https://erpsoftwareblog.com/2025/03/uk-businesses-at-risk-why-your-dynamics-nav-upgrade-is-crucial-for-hmrc-vat-compliance-in-2025/",
+          "publishedOn": "2025-03-24T12:00:26.000Z",
+          "wordCount": 7910,
+          "title": "UK Businesses at Risk! Why Your Dynamics NAV Upgrade is Crucial for HMRC VAT Compliance in 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Navision-ERP-Dashboard.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125553",
+          "author": "Insight Works",
+          "description": "xxx\nDiscover what’s new in Order Fulfillment Worksheet v1.4 for Business Central, featuring enhanced automation, tracking, and inventory control.\nThe post What’s New in Order Fulfillment Worksheet v1.4 for Business Central? appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
+          "link": "https://erpsoftwareblog.com/2025/03/whats-new-in-order-fulfillment-worksheet-v1-4-for-business-central/",
+          "publishedOn": "2025-03-24T11:37:30.000Z",
+          "wordCount": 7820,
+          "title": "What’s New in Order Fulfillment Worksheet v1.4 for Business Central?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Order-Fulfillment-Worksheet-250.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125617",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nRunning a nonprofit organization involves multitasking on multiple fronts. From overseeing members to managing accounting, communication, and events, there's always a lot to handle. Typically, different tools are used for […]\nThe post Why Implementing ERP Software is Important for Your Non Profit Organization appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central\nCreate a Closed-Loop Analysis, Planning, and Reporting Process",
+          "link": "https://erpsoftwareblog.com/2025/03/why-implementing-erp-software-is-important-for-your-non-profit-organization/",
+          "publishedOn": "2025-03-24T10:17:06.000Z",
+          "wordCount": 8134,
+          "title": "Why Implementing ERP Software is Important for Your Non Profit Organization",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Azure-DevOps-Services-and-Tools-visual-selection-2-e1742810861921.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=125579",
           "author": "PartnerTalks",
           "description": "xxx\nDirections North America 2025 is bringing Microsoft Partners, ISVs, and resellers together. Past attendees say Directions conferences foster collaboration, knowledge sharing, and discussions around developments within the Microsoft ecosystem. Continuing […]\nThe post Directions North America 2025: A Hub for Partners, ISVs & Resellers appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -1755,6 +1825,16 @@
           "wordCount": 8275,
           "title": "Move from Legacy ERP to Business Central for Distributors",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-03-ERP-Distributor-Moves-from-Legacy-ERP-to-Business-Central-in-the-Cloud_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125622",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nShadow IT refers to the use of unauthorized or unmanaged software, applications, and cloud services within an organization. In the context of Microsoft Dynamics NAV, many businesses have developed custom […]\nThe post “Shadow IT” Risks in Dynamics NAV: Why Upgrading to Business Central Reduces Hidden IT Dependencies appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nDynamics 365 Business Central Webinar - The New Dynamics NAV",
+          "link": "https://erpsoftwareblog.com/2025/03/shadow-it-risks-in-dynamics-nav-why-upgrading-to-business-central-reduces-hidden-it-dependencies/",
+          "publishedOn": "2025-03-21T11:53:59.000Z",
+          "wordCount": 8031,
+          "title": "“Shadow IT” Risks in Dynamics NAV: Why Upgrading to Business Central Reduces Hidden IT Dependencies",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MS-Dynamics-365-Interface-02.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=125440",
@@ -2355,6 +2435,16 @@
           "wordCount": 7963,
           "title": "Process Manufacturer’s Operations and Reporting in Dynamics BC",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-03-VicinityChem-and-Business-Central-Modernize-Process-Manufacturers-Operations-and-Reporting_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125621",
+          "author": "Dynamics Square CA",
+          "description": "xxx\nIn our contemporary society that is driven by data, organizations utilize advanced visualization tools to process and analyze information efficiently. Tableau and Power BI are the two frontrunner business intelligence […]\nThe post Power BI vs Tableau: Find out Which One is Right for your Business? appeared first on ERP Software Blog.\n2015 and Beyond: Business Intelligence\nHow to Prepare for a Dashboard Implementation\n2015 Corporate Performance Management Trends",
+          "link": "https://erpsoftwareblog.com/2025/03/power-bi-vs-tableau/",
+          "publishedOn": "2025-03-10T11:45:06.000Z",
+          "wordCount": 8117,
+          "title": "Power BI vs Tableau: Find out Which One is Right for your Business?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Power-BI-vs-Tableau-1.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=124935",
@@ -21945,6 +22035,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/fixed-input-string-was-not-in-a-correct-format-the-specified-domain-does-not-exist-or-cannot-be-contacted-in-dataverse-plugin-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "In one of our plugins, we encountered “The specified domain does not exist or cannot be contacted – System.FormatException: Input string was not in a correct format” error. Basically this issue can arise due to incorrect string formatting, unexpected data types, or missing values. Our initial thought was that it could be because one of […]\nThe post Fixed – “Input String Was Not in a Correct Format / The specified domain does not exist or cannot be contacted” in Dataverse Plugin (Dynamics 365) appeared first on 365 Community Online.",
+          "link": "https://365community.online/fixed-input-string-was-not-in-a-correct-format-the-specified-domain-does-not-exist-or-cannot-be-contacted-in-dataverse-plugin-dynamics-365",
+          "publishedOn": "2025-03-24T19:30:00.000Z",
+          "wordCount": 2543,
+          "title": "Fixed – “Input String Was Not in a Correct Format / The specified domain does not exist or cannot be contacted” in Dataverse Plugin (Dynamics 365)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Fixed-–-Input-String-Was-Not-in-a-Correct-Format.jpeg"
+        },
+        {
+          "id": "https://365community.online/customer-insights-journey-march-madness",
+          "author": "Malin Martnes",
+          "description": "You probably know that there is an update on Dynamics 365 Customer Insights – Journeys every month. This month there are some huge improvements that we’ve been waiting on for a long time. This first post goes through how you can use new unmapped fields in marketing forms. This one has been on the release […]\nThe post Customer Insights – Journey March Madness appeared first on 365 Community Online.",
+          "link": "https://365community.online/customer-insights-journey-march-madness",
+          "publishedOn": "2025-03-24T13:43:00.000Z",
+          "wordCount": 2792,
+          "title": "Customer Insights – Journey March Madness",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Customer-Insights-–-Journey-March-Madness.png"
+        },
+        {
+          "id": "https://365community.online/using-input-parameters-and-dynamic-content-in-power-automate-youtube",
+          "author": "Manish chauhan",
+          "description": "Discover how to use input parameters and dynamic content in Power Automate to make your flows more flexible and powerful. A must-watch for those looking to enhance their automation skills! This video consists of: 0:00 – 8:00 ➝ Introduction 9:00 – 15:00 ➝ In the previous video 16:00 – 30:00 ➝ In this video 31:00 […]\nThe post Using Input Parameters and Dynamic Content in Power Automate – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/using-input-parameters-and-dynamic-content-in-power-automate-youtube",
+          "publishedOn": "2025-03-24T13:00:01.000Z",
+          "wordCount": 2477,
+          "title": "Using Input Parameters and Dynamic Content in Power Automate – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/enhancing-user-text-input-with-copilot-in-power-apps",
+          "author": "Inogic",
+          "description": "In this blog, we’ll explore how Microsoft’s AI-powered Copilot enhances text input in canvas apps, simplifying email writing, improving productivity, and ensuring clarity. We’ll guide you through using Copilot’s features for generating and rewriting content with tailored length and tone adjustments. In an era where digital interactions dominate, clear and effective text input is crucial […]\nThe post Enhancing User Text Input with Copilot in Power Apps appeared first on 365 Community Online.",
+          "link": "https://365community.online/enhancing-user-text-input-with-copilot-in-power-apps",
+          "publishedOn": "2025-03-24T11:59:00.000Z",
+          "wordCount": 3023,
+          "title": "Enhancing User Text Input with Copilot in Power Apps",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Copilot-in-Power-Apps.png"
+        },
+        {
+          "id": "https://365community.online/unleash-your-workspace-resizable-fact-boxes-arrive-in-business-central-v26",
+          "author": "Amol Salvi",
+          "description": "Tired of cramped Fact Boxes? Wishing you could see more detail without endless scrolling? Your wish has been granted! Dynamics 365 Business Central version 26 (2025 wave 1) introduces a much-anticipated feature: resizable Fact Boxes! For years, Business Central users have navigated valuable contextual information within the FactBox pane. However, the fixed width often led […]\nThe post Unleash Your Workspace: Resizable Fact Boxes Arrive in Business Central v26! appeared first on 365 Community Online.",
+          "link": "https://365community.online/unleash-your-workspace-resizable-fact-boxes-arrive-in-business-central-v26",
+          "publishedOn": "2025-03-24T10:58:00.000Z",
+          "wordCount": 2735,
+          "title": "Unleash Your Workspace: Resizable Fact Boxes Arrive in Business Central v26!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Unleash-Your-Workspace-Resizable-Fact-Boxes-Arrive-in-Business-Central.png"
+        },
+        {
+          "id": "https://365community.online/new-book-almanack-of-a-microsoft-dynamics-365-projops-non-stock-consultant",
+          "author": "Sarang Kusare",
+          "description": "Hi All, With God’s grace and the blessings of the elder ones, I am very happy to launch my new book called “Almanack of a Microsoft Dynamics 365 ProjOps (non-stock) Consultant”. Please refer to the previously published books at the end of this message. This book is essentially a collection of my daily learning notes, taken while […]\nThe post New Book – Almanack of a Microsoft Dynamics 365 ProjOps (non-stock) Consultant appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-book-almanack-of-a-microsoft-dynamics-365-projops-non-stock-consultant",
+          "publishedOn": "2025-03-24T06:27:00.000Z",
+          "wordCount": 2865,
+          "title": "New Book – Almanack of a Microsoft Dynamics 365 ProjOps (non-stock) Consultant",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/New-Book-Almanack-of-a-Microsoft-Dynamics-365-ProjOps.jpeg"
+        },
         {
           "id": "https://365community.online/cost-plus-billing-in-project-operations",
           "author": "Priyesh Wagh",
@@ -48608,6 +48758,21 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=7070",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/03/24/microsoft-bizapps-deutschland-podcast-49/",
+          "publishedOn": "2025-03-24T05:39:21.000Z",
+          "wordCount": 3551,
+          "title": "Microsoft BizApps Deutschland Podcast #49",
+          "enclosure": {
+            "url": "https://dynamicsax-fico.com/wp-content/uploads/2024/12/2024-12-13_hazimv5.mp3",
+            "length": "58023303",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/12/hazimcollagev1.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=7065",
           "author": "Ludwig Reinhard",
