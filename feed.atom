@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-03-29T01:39:44.892Z</updated>
+    <updated>2025-03-30T01:47:37.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calling Dataverse Web API using Delegated Permissions in a Custom Connector]]></title>
+        <id>https://365community.online/calling-dataverse-web-api-using-delegated-permissions-in-a-custom-connector</id>
+        <link href="https://365community.online/calling-dataverse-web-api-using-delegated-permissions-in-a-custom-connector"/>
+        <updated>2025-03-29T20:36:00.000Z</updated>
+        <summary type="html"><![CDATA[When integrating with Microsoft Dataverse, developers may need to interact with the Web API to perform advanced operations such as impersonating users, batching etc. While Power Automate provides the “Invoke an HTTP request” action to call Dataverse API, this approach has limitations, such as lack of reusability and maintainability. A better alternative is using a […]
+The post Calling Dataverse Web API using Delegated Permissions in a Custom Connector appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #50]]></title>
+        <id>http://dynamicsax-fico.com/?p=7264</id>
+        <link href="https://dynamicsax-fico.com/2025/03/29/microsoft-bizapps-deutschland-podcast-50/"/>
+        <updated>2025-03-29T10:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Task Progress Update in Project Operations & Mark Task as Completed]]></title>
+        <id>https://365community.online/project-task-progress-update-in-project-operations-mark-task-as-completed</id>
+        <link href="https://365community.online/project-task-progress-update-in-project-operations-mark-task-as-completed"/>
+        <updated>2025-03-29T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Update % progress manually on Project Tasks in Project Operations. The post Project Task Progress Update in Project Operations & Mark Task as Completed appeared first on D365 Demystified. Original Post https://d365demystified.com/2025/03/29/project-task-progress-update-in-project-operations-mark-task-as-completed/
+The post Project Task Progress Update in Project Operations & Mark Task as Completed appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TrueCommerce Gears Up for Directions North America 2025]]></title>
         <id>https://erpsoftwareblog.com/?p=125976</id>
@@ -47,6 +79,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Darren Atkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying License Management for Dynamics 365 Finance and Operations: Improved User License Validation]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/03/28/simplifying-license-management-dynamics-365/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/03/28/simplifying-license-management-dynamics-365/"/>
+        <updated>2025-03-28T16:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Starting April 30th, Dynamics 365 administrators will gain access to new license usage reporting tools, centralizing user license management. Unassigned users will receive notifications to request license assignment. By August 30th, licenses will be required for accessing Dynamics 365 Finance and Operations applications. Existing license holders will experience no disruption.
+The post Simplifying License Management for Dynamics 365 Finance and Operations: Improved User License Validation appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Georg Glantschnig</name>
         </author>
     </entry>
     <entry>
@@ -403,6 +446,17 @@ The post Microsoft’s Contact Center Evolution with Peter Ruiter – YouTube ap
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Naming updates to Copilot Service workspace and service representatives]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/03/26/new-terminology-for-ai-agents-and-copilot-service/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/03/26/new-terminology-for-ai-agents-and-copilot-service/"/>
+        <updated>2025-03-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-evolving customer service landscape, the integration of AI, such as Copilot and autonomous agents, is transforming how businesses interact with their customers. However, this advancement brings about the need for clear and precise terminology to avoid confusion. Renaming the apps To ensure our AI experiences align with Microsoft’s AI-first vision, we will differentiate
+The post Naming updates to Copilot Service workspace and service representatives appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jessica Li</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[6 Proven Tips for a Seamless Cloud ERP Transition with Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=125779</id>
         <link href="https://erpsoftwareblog.com/2025/03/6-proven-tips-for-a-seamless-cloud-erp-transition-with-business-central/"/>
@@ -415,6 +469,17 @@ Comparing AP Solutions: Mekorma vs. BILL
 Microsoft NAV 2016 Version Upgrade! Never Worry!!]]></summary>
         <author>
             <name>AdCirrus ERP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft named a Leader in The Forrester Wave™: Customer Relationship Management, Q1 2025]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/03/26/microsoft-named-a-leader-in-the-forrester-wave-customer-relationship-management-q1-2025/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/03/26/microsoft-named-a-leader-in-the-forrester-wave-customer-relationship-management-q1-2025/"/>
+        <updated>2025-03-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re delighted to announce that Microsoft has been named a Leader in The Forrester Wave™: Customer Relationship Management, Q1 2025.
+The post Microsoft named a Leader in The Forrester Wave™: Customer Relationship Management, Q1 2025 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jeff Comstock</name>
         </author>
     </entry>
     <entry>
@@ -72299,16 +72364,6 @@ This is how you can achieve it. 
 The post Dynamics 365 SCM: Do not reserve in Inbound appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 eCommerce – My personal copy-paste blog]]></title>
-        <id>http://kurthatlevik.com/?p=4457</id>
-        <link href="https://kurthatlevik.com/2023/03/30/d365-ecommerce-my-personal-copy-paste-blog/"/>
-        <updated>2023-03-30T16:54:17.000Z</updated>
-        <summary type="html"><![CDATA[This blogpost is meant for myself as a copy-paste of stuff I often use when working with Dynamics 365 eCommerce. If others can benefit from it just makes me happy. URL’s when working with D365 eCommerce sites: Depending on the URL, you need to add the prefix ‘?’ for the first parameter, and ‘&’ for … Continue reading D365 eCommerce – My personal copy-paste blog]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
