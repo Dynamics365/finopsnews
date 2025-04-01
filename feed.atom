@@ -2,10 +2,242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-03-31T01:46:09.616Z</updated>
+    <updated>2025-04-01T01:52:19.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Business Central’s Standard Order Management Isn’t Enough for Fast Fulfillment]]></title>
+        <id>https://erpsoftwareblog.com/?p=126041</id>
+        <link href="https://erpsoftwareblog.com/2025/03/why-business-centrals-standard-order-management-isnt-enough-for-fast-fulfillment/"/>
+        <updated>2025-03-31T23:19:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Order Management gets streamlined in Business Central with the Order Fulfillment Worksheet, reducing errors and accelerating order processing.
+The post Why Business Central’s Standard Order Management Isn’t Enough for Fast Fulfillment appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning in Accounts Receivable? Discover the Power of Automation]]></title>
+        <id>https://erpsoftwareblog.com/?p=126029</id>
+        <link href="https://erpsoftwareblog.com/2025/03/discover-the-power-of-accounts-receivable-automation/"/>
+        <updated>2025-03-31T21:15:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Are you still manually managing your accounts receivable (AR)? Most finance teams are, meaning you're likely spending valuable time and resources tracking invoices, chasing collections, and carrying out tasks that […]
+The post Drowning in Accounts Receivable? Discover the Power of Automation appeared first on ERP Software Blog.
+Top 4 Reasons Your Business Needs Unified A/R for Dynamics 365 Business Central
+2 Demo Days - Microsoft Dynamics GP and 365 Business Central
+Benefits of Email Automation in Business Central]]></summary>
+        <author>
+            <name>Mary Miller, PayTrace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 EDI Tools for Business Central Featured in MSDW Comparison Showcase]]></title>
+        <id>https://erpsoftwareblog.com/?p=126028</id>
+        <link href="https://erpsoftwareblog.com/2025/03/5-edi-tools-for-business-central-featured-in-msdw-comparison-showcase/"/>
+        <updated>2025-03-31T20:59:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dealing with all the paperwork in a business can sometimes feel overwhelming—especially if you’re juggling things like purchase orders, invoices, and shipping notices all at once. Electronic Data Interchange (EDI) […]
+The post 5 EDI Tools for Business Central Featured in MSDW Comparison Showcase appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Unorthodox Strategy to Make Barcode Scanning a Success and Save our Client $350,000 in 6 Months]]></title>
+        <id>https://erpsoftwareblog.com/?p=126024</id>
+        <link href="https://erpsoftwareblog.com/2025/03/our-unorthodox-strategy-to-make-barcode-scanning-a-success-and-save-our-client-350000-in-6-months/"/>
+        <updated>2025-03-31T20:27:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Picture this: Our consultants sprinting through a busy warehouse, dodging forklifts while waving large signs and shouting "SCAN, SCAN, SCAN!" at the top of their lungs. That's not how we […]
+The post Our Unorthodox Strategy to Make Barcode Scanning a Success and Save our Client $350,000 in 6 Months appeared first on ERP Software Blog.
+Process, Discrete and Mixed Mode Manufacturing; 3 Business Issues - 3 Dynamic Solutions!
+Real Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP
+Stila Cosmetics Selects Dynamics ERP Over Oracle And Sage]]></summary>
+        <author>
+            <name>Stephanie Clark, Elliott Clark Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Hidden Property for Choice Datatype in Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/understanding-the-hidden-property-for-choice-datatype-in-dataverse-dynamics-365</id>
+        <link href="https://365community.online/understanding-the-hidden-property-for-choice-datatype-in-dataverse-dynamics-365"/>
+        <updated>2025-03-31T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dataverse provides a flexible way to manage data through choice (option set) fields. One of the newer enhancements is the Hidden property, which allows administrators to hide specific choice values from selection while retaining them in the system. To see it in action, Navigate to Dataverse Table Designer in the Power Apps Maker Portal, and […]
+The post Understanding the Hidden Property for Choice Datatype in Dataverse / Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Real Time Alerts using Microsoft Graph in Power Platform – Part 1]]></title>
+        <id>https://365community.online/enabling-real-time-alerts-using-microsoft-graph-in-power-platform-part-1</id>
+        <link href="https://365community.online/enabling-real-time-alerts-using-microsoft-graph-in-power-platform-part-1"/>
+        <updated>2025-03-31T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Real-time notifications on system changes are crucial for proactive monitoring and automation. Microsoft Graph allows us to receive change notifications across multiple Microsoft 365 resources. In this blog series, we will explore how to set up Microsoft Graph change notifications for Teams presence status changes, with alerts delivered to Azure Event Hub. As part of […]
+The post Enabling Real Time Alerts using Microsoft Graph in Power Platform – Part 1 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Physical Inventory Journals in Dynamics 365 Business Central (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=67968</id>
+        <link href="https://www.encorebusiness.com/blog/physical-inventory-journals-d365-bc/"/>
+        <updated>2025-03-31T17:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Streamlining Physical Inventory Journals in Dynamics 365 Business Central (Video)
+Physical Inventory Journals in Dynamics 365 Business Central are essential for accounting and warehouse management teams to ensure accurate on-hand inventory counts. This powerful tool helps users calculate expected inventory, print reports, and enter and post actual counted inventory. In this recorded webinar,  learn how to set up your system for success, perform cycle counts...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jesse Gehrke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing in Business Central - From Excel to Business Central: Transforming Your Inventory Planning Process]]></title>
+        <id>https://erpsoftwareblog.com/?p=126010</id>
+        <link href="https://erpsoftwareblog.com/2025/03/mastering-manufacturing-in-business-central-from-excel-to-business-central-transforming-your-inventory-planning-process/"/>
+        <updated>2025-03-31T17:36:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For many small and mid-sized manufacturers, inventory planning starts in Excel spreadsheets. While Excel offers flexibility, it lacks automation, real-time data integration, and error prevention, making it difficult to scale […]
+The post Mastering Manufacturing in Business Central - From Excel to Business Central: Transforming Your Inventory Planning Process appeared first on ERP Software Blog.
+Mastering Manufacturing with Business Central: Introduction to Manufacturing in Business Central
+Mastering Manufacturing with Business Central: Setting the Stage – Master Data in Business Central
+Mastering Manufacturing in Business Central - Optimizing Inventory Planning in Business Central: Choosing the Right Reordering Policies]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create pages with Copilot in SharePoint]]></title>
+        <id>https://365community.online/how-to-create-pages-with-copilot-in-sharepoint</id>
+        <link href="https://365community.online/how-to-create-pages-with-copilot-in-sharepoint"/>
+        <updated>2025-03-31T17:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Create pages with Copilot in SharePoint is finally here! The long-awaited feature has just arrived in SharePoint. You can now use it to quickly create a page from scratch or use documents as a data source, and Copilot will generate webparts with content, and event images. Let’s go and play with it! Introduction The feature […]
+The post How to create pages with Copilot in SharePoint appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Marcin Siewnicki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download your free ERP requirements checklist template.]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=88710</id>
+        <link href="https://erpsoftwareblog.com/2025/03/download-your-free-erp-requirements-checklist-template/"/>
+        <updated>2025-03-31T14:30:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing the right ERP can be challenging, particularly with the rate of change most industries are facing today. Not only must it meet the demands of business today, but given […]
+The post Download your free ERP requirements checklist template. appeared first on ERP Software Blog.
+Build your ERP requirements checklist in 8 simple steps
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Third Party Shipping: Top 5 Benefits]]></title>
+        <id>https://erpsoftwareblog.com/?p=125988</id>
+        <link href="https://erpsoftwareblog.com/2025/03/third-party-shipping-top-5-benefits/"/>
+        <updated>2025-03-31T13:53:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Businesses require transportation methods for their products, but not all have the resources or expertise to establish their logistics operations. To make this easy, companies may consider hiring a third […]
+The post Third Party Shipping: Top 5 Benefits appeared first on ERP Software Blog.
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Common Challenges Testing Dynamics 365 and How Test Automation Can Help
+Top 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Pricing Strategies: How Trade and Distribution Businesses Can Stay Profitable]]></title>
+        <id>https://erpsoftwareblog.com/?p=125998</id>
+        <link href="https://erpsoftwareblog.com/2025/03/the-future-of-pricing-strategies-how-trade-and-distribution-businesses-can-stay-profitable/"/>
+        <updated>2025-03-31T09:51:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In a world where customers expect discounts but businesses need to protect margins, pricing has become a delicate balancing act. The trade and distribution sector faces an evolving landscape where […]
+The post The Future of Pricing Strategies: How Trade and Distribution Businesses Can Stay Profitable appeared first on ERP Software Blog.
+The Intersection of Finance and Operations: Driving Business Agility with Dynamics 365
+How Microsoft Dynamics 365 F&SCM Helps Businesses Control Inventory, Plan Better, and Boost Profits
+Demand planning AI in D365 finance: the future of efficiency and precision]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Maps on Canvas Apps with Maplytics: The Perfect Duo for Sales Managers!]]></title>
+        <id>https://365community.online/interactive-maps-on-canvas-apps-with-maplytics-the-perfect-duo-for-sales-managers</id>
+        <link href="https://365community.online/interactive-maps-on-canvas-apps-with-maplytics-the-perfect-duo-for-sales-managers"/>
+        <updated>2025-03-31T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet Ana: A Sales Manager on a Mission! Ana is a regional sales manager at a top logistics company. Her team is always on the move, visiting clients and ensuring smooth operations. But there’s a problem— Planning the best routes, finding nearby customer locations, and accessing CRM data in one place is a constant struggle. […]
+The post Interactive Maps on Canvas Apps with Maplytics: The Perfect Duo for Sales Managers! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing AI with Microsoft Copilot]]></title>
+        <id>https://365community.online/?p=99532</id>
+        <link href="https://365community.online/embracing-ai-with-microsoft-copilot"/>
+        <updated>2025-03-31T08:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the 4 Levels of AI Transformation So, you’ve heard all the noise about Microsoft Copilot, and you’re wondering what the fuss is. Is it just Clippy on steroids? Or is it actually useful for something beyond writing “Happy Monday, hope you’re well” emails? Let’s have a wee look. What Is Microsoft Copilot Anyway? Microsoft […]
+The post Embracing AI with Microsoft Copilot appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mark Christie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troubleshooting Series – Ep1 – Admin Center – Service Health]]></title>
+        <id>https://365community.online/troubleshooting-series-ep1-admin-center-service-health</id>
+        <link href="https://365community.online/troubleshooting-series-ep1-admin-center-service-health"/>
+        <updated>2025-03-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been thinking about doing this series for quite a while.  I got the idea from one of the sessions I attended at Directions EMEA (if I’m not mistaken) – and the realization that .. let’s say .. on some of the things presented, I had some things to add.  So why not doing a […]
+The post Troubleshooting Series – Ep1 – Admin Center – Service Health appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Map file in ALM]]></title>
+        <id>https://365community.online/using-map-file-in-alm</id>
+        <link href="https://365community.online/using-map-file-in-alm"/>
+        <updated>2025-03-31T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To ensure a healthy code state, a developer needs to ensure that every part of the implementation that is deployed to downstream environments is healthy. Within the Power Platform we can, for example, use map files in ALM. This blog post will explain what map files are and how we can use it. Background When […]
+The post Using Map file in ALM appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Benedikt Bergmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculate Values Only for Visible FlowFields in Business Central]]></title>
+        <id>https://365community.online/calculate-values-only-for-visible-flowfields-in-business-central</id>
+        <link href="https://365community.online/calculate-values-only-for-visible-flowfields-in-business-central"/>
+        <updated>2025-03-31T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[FlowFields in Business Central are incredibly powerful, allowing you to dynamically calculate values based on related data. However, what happens when you have many FlowFields, but only a few are visible on a page? Calculating all of them can lead to unnecessary performance overhead. Business Central’s clever design allows you to optimize this process by […]
+The post Calculate Values Only for Visible FlowFields in Business Central appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Won’t Believe How EASY Windows 365 Cloud PC Planning Can Be – YouTube]]></title>
+        <id>https://365community.online/you-wont-believe-how-easy-windows-365-cloud-pc-planning-can-be-youtube</id>
+        <link href="https://365community.online/you-wont-believe-how-easy-windows-365-cloud-pc-planning-can-be-youtube"/>
+        <updated>2025-03-31T02:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Don’t make these common Windows 365 Cloud PC mistakes! Learn how to plan deployments and see a demo of editing provisioning policies in this video. This is part 1 of this sub topic! Episode Breakdown: 00:00 – Episode Intro 00:49 – Episode Breakdown 01:13 – Determine your objectives 01:55 – Example Objective A: Access Apps […]
+The post You Won’t Believe How EASY Windows 365 Cloud PC Planning Can Be – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calling Dataverse Web API using Delegated Permissions in a Custom Connector]]></title>
         <id>https://365community.online/calling-dataverse-web-api-using-delegated-permissions-in-a-custom-connector</id>
@@ -153,6 +385,21 @@ The post AI Hub with D365 F&O – YouTube appeared first on 365 Community Online
 The post Informatica Object Synchronization Explained | Informatica Cloud IICS Tutorial | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Dynamics 365 for Healthcare: Enhancing Patient Experience & Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=126005</id>
+        <link href="https://erpsoftwareblog.com/2025/03/ai-in-dynamics-365-for-healthcare-enhancing-patient-experience-operations/"/>
+        <updated>2025-03-28T12:07:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The healthcare sector is rapidly expanding automating processes to offer patients value-based treatment. By including artificial intelligence with Dynamics 365 for Healthcare, Microsoft has increased its presence in the healthcare […]
+The post AI in Dynamics 365 for Healthcare: Enhancing Patient Experience & Operations appeared first on ERP Software Blog.
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+Dynamics Copilot: How Six AI Experts Save Hours Every Day
+ERP Comparison: NetSuite vs. Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
