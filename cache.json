@@ -140,6 +140,16 @@
       "siteUrl": "https://kishoredynamics11.blogspot.com/",
       "articles": [
         {
+          "id": "https://kishoredynamics11.blogspot.com/2025/04/how-to-add-admin-role-to-user-from-sql.html",
+          "author": null,
+          "description": "How to add Admin role to user from SQL in D365FO\nIn SecurityRole table we will find all roles.\nExecute the below statement to know the system admin role Recid.\n\nSelect Recid,* from SecurityRole where NAME like 'sys%'\n\n\n\nInsert the data into SECURITYUSERROLE  table with username and role recid. Execute the below statement.\ninsert into SECURITYUSERROLE (USER_, SECURITYROLE,ASSIGNMENTSTATUS,ASSIGNMENTMODE)\nvalues('Kishore', 235,1,1)\nIf you want to update you can use the below statement.\nupdate SECURITYUSERROLE\nset SECURITYROLE = 235 where  USER_ = 'Kishore'\nReference : Click here\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2025/04/how-to-add-admin-role-to-user-from-sql.html",
+          "publishedOn": "2025-04-02T07:10:00.000Z",
+          "wordCount": 2863,
+          "title": "How to add Admin role to user from SQL in D365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO2INeNcr1Ovn81t0jK4AvboLGV7e7hHCr1FEEpIX5bamZJnH7ZCX0rC3QfefcKAADU1zFvQKKggte19LOElb9MUzfSOVszHvEzBkk6rCB8qKsODMi9oFavo6GsT8qnBBbTO_3FZYQWthznqLccD6Qb9mQjTbAniID3WWGNDviwR7BMgPzxwEi_lF42rw/w1200-h630-p-k-no-nu/Screenshot_9.jpg"
+        },
+        {
           "id": "https://kishoredynamics11.blogspot.com/2025/03/export-package-from-d365-using-rest-api.html",
           "author": null,
           "description": "Export a Package from D365 Using the Rest API (ExportToPackage) and Upload It to Blob Storage Using Logic Apps\n\n\n\n\n\nFollow the below steps:\n\n1. Create an export project in DMF.\n\n\n\n2. Use the ExportToPackage API URL listed below and pass the required parameters.\n    URL:\n\n\n{Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.ExportToPackage\n   Input parameters:\n\n  {\n    \"definitionGroupId\":\"<Data project name>\",\n    \"packageName\":\"<Name to use for downloaded file.>\",\n    \"executionId\":\"<Execution Id if it is a rerun>\",\n    \"reExecute\":<bool>,\n    \"legalEntityId\":\"<Legal entity Id>\"\n}\n\n\n\n\n3. After triggering the ExportToPackage API, a record will be created in the job history, and the system will prepare a ZIP file.\n\n\n\n4. The system will take some time to generate the package based on the data volume.\n5. To handle this delay, use the until function and add a delay. Use the provided URL to check the status of the export job.\n\n\n\n6. Assign the retrieved status to the Compose action.\n\n   body('Get_the_execution_status')?['value']\n\n\n7. The until loop will continue running until the status equals \"Success.\"\n\n\n\n8. After that, add a condition to check the status, and based on the result, proceed with downloading the file.\n\n\n\n9. To download the file, trigger the API URL using the POST method and pass the executionId in the request body.\n\n{Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.GetExportedPackageUrl\n\n\n{\"executionId\":\"<Execution Id>\"}\n\n\n\n\n10. Finally, upload the downloaded file to Blob Storage.\n\n\n\n\nOutPut:\n\n\n\n\n\n\n\n\n\nFile uploaded to Blob:\n\n\n \n\n\n\nWe have passed the required parameters, and it is returning the execution ID.\n\n\n\n\n\n\n\nWe are passing the execution ID, and it is returning the status.\n\n\n\n\n\n\n\n\n\nWe are passing the execution ID, and it is returning the temporary blob URL.\n\n\n\n\n\n\n\n\n\nWe are assigning it to the blob, and it is being saved in the blob.\n\n\n\n\n\n\n\nKeep Daxing!!",
@@ -1696,6 +1706,56 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=126150",
+          "author": "MetaOption LLC",
+          "description": "xxx\nConsolidated labels are a critical part of the shipping process; they generate a single, unified label for multiple packages in a shipment. The primary objective of consolidated labels is to […]\nThe post  appeared first on ERP Software Blog.\nASN Shipping Label: Everything You Need to Know\nDynamics 365 Business Central - Cloud or On-Premise. What should you choose?\nBenefits of ERP Software for Business: Top 7 Industries",
+          "link": "https://erpsoftwareblog.com/2025/04/how-consolidated-labels-with-business-central-helps-shipping/",
+          "publishedOn": "2025-04-02T18:43:21.000Z",
+          "wordCount": 7764,
+          "title": "Untitled",
+          "imageUrl": "https://www.metaoption.com/blog/wp-content/uploads/2025/04/post-banner-010425.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126084",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "xxx\nDynamics GP to BC Migration Questions: If you are familiar with Microsoft Dynamics Great Plains you know that GP (as it is sometimes referred to) is a very popular ERP […]\nThe post Dynamics GP to BC Migration Questions appeared first on ERP Software Blog.\nHot trend: giving rental companies rich graphical views of equipment availability\nIncrease equipment first-time fix rate and keep data secure with DynaRent PowerApps \nCan distributors free themselves from the hassles of mismatched data across various systems?",
+          "link": "https://erpsoftwareblog.com/2025/04/dynamics-gp-to-bc-migration-questions/",
+          "publishedOn": "2025-04-02T17:50:04.000Z",
+          "wordCount": 8355,
+          "title": "Dynamics GP to BC Migration Questions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/iStock-947075714-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=125807",
+          "author": "Binary Stream",
+          "description": "xxx\nManaging multiple entities in Microsoft Dynamics 365 Business Central comes with challenges, from manual consolidations to intercompany transactions and complex reporting. While Business Central provides core functionality, growing organizations need more robust […]\nThe post Free download | Guide to multi-entity management in Microsoft Dynamics 365 Business Central. appeared first on ERP Software Blog.\nHow to Manage Your Inventory Using Microsoft Dynamics 365 Business Central\nHow to Set Up Automatic Invoices Inside of Microsoft Dynamics 365 Business Central\nBusiness Central to Dataverse Integration: How it Benefits Business Teams",
+          "link": "https://erpsoftwareblog.com/2025/04/free-download-guide-to-multi-entity-management-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-04-02T16:30:08.000Z",
+          "wordCount": 7275,
+          "title": "Free download | Guide to multi-entity management in Microsoft Dynamics 365 Business Central.",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/option4-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126138",
+          "author": "Cavallo",
+          "description": "xxx\nSurviving Tariff Volatility How Distributors Can Protect Profitability in a Shifting Trade Landscape Brought to you by Cavallo® Profit maximization software to help you respond faster, price smarter, and protect […]\nThe post  appeared first on ERP Software Blog.\nHow frozen is your capital?\nGain Control of Your Vendor Payments with AP Automation\n5 Ways Dynamics 365 Business Central Leads to Business Growth",
+          "link": "https://erpsoftwareblog.com/2025/04/126138/",
+          "publishedOn": "2025-04-02T13:26:22.000Z",
+          "wordCount": 7720,
+          "title": "Untitled",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126016",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works showcasing real-world Business Central solutions at DynamicsCon in Chicago, Illinois, from May 13–16, 2025.\nThe post Insight Works Sponsors DynamicsCon 2025: Driving Innovation in Business Central for Manufacturing & Distribution appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nHow to Choose a Mobile Computer to use with Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2025/04/insight-works-sponsors-dynamicscon-2025-driving-innovation-in-business-central-for-manufacturing-distribution/",
+          "publishedOn": "2025-04-02T11:57:40.000Z",
+          "wordCount": 7612,
+          "title": "Insight Works Sponsors DynamicsCon 2025: Driving Innovation in Business Central for Manufacturing & Distribution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dynamicscon-2025-logo-1.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=126093",
           "author": "Njevity",
@@ -22505,6 +22565,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/como-tratar-erros-no-power-apps-e-power-automate-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Hotmart. https://go.hotmart.com/S74000868Y ♐ Adquira meu curso PowerApps avançado na Hotmart. https://go.hotmart.com/U98457324E ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 🚀 Let’s connect: Linkedin: https://www.linkedin.com/in/saulosoaresoliveira Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCUuAtzt0pMmnC54UpEVls8g/join […]\nThe post Como tratar erros no Power Apps e Power Automate. – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/como-tratar-erros-no-power-apps-e-power-automate-youtube",
+          "publishedOn": "2025-04-02T12:35:04.000Z",
+          "wordCount": 2401,
+          "title": "Como tratar erros no Power Apps e Power Automate. – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-to-automatically-capitalize-the-first-letter-in-dynamics-365-using-javascript-%f0%9f%9a%80-youtube",
+          "author": "Manish chauhan",
+          "description": "Want to ensure proper data formatting in Dynamics 365 CRM? In this video, I’ll show you how to automatically capitalize the first letter of a field (like “firstname”) using JavaScript. This simple script enhances data consistency and improves user experience in your CRM system!   🔹 What You’ll Learn: ✔️ How to use executionContext.getFormContext() to […]\nThe post How to Automatically Capitalize the First Letter in Dynamics 365 Using JavaScript 🚀 – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-automatically-capitalize-the-first-letter-in-dynamics-365-using-javascript-%f0%9f%9a%80-youtube",
+          "publishedOn": "2025-04-02T12:31:01.000Z",
+          "wordCount": 2568,
+          "title": "How to Automatically Capitalize the First Letter in Dynamics 365 Using JavaScript 🚀 – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/will-dynamics-field-service-work-with-our-current-it-setup",
+          "author": "Pete Murray",
+          "description": "If you’re running a field service organisation, you’ll be juggling lots of different software systems. You’ll want data to flow seamlessly between systems When our customers ask about Microsoft Dynamics 365 Field Service, their first question is often “Will it work with our current systems?“ The short answer is yes – and it can be […]\nThe post Will Dynamics Field Service work with our current IT setup? appeared first on 365 Community Online.",
+          "link": "https://365community.online/will-dynamics-field-service-work-with-our-current-it-setup",
+          "publishedOn": "2025-04-02T12:01:00.000Z",
+          "wordCount": 2995,
+          "title": "Will Dynamics Field Service work with our current IT setup?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/enhance-your-data-visualizations-with-copilot",
+          "author": "Inogic",
+          "description": "Imagine having a way to instantly turn raw data into clear, insightful visuals without the hassle of manually gathering and updating information. As a Data Analyst, you know how challenging and time-consuming it can be to pull data from multiple CRM records, create reports, and keep charts updated whenever data changes. But now, Microsoft Dynamics […]\nThe post Enhance Your Data Visualizations with Copilot appeared first on 365 Community Online.",
+          "link": "https://365community.online/enhance-your-data-visualizations-with-copilot",
+          "publishedOn": "2025-04-02T07:06:00.000Z",
+          "wordCount": 3086,
+          "title": "Enhance Your Data Visualizations with Copilot",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Data-Visualizations-with-Copilot.png"
+        },
+        {
+          "id": "https://365community.online/windows-365-planning-secrets-you-need-to-know-youtube",
+          "author": "shabaz darr",
+          "description": "In Part 2 of Planning Windows 365, learn how to inventory your environment, determine licensing, and review Endpoint Management. Get the insights you need to successfully implement Windows 365! Episode Breakdown: 00:00 – Episode Intro 00:55 – Episode Breakdown 01:18 – Inventory Your Environment 03:02 – Determine Licensing 04:24 – Review Endpoint Management & Infrastructure […]\nThe post Windows 365 Planning SECRETS You Need to Know – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/windows-365-planning-secrets-you-need-to-know-youtube",
+          "publishedOn": "2025-04-02T02:00:01.000Z",
+          "wordCount": 2418,
+          "title": "Windows 365 Planning SECRETS You Need to Know – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/navigating-updates-your-guide-to-microsoft-power-platform-updates",
+          "author": "Saurav Dhyani",
+          "description": "This article provides a high-level overview of managing updates for the Microsoft Power Platform and Dynamics 365. It is important to stay informed about the latest updates and understanding the different types of updates that are deployed to ensure platform stability and minimize disruptions. New features, optimisations, bug fixes, deprecations, and security patches are constantly […]\nThe post Navigating Updates: Your Guide to Microsoft Power Platform Updates appeared first on 365 Community Online.",
+          "link": "https://365community.online/navigating-updates-your-guide-to-microsoft-power-platform-updates",
+          "publishedOn": "2025-04-02T00:20:00.000Z",
+          "wordCount": 3192,
+          "title": "Navigating Updates: Your Guide to Microsoft Power Platform Updates",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Navigating-Updates-Your-Guide-to-Microsoft-Power-Platform-Updates.png"
+        },
         {
           "id": "https://365community.online/salesforce-developer-account-setup-how-to-setup-salesforce-account-salesforce-tutorial-mindmajix-youtube",
           "author": null,
