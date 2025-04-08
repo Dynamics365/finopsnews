@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-04-07T01:44:38.603Z</updated>
+    <updated>2025-04-08T01:41:53.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s New in 2025 Release Wave 1 for Dynamics 365]]></title>
+        <id>https://www.encorebusiness.com/?p=68007</id>
+        <link href="https://www.encorebusiness.com/blog/whats-new-in-2025-release-wave-1-for-dynamics-365/"/>
+        <updated>2025-04-07T20:30:40.000Z</updated>
+        <summary type="html"><![CDATA[What’s New in 2025 Release Wave 1 for Dynamics 365
+The 2025 release wave 1 for Dynamics 365 brings a long list of new features and enhancements that can help boost efficiency and productivity. Many improvements revolve around Microsoft’s investments in Copilot and AI agents in Dynamics 365 Business Central, Dynamics 365 CRM applications, and Dynamics 365 Finance & Operations. A complete breakdown of features...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updating Records Without Triggering Plugins – Bypassing Plugin Execution in Dynamics 365 / Dataverse using C#]]></title>
+        <id>https://365community.online/updating-records-without-triggering-plugins-bypassing-plugin-execution-in-dynamics-365-dataverse-using-c</id>
+        <link href="https://365community.online/updating-records-without-triggering-plugins-bypassing-plugin-execution-in-dynamics-365-dataverse-using-c"/>
+        <updated>2025-04-07T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, we had to write a small utility—a console application—that would go and update a bunch of existing records in our Dynamics 365 environment. However, we didn’t want any of my custom plugins to trigger during this update. Because the updates were internal, more like data correction / cleanup, and had nothing to do with […]
+The post Updating Records Without Triggering Plugins – Bypassing Plugin Execution in Dynamics 365 / Dataverse using C# appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Social Care Efficiency with AI: Copilot’s Role in Transforming Care Plans – YouTube]]></title>
+        <id>https://365community.online/enhancing-social-care-efficiency-with-ai-copilots-role-in-transforming-care-plans-youtube</id>
+        <link href="https://365community.online/enhancing-social-care-efficiency-with-ai-copilots-role-in-transforming-care-plans-youtube"/>
+        <updated>2025-04-07T17:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Enhancing Social Care Efficiency with AI: Copilot’s Role in Transforming Care Plans Discover how AI technology is revolutionizing the social care sector! In this insightful presentation, Michelle North-Lunn explores the transformative potential of Copilot in enhancing efficiencies within social care. Learn how Copilot can streamline administrative tasks, ensure compliance with CIW standards, and allow social […]
+The post Enhancing Social Care Efficiency with AI: Copilot’s Role in Transforming Care Plans – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download: The CFO's guide to advanced subscription billing in Microsoft Dynamics 365 Finance.]]></title>
+        <id>https://erpsoftwareblog.com/?p=125806</id>
+        <link href="https://erpsoftwareblog.com/2025/04/download-guide-to-advanced-subscription-billing-in-microsoft-dynamics-365-finance/"/>
+        <updated>2025-04-07T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+From revenue recognition and deferrals to compliance and custom pricing models, managing subscription-based processes can be challenging. While Dynamics 365 Finance offers provides solid, out-of-the-box financial management fundamentals, finance teams […]
+The post Download: The CFO's guide to advanced subscription billing in Microsoft Dynamics 365 Finance. appeared first on ERP Software Blog.
+Benefits DynaRent Adds to Dynamics 365 F&SCM as a Rental Software
+Microsoft Dynamics 365 has changed the Cloud ERP revolution, but what about your reporting and budgeting?
+Want to provide equipment and its status directly to each depot manager and take proper action immediately?]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaOption is Heading to Directions NA 2025!]]></title>
+        <id>https://erpsoftwareblog.com/?p=126270</id>
+        <link href="https://erpsoftwareblog.com/2025/04/metaoption-is-heading-to-directions-na-2025/"/>
+        <updated>2025-04-07T15:55:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+We’re excited to be going to Directions North America – the event is being held on April 7-9 in Las Vegas, and we can’t wait to see you there! Why […]
+The post MetaOption is Heading to Directions NA 2025! appeared first on ERP Software Blog.
+How Cloud ERP Helps Build Strong Supply Chains
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central 2025 Wave 1 release: the state of SOAP deprecation.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-2025-wave-1-release-the-state-of-soap-deprecation</id>
+        <link href="https://365community.online/dynamics-365-business-central-2025-wave-1-release-the-state-of-soap-deprecation"/>
+        <updated>2025-04-07T14:49:00.000Z</updated>
+        <summary type="html"><![CDATA[I think that many of you know that quite a long time ago Microsoft raised an alert saying that exposing Dynamics 365 Business Central UI pages as SOAP endpoints (via the Web Services page) will be deprecated in the future. This should not be a news for you… Starting from Dynamics 365 Business Central 2025 […]
+The post Dynamics 365 Business Central 2025 Wave 1 release: the state of SOAP deprecation. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Performance Logs]]></title>
+        <id>https://365community.online/d365-performance-logs</id>
+        <link href="https://365community.online/d365-performance-logs"/>
+        <updated>2025-04-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last article, I explained how to create custom logs in Microsoft Dynamics 365 for Finance and Operations. In this lesson, learn how to expand custom logs to create D365 performance logs to help understand where performance may be improved. While performance improvement is a vast topic, this tutorial will show you how to… […]
+The post D365 Performance Logs appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Performance Logs]]></title>
+        <id>https://dynamics365musings.com/?p=4229</id>
+        <link href="https://dynamics365musings.com/d365-performance-logs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-performance-logs"/>
+        <updated>2025-04-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last article, I explained how to create custom logs in Microsoft Dynamics 365 for Finance and Operations. In this lesson, learn how to expand custom logs to create D365 performance logs to help understand where performance may be improved. While performance improvement is a vast topic, this tutorial will show you how to... Continue Reading →
+The post D365 Performance Logs appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP for HR: Improve Your Payroll and Employee Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=126244</id>
+        <link href="https://erpsoftwareblog.com/2025/04/erp-for-hr-improve-your-payroll-and-employee-management/"/>
+        <updated>2025-04-07T11:57:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Human resources drive business success, making their productivity critical. Integrating ERP with HR and payroll is essential. An ERP for HR streamlines daily tasks like onboarding and evaluations. An ERP […]
+The post ERP for HR: Improve Your Payroll and Employee Management appeared first on ERP Software Blog.
+Properly Handle Holiday Pay with Greenshades and Dynamics 365 ERP
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Shift Scheduling Matters: How to Optimize Labor Costs in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=126129</id>
+        <link href="https://erpsoftwareblog.com/2025/04/why-shift-scheduling-matters-how-to-optimize-labor-costs-in-business-central/"/>
+        <updated>2025-04-07T11:04:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Struggling with labor costs and inefficient schedules? Learn how Shop Floor Insight for Business Central uses automated shift scheduling, real-time time tracking, and mobile tools to streamline workforce management. Improve productivity, reduce overtime, and align labor with production using smart scheduling strategies.
+The post Why Shift Scheduling Matters: How to Optimize Labor Costs in Business Central appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Features in Business Central 2025 Release Wave 1: Features You Can’t Miss]]></title>
+        <id>https://erpsoftwareblog.com/?p=126196</id>
+        <link href="https://erpsoftwareblog.com/2025/04/top-features-in-business-central-2025-release-wave-1-features-you-cant-miss/"/>
+        <updated>2025-04-07T09:34:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central continues to raise the bar with each release, and 2025 Release Wave 1 is packed with enhancements that improve productivity, streamline processes, and boost usability—especially […]
+The post Top Features in Business Central 2025 Release Wave 1: Features You Can’t Miss appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: The Best Choice for Manufacturers
+Overcoming Challenges to Integration
+JourneyTEAM Awarded 2021 VAR Star Recognition]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Deadlines Like a Pro: Automate Due Date Reminders for Real Estate with Microsoft Power Automate]]></title>
+        <id>https://erpsoftwareblog.com/?p=126231</id>
+        <link href="https://erpsoftwareblog.com/2025/04/master-deadlines-like-a-pro-automate-due-date-reminders-for-real-estate-with-microsoft-power-automate/"/>
+        <updated>2025-04-07T08:24:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Missed lease renewals, forgotten rent payments, and delayed maintenance—sound familiar? For real estate professionals, managing a sea of deadlines is part of the job, but relying on manual processes is […]
+The post Master Deadlines Like a Pro: Automate Due Date Reminders for Real Estate with Microsoft Power Automate appeared first on ERP Software Blog.
+DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+Keep Up With A Nation That's On The Move]]></summary>
+        <author>
+            <name>Domain 6 Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 Top 10 Most Watched Videos on Our YouTube Channel (January To March 2025) 🎥]]></title>
+        <id>https://365community.online/%f0%9f%9a%80-top-10-most-watched-videos-on-our-youtube-channel-january-to-march-2025-%f0%9f%8e%a5</id>
+        <link href="https://365community.online/%f0%9f%9a%80-top-10-most-watched-videos-on-our-youtube-channel-january-to-march-2025-%f0%9f%8e%a5"/>
+        <updated>2025-04-07T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, 2025 is an exciting month for our YouTube channel, with thousands of Business Central enthusiasts engaging with our content. If you haven’t watched these videos yet, now is the perfect time to catch up!  Here’s a recap of the top 10 most-watched videos from January to March, along with reasons why they should […]
+The post 🚀 Top 10 Most Watched Videos on Our YouTube Channel (January To March 2025) 🎥 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Really Protect Your Data Using Windows 365 Security Features? – YouTube]]></title>
+        <id>https://365community.online/can-you-really-protect-your-data-using-windows-365-security-features-youtube</id>
+        <link href="https://365community.online/can-you-really-protect-your-data-using-windows-365-security-features-youtube"/>
+        <updated>2025-04-07T03:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Learn the best practices for Windows 365 security with a demo on configuring security baselines. Keep your data safe with these important guidelines! Episode Breakdown – 00:00 – Episode Intro 00:53 – Episode Breakdown 01:11 – Windows 365 Security Best Practices 04:32 – Demo: Deploy Security Baselines Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Microsoft Dev Box Resource […]
+The post Can You Really Protect Your Data Using Windows 365 Security Features? – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 AP Automation Tools for Business Central Compared in MSDW Showcase]]></title>
         <id>https://erpsoftwareblog.com/?p=126226</id>
@@ -33,6 +213,21 @@ The post Dynamics 365 Sales Goals appeared first on 365 Community Online.]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to optimize your budget planning with Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=126235</id>
+        <link href="https://erpsoftwareblog.com/2025/04/how-to-optimize-your-budget-planning-with-dynamics-365/"/>
+        <updated>2025-04-05T08:52:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Budget planning is a critical part of running a business. It allows you to oversee and better understand whether your business has enough revenue to pay its expenses.  With the Budget Planning feature […]
+The post How to optimize your budget planning with Dynamics 365  appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reliable by Design: How Commission Plan Became Metropolitan Sales’ Trusted Solution]]></title>
         <id>https://erpsoftwareblog.com/?p=126219</id>
         <link href="https://erpsoftwareblog.com/2025/04/reliable-by-design-how-commission-plan-became-metropolitan-sales-trusted-solution/"/>
@@ -45,6 +240,17 @@ How to Automate Your Commissions Processing and Order Management in 2024
 Crafting Your Variable Pay Program: 5 Tips For Success]]></summary>
         <author>
             <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Power Apps: March 2025 Feature Update]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-march-2025-feature-update/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-march-2025-feature-update/"/>
+        <updated>2025-04-04T19:36:22.000Z</updated>
+        <summary type="html"><![CDATA[A summary of AI development, governance and end user updates as well as community, and learning updates from throughout the month so you can access it in one easy place. 
+The post What’s new in Power Apps: March 2025 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Clay Wesener</name>
         </author>
     </entry>
     <entry>
@@ -429,6 +635,21 @@ Business Central to Dataverse Integration: How it Benefits Business Teams]]></su
 The post Transform dispatching in Dynamics 365 Field Service with Scheduling Operations Agent  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Anil Murching</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surviving Tariff Volatility]]></title>
+        <id>https://erpsoftwareblog.com/?p=126138</id>
+        <link href="https://erpsoftwareblog.com/2025/04/surviving-tariff-volatility/"/>
+        <updated>2025-04-02T13:26:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+How Distributors Can Protect Profitability in a Shifting Trade Landscape Brought to you by Cavallo® Profit maximization software to help you respond faster, price smarter, and protect your margins. A […]
+The post Surviving Tariff Volatility appeared first on ERP Software Blog.
+How frozen is your capital?
+Gain Control of Your Vendor Payments with AP Automation
+5 Ways Dynamics 365 Business Central Leads to Business Growth]]></summary>
+        <author>
+            <name>Cavallo</name>
         </author>
     </entry>
     <entry>
@@ -73438,17 +73659,6 @@ This is how you can achieve it. 
 …]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 SCM: Do not reserve in Inbound]]></title>
-        <id>https://erconsult.eu/?p=7581</id>
-        <link href="https://erconsult.eu/blog/dynamics-365-scm-do-not-reserve-in-inbound/"/>
-        <updated>2023-04-08T17:31:46.000Z</updated>
-        <summary type="html"><![CDATA[You are going to have this error in Dynamics 365 Warehouse management, guaranteed. The error manifests itself at the production order picking or at sales order picking: the picking location is empty. Depending on the Location directive failures setup under the Warehouse management parameters this is going to either create a […]
-The post Dynamics 365 SCM: Do not reserve in Inbound appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
         </author>
     </entry>
     <entry>
