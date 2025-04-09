@@ -568,16 +568,6 @@
           "wordCount": 2822,
           "title": "Set vendor on hold using x++",
           "imageUrl": null
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html",
-          "author": null,
-          "description": "Print the current date in the report using x++.\n\n\nUse any function to print the date:\n\n=formatdatetime(today)\n\n\n=FORMAT(Cdate(today), \"dd-MM-yyyy\")\n\n\n=Report Generation Date: \" & FORMAT(Cdate(today), \"dd-MM-yyyy\")\n\n\n=Format(Now(), \"dd/MM/yyyy hh:mm tt\")\n\n\n=\"Report generation date:  \" & Format(Globals!ExecutionTime,\"dd/MM/yyyy  h:mm:ss tt\" )\n\n\n=\"Report Generation Date: \" & Today()\n\n \n=Format(today(), \"dd/MM/yyyy\")\n \n \n=Globals!ExecutionTime\n\n\n\n\nor\n\n\n=Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser\n(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, \n\"d\", Parameters!AX_RenderingCulture.Value) & vbCrLf & Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser\n(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, \"t\", Parameters!AX_RenderingCulture.Value)\n\n\nPrint user details:\n\n =User!UserID\n\nXUserInfo::find(false, curUserId()).name;   \n\n\n\n\n\nKeep daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html",
-          "publishedOn": "2023-04-10T07:25:00.008Z",
-          "wordCount": 2828,
-          "title": "Print current date in report using x++",
-          "imageUrl": null
         }
       ]
     },
@@ -1688,16 +1678,6 @@
           "wordCount": 2374,
           "title": "NodeJS + Dynamics 365 Finance and Supply Chain – A great combo?",
           "imageUrl": "https://impulztech.com/wp-content/uploads/2022/08/MS-D365-logo-300x114.png"
-        },
-        {
-          "id": "https://impulztech.com/?p=3086",
-          "author": "Wajahat Wasti",
-          "description": "Overview In Microsoft Dynamics 365 Finance and Operations, development and customization can be done within development environment and deployed to UAT / Production environment. In this blog we are going to discuss how these changes can be deployed to UAT / Production environment Steps for deploying changes using Lifecycle Services Step -1: Create Deployable package […]\nThe post Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services appeared first on Impulz Technologies LLC.",
-          "link": "https://impulztech.com/microsoft-dynamics-365-finance-and-operations-importing-deployable-package-to-uat-production-using-lifecycle-services/",
-          "publishedOn": "2023-04-10T08:26:21.000Z",
-          "wordCount": 1517,
-          "title": "Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services",
-          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/04/imppp-300x200.jpg"
         }
       ]
     },
@@ -50214,6 +50194,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=7254",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/04/08/microsoft-bizapps-deutschland-podcast-51/",
+          "publishedOn": "2025-04-08T15:40:35.000Z",
+          "wordCount": 3551,
+          "title": "Microsoft BizApps Deutschland Podcast #51",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.wordpress.com/wp-content/uploads/2025/02/andreasdutzv5.mp3",
+            "length": "34423463",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2025/02/andreascollagev1.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=7264",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -57088,16 +57083,6 @@
           "wordCount": 2211,
           "title": "X++ to run XIRR",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhkzZcaE7mcaRDeYkE2dYcrnIwNKb_9K_PKywXYjYUBLnIitL2Dd_70sPiZ9jAnwcvE6kETHxm7BYlUcXjKm4sMC4xaFhhd55Xa_-3Z9l9FjNJxi6X3Mpe0d-U7bs4Yxp_7J5T3-XQMM6IU5qPHLnSO5IruTq37x1JY5H84NxhfluaS2FWPHl1pTcmM=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html",
-          "author": null,
-          "description": "I cannot find a particular term for this type of join; so I called it 'hanging left outer join'.\n\n\nLet's state the problem.\n\n\nWe have two tables:\n- LedgerJournalTrans (trans) with a field mgcProjId, which is a reference to ProjTable.\n- mgcWarrantsDetails (details), which may have 0..N records for certain records from ProjTable.\n\n\nExamples of data in both may look like the following:\n\n\n\n\nIf we apply standard outer join, the output will be as follows\n\n\n\nBut we need to print all details records by 'hanging' them against the same projId, like this\n\n\n\nSo, no duplicates from both tables must be present in the merged table.\n\n\nThis is how you can achieve it. \n\n/// <summary>\n    /// Process report data.\n    /// </summary>\n    public void processReport()\n    {\n        Query                   query;\n…",
-          "link": "https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html",
-          "publishedOn": "2023-04-09T19:59:00.002Z",
-          "wordCount": 2427,
-          "title": "Two outer joined tables in a report without duplicates from both sides",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgJlNxlYwHotpiJtjZooTpFUghyshF1Z-HyrAoqP-EOQ-C9mB6ApMUXI5mqwOsL36rrcMCEtLHMW41hGhC-rJDeJen7bmelSED0V1_kSJBbWLHGuj5rjrxSMtIhi6eNoUsZnIhFRnRFEwypMj1IC8h6cV-KoQvcGhFYC3xVSuUpLSTncJVh11YsObKi=w1200-h630-p-k-no-nu"
         }
       ]
     },

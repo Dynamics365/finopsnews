@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-04-08T01:41:53.497Z</updated>
+    <updated>2025-04-09T01:42:36.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #51]]></title>
+        <id>http://dynamicsax-fico.com/?p=7254</id>
+        <link href="https://dynamicsax-fico.com/2025/04/08/microsoft-bizapps-deutschland-podcast-51/"/>
+        <updated>2025-04-08T15:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s New in 2025 Release Wave 1 for Dynamics 365]]></title>
         <id>https://www.encorebusiness.com/?p=68007</id>
@@ -73543,122 +73553,6 @@ internal final class Vendtable_Extension
 Keep Daxing!!]]></summary>
         <author>
             <name>Dynamics World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services]]></title>
-        <id>https://impulztech.com/?p=3086</id>
-        <link href="https://impulztech.com/microsoft-dynamics-365-finance-and-operations-importing-deployable-package-to-uat-production-using-lifecycle-services/"/>
-        <updated>2023-04-10T08:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Overview In Microsoft Dynamics 365 Finance and Operations, development and customization can be done within development environment and deployed to UAT / Production environment. In this blog we are going to discuss how these changes can be deployed to UAT / Production environment Steps for deploying changes using Lifecycle Services Step -1: Create Deployable package […]
-The post Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services appeared first on Impulz Technologies LLC.]]></summary>
-        <author>
-            <name>Wajahat Wasti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print current date in report using x++]]></title>
-        <id>https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html</id>
-        <link href="https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html"/>
-        <updated>2023-04-10T07:25:00.008Z</updated>
-        <summary type="html"><![CDATA[Print the current date in the report using x++.
-
-
-Use any function to print the date:
-
-=formatdatetime(today)
-
-
-=FORMAT(Cdate(today), "dd-MM-yyyy")
-
-
-=Report Generation Date: " & FORMAT(Cdate(today), "dd-MM-yyyy")
-
-
-=Format(Now(), "dd/MM/yyyy hh:mm tt")
-
-
-="Report generation date:  " & Format(Globals!ExecutionTime,"dd/MM/yyyy  h:mm:ss tt" )
-
-
-="Report Generation Date: " & Today()
-
- 
-=Format(today(), "dd/MM/yyyy")
- 
- 
-=Globals!ExecutionTime
-
-
-
-
-or
-
-
-=Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser
-(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, 
-"d", Parameters!AX_RenderingCulture.Value) & vbCrLf & Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser
-(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, "t", Parameters!AX_RenderingCulture.Value)
-
-
-Print user details:
-
- =User!UserID
-
-XUserInfo::find(false, curUserId()).name;   
-
-
-
-
-
-Keep daxing!!]]></summary>
-        <author>
-            <name>Dynamics World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two outer joined tables in a report without duplicates from both sides]]></title>
-        <id>https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html</id>
-        <link href="https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html"/>
-        <updated>2023-04-09T19:59:00.002Z</updated>
-        <summary type="html"><![CDATA[I cannot find a particular term for this type of join; so I called it 'hanging left outer join'.
-
-
-Let's state the problem.
-
-
-We have two tables:
-- LedgerJournalTrans (trans) with a field mgcProjId, which is a reference to ProjTable.
-- mgcWarrantsDetails (details), which may have 0..N records for certain records from ProjTable.
-
-
-Examples of data in both may look like the following:
-
-
-
-
-If we apply standard outer join, the output will be as follows
-
-
-
-But we need to print all details records by 'hanging' them against the same projId, like this
-
-
-
-So, no duplicates from both tables must be present in the merged table.
-
-
-This is how you can achieve it. 
-
-/// <summary>
-    /// Process report data.
-    /// </summary>
-    public void processReport()
-    {
-        Query                   query;
-…]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
