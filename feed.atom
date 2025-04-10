@@ -2,10 +2,183 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-04-09T01:42:36.186Z</updated>
+    <updated>2025-04-10T01:42:26.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multi-entity management in Microsoft Dynamics 365: Going beyond the Business Central core.]]></title>
+        <id>https://erpsoftwareblog.com/?p=125835</id>
+        <link href="https://erpsoftwareblog.com/2025/04/multi-entity-management-in-microsoft-dynamics-365-going-beyond-the-business-central-core/"/>
+        <updated>2025-04-09T16:30:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For organizations with multiple businesses, units, or divisions, finding the right way to manage these entities is crucial to ensure efficiency. Being able to share information, access real-time reporting insights, […]
+The post Multi-entity management in Microsoft Dynamics 365: Going beyond the Business Central core. appeared first on ERP Software Blog.
+Free download | Guide to multi-entity management in Microsoft Dynamics 365 Business Central.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+How to Manage Your Inventory Using Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does ERP Automation Minimize Errors in Complex and Repetitive Tasks?]]></title>
+        <id>https://erpsoftwareblog.com/?p=126363</id>
+        <link href="https://erpsoftwareblog.com/2025/04/how-does-erp-automation-minimize-errors-in-complex-and-repetitive-tasks/"/>
+        <updated>2025-04-09T13:05:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+It’s no secret that human errors are inevitable. In a business environment, even a small mistake can disrupt operations, affect customer service, and damage the organization’s reputation. One of the […]
+The post How Does ERP Automation Minimize Errors in Complex and Repetitive Tasks? appeared first on ERP Software Blog.
+Business Central Copilot: 2025 Release Wave 1 – Hot Take on the AI Features
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change & Troubleshoot Overseas Tariffs in Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=67668</id>
+        <link href="https://www.encorebusiness.com/blog/overseas-tariffs/"/>
+        <updated>2025-04-09T11:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Change & Troubleshoot Overseas Tariffs in Dynamics 365 Finance & Operations
+It can be challenging to handle changing tariffs for overseas suppliers in any ERP. In my experience, the difficulty that Dynamics 365 Finance & Operations users face with the tariff functionality tends to originate from the connections between tariffs and the more complex “voyage” functionality for shipments. In this article, I’ll walk you through some...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Allen Shannon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Onboards 10 New Resellers to Expand Business Central Reach]]></title>
+        <id>https://erpsoftwareblog.com/?p=126328</id>
+        <link href="https://erpsoftwareblog.com/2025/04/insight-works-onboards-10-new-resellers-to-expand-business-central-reach/"/>
+        <updated>2025-04-09T10:05:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works welcomed 10 New Microsoft Partners into its reseller program in March, boosting global support for manufacturers and distributors using Dynamics 365 Business Central.
+The post Insight Works Onboards 10 New Resellers to Expand Business Central Reach appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move the database from Dev to UAT or Tier1 to Tier2]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2025/04/move-database-from-dev-to-uat-or-tier1.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2025/04/move-database-from-dev-to-uat-or-tier1.html"/>
+        <updated>2025-04-09T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Move the database from Dev to UAT or Tier1 to Tier2.
+
+
+
+Mostly, databases are moved from Tier 2 to Tier 1 environments. 
+But in our case, most of the functional setup and configurations were completed in the Dev (Tier 1) environment, and the team needs this data to be moved to Sandbox (Tier 2). 
+Since transactional data is involved, we cannot use Data Entities.
+Therefore, we followed the process below:
+
+Step-by-Step Process to Move the Database from Dev (Tier 1) to UAT/Sandbox (Tier 2)
+
+1. Export the AXDB from Dev (Tier 1) (.bak)
+
+        Export the AXDB database into a .bak file using one of the following methods:
+
+
+        Way1: Right-click on the AXDB database and Select Tasks > Back Up.
+
+
+
+        Way2: Use the following SQL script to back up the database:
+
+
+
+      BACKUP DATABASE [AXD…]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Best Accounting Software for Small Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=126345</id>
+        <link href="https://erpsoftwareblog.com/2025/04/accounting-software-for-small-business/"/>
+        <updated>2025-04-09T08:43:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Running a small business isn’t easy; there are various tasks in which the owner finds themselves juggling. They are puzzled between managing sales leads, marketing, finances, business operations, and more.  Do […]
+The post 11 Best Accounting Software for Small Business   appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom properties in monitoring and telemetry]]></title>
+        <id>https://dev.goshoom.net/?p=10148</id>
+        <link href="https://dev.goshoom.net/2025/04/custom-properties-in-monitoring-and-telemetry/"/>
+        <updated>2025-04-09T05:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, I wrote a blog post Monitoring and telemetry in F&O where, among other things, I showed how to add a custom trace message and even include a custom property: Map properties = new Map(Types::String, Types::String); properties.add('Feature', 'My feature 1'); properties.add('MyCorrelationId', '123456');   SysGlobalTelemetry::logTraceWithCustomProperties('Custom message from X++', properties) Microsoft keep evolving this area ...
+Continue reading ‘Custom properties in monitoring and telemetry’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Fun with Minecraft]]></title>
+        <id>http://dynamicsax-fico.com/?p=7420</id>
+        <link href="https://dynamicsax-fico.com/2025/04/09/power-platform-fun-with-minecraft/"/>
+        <updated>2025-04-09T05:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Credit Card Processing for Dynamics 365 Business Central: Answers to Your Questions]]></title>
+        <id>https://erpsoftwareblog.com/?p=126058</id>
+        <link href="https://erpsoftwareblog.com/2025/04/credit-card-processing-for-dynamics-365-business-central-answers-to-your-questions/"/>
+        <updated>2025-04-08T20:19:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When it comes to streamlining credit card processing, businesses using Microsoft Dynamics 365 Business Central require a solution that is both secure and seamlessly integrates with their financial systems. Red […]
+The post Credit Card Processing for Dynamics 365 Business Central: Answers to Your Questions appeared first on ERP Software Blog.
+Importance of Using a PA-DSS Certified Solution
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Tips to Getting Your E-Commerce Website Driving More Sales]]></summary>
+        <author>
+            <name>Red Maple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regression Testing for Dynamics 365: What It Is and Why It Matters]]></title>
+        <id>https://erpsoftwareblog.com/?p=126321</id>
+        <link href="https://erpsoftwareblog.com/2025/04/regression-testing-for-dynamics-365-what-it-is-and-why-it-matters/"/>
+        <updated>2025-04-08T18:30:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Staying Stable Through Dynamics 365 Upgrades When it comes to upgrading your Microsoft Dynamics 365 system, the goal is to take advantage of new features, better security, and improved performance. […]
+The post Regression Testing for Dynamics 365: What It Is and Why It Matters appeared first on ERP Software Blog.
+Best strategies, insights and techniques for a successful eCommerce implementation
+Common Challenges Testing Dynamics 365 and How Test Automation Can Help
+Microsoft NAV 2016 Version Upgrade! Never Worry!!]]></summary>
+        <author>
+            <name>TheTestMart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Costly ERP Selection Mistakes]]></title>
+        <id>https://erpsoftwareblog.com/?p=126322</id>
+        <link href="https://erpsoftwareblog.com/2025/04/choosing-the-right-erp-software/"/>
+        <updated>2025-04-08T18:18:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+So. Many. Choices! Choosing the right ERP software can feel overwhelming – especially with all the options now available. The wrong choice can have serious consequences: 60% of ERP implementations […]
+The post 6 Costly ERP Selection Mistakes appeared first on ERP Software Blog.
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central]]></summary>
+        <author>
+            <name>360 Visibility</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #51]]></title>
         <id>http://dynamicsax-fico.com/?p=7254</id>
@@ -14,6 +187,66 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Vendor Rebates and Their Importance]]></title>
+        <id>https://erpsoftwareblog.com/?p=126311</id>
+        <link href="https://erpsoftwareblog.com/2025/04/vendor-rebates-and-their-importance/"/>
+        <updated>2025-04-08T15:35:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Vendor rebates play a crucial role in various industries, benefiting companies that handle rebates from their vendors. These companies can vary widely in size, ranging from $5 million to $500 […]
+The post Understanding Vendor Rebates and Their Importance appeared first on ERP Software Blog.
+The 5 Most Often Overlooked Costs of ERP
+Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined
+Microsoft Dynamics GP Home Page – Your One Stop Shop for Everything!]]></summary>
+        <author>
+            <name>Mark Rockwell, Rockton Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production Order in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=126174</id>
+        <link href="https://erpsoftwareblog.com/2025/04/production-order-in-business-central/"/>
+        <updated>2025-04-08T14:29:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Successful manufacturing relies on effective production processes, and Microsoft Dynamics 365 Business Central possesses an effective platform for handling production orders. In process or discrete manufacturing, whether it involves producing, […]
+The post Production Order in Business Central appeared first on ERP Software Blog.
+How an Industry-Specific Solution Can Change Your Life
+What Is Microsoft Dynamics 365 Business Central, and Should You Switch?
+Four Steps to Successful Microsoft Dynamics 365BC Implementation]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Streamline Quality Control in Manufacturing for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=126285</id>
+        <link href="https://erpsoftwareblog.com/2025/04/how-to-streamline-quality-control-in-manufacturing-for-business-central/"/>
+        <updated>2025-04-08T12:45:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manual inspections and spreadsheets slow down manufacturing and increase risk. Quality Inspector for Business Central automates real-time quality checks, blocks non-compliant inventory, and improves decision-making with advanced reporting tools. Learn how to reduce defects, enforce compliance, and streamline your entire quality process—from receiving to shipment.
+The post How to Streamline Quality Control in Manufacturing for Business Central appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost ROI by 40%: How UK Companies Are Leveraging Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=126303</id>
+        <link href="https://erpsoftwareblog.com/2025/04/boost-roi-by-40-how-uk-companies-are-leveraging-dynamics-365/"/>
+        <updated>2025-04-08T09:45:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+UK businesses are constantly seeking smarter ways to improve efficiency, reduce costs, and drive better returns. With rising customer expectations and growing competition, organisations need intelligent tools that deliver real […]
+The post Boost ROI by 40%: How UK Companies Are Leveraging Dynamics 365 appeared first on ERP Software Blog.
+Avoiding the Hidden Costs of Small and Medium Business Software
+The Significance of ERP Cloud for Small and Medium Businesses
+What ERP Software Can Do for Small and Medium Businesses and How Cloud ERP Can Return Greater ROI]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
@@ -383,6 +616,21 @@ Build Your Own WMS Apps for Microsoft Dynamics]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Getting Started with Dynamics 365 Business Central: A UK Buyer’s Checklist]]></title>
+        <id>https://erpsoftwareblog.com/?p=126301</id>
+        <link href="https://erpsoftwareblog.com/2025/04/getting-started-with-dynamics-365-business-central-a-uk-buyers-checklist/"/>
+        <updated>2025-04-04T09:34:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As the digital economy evolves, businesses across the UK are increasingly adopting modern ERP systems to streamline operations, enhance visibility, and drive growth. Microsoft Dynamics 365 Business Central (BC) has […]
+The post Getting Started with Dynamics 365 Business Central: A UK Buyer’s Checklist appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enhanced Windows LAPS Policy Settings You Need to Know]]></title>
         <id>https://365community.online/enhanced-windows-laps-policy-settings-you-need-to-know</id>
         <link href="https://365community.online/enhanced-windows-laps-policy-settings-you-need-to-know"/>
@@ -723,6 +971,21 @@ How to Choose a Mobile Computer to use with Business Central
 Quote Generation with Product Configurator for Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step by Step CRM Implementation Guide | 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=126304</id>
+        <link href="https://erpsoftwareblog.com/2025/04/crm-implementation/"/>
+        <updated>2025-04-02T09:42:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the modern world, customers are integrated into every aspect of a business. Businesses from all sectors are using Customer Relationship Management (CRM) systems to enhance relationships, improve processes, and […]
+The post Step by Step CRM Implementation Guide | 2025 appeared first on ERP Software Blog.
+How QuickBooks Users Can Achieve Success with Microsoft Dynamics GP?
+How Can You Purchase Microsoft Dynamics GP Today?
+Basics of Lookups in Dynamics 365]]></summary>
+        <author>
+            <name>Dynamics Square CA</name>
         </author>
     </entry>
     <entry>
@@ -73472,87 +73735,6 @@ What is an error?
 Errors that prevent your data sync operation from performing smoothly.  Whether it is uni-directional or bi-directional using Dual-write infrastructure. There are eight main types of err…]]></summary>
         <author>
             <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collections in X++, Dynamyth-Busters episode 1]]></title>
-        <id>http://fernitudela.dev/?p=924</id>
-        <link href="https://fernitudela.dev/2023/04/11/collections-in-x-dynamyth-busters-episode-1/"/>
-        <updated>2023-04-11T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[first episode of Dynamyth-busters, the video series where we put the Technical side of D365FO to the test, and, as a bonus, we learn together along the way. In this chapter we are going to talk about collections in X++, don't miss it! … More Collections in X++, Dynamyth-Busters episode 1]]></summary>
-        <author>
-            <name>Fernando Tudela Desantes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSTHelper using x++]]></title>
-        <id>https://kishoredynamics11.blogspot.com/2023/04/gsthelper-using-x.html</id>
-        <link href="https://kishoredynamics11.blogspot.com/2023/04/gsthelper-using-x.html"/>
-        <updated>2023-04-11T07:26:00.000Z</updated>
-        <summary type="html"><![CDATA[GSTHelper using x++.
-
-
-class GSTHelper
-{
-    ITaxDocument                taxDocument;
-    Common                      sourceHeader;
-    Common                      sourceLine;
-    Amount                      CGSTAmount,IGSTAmount,SGSTAmount,reverseAmount,recoverableAmount;
-    real                        CGSTRate,IGSTRate,SGSTRate;
-    Amount                      CESSAmount;
-    real                        CESSRate;
-
-    HSNCode_IN                  HSNOrSACCode;
-    Amount                      taxBaseAmount,discountAmount;
-    ClassName                   bundlerClassName;
-
-    /*Amount  CGSTAmountMiscChrg,IGSTAmountMiscChrg,SGSTAmountMiscChrg;
-    real    CGSTRateMiscChrg,IGSTRateMiscChrg,SGSTRateMiscChrg;*/
-
-    RecId   TaxDocumentRecId;
-    boolean isUTGST;
-
-    #define.TaxType('GST')
-  …]]></summary>
-        <author>
-            <name>Dynamics World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set vendor on hold using x++]]></title>
-        <id>https://kishoredynamics11.blogspot.com/2023/04/set-vendor-on-hold-using-x.html</id>
-        <link href="https://kishoredynamics11.blogspot.com/2023/04/set-vendor-on-hold-using-x.html"/>
-        <updated>2023-04-11T07:17:00.004Z</updated>
-        <summary type="html"><![CDATA[Set vendor on hold using x++.
-While inserting the vendor If the vendApproval is yes. I need to hold that vendor. I have used the below code.
-[ExtensionOf(tableStr(VendTable))]
-internal final class Vendtable_Extension
-{
-    public void insert()
-    {
-        next insert();
-		
-        container con;
-
-        con = conIns(con,1,this);
-
-        if(this.VendorApproval == NoYes::Yes)
-        {
-            VendTable::updateOnHold(con,
-				    CustVendorBlocked::All,
-				    dateNull(),
-				    false,
-				    true,
-				    " New Record ");
-        }
-        
-    }
-}
-
-
-Keep Daxing!!]]></summary>
-        <author>
-            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
