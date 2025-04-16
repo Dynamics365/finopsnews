@@ -140,6 +140,16 @@
       "siteUrl": "https://kishoredynamics11.blogspot.com/",
       "articles": [
         {
+          "id": "https://kishoredynamics11.blogspot.com/2025/04/convert-json-to-csvtext-file-in-logic.html",
+          "author": null,
+          "description": "Convert JSON to CSV/Text file in Logic app\nThis is the full step-by-step process, and I have provided its output below.\n\n\n\n\nI used the below JSON to test this.\n[\n  {\n    \"Id\": \"1234\",\n    \"Name\": \"Test1\",\n    \"Phone\": \"700000\"\n  },\n   {\n    \"Id\": \"4567\",\n    \"Name\": \"Test2\",\n    \"Phone\": \"800000\"\n  },\n   {\n    \"Id\": \"6789\",\n    \"Name\": \"Test3\",\n    \"Phone\": \"900000\"\n  }\n]\n\n\nPlease follow the below steps.\n\n\n        Step 1: I have used 'When a HTTP request is received'  action.\n        \n\n\n\n        Step 2: Under data operations, I chose 'Create CSV table.'  \n                      \n\n\n We need to assign a value to the 'Value' node using the following expression, based on the header fields .\n I am generating the file with a pipe('|') that's why I have selected the custom.                   \n\n\n  Value : item()?['Name']\n\n\n\n\n\n        Step 3:  used the 'Compose' action and applied the 'Replace with pipe' function.\n        replace(body('Create_CSV_table'), '|,|', '|')\n\n\n\n        Step 4: The resulting file is stored in a blob        \n\n\n    OutPut:   \n\n\n\n\n\n\n\n\n\n\n    If we want same Column names then use Automatic system will generate the file with commas (',') separated.\n    \n\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2025/04/convert-json-to-csvtext-file-in-logic.html",
+          "publishedOn": "2025-04-15T09:58:00.000Z",
+          "wordCount": 2953,
+          "title": "Convert JSON to CSV/Text file in Logic app",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA26LyWytjNIWkbjXtVfjlWIie7-kzs4_yPnp8ho-AsGy42FyR77GZqU8zWv2pmNT9qhmJfUabd_5aZQU2H6W_ukKsf9-1UAkeqRFj0u958EE3hSyAMEwhylnQLEczPCm1PmT3HSX_iVL7wITxOXh-KBo1tCoHvDY4lNnn_iS7X_llrj6KtOfgyRtsrnk/w1200-h630-p-k-no-nu/1.jpg"
+        },
+        {
           "id": "https://kishoredynamics11.blogspot.com/2025/04/move-database-from-dev-to-uat-or-tier1.html",
           "author": null,
           "description": "Move the database from Dev to UAT or Tier1 to Tier2.\n\n\n\nMostly, databases are moved from Tier 2 to Tier 1 environments. \nBut in our case, most of the functional setup and configurations were completed in the Dev (Tier 1) environment, and the team needs this data to be moved to Sandbox (Tier 2). \nSince transactional data is involved, we cannot use Data Entities.\nTherefore, we followed the process below:\n\nStep-by-Step Process to Move the Database from Dev (Tier 1) to UAT/Sandbox (Tier 2)\n\n1. Export the AXDB from Dev (Tier 1) (.bak)\n\n        Export the AXDB database into a .bak file using one of the following methods:\n\n\n        Way1: Right-click on the AXDB database and Select Tasks > Back Up.\n\n\n\n        Way2: Use the following SQL script to back up the database:\n\n\n\n      BACKUP DATABASE [AXD…",
@@ -1676,6 +1686,76 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=125544",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nThe Microsoft Dynamics 365 Business Central community just completed the most anticipated partner-focused event of the year, Directions North America 2025. At the heart of this event are the trusted […]\nThe post Photos of 31 Top ERP/CRM Software Blog Members in the Directions NA Expo appeared first on ERP Software Blog.\nBusiness Technology Summit 2019: JOIN US at one of the BIGGEST TECHNOLOGY EVENTS | JourneyTEAM\nInsight Works Announces Gold Sponsor-Level Participation in NAV TechDays\nJoin JourneyTEAM's Tech Insider Update Webinar on 8/6",
+          "link": "https://erpsoftwareblog.com/2025/04/33-erp-crm-software-blog-members-to-visit-in-the-directions-na-expo-hours/",
+          "publishedOn": "2025-04-15T20:48:48.000Z",
+          "wordCount": 9967,
+          "title": "Photos of 31 Top ERP/CRM Software Blog Members in the Directions NA Expo",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-Members-at-Directions.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126571",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nWe’re thrilled to announce that two of our websites, ERP Software Blog and ERP Cloud Blog, have been honored with top 10 placements on Feedspot’s  100 Best ERP Blogs and […]\nThe post Feedspot Top 100 ERP Blogs Recognizes ERP Software Blog and ERP Cloud Blog appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/04/feedspot-top-100-erp-blogs-recognizes-erp-software-blog-and-erp-cloud-blog/",
+          "publishedOn": "2025-04-15T18:04:47.000Z",
+          "wordCount": 7900,
+          "title": "Feedspot Top 100 ERP Blogs Recognizes ERP Software Blog and ERP Cloud Blog",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/feedspot-top-erp_blogs.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126314",
+          "author": "Mark Rockwell, Rockton Software",
+          "description": "xxx\nIn today’s fast-paced business environment, managing intricate pricing structures can be a huge challenge – especially for companies with a large customer base and a wide range of products. Camp […]\nThe post Simplify Complex Pricing with Rockton’s Pricing Management Solution appeared first on ERP Software Blog.\nVideo: Why a Connecticut Medical Device Manufacturing Distributor Loves Dynamics GP\nLeasing Company Achieves Streamlined Success and Robust Reporting with Microsoft Dynamics GP\nInterviews with Dynamics GP VARs – Entrepreneurial Challenges and How to Beat Them",
+          "link": "https://erpsoftwareblog.com/2025/04/complex-pricing-with-rpm-and-camp-systems/",
+          "publishedOn": "2025-04-15T15:59:52.000Z",
+          "wordCount": 7839,
+          "title": "Simplify Complex Pricing with Rockton’s Pricing Management Solution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/CAMP_RS-Problem-Solved.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126591",
+          "author": "AdCirrus ERP",
+          "description": "xxx\nAs a new quarter begins, it’s the perfect time to step back and ask: Is your ERP system empowering growth—or quietly slowing you down? For companies using Microsoft Dynamics 365 […]\nThe post Is Your Microsoft Business Central System Ready for Q2 Growth? appeared first on ERP Software Blog.\nBusiness Central: A Must for C-Suite Growth in 2025\nThe Top 7 ERP Vendors for All Industries in 2025\nMekorma Enhances Remote Payment Services with Greater Value, Flexibility, and Security",
+          "link": "https://erpsoftwareblog.com/2025/04/is-your-microsoft-business-central-system-ready-for-q2-growth/",
+          "publishedOn": "2025-04-15T14:44:20.000Z",
+          "wordCount": 7723,
+          "title": "Is Your Microsoft Business Central System Ready for Q2 Growth?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/simplify-workflow-image.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126425",
+          "author": "Vicinity Software",
+          "description": "xxx\nWhen you think about your business’s profit margins, do you feel confident in the numbers? For many batch processing manufacturing companies using Microsoft Dynamics 365 for manufacturing (which focuses on […]\nThe post How To Get The True Cost of Manufacturing in Dynamics 365 with Vicinity Software appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nDon’t Stop the Flow: Managing a Job Shop\nGet More in the Cloud with Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/04/how-to-get-the-true-cost-of-manufacturing-in-dynamics-365-with-vicinity-software/",
+          "publishedOn": "2025-04-15T14:16:24.000Z",
+          "wordCount": 8284,
+          "title": "How To Get The True Cost of Manufacturing in Dynamics 365 with Vicinity Software",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-04-The-True-Cost-of-Manufacturing-in-Dynamics-365-with-Vicinity-Software_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126585",
+          "author": "x2x eCommerce",
+          "description": "xxx\nIn the current fast-paced digital age, customers have grown to anticipate open and timely communication, particularly on their orders. Transmitting Sales Order Confirmation via SMS is one effective yet simple […]\nThe post Sales Order Confirmation via SMS: Enhancing Customer Engagement appeared first on ERP Software Blog.\nHow Real Companies are Using Dynamics 365\nOmni-Channel Experience with Dynamics GP & Shopify Integration\nTop CRM Consultant in Canada | Best in 2024",
+          "link": "https://erpsoftwareblog.com/2025/04/sales-order-confirmation-via-sms-enhancing-customer-engagement/",
+          "publishedOn": "2025-04-15T12:21:44.000Z",
+          "wordCount": 7629,
+          "title": "Sales Order Confirmation via SMS: Enhancing Customer Engagement",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/image15.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126480",
+          "author": "Insight Works",
+          "description": "xxx\nManaging scheduling views in Business Central gets easier with Graphical Scheduler. This free tool lets teams create, filter, and adjust visual schedules in real time—using roles, departments, color rules, and drag-and-drop updates. Whether you're zooming into a shift or planning across weeks, Graphical Scheduler gives planners and supervisors the clarity and flexibility needed to make fast, accurate scheduling decisions inside Business Central.\nThe post How to Customize Scheduling Views in Business Central for Maximum Efficiency appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
+          "link": "https://erpsoftwareblog.com/2025/04/how-to-customize-scheduling-views-in-business-central-for-maximum-efficiency/",
+          "publishedOn": "2025-04-15T07:03:24.000Z",
+          "wordCount": 7712,
+          "title": "How to Customize Scheduling Views in Business Central for Maximum Efficiency",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Graphical-Scheduler-250-1.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=124931",
           "author": "EFOQUS",
@@ -23065,6 +23145,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/meet-the-new-scheduling-operations-agent-in-dynamics-365-field-service",
+          "author": "Dian Taylor",
+          "description": "I’m sure by now it hasn’t escaped anyone’s attention that Microsoft has been on an absolute roll when it comes to announcing agents—whether they’re autonomous, semi-autonomous, or somewhere in between—as part of the 2025 Release Wave 1. It’s been a steady stream of updates, and if you’ve been keeping an eye on things like me, […]\nThe post Meet the new Scheduling Operations Agent in Dynamics 365 Field Service! appeared first on 365 Community Online.",
+          "link": "https://365community.online/meet-the-new-scheduling-operations-agent-in-dynamics-365-field-service",
+          "publishedOn": "2025-04-15T21:50:00.000Z",
+          "wordCount": 2425,
+          "title": "Meet the new Scheduling Operations Agent in Dynamics 365 Field Service!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/using-external-value-property-of-choice-option-set-field-for-integration-dynamics-365-dataverse",
+          "author": "Nishant Rana",
+          "description": "When working with Choice fields (Option Sets) in Dataverse, we mostly use the label and internal numeric value. But there’s also a lesser-known property — External Value — which can be quite handy, especially in integration scenarios. Below is the Priority column of the case table. We have Severe, Moderate, and Minor external values specified […]\nThe post Using External Value property of Choice / Option Set Field for Integration – Dynamics 365 / Dataverse appeared first on 365 Community Online.",
+          "link": "https://365community.online/using-external-value-property-of-choice-option-set-field-for-integration-dynamics-365-dataverse",
+          "publishedOn": "2025-04-15T19:30:00.000Z",
+          "wordCount": 2487,
+          "title": "Using External Value property of Choice / Option Set Field for Integration – Dynamics 365 / Dataverse",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Using-External-Value-property-of-Choice-Option-Set-Field.jpeg"
+        },
+        {
+          "id": "https://365community.online/d365-eventcud-and-orphan-triggers",
+          "author": "Kurt Hatlevik",
+          "description": "EventCUD is a table normally used for handling change based and due dates alerts in Dynamics 365 F&O.  The details of this process is available here : https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/alerts-managing But up until 10.0.38, there was a bug, that could led to orphan “triggers” The fix from Microsoft does not fix orphan triggers originating from before this […]\nThe post D365 EventCUD and “orphan triggers” appeared first on 365 Community Online.",
+          "link": "https://365community.online/d365-eventcud-and-orphan-triggers",
+          "publishedOn": "2025-04-15T13:42:00.000Z",
+          "wordCount": 2373,
+          "title": "D365 EventCUD and “orphan triggers”",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/D365-EventCUD-and-orphan-triggers.png"
+        },
+        {
+          "id": "https://365community.online/cache-me-if-you-can-the-power-pages-wishlist-episode",
+          "author": "CRMAudio",
+          "description": "In this episode, we deliver on their promise from the previous show — a wishlist of features they’d love to see in Power Pages (and none of them are AI). It’s a mix of practical frustrations from real-world projects and some wild ideas for future innovation. What did we talk about? George’s standing desk automation […]\nThe post Cache Me If You Can: The Power Pages Wishlist Episode appeared first on 365 Community Online.",
+          "link": "https://365community.online/cache-me-if-you-can-the-power-pages-wishlist-episode",
+          "publishedOn": "2025-04-15T12:03:00.000Z",
+          "wordCount": 2576,
+          "title": "Cache Me If You Can: The Power Pages Wishlist Episode",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Cache-Me-If-You-Can-The-Power-Pages-Wishlist-Episode.jpeg"
+        },
+        {
+          "id": "https://365community.online/foodies-guide-to-the-world-mapping-tasty-adventures-in-dynamics-365",
+          "author": "Inogic",
+          "description": "What if CRM functionalities were as appetizing as your favorite global dishes? Maplytics, our all-in-one certified geo-analytical solution for Microsoft Dynamics 365, Power Apps, Power Pages, and Dataverse, is packed with powerful features, each with its own unique role. But just like your favorite meals, it’s the combination of ingredients that brings out the best […]\nThe post Foodie’s Guide to the World: Mapping Tasty Adventures in Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/foodies-guide-to-the-world-mapping-tasty-adventures-in-dynamics-365",
+          "publishedOn": "2025-04-15T10:14:00.000Z",
+          "wordCount": 3300,
+          "title": "Foodie’s Guide to the World: Mapping Tasty Adventures in Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Mapping-Tasty-Adventures-in-Dynamics-365.png"
+        },
+        {
+          "id": "https://365community.online/webinar-boost-cx-with-whatsapp-sms-live-chat-integration-in-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Let’s face it—we’ve all been there. You’re chasing down a lead on WhatsApp, sending a follow-up via SMS, answering questions on live chat… and somewhere in the chaos, a message gets missed, a deal slips through the cracks, or a customer is left waiting. Sound familiar? If you’re using Dynamics 365 CRM but juggling multiple […]\nThe post Webinar: Boost CX with WhatsApp, SMS & Live Chat Integration in Dynamics 365 CRM! appeared first on 365 Community Online.",
+          "link": "https://365community.online/webinar-boost-cx-with-whatsapp-sms-live-chat-integration-in-dynamics-365-crm",
+          "publishedOn": "2025-04-15T10:13:00.000Z",
+          "wordCount": 3152,
+          "title": "Webinar: Boost CX with WhatsApp, SMS & Live Chat Integration in Dynamics 365 CRM!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/WhatsApp-SMS-Live-Chat-Integration-in-Dynamics-365-CRM.png"
+        },
+        {
+          "id": "https://365community.online/file-viewfromstream-in-al-display-text-directly-from-stream",
+          "author": "Amol Salvi",
+          "description": "Microsoft Dynamics 365 Business Central 2025 Wave 1 continues to improve its developer experience with handy new features. One of the exciting additions in this release is the File.ViewFromStream method — a simple yet powerful function that enhances how developers interact with files stored in memory. In the current versions of Business Central, when you […]\nThe post File.ViewFromStream in AL: Display Text Directly from Stream appeared first on 365 Community Online.",
+          "link": "https://365community.online/file-viewfromstream-in-al-display-text-directly-from-stream",
+          "publishedOn": "2025-04-15T08:00:00.000Z",
+          "wordCount": 2646,
+          "title": "File.ViewFromStream in AL: Display Text Directly from Stream",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Unleash-Your-Workspace-Resizable-Fact-Boxes-Arrive-in-Business-Central.png"
+        },
+        {
+          "id": "https://365community.online/include-add-to-google-calendar-button-on-realtime-emails",
+          "author": "Megan V. Walker",
+          "description": "While recently working on a post for generating emails for Microsoft Bookings and putting together an ICS file, I thought about what a fiddle it is (polite phrase) add an ICS file to your Google calendar. I had also recently booked a couple of restaurants online and noticed one of them had a specific Add […]\nThe post Include Add To Google Calendar Button On Realtime Emails appeared first on 365 Community Online.",
+          "link": "https://365community.online/include-add-to-google-calendar-button-on-realtime-emails",
+          "publishedOn": "2025-04-15T07:20:00.000Z",
+          "wordCount": 3199,
+          "title": "Include Add To Google Calendar Button On Realtime Emails",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Include-Add-To-Google-Calendar-Button-On-Realtime-Emails.jpg"
+        },
+        {
+          "id": "https://365community.online/boost-productivity-with-copilot-autofill-fields-in-business-central",
+          "author": "Saurav Dhyani",
+          "description": "Hi, Introduction Entering data in Business Central can be a tedious and error-prone process. But with Microsoft Copilot’s new Autofill feature, data entry is now smarter, faster, and more accurate! This AI-powered enhancement suggests values for editable fields, reducing manual input and improving efficiency. Read Complete Article » Original Post https://www.sauravdhyani.com/2025/04/boost-productivity-with-copilot.html\nThe post Boost Productivity with Copilot: Autofill Fields in Business Central. appeared first on 365 Community Online.",
+          "link": "https://365community.online/boost-productivity-with-copilot-autofill-fields-in-business-central",
+          "publishedOn": "2025-04-15T05:30:00.000Z",
+          "wordCount": 2405,
+          "title": "Boost Productivity with Copilot: Autofill Fields in Business Central.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/copy-hidden-power-automate-expressions",
+          "author": "Richard Wilson",
+          "description": "While recently walking a colleague through Power Automate, I was reminded of one of my long-standing frustrations: how difficult it is to copy expressions once they’ve been inserted into actions like a Compose, Filter Array, or For Each. For example: workflow()['tags']['environmentName'] item()?['logicalName'] Once fields are wrapped in certain expressions or are in certain actions, you […]\nThe post Copy Hidden Power Automate Expressions appeared first on 365 Community Online.",
+          "link": "https://365community.online/copy-hidden-power-automate-expressions",
+          "publishedOn": "2025-04-14T23:44:00.000Z",
+          "wordCount": 3236,
+          "title": "Copy Hidden Power Automate Expressions",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/1744692195_Copy-Hidden-Power-Automate-Expressions.png"
+        },
         {
           "id": "https://365community.online/fixed-could-not-find-an-implementation-of-the-query-pattern-for-source-type-where-not-found-linq-dataverse",
           "author": "Nishant Rana",
@@ -50814,6 +50994,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=7463",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/04/15/integrate-copilot-studio-agents-into-teams-meetings/",
+          "publishedOn": "2025-04-15T04:27:29.000Z",
+          "wordCount": 3488,
+          "title": "Integrate Copilot Studio Agents into Teams Meetings",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=7259",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -54132,6 +54322,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4732",
+          "author": "Kurt Hatlevik",
+          "description": "EventCUD is a table normally used for handling change based and due dates alerts in Dynamics 365 F&O.  The details of this process is available here : https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/alerts-managing But up until 10.0.38, there was a bug, that could led to orphan “triggers” The fix from Microsoft does not fix orphan triggers originating from before this … Continue reading D365 EventCUD and “orphan triggers”",
+          "link": "https://kurthatlevik.com/2025/04/15/d365-eventcud-and-orphan-triggers/",
+          "publishedOn": "2025-04-15T13:42:23.000Z",
+          "wordCount": 3890,
+          "title": "D365 EventCUD and “orphan triggers”",
+          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2025/04/image-1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4716",
           "author": "Kurt Hatlevik",
           "description": "A SQL deadlock in Dynamics 365 occurs when two or more processes block each other by holding locks on resources the other processes need, causing a circular dependency that SQL Server cannot resolve without intervention. In the D365 context this typically arises during high-concurrency scenarios like batch jobs or heavy data imports where multiple threads … Continue reading D365 – Why you should monitor for deadlocks",
@@ -54465,6 +54665,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/14/why-migrate-now-the-benefits-of-moving-from-dynamics-gp-to-microsoft-dynamics-365-business-central/",
+          "author": "Mike Morton",
+          "description": "There are many benefits to beginning the migration to Business Central now, with many resources that Microsoft has to support you.\nThe post Why migrate now: The benefits of moving from Dynamics GP to Microsoft Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/14/why-migrate-now-the-benefits-of-moving-from-dynamics-gp-to-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-04-14T15:00:00.000Z",
+          "wordCount": 3992,
+          "title": "Why migrate now: The benefits of moving from Dynamics GP to Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/04/FI-4.4.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/14/transform-routing-rule-administration-with-bulk-management/",
+          "author": "Shruti Phanse",
+          "description": "We’re continually improving Dynamics 365 Customer Service to help organizations deliver faster, smarter, and more efficient customer experiences. Today, we’re excited to announce that administrators will now be able to maintain routing rules in bulk. This enhancement empowers administrators to update routing configurations across the board with just a few clicks—a game-changing update for teams\nThe post Transform routing rule administration with bulk management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/14/transform-routing-rule-administration-with-bulk-management/",
+          "publishedOn": "2025-04-14T14:54:18.000Z",
+          "wordCount": 3019,
+          "title": "Transform routing rule administration with bulk management",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/04/istockphoto-165492668-612x612-1.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/10/project-quotations-dynamics-365/",
           "author": "Pooja Fandan",
