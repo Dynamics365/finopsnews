@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-04-20T01:49:22.764Z</updated>
+    <updated>2025-04-21T01:48:46.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Pages Actions in Visual Studio Code]]></title>
+        <id>https://365community.online/power-pages-actions-in-visual-studio-code</id>
+        <link href="https://365community.online/power-pages-actions-in-visual-studio-code"/>
+        <updated>2025-04-20T22:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago I posted about the features within Visual Studio Code to create assets in Power Pages. Create a Power Pages webpage completely from within Visual Studio Code Since that time the team at Microsoft has added more features to allow developers to be more productive when extending Power Pages websites using HTML, JavaScript, Liquid, […]
+The post Power Pages Actions in Visual Studio Code appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migration of Teams Android Devices to AOSP Device Management]]></title>
+        <id>https://365community.online/migration-of-teams-android-devices-to-aosp-device-management</id>
+        <link href="https://365community.online/migration-of-teams-android-devices-to-aosp-device-management"/>
+        <updated>2025-04-20T21:13:00.000Z</updated>
+        <summary type="html"><![CDATA[As a Teams Administrator, have you started migration / in the process / migrated your orgnaization’s Teams Android device to AOSP device management. Original Post https://techiejournals.com/blog/f/migration-of-teams-android-devices-to-aosp-device-management
+The post Migration of Teams Android Devices to AOSP Device Management appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Onyinye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Hub: text anonymization & redaction]]></title>
+        <id>https://365community.online/ai-hub-text-anonymization-redaction</id>
+        <link href="https://365community.online/ai-hub-text-anonymization-redaction"/>
+        <updated>2025-04-20T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Once in a while I had a walk through AI hub in Power Platform and see what is new, or what calls my attention that maybe begore wasn’t s… Original Post https://www.anainesurrutia.com/post/ai-hub-text-anonymization-redaction
+The post AI Hub: text anonymization & redaction appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get a Clearer, Actionable View of Complex Dynamics 365 Relationships with the New Custom Page!]]></title>
         <id>https://365community.online/get-a-clearer-actionable-view-of-complex-dynamics-365-relationships-with-the-new-custom-page</id>
@@ -41,6 +74,17 @@ AGR will be at Directions EMEA 2023
 WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
         <author>
             <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking at 30,000 Feet]]></title>
+        <id>https://365community.online/thinking-at-30000-feet</id>
+        <link href="https://365community.online/thinking-at-30000-feet"/>
+        <updated>2025-04-18T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Some of the best thinking happens up in the air when there’s nowhere else to be. I once read this as a productivity tip, and I can totally vouch for it. While everyone around is absorbed in in-flight entertainment, I grab a black coffee, open a blank page (digital or physical), and just… think. Not […]
+The post Thinking at 30,000 Feet appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ali Khan</name>
         </author>
     </entry>
     <entry>
@@ -372,6 +416,17 @@ The post Q&A Webinar Recording – Making the Move – Session 2 – YouTube app
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/16/preview-upcoming-dynamics-365-features-at-the-microsoft-business-applications-launch-event/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/16/preview-upcoming-dynamics-365-features-at-the-microsoft-business-applications-launch-event/"/>
+        <updated>2025-04-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See firsthand how new technologies can empower your organization at the Microsoft Business Applications Launch Event. 
+The post Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ryan Martin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Food & Beverage Manufacturers: Simplify Complex Commissions with Dynamics 365 BC]]></title>
         <id>https://erpsoftwareblog.com/?p=126299</id>
         <link href="https://erpsoftwareblog.com/2025/04/food-beverage-manufacturers-simplify-complex-commissions-with-dynamics-365-bc/"/>
@@ -601,6 +656,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspection builder preview: digital transformation made easy with AI]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/15/inspection-builder-digital-transformation-made-easy-with-ai/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/15/inspection-builder-digital-transformation-made-easy-with-ai/"/>
+        <updated>2025-04-15T18:02:36.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital era, many organizations still rely on paper for inspections, leading to inefficiencies and extra effort to digitize data. Dynamics 365 Field Service's new inspection builder, powered by Copilot, addresses these challenges by seamlessly converting paper forms into digital templates, streamlining the process and enhancing data management.
+The post Inspection builder preview: digital transformation made easy with AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Joseph Shum and Michael Hartmann</name>
         </author>
     </entry>
     <entry>

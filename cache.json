@@ -23316,6 +23316,36 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/power-pages-actions-in-visual-studio-code",
+          "author": "Nick Doelman",
+          "description": "Two years ago I posted about the features within Visual Studio Code to create assets in Power Pages. Create a Power Pages webpage completely from within Visual Studio Code Since that time the team at Microsoft has added more features to allow developers to be more productive when extending Power Pages websites using HTML, JavaScript, Liquid, […]\nThe post Power Pages Actions in Visual Studio Code appeared first on 365 Community Online.",
+          "link": "https://365community.online/power-pages-actions-in-visual-studio-code",
+          "publishedOn": "2025-04-20T22:49:00.000Z",
+          "wordCount": 2838,
+          "title": "Power Pages Actions in Visual Studio Code",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Power-Pages-Actions-in-Visual-Studio-Code.png"
+        },
+        {
+          "id": "https://365community.online/migration-of-teams-android-devices-to-aosp-device-management",
+          "author": "Onyinye",
+          "description": "As a Teams Administrator, have you started migration / in the process / migrated your orgnaization’s Teams Android device to AOSP device management. Original Post https://techiejournals.com/blog/f/migration-of-teams-android-devices-to-aosp-device-management\nThe post Migration of Teams Android Devices to AOSP Device Management appeared first on 365 Community Online.",
+          "link": "https://365community.online/migration-of-teams-android-devices-to-aosp-device-management",
+          "publishedOn": "2025-04-20T21:13:00.000Z",
+          "wordCount": 2370,
+          "title": "Migration of Teams Android Devices to AOSP Device Management",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Post20banner.png"
+        },
+        {
+          "id": "https://365community.online/ai-hub-text-anonymization-redaction",
+          "author": "Ana Inés Urrutia",
+          "description": "Once in a while I had a walk through AI hub in Power Platform and see what is new, or what calls my attention that maybe begore wasn’t s… Original Post https://www.anainesurrutia.com/post/ai-hub-text-anonymization-redaction\nThe post AI Hub: text anonymization & redaction appeared first on 365 Community Online.",
+          "link": "https://365community.online/ai-hub-text-anonymization-redaction",
+          "publishedOn": "2025-04-20T02:57:00.000Z",
+          "wordCount": 2336,
+          "title": "AI Hub: text anonymization & redaction",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/AI-Hub-text-anonymization-038-redaction.png"
+        },
+        {
           "id": "https://365community.online/get-a-clearer-actionable-view-of-complex-dynamics-365-relationships-with-the-new-custom-page",
           "author": "Inogic",
           "description": "In customer relationship management, data is your most valuable asset. But let’s face it – making sense of all that data, especially when it’s spread across different entities in your CRM, can feel like a maze. Now, you might be thinking, “But I already have Microsoft Dynamics 365… isn’t that enough?” Well, while Dynamics 365 […]\nThe post Get a Clearer, Actionable View of Complex Dynamics 365 Relationships with the New Custom Page! appeared first on 365 Community Online.",
@@ -23324,6 +23354,16 @@
           "wordCount": 3115,
           "title": "Get a Clearer, Actionable View of Complex Dynamics 365 Relationships with the New Custom Page!",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Complex-Dynamics-365-Relationships.jpg"
+        },
+        {
+          "id": "https://365community.online/thinking-at-30000-feet",
+          "author": "Ali Khan",
+          "description": "Some of the best thinking happens up in the air when there’s nowhere else to be. I once read this as a productivity tip, and I can totally vouch for it. While everyone around is absorbed in in-flight entertainment, I grab a black coffee, open a blank page (digital or physical), and just… think. Not […]\nThe post Thinking at 30,000 Feet appeared first on 365 Community Online.",
+          "link": "https://365community.online/thinking-at-30000-feet",
+          "publishedOn": "2025-04-18T13:58:00.000Z",
+          "wordCount": 2519,
+          "title": "Thinking at 30,000 Feet",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Constraints-as-Tools.png"
         },
         {
           "id": "https://365community.online/space",
@@ -55115,6 +55155,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/16/preview-upcoming-dynamics-365-features-at-the-microsoft-business-applications-launch-event/",
+          "author": "Ryan Martin",
+          "description": "See firsthand how new technologies can empower your organization at the Microsoft Business Applications Launch Event. \nThe post Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/16/preview-upcoming-dynamics-365-features-at-the-microsoft-business-applications-launch-event/",
+          "publishedOn": "2025-04-16T15:00:00.000Z",
+          "wordCount": 3353,
+          "title": "Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/04/Featured-image-4.14-new.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/15/inspection-builder-digital-transformation-made-easy-with-ai/",
+          "author": "Joseph Shum and Michael Hartmann",
+          "description": "In today's digital era, many organizations still rely on paper for inspections, leading to inefficiencies and extra effort to digitize data. Dynamics 365 Field Service's new inspection builder, powered by Copilot, addresses these challenges by seamlessly converting paper forms into digital templates, streamlining the process and enhancing data management.\nThe post Inspection builder preview: digital transformation made easy with AI appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/15/inspection-builder-digital-transformation-made-easy-with-ai/",
+          "publishedOn": "2025-04-15T18:02:36.000Z",
+          "wordCount": 3165,
+          "title": "Inspection builder preview: digital transformation made easy with AI",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/04/CLO22_GreenEnergyFarm_018.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/14/why-migrate-now-the-benefits-of-moving-from-dynamics-gp-to-microsoft-dynamics-365-business-central/",
           "author": "Mike Morton",
