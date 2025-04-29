@@ -2,10 +2,267 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-04-28T01:48:07.590Z</updated>
+    <updated>2025-04-29T01:46:18.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Security Roles to manage access to views (preview)– Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/use-security-roles-to-manage-access-to-views-preview-dataverse-dynamics-365</id>
+        <link href="https://365community.online/use-security-roles-to-manage-access-to-views-preview-dataverse-dynamics-365"/>
+        <updated>2025-04-28T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, we might create a new view for a table, and not everyone in our organization needs to see it — or maybe, only a specific team should have access to the existing views, now we can achieve it through security roles. This feature is governed by the EnableRoleBasedSystemViews property, which we can manage through […]
+The post Use Security Roles to manage access to views (preview)– Dataverse / Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compare the Top AP Automation Solution for Dynamics 365 Finance at the MSDW Comparison Showcase]]></title>
+        <id>https://erpsoftwareblog.com/?p=127081</id>
+        <link href="https://erpsoftwareblog.com/2025/04/compare-the-top-ap-automation-solution-for-dynamics-365-finance-at-the-msdw-comparison-showcase/"/>
+        <updated>2025-04-28T16:16:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As your business grows, keeping up with accounts payable (AP) can turn into a real bottleneck. With hundreds or thousands of invoices arriving each month, manual processes often cause delays, […]
+The post Compare the Top AP Automation Solution for Dynamics 365 Finance at the MSDW Comparison Showcase appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save Error Messages In D365]]></title>
+        <id>https://dynamics365musings.com/?p=4234</id>
+        <link href="https://dynamics365musings.com/save-error-messages-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=save-error-messages-in-d365"/>
+        <updated>2025-04-28T15:16:57.000Z</updated>
+        <summary type="html"><![CDATA[When something goes wrong while running a complex process, it can be challenging to understand how to correct it. Understanding how to save error messages in D365 will help give you the information needed to take further action. Example Scenario Oftentimes, a custom process will call base Microsoft code that shows info, warnings, and error... Continue Reading →
+The post Save Error Messages In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save Error Messages In D365]]></title>
+        <id>https://365community.online/save-error-messages-in-d365</id>
+        <link href="https://365community.online/save-error-messages-in-d365"/>
+        <updated>2025-04-28T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[When something goes wrong while running a complex process, it can be challenging to understand how to correct it. Understanding how to save error messages in D365 will help give you the information needed to take further action. Example Scenario Oftentimes, a custom process will call base Microsoft code that shows info, warnings, and error… […]
+The post Save Error Messages In D365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resource Usage in OMZY and why it is important for the Microsoft Dynamics 365 Business Central community]]></title>
+        <id>https://erpsoftwareblog.com/?p=124661</id>
+        <link href="https://erpsoftwareblog.com/2025/04/new-feature-resource-usage-in-omzy/"/>
+        <updated>2025-04-28T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+OMZY, the project management application for Microsoft Dynamics 365 Business Central already offered the ability to optimize the accounting solution for professional service firms and has taken their latest development […]
+The post Resource Usage in OMZY and why it is important for the Microsoft Dynamics 365 Business Central community appeared first on ERP Software Blog.
+Why it is important for professional service firms to have a software that fits their industry
+What is better for your ERP system: Best-of-breed or Industry-specific?
+Case Study: How an accounting firm was able to transition their Microsoft Dynamics NAV system to Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embed User Instructions in Dynamics 365 Finance & Operations with Copilot]]></title>
+        <id>https://www.encorebusiness.com/?p=68365</id>
+        <link href="https://www.encorebusiness.com/blog/copilot-sidecar-finance-operations-knowledge-base/"/>
+        <updated>2025-04-28T11:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Embed User Instructions in Dynamics 365 Finance & Operations with Copilot
+Training users is one of the most important and challenging parts of any ERP implementation. In Dynamics 365 Finance & Operations, a new feature lets you create custom in-app help prompts and instructions for your users with Copilot. This will make it much easier to train staff and help them recall what to do in...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Kailey Acuña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Barcode Scanning in Business Central: How to Ensure Readability and Accuracy]]></title>
+        <id>https://erpsoftwareblog.com/?p=126987</id>
+        <link href="https://erpsoftwareblog.com/2025/04/best-practices-for-barcode-scanning-in-business-central-how-to-ensure-readability-and-accuracy/"/>
+        <updated>2025-04-28T11:06:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+This blog shares best practices for barcode scanning in Business Central using the Barcode Generator PowerTool. Learn how to choose the right format, set correct sizing, place barcodes smartly in reports, and avoid scanning issues. Includes sample reports, layout settings, and testing tips to ensure accuracy and efficiency.
+The post Best Practices for Barcode Scanning in Business Central: How to Ensure Readability and Accuracy appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 10.0.44 Preview and the “Cache Lookup = found” fix]]></title>
+        <id>http://kurthatlevik.com/?p=4748</id>
+        <link href="https://kurthatlevik.com/2025/04/28/d365-10-0-44-preview-and-the-cache-lookup-found-fix/"/>
+        <updated>2025-04-28T09:48:22.000Z</updated>
+        <summary type="html"><![CDATA[As others have written, the 10.0.44 preview is now made available, and it gives a glimpse of what is to come in June. A lot have already been shared in blogs and LinkedIn feeds. But I like to go deeper, and this time I found a jewel that I think will have a noticeable performance … Continue reading D365 10.0.44 Preview and the “Cache Lookup = found” fix]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 10.0.44 Preview and the “Cache Lookup = found” fix]]></title>
+        <id>https://365community.online/d365-10-0-44-preview-and-the-cache-lookup-found-fix</id>
+        <link href="https://365community.online/d365-10-0-44-preview-and-the-cache-lookup-found-fix"/>
+        <updated>2025-04-28T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[As others have written, the 10.0.44 preview is now made available, and it gives a glimpse of what is to come in June. A lot have already been shared in blogs and LinkedIn feeds. But I like to go deeper, and this time I found a jewel that I think will have a noticeable performance […]
+The post D365 10.0.44 Preview and the “Cache Lookup = found” fix appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Up Form Filling in Dynamics 365 with Copilot’s Files and Form Fill Assist Toolbar]]></title>
+        <id>https://365community.online/speed-up-form-filling-in-dynamics-365-with-copilots-files-and-form-fill-assist-toolbar</id>
+        <link href="https://365community.online/speed-up-form-filling-in-dynamics-365-with-copilots-files-and-form-fill-assist-toolbar"/>
+        <updated>2025-04-28T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: In today’s fast-paced work environment, entering customer details manually into CRM can be time-consuming and repetitive. It often takes focus away from what matters—helping customers and closing deals. Small tasks like typing in names, phone numbers, or company info from a business card can add up quickly, especially when handling multiple inquiries. To solve […]
+The post Speed Up Form Filling in Dynamics 365 with Copilot’s Files and Form Fill Assist Toolbar appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Fx editor in D365 F&O]]></title>
+        <id>https://dev.goshoom.net/?p=10162</id>
+        <link href="https://dev.goshoom.net/2025/04/power-fx-editor-in-d365-fo/"/>
+        <updated>2025-04-28T09:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Version 10.0.42 introduced an interesting feature allowing users to define rules (what, when) for assigning values of financial tags. While it’s very interesting, I’m even more interested in how it’s implemented, because we could use something similar at other places too. The designer of conditions: may resemble the expression builder: but it works quite differently. ...
+Continue reading ‘Power Fx editor in D365 F&O’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central: How MRP Works in a Make to Order Environment]]></title>
+        <id>https://erpsoftwareblog.com/?p=126206</id>
+        <link href="https://erpsoftwareblog.com/2025/04/mastering-manufacturing-with-business-central-how-mrp-works-in-a-make-to-order-environment/"/>
+        <updated>2025-04-28T09:20:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In Microsoft Dynamics 365 Business Central, Material Requirements Planning (MRP) is a powerful tool that helps manufacturers plan their production and purchasing based on real demand. When you're operating in […]
+The post Mastering Manufacturing with Business Central: How MRP Works in a Make to Order Environment appeared first on ERP Software Blog.
+Why Manufacturers are Moving Forward with ERP
+Investing in Your ERP Software the Right Way
+Business Management Software that Manufacturers (Big or Small) will Love]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right Cloud Based ERP Vendor for your Business?]]></title>
+        <id>https://erpsoftwareblog.com/?p=127074</id>
+        <link href="https://erpsoftwareblog.com/2025/04/how-to-choose-the-right-cloud-based-erp-vendor-for-your-business/"/>
+        <updated>2025-04-28T08:54:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Is your business growing while your current systems struggle to keep up? If you're dealing with disconnected tools, outdated data, or too many manual tasks, it's probably time to consider […]
+The post How to Choose the Right Cloud Based ERP Vendor for your Business? appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central and Power Automate — Filtering API Query Results in HTML Table
+5 Reasons Why Outsourcing Your ERP Needs is the Best Choice
+10 Time Saving Business Central Keyboard Shortcuts You Need Today]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Call Key Vault Secrets in an Azure Function]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2025/04/how-to-call-key-vault-secrets-in-azure.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2025/04/how-to-call-key-vault-secrets-in-azure.html"/>
+        <updated>2025-04-28T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[1. To access Key Vault secrets from an Azure Function, you need to install the following NuGet packages in your project:
+
+
+
+Azure.Identity
+Azure.Security.KeyVault.Secrets
+
+
+
+
+    2. Below is the method I wrote to access Key Vault secrets.
+
+
+internal string GetSecret(string secretName)
+{
+    string keyVaultName = Environment.GetEnvironmentVariable("keyVaultName");
+
+    string kvUri = $"https://{keyVaultName}.vault.azure.net";
+
+    SecretClient client = new SecretClient(new Uri(kvUri), new DefaultAzureCredential());
+    var secret = client.GetSecretAsync(secretName).Result;
+
+    return secret.Value.Value;
+}
+
+
+
+    3. The Key Vault name is retrieved from an environment variable.
+
+string keyVaultName = Environment.GetEnvironmentVariable("keyVaultName");
+
+    4. I trigger the GetSecret method from the Azure Function and assign the secret value to the response.
+
+
+
+    5. After publishing the Azure Function, you need to add the Key Vault name as an environment variable in the function app settings.
+
+
+
+
+Follow these steps to configure the identity and assign the roles:
+
+    1. Open the Identity section in the Azure Function app settings, enable the status, and click on Azure role assignments.
+
+
+
+    2. Click on Add role assignment, and set the scope to Key Vault.
+
+
+    3. Assign the appropriate resource (Key Vault) and role(Key Vault Secrets User).
+
+
+
+    4. The role is now assigned, and the Azure Function can access the Key Vault.
+
+
+
+    OutPut: 
+
+
+ 
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Azure Virtual Desktop is Taking Over Remote Work? – YouTube]]></title>
+        <id>https://365community.online/why-azure-virtual-desktop-is-taking-over-remote-work-youtube</id>
+        <link href="https://365community.online/why-azure-virtual-desktop-is-taking-over-remote-work-youtube"/>
+        <updated>2025-04-28T03:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the architecture of Azure Virtual Desktop (AVD) Service and how user connections work in this overview video. Find out how AVD can benefit your business and improve remote work efficiency. Episode Breakdown: 00:00 – Episode Introduction 00:49 – Episode Breakdown 01:01 – Service Architecture Overview 04:48 – User Connections 05:16 – User Connections: […]
+The post Why Azure Virtual Desktop is Taking Over Remote Work? – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Report Layout Obsolete in Business Central (Wave 1 2025)]]></title>
+        <id>https://365community.online/how-to-make-a-report-layout-obsolete-in-business-central-wave-1-2025</id>
+        <link href="https://365community.online/how-to-make-a-report-layout-obsolete-in-business-central-wave-1-2025"/>
+        <updated>2025-04-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the release of Microsoft Dynamics 365 Business Central Wave 1 2025, it continues to refine the AL development experience — and one of the key improvements is the ability to obsolete report layouts cleanly and officially. If you’re managing a growing list of custom layouts or updating reports across multiple extensions, this new feature […]
+The post How to Make a Report Layout Obsolete in Business Central (Wave 1 2025) appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compare Dynamics 365 Business Central BI and Reporting Options]]></title>
         <id>https://erpsoftwareblog.com/?p=127065</id>

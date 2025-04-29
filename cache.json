@@ -140,6 +140,16 @@
       "siteUrl": "https://kishoredynamics11.blogspot.com/",
       "articles": [
         {
+          "id": "https://kishoredynamics11.blogspot.com/2025/04/how-to-call-key-vault-secrets-in-azure.html",
+          "author": null,
+          "description": "1. To access Key Vault secrets from an Azure Function, you need to install the following NuGet packages in your project:\n\n\n\nAzure.Identity\nAzure.Security.KeyVault.Secrets\n\n\n\n\n    2. Below is the method I wrote to access Key Vault secrets.\n\n\ninternal string GetSecret(string secretName)\n{\n    string keyVaultName = Environment.GetEnvironmentVariable(\"keyVaultName\");\n\n    string kvUri = $\"https://{keyVaultName}.vault.azure.net\";\n\n    SecretClient client = new SecretClient(new Uri(kvUri), new DefaultAzureCredential());\n    var secret = client.GetSecretAsync(secretName).Result;\n\n    return secret.Value.Value;\n}\n\n\n\n    3. The Key Vault name is retrieved from an environment variable.\n\nstring keyVaultName = Environment.GetEnvironmentVariable(\"keyVaultName\");\n\n    4. I trigger the GetSecret method from the Azure Function and assign the secret value to the response.\n\n\n\n    5. After publishing the Azure Function, you need to add the Key Vault name as an environment variable in the function app settings.\n\n\n\n\nFollow these steps to configure the identity and assign the roles:\n\n    1. Open the Identity section in the Azure Function app settings, enable the status, and click on Azure role assignments.\n\n\n\n    2. Click on Add role assignment, and set the scope to Key Vault.\n\n\n    3. Assign the appropriate resource (Key Vault) and role(Key Vault Secrets User).\n\n\n\n    4. The role is now assigned, and the Azure Function can access the Key Vault.\n\n\n\n    OutPut: \n\n\n \nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2025/04/how-to-call-key-vault-secrets-in-azure.html",
+          "publishedOn": "2025-04-28T06:55:00.000Z",
+          "wordCount": 3001,
+          "title": "How to Call Key Vault Secrets in an Azure Function",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujUMuLXreu4HzSapCgwS93kzxdxhFxVg5ysqaH9WxfksWa9zDuOoAd8bXQHWvEr9yDM9KbSCQDxbQDKtLu5W87EHMEW0mCy_0VCpdLEtfqFD_z8AJ4V6e1-5iP8nEEyqJerYr5fHUATv9KBayE7VN11ycmYYDQ14g54fNHrR5RSNWZXRFv564USxOgEo/w1200-h630-p-k-no-nu/Screenshot_60.jpg"
+        },
+        {
           "id": "https://kishoredynamics11.blogspot.com/2025/04/convert-json-to-csvtext-file-in-logic.html",
           "author": null,
           "description": "Convert JSON to CSV/Text file in Logic app\nThis is the full step-by-step process, and I have provided its output below.\n\n\n\n\nI used the below JSON to test this.\n[\n  {\n    \"Id\": \"1234\",\n    \"Name\": \"Test1\",\n    \"Phone\": \"700000\"\n  },\n   {\n    \"Id\": \"4567\",\n    \"Name\": \"Test2\",\n    \"Phone\": \"800000\"\n  },\n   {\n    \"Id\": \"6789\",\n    \"Name\": \"Test3\",\n    \"Phone\": \"900000\"\n  }\n]\n\n\nPlease follow the below steps.\n\n\n        Step 1: I have used 'When a HTTP request is received'  action.\n        \n\n\n\n        Step 2: Under data operations, I chose 'Create CSV table.'  \n                      \n\n\n We need to assign a value to the 'Value' node using the following expression, based on the header fields .\n I am generating the file with a pipe('|') that's why I have selected the custom.                   \n\n\n  Value : item()?['Name']\n\n\n\n\n\n        Step 3:  used the 'Compose' action and applied the 'Replace with pipe' function.\n        replace(body('Create_CSV_table'), '|,|', '|')\n\n\n\n        Step 4: The resulting file is stored in a blob        \n\n\n    OutPut:   \n\n\n\n\n\n\n\n\n\n\n    If we want same Column names then use Automatic system will generate the file with commas (',') separated.\n    \n\n\n\n\nKeep Daxing!!",
@@ -1686,6 +1696,56 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=127081",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nAs your business grows, keeping up with accounts payable (AP) can turn into a real bottleneck. With hundreds or thousands of invoices arriving each month, manual processes often cause delays, […]\nThe post Compare the Top AP Automation Solution for Dynamics 365 Finance at the MSDW Comparison Showcase appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/04/compare-the-top-ap-automation-solution-for-dynamics-365-finance-at-the-msdw-comparison-showcase/",
+          "publishedOn": "2025-04-28T16:16:05.000Z",
+          "wordCount": 8460,
+          "title": "Compare the Top AP Automation Solution for Dynamics 365 Finance at the MSDW Comparison Showcase",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-05-MSDW-AP-Automation-Showcase-Banners_1200-x-628-Finance.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=124661",
+          "author": "OMZY",
+          "description": "xxx\nOMZY, the project management application for Microsoft Dynamics 365 Business Central already offered the ability to optimize the accounting solution for professional service firms and has taken their latest development […]\nThe post Resource Usage in OMZY and why it is important for the Microsoft Dynamics 365 Business Central community appeared first on ERP Software Blog.\nWhy it is important for professional service firms to have a software that fits their industry\nWhat is better for your ERP system: Best-of-breed or Industry-specific?\nCase Study: How an accounting firm was able to transition their Microsoft Dynamics NAV system to Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/04/new-feature-resource-usage-in-omzy/",
+          "publishedOn": "2025-04-28T14:00:19.000Z",
+          "wordCount": 8395,
+          "title": "Resource Usage in OMZY and why it is important for the Microsoft Dynamics 365 Business Central community",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/res-usage-english.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126987",
+          "author": "Insight Works",
+          "description": "xxx\nThis blog shares best practices for barcode scanning in Business Central using the Barcode Generator PowerTool. Learn how to choose the right format, set correct sizing, place barcodes smartly in reports, and avoid scanning issues. Includes sample reports, layout settings, and testing tips to ensure accuracy and efficiency.\nThe post Best Practices for Barcode Scanning in Business Central: How to Ensure Readability and Accuracy appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
+          "link": "https://erpsoftwareblog.com/2025/04/best-practices-for-barcode-scanning-in-business-central-how-to-ensure-readability-and-accuracy/",
+          "publishedOn": "2025-04-28T11:06:55.000Z",
+          "wordCount": 7833,
+          "title": "Best Practices for Barcode Scanning in Business Central: How to Ensure Readability and Accuracy",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Barcode-Generator-PowerTool-350.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=126206",
+          "author": "Andrew King, WebSan Solutions, Inc.",
+          "description": "xxx\nIn Microsoft Dynamics 365 Business Central, Material Requirements Planning (MRP) is a powerful tool that helps manufacturers plan their production and purchasing based on real demand. When you're operating in […]\nThe post Mastering Manufacturing with Business Central: How MRP Works in a Make to Order Environment appeared first on ERP Software Blog.\nWhy Manufacturers are Moving Forward with ERP\nInvesting in Your ERP Software the Right Way\nBusiness Management Software that Manufacturers (Big or Small) will Love",
+          "link": "https://erpsoftwareblog.com/2025/04/mastering-manufacturing-with-business-central-how-mrp-works-in-a-make-to-order-environment/",
+          "publishedOn": "2025-04-28T09:20:39.000Z",
+          "wordCount": 8193,
+          "title": "Mastering Manufacturing with Business Central: How MRP Works in a Make to Order Environment",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Mft-Screenshot-3.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=127074",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nIs your business growing while your current systems struggle to keep up? If you're dealing with disconnected tools, outdated data, or too many manual tasks, it's probably time to consider […]\nThe post How to Choose the Right Cloud Based ERP Vendor for your Business? appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central and Power Automate — Filtering API Query Results in HTML Table\n5 Reasons Why Outsourcing Your ERP Needs is the Best Choice\n10 Time Saving Business Central Keyboard Shortcuts You Need Today",
+          "link": "https://erpsoftwareblog.com/2025/04/how-to-choose-the-right-cloud-based-erp-vendor-for-your-business/",
+          "publishedOn": "2025-04-28T08:54:20.000Z",
+          "wordCount": 8553,
+          "title": "How to Choose the Right Cloud Based ERP Vendor for your Business?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Key-Factors-to-Consider-for-selecting-Appropriate-ERP-Vendor-for-Your-Business-visual-selection-e1745830087460.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=127065",
           "author": "ERP Software Blog Writer",
@@ -22309,6 +22369,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=68365",
+          "author": "Kailey Acuña",
+          "description": "Embed User Instructions in Dynamics 365 Finance & Operations with Copilot\nTraining users is one of the most important and challenging parts of any ERP implementation. In Dynamics 365 Finance & Operations, a new feature lets you create custom in-app help prompts and instructions for your users with Copilot. This will make it much easier to train staff and help them recall what to do in...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/copilot-sidecar-finance-operations-knowledge-base/",
+          "publishedOn": "2025-04-28T11:13:03.000Z",
+          "wordCount": 3126,
+          "title": "Embed User Instructions in Dynamics 365 Finance & Operations with Copilot",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=46196",
           "author": "Jesse Gehrke",
           "description": "How to Perform a Physical Inventory Journal in Dynamics 365 Business Central\nThe Physical Inventory Journal in Dynamics 365 Business Central helps accounting and warehouse management teams accurately track on-hand inventory. Once your system is set up to meet your specific needs, performing it becomes intuitive. I often help clients set up Physical Inventory Counting Periods, Inventory Count Cycles, and process the Physical Inventory Journal. These standard...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -23635,6 +23705,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/use-security-roles-to-manage-access-to-views-preview-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Sometimes, we might create a new view for a table, and not everyone in our organization needs to see it — or maybe, only a specific team should have access to the existing views, now we can achieve it through security roles. This feature is governed by the EnableRoleBasedSystemViews property, which we can manage through […]\nThe post Use Security Roles to manage access to views (preview)– Dataverse / Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/use-security-roles-to-manage-access-to-views-preview-dataverse-dynamics-365",
+          "publishedOn": "2025-04-28T19:30:00.000Z",
+          "wordCount": 2481,
+          "title": "Use Security Roles to manage access to views (preview)– Dataverse / Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Use-Security-Roles-to-manage-access-to-views-preview–-Dataverse.jpeg"
+        },
+        {
+          "id": "https://365community.online/save-error-messages-in-d365",
+          "author": "Peter Ramer",
+          "description": "When something goes wrong while running a complex process, it can be challenging to understand how to correct it. Understanding how to save error messages in D365 will help give you the information needed to take further action. Example Scenario Oftentimes, a custom process will call base Microsoft code that shows info, warnings, and error… […]\nThe post Save Error Messages In D365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/save-error-messages-in-d365",
+          "publishedOn": "2025-04-28T15:16:00.000Z",
+          "wordCount": 2410,
+          "title": "Save Error Messages In D365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Save-Error-Messages-In-D365.png"
+        },
+        {
+          "id": "https://365community.online/d365-10-0-44-preview-and-the-cache-lookup-found-fix",
+          "author": "Kurt Hatlevik",
+          "description": "As others have written, the 10.0.44 preview is now made available, and it gives a glimpse of what is to come in June. A lot have already been shared in blogs and LinkedIn feeds. But I like to go deeper, and this time I found a jewel that I think will have a noticeable performance […]\nThe post D365 10.0.44 Preview and the “Cache Lookup = found” fix appeared first on 365 Community Online.",
+          "link": "https://365community.online/d365-10-0-44-preview-and-the-cache-lookup-found-fix",
+          "publishedOn": "2025-04-28T09:48:00.000Z",
+          "wordCount": 2443,
+          "title": "D365 10.0.44 Preview and the “Cache Lookup = found” fix",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/D365-10044-Preview-and-the-Cache-Lookup-found-fix.png"
+        },
+        {
+          "id": "https://365community.online/speed-up-form-filling-in-dynamics-365-with-copilots-files-and-form-fill-assist-toolbar",
+          "author": "Inogic",
+          "description": "Introduction: In today’s fast-paced work environment, entering customer details manually into CRM can be time-consuming and repetitive. It often takes focus away from what matters—helping customers and closing deals. Small tasks like typing in names, phone numbers, or company info from a business card can add up quickly, especially when handling multiple inquiries. To solve […]\nThe post Speed Up Form Filling in Dynamics 365 with Copilot’s Files and Form Fill Assist Toolbar appeared first on 365 Community Online.",
+          "link": "https://365community.online/speed-up-form-filling-in-dynamics-365-with-copilots-files-and-form-fill-assist-toolbar",
+          "publishedOn": "2025-04-28T09:31:00.000Z",
+          "wordCount": 3233,
+          "title": "Speed Up Form Filling in Dynamics 365 with Copilot’s Files and Form Fill Assist Toolbar",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/04/Speed-Up-Form-Filling.png"
+        },
+        {
+          "id": "https://365community.online/why-azure-virtual-desktop-is-taking-over-remote-work-youtube",
+          "author": "shabaz darr",
+          "description": "Learn about the architecture of Azure Virtual Desktop (AVD) Service and how user connections work in this overview video. Find out how AVD can benefit your business and improve remote work efficiency. Episode Breakdown: 00:00 – Episode Introduction 00:49 – Episode Breakdown 01:01 – Service Architecture Overview 04:48 – User Connections 05:16 – User Connections: […]\nThe post Why Azure Virtual Desktop is Taking Over Remote Work? – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-azure-virtual-desktop-is-taking-over-remote-work-youtube",
+          "publishedOn": "2025-04-28T03:00:08.000Z",
+          "wordCount": 2498,
+          "title": "Why Azure Virtual Desktop is Taking Over Remote Work? – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-to-make-a-report-layout-obsolete-in-business-central-wave-1-2025",
+          "author": "Amol Salvi",
+          "description": "With the release of Microsoft Dynamics 365 Business Central Wave 1 2025, it continues to refine the AL development experience — and one of the key improvements is the ability to obsolete report layouts cleanly and officially. If you’re managing a growing list of custom layouts or updating reports across multiple extensions, this new feature […]\nThe post How to Make a Report Layout Obsolete in Business Central (Wave 1 2025) appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-make-a-report-layout-obsolete-in-business-central-wave-1-2025",
+          "publishedOn": "2025-04-28T02:00:00.000Z",
+          "wordCount": 2717,
+          "title": "How to Make a Report Layout Obsolete in Business Central (Wave 1 2025)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/03/Unleash-Your-Workspace-Resizable-Fact-Boxes-Arrive-in-Business-Central.png"
+        },
         {
           "id": "https://365community.online/microsoft-azure-youre-not-eligible-for-an-azure-free-account",
           "author": "Arun Potti",
@@ -54928,6 +55058,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=4234",
+          "author": "peter.ramer",
+          "description": "When something goes wrong while running a complex process, it can be challenging to understand how to correct it. Understanding how to save error messages in D365 will help give you the information needed to take further action. Example Scenario Oftentimes, a custom process will call base Microsoft code that shows info, warnings, and error... Continue Reading →\nThe post Save Error Messages In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/save-error-messages-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=save-error-messages-in-d365",
+          "publishedOn": "2025-04-28T15:16:57.000Z",
+          "wordCount": 4189,
+          "title": "Save Error Messages In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2025/04/Save-Error-Messages-In-D365.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=4229",
           "author": "peter.ramer",
           "description": "In the last article, I explained how to create custom logs in Microsoft Dynamics 365 for Finance and Operations. In this lesson, learn how to expand custom logs to create D365 performance logs to help understand where performance may be improved. While performance improvement is a vast topic, this tutorial will show you how to... Continue Reading →\nThe post D365 Performance Logs appeared first on Dynamics 365 Musings.",
@@ -55476,6 +55616,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4748",
+          "author": "Kurt Hatlevik",
+          "description": "As others have written, the 10.0.44 preview is now made available, and it gives a glimpse of what is to come in June. A lot have already been shared in blogs and LinkedIn feeds. But I like to go deeper, and this time I found a jewel that I think will have a noticeable performance … Continue reading D365 10.0.44 Preview and the “Cache Lookup = found” fix",
+          "link": "https://kurthatlevik.com/2025/04/28/d365-10-0-44-preview-and-the-cache-lookup-found-fix/",
+          "publishedOn": "2025-04-28T09:48:22.000Z",
+          "wordCount": 3995,
+          "title": "D365 10.0.44 Preview and the “Cache Lookup = found” fix",
+          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2025/04/image-5.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4741",
           "author": "Kurt Hatlevik",
@@ -57767,6 +57917,16 @@
       "feedUrl": "https://dev.goshoom.net/feed/",
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
+        {
+          "id": "https://dev.goshoom.net/?p=10162",
+          "author": "Martin Dráb",
+          "description": "Version 10.0.42 introduced an interesting feature allowing users to define rules (what, when) for assigning values of financial tags. While it’s very interesting, I’m even more interested in how it’s implemented, because we could use something similar at other places too. The designer of conditions: may resemble the expression builder: but it works quite differently. ...\nContinue reading ‘Power Fx editor in D365 F&O’ »",
+          "link": "https://dev.goshoom.net/2025/04/power-fx-editor-in-d365-fo/",
+          "publishedOn": "2025-04-28T09:22:39.000Z",
+          "wordCount": 1277,
+          "title": "Power Fx editor in D365 F&O",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.goshoom.net/?p=10148",
           "author": "Martin Dráb",
