@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-04-29T01:46:18.220Z</updated>
+    <updated>2025-04-30T01:45:43.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics Translation Service(DTS) deprecated – What is next?]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3796</id>
+        <link href="https://anithasantosh.wordpress.com/2025/04/29/dynamics-translation-servicedts-deprecated-what-is-next/"/>
+        <updated>2025-04-29T20:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has announced the deprecation of Microsoft Dynamics Translation Service effective from October 15, 2025. What is DTS? Hosted in LCS and used by Partners and ISV providers to translate their solutions or add a new language . When deprecated, … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor Data in Accounts Payable: Best Management Practices]]></title>
+        <id>https://erpsoftwareblog.com/?p=127178</id>
+        <link href="https://erpsoftwareblog.com/2025/04/vendor-data-in-accounts-payable-best-management-practices/"/>
+        <updated>2025-04-29T19:31:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the finance and procurement space, Accounts Payable (AP) teams often find themselves managing competing priorities. One crucial yet frequently neglected task is maintaining accurate vendor data. While managing vendor […]
+The post Vendor Data in Accounts Payable: Best Management Practices appeared first on ERP Software Blog.
+Winning the AP Game with Mekorma Embedded Solutions
+Mekorma Payment Hub v1.0 for Business Central is here!
+Mekorma Payment Hub v0.9: New Features for Business Central]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Directions North America: Key Takeaways for the Business Central Community]]></title>
+        <id>https://erpsoftwareblog.com/?p=126708</id>
+        <link href="https://erpsoftwareblog.com/2025/04/directions-north-america-key-takeaways-for-the-business-central-community/"/>
+        <updated>2025-04-29T18:34:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+At the recent Directions North America conference in Las Vegas, our Consultant Partner Team had the opportunity to dive into the future of the Microsoft Dynamics 365 Business Central. This […]
+The post Directions North America: Key Takeaways for the Business Central Community appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>FISPAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MES vs. ERP: Key Differences and How MV2 Connects Them]]></title>
+        <id>https://erpsoftwareblog.com/?p=127128</id>
+        <link href="https://erpsoftwareblog.com/2025/04/mes-vs-erp-key-differences-and-how-mv2-connects-them/"/>
+        <updated>2025-04-29T15:36:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today's manufacturing landscape, digital transformation has become less of a competitive advantage and more of a necessity for survival. Two critical systems stand at the heart of this digital […]
+The post MES vs. ERP: Key Differences and How MV2 Connects Them appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+A Comprehensive Guide to Microsoft ERP Solutions for 2024]]></summary>
+        <author>
+            <name>Erin Bonde, MV2 MES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Compared to D365 Business Central | General Ledger and Bank Reconciliation (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=68459</id>
+        <link href="https://www.encorebusiness.com/blog/functionality-in-dynamics-gp-compared-to-d365-business-central/"/>
+        <updated>2025-04-29T15:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP Compared to D365 Business Central | General Ledger and Bank Reconciliation (Video)
+In this recorded webinar, we compare common accounting workflows and functionalities in Dynamics GP and Dynamics 365 Business Central. This session provides a detailed walkthrough of how to perform essential tasks in both systems, highlighting the similarities and differences. Topics Covered: General Ledger: Adding accounts Entering journal entries Bank Reconciliation: Adding a chequebook Entering transactions...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance & Supply Chain License Enforcement Overview]]></title>
+        <id>https://alexdmeyer.com/?p=3499</id>
+        <link href="https://alexdmeyer.com/2025/04/29/dynamics-365-finance-supply-chain-license-enforcement-overview/"/>
+        <updated>2025-04-29T14:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft recently announced that they will finally start license enforcement of their Dynamics 365 Finance & Supply Chain (D365FSC) application starting this year. Let’s talk about it and what that means for you! Disclaimer: There are a lot of changes happening in a very short amount of time, I will try and provide as much information […]
+The post Dynamics 365 Finance & Supply Chain License Enforcement Overview appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QR Codes for Business Central: Barcode Integration with Barcode Generator PowerTool]]></title>
+        <id>https://erpsoftwareblog.com/?p=127147</id>
+        <link href="https://erpsoftwareblog.com/2025/04/qr-codes-for-business-central-barcode-integration-with-barcode-generator-powertool/"/>
+        <updated>2025-04-29T12:23:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Enhance reporting in Business Central by adding QR codes to reports and documents with Barcode Generator PowerTool to improve accuracy and speed.
+The post QR Codes for Business Central: Barcode Integration with Barcode Generator PowerTool appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RMH vs. LS Central: Which POS System is Right for Your Business Central Environment?]]></title>
+        <id>https://erpsoftwareblog.com/?p=127107</id>
+        <link href="https://erpsoftwareblog.com/2025/04/rmh-vs-ls-central-which-pos-system-is-right-for-your-business-central-environment/"/>
+        <updated>2025-04-29T12:18:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Selecting an appropriate Point of Sale (POS) system is very important when working within a Microsoft Dynamics 365 Business Central environment. Retail Management Hero (RMH) and LS Central are two […]
+The post RMH vs. LS Central: Which POS System is Right for Your Business Central Environment? appeared first on ERP Software Blog.
+Parent/Child Products in x2x eCommerce Shopify to Dynamics 365 Business Central Integration
+Order Management in x2x Business Central to Shopify Integration
+Ways to effectively capture customer specific data at the point of sale (POS)]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 – Skip Transportation management and save 100ms]]></title>
+        <id>http://kurthatlevik.com/?p=4760</id>
+        <link href="https://kurthatlevik.com/2025/04/29/d365-skip-transportation-management-and-save-100ms/"/>
+        <updated>2025-04-29T12:16:47.000Z</updated>
+        <summary type="html"><![CDATA[In my chase for millisecounds, here are a small one. If you are not using the TMS – Transportation Management module, but are using the WMS, then there are some costly validations on the sales order header. There is a hardcoded x++ parameter you can extend to prevent some heavy queries. The effect is that … Continue reading D365 – Skip Transportation management and save 100ms]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Extra Info to Shipping Labels in Dynamic Ship]]></title>
+        <id>https://erpsoftwareblog.com/?p=127108</id>
+        <link href="https://erpsoftwareblog.com/2025/04/how-to-add-extra-info-to-shipping-labels-in-dynamic-ship/"/>
+        <updated>2025-04-29T11:44:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+How to configure shipping labels to print additional information in Dynamic Ship? *Note: all snapshots of shipping labels included in this article are from test environment. The format or content […]
+The post How to Add Extra Info to Shipping Labels in Dynamic Ship appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Project-Based Manufacturing: The Role of ERP Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=127103</id>
+        <link href="https://erpsoftwareblog.com/2025/04/scaling-project-based-manufacturing-the-role-of-erp-solutions/"/>
+        <updated>2025-04-29T10:19:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the dynamic landscape of project-based manufacturing, where each product is often unique and tailored to specific client requirements, traditional manufacturing approaches can fall short. The complexity of managing multiple […]
+The post Scaling Project-Based Manufacturing: The Role of ERP Solutions appeared first on ERP Software Blog.
+ERP Equips Distribution Companies to Preserve More Profit Under Pressure
+Bluestar PLM: The "Missing Link" Between Engineering & Operations
+Tax Exempt Sales – Read These “Rules of the Road”]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics Minds 2025: SysTest and Acceptance Test Library]]></title>
+        <id>https://dev.goshoom.net/?p=10179</id>
+        <link href="https://dev.goshoom.net/2025/04/dynamics-minds-2025-systest-and-acceptance-test-library/"/>
+        <updated>2025-04-29T04:43:19.000Z</updated>
+        <summary type="html"><![CDATA[In less than a month, I’ll be speaking at Dynamics Minds conference about unit testing in D365 F&O. It’s going to happen on 27th May 2025 at 13:15 (note that changes are possible, therefore always check the agenda). It’ll be a mix of a few topics – purpose of unit testing (and other types of ...
+Continue reading ‘Dynamics Minds 2025: SysTest and Acceptance Test Library’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use Security Roles to manage access to views (preview)– Dataverse / Dynamics 365]]></title>
         <id>https://365community.online/use-security-roles-to-manage-access-to-views-preview-dataverse-dynamics-365</id>
