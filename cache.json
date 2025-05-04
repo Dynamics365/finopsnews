@@ -23966,6 +23966,46 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/streamlining-your-workday-with-microsoft-teams-automation",
+          "author": "Onyinye",
+          "description": "Since the announcement of Microsoft New Teams client to replace the classic Teams in 2024, there have been quite a number of updates to aid users productivity whilst using the ‘new’ Teams client. By July 1st 2025, the en… Original Post https://techiejournals.com/blog/f/streamlining-your-workday-with-microsoft-teams-automation\nThe post Streamlining Your Workday with Microsoft Teams Automation appeared first on 365 Community Online.",
+          "link": "https://365community.online/streamlining-your-workday-with-microsoft-teams-automation",
+          "publishedOn": "2025-05-03T17:22:00.000Z",
+          "wordCount": 2275,
+          "title": "Streamlining Your Workday with Microsoft Teams Automation",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/blob-ff169a4.png"
+        },
+        {
+          "id": "https://365community.online/creating-flows-using-copilot-in-power-automate-youtube",
+          "author": "Manish chauhan",
+          "description": "Learn how to create flows in Power Automate using Copilot. This video covers generating flows with natural language, configuring steps, and testing the flow efficiently. This video consist of: • 0:00 – 0:09 → Introduction • 0:10 – 0:33 → In This Video • 0:34 – 1:09 → Creating the Flow • 1:10 – 1:43 […]\nThe post Creating Flows using Copilot in Power Automate – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/creating-flows-using-copilot-in-power-automate-youtube",
+          "publishedOn": "2025-05-03T12:30:02.000Z",
+          "wordCount": 2334,
+          "title": "Creating Flows using Copilot in Power Automate – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/new-release-discover-whats-new-with-text-sms-in-dynamics-365",
+          "author": "Inogic",
+          "description": "Most sales teams are managing CRM SMS conversations the wrong way! Sales teams today manage dozens of SMS conversations across Leads, Contacts, and Opportunities, but CRM systems haven’t caught up to how real salespeople work. Here’s what typically happens: You get a reply from a lead, but you’re busy. You can’t reassign the chat without […]\nThe post New Release: Discover What’s New with Text SMS in Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-release-discover-whats-new-with-text-sms-in-dynamics-365",
+          "publishedOn": "2025-05-03T10:38:00.000Z",
+          "wordCount": 2941,
+          "title": "New Release: Discover What’s New with Text SMS in Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/Text-SMS-in-Dynamics-365.png"
+        },
+        {
+          "id": "https://365community.online/table-permissions-and-fetchxml-queries-in-power-pages",
+          "author": "michelcarlo",
+          "description": "When some new non-Power Platform developers joined a past project I worked on, they were looking at some existing code and api endpoints and were like: Oh this web api accepts any FetchXML I put here! This should not be like this! But… They were not aware of how table permissions work and how they […]\nThe post Table Permissions and FetchXML queries in Power Pages appeared first on 365 Community Online.",
+          "link": "https://365community.online/table-permissions-and-fetchxml-queries-in-power-pages",
+          "publishedOn": "2025-05-03T09:45:00.000Z",
+          "wordCount": 2871,
+          "title": "Table Permissions and FetchXML queries in Power Pages",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/fetch_post_thumb.png"
+        },
+        {
           "id": "https://365community.online/sharepoint-o-que-e-quais-projetos-posso-fazer-como-integrar-copilot-e-spfx-youtube",
           "author": "Saulo Soares Oliveira",
           "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCUuAtzt0pMmnC54UpEVls8g/join source\nThe post SharePoint – O que é? Quais projetos posso fazer? Como Integrar? Copilot e SPFx – YouTube appeared first on 365 Community Online.",
@@ -61563,6 +61603,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-monitor-to-maximize-production-health-preview/",
+          "author": "Lance Delano",
+          "description": "We’re excited to announce the preview release of Monitor, a key component of the Microsoft Power Platform suite of services. Available today, Monitor allows you a keep a bird’s eye view on key apps and provides suggestions on how to fix issues that may arise. The Power Platform Monitor is set to redefine how you\nThe post Use Monitor to maximize production health (Preview) appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-monitor-to-maximize-production-health-preview/",
+          "publishedOn": "2025-05-01T17:15:32.000Z",
+          "wordCount": 3226,
+          "title": "Use Monitor to maximize production health (Preview)",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2025/04/ppac_left_nav.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-shareable-service-principal-name-with-power-apps/",
+          "author": "Lance Delano",
+          "description": "We are excited to announce an enhancement in how Power Apps connects to SQL Server. Service Principal Name (SPN) based connections are now shareable! This enhancement marks a key step forward in simplifying and securing access to your enterprise applications. Previously, a SPN based connection was not shareable, which meant that if an app was\nThe post Use shareable Service Principal Name with Power Apps appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-shareable-service-principal-name-with-power-apps/",
+          "publishedOn": "2025-05-01T17:15:18.000Z",
+          "wordCount": 2974,
+          "title": "Use shareable Service Principal Name with Power Apps",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2023/12/Microsoft-logo_rgb_c-gray_950-1.webp"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-power-platform-and-copilot-studio-architecture-center/",
           "author": "Robert Standefer",

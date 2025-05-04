@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-03T01:43:30.745Z</updated>
+    <updated>2025-05-04T01:54:59.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Your Workday with Microsoft Teams Automation]]></title>
+        <id>https://365community.online/streamlining-your-workday-with-microsoft-teams-automation</id>
+        <link href="https://365community.online/streamlining-your-workday-with-microsoft-teams-automation"/>
+        <updated>2025-05-03T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the announcement of Microsoft New Teams client to replace the classic Teams in 2024, there have been quite a number of updates to aid users productivity whilst using the ‘new’ Teams client. By July 1st 2025, the en… Original Post https://techiejournals.com/blog/f/streamlining-your-workday-with-microsoft-teams-automation
+The post Streamlining Your Workday with Microsoft Teams Automation appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Onyinye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Flows using Copilot in Power Automate – YouTube]]></title>
+        <id>https://365community.online/creating-flows-using-copilot-in-power-automate-youtube</id>
+        <link href="https://365community.online/creating-flows-using-copilot-in-power-automate-youtube"/>
+        <updated>2025-05-03T12:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create flows in Power Automate using Copilot. This video covers generating flows with natural language, configuring steps, and testing the flow efficiently. This video consist of: • 0:00 – 0:09 → Introduction • 0:10 – 0:33 → In This Video • 0:34 – 1:09 → Creating the Flow • 1:10 – 1:43 […]
+The post Creating Flows using Copilot in Power Automate – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release: Discover What’s New with Text SMS in Dynamics 365]]></title>
+        <id>https://365community.online/new-release-discover-whats-new-with-text-sms-in-dynamics-365</id>
+        <link href="https://365community.online/new-release-discover-whats-new-with-text-sms-in-dynamics-365"/>
+        <updated>2025-05-03T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Most sales teams are managing CRM SMS conversations the wrong way! Sales teams today manage dozens of SMS conversations across Leads, Contacts, and Opportunities, but CRM systems haven’t caught up to how real salespeople work. Here’s what typically happens: You get a reply from a lead, but you’re busy. You can’t reassign the chat without […]
+The post New Release: Discover What’s New with Text SMS in Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Table Permissions and FetchXML queries in Power Pages]]></title>
+        <id>https://365community.online/table-permissions-and-fetchxml-queries-in-power-pages</id>
+        <link href="https://365community.online/table-permissions-and-fetchxml-queries-in-power-pages"/>
+        <updated>2025-05-03T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[When some new non-Power Platform developers joined a past project I worked on, they were looking at some existing code and api endpoints and were like: Oh this web api accepts any FetchXML I put here! This should not be like this! But… They were not aware of how table permissions work and how they […]
+The post Table Permissions and FetchXML queries in Power Pages appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use D365FO Customer Prepayment Invoice With Docentric]]></title>
         <id>https://ax.docentric.com/?p=30922</id>
@@ -219,6 +263,28 @@ Does Dynamics GP provide greater productivity?
 Does Dynamics GP in the Cloud Provide Security?]]></summary>
         <author>
             <name>MetaViewer from Metafile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Monitor to maximize production health (Preview)]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-monitor-to-maximize-production-health-preview/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-monitor-to-maximize-production-health-preview/"/>
+        <updated>2025-05-01T17:15:32.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce the preview release of Monitor, a key component of the Microsoft Power Platform suite of services. Available today, Monitor allows you a keep a bird’s eye view on key apps and provides suggestions on how to fix issues that may arise. The Power Platform Monitor is set to redefine how you
+The post Use Monitor to maximize production health (Preview) appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Lance Delano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use shareable Service Principal Name with Power Apps]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-shareable-service-principal-name-with-power-apps/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-shareable-service-principal-name-with-power-apps/"/>
+        <updated>2025-05-01T17:15:18.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce an enhancement in how Power Apps connects to SQL Server. Service Principal Name (SPN) based connections are now shareable! This enhancement marks a key step forward in simplifying and securing access to your enterprise applications. Previously, a SPN based connection was not shareable, which meant that if an app was
+The post Use shareable Service Principal Name with Power Apps appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Lance Delano</name>
         </author>
     </entry>
     <entry>
