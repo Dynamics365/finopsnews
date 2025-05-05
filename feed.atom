@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-04T01:54:59.595Z</updated>
+    <updated>2025-05-05T01:50:01.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #54]]></title>
+        <id>http://dynamicsax-fico.com/?p=7526</id>
+        <link href="https://dynamicsax-fico.com/2025/05/04/microsoft-bizapps-deutschland-podcast-54/"/>
+        <updated>2025-05-04T17:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamlining Your Workday with Microsoft Teams Automation]]></title>
         <id>https://365community.online/streamlining-your-workday-with-microsoft-teams-automation</id>
@@ -51,6 +61,17 @@ The post Table Permissions and FetchXML queries in Power Pages appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rank Transformation in Informatica | How to Use Rank Transformation in PowerCenter | IICS Tutorial – YouTube]]></title>
+        <id>https://365community.online/rank-transformation-in-informatica-how-to-use-rank-transformation-in-powercenter-iics-tutorial-youtube</id>
+        <link href="https://365community.online/rank-transformation-in-informatica-how-to-use-rank-transformation-in-powercenter-iics-tutorial-youtube"/>
+        <updated>2025-05-03T05:15:08.000Z</updated>
+        <summary type="html"><![CDATA[In this Informatica tutorial, you’ll learn all about the Rank Transformation in Informatica. You’ll learn what it is, how it works, and how to use Rank Transformation in real-time data scenarios. Whether you’re preparing for Informatica interviews or working on a live project, this video will help you understand how Rank Transformation can be used […]
+The post Rank Transformation in Informatica | How to Use Rank Transformation in PowerCenter | IICS Tutorial – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Use D365FO Customer Prepayment Invoice With Docentric]]></title>
         <id>https://ax.docentric.com/?p=30922</id>
         <link href="https://ax.docentric.com/use-d365fo-customer-prepayment-invoice-with-docentric/"/>
@@ -85,6 +106,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform customer support with case summary auto-enablement]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/02/transform-customer-support-with-case-summary-auto-enablement/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/02/transform-customer-support-with-case-summary-auto-enablement/"/>
+        <updated>2025-05-02T16:44:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re continuing our commitment to simplifying support workflows and driving agent productivity with AI-first capabilities in Dynamics 365 Customer Service. Summarization features like case summary are now automatically enabled for all users of model-driven apps that use the incident entity. If you currently do not have case summary enabled, this will get switched on automatically after
+The post Transform customer support with case summary auto-enablement  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Hardik Sanghavi</name>
         </author>
     </entry>
     <entry>
@@ -210,6 +242,17 @@ Microsoft Dynamics GP Interfund Management – It’s Not Just For Non-Profits]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s New in Copilot for Sales – April 2025]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/01/whats-new-in-copilot-for-sales-april-2025/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/01/whats-new-in-copilot-for-sales-april-2025/"/>
+        <updated>2025-05-01T21:19:47.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce improved extensibility for 3rd party insights in email summaries in Outlook, allowing partners to surface richer sales insights. We’re also delivering the ability to Save AI notes to CRM (both Microsoft Dynamics 365 and Salesforce) directly from the meeting recap, allowing sellers to be able to save meeting notes directly to CRM.  
+The post What’s New in Copilot for Sales – April 2025  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Katie Legan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI Builder: Update Dataverse currency exchange rates]]></title>
         <id>https://365community.online/ai-builder-update-dataverse-currency-exchange-rates</id>
         <link href="https://365community.online/ai-builder-update-dataverse-currency-exchange-rates"/>
@@ -285,6 +328,18 @@ The post Use Monitor to maximize production health (Preview) appeared first on M
 The post Use shareable Service Principal Name with Power Apps appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Lance Delano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Dynamics 365 Contact Center WhatsApp channel powered by Azure Communication Services]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/01/announcing-dynamics-365-contact-center-whatsapp-channel-powered-by-azure-communication-services/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/01/announcing-dynamics-365-contact-center-whatsapp-channel-powered-by-azure-communication-services/"/>
+        <updated>2025-05-01T17:05:45.000Z</updated>
+        <summary type="html"><![CDATA[With the direct WhatsApp integration in Dynamics 365 Contact Center, organizations can now provide superior customer experiences on a trusted and widely used platform. Additionally, they can leverage the power of Microsoft’s AI-driven contact center capabilities. 
+This integration exemplifies the strong collaboration between Microsoft and Meta. By leveraging the advanced functionalities of Azure Communication Services in conjunction with the extensive user base of WhatsApp, we enable businesses to offer superior customer experiences.
+The post Announcing Dynamics 365 Contact Center WhatsApp channel powered by Azure Communication Services appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Yan Gao</name>
         </author>
     </entry>
     <entry>
@@ -452,6 +507,17 @@ The post Q&A Webinar Recording – Making the Move – Session 4 – YouTube app
 The post How do the top Field Service systems compare? appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/30/2025-release-wave-1-brings-hundreds-of-updates-to-microsoft-dynamics-365-and-power-platform/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/30/2025-release-wave-1-brings-hundreds-of-updates-to-microsoft-dynamics-365-and-power-platform/"/>
+        <updated>2025-04-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has launched the 2025 release wave 1, a six-month rollout of new and enhanced capabilities featured during the Microsoft Business Applications Launch Event.
+The post 2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Bryan Goode</name>
         </author>
     </entry>
     <entry>
@@ -631,6 +697,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in unified routing: April 2025 feature update]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/29/whats-new-in-unified-routing-april-2025-feature-update/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/04/29/whats-new-in-unified-routing-april-2025-feature-update/"/>
+        <updated>2025-04-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This month, we are extending the least active routing method to messaging channels. Least active routing provides efficient workload distribution by ensuring work items are assigned to service representatives based on when they end their last conversation and have the least active in the queue. This approach prevents back-to-back assignments. Additionally, it ensures agents have adequate rest between customers. This leads to better utilization of agents, improved customer satisfaction (CSAT), service representative satisfaction (ASAT), and lower average handling time (AHT).
+The post What’s new in unified routing: April 2025 feature update  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Spandana Mohapatra</name>
         </author>
     </entry>
     <entry>
