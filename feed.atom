@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-05T01:50:01.170Z</updated>
+    <updated>2025-05-06T01:46:57.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deleting Elastic Table Records in Dataverse Using Alternate Key in SSIS (KingswaySoft)]]></title>
+        <id>https://365community.online/deleting-elastic-table-records-in-dataverse-using-alternate-key-in-ssis-kingswaysoft</id>
+        <link href="https://365community.online/deleting-elastic-table-records-in-dataverse-using-alternate-key-in-ssis-kingswaysoft"/>
+        <updated>2025-05-05T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Had written a post on deleting the elastic table record earlier – How to Delete Elastic Table Records in Dataverse (SDK). We need to pass the partitionid value through an alternate key to delete the elastic table records. We will have the alternate key auto-created by the system when we create an elastic table. Earlier […]
+The post Deleting Elastic Table Records in Dataverse Using Alternate Key in SSIS (KingswaySoft) appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced revenue recognition in Dynamics Finance: 3 real-world use cases.]]></title>
+        <id>https://erpsoftwareblog.com/?p=127258</id>
+        <link href="https://erpsoftwareblog.com/2025/05/advanced-revenue-recognition-in-dynamics-finance-3-real-world-use-cases/"/>
+        <updated>2025-05-05T16:45:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Revenue recognition has become increasingly complex in today’s business environment. With evolving subscription models, bundled offerings, and strict standards like ASC 606 and IFRS 15, finance teams face mounting pressure to ensure accuracy, […]
+The post Advanced revenue recognition in Dynamics Finance: 3 real-world use cases. appeared first on ERP Software Blog.
+Microsoft NAV 2016 Version Upgrade! Never Worry!!
+Office 365 and Dynamics 365 for Finance and Operations: The Perfect Match
+JourneyTEAM: Integrating Active Directory Groups with Office 365 & Microsoft Teams]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help! User license enforcement in Dynamics 365 F&O]]></title>
+        <id>https://dynamicspedia.com/?p=19369</id>
+        <link href="https://dynamicspedia.com/2025/05/help-user-license-enforcement-in-dynamics-365-fo/"/>
+        <updated>2025-05-05T16:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Microsoft announced a blog about Simplifying License Management for Dynamics 365 Finance and Operations, which I shared on LinkedIn, as this post contains a super important update that might impact your Dynamics 365 environment. Microsoft will actively check for users’ valid license assignments when starting the application. Starting May 15, 2025, in case the […]
+The post Help! User license enforcement in Dynamics 365 F&O appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 April DC Chapter Meeting]]></title>
+        <id>https://365community.online/2025-april-dc-chapter-meeting</id>
+        <link href="https://365community.online/2025-april-dc-chapter-meeting"/>
+        <updated>2025-05-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The group was back in action for the 2025 April DC Chapter Meeting! This meeting featured Dian Taylor and details on the release wave! As a Microsoft MVP and Dynamics 365 expert, Dian shared insights on what’s new, what’s improved, and how you can make the most of the latest release. For more information, check […]
+The post 2025 April DC Chapter Meeting appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Kylie Kiser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ERP System is Providing Technical Advancement in Healthcare Industry?]]></title>
+        <id>https://erpsoftwareblog.com/?p=127376</id>
+        <link href="https://erpsoftwareblog.com/2025/05/how-erp-system-is-providing-technical-advancement-in-healthcare-industry/"/>
+        <updated>2025-05-05T13:28:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Think ERP systems don’t belong to healthcare? Think Again. The healthcare industry is evolving fast, and relying on outdated systems can hold back both patient care and operational efficiency. You […]
+The post How ERP System is Providing Technical Advancement in Healthcare Industry? appeared first on ERP Software Blog.
+Benefits of ERP Software for Business: Top 7 Industries
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+How Pharmaceutical ERP solutions work for Manufacturing Industry]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse Setup in Business Central: 10 Ways Warehouse Insight Simplifies Your Workflow]]></title>
+        <id>https://erpsoftwareblog.com/?p=127315</id>
+        <link href="https://erpsoftwareblog.com/2025/05/warehouse-setup-in-business-central-10-ways-warehouse-insight-simplifies-your-workflow/"/>
+        <updated>2025-05-05T12:11:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Uncover how Warehouse Insight simplifies warehouse setup in Business Central with seamless integration, real-time data access, barcode scanning, and customizable workflows.
+The post Warehouse Setup in Business Central: 10 Ways Warehouse Insight Simplifies Your Workflow appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central: Make to Stock Planning in Action]]></title>
+        <id>https://erpsoftwareblog.com/?p=127159</id>
+        <link href="https://erpsoftwareblog.com/2025/05/mastering-manufacturing-with-business-central-make-to-stock-planning-in-action/"/>
+        <updated>2025-05-05T09:14:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In our last blog, we explored how Microsoft Dynamics 365 Business Central’s MRP engine responds in a Make to Order environment. Now we’ll flip the script and look at what […]
+The post Mastering Manufacturing with Business Central: Make to Stock Planning in Action appeared first on ERP Software Blog.
+DYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?
+Microsoft Dynamics ERP for Distribution/Manufacturing Industry
+What's New in Business Central 2024 Release Wave 2]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: using secrets in JsonObjects.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-using-secrets-in-jsonobjects</id>
+        <link href="https://365community.online/dynamics-365-business-central-using-secrets-in-jsonobjects"/>
+        <updated>2025-05-05T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[When working on integrations with external APIs or external services in general, sometimes you need to insert credentials or secrets into a Json body in order to call that service. To handle secrets in AL, with the Dynamics 365 Business Central 2023 Wave 2 release (version 23) Microsoft introduced the SecretText data type (more info […]
+The post Dynamics 365 Business Central: using secrets in JsonObjects. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Virtual Desktop Authentication Explained! – YouTube]]></title>
+        <id>https://365community.online/azure-virtual-desktop-authentication-explained-youtube</id>
+        <link href="https://365community.online/azure-virtual-desktop-authentication-explained-youtube"/>
+        <updated>2025-05-05T03:00:59.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we’ll delve into Azure Virtual Desktop authentication, covering AD FS and various authentication methods. Learn more about securing your virtual desktop environment! We finish the video with a cool demo on RDP Properties! Episode Breakdown: 00:00 – Episode Introduction 00:33 – Episode Breakdown 00:58 – Federated Identity 01:34 – Authentication Methods 02:26 […]
+The post Azure Virtual Desktop Authentication Explained! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #54]]></title>
         <id>http://dynamicsax-fico.com/?p=7526</id>
