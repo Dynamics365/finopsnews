@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-12T01:51:34.426Z</updated>
+    <updated>2025-05-13T01:49:13.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Consuming External Web Services in D365FO]]></title>
+        <id>https://alexvoy.blogspot.com/2025/05/consuming-external-web-services-in.html</id>
+        <link href="https://alexvoy.blogspot.com/2025/05/consuming-external-web-services-in.html"/>
+        <updated>2025-05-13T01:47:00.005Z</updated>
+        <summary type="html"><![CDATA[Enhancing Dynamics 365 Finance and Operations with Real-Time External Data
+
+Integrating external web services into Dynamics 365 Finance and Operations (D365FO) can greatly enhance functionality, allowing for the use of real-time data from various sources. In this article, we will demonstrate how to consume an external web service in X++ using a practical example: retrieving currency exchange rates from a publicly available API.
+
+💡 Use Case: Currency Conversion in the Sales Order Form
+We aim to build a class that fetches the exchange rate between two currencies. The chosen API for this example is ExchangeRate-API, which provides conversion rates between multiple currencies as well as many other services.
+Our specific implementation will:
+
+Integrate into the Sales order form
+Add a new butto…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Production Scheduling in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=127763</id>
+        <link href="https://erpsoftwareblog.com/2025/05/visual-production-scheduling-in-business-central/"/>
+        <updated>2025-05-12T20:20:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Explore how Visual Production Scheduling in Business Central, using Graphical Scheduler and MxAPS, enhances production efficiency and optimizes your workflow with seamless integration and advanced features.
+The post Visual Production Scheduling in Business Central appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – Field Service Time Entry functionality is not available. The installed version of Project Service Automation is not compatible with the installed version of Field Service. Please upgrade Project Service Automation to use Field Service Time Entry functionality.]]></title>
+        <id>https://365community.online/fixed-field-service-time-entry-functionality-is-not-available-the-installed-version-of-project-service-automation-is-not-compatible-with-the-installed-version-of-field-service-please-upgra</id>
+        <link href="https://365community.online/fixed-field-service-time-entry-functionality-is-not-available-the-installed-version-of-project-service-automation-is-not-compatible-with-the-installed-version-of-field-service-please-upgra"/>
+        <updated>2025-05-12T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently while trying to set Bookable Resource Booking record’s status as completed or trying to change Settings >> General >> Field Service Settings >> Time Entry, we were getting below error We can see the Dynamics 365 Project Service Installation Failed and on retrying the installation it was giving below error. The fix that worked […]
+The post Fixed – Field Service Time Entry functionality is not available. The installed version of Project Service Automation is not compatible with the installed version of Field Service. Please upgrade Project Service Automation to use Field Service Time Entry functionality. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining contract billing with Dynamics Finance: 3 real-world scenarios.]]></title>
+        <id>https://erpsoftwareblog.com/?p=127264</id>
+        <link href="https://erpsoftwareblog.com/2025/05/streamlining-contract-billing-with-dynamics-finance-3real-world-scenarios/"/>
+        <updated>2025-05-12T17:02:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As business models grow more complex, especially in service and subscription-based industries, managing contract billing efficiently has become a critical challenge. Manual processes, rigid systems, and disconnected tools often lead […]
+The post Streamlining contract billing with Dynamics Finance: 3 real-world scenarios. appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Informatica Full Course | IICS Course | Informatica Cloud Training | Informatica Tutorial |MindMajix – YouTube]]></title>
+        <id>https://365community.online/informatica-full-course-iics-course-informatica-cloud-training-informatica-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/informatica-full-course-iics-course-informatica-cloud-training-informatica-tutorial-mindmajix-youtube"/>
+        <updated>2025-05-12T13:38:58.000Z</updated>
+        <summary type="html"><![CDATA[🔥 Join hands-on IICS Certiifcation Course: https://mindmajix.com/informatica-cloud-training?utm_source=l70rScWz4pg&utm_medium=Live&utm_campaign=promotion Welcome to Informatica Full Course, where you will learn everything you need to know about Informatica Intelligent Cloud Services (IICS) from the basics to advanced concepts. This is a complete Informatica tutorial for beginners, data engineers, and professionals looking to upskill in cloud-based data integration. Whether you’re a […]
+The post Informatica Full Course | IICS Course | Informatica Cloud Training | Informatica Tutorial |MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Variables in Power Automate – YouTube]]></title>
+        <id>https://365community.online/using-variables-in-power-automate-youtube</id>
+        <link href="https://365community.online/using-variables-in-power-automate-youtube"/>
+        <updated>2025-05-12T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[📝In this video, you’ll learn how to use variables in Power Automate effectively. By the end of the video, you’ll be comfortable using variables and ready for more advanced actions in the next session. Don’t forget to like, share, and subscribe for more Power Automate tutorials! 📌 This video consists of: • 0:00 – 0:09 […]
+The post Using Variables in Power Automate – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Integrate E-commerce with ERP? A Strategic Move for Scalable Growth]]></title>
+        <id>https://erpsoftwareblog.com/?p=127731</id>
+        <link href="https://erpsoftwareblog.com/2025/05/why-integrate-e-commerce-with-erp-a-strategic-move-for-scalable-growth/"/>
+        <updated>2025-05-12T10:52:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Imagine this: your online store is thriving. Orders are pouring in, customers are engaging, and your products are moving faster than ever. But have you ever thought about behind-the-scenes (BTS)? […]
+The post Why Integrate E-commerce with ERP? A Strategic Move for Scalable Growth appeared first on ERP Software Blog.
+4 Reasons Why Restaurants Cook with Microsoft Dynamics GP
+Microsoft Dynamics GP Reduces ERP Costs For Popular Restaurant Chain And Food Manufacturer
+‘Tis The Season …For Physical Inventory Made Easier With Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central: Scaling MRP with Order Tracking and Action Messages]]></title>
+        <id>https://erpsoftwareblog.com/?p=127180</id>
+        <link href="https://erpsoftwareblog.com/2025/05/mastering-manufacturing-with-business-central-scaling-mrp-with-order-tracking-and-action-messages/"/>
+        <updated>2025-05-12T09:39:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Implementing MRP in Microsoft Dynamics 365 Business Central is a game-changer for manufacturers looking to automate, streamline, and scale their production planning. But once you move beyond basic configuration, how […]
+The post Mastering Manufacturing with Business Central: Scaling MRP with Order Tracking and Action Messages appeared first on ERP Software Blog.
+Mastering Manufacturing with Business Central: Make to Stock Planning in Action
+Mastering Manufacturing with Business Central: Make to Order vs. Make to Stock
+Mastering Manufacturing with Business Central: Configuring Reordering Policies]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Azure Synapse Analytics Workspace? | Azure Synapse Analytics Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/how-to-create-azure-synapse-analytics-workspace-azure-synapse-analytics-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/how-to-create-azure-synapse-analytics-workspace-azure-synapse-analytics-tutorial-mindmajix-youtube"/>
+        <updated>2025-05-12T09:01:58.000Z</updated>
+        <summary type="html"><![CDATA[🔥 Join hands-on Azure Data Engineer Certification course: https://mindmajix.com/azure-data-engineer-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion In this Azure Data Engineer course, you’ll learn about Azure Synapse Analytics Workspace, including what it is, and how to create an Azure Synapse Analytics Workspace. Whether you’re a beginner or exploring Azure for your data projects, this Azure Data Engineer tutorial makes it easy to […]
+The post How to Create Azure Synapse Analytics Workspace? | Azure Synapse Analytics Tutorial | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 ERP Systems for Small Business in all Industries in 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=127717</id>
+        <link href="https://erpsoftwareblog.com/2025/05/top-10-erp-systems-for-small-business-in-all-industries-in-2025/"/>
+        <updated>2025-05-12T07:33:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Thinking about how to make your business more efficient in 2025? Curious which ERP systems are actually helping companies transform and grow? Selecting the right ERP Systems for Small Business can […]
+The post Top 10 ERP Systems for Small Business in all Industries in 2025 appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP y A2A en Copilot Studio: hacia una IA verdaderamente conectada y colaborativa]]></title>
+        <id>https://365community.online/mcp-y-a2a-en-copilot-studio-hacia-una-ia-verdaderamente-conectada-y-colaborativa</id>
+        <link href="https://365community.online/mcp-y-a2a-en-copilot-studio-hacia-una-ia-verdaderamente-conectada-y-colaborativa"/>
+        <updated>2025-05-12T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[¿Dónde encaja Business Central en esto? En el horizonte de la inteligencia artificial empresarial, los agentes están evolucionando rápidamente. Ya no se trata simplemente de asistentes que responden preguntas o automatizan una tarea puntual. Hablamos de agentes orquestadores, capaces de conectarse a sistemas complejos, colaborar con otros agentes y adaptarse al contexto en tiempo real.Microsoft […]
+The post MCP y A2A en Copilot Studio: hacia una IA verdaderamente conectada y colaborativa appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Microsoft Business Central Pricing Changes – What You Need to Know]]></title>
+        <id>https://365community.online/upcoming-microsoft-business-central-pricing-changes-what-you-need-to-know</id>
+        <link href="https://365community.online/upcoming-microsoft-business-central-pricing-changes-what-you-need-to-know"/>
+        <updated>2025-05-12T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has officially announced pricing changes for Dynamics 365 Business Central, set to take effect on October 1, 2025. This marks the first significant price adjustment in over five years, accompanied by enhanced storage and powerful feature upgrades. Whether you’re an existing customer or considering Business Central for the first time, understanding these changes is […]
+The post Upcoming Microsoft Business Central Pricing Changes – What You Need to Know appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Project Sophia, take two :)]]></title>
         <id>https://365community.online/project-sophia-take-two</id>
@@ -15,6 +175,28 @@
 The post Project Sophia, take two :) appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asking Copilot About Your Flow in Power Automate – YouTube]]></title>
+        <id>https://365community.online/asking-copilot-about-your-flow-in-power-automate-youtube</id>
+        <link href="https://365community.online/asking-copilot-about-your-flow-in-power-automate-youtube"/>
+        <updated>2025-05-11T14:47:26.000Z</updated>
+        <summary type="html"><![CDATA[In this video, you’ll learn how to interact with Power Automate Copilot to get a clear description of your flow. Whether you’re reviewing someone else’s work or want a quick summary of what a flow does, Copilot can help by analyzing the steps and providing a natural-language explanation. We’ll walk through how to ask Copilot […]
+The post Asking Copilot About Your Flow in Power Automate – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Header and Footer in Databricks Notebook? | Azure Databricks Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/how-to-handle-header-and-footer-in-databricks-notebook-azure-databricks-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/how-to-handle-header-and-footer-in-databricks-notebook-azure-databricks-tutorial-mindmajix-youtube"/>
+        <updated>2025-05-11T05:30:30.000Z</updated>
+        <summary type="html"><![CDATA[🔥 Join hands-on Azure Databricks Certiifcation Course: https://mindmajix.com/azure-databricks-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion In this Azure Databricks tutorial, you’ll learn how to handle headers and footers when working with data files in Databricks notebooks. Whether you’re dealing with CSVs, Excel files, or other structured data, this video will show you how to read files with or without headers, and how […]
+The post How to Handle Header and Footer in Databricks Notebook? | Azure Databricks Tutorial | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
