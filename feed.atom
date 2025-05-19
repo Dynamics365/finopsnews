@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-18T01:54:28.757Z</updated>
+    <updated>2025-05-19T01:53:32.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to configure donotreply email using Shared mailboxes in Dynamics 365 CE?]]></title>
+        <id>https://365community.online/how-to-configure-donotreply-email-using-shared-mailboxes-in-dynamics-365-ce</id>
+        <link href="https://365community.online/how-to-configure-donotreply-email-using-shared-mailboxes-in-dynamics-365-ce"/>
+        <updated>2025-05-18T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a quite common requirement in Dynamics 365 CE to send emails from a common email like donotreply or noreply or any other common name to all the users from Dynamics 365 CE. So, we can use Shared Mailboxes for this purpose. This shared mailbox is a type of user mailbox that doesn’t have […]
+The post How to configure donotreply email using Shared mailboxes in Dynamics 365 CE? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Microsoft Dynamics 365 Finance & SCM Training – Starts May 24th 2025]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2937</id>
+        <link href="https://exploredynamics365.home.blog/2025/05/17/free-microsoft-dynamics-365-finance-scm-training-starts-may-24th-2025/"/>
+        <updated>2025-05-17T13:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Want to break into Microsoft Dynamics 365? Already in the ecosystem and need hands-on guidance?  We’ve got your back — with something BIG, and FREE!  Register For Training Here Introducing a community-powered, live training series on Dynamics 365 Finance and Supply Chain Management (SCM) — designed for learners, job seekers, and professionals who want to grow in the D365 […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Microsoft Dynamics 365 Finance & SCM Training – Starts May 24th 2025]]></title>
         <id>http://exploredynamics365.home.blog/?p=2937</id>
