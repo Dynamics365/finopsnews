@@ -2,10 +2,237 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-19T01:53:32.926Z</updated>
+    <updated>2025-05-20T01:49:35.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Failed to delete View (View Name). Object dependencies exist, please review before deleting error in Dataverse]]></title>
+        <id>https://365community.online/failed-to-delete-view-view-name-object-dependencies-exist-please-review-before-deleting-error-in-dataverse</id>
+        <link href="https://365community.online/failed-to-delete-view-view-name-object-dependencies-exist-please-review-before-deleting-error-in-dataverse"/>
+        <updated>2025-05-19T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While trying to delete a custom public view (Test View) in Dataverse, we encountered the following error: “The SavedQuery(<GUID>) component cannot be deleted because it is referenced by 1 other component. For a list of referenced components, use the RetrieveDependenciesForDeleteRequest.” This usually means that the view we’re trying to delete is still being referenced somewhere […]
+The post Failed to delete View (View Name). Object dependencies exist, please review before deleting error in Dataverse appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cómo asignar capacidad de mensajes para usar agentes en Dynamics 365 Sales – Guía paso a paso – YouTube]]></title>
+        <id>https://365community.online/como-asignar-capacidad-de-mensajes-para-usar-agentes-en-dynamics-365-sales-guia-paso-a-paso-youtube</id>
+        <link href="https://365community.online/como-asignar-capacidad-de-mensajes-para-usar-agentes-en-dynamics-365-sales-guia-paso-a-paso-youtube"/>
+        <updated>2025-05-19T18:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Cómo asignar capacidad de mensajes para usar agentes en Dynamics 365 Sales – Guía paso a paso
+The post Cómo asignar capacidad de mensajes para usar agentes en Dynamics 365 Sales – Guía paso a paso – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Bank Reconciliation in Microsoft Dynamics 365 Business Central and Save Time and Money]]></title>
+        <id>https://erpsoftwareblog.com/?p=128078</id>
+        <link href="https://erpsoftwareblog.com/2025/05/master-bank-reconciliation-in-microsoft-dynamics-365-business-central-and-save-time-and-money/"/>
+        <updated>2025-05-19T17:56:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Reconciling your bank statements is more than good practice—it's essential for accurate financial reporting. It's also your best defense against costly errors. A surprising number of businesses (around 30%) struggle […]
+The post Master Bank Reconciliation in Microsoft Dynamics 365 Business Central and Save Time and Money appeared first on ERP Software Blog.
+Best strategies, insights and techniques for a successful eCommerce implementation
+ERP Software Maintenance Fees:  Insurance You Actually Need
+IFRS Accounting with Microsoft Dynamics GP®: Sub-ledger Transaction Level (Part 2)]]></summary>
+        <author>
+            <name>New View Strategies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATCH: How contract billing works with Advanced Subscription Management in Dynamics 365 Finance.]]></title>
+        <id>https://erpsoftwareblog.com/?p=127267</id>
+        <link href="https://erpsoftwareblog.com/2025/05/watch-how-contract-billing-works-with-advanced-subscription-management-in-dynamics-365-finance/"/>
+        <updated>2025-05-19T17:03:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+See how contract billing works in practice. This short demo highlights how Advanced Subscription Management manages a range of billing scenarios—from annual subscriptions with deferred revenue to usage-based pricing with […]
+The post WATCH: How contract billing works with Advanced Subscription Management in Dynamics 365 Finance. appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 MRP Keeps Your Supply Chain on Track]]></title>
+        <id>https://erpsoftwareblog.com/?p=128079</id>
+        <link href="https://erpsoftwareblog.com/2025/05/how-dynamics-365-mrp-keeps-your-supply-chain-on-track/"/>
+        <updated>2025-05-19T16:47:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+With shifting demand, supplier disruptions, and rising operational costs, resilience requires more than spreadsheets and guesswork. For manufacturers and distributors, manual planning is no longer sustainable. Microsoft Dynamics 365 Supply […]
+The post How Dynamics 365 MRP Keeps Your Supply Chain on Track appeared first on ERP Software Blog.
+Achieving Supply Chain Excellence through Consignment Inventory in Microsoft Dynamics 365 for Finance and Operations
+Five Ways to Make Your Supply Chain More Dynamic
+Five Ways to Make Your Supply Chain More Dynamic]]></summary>
+        <author>
+            <name>Calsoft Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Int and Float Type Variables in Power Automate – YouTube]]></title>
+        <id>https://365community.online/using-int-and-float-type-variables-in-power-automate-youtube</id>
+        <link href="https://365community.online/using-int-and-float-type-variables-in-power-automate-youtube"/>
+        <updated>2025-05-19T13:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use Integer and Float variables in Power Automate to perform calculations, manage dynamic data, and streamline your workflows. ⏱️ This video consits of: • 00:00 – 00:09 — Introduction • 00:10 – 00:22 — In This Video • 00:23 – 02:24 — Creating the Flow • 02:25 – 02:52 — Saving and […]
+The post Using Int and Float Type Variables in Power Automate – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three ERP Demo Days. Three Packed Lineups. One Powerful Way to Discover What’s Next.]]></title>
+        <id>https://erpsoftwareblog.com/?p=127886</id>
+        <link href="https://erpsoftwareblog.com/2025/05/three-erp-demo-days-three-packed-lineups-one-powerful-way-to-discover-whats-next/"/>
+        <updated>2025-05-19T12:11:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If there's one thing we know—buying software doesn’t have to be hard. That’s why the Microsoft Demo Days are designed to help you cut through the noise and get straight […]
+The post Three ERP Demo Days. Three Packed Lineups. One Powerful Way to Discover What’s Next. appeared first on ERP Software Blog.
+Time to Upgrade Your TMS or Maybe Move to a New Provider ?
+2 Demo Days - Microsoft Dynamics GP and 365 Business Central
+How are AP and AR the 2 Sides of The Same Coin?]]></summary>
+        <author>
+            <name>The ISV Society</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tactical Scheduling for the Panthers — Let Copilot Handle the Heat of the Day]]></title>
+        <id>https://365community.online/?p=101605</id>
+        <link href="https://365community.online/tactical-scheduling-dynamics-365-field-service"/>
+        <updated>2025-05-19T11:46:02.000Z</updated>
+        <summary type="html"><![CDATA[The ice is set, the crowd is coming, and the clock is ticking. That’s a typical day for the Perth Panthers’ Ice Crew and Dispatch Team. Now imagine this: a technician has called in sick, or a previous repair job is overrunning. What do you do?   In the past, this would cause a cascade […]
+The post Tactical Scheduling for the Panthers — Let Copilot Handle the Heat of the Day appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mark Christie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drag-and-Drop Production Scheduling Comes to Business Central—For Free]]></title>
+        <id>https://erpsoftwareblog.com/?p=127967</id>
+        <link href="https://erpsoftwareblog.com/2025/05/drag-and-drop-production-scheduling-comes-to-business-central-for-free/"/>
+        <updated>2025-05-19T11:44:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Graphical Scheduler seamlessly integrates with Microsoft Dynamics 365 Business Central, giving users a drag-and-drop visual interface for managing production—without added complexity or licensing costs.
+The post Drag-and-Drop Production Scheduling Comes to Business Central—For Free appeared first on ERP Software Blog.
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Shop Floor Insight: An Effective MES (Manufacturing Execution System) Choice]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Fast Finance Wins You Can Unlock with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=128028</id>
+        <link href="https://erpsoftwareblog.com/2025/05/3-fast-finance-wins-you-can-unlock-with-business-central/"/>
+        <updated>2025-05-19T10:44:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’re already using Microsoft Dynamics 365 Business Central — or planning to — there are a few quick, high-impact improvements you can make in your finance processes. These aren’t […]
+The post 3 Fast Finance Wins You Can Unlock with Business Central appeared first on ERP Software Blog.
+Strategic Mindset for a Successful ERP implementation
+Parcel for Microsoft Dynamics 365 Finance and Operations
+Give Employees Work Flexibility with Dynamics 365]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💡 Healthcare Agent Service: IA generativa aplicada al sector salud]]></title>
+        <id>https://365community.online/%f0%9f%92%a1-healthcare-agent-service-ia-generativa-aplicada-al-sector-salud</id>
+        <link href="https://365community.online/%f0%9f%92%a1-healthcare-agent-service-ia-generativa-aplicada-al-sector-salud"/>
+        <updated>2025-05-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft sigue consolidando su apuesta por la inteligencia artificial aplicada a escenarios empresariales, y el sector salud no es una excepción. Con el lanzamiento del Healthcare Agent Service, entramos en una nueva etapa en la que los copilotos conversacionales pueden operar con garantías en uno de los entornos más regulados y sensibles: la atención sanitaria. […]
+The post 💡 Healthcare Agent Service: IA generativa aplicada al sector salud appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize Shipping with FedEx, UPS & DHL Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=128020</id>
+        <link href="https://erpsoftwareblog.com/2025/05/optimize-shipping-with-fedex-ups-dhl-integration/"/>
+        <updated>2025-05-19T10:08:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Your Logistics Deserve Better Than Just Guesswork. Picture this: A customer places an order. Your warehouse team packs it with precision. But when it comes to shipping? That’s where the […]
+The post Optimize Shipping with FedEx, UPS & DHL Integration appeared first on ERP Software Blog.
+Dynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System
+3 Ways To Smoothly Onboard Vendors
+5 Reasons To Start Using A Payment Processing System]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central: Understanding Capacity Planning]]></title>
+        <id>https://erpsoftwareblog.com/?p=127869</id>
+        <link href="https://erpsoftwareblog.com/2025/05/mastering-manufacturing-with-business-central-understanding-capacity-planning/"/>
+        <updated>2025-05-19T09:58:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction Capacity planning is a critical component for manufacturers looking to optimize production efficiency and resource utilization. In Microsoft Dynamics 365 Business Central, capacity planning enables manufacturers to manage the […]
+The post Mastering Manufacturing with Business Central: Understanding Capacity Planning appeared first on ERP Software Blog.
+The Must-have App for Manufacturers Using Business Central
+Microsoft Dynamics 365 Business Central: The Best Choice for Manufacturers
+MetaADCS – Advanced Warehouse Solution for Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cloud Based ERP Benefits Sales & Marketing Operations?]]></title>
+        <id>https://erpsoftwareblog.com/?p=128015</id>
+        <link href="https://erpsoftwareblog.com/2025/05/how-cloud-based-erp-benefits-sales-marketing-operations/"/>
+        <updated>2025-05-19T09:49:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Cloud ERP systems support marketing and sales teams by generating new leads and extending offers to existing customers. Most cloud-based enterprise resource planning (ERP) solutions include features designed to effectively […]
+The post How Cloud Based ERP Benefits Sales & Marketing Operations? appeared first on ERP Software Blog.
+Tech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Modify a Segment in Customer Insights – Journeys Using the Web API]]></title>
+        <id>https://365community.online/how-to-create-and-modify-a-segment-in-customer-insights-journeys-using-the-web-api</id>
+        <link href="https://365community.online/how-to-create-and-modify-a-segment-in-customer-insights-journeys-using-the-web-api"/>
+        <updated>2025-05-19T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we will walk through the process of creating a new segment in Real-Time Journeys and updating the segment by adding members using the Microsoft Dynamics 365 Web API. (Create a segment-based journey) A segment is a group of contacts or leads, either dynamically updated or statically defined, that you target in your […]
+The post How to Create and Modify a Segment in Customer Insights – Journeys Using the Web API appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotic Process Automation in Manufacturing Industry]]></title>
+        <id>https://erpsoftwareblog.com/?p=128012</id>
+        <link href="https://erpsoftwareblog.com/2025/05/robotic-process-automation-in-manufacturing-industry/"/>
+        <updated>2025-05-19T09:00:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Robotic Process Automation in manufacturing is revolutionizing the way industrial operations are managed, optimized, and scaled. As manufacturers face growing challenges like labor shortages, rising operational costs, and the need […]
+The post Robotic Process Automation in Manufacturing Industry appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVD Identity Secrets You Must Know! – YouTube]]></title>
+        <id>https://365community.online/avd-identity-secrets-you-must-know-youtube</id>
+        <link href="https://365community.online/avd-identity-secrets-you-must-know-youtube"/>
+        <updated>2025-05-19T03:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Learn about AVD supported identity in this video, covering Remote Session Authentication and In-Session Authentication. Perfect for those looking to optimize their AVD setup! Not to forget a cool demo to finish! Episode Breakdown – 00:00 – Episode Introduction 01:32 – Episode Breakdown 02:05 – Remote Session Authentication: SSO 04:14 – Remote session Authentication: Smart […]
+The post AVD Identity Secrets You Must Know! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to configure donotreply email using Shared mailboxes in Dynamics 365 CE?]]></title>
         <id>https://365community.online/how-to-configure-donotreply-email-using-shared-mailboxes-in-dynamics-365-ce</id>
@@ -102,6 +329,17 @@ How to Migrate with Confidence from GP to Dynamics 365 BC
 Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
         <author>
             <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use presence-based assignment to reduce customer wait time]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/16/use-presence-based-assignment-to-reduce-customer-wait-time/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/16/use-presence-based-assignment-to-reduce-customer-wait-time/"/>
+        <updated>2025-05-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Automated assignment in unified routing enables organizations to efficiently direct customer queries to the most suitable service representatives. To ensure swift response to customers, organizations can use the presence-based assignment functionality to select and deploy the best available service representative for the work. This blog talks about a few scenarios wherein we can make use
+The post Use presence-based assignment to reduce customer wait time appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sai Sandeep Yelchuri</name>
         </author>
     </entry>
     <entry>
@@ -291,6 +529,17 @@ Will Your Accounting Team Pass the Test for Modern Accounts Payable?]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Boost your team’s performance with the Adherence Tracker]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/15/boost-your-teams-performance-with-the-adherence-tracker/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/15/boost-your-teams-performance-with-the-adherence-tracker/"/>
+        <updated>2025-05-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maintaining adherence to schedules and ensuring that service representatives are consistently available during their shifts is crucial for delivering exceptional customer service. The Adherence Tracker in Dynamics 365 Contact Center helps organizations monitor and manage service rep activities effectively, leading to improved performance and customer satisfaction.  This powerful Contact Center feature allows supervisors to track
+The post Boost your team’s performance with the Adherence Tracker appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Gopal Yuvaraj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Default Pipeline Rules – Easier administration across an Organisation]]></title>
         <id>https://365community.online/default-pipeline-rules-easier-administration-across-an-organisation</id>
         <link href="https://365community.online/default-pipeline-rules-easier-administration-across-an-organisation"/>
@@ -414,6 +663,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
 The post AI ERP Immersive home appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empower your Contact Center workforce with shift bidding and swapping]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/14/empower-your-contact-center-workforce-with-shift-bidding-and-swapping/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/14/empower-your-contact-center-workforce-with-shift-bidding-and-swapping/"/>
+        <updated>2025-05-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Efficient workforce management involves flexibility in shift assignments, enabling service representatives to maintain work-life balance and ensuring consistent operational coverage. Dynamics 365 Contact Center provides robust solution for shift swapping and shift bidding, empowering service representatives with greater control over their schedules while helping managers easily manage staffing.  Shift swapping  Shift swapping enables service representatives
+The post Empower your Contact Center workforce with shift bidding and swapping appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Gopal Yuvaraj</name>
         </author>
     </entry>
     <entry>
