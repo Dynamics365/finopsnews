@@ -645,16 +645,6 @@
           "wordCount": 921,
           "title": "Step-by-Step Guide: Creating D365FO Build and Deploy Pipelines",
           "imageUrl": "https://denistrunin.com/static/26b330b19634713b17db08c20bb0154b/39351/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performance-d365batch/",
-          "author": null,
-          "description": "The blog post describes how D365FO batch framework handle errors and what kind of problems it may cause",
-          "link": "https://denistrunin.com/performance-d365batch/",
-          "publishedOn": "2023-05-25T22:12:03.000Z",
-          "wordCount": 1186,
-          "title": "Batch Job errors in D365FO: How they can ruin the performance and how to fix them",
-          "imageUrl": "https://denistrunin.com/static/3660de68a1c93370618a6689966f0672/0a613/logo.png"
         }
       ]
     },
@@ -23709,6 +23699,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=68601",
+          "author": "Jess Mooney",
+          "description": "CRM vs ERP: Understand the Differences and Choose the Right System for Your Business\nDifferences Between CRM and ERP An ERP (Enterprise Resource Planning) system is primarily a platform for managing financials and resources, while a CRM (Customer Relationship Management) system helps businesses track, manage, and support interactions with customers, members, donors, and other people related to your organization. Often, the goal of a CRM deployment revolves around driving...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/crm-vs-erp/",
+          "publishedOn": "2025-05-24T15:30:12.000Z",
+          "wordCount": 2354,
+          "title": "CRM vs ERP: Understand the Differences and Choose the Right System for Your Business",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/05/D365-Img-1.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=68632",
           "author": "Ricky Ariston",
           "description": "Automate Your Customer Service with Case Management in Dynamics 365 CRM\nCase Management in Dynamics 365 CRM Customer Service enables your customer service, marketing, and sales teams to efficiently manage and track inquiries from start to finish, ensuring a standardized process and seamless coordination among teams. In this recorded webinar, we walk through a typical Case Management life cycle, showcasing how to scale its functionality for...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -25085,6 +25085,56 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/claude-usando-mis-herramientas-via-mcp-fastmcp-python-%f0%9f%8f%84%f0%9f%8c%8aesto-no-te-lo-esperabas-yo-tampoco-%f0%9f%a4%af%f0%9f%98%82-youtube",
+          "author": "jarmesto",
+          "description": "Claude usando mis herramientas vía MCP (FastMCP + Python) 🏄🌊Esto NO te lo esperabas …YO tampoco 🤯😂\nThe post Claude usando mis herramientas vía MCP (FastMCP + Python) 🏄🌊Esto NO te lo esperabas …YO tampoco 🤯😂 – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/claude-usando-mis-herramientas-via-mcp-fastmcp-python-%f0%9f%8f%84%f0%9f%8c%8aesto-no-te-lo-esperabas-yo-tampoco-%f0%9f%a4%af%f0%9f%98%82-youtube",
+          "publishedOn": "2025-05-24T12:16:55.000Z",
+          "wordCount": 2332,
+          "title": "Claude usando mis herramientas vía MCP (FastMCP + Python) 🏄🌊Esto NO te lo esperabas …YO tampoco 🤯😂 – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/mcp-vs-api-la-integracion-en-la-era-de-los-agentes-inteligentes",
+          "author": "jarmesto",
+          "description": "Introducción En la historia de las aplicaciones empresariales, la palabra integración ha sido sinónimo de “conexión”: mapeo de datos, endpoints REST u OData, controladores personalizados y flujos de trabajo estáticos. Pero con la llegada de la IA generativa y los agentes inteligentes, ese paradigma se está quedando obsoleto. Hoy nace una nueva manera de entender […]\nThe post MCP vs API: La integración en la era de los agentes inteligentes appeared first on 365 Community Online.",
+          "link": "https://365community.online/mcp-vs-api-la-integracion-en-la-era-de-los-agentes-inteligentes",
+          "publishedOn": "2025-05-24T08:35:00.000Z",
+          "wordCount": 3123,
+          "title": "MCP vs API: La integración en la era de los agentes inteligentes",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/MCP-vs-API-La-integracion-en-la-era-de-los.png"
+        },
+        {
+          "id": "https://365community.online/why-sales-territories-matter-for-evolving-telecom-landscape-of-2025-complete-guide",
+          "author": "Inogic",
+          "description": "As telecom providers navigate a landscape defined by rapid technological change and shifting customer demands, the need for smart, scalable operations has never been greater. From rural tower maintenance to urban 5G deployment to complex B2B account management, effective territory management is the key to staying ahead — and staying organized. But let’s be honest […]\nThe post Why Sales Territories Matter for evolving Telecom Landscape of 2025: Complete Guide! appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-sales-territories-matter-for-evolving-telecom-landscape-of-2025-complete-guide",
+          "publishedOn": "2025-05-24T07:19:00.000Z",
+          "wordCount": 3291,
+          "title": "Why Sales Territories Matter for evolving Telecom Landscape of 2025: Complete Guide!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/Sales-Territory-Managment.png"
+        },
+        {
+          "id": "https://365community.online/full-stack-azure-ai-engineer-youtube",
+          "author": "Sourav Raj",
+          "description": "Full-Stack Azure AI Engineer source\nThe post Full-Stack Azure AI Engineer – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/full-stack-azure-ai-engineer-youtube",
+          "publishedOn": "2025-05-23T18:08:07.000Z",
+          "wordCount": 2231,
+          "title": "Full-Stack Azure AI Engineer – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/writing-dynamic-content-to-excel-using-power-automate-youtube",
+          "author": "Manish chauhan",
+          "description": "🎥Learn how to write dynamic data to an Excel file using Power Automate in a few simple steps. ⏱️ This video consists of: • 0:00 – 0:08 → Introduction • 0:09 – 0:20 → In this Video • 0:21 – 1:04 → Creating the Flow • 1:05 – 1:36 → Saving and Testing the Flow […]\nThe post Writing Dynamic Content to Excel Using Power Automate – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/writing-dynamic-content-to-excel-using-power-automate-youtube",
+          "publishedOn": "2025-05-23T13:13:12.000Z",
+          "wordCount": 2342,
+          "title": "Writing Dynamic Content to Excel Using Power Automate – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/easy-ways-to-boost-your-avd-security-in-2025-youtube",
           "author": "shabaz darr",
