@@ -1138,6 +1138,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10575",
+          "author": "tomaztsql",
+          "description": "Exploring graphs is always a fun. Attaching the edges and nodes with real examples of psychological effects and accompany them with useless mental shortcuts is beyond fun. This is why we will call it a “cognitive bias” explorer using DAG.…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/05/25/little-useless-useful-r-functions-absurd-bias-dag-with-useless-mental-shortcuts/",
+          "publishedOn": "2025-05-25T18:29:27.000Z",
+          "wordCount": 4430,
+          "title": "Little useless-useful R functions – Absurd bias DAG  with useless mental shortcuts",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/05/image.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10562",
           "author": "tomaztsql",
           "description": "Starting with the end of January 2025, DeepSeek R1 model has had a huge impact on how the AI community, developers and general public see Generative Models. Not only that is free (as of writing this blog post), but the…\nRead more ›",
@@ -1686,6 +1696,16 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=128366",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nSelling online has never been more important—or more complex. From real-time ERP integration to managing B2B customer-specific pricing, the tools you choose can make or break your digital strategy. That’s […]\nThe post Compare 5 Top eCommerce Solutions for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nTop 5 Dynamics 365 Business Central and NAV Add-Ons that will Transform your Business Process\nGrowing crops, plants and profits: how Agriculture and Horticulture are leveraging eCommerce\nWhy this is the right time to upgrade to Magento 2.4.2?",
+          "link": "https://erpsoftwareblog.com/2025/05/compare-5-top-ecommerce-solutions-for-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-05-25T18:18:33.000Z",
+          "wordCount": 7998,
+          "title": "Compare 5 Top eCommerce Solutions for Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-05-09-MSDW-eCommerce-Showcase-Banners_1600-x-900-BC.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=128332",
           "author": "Anya Ciecierski",
@@ -25085,6 +25105,26 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/understanding-activity-party-types-in-dynamics-365-ce",
+          "author": "Arun Potti",
+          "description": "Dynamics 365 Customer Engagement includes 11 distinct activity party types. These types are represented as integer values within the ActivityParty.ParticipationTypeMask attribute. Below is a table detailing each activity party type, its corresponding integer value, and a brief description. Activity party type Value Description Sender 1 Specifies the sender. ToRecipient (To) 2 Specifies the recipient in […]\nThe post Understanding Activity Party Types in Dynamics 365 CE appeared first on 365 Community Online.",
+          "link": "https://365community.online/understanding-activity-party-types-in-dynamics-365-ce",
+          "publishedOn": "2025-05-25T06:08:00.000Z",
+          "wordCount": 3829,
+          "title": "Understanding Activity Party Types in Dynamics 365 CE",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/02/power-apps-logo.jpg"
+        },
+        {
+          "id": "https://365community.online/machine-learning-project-to-predict-data-scientist-job-ml-project-for-beginners-mindmajix-youtube",
+          "author": null,
+          "description": "🔥 Join hands-on Machine Learning with Python Certiifcation Course: https://mindmajix.com/machine-learning-with-python-training?utm_source=Lives&utm_medium=bIyNPv4hoyQ&utm_campaign=YouTube Welcome to this real-world Machine Learning project in Python, where we solve a practical HR analytics problem predicting whether an employee will move to a new Data Scientist job. This end-to-end ML project is for beginners and intermediate learners who want to gain hands-on experience […]\nThe post Machine Learning Project to Predict Data Scientist Job | ML Project For Beginners | MindMajix – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/machine-learning-project-to-predict-data-scientist-job-ml-project-for-beginners-mindmajix-youtube",
+          "publishedOn": "2025-05-25T05:15:24.000Z",
+          "wordCount": 2745,
+          "title": "Machine Learning Project to Predict Data Scientist Job | ML Project For Beginners | MindMajix – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/claude-usando-mis-herramientas-via-mcp-fastmcp-python-%f0%9f%8f%84%f0%9f%8c%8aesto-no-te-lo-esperabas-yo-tampoco-%f0%9f%a4%af%f0%9f%98%82-youtube",
           "author": "jarmesto",

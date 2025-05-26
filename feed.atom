@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-25T01:56:52.324Z</updated>
+    <updated>2025-05-26T01:52:01.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Absurd bias DAG  with useless mental shortcuts]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10575</id>
+        <link href="https://tomaztsql.wordpress.com/2025/05/25/little-useless-useful-r-functions-absurd-bias-dag-with-useless-mental-shortcuts/"/>
+        <updated>2025-05-25T18:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Exploring graphs is always a fun. Attaching the edges and nodes with real examples of psychological effects and accompany them with useless mental shortcuts is beyond fun. This is why we will call it a “cognitive bias” explorer using DAG.…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compare 5 Top eCommerce Solutions for Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=128366</id>
+        <link href="https://erpsoftwareblog.com/2025/05/compare-5-top-ecommerce-solutions-for-microsoft-dynamics-365-business-central/"/>
+        <updated>2025-05-25T18:18:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Selling online has never been more important—or more complex. From real-time ERP integration to managing B2B customer-specific pricing, the tools you choose can make or break your digital strategy. That’s […]
+The post Compare 5 Top eCommerce Solutions for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+Top 5 Dynamics 365 Business Central and NAV Add-Ons that will Transform your Business Process
+Growing crops, plants and profits: how Agriculture and Horticulture are leveraging eCommerce
+Why this is the right time to upgrade to Magento 2.4.2?]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Activity Party Types in Dynamics 365 CE]]></title>
+        <id>https://365community.online/understanding-activity-party-types-in-dynamics-365-ce</id>
+        <link href="https://365community.online/understanding-activity-party-types-in-dynamics-365-ce"/>
+        <updated>2025-05-25T06:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Customer Engagement includes 11 distinct activity party types. These types are represented as integer values within the ActivityParty.ParticipationTypeMask attribute. Below is a table detailing each activity party type, its corresponding integer value, and a brief description. Activity party type Value Description Sender 1 Specifies the sender. ToRecipient (To) 2 Specifies the recipient in […]
+The post Understanding Activity Party Types in Dynamics 365 CE appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Project to Predict Data Scientist Job | ML Project For Beginners | MindMajix – YouTube]]></title>
+        <id>https://365community.online/machine-learning-project-to-predict-data-scientist-job-ml-project-for-beginners-mindmajix-youtube</id>
+        <link href="https://365community.online/machine-learning-project-to-predict-data-scientist-job-ml-project-for-beginners-mindmajix-youtube"/>
+        <updated>2025-05-25T05:15:24.000Z</updated>
+        <summary type="html"><![CDATA[🔥 Join hands-on Machine Learning with Python Certiifcation Course: https://mindmajix.com/machine-learning-with-python-training?utm_source=Lives&utm_medium=bIyNPv4hoyQ&utm_campaign=YouTube Welcome to this real-world Machine Learning project in Python, where we solve a practical HR analytics problem predicting whether an employee will move to a new Data Scientist job. This end-to-end ML project is for beginners and intermediate learners who want to gain hands-on experience […]
+The post Machine Learning Project to Predict Data Scientist Job | ML Project For Beginners | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRM vs ERP: Understand the Differences and Choose the Right System for Your Business]]></title>
         <id>https://www.encorebusiness.com/?p=68601</id>
