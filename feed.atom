@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-26T01:52:01.096Z</updated>
+    <updated>2025-05-27T01:48:06.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #55]]></title>
+        <id>http://dynamicsax-fico.com/?p=7345</id>
+        <link href="https://dynamicsax-fico.com/2025/05/26/microsoft-bizapps-deutschland-podcast-55/"/>
+        <updated>2025-05-26T18:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 – Play with Headless Commerce]]></title>
+        <id>http://kurthatlevik.com/?p=4772</id>
+        <link href="https://kurthatlevik.com/2025/05/26/d365-play-with-headless-commerce/"/>
+        <updated>2025-05-26T14:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Headless Commerce is a set of API’s, that allows you to interact with the Commerce Scale Unit, that is the main component when working with POS and eCommerce.  But as shown by Patrick Mouwen’s blog, it can be used for so much more. But the purpose of this blogpost, is to give you a low-entry … Continue reading D365 – Play with Headless Commerce]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central App Upgrade: New Features in Graphical Scheduler v2.0]]></title>
+        <id>https://erpsoftwareblog.com/?p=128351</id>
+        <link href="https://erpsoftwareblog.com/2025/05/business-central-app-upgrade-new-features-in-graphical-scheduler-v2-0/"/>
+        <updated>2025-05-26T12:21:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works announces Graphical Scheduler v2.0 for Business Central, delivering new features to enhance production scheduling, clarity, and efficiency.
+The post Business Central App Upgrade: New Features in Graphical Scheduler v2.0 appeared first on ERP Software Blog.
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Benefits of Automatic Collection Efforts in Business Central
+Key Trends for Accounts Payable in 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central: Scheduling and Managing Production Loads]]></title>
+        <id>https://erpsoftwareblog.com/?p=127873</id>
+        <link href="https://erpsoftwareblog.com/2025/05/mastering-manufacturing-with-business-central-scheduling-and-managing-production-loads/"/>
+        <updated>2025-05-26T09:05:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction Efficient production scheduling is essential for manufacturers aiming to meet demand without overburdening their resources. In Microsoft Dynamics 365 Business Central, scheduling is tightly integrated with capacity planning to […]
+The post Mastering Manufacturing with Business Central: Scheduling and Managing Production Loads appeared first on ERP Software Blog.
+Importance of ERP Software in Manufacturing Industries
+How Microsoft Dynamics 365 Can Transform Your Manufacturing Business
+6 Ways Dynamics 365 Business Central Helps Manufacturers]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easily Setup Field Security in Dynamics 365 Business Central. Meet Our Copilot Field Level Security Generator!]]></title>
+        <id>https://erpsoftwareblog.com/?p=128381</id>
+        <link href="https://erpsoftwareblog.com/2025/05/easily-setup-field-security-in-dynamics-365-business-central-meet-our-copilot-field-level-security-generator/"/>
+        <updated>2025-05-26T07:38:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Securing data effectively within Dynamics 365 Business Central is paramount for any organization. However, the task of configuring detailed, field-specific permissions often becomes a complex endeavor. Administrators frequently find themselves […]
+The post Easily Setup Field Security in Dynamics 365 Business Central. Meet Our Copilot Field Level Security Generator! appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>2-Controlware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRM vs ERP: Key Differences and How They Work Together]]></title>
+        <id>https://erpsoftwareblog.com/?p=128378</id>
+        <link href="https://erpsoftwareblog.com/2025/05/crm-vs-erp-key-differences-and-how-they-work-together/"/>
+        <updated>2025-05-26T07:18:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If your business is experiencing a drop in leads, problems with stock, or an overloaded customer service department, you should look at upgrading your operational tools. Having the ideal software […]
+The post CRM vs ERP: Key Differences and How They Work Together appeared first on ERP Software Blog.
+The Basics of Globalization Studio in Microsoft Dynamics 365 Finance
+Elevate Your Business KPIs with Dynamics 365 Field Service: Proven Strategies for Success
+You need to know about the emerging trend: Transportation as a Service]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Little useless-useful R functions – Absurd bias DAG  with useless mental shortcuts]]></title>
         <id>http://tomaztsql.wordpress.com/?p=10575</id>
@@ -150,6 +230,21 @@ Import Data into Business Central with Free Import Export PowerTool
 The Secret to Effortless Data Migration in Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Pharmaceutical Production and Compliance with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=128384</id>
+        <link href="https://erpsoftwareblog.com/2025/05/pharma-compliance-erp-business-central/"/>
+        <updated>2025-05-23T09:14:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Navigating complex regulations & ensuring compliance & smooth production is a big menace in pharma sector  as it is connected to people’s well-being and hence has numerous stringent regulations to […]
+The post Streamlining Pharmaceutical Production and Compliance with Business Central appeared first on ERP Software Blog.
+Business Central to Dataverse Integration: How it Benefits Business Teams
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Create A New Item In Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
         </author>
     </entry>
     <entry>
