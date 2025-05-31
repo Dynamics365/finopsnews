@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-30T01:47:23.661Z</updated>
+    <updated>2025-05-31T01:47:02.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Graphical Scheduler v2.0 for Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=128623</id>
+        <link href="https://erpsoftwareblog.com/2025/05/whats-new-in-graphical-scheduler-v2-0-for-business-central/"/>
+        <updated>2025-05-30T20:22:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Discover what's new in Graphical Scheduler v2.0 for Business Central—enhanced features for faster, more innovative production scheduling.
+The post What’s New in Graphical Scheduler v2.0 for Business Central? appeared first on ERP Software Blog.
+Optimize Order Fulfillment in Business Central
+Import Data into Business Central with Free Import Export PowerTool
+The Secret to Effortless Data Migration in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report Sheds Light on Microsoft Partner Strategy]]></title>
+        <id>https://erpsoftwareblog.com/?p=128613</id>
+        <link href="https://erpsoftwareblog.com/2025/05/report-sheds-light-on-microsoft-partner-strategy/"/>
+        <updated>2025-05-30T18:03:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A data-driven Partner strategy roadmap for ISVs, SIs and VARs As the Microsoft business applications ecosystem expands, a persistent question picks at Partners: What programs and investments actually deliver results? […]
+The post Report Sheds Light on Microsoft Partner Strategy appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AP Automation for Dynamics 365 Finance - compare your options!]]></title>
+        <id>https://erpsoftwareblog.com/?p=128581</id>
+        <link href="https://erpsoftwareblog.com/2025/05/ap-automation-for-dynamics-365-finance-compare-your-options/"/>
+        <updated>2025-05-30T10:33:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In a recent blog post originally published on the Microsoft AI Cloud Marketplace, Antti Kosunen—Co-Founder and Chief Business Development Officer at Dooap—dives into the evolving landscape of accounts payable (AP) […]
+The post AP Automation for Dynamics 365 Finance - compare your options! appeared first on ERP Software Blog.
+Overcome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automation
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+How construction equipment rental businesses can add dealership to their portfolio]]></summary>
+        <author>
+            <name>Dooap</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create purchase order using x++]]></title>
         <id>https://paragchapre.com/?p=16481</id>
@@ -44,6 +89,17 @@ Responsible AP Automation: Empowering Teams, Not Replacing Them
 Mekorma Payment Hub v1.0 for Business Central is here!]]></summary>
         <author>
             <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent-based routing transforms customer support with AI]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/29/intent-based-routing-transforms-customer-support-with-ai/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/29/intent-based-routing-transforms-customer-support-with-ai/"/>
+        <updated>2025-05-29T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced digital world, providing exceptional customer service is more important than ever. One of the latest innovations in this field is intent-based routing, a capability that leverages generative AI to enhance customer interactions and streamline contact center operations.  What is intent-based routing?  Intent-based routing (IBR) is a generative AI-powered capability that routes customer
+The post Intent-based routing transforms customer support with AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Payas Agrawal</name>
         </author>
     </entry>
     <entry>
@@ -118,6 +174,17 @@ Comparing AP Solutions: Mekorma vs. BILL]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Email editor template changes in Dynamics 365 Customer Service]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/28/email-editor-template-changes-in-dynamics-365-customer-service/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/05/28/email-editor-template-changes-in-dynamics-365-customer-service/"/>
+        <updated>2025-05-28T17:04:51.000Z</updated>
+        <summary type="html"><![CDATA[We are introducing an important update to streamline and modernize how email templates are created and edited. As of May 23, 2025, we are deprecating the legacy email template rich text editor and enhanced email template editor and moving to a single, modern email template editor for all users. Change management can be challenging—especially when
+The post Email editor template changes in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Megha Gupta</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Boost Reusability and Performance in Power Apps Controls Framework with Dependent Libraries]]></title>
         <id>https://365community.online/boost-reusability-and-performance-in-power-apps-controls-framework-with-dependent-libraries</id>
         <link href="https://365community.online/boost-reusability-and-performance-in-power-apps-controls-framework-with-dependent-libraries"/>
@@ -126,6 +193,21 @@ Comparing AP Solutions: Mekorma vs. BILL]]></summary>
 The post Boost Reusability and Performance in Power Apps Controls Framework with Dependent Libraries appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need to Know About Microsoft Dynamics 365 Selection]]></title>
+        <id>https://erpsoftwareblog.com/?p=128495</id>
+        <link href="https://erpsoftwareblog.com/2025/05/microsoft-dynamics-365-selection-all-you-need-to-know/"/>
+        <updated>2025-05-28T09:36:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Are you looking for Dynamics 365 field security? Do you get confused while choosing the best among several options? No worries! You are at the right place. Here, you will […]
+The post Everything You Need to Know About Microsoft Dynamics 365 Selection appeared first on ERP Software Blog.
+JourneyTEAM's Tech Insider Update Webinar May 17th, 2022
+Optimize Your Field Service Scheduling with Universal Resource Scheduling in Dynamics 365
+Maximizing Customer Satisfaction with Microsoft Dynamics 365 Field Service Homepages]]></summary>
+        <author>
+            <name>2-Controlware</name>
         </author>
     </entry>
     <entry>
