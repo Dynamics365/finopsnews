@@ -25376,6 +25376,106 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/use-case-for-getting-data-from-excel-youtube",
+          "author": "Manish chauhan",
+          "description": "Explore a practical use case for retrieving data from Excel using Power Automate. This video walks through setting up a real-world automation scenario, from flow creation to testing. This video consists of: • 0:00–0:08 – Introduction • 0:09–0:21 – What this video will cover • 0:22–1:36 – Creating the flow for the use case • […]\nThe post Use Case for Getting Data from Excel – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/use-case-for-getting-data-from-excel-youtube",
+          "publishedOn": "2025-05-31T15:26:54.000Z",
+          "wordCount": 2243,
+          "title": "Use Case for Getting Data from Excel – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-to-integrate-whatsapp-with-dynamics-365-crm-using-meta-or-twilio-apis",
+          "author": "Inogic",
+          "description": "In a world where customers expect instant, personalized service, integrating WhatsApp with your CRM isn’t optional—it’s a strategic necessity. If you’re using Microsoft Dynamics 365 CRM, you’re likely managing sales, service, and marketing in one platform. But what about WhatsApp—the world’s most-used messaging app? Without direct integration, your teams are switching tools, losing context, and […]\nThe post How to Integrate WhatsApp with Dynamics 365 CRM Using Meta or Twilio APIs appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-integrate-whatsapp-with-dynamics-365-crm-using-meta-or-twilio-apis",
+          "publishedOn": "2025-05-31T09:14:00.000Z",
+          "wordCount": 3036,
+          "title": "How to Integrate WhatsApp with Dynamics 365 CRM Using Meta or Twilio APIs",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/WhatsApp-Integration-Dynamics-365-CRM.png"
+        },
+        {
+          "id": "https://365community.online/handling-business-central-telemetry-like-a-boss-ifacto-telemetry-pt-3",
+          "author": "Waldo",
+          "description": "Part 3 indeed.  That means, there are two other parts in this series, and if you haven’t read about it, and if you’re interested in learning more about how to handle Telemetry for your Business Central business – I can suggest to read my previous posts about it Handling Business Central Telemetry like a boss: […]\nThe post Handling Business Central Telemetry like a boss: iFacto Telemetry – Pt. 3 appeared first on 365 Community Online.",
+          "link": "https://365community.online/handling-business-central-telemetry-like-a-boss-ifacto-telemetry-pt-3",
+          "publishedOn": "2025-05-31T07:34:00.000Z",
+          "wordCount": 3112,
+          "title": "Handling Business Central Telemetry like a boss: iFacto Telemetry – Pt. 3",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/Handling-Business-Central-Telemetry-like-a-boss-iFacto-Telemetry-–.png"
+        },
+        {
+          "id": "https://365community.online/powerfx-to-add-row-numbers-to-data-tables-directly",
+          "author": "Linn Zaw Win",
+          "description": "The Problem I recently hit a common but annoying issue while building a canvas app for Dynamics 365 Project Operations. The requirement was straightforward: display project tasks in the same order they appear in the D365 Project Tasks grid. When I connected the Project Task table directly to a data table control, the rows showed […]\nThe post PowerFx to Add Row Numbers to Data Tables Directly appeared first on 365 Community Online.",
+          "link": "https://365community.online/powerfx-to-add-row-numbers-to-data-tables-directly",
+          "publishedOn": "2025-05-31T03:16:00.000Z",
+          "wordCount": 2835,
+          "title": "PowerFx to Add Row Numbers to Data Tables Directly",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/PowerFx-to-Add-Row-Numbers-to-Data-Tables-Directly.png"
+        },
+        {
+          "id": "https://365community.online/how-to-send-an-automated-email-in-dataverse-using-power-automate",
+          "author": "Arun Potti",
+          "description": "This is a quite common requirement from the business to send automated emails on some Dataverse record create/ update / delete using Microsoft No Code/ Low Code platform. In this article, will explain about the below requirement step by step using Power Automate. Requirement: Send an Email to Customer (Contact) when the contact record is […]\nThe post How to send an automated email in Dataverse using Power Automate? appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-send-an-automated-email-in-dataverse-using-power-automate",
+          "publishedOn": "2025-05-31T01:41:00.000Z",
+          "wordCount": 4266,
+          "title": "How to send an automated email in Dataverse using Power Automate?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/image-68.png"
+        },
+        {
+          "id": "https://365community.online/getting-data-from-excel-using-power-automate-youtube",
+          "author": "Manish chauhan",
+          "description": "Discover how to retrieve data from an Excel file using Power Automate. This video guides you through creating, saving, and testing a flow for seamless Excel data access. This video consists of: • 0:00–0:09 – Introduction • 0:10–0:22 – Overview of what’s covered in this video • 0:23–1:52 – Creating the flow in Power Automate […]\nThe post Getting Data from Excel using Power Automate – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/getting-data-from-excel-using-power-automate-youtube",
+          "publishedOn": "2025-05-30T15:43:48.000Z",
+          "wordCount": 2243,
+          "title": "Getting Data from Excel using Power Automate – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/automating-power-bi-report-export-and-import-using-powershell",
+          "author": "Inogic",
+          "description": "Power BI has become an essential tool for business intelligence and reporting. However, managing Power BI reports across different environments or workspaces can be time-consuming and error-prone. PowerShell offers an efficient and reliable method to automate the export and import of Power BI reports. In this blog post, we’ll walk through how to use PowerShell […]\nThe post Automating Power BI Report Export and Import Using PowerShell appeared first on 365 Community Online.",
+          "link": "https://365community.online/automating-power-bi-report-export-and-import-using-powershell",
+          "publishedOn": "2025-05-30T06:26:00.000Z",
+          "wordCount": 2842,
+          "title": "Automating Power BI Report Export and Import Using PowerShell",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/05/Technical-blog-30-05-25.png"
+        },
+        {
+          "id": "https://365community.online/top-avd-security-secrets-youtube",
+          "author": "shabaz darr",
+          "description": "Learn the top AVD security secrets in this video! From session host security to Microsoft Defender demo, this video covers Part 3 of AVD security best practices. Episode Breakdown: 00:00 – Episode Introduction 00:42 – Episode Breakdown 01:05 – Session Host Security Best Practice 06:33 – Demo: Microsoft Defender Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Microsoft Dev […]\nThe post Top AVD Security Secrets! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/top-avd-security-secrets-youtube",
+          "publishedOn": "2025-05-30T03:00:54.000Z",
+          "wordCount": 2211,
+          "title": "Top AVD Security Secrets! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%94%a5-probando-mi-mcp-de-business-central-en-claude-desktop-asi-se-conecta-un-agente-a-tu-erp-youtube",
+          "author": "jarmesto",
+          "description": "🔥 Probando mi MCP de Business Central en Claude Desktop: ¡Así se conecta un agente a tu ERP!\nThe post 🔥 Probando mi MCP de Business Central en Claude Desktop: ¡Así se conecta un agente a tu ERP! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/%f0%9f%94%a5-probando-mi-mcp-de-business-central-en-claude-desktop-asi-se-conecta-un-agente-a-tu-erp-youtube",
+          "publishedOn": "2025-05-29T20:44:49.000Z",
+          "wordCount": 2243,
+          "title": "🔥 Probando mi MCP de Business Central en Claude Desktop: ¡Así se conecta un agente a tu ERP! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-to-submit-and-approve-time-off-requests-in-microsoft-dynamics-365-field-service-youtube",
+          "author": "Manish chauhan",
+          "description": "You can learn how to easily submit and approve time-off requests in Microsoft Dynamics 365 Field Service. This step-by-step guide walks you through the entire process, making it easy for employees and managers to manage time off efficiently. Perfect for beginners or anyone new to Dynamics 365!   This video consist of: 00:00-00:20 Introduction 00:21-￼2:15 […]\nThe post How to Submit and Approve Time-Off Requests in Microsoft Dynamics 365 Field Service – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-submit-and-approve-time-off-requests-in-microsoft-dynamics-365-field-service-youtube",
+          "publishedOn": "2025-05-29T13:43:05.000Z",
+          "wordCount": 2287,
+          "title": "How to Submit and Approve Time-Off Requests in Microsoft Dynamics 365 Field Service – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/demonstrando-o-agente-de-ia-no-whatsapp-fazendo-o-agendamento-e-salvando-os-dados-no-sharepoint-youtube",
           "author": "Saulo Soares Oliveira",
           "description": "♐ Adquira meu curso PowerApps avançado na Hotmart. https://go.hotmart.com/U98457324E 🚀 Let’s connect: Linkedin: https://www.linkedin.com/in/saulosoaresoliveira Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCUuAtzt0pMmnC54UpEVls8g/join source\nThe post Demonstrando o agente de IA no whatsapp fazendo o agendamento e salvando os dados no SharePoint – YouTube appeared first on 365 Community Online.",

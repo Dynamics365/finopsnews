@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-05-31T01:47:02.398Z</updated>
+    <updated>2025-06-01T02:06:49.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Case for Getting Data from Excel – YouTube]]></title>
+        <id>https://365community.online/use-case-for-getting-data-from-excel-youtube</id>
+        <link href="https://365community.online/use-case-for-getting-data-from-excel-youtube"/>
+        <updated>2025-05-31T15:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Explore a practical use case for retrieving data from Excel using Power Automate. This video walks through setting up a real-world automation scenario, from flow creation to testing. This video consists of: • 0:00–0:08 – Introduction • 0:09–0:21 – What this video will cover • 0:22–1:36 – Creating the flow for the use case • […]
+The post Use Case for Getting Data from Excel – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate WhatsApp with Dynamics 365 CRM Using Meta or Twilio APIs]]></title>
+        <id>https://365community.online/how-to-integrate-whatsapp-with-dynamics-365-crm-using-meta-or-twilio-apis</id>
+        <link href="https://365community.online/how-to-integrate-whatsapp-with-dynamics-365-crm-using-meta-or-twilio-apis"/>
+        <updated>2025-05-31T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[In a world where customers expect instant, personalized service, integrating WhatsApp with your CRM isn’t optional—it’s a strategic necessity. If you’re using Microsoft Dynamics 365 CRM, you’re likely managing sales, service, and marketing in one platform. But what about WhatsApp—the world’s most-used messaging app? Without direct integration, your teams are switching tools, losing context, and […]
+The post How to Integrate WhatsApp with Dynamics 365 CRM Using Meta or Twilio APIs appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handling Business Central Telemetry like a boss: iFacto Telemetry – Pt. 3]]></title>
+        <id>https://365community.online/handling-business-central-telemetry-like-a-boss-ifacto-telemetry-pt-3</id>
+        <link href="https://365community.online/handling-business-central-telemetry-like-a-boss-ifacto-telemetry-pt-3"/>
+        <updated>2025-05-31T07:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 3 indeed.  That means, there are two other parts in this series, and if you haven’t read about it, and if you’re interested in learning more about how to handle Telemetry for your Business Central business – I can suggest to read my previous posts about it Handling Business Central Telemetry like a boss: […]
+The post Handling Business Central Telemetry like a boss: iFacto Telemetry – Pt. 3 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerFx to Add Row Numbers to Data Tables Directly]]></title>
+        <id>https://365community.online/powerfx-to-add-row-numbers-to-data-tables-directly</id>
+        <link href="https://365community.online/powerfx-to-add-row-numbers-to-data-tables-directly"/>
+        <updated>2025-05-31T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The Problem I recently hit a common but annoying issue while building a canvas app for Dynamics 365 Project Operations. The requirement was straightforward: display project tasks in the same order they appear in the D365 Project Tasks grid. When I connected the Project Task table directly to a data table control, the rows showed […]
+The post PowerFx to Add Row Numbers to Data Tables Directly appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to send an automated email in Dataverse using Power Automate?]]></title>
+        <id>https://365community.online/how-to-send-an-automated-email-in-dataverse-using-power-automate</id>
+        <link href="https://365community.online/how-to-send-an-automated-email-in-dataverse-using-power-automate"/>
+        <updated>2025-05-31T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a quite common requirement from the business to send automated emails on some Dataverse record create/ update / delete using Microsoft No Code/ Low Code platform. In this article, will explain about the below requirement step by step using Power Automate. Requirement: Send an Email to Customer (Contact) when the contact record is […]
+The post How to send an automated email in Dataverse using Power Automate? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s New in Graphical Scheduler v2.0 for Business Central?]]></title>
         <id>https://erpsoftwareblog.com/?p=128623</id>
@@ -37,6 +92,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Getting Data from Excel using Power Automate – YouTube]]></title>
+        <id>https://365community.online/getting-data-from-excel-using-power-automate-youtube</id>
+        <link href="https://365community.online/getting-data-from-excel-using-power-automate-youtube"/>
+        <updated>2025-05-30T15:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to retrieve data from an Excel file using Power Automate. This video guides you through creating, saving, and testing a flow for seamless Excel data access. This video consists of: • 0:00–0:09 – Introduction • 0:10–0:22 – Overview of what’s covered in this video • 0:23–1:52 – Creating the flow in Power Automate […]
+The post Getting Data from Excel using Power Automate – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AP Automation for Dynamics 365 Finance - compare your options!]]></title>
         <id>https://erpsoftwareblog.com/?p=128581</id>
         <link href="https://erpsoftwareblog.com/2025/05/ap-automation-for-dynamics-365-finance-compare-your-options/"/>
@@ -49,6 +115,28 @@ The Product-as-a-Service advantage — a potential game-changer for equipment ma
 How construction equipment rental businesses can add dealership to their portfolio]]></summary>
         <author>
             <name>Dooap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Power BI Report Export and Import Using PowerShell]]></title>
+        <id>https://365community.online/automating-power-bi-report-export-and-import-using-powershell</id>
+        <link href="https://365community.online/automating-power-bi-report-export-and-import-using-powershell"/>
+        <updated>2025-05-30T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Power BI has become an essential tool for business intelligence and reporting. However, managing Power BI reports across different environments or workspaces can be time-consuming and error-prone. PowerShell offers an efficient and reliable method to automate the export and import of Power BI reports. In this blog post, we’ll walk through how to use PowerShell […]
+The post Automating Power BI Report Export and Import Using PowerShell appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top AVD Security Secrets! – YouTube]]></title>
+        <id>https://365community.online/top-avd-security-secrets-youtube</id>
+        <link href="https://365community.online/top-avd-security-secrets-youtube"/>
+        <updated>2025-05-30T03:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn the top AVD security secrets in this video! From session host security to Microsoft Defender demo, this video covers Part 3 of AVD security best practices. Episode Breakdown: 00:00 – Episode Introduction 00:42 – Episode Breakdown 01:05 – Session Host Security Best Practice 06:33 – Demo: Microsoft Defender Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Microsoft Dev […]
+The post Top AVD Security Secrets! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -74,6 +162,17 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 Strategic Mindset for a Successful ERP implementation]]></summary>
         <author>
             <name>Stephanie E . Clark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Probando mi MCP de Business Central en Claude Desktop: ¡Así se conecta un agente a tu ERP! – YouTube]]></title>
+        <id>https://365community.online/%f0%9f%94%a5-probando-mi-mcp-de-business-central-en-claude-desktop-asi-se-conecta-un-agente-a-tu-erp-youtube</id>
+        <link href="https://365community.online/%f0%9f%94%a5-probando-mi-mcp-de-business-central-en-claude-desktop-asi-se-conecta-un-agente-a-tu-erp-youtube"/>
+        <updated>2025-05-29T20:44:49.000Z</updated>
+        <summary type="html"><![CDATA[🔥 Probando mi MCP de Business Central en Claude Desktop: ¡Así se conecta un agente a tu ERP!
+The post 🔥 Probando mi MCP de Business Central en Claude Desktop: ¡Así se conecta un agente a tu ERP! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
         </author>
     </entry>
     <entry>
@@ -130,6 +229,17 @@ Four Newly Released Business Central Features To Improve Your Team’s Efficienc
 Why You Need Continued Customer Care After ERP Go-Live]]></summary>
         <author>
             <name>Kwixand Solutions Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Submit and Approve Time-Off Requests in Microsoft Dynamics 365 Field Service – YouTube]]></title>
+        <id>https://365community.online/how-to-submit-and-approve-time-off-requests-in-microsoft-dynamics-365-field-service-youtube</id>
+        <link href="https://365community.online/how-to-submit-and-approve-time-off-requests-in-microsoft-dynamics-365-field-service-youtube"/>
+        <updated>2025-05-29T13:43:05.000Z</updated>
+        <summary type="html"><![CDATA[You can learn how to easily submit and approve time-off requests in Microsoft Dynamics 365 Field Service. This step-by-step guide walks you through the entire process, making it easy for employees and managers to manage time off efficiently. Perfect for beginners or anyone new to Dynamics 365!   This video consist of: 00:00-00:20 Introduction 00:21-￼2:15 […]
+The post How to Submit and Approve Time-Off Requests in Microsoft Dynamics 365 Field Service – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
         </author>
     </entry>
     <entry>
