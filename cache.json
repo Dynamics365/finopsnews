@@ -1697,6 +1697,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=128634",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nAccounts receivable is one of the most essential processes in Microsoft Dynamics 365 Business Central, but it is often one of the most manual and inefficient. That is why many […]\nThe post Compare 5 Payment Processing Tools for Dynamics 365 Business Central in One Hour appeared first on ERP Software Blog.\nGuide to Payment Processing in Microsoft Dynamics ERP\nAccounts Receivable For Microsoft Business Central from Versapay\nHow are AP and AR the 2 Sides of The Same Coin?",
+          "link": "https://erpsoftwareblog.com/2025/06/compare-5-payment-processing-tools-for-dynamics-365-business-central-in-one-hour/",
+          "publishedOn": "2025-06-01T18:42:33.000Z",
+          "wordCount": 7981,
+          "title": "Compare 5 Payment Processing Tools for Dynamics 365 Business Central in One Hour",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-05-22-MSDW-Payment-Processing-Showcase-Banners_1600-x-900-BC.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=128623",
           "author": "Insight Works",
           "description": "xxx\nDiscover what's new in Graphical Scheduler v2.0 for Business Central—enhanced features for faster, more innovative production scheduling.\nThe post What’s New in Graphical Scheduler v2.0 for Business Central? appeared first on ERP Software Blog.\nOptimize Order Fulfillment in Business Central\nImport Data into Business Central with Free Import Export PowerTool\nThe Secret to Effortless Data Migration in Business Central",
@@ -25375,6 +25385,36 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/powerapps-dropdown-vs-combobox",
+          "author": "James Yumnam",
+          "description": "When building PowerApps canvas apps, choosing the right control for user input can make or break your app’s user experience. Two of the most commonly used controls for presenting options to users are the Dropdown and ComboBox controls. While they might seem similar at first glance, they have distinct characteristics that make each suitable for […]\nThe post PowerApps: Dropdown vs ComboBox appeared first on 365 Community Online.",
+          "link": "https://365community.online/powerapps-dropdown-vs-combobox",
+          "publishedOn": "2025-06-01T15:16:00.000Z",
+          "wordCount": 3129,
+          "title": "PowerApps: Dropdown vs ComboBox",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/create-a-robox-lego-theme-dog-looking-at-two-dropdown.png"
+        },
+        {
+          "id": "https://365community.online/mcp-vs-api-y-iv-mcp-server-para-business-central",
+          "author": "jarmesto",
+          "description": "Blueprint by Circe “La integraciones ya no se programan, se conversan con ellas” Como nos adelantaba Circe, la llegada del protocolo Model Context Protocol (MCP) al ecosistema Microsoft abre una puerta completamente nueva a la integración agent-first. Ya no hablamos de simplemente consumir APIs; hablamos de exponer capacidades semánticas que los agentes de IA puedan […]\nThe post MCP vs API ( y IV) – MCP Server para Business Central appeared first on 365 Community Online.",
+          "link": "https://365community.online/mcp-vs-api-y-iv-mcp-server-para-business-central",
+          "publishedOn": "2025-06-01T15:12:00.000Z",
+          "wordCount": 3308,
+          "title": "MCP vs API ( y IV) – MCP Server para Business Central",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/MCP-vs-API-y-IV-–-MCP-Server-para.png"
+        },
+        {
+          "id": "https://365community.online/should-i-use-power-pages-or-build-a-custom-web-application-in-net-using-the-dataverse-sdk",
+          "author": "michelcarlo",
+          "description": "When considering building a website integrated with Dataverse, sometimes people wonder: what are the advantages of using Power Pages compared to developing a custom Website on top of Dataverse using .net and Dataverse SDK? While both options offer powerful capabilities, each comes with its own set of disadvantages in terms of integration, security, customization, and […]\nThe post Should I use Power Pages or build a custom Web Application in .net using the Dataverse SDK? appeared first on 365 Community Online.",
+          "link": "https://365community.online/should-i-use-power-pages-or-build-a-custom-web-application-in-net-using-the-dataverse-sdk",
+          "publishedOn": "2025-06-01T09:13:00.000Z",
+          "wordCount": 2912,
+          "title": "Should I use Power Pages or build a custom Web Application in .net using the Dataverse SDK?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/ppvsapp.png"
+        },
         {
           "id": "https://365community.online/use-case-for-getting-data-from-excel-youtube",
           "author": "Manish chauhan",
