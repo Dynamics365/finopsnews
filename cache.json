@@ -25386,6 +25386,56 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/compare-plugin-steps-and-images-across-environments-in-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Recently, while testing in UAT, we ran into a plugin-related issue that wasn’t reproducible in Dev. After investigating, we discovered the root cause: one of the plugin step images was missing an attribute in UAT. This wasn’t immediately obvious and not something we’d catch in a standard deployment check. Manually inspecting each plugin step image […]\nThe post Compare Plugin Steps and Images Across Environments in Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/compare-plugin-steps-and-images-across-environments-in-dynamics-365",
+          "publishedOn": "2025-06-02T19:30:00.000Z",
+          "wordCount": 2178,
+          "title": "Compare Plugin Steps and Images Across Environments in Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/Compare-Plugin-Steps-and-Images-Across-Environments-in-Dynamics-365.png"
+        },
+        {
+          "id": "https://365community.online/use-service-level-agreements-and-entitlements-in-dynamics-365-field-service-part-1-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, I explain the basics of service-level agreements (SLAs) and entitlements in Dynamics 365 Field Service. I also show how to create a new price list. This is the first part of the series and is perfect for beginners who want to understand how SLAs and entitlements work and how they are used […]\nThe post Use Service-Level Agreements and Entitlements in Dynamics 365 Field Service (Part 1) – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/use-service-level-agreements-and-entitlements-in-dynamics-365-field-service-part-1-youtube",
+          "publishedOn": "2025-06-02T14:28:27.000Z",
+          "wordCount": 2223,
+          "title": "Use Service-Level Agreements and Entitlements in Dynamics 365 Field Service (Part 1) – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-to-navigate-from-one-ssrs-report-to-another-in-ssrs-report",
+          "author": "Inogic",
+          "description": "In SQL Server Reporting Services (SSRS), actions play a crucial role in enhancing report interactivity and making SSRS reports more dynamic. They enable users to perform specific tasks or navigate to different content by clicking on designated areas within the report. SSRS supports three types of actions: Go to Report, Go to Bookmark, and Go […]\nThe post How to Navigate from One SSRS Report to Another in SSRS Report appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-navigate-from-one-ssrs-report-to-another-in-ssrs-report",
+          "publishedOn": "2025-06-02T09:58:00.000Z",
+          "wordCount": 2844,
+          "title": "How to Navigate from One SSRS Report to Another in SSRS Report",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/Navigate-from-One-SSRS-Report-to-Another-in-SSRS-Report.png"
+        },
+        {
+          "id": "https://365community.online/getting-started-with-rdlc-report-development",
+          "author": "Saurav Dhyani",
+          "description": "Hi everyone,  I hope you're all doing well! Today, I’m excited to introduce a new blog series focused on RDLC Report Development in Microsoft Dynamics. Throughout this series, I'll share insights, best practices, and step-by-step guides on how to develop reports in Dynamics NAV. As a developer, I’ll be covering everything I know, so if […]\nThe post Getting Started with RDLC Report Development. appeared first on 365 Community Online.",
+          "link": "https://365community.online/getting-started-with-rdlc-report-development",
+          "publishedOn": "2025-06-02T05:30:00.000Z",
+          "wordCount": 2207,
+          "title": "Getting Started with RDLC Report Development.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/shocking-truth-about-host-pool-management-youtube",
+          "author": "shabaz darr",
+          "description": "Learn about Host Pool Management Approaches, including session host config and standard management approach. Compare different methods for a successful host pool management strategy. Episode Breakdown: 00:00 – Episode Introduction 00:37 – Episode Breakdown 01:38 – Session Host Configuration 04:17 – Session Host Management Policy 06:32 – Standard Management Approach 06:55 – Host Pool Management […]\nThe post Shocking Truth About Host Pool Management! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/shocking-truth-about-host-pool-management-youtube",
+          "publishedOn": "2025-06-02T03:00:47.000Z",
+          "wordCount": 2176,
+          "title": "Shocking Truth About Host Pool Management! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/powerapps-dropdown-vs-combobox",
           "author": "James Yumnam",
           "description": "When building PowerApps canvas apps, choosing the right control for user input can make or break your app’s user experience. Two of the most commonly used controls for presenting options to users are the Dropdown and ComboBox controls. While they might seem similar at first glance, they have distinct characteristics that make each suitable for […]\nThe post PowerApps: Dropdown vs ComboBox appeared first on 365 Community Online.",
@@ -56994,6 +57044,16 @@
       "feedUrl": "https://fernitudela.dev/feed/",
       "siteUrl": "https://fernitudela.dev",
       "articles": [
+        {
+          "id": "http://fernitudela.dev/?p=1751",
+          "author": "Fernando Tudela Desantes",
+          "description": "This could be the best 40 minutes you’ll spend this week.Specially if you are a tech consultant of D365FO, or just curious about what you can do already with Copilot. This session is for you! A very fun and effective way to go through the present and future of AI and X++. Don´t miss it … More Copilot and X++, the beginning of a love Story – Dynamics Minds 2025",
+          "link": "https://fernitudela.dev/2025/06/02/copilot-and-x-the-beginning-of-a-love-story-dynamics-minds-2025/",
+          "publishedOn": "2025-06-02T08:47:43.000Z",
+          "wordCount": 3738,
+          "title": "Copilot and X++, the beginning of a love Story – Dynamics Minds 2025",
+          "imageUrl": "http://img.youtube.com/vi/rcBOdlscfJc/0.jpg"
+        },
         {
           "id": "http://fernitudela.dev/?p=1669",
           "author": "Fernando Tudela Desantes",
