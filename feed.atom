@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-06-07T01:49:02.254Z</updated>
+    <updated>2025-06-08T01:59:13.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Word Template in D365 CRM/CE – YouTube]]></title>
+        <id>https://365community.online/how-to-create-word-template-in-d365-crm-ce-youtube</id>
+        <link href="https://365community.online/how-to-create-word-template-in-d365-crm-ce-youtube"/>
+        <updated>2025-06-07T12:30:41.000Z</updated>
+        <summary type="html"><![CDATA[In this video, you’ll learn how to create a custom dynamic Word Template in Microsoft Dynamics 365 CE/CRM. We’ll walk through a real use case, design the template step-by-step, and test it in action — all in under 8 minutes! This is perfect for automating document generation like quotes, offers, invoices, and contracts directly from […]
+The post How to Create Word Template in D365 CRM/CE – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Track Mailchimp Customer Journey Email Insights in Dynamics 365 CRM?]]></title>
+        <id>https://365community.online/how-to-track-mailchimp-customer-journey-email-insights-in-dynamics-365-crm</id>
+        <link href="https://365community.online/how-to-track-mailchimp-customer-journey-email-insights-in-dynamics-365-crm"/>
+        <updated>2025-06-07T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to market your product or service through email marketing? You’re not alone! Most businesses turn to email marketing, and for good reason. It’s no surprise that email remains a top choice for online promotion, with Mailchimp leading the way for campaign execution. But if you’re using a CRM like Dynamics 365, syncing Mailchimp campaigns, […]
+The post How to Track Mailchimp Customer Journey Email Insights in Dynamics 365 CRM? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Work Order to an Invoice in Dynamics 365 Field Service – YouTube]]></title>
+        <id>https://365community.online/how-to-convert-a-work-order-to-an-invoice-in-dynamics-365-field-service-youtube</id>
+        <link href="https://365community.online/how-to-convert-a-work-order-to-an-invoice-in-dynamics-365-field-service-youtube"/>
+        <updated>2025-06-07T04:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to easily convert a work order into an invoice in Microsoft Dynamics 365 Field Service. This step-by-step tutorial walks you through the entire process, from completing the work order to generating the final invoice. Perfect for beginners and field service professionals looking to streamline their billing process. This video consists of: 00:00-00:18 Introduction […]
+The post How to Convert a Work Order to an Invoice in Dynamics 365 Field Service – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don’t Judge Business Central by the Free Trial]]></title>
         <id>https://erpsoftwareblog.com/?p=128951</id>
@@ -123,6 +156,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Youngha Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install and Configure Snowflake CLI (SnowSQL) | Snowflake Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/how-to-install-and-configure-snowflake-cli-snowsql-snowflake-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/how-to-install-and-configure-snowflake-cli-snowsql-snowflake-tutorial-mindmajix-youtube"/>
+        <updated>2025-06-06T10:30:31.000Z</updated>
+        <summary type="html"><![CDATA[🔥 Join hands-on Snowflake Certification course: https://mindmajix.com/snowflake-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion In this Snowflake course, you’ll learn about how to install and configure the Snowflake CLI (SnowSQL) on your system. Whether you’re a beginner or a data engineer working with Snowflake, this tutorial is perfect to help you get started with command-line access to your Snowflake environment. #SnowSQL #SnowflakeCLI […]
+The post How to Install and Configure Snowflake CLI (SnowSQL) | Snowflake Tutorial | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -259,6 +303,17 @@ The post Creating a SharePoint List – YouTube appeared first on 365 Community 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Explore migration options for Microsoft Dynamics GP and Microsoft Dynamics SL customers]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/06/05/explore-migration-options-for-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/06/05/explore-migration-options-for-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/"/>
+        <updated>2025-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are announcing updates to Dynamics GP and Dynamics SL product availability.
+The post Explore migration options for Microsoft Dynamics GP and Microsoft Dynamics SL customers appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Morton</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Simplify Dynamics GP Commissions and Motivate Salespeople]]></title>
         <id>https://erpsoftwareblog.com/?p=128873</id>
         <link href="https://erpsoftwareblog.com/2025/06/how-to-simplify-dynamics-gp-commissions-and-motivate-salespeople/"/>
@@ -301,6 +356,17 @@ Dynamics 365 Business Central and Industry-Tailored Functionality
 Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
         <author>
             <name>The TM Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake Data Engineer Roadmap | How to Become a Snowflake Developer? | MindMajix #snowflake – YouTube]]></title>
+        <id>https://365community.online/snowflake-data-engineer-roadmap-how-to-become-a-snowflake-developer-mindmajix-snowflake-youtube</id>
+        <link href="https://365community.online/snowflake-data-engineer-roadmap-how-to-become-a-snowflake-developer-mindmajix-snowflake-youtube"/>
+        <updated>2025-06-05T11:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake Data Engineer Roadmap | How to Become a Snowflake Developer? Want to know how to become a Snowflake developer? In this short video, we break down the complete Snowflake Data Engineer roadmap including key skills, tools, and certifications you need to land a job in data engineering. #Snowflake #DataEngineer #SnowflakeRoadmap #TechCareers #SnowflakeCareers #CloudDataWarehouse source
+The post Snowflake Data Engineer Roadmap | How to Become a Snowflake Developer? | MindMajix #snowflake – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -463,6 +529,28 @@ Benefits of Automatic Collection Efforts in Business Central
 Key Trends for Accounts Payable in 2025]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the power of record routing with real-time analytics]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/06/04/unlock-the-power-of-record-routing-with-real-time-analytics/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/06/04/unlock-the-power-of-record-routing-with-real-time-analytics/"/>
+        <updated>2025-06-04T15:52:28.000Z</updated>
+        <summary type="html"><![CDATA[Running an effective contact center requires real-time insights into key operational metrics. Dynamics 365 Customer Service introduces real-time analytics for record routing, a practical tool that helps supervisors monitor and manage contact center performance as it happens. By providing an up-to-date view of workloads, agent activity, and case progress, this feature ensures your team can
+The post Unlock the power of record routing with real-time analytics appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vikram Yerrabhaneni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-first CRM systems: Learnings from organizations making the switch]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/06/04/ai-first-crm-systems-learnings-from-organizations-making-the-switch/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/06/04/ai-first-crm-systems-learnings-from-organizations-making-the-switch/"/>
+        <updated>2025-06-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With Microsoft Dynamics 365, organizations are embracing a modern, AI-first approach that redefines productivity and customer engagement. 
+The post AI-first CRM systems: Learnings from organizations making the switch appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Nitasha Chopra</name>
         </author>
     </entry>
     <entry>
