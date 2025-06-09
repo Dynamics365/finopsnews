@@ -25776,6 +25776,46 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/85-of-fortune-500-companies-have-made-their-choice-have-you",
+          "author": "John Lunn",
+          "description": "A fascinating pattern is emerging in UK enterprise boardrooms: nearly 70% of Fortune 500 companies have integrated Microsoft 365 Copilot into their workflows since 2023, while others are still evaluating their options. With 85% entrusting Microsoft with their integration and innovation decisions.The data reveals compelling insights about where strategic leaders are focusing their digital transformation […]\nThe post 85% of Fortune 500 companies have made their choice – have you? appeared first on 365 Community Online.",
+          "link": "https://365community.online/85-of-fortune-500-companies-have-made-their-choice-have-you",
+          "publishedOn": "2025-06-09T00:49:00.000Z",
+          "wordCount": 2231,
+          "title": "85% of Fortune 500 companies have made their choice – have you?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/85-of-Fortune-500-companies-have-made-their-choice-–.png"
+        },
+        {
+          "id": "https://365community.online/7-research-agents-powered-by-project-sophia",
+          "author": "Ana Inés Urrutia",
+          "description": "Business Research Agents, aka BRA, aka as former Project Sophia has been in the market for some time, and I’m loving the ways it’s going… Original Post https://www.anainesurrutia.com/post/7-research-agents-powered-by-project-sophia\nThe post 7 Research Agents powered by Project Sophia appeared first on 365 Community Online.",
+          "link": "https://365community.online/7-research-agents-powered-by-project-sophia",
+          "publishedOn": "2025-06-08T16:24:00.000Z",
+          "wordCount": 2141,
+          "title": "7 Research Agents powered by Project Sophia",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/7-Research-Agents-powered-by-Project-Sophia.png"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-app-for-outlook-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, learn how to connect Dynamics 365 with Outlook to easily track emails and create contacts, leads, or accounts without leaving your inbox. This video covers configuration steps and additional helpful features to maximize the benefits of the Outlook and Dynamics 365 integration.   This video consists of: Intro: 00:00 Prerequisites: 00:12 Set up Security […]\nThe post Dynamics 365 App for Outlook – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamics-365-app-for-outlook-youtube",
+          "publishedOn": "2025-06-08T12:30:09.000Z",
+          "wordCount": 2231,
+          "title": "Dynamics 365 App for Outlook – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/introduction-to-loops-in-pa-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, get introduced to loops in Power Automate and understand how to automate repetitive tasks efficiently. You’ll learn to create a flow using loop actions, followed by saving and testing it step by step. This video consists of • 0:00 – 0:09 → Introduction • 0:10 – 0:21 → In this Video • […]\nThe post Introduction to Loops in PA – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/introduction-to-loops-in-pa-youtube",
+          "publishedOn": "2025-06-08T04:30:00.000Z",
+          "wordCount": 2223,
+          "title": "Introduction to Loops in PA – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/how-to-create-word-template-in-d365-crm-ce-youtube",
           "author": "Manish chauhan",
           "description": "In this video, you’ll learn how to create a custom dynamic Word Template in Microsoft Dynamics 365 CE/CRM. We’ll walk through a real use case, design the template step-by-step, and test it in action — all in under 8 minutes! This is perfect for automating document generation like quotes, offers, invoices, and contracts directly from […]\nThe post How to Create Word Template in D365 CRM/CE – YouTube appeared first on 365 Community Online.",
@@ -59607,16 +59647,6 @@
           "publishedOn": "2023-11-12T04:26:58.000Z",
           "wordCount": 2213,
           "title": "Database Inserts and Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "1676 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Does the process of inserting data with Code matter for performance?\nWhen inserting data in F&O, there are several best practices on how to do this from MSFT. But for this specific type of workload, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being.\nFirstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. \nThe Results\nSingle Insert\nThe basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...\n\nSo what are we looking at? when using a single insert pattern with test size of 1, 10, 250, and 100…",
-          "link": "https://www.atomicax.com/content/database-inserts-code-table",
-          "publishedOn": "2023-06-10T02:41:37.000Z",
-          "wordCount": 1425,
-          "title": "Database Inserts - Code Table",
           "imageUrl": null
         }
       ]
