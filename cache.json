@@ -528,46 +528,6 @@
           "wordCount": 3117,
           "title": "How To Register An App In Azure Active Directory For multiple machines of Dynamics 365FO",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyUI4IXPpulCgEkxpkuC7NX6jV4BvH_Rb1l9mge5V6DH_N4vr3maOfyI9f_YaDAfBKHSNvf5YZsrPyUuSYxPI4DQ7oq_fvw-xDoUUiAmSsSr5-zcgzLyN8hsuFyokWYo0_fTRZzGMUI_lk2d8p9LhZonjTE8s6XVoapS2uftKN9X0oYcEHJjCf_wJP1Y8/w1200-h630-p-k-no-nu/1.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/06/custom-class-to-handle-financial.html",
-          "author": null,
-          "description": "Custom class to handle financial Dimensions using x++ \n\n\n/// <summary>\n/// Custom class to handle dimensions\n/// </summary>\nclass DimensionHelper\n{\n    /// To Get the default dimension value by using default dimension id\n    public static DimensionValue getDefaultDimensionValue(str dimName, \n                                                        DimensionDefault defaultDimension)\n    {\n        DimensionAttributeValueSetStorage   dimStorage;\n        Counter                             i;\n        str                                 returnValue;\n\n        dimStorage = DimensionAttributeValueSetStorage::find(_defaultDimension);\n\n        for (i=1 ; i<= dimStorage.elements() ; i++)\n        {\n            if (DimensionAttribute::find(dimStorage.getAttributeByIndex(i)).Name == _dimName)\n           …",
-          "link": "https://kishoredynamics11.blogspot.com/2023/06/custom-class-to-handle-financial.html",
-          "publishedOn": "2023-06-15T06:04:00.002Z",
-          "wordCount": 3081,
-          "title": "Custom class to handle financial Dimensions using x++",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/06/add-additional-total-discounts-to-sales.html",
-          "author": null,
-          "description": "Add additional total discounts to the sales total form using x++.\n\n/// <summary>\n/// extension class to apply total discounts on sales total forms\n/// </summary>\n[ExtensionOf(classstr(TradeTotals))]\npublic final class TradeTotals_Extension\n{\n    /// <summary>\n    /// adds additional total discounts to the sales total form\n    /// </summary>\n    /// <returns>total discount</returns>\n    public DiscAmount totalEndDisc()\n    {\n        endDisc = next totalEndDisc();\n\n        if (orderTable.tableID == tableNum(SalesTable))\n        {\n            SalesTable salestableloc = orderTable;\n\n            if (salestableloc.TotalDiscountAmount && salestableloc.SalesStatus != SalesStatus::Invoiced && balance)\n            {\n                return endDisc + ((balance / 100) * salestableloc.TotalDiscPercentag…",
-          "link": "https://kishoredynamics11.blogspot.com/2023/06/add-additional-total-discounts-to-sales.html",
-          "publishedOn": "2023-06-15T06:01:00.001Z",
-          "wordCount": 3063,
-          "title": "Add additional total discounts to the sales total form using x++",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaY3nGpioGG91HVLXhgINOWr6HxS-hwVK-br53wJgtwPmsUhZwYXY8mYdw-WU5dycVynjQyLXwapw6LJYQxEMiXxV-f5yOBGcR1Ws-T2WjXG4hGVH9zm0WRWafZdJC5d2jNXo9EZOmrHcXyFZPEbSXVKRs_LOtCk5XQUeU6N4z7HbzhiB6SjCrgcSlFIg/w1200-h630-p-k-no-nu/image_2023_09_14T05_14_36_751Z.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/06/adding-validation-for-invoice-date-in.html",
-          "author": null,
-          "description": "Adding validation for Invoice date in Pending vendor Invoice using x++ in D365.\n\n\n[ExtensionOf(formStr(VendEditInvoice))]\nfinal class VendEditInvoice_Extension\n{\n    void postInvoice()\n    {\n        VendInvoiceInfoSubLine  vendInvoiceInfoSubLine;\n        VendInvoiceInfoLine     vendInvoiceInfoLine;\n        VendPackingSlipJour     vendPackingSlipJour;\n        VendInvoiceInfoTable    vendInvoiceInfoTable = this.VendInvoiceInfoTable;\n\n        select firstonly DeliveryDate from vendPackingSlipJour order by vendPackingSlipJour.DeliveryDate desc\n            join vendInvoiceInfoSubLine\n                where vendInvoiceInfoSubLine.DocumentId == vendPackingSlipJour.PackingSlipId\n\t    join vendInvoiceInfoLine\n\t\twhere vendInvoiceInfoSubLine.LineRefRecId == vendInvoiceInfoLine.RecId &&\n\t\t    vendInvoiceInfoLine.ParmId == vendInvoiceInfoTable.ParmId &&\n\t\t    vendInvoiceInfoLine.TableRefId == vendInvoiceInfoTable.TableRefId;\n\n        if (vendPackingSlipJour.DeliveryDate > vendInvoiceInfoTable.DocumentDate)\n        {\n            throw Global::error('Invoice date should be greater than Receipt date');\n        }\n\t\t\n        next postInvoice();\n    }\n\n}\n\n\nKeep daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/06/adding-validation-for-invoice-date-in.html",
-          "publishedOn": "2023-06-15T05:58:00.003Z",
-          "wordCount": 2868,
-          "title": "Adding validation for Invoice date in Pending vendor Invoice using x++ in D365",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/06/open-journal-lines-form-from-custom.html",
-          "author": null,
-          "description": "Open journal lines form from the custom form using x++.\n\n\n\nWe need to add ledgerJournalTable in the form data source and don't give any properties.\nCopy the JournalLines_Review button from the LedgerJournalTable form.\n\n\nWrite the below code in the Form.\n\npublic class Form1 extends FormRun\n{\n    LedgerJournalFormTable  journalFormTable;\n\n    public void init()\n    {\n        journalFormTable = LedgerJournalFormTable::construct(element);\n\n        journalFormTable.datasourceInitPost(LedgerJournalTable);\n\n        super();\n    }\n\n    JournalForm journalForm()\n    {\n        return journalFormTable;\n    }\n}\n\n\n\n\nButton clicked method. (copied from LedgerJournalTable)\n\n    [Control(\"MenuFunctionButton\")]\n    class JournalLines_Review\n    {\n        /// <summary>\n        /// Handles the Lines->Review button's clicked event.\n        /// </summary>\n        public void clicked()\n        {\n            journalFormTable.assertJournalNotInUse();\n    \n            journalFormTable.parmIsProcessingPaymentOnApprovedJounal(false);\n            journalFormTable.parmIsWFApprovedModeSelected(true);\n    \n            super();\n    \n            ledgerJournalTable_ds.reread();\n        }\n\n    }\n\n\nThe below code I have written in jumpRef method is based on my requirement.\n\n\n    [Control(\"String\")]\n    class Table1_FieldString1\n    {\n        public void jumpRef()\n        {\n            super();\n\n            LedgerJournalTable  ledgerJournalTableNew = LedgerJournalTable::find(Table1.FieldString1);\n\n\n            //ledgerJournalTable_ds.setRecord(ledgerJournalTableNew);\n\n            ledgerJournalTable_ds.findRecord(ledgerJournalTableNew);\n\n            //ledgerJournalTable_ds.reread();\n            //ledgerJournalTable_ds.refresh();\n\n            journalFormTable.datasourceInitPost(ledgerJournalTable_ds.cursor());\n\n            JournalLines_Review.clicked();\n        }\n    }\n\n\n\n\nAnother Way:\nClick Here\n\n\nKeep daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/06/open-journal-lines-form-from-custom.html",
-          "publishedOn": "2023-06-15T05:49:00.004Z",
-          "wordCount": 2910,
-          "title": "Open journal lines form from the custom form using x++.",
-          "imageUrl": null
         }
       ]
     },
@@ -1687,6 +1647,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=129406",
+          "author": "MetaViewer AP Automation",
+          "description": "xxx\nEven the most efficiently managed farms, co-ops, and agribusinesses are feeling the financial strain. Fluctuating tariffs, escalating input costs, and ongoing global trade uncertainties have eroded once-reliable profit margins. This […]\nThe post How AP Automation Helps Agriculture Businesses Fight Margin Pressure and Tariffs appeared first on ERP Software Blog.\nFrom Sowing to Saving: How AP Automation Helps Agriculture Businesses Thrive Through the Seasons\nIs it Time Automate AP and Payment Processes?\n7 Steps to Proving the ROI of AP Automation",
+          "link": "https://erpsoftwareblog.com/2025/06/this-is-where-accounts-payable-ap-automation-tailored-for-agriculture-steps-in-not-just-as-a-solution-to-operational-inefficiencies-but-as-a-strategic-asset-designed-to-meet-the-evolving-ne/",
+          "publishedOn": "2025-06-13T19:13:37.000Z",
+          "wordCount": 7705,
+          "title": "How AP Automation Helps Agriculture Businesses Fight Margin Pressure and Tariffs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/image-1-6.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129382",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nContinuing our Microsoft Dynamics 365 Implementation Excellence Series  The Hidden Truth Behind ERP Project Failures  Most organizations approach Dynamics 365 implementations with the right intentions but wrong execution. While 65-80% […]\nThe post Implementing Microsoft Dynamics 365: Best Practices to Maximize Success appeared first on ERP Software Blog.\nReduce the Cost of ERP Software Implementation with Detailed Timelines\nFive Reasons Why Microsoft Dynamics Sure Step Will Help Your ERP Implementation\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?",
+          "link": "https://erpsoftwareblog.com/2025/06/dynamics-365-implemenation-best-practices/",
+          "publishedOn": "2025-06-13T14:49:07.000Z",
+          "wordCount": 8108,
+          "title": "Implementing Microsoft Dynamics 365: Best Practices to Maximize Success",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-blog-temp-6.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129377",
+          "author": "Dooap",
+          "description": "xxx\nThe most common challenges in procurement and invoice processing stem from disconnected systems, manual steps, and delays in approvals. Dooap, a leading Accounts Payable (AP) automation provider for Microsoft Dynamics […]\nThe post Integrating AP automation with Amazon Business appeared first on ERP Software Blog.\nAP Automation for Dynamics 365 Finance - compare your options!\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nWant to provide equipment and its status directly to each depot manager and take proper action immediately?",
+          "link": "https://erpsoftwareblog.com/2025/06/integrating-ap-automation-with-amazon-business/",
+          "publishedOn": "2025-06-13T07:46:03.000Z",
+          "wordCount": 7519,
+          "title": "Integrating AP automation with Amazon Business",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129365",
+          "author": "SmartBOL",
+          "description": "xxx\nRVCF (Click to Register for June 6th @ 1:30 EST  Retail Value Chain Federation Webinar - Cut Costs, Cut Paper: Streamline Logistics with SmartBOL   6/17/2025 When: 06/17/2025 1:30 to […]\nThe post Webinar - Cut Costs, Cut Paper: Streamline Logistics with SmartBOL | Registration appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/06/webinar-cut-costs-cut-paper-streamline-logistics-with-smartbol-registration/",
+          "publishedOn": "2025-06-13T06:33:41.000Z",
+          "wordCount": 7584,
+          "title": "Webinar - Cut Costs, Cut Paper: Streamline Logistics with SmartBOL | Registration",
+          "imageUrl": "https://www.rvcf.com/global_graphics/calendar.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129352",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn Today's changing business landscape, accurate and timely financial decision-making is critical to maintaining a competitive edge. Dynamics 365 Finance provides a unified view of all financial data, automates processes, […]\nThe post Financial Decision-Making Made Smarter with Dynamics 365 Finance appeared first on ERP Software Blog.\nHow Machine Learning is Transforming Accounts Payable\nWhat You Need to Know About the E-invoice Exchange Market Pilot\nCase Study: Embracing ClickLearn as a corporate Dynamics 365 training platform",
+          "link": "https://erpsoftwareblog.com/2025/06/financial-decision-making-made-smarter-with-dynamics-365-finance/",
+          "publishedOn": "2025-06-13T05:02:07.000Z",
+          "wordCount": 8207,
+          "title": "Financial Decision-Making Made Smarter with Dynamics 365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=129193",
           "author": "Jeremy Prichard, TrinDocs",
           "description": "xxx\nToday, more than ever before, streamlining processes and improving production efficiency are top priorities for manufacturers. S+S Industries, a plating and coating company based in Houston, Texas, faced these challenges […]\nThe post Document Management and Work-flow Automation in Dynamics 365 BC for Manufacturers appeared first on ERP Software Blog.\nKey Trends for Accounts Payable in 2025\nMekorma Payment Hub v0.9: New Features for Business Central\nMekorma Payment Hub v1.0 for Business Central is here!",
@@ -1935,6 +1945,16 @@
           "wordCount": 8989,
           "title": "Preparing for Data Migration — What You Need to Know",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/D365-data-migration-challenges.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129356",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn Today's rapidly evolving business environment & digital age, small and medium-sized enterprises (SMEs) face multiple challenges in the globalized market & changing business requirements. To stay ahead in the […]\nThe post Empowering SMEs to Scale with Business Central and Finance Solutions appeared first on ERP Software Blog.\nUnlock Lightning-Fast Insights: How Power BI Integration Transforms Business Central Reporting\nMaximising Data Insights in Business Central: Empower Your Decisions with Data-Driven Reporting\n3 ways to optimize your financial processes with Business Central",
+          "link": "https://erpsoftwareblog.com/2025/06/empowering-sme-to-scale-with-business-central-and-finance-solutions/",
+          "publishedOn": "2025-06-10T05:24:58.000Z",
+          "wordCount": 8295,
+          "title": "Empowering SMEs to Scale with Business Central and Finance Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=128965",
@@ -26145,6 +26165,56 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/dynamics-365-maps-integration-with-ai-takes-the-spotlight-at-dynamicsminds-2025",
+          "author": "Inogic",
+          "description": "Nestled in the coastal beauty of Portorož, Slovenia, the DynamicsMinds 2025 conference buzzed with excitement, innovation, and inspiration. For the Inogic team behind Maplytics, this event became an unforgettable milestone, marked by a houseful session, overwhelming engagement, and a wave of curiosity that reaffirmed the growing significance of location intelligence for Dynamics 365. Setting the […]\nThe post Dynamics 365 Maps integration with AI takes the Spotlight at DynamicsMinds 2025 appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamics-365-maps-integration-with-ai-takes-the-spotlight-at-dynamicsminds-2025",
+          "publishedOn": "2025-06-13T09:23:00.000Z",
+          "wordCount": 4280,
+          "title": "Dynamics 365 Maps integration with AI takes the Spotlight at DynamicsMinds 2025",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/Dynamics-365-Maps-integration-with-AI.png"
+        },
+        {
+          "id": "https://365community.online/cycle-through-records-in-a-loop-youtube",
+          "author": "Manish chauhan",
+          "description": "This video explains how to cycle through multiple records using a loop in Power Automate. It walks you through building a flow that processes each record in a dataset, making it useful for tasks such as data updates, notifications, or conditional operations on lists. This video consists of: • 0:00 – 0:08 → Introduction • […]\nThe post Cycle Through Records in a Loop – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/cycle-through-records-in-a-loop-youtube",
+          "publishedOn": "2025-06-13T07:18:23.000Z",
+          "wordCount": 2355,
+          "title": "Cycle Through Records in a Loop – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/automating-local-document-retrieval-and-email-drafting-with-attachment-by-using-copilot-studio-part-2",
+          "author": "Inogic",
+          "description": "In our last blog, “Automating Local Document Retrieval and Email Drafting with attachment by using Copilot Studio Part 1“ we discussed how a tailor-made solution developed with Microsoft Copilot Studio enables you to find and exact project information instantly from massive local document stores. We illustrated how the Copilot intelligently uses Power Automate and the […]\nThe post Automating Local Document Retrieval and Email Drafting with Attachment by Using Copilot Studio Part 2 appeared first on 365 Community Online.",
+          "link": "https://365community.online/automating-local-document-retrieval-and-email-drafting-with-attachment-by-using-copilot-studio-part-2",
+          "publishedOn": "2025-06-13T05:54:00.000Z",
+          "wordCount": 3111,
+          "title": "Automating Local Document Retrieval and Email Drafting with Attachment by Using Copilot Studio Part 2",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/Automating-Local-Document-Retrieval-and-Email-Drafting-with-Attachment-by-Using-Copilot-Studio.png"
+        },
+        {
+          "id": "https://365community.online/save-up-to-40-on-sql-server-windows-server-licensing-with-azure-pay-as-you-go-youtube",
+          "author": "John Lunn",
+          "description": "Save Up to 40% on SQL Server & Windows Server Licensing with Azure Pay-As-You-Go! Are you overpaying for your SQL Server and Windows Server licenses? Switch from Enterprise Agreement (EA) or SPLA to Pay-As-You-Go (PAYG) and save up to 50%! Join John and Ty in this episode of AzBytes as they reveal how companies are […]\nThe post Save Up to 40% on SQL Server & Windows Server Licensing with Azure Pay-As-You-Go! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/save-up-to-40-on-sql-server-windows-server-licensing-with-azure-pay-as-you-go-youtube",
+          "publishedOn": "2025-06-12T18:21:41.000Z",
+          "wordCount": 2764,
+          "title": "Save Up to 40% on SQL Server & Windows Server Licensing with Azure Pay-As-You-Go! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/getting-started-with-d365-field-service-sales-part-1-overview-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we’ll walk you through the basics of Microsoft Dynamics 365 Field Service and Sales. You’ll learn how these tools work together to improve customer service, manage field operations, and boost your sales process. Perfect for beginners or anyone looking to understand how D365 can help your business run more smoothly.   This […]\nThe post Getting Started with D365 Field Service & Sales | Part 1 Overview – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/getting-started-with-d365-field-service-sales-part-1-overview-youtube",
+          "publishedOn": "2025-06-12T13:23:16.000Z",
+          "wordCount": 2385,
+          "title": "Getting Started with D365 Field Service & Sales | Part 1 Overview – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/guide-to-branding-your-dynamics-365-live-chat-integration-app",
           "author": "Inogic",
@@ -65117,6 +65187,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=16684",
+          "author": "Parag Chapre",
+          "description": "The Time and Attendance module in Dynamics 365 Human Resources helps organizations efficiently manage worker hours, shifts, pay calculations, and approvals. Below is a step-by-step guide to help you configure Time and Attendance from the ground up. Step 1: Set Time and Attendance Parameters Path: Time and Attendance → Setup → Parameters In the ‘Get…",
+          "link": "https://paragchapre.com/configure-time-and-attendance-dynamics-365-hr/",
+          "publishedOn": "2025-06-13T13:27:41.000Z",
+          "wordCount": 3936,
+          "title": "Configure Time and Attendance in Dynamics 365 Human Resources",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2025/06/Time-and-attendance-in-Dynamics-365-Human-Resources.webp"
+        },
         {
           "id": "https://paragchapre.com/?p=16678",
           "author": "Parag Chapre",
