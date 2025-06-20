@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-06-19T01:52:53.098Z</updated>
+    <updated>2025-06-20T01:51:50.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Business Central Pricing Changes]]></title>
+        <id>https://erpsoftwareblog.com/?p=129669</id>
+        <link href="https://erpsoftwareblog.com/2025/06/business-central-pricing-changes/"/>
+        <updated>2025-06-19T20:39:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft is updating Business Central pricing for the first time in over five years, effective October 1. Learn what’s changing and why it matters.
+The post Business Central Pricing Changes appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Custom Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Automation in Manufacturing]]></title>
+        <id>https://erpsoftwareblog.com/?p=129662</id>
+        <link href="https://erpsoftwareblog.com/2025/06/the-role-of-automation-in-manufacturing/"/>
+        <updated>2025-06-19T12:55:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As we move further into 2025, the manufacturing industry continues to undergo a profound digital transformation. Driven by global competition, labor shortages, and volatile supply chains, manufacturers are increasingly turning […]
+The post The Role of Automation in Manufacturing  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Sales Orders with Business Central's AI Agents]]></title>
+        <id>https://erpsoftwareblog.com/?p=129656</id>
+        <link href="https://erpsoftwareblog.com/2025/06/automating-sales-orders-with-business-centrals-ai-agents/"/>
+        <updated>2025-06-19T08:04:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Sales order management is a cornerstone of every business. The traditional manual processes involved in generating quotes, converting them to sales orders, and updating inventory can lead to delays, errors, […]
+The post Automating Sales Orders with Business Central's AI Agents appeared first on ERP Software Blog.
+Easily Manage Data with Business Central Virtual Tables
+How to Set Up Automatic Invoices Inside of Microsoft Dynamics 365 Business Central
+DYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilots vs. AI Agents: How & Why They Work]]></title>
         <id>https://erpsoftwareblog.com/?p=129405</id>
@@ -4745,6 +4790,72 @@ ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey]]></summary>
 The post How to Create and Modify a Segment in Customer Insights – Journeys Using the Web API appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: Are you prepared? Get ready for the unified experience ALM!]]></title>
+        <id>https://ax.docentric.com/?p=31453</id>
+        <link href="https://ax.docentric.com/dynamicsminds-2025-are-you-prepared-get-ready-for-the-unified-experience-alm/"/>
+        <updated>2025-05-19T09:34:29.000Z</updated>
+        <summary type="html"><![CDATA[With the transition from LCS, it’s crucial for F&O consultants to stay updated on these changes. I’ll cover what you need to know to thrive in this evolving landscape: An overview of the enhanced Unified admin and developer experiences. Git vs. TFVC: Why Git is […]
+The post DynamicsMinds 2025: Are you prepared? Get ready for the unified experience ALM! appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: Technical Writing: There’s No Magic Wand Here]]></title>
+        <id>https://ax.docentric.com/?p=31475</id>
+        <link href="https://ax.docentric.com/dyanmicsminds-2025-technical-writing-theres-no-magic-wand-here/"/>
+        <updated>2025-05-19T09:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Writing is hard, but it's a very valuable skill, and as with all skills, practice makes perfect. Whether you’re documenting solutions for Dynamics 365, creating Power Platform guides, or simply trying to create your own content, you’ve likely discovered there’s no instant spell to make […]
+The post DynamicsMinds 2025: Technical Writing: There’s No Magic Wand Here appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: How to Generate Zugferd Compliant Electronic Invoices in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=31495</id>
+        <link href="https://ax.docentric.com/dynamicsminds-2025-how-to-generate-zugferd-compliant-electronic-invoices-in-d365fo/"/>
+        <updated>2025-05-19T09:29:51.000Z</updated>
+        <summary type="html"><![CDATA[German legislation recognizes two key standards for electronic invoicing: XRechnung and ZUGFeRD. XRechnung is a structured XML format based on UBL or CII, and ZUGFeRD is a hybrid format that combines a human-readable PDF/A-3 file with an embedded XML file in the "Cross-Industry Invoice" (CII) […]
+The post DynamicsMinds 2025: How to Generate Zugferd Compliant Electronic Invoices in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Albin Lotric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: Demystifying Electronic Reporting: Some Concepts and Functions You May Not Yet Know, But Should Know]]></title>
+        <id>https://ax.docentric.com/?p=31491</id>
+        <link href="https://ax.docentric.com/dynamicsminds-2025-demystifying-electronic-reporting-some-concepts-and-functions-you-may-not-yet-know-but-should-know/"/>
+        <updated>2025-05-19T09:28:07.000Z</updated>
+        <summary type="html"><![CDATA[This session is aimed at both those who already have some experience with ER and those who are seriously considering using ER for reporting. We hear everywhere that ER is complex. This is true. That's why it's even more important to learn about it from […]
+The post DynamicsMinds 2025: Demystifying Electronic Reporting: Some Concepts and Functions You May Not Yet Know, But Should Know appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Albin Lotric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: Digital Magic: Efficient Communication with Customers for Collections]]></title>
+        <id>https://ax.docentric.com/?p=31504</id>
+        <link href="https://ax.docentric.com/dynamicsminds-2025-digital-magic-efficient-communication-with-customers-for-collections/"/>
+        <updated>2025-05-19T09:24:50.000Z</updated>
+        <summary type="html"><![CDATA[In this session, we’ll explore the three primary ways to communicate with customers about their account statements and overdue invoices: using the Aged Balances inquiry, Process Automations, and Copilot for Finance in Outlook. These tools provide efficient solutions for maintaining contact and ensuring timely updates, […]
+The post DynamicsMinds 2025: Digital Magic: Efficient Communication with Customers for Collections appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Miha Vuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: Command the Elements: Automating Dynamics 365 F&O with PAC CLI]]></title>
+        <id>https://ax.docentric.com/?p=31483</id>
+        <link href="https://ax.docentric.com/dynamicsminds-2025-command-the-elements-automating-dynamics-365-fo-with-pac-cli/"/>
+        <updated>2025-05-19T09:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Embark on a magical journey into the world of automation with Microsoft Power Platform CLI (PAC CLI). In this session, we'll reveal how this powerful tool can transform the way you manage Dynamics 365 Finance and Operations environments, enabling you to manage users and environments […]
+The post DynamicsMinds 2025: Command the Elements: Automating Dynamics 365 F&O with PAC CLI appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
         </author>
     </entry>
     <entry>
