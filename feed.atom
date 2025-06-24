@@ -2,10 +2,274 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-06-23T01:59:09.972Z</updated>
+    <updated>2025-06-24T01:53:48.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rolling Your Standard Costs in Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=129804</id>
+        <link href="https://erpsoftwareblog.com/2025/06/rolling-your-standard-costs-in-dynamics-365-business-central/"/>
+        <updated>2025-06-23T22:19:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central (BC) has several costing methods but standard cost is the one that needs yearly attention. Costs have increased, charges have increased but what about your […]
+The post Rolling Your Standard Costs in Dynamics 365 Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Advanced Budgeting, Reporting and Consolidates Empowering Dynamics 365 Business Central
+Dynamics 365 Better Together with Office 365 eBook]]></summary>
+        <author>
+            <name>Ternpoint Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Reclaimed Storage from the WebResourceBase Table in Dataverse]]></title>
+        <id>https://365community.online/how-we-reclaimed-storage-from-the-webresourcebase-table-in-dataverse</id>
+        <link href="https://365community.online/how-we-reclaimed-storage-from-the-webresourcebase-table-in-dataverse"/>
+        <updated>2025-06-23T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While reviewing our Dataverse environment’s storage usage, we noticed something surprising—over 13 GB of our file capacity was being consumed by the WebResourceBase table alone. This table typically stores JavaScript files, HTML web resources, images, and other files tied to customizations in Dynamics 365. However, the volume was unexpectedly high, prompting us to investigate further. […]
+The post How We Reclaimed Storage from the WebResourceBase Table in Dataverse appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going Beyond ACH Payments in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=129794</id>
+        <link href="https://erpsoftwareblog.com/2025/06/going-beyond-ach-payments-in-business-central/"/>
+        <updated>2025-06-23T18:11:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Mekorma Payment Hub for Business Central: Go Beyond Basic ACH Payments If you’re using Microsoft Dynamics 365 Business Central, chances are you’ve implemented ACH (Automated Clearing House) payments to […]
+The post Going Beyond ACH Payments in Business Central appeared first on ERP Software Blog.
+Mekorma Payment Hub v1.0 for Business Central is here!
+Vendor Data in Accounts Payable: Best Management Practices
+Responsible AP Automation: Empowering Teams, Not Replacing Them]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Configure-to-Order Manufacturing—and Why It Matters in 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=129784</id>
+        <link href="https://erpsoftwareblog.com/2025/06/what-is-configure-to-order-manufacturing/"/>
+        <updated>2025-06-23T18:10:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As customer expectations shift toward personalized solutions, manufacturers are rethinking how they deliver value without compromising efficiency. Configure-to-Order (CTO) manufacturing offers a compelling middle ground—delivering tailored products built from pre-approved […]
+The post What Is Configure-to-Order Manufacturing—and Why It Matters in 2025 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central with Excel]]></title>
+        <id>https://erpsoftwareblog.com/?p=129345</id>
+        <link href="https://erpsoftwareblog.com/2025/06/dynamics-365-business-central-with-excel/"/>
+        <updated>2025-06-23T18:06:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you are an Excel power user, you're going to feel right at home with Microsoft Dynamics 365 Business Central (BC). Many of our clients coming from Dynamics GP are […]
+The post Dynamics 365 Business Central with Excel appeared first on ERP Software Blog.
+Microsoft Excel Integration with Dynamics 365 is a Game-Changer
+All About Business Central Excel Reports: Real-Time vs. Near Real-Time (NRT), and Batch Processing
+How to: Using The Business Central Excel Integration]]></summary>
+        <author>
+            <name>DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Users Guide for AP Automation for Microsoft Dynamics 365 BC & Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=129339</id>
+        <link href="https://erpsoftwareblog.com/2025/06/users-guide-for-ap-automation-for-microsoft-dynamics-365-bc-finance/"/>
+        <updated>2025-06-23T17:48:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manual invoice processing in Microsoft Dynamics may still be the norm for many finance teams, but it often leads to unnecessary complexity, delays, and errors. If you're spending time rekeying […]
+The post Users Guide for AP Automation for Microsoft Dynamics 365 BC & Finance appeared first on ERP Software Blog.
+Microsoft Dynamics GP Phase-Out: Smooth ERP Transition
+Key Trends for Accounts Payable in 2025
+Mekorma Payment Hub v0.9: New Features for Business Central]]></summary>
+        <author>
+            <name>Rillion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Makes MRP App Free for Dynamics 365 Business Central Users]]></title>
+        <id>https://erpsoftwareblog.com/?p=129788</id>
+        <link href="https://erpsoftwareblog.com/2025/06/insight-works-makes-mrp-app-free-for-dynamics-365-business-central-users/"/>
+        <updated>2025-06-23T17:10:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works now offers its Enhanced Planning Worksheet—an MRP-driven tool for Dynamics 365 Business Central—free for one user, helping businesses streamline inventory planning, vendor coordination, and purchasing decisions.
+The post Insight Works Makes MRP App Free for Dynamics 365 Business Central Users appeared first on ERP Software Blog.
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Benefits of Automatic Collection Efforts in Business Central
+Key Trends for Accounts Payable in 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TMG Helped a Community Health Organization Regain Control]]></title>
+        <id>https://erpsoftwareblog.com/?p=129785</id>
+        <link href="https://erpsoftwareblog.com/2025/06/community-health-erp-solution/"/>
+        <updated>2025-06-23T16:31:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When a Michigan-based organization needed a community health ERP solution that could support both mental health services and prepaid inpatient health plan operations, they turned to The TM Group (TMG) […]
+The post How TMG Helped a Community Health Organization Regain Control appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>The TM Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaShip for Business Central Residential Shipping]]></title>
+        <id>https://erpsoftwareblog.com/?p=129769</id>
+        <link href="https://erpsoftwareblog.com/2025/06/metaship-for-business-central-residential-shipping/"/>
+        <updated>2025-06-23T15:00:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Residential shipping has undergone rapid evolution in today’s e-commerce and distribution landscape. Customers expect fast, trackable, and accurate deliveries directly to their homes, regardless of order size or frequency. For […]
+The post MetaShip for Business Central Residential Shipping appeared first on ERP Software Blog.
+How does Business Central offer enhanced reporting and data access?
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing Your Team for MES Implementation]]></title>
+        <id>https://erpsoftwareblog.com/?p=129770</id>
+        <link href="https://erpsoftwareblog.com/2025/06/preparing-your-team-for-mes-implementation/"/>
+        <updated>2025-06-23T14:49:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Implementing a Manufacturing Execution System (MES), such as MV2 MES, represents a significant step forward for any manufacturer. It brings clarity, control, and consistency to production operations. But as with any […]
+The post Preparing Your Team for MES Implementation appeared first on ERP Software Blog.
+MES vs. ERP: Key Differences and How MV2 Connects Them
+MV2 MES Implementation Timeline: What to Expect
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365]]></summary>
+        <author>
+            <name>Erin Bonde, MV2 MES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP for Law Firm: Legal Case & Document Management Software]]></title>
+        <id>https://erpsoftwareblog.com/?p=129744</id>
+        <link href="https://erpsoftwareblog.com/2025/06/erp-for-law-firm-legal-case-document-management-software/"/>
+        <updated>2025-06-23T13:48:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP systems have traditionally been recognized for enhancing workflow efficiency and fostering innovation in manufacturing and other industries. However, recent advancements have introduced customized ERP for law firm tailored specifically […]
+The post ERP for Law Firm: Legal Case & Document Management Software appeared first on ERP Software Blog.
+Join JourneyTEAM's Tech Insider Update Webinar on 8/6
+Top Takeaways from Microsoft Inspire 2020 (Global Partner Conference)
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: compressing API responses at max.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-compressing-api-responses-at-max</id>
+        <link href="https://365community.online/dynamics-365-business-central-compressing-api-responses-at-max"/>
+        <updated>2025-06-23T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last part of the session I’ve done with Duilio at BC TechDays this year on how we handle large Dynamics 365 Business Central customers, I talked about different APIs optimizations we’ve done to support high throughput and large volumes. One of the question received after the session was how to reduce the bandwidth […]
+The post Dynamics 365 Business Central: compressing API responses at max. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Dynamics 365 Business Central Is Revolutionizing the SMB Market]]></title>
+        <id>https://erpsoftwareblog.com/?p=129745</id>
+        <link href="https://erpsoftwareblog.com/2025/06/how-microsoft-dynamics-365-business-central-is-revolutionizing-the-smb-market/"/>
+        <updated>2025-06-23T12:27:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Small and mid-sized businesses (SMBs) often face complexities that arise as they scale, fragmented systems, manual workflows, lack of real-time insights, and compliance pitfalls. Microsoft Dynamics 365 Business Central emerges as a […]
+The post How Microsoft Dynamics 365 Business Central Is Revolutionizing the SMB Market appeared first on ERP Software Blog.
+Avoiding the Hidden Costs of Small and Medium Business Software
+The Significance of ERP Cloud for Small and Medium Businesses
+What ERP Software Can Do for Small and Medium Businesses and How Cloud ERP Can Return Greater ROI]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 11 ERP Software for Pharmaceutical Manufacturing in 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=129740</id>
+        <link href="https://erpsoftwareblog.com/2025/06/erp-software-for-pharmaceutical-manufacturing/"/>
+        <updated>2025-06-23T11:47:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Pharmaceutical manufacturing is one of the most highly regulated and quality-driven industries. From FDA compliance and GMP standards to inventory traceability and batch production, the operational complexities are immense. Manual […]
+The post Top 11 ERP Software for Pharmaceutical Manufacturing in 2025 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake Architecture | Snowflake Access Control & Roles | Snowflake Course | MindMajix – YouTube]]></title>
+        <id>https://365community.online/snowflake-architecture-snowflake-access-control-roles-snowflake-course-mindmajix-youtube</id>
+        <link href="https://365community.online/snowflake-architecture-snowflake-access-control-roles-snowflake-course-mindmajix-youtube"/>
+        <updated>2025-06-23T11:36:02.000Z</updated>
+        <summary type="html"><![CDATA[🔥 Join hands-on Snowflake Certification course: https://mindmajix.com/snowflake-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion In this Snowflake course, you’ll learn about Snowflake Architecture explaining how it works with its unique multi-cluster, shared-data design. We also cover Snowflake access control, including roles, privileges, and how Snowflake ensures secure data access using its robust RBAC (Role-Based Access Control) model. #SnowflakeArchitecture #SnowflakeAccessControl #SnowflakeTutorial #SnowflakeCourse #SnowflakeTraining […]
+The post Snowflake Architecture | Snowflake Access Control & Roles | Snowflake Course | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Microsoft Dynamics 365: Mastering the Client Handoff]]></title>
+        <id>https://erpsoftwareblog.com/?p=129736</id>
+        <link href="https://erpsoftwareblog.com/2025/06/dynamics-365-the-client-handoff/"/>
+        <updated>2025-06-23T10:18:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Concluding our in-depth exploration of Microsoft Dynamics 365 implementation excellence  The Operational Reality Behind Implementation Statistics  Dynamics 365 projects face a sobering operational challenge: while 65-80% of ERP implementations encounter […]
+The post Implementing Microsoft Dynamics 365: Mastering the Client Handoff appeared first on ERP Software Blog.
+WithoutWire™ Partial Picking – Minimizing the Impact of Changing Sales Orders
+Cloud-Computing and Your Company: Is it Right for You?
+Pharmacy Chain Goes 100% Paperless with Document Management Treatment]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retrieving Masked Field Values Programmatically in Dynamics 365]]></title>
+        <id>https://365community.online/retrieving-masked-field-values-programmatically-in-dynamics-365</id>
+        <link href="https://365community.online/retrieving-masked-field-values-programmatically-in-dynamics-365"/>
+        <updated>2025-06-23T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you working on a Dynamics 365 Customer Engagement (CE) project and struggling to integrate a payment system that requires access to sensitive data—like a customer’s full bank account number? You’re not alone. Imagine this: you’re developing with backend plugins, operating under elevated privileges, and fully expecting the System Admin service to give you unrestricted […]
+The post Retrieving Masked Field Values Programmatically in Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central: How to Set Up Subcontracting Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=128983</id>
+        <link href="https://erpsoftwareblog.com/2025/06/mastering-manufacturing-with-business-central-how-to-set-up-subcontracting-operations/"/>
+        <updated>2025-06-23T09:35:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’re a manufacturer who occasionally or frequently outsources parts of your production process—like painting, assembly, or surface finishing—then subcontracting in Microsoft Dynamics 365 Business Central is a feature you’ll […]
+The post Mastering Manufacturing with Business Central: How to Set Up Subcontracting Operations appeared first on ERP Software Blog.
+Mastering Manufacturing with Business Central: Understanding Subcontracting
+Microsoft Dynamics 365 Business Central: The Best Choice for Manufacturers
+Automated Production Scheduling Using Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock faster time tracking, approvals, reduced revenue leakage, and accelerated billing with the new Time and Expense Agent in D365 Project Operations]]></title>
+        <id>http://sandeepchaudhuryd365.com/?p=8666</id>
+        <link href="https://sandeepchaudhuryd365.com/2025/06/23/unlock-faster-time-tracking-approvals-reduced-revenue-leakage-and-accelerated-billing-with-the-new-time-and-expense-agent-in-d365-project-operations/"/>
+        <updated>2025-06-23T02:28:44.000Z</updated>
+        <summary type="html"><![CDATA[For project and service driven organizations, accurately capturing and processing time and expenses is a balancing act between operational efficiency and revenue integrity. Manual entry delays, inconsistent submissions, and incomplete data can cause serious ripple effects—ranging from incorrect approvals, billing errors to delayed client invoicing and, ultimately, revenue leakage. Enter the new Time & Expense […]]]></summary>
+        <author>
+            <name>Sandeep Chaudhury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot Services Outsourcing: Smartest Move for Business Growth!]]></title>
         <id>https://365community.online/microsoft-365-copilot-services-outsourcing-smartest-move-for-business-growth</id>
@@ -15,6 +279,17 @@
 The post Microsoft 365 Copilot Services Outsourcing: Smartest Move for Business Growth! appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Layoffs Rise in May–June 2025: 61,000+ Jobs Cut at Microsoft, Intel, Amazon – YouTube]]></title>
+        <id>https://365community.online/tech-layoffs-rise-in-may-june-2025-61000-jobs-cut-at-microsoft-intel-amazon-youtube</id>
+        <link href="https://365community.online/tech-layoffs-rise-in-may-june-2025-61000-jobs-cut-at-microsoft-intel-amazon-youtube"/>
+        <updated>2025-06-21T05:38:55.000Z</updated>
+        <summary type="html"><![CDATA[In May and June 2025, major tech companies announced another wave of job cuts. Microsoft alone laid off 6,000 workers in mid May and more than 300 in early June. Google, Intel and Amazon also shed thousands of roles as AI-driven restructuring accelerates. In this video, we break down the latest layoffs, explain why AI […]
+The post Tech Layoffs Rise in May–June 2025: 61,000+ Jobs Cut at Microsoft, Intel, Amazon – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -2042,6 +2317,21 @@ The post No More Alert Fatigue – Meet AMBA! | Azure Monitor Baseline Alerts Ex
 The post What’s new in Power Apps: May 2025 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Clay Wesener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Tariffs in Microsoft Dynamics 365 Business Central: Best Practices for Global Trade]]></title>
+        <id>https://erpsoftwareblog.com/?p=129750</id>
+        <link href="https://erpsoftwareblog.com/2025/06/working-with-tariffs-in-microsoft-dynamics-365-business-central-best-practices-for-global-trade/"/>
+        <updated>2025-06-09T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Businesses engaged in international trade face mounting complexity around tariffs and trade regulations. Tariffs—government-imposed duties on imported goods—can drastically affect product pricing, margins, and operational planning. 
+The post Working with Tariffs in Microsoft Dynamics 365 Business Central: Best Practices for Global Trade appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Custom Systems</name>
         </author>
     </entry>
     <entry>
