@@ -2,10 +2,243 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-06-25T01:54:46.765Z</updated>
+    <updated>2025-06-26T01:52:12.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[End of my MVP journey]]></title>
+        <id>https://365community.online/end-of-my-mvp-journey</id>
+        <link href="https://365community.online/end-of-my-mvp-journey"/>
+        <updated>2025-06-25T20:46:00.000Z</updated>
+        <summary type="html"><![CDATA[It is said that all good things must come to an end. I did not apply for renewal [1] for the Microsoft MVP award, and as a result, I will no longer be part of the program as of the end of June 2025. Why am I not applying for renewal? There are many reasons; […]
+The post End of my MVP journey appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group June 2025 Meet Up!]]></title>
+        <id>https://365community.online/welsh-azure-user-group-june-2025-meet-up</id>
+        <link href="https://365community.online/welsh-azure-user-group-june-2025-meet-up"/>
+        <updated>2025-06-25T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG June 2025 meet up and we had yet another two amazing speakers join us. We were joined by another two brilliant community speakers, firstly Wolfgang Ofner joined us to talk ‘From VM’s to Managed DevOps Pools: Navigating Azure DevOps Hosting, then Segnes Schonken came […]
+The post Welsh Azure User Group June 2025 Meet Up! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Form fill Assist Toolbar to streamline data entry in Power Apps]]></title>
+        <id>https://365community.online/using-form-fill-assist-toolbar-to-streamline-data-entry-in-power-apps</id>
+        <link href="https://365community.online/using-form-fill-assist-toolbar-to-streamline-data-entry-in-power-apps"/>
+        <updated>2025-06-25T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We tried the AI Form Filling Assistance feature in model-driven Power Apps and found it very helpful. One part that we liked the most was the toolbar and file (preview). This makes it much easier to fill forms using information from uploaded documents. To enable this feature, go to: Environment → Settings → Features → […]
+The post Using Form fill Assist Toolbar to streamline data entry in Power Apps appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Manage Purchase Order Status in D365 SCM]]></title>
+        <id>https://erpsoftwareblog.com/?p=129936</id>
+        <link href="https://erpsoftwareblog.com/2025/06/how-to-manage-purchase-order-status-in-d365-scm/"/>
+        <updated>2025-06-25T18:32:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Effectively monitoring Purchase Order (PO) status is a crucial component of streamlined procurement within Microsoft Dynamics 365 Supply Chain Management. The platform offers built-in functionality to track each stage of […]
+The post How To Manage Purchase Order Status in D365 SCM appeared first on ERP Software Blog.
+Modernization in Manufacturing: How Smart Maintenance is Driving Business Value
+Your Ultimate Resource Guide for Upgrading from Dynamics AX to D365 Finance and Supply Chain
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WIP vs. PayPoint in SemiOps: Key Differences in Supply Chain and Inventory Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=129925</id>
+        <link href="https://erpsoftwareblog.com/2025/06/wip-vs-paypoint-in-semiops-key-differences-in-supply-chain-and-inventory-management/"/>
+        <updated>2025-06-25T17:42:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In Tensoft SemiOps, WIP (Work in Progress) and PayPoint play a very important role in managing inventory. They might sound similar, but they actually serve very different purposes. We have […]
+The post WIP vs. PayPoint in SemiOps: Key Differences in Supply Chain and Inventory Management appeared first on ERP Software Blog.
+An Overview of Start-ups Life Cycle
+What's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?
+Semiconductor & IoT Industry Start-ups: Solutions for Unique Challenges]]></summary>
+        <author>
+            <name>Kian Maghami, Tensoft Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Poize2 Is Not Your Typical Microsoft Dynamics Partner (And Why That Matters)]]></title>
+        <id>https://erpsoftwareblog.com/?p=129920</id>
+        <link href="https://erpsoftwareblog.com/2025/06/why-poize2-is-not-your-typical-microsoft-dynamics-partner-and-why-that-matters/"/>
+        <updated>2025-06-25T17:22:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+I’m Scott Burkhardt, founder of Poize2 Consulting, a 20-person Microsoft Dynamics practice in Minneapolis. We’re ex-big-partner pros who built a better way. I’ve been in those uncomfortable shoes, fronting a […]
+The post Why Poize2 Is Not Your Typical Microsoft Dynamics Partner (And Why That Matters) appeared first on ERP Software Blog.
+Implementing Quality Management in IT Projects
+Things to Consider when Choosing a Software Reseller
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>Scott Burkhardt, Poize2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated D365FSC User Licensing in 10.44]]></title>
+        <id>https://alexdmeyer.com/?p=3597</id>
+        <link href="https://alexdmeyer.com/2025/06/25/updated-d365fsc-user-licensing-in-10-44/"/>
+        <updated>2025-06-25T16:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has been extremely busy the last few months updating their user licensing functionality as they get ready for enabling license enforcement later this year. Let’s look at some of the updates that appear in the 10.44 release! #1 – SysAdmins ‘Really’ Do Not Require A License I have written about this topic in the […]
+The post Updated D365FSC User Licensing in 10.44 appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated D365FSC User Licensing in 10.44]]></title>
+        <id>https://365community.online/updated-d365fsc-user-licensing-in-10-44</id>
+        <link href="https://365community.online/updated-d365fsc-user-licensing-in-10-44"/>
+        <updated>2025-06-25T16:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has been extremely busy the last few months updating their user licensing functionality as they get ready for enabling license enforcement later this year. Let’s look at some of the updates that appear in the 10.44 release! #1 – SysAdmins ‘Really’ Do Not Require A License I have written about this topic in the […]
+The post Updated D365FSC User Licensing in 10.44 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q&A Webinar Recording – Making the Move – Session 10 – YouTube]]></title>
+        <id>https://365community.online/qa-webinar-recording-making-the-move-session-10-youtube</id>
+        <link href="https://365community.online/qa-webinar-recording-making-the-move-session-10-youtube"/>
+        <updated>2025-06-25T16:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Q&A Webinar Recording – Making the Move – Session 10 💙 This is a recording of an interactive webinar held 4 PM BST on Wednesday 26th June 2025. 💙 Amey Holden and Megan V. Walker answered YOUR questions all about moving from Outbound Marketing to Real-Time Marketing in Customer Insights – Journeys! 💡 We all […]
+The post Q&A Webinar Recording – Making the Move – Session 10 – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI, Incentives and Insights: Why Microsoft Partners Are Heading to Bellevue in July]]></title>
+        <id>https://erpsoftwareblog.com/?p=129904</id>
+        <link href="https://erpsoftwareblog.com/2025/06/bizapps-partner-executive-summit-ai-incentives-and-insights/"/>
+        <updated>2025-06-25T15:51:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+By Jon Martin – PartnerTalks With Microsoft’s fiscal year reset on July 1 and a wave of AI innovation reshaping the business landscape, an upcoming event designed to align Microsoft […]
+The post AI, Incentives and Insights: Why Microsoft Partners Are Heading to Bellevue in July appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Logic Apps: are you handling large blobs? Keep memory usage under control.]]></title>
+        <id>https://365community.online/azure-logic-apps-are-you-handling-large-blobs-keep-memory-usage-under-control</id>
+        <link href="https://365community.online/azure-logic-apps-are-you-handling-large-blobs-keep-memory-usage-under-control"/>
+        <updated>2025-06-25T14:19:00.000Z</updated>
+        <summary type="html"><![CDATA[When working with Dynamics 365 Business Central (and generally speaking on a lot of other serverless projects) it’s quite common to have the need to handle and process blob files (JSON, XML, EDI, CSV, etc.) for integration scenarios. In a modern cloud solution (serverless to the max) this integration requirement is often handled by using […]
+The post Azure Logic Apps: are you handling large blobs? Keep memory usage under control. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Your Operations with a Modern ERP Solution for Growing Businesses]]></title>
+        <id>https://erpsoftwareblog.com/?p=129900</id>
+        <link href="https://erpsoftwareblog.com/2025/06/streamline-your-operations-with-a-modern-erp-solution/"/>
+        <updated>2025-06-25T11:42:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced digital economy, small and medium-sized enterprises (SMEs) face increasing pressure to maintain agility while managing complex operations. From finance and supply chain to customer service and compliance, […]
+The post Streamline Your Operations with a Modern ERP Solution for Growing Businesses appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Arjan de Jong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Your D365FO Reporting Options in One Place: ER/CBD]]></title>
+        <id>https://ax.docentric.com/?p=31539</id>
+        <link href="https://ax.docentric.com/all-your-d365fo-reporting-options-in-one-place-er-cbd/"/>
+        <updated>2025-06-25T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, part of our series All your D365FO Reporting options in one place, we take a closer look at Electronic Reporting (ER) and Configurable Business Documents (CBD) — D365FO feature that allows users to design, customize, and maintain business documents without code changes […]
+The post All Your D365FO Reporting Options in One Place: ER/CBD appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Your D365FO Reporting Options in One Place: SSRS]]></title>
+        <id>https://ax.docentric.com/?p=31029</id>
+        <link href="https://ax.docentric.com/all-your-d365fo-reporting-options-in-one-place-ssrs/"/>
+        <updated>2025-06-25T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Continuing our series All your D365FO Reporting options in one place, in this article we explore SSRS – the default reporting framework in D365FO. SSRS Solution Overview We will start with an overview of SSRS (SQL Server Reporting Services), which is a standard Microsoft solution […]
+The post All Your D365FO Reporting Options in One Place: SSRS appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Generative AI Plugin in Copilot for Improved Customer Service]]></title>
+        <id>https://365community.online/how-to-configure-generative-ai-plugin-in-copilot-for-improved-customer-service</id>
+        <link href="https://365community.online/how-to-configure-generative-ai-plugin-in-copilot-for-improved-customer-service"/>
+        <updated>2025-06-25T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has added new AI features to Dynamics 365 Customer Service to improve customer support. One of the most useful additions is the Customer Service (preview) plugin, which works right away with no setup needed. With this plugin, Copilot can get information straight from your case records and related data. Support agents can just ask […]
+The post How to Configure Generative AI Plugin in Copilot for Improved Customer Service appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Business Central ERP is the Ideal Software for Hospitality Industry?]]></title>
+        <id>https://erpsoftwareblog.com/?p=129874</id>
+        <link href="https://erpsoftwareblog.com/2025/06/why-business-central-erp-is-the-ideal-software-for-hospitality-industry/"/>
+        <updated>2025-06-25T09:35:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Human lifestyles have evolved significantly in recent years, with advancements in transportation playing a major role in the growth of travel and tourism. This is just one of several factors […]
+The post Why Business Central ERP is the Ideal Software for Hospitality Industry? appeared first on ERP Software Blog.
+10 Time Saving Business Central Keyboard Shortcuts You Need Today
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Your D365FO Reporting Options in One Place: Introduction]]></title>
+        <id>https://ax.docentric.com/?p=30904</id>
+        <link href="https://ax.docentric.com/all-your-d365fo-reporting-options-in-one-place-introduction/"/>
+        <updated>2025-06-25T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[In our new video article series, All your D365FO Reporting options in one place, we explore available reporting options in Dynamics 365 for Finance and Operations (D365FO). In this five-part series, we break down the various possibilities you have when it comes to designing, generating, […]
+The post All Your D365FO Reporting Options in One Place: Introduction appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defining Segments To Use With D365 Sales Sequences]]></title>
+        <id>https://365community.online/defining-segments-to-use-with-d365-sales-sequences</id>
+        <link href="https://365community.online/defining-segments-to-use-with-d365-sales-sequences"/>
+        <updated>2025-06-25T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A key part of the set up for using Sales Sequences as part of the Sales Accelerator functionality in Dynamics 365 is making sure your records can fall in to those sequences automatically. Doing this means your new processes and guidance for sellers can be automated without the need to manually add Leads/Contacts etc. in […]
+The post Defining Segments To Use With D365 Sales Sequences appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q&A Webinar Recording – Making the Move – Session 9 – YouTube]]></title>
+        <id>https://365community.online/qa-webinar-recording-making-the-move-session-9-youtube</id>
+        <link href="https://365community.online/qa-webinar-recording-making-the-move-session-9-youtube"/>
+        <updated>2025-06-25T07:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Q&A Webinar Recording – Making the Move – Session 9 💙 This is a recording of an interactive webinar held 7 AM BST on Wednesday 26th June 2025. 💙 Amey Holden and Megan V. Walker answered YOUR questions all about moving from Outbound Marketing to Real-Time Marketing in Customer Insights – Journeys! 💡 We all […]
+The post Q&A Webinar Recording – Making the Move – Session 9 – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rough Migration To Smooth Success: FranNet’s Journey With Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=129855</id>
@@ -92,6 +325,21 @@ The post Connecting ESRI ArcGIS system to Dynamics 365 CRM with Maplytics! appea
 The post Automatically cancel event registrations appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Dynamics 365 Enhances Project Management Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=129868</id>
+        <link href="https://erpsoftwareblog.com/2025/06/how-microsoft-dynamics-365-enhances-project-management-efficiency/"/>
+        <updated>2025-06-24T05:44:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why Efficient Project Management Matters Today?  Do you know several independent studies highlight the substantial gains achieved by organizations deploying Microsoft Dynamics 365 especially within project-oriented environments in terms of ROI […]
+The post How Microsoft Dynamics 365 Enhances Project Management Efficiency appeared first on ERP Software Blog.
+How DynaRent PowerApps can offer great benefits for your customers
+Microsoft Dynamics 365 Business Central Project Management Functionality
+An Early Look at Dynamics 365 - One Platform for ERP, CRM, and Applications]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
         </author>
     </entry>
     <entry>
