@@ -1647,6 +1647,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=129308",
+          "author": "FISPAN",
+          "description": "xxx\nA universal challenge for businesses is managing finances across disconnected systems. Finance teams often find themselves navigating between ERP and banking portals, which can lead to inefficiencies, data silos, and […]\nThe post Embedded ERP Banking: The Future of Finance for Microsoft Dynamics 365 Business Central Users appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/06/the-future-of-finance-for-microsoft-dynamics-365-business-central-users/",
+          "publishedOn": "2025-06-26T23:39:56.000Z",
+          "wordCount": 8416,
+          "title": "Embedded ERP Banking: The Future of Finance for Microsoft Dynamics 365 Business Central Users",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129983",
+          "author": "GP Support North",
+          "description": "xxx\nIn Management Reporter: Exporting reports to Excel is a popular feature, but to get the most value, it's important to select the correct detail levels at the time of report generation. Tips for Getting the Most Out of Management Reporter in Dynamics GP\nThe post Tips for Getting the Most Out of Management Reporter in Dynamics GP appeared first on ERP Software Blog.\nHappy Birthday Dynamics GP - 32 Years Strong!\nMicrosoft Dynamics BI Blog #1 - BI Analysis Cubes Differentiate ERP Analysis\nProfessional Sports Team Data Warehousing with Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2025/06/tips-for-getting-the-most-out-of-management-reporter-in-dynamics-gp/",
+          "publishedOn": "2025-06-26T20:41:48.000Z",
+          "wordCount": 7907,
+          "title": "Tips for Getting the Most Out of Management Reporter in Dynamics GP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Management-Reporter-Thumbnail.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129065",
+          "author": "New View Strategies",
+          "description": "xxx\nWhen you implement Microsoft Dynamics 365 Business Central, one of the features you may overlook—or intentionally delay—is Role Centers. Many companies treat Role Centers as a \"nice-to-have\" and push the […]\nThe post Role Centers - The Business Central Feature You're Probably Ignoring (But Shouldn't) appeared first on ERP Software Blog.\nWhy We Like Microsoft Dynamics 365 Business Central\nNew Demos Are Here for Business Central\nOvercoming Challenges to Integration",
+          "link": "https://erpsoftwareblog.com/2025/06/role-centers-the-business-central-feature-youre-probably-ignoring-but-shouldnt/",
+          "publishedOn": "2025-06-26T18:22:22.000Z",
+          "wordCount": 8635,
+          "title": "Role Centers - The Business Central Feature You're Probably Ignoring (But Shouldn't)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/5-Role-Centers.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129959",
+          "author": "Arjan de Jong",
+          "description": "xxx\nIn today’s digitally-driven marketplace, businesses of all sizes are under pressure to streamline operations, improve customer engagement, and drive intelligent decision-making. Cloud-based enterprise solutions like Microsoft Dynamics 365 have emerged […]\nThe post Empowering Enterprises with Next-Generation Business Solutions appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nMicrosoft Dynamics NAV – 1.3 Million Users Can’t Be Wrong\nA Simple Comparison of the Four Microsoft Dynamics ERP Products",
+          "link": "https://erpsoftwareblog.com/2025/06/empowering-enterprises-with-next-generation-business-solutions/",
+          "publishedOn": "2025-06-26T11:06:41.000Z",
+          "wordCount": 8042,
+          "title": "Empowering Enterprises with Next-Generation Business Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Empowering-Enterprises-with-Next-Gen-Business-Solution.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129876",
+          "author": "On Point Services US LLC",
+          "description": "xxx\n\"We went from chaos to clarity in days, not months. Our project profitability increased 5% in the first six months alone.\" - CFO Do you think your systems are working […]\nThe post Case Study: Every Month: 105 Hours Saved. Every Year: $89K Reclaimed. All from One Integration. appeared first on ERP Software Blog.\nFrom IT Start-Up to Global Player: On Point Expands Across Four Continents\nCustomer Portal for Microsoft Dynamics 365 Business Central\n5 Branches. 4 Months. 1 Smooth Cloud Migration by On Point Services for a Leading AI Company",
+          "link": "https://erpsoftwareblog.com/2025/06/case-study-every-month-105-hours-saved-every-year-89k-reclaimed-all-from-one-integration/",
+          "publishedOn": "2025-06-26T07:00:08.000Z",
+          "wordCount": 8067,
+          "title": "Case Study: Every Month: 105 Hours Saved. Every Year: $89K Reclaimed. All from One Integration.",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2-30-625x352.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=129936",
           "author": "Logan Consulting",
           "description": "xxx\nEffectively monitoring Purchase Order (PO) status is a crucial component of streamlined procurement within Microsoft Dynamics 365 Supply Chain Management. The platform offers built-in functionality to track each stage of […]\nThe post How To Manage Purchase Order Status in D365 SCM appeared first on ERP Software Blog.\nModernization in Manufacturing: How Smart Maintenance is Driving Business Value\nYour Ultimate Resource Guide for Upgrading from Dynamics AX to D365 Finance and Supply Chain\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers",
@@ -26876,6 +26926,76 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/how-to-use-your-own-model-when-generating-responses-in-copilot-studio",
+          "author": "Malla Reddy Gurram",
+          "description": "Hello Everyone, Today i am going to share my thoughts on how to use your own model when generating responses in copilot studio. Let’s get’s started. In Copilot Studio, you can enhance AI behavior and responses by integrating your own custom model instead of relying on the default GPT based assistant. This is particularly useful […]\nThe post {How to} Use your own model when generating responses in copilot studio. appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-use-your-own-model-when-generating-responses-in-copilot-studio",
+          "publishedOn": "2025-06-26T20:42:00.000Z",
+          "wordCount": 2596,
+          "title": "{How to} Use your own model when generating responses in copilot studio.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/1750985708_How20to20enable20optimizing20ranking20in20Dynamics2036520Sales20for20insight20cards20-2.png"
+        },
+        {
+          "id": "https://365community.online/how-to-combine-json-arrays-using-compose-in-power-automate-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we demonstrate how to combine array values using the Compose action in Power Automate. You’ll learn to build the flow, apply expressions, and test the results step by step. This video consists of: 00:00-00:09 -Introduction 00:10-00:20 – In this Video 00:21-2:42 – Creating the Flow 2:43-3:32 – Saving and Testing 3:33-3:40 – […]\nThe post How to Combine JSON Arrays using Compose in Power Automate – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-combine-json-arrays-using-compose-in-power-automate-youtube",
+          "publishedOn": "2025-06-26T13:31:15.000Z",
+          "wordCount": 2409,
+          "title": "How to Combine JSON Arrays using Compose in Power Automate – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/maplytics-integrates-maps-seamlessly-with-power-pages-portals",
+          "author": "Inogic",
+          "description": "Today’s customers expect seamless, intelligent experiences, whether they’re looking for a nearby store, registering for a service, or planning a volunteer activity. Businesses and nonprofits using Microsoft Dynamics 365 frequently utilize Maplytics within their CRM for effective workflow operations. But what if the power of Maplytics could go beyond internal systems? With Maplytics’ PowerApps Component […]\nThe post Maplytics Integrates Maps Seamlessly with Power Pages Portals! appeared first on 365 Community Online.",
+          "link": "https://365community.online/maplytics-integrates-maps-seamlessly-with-power-pages-portals",
+          "publishedOn": "2025-06-26T12:29:00.000Z",
+          "wordCount": 3420,
+          "title": "Maplytics Integrates Maps Seamlessly with Power Pages Portals!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/Maplytics-integrates-Maps-seamlessly-with-Power-Pages-portals.png"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-crm-field-merge-a-smarter-way-to-manage-duplicate-data",
+          "author": "Inogic",
+          "description": "Merging duplicate records in your CRM can feel like a trade-off: either keep one version and lose the rest, or manually copy-paste critical data field by field. Notes get overwritten, preferences disappear, and numeric totals get misreported. If you’ve ever tried to detect and merge duplicate Dynamics CRM records manually, you know how time-consuming and […]\nThe post Dynamics 365 CRM Field Merge: A Smarter Way to Manage Duplicate Data! appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamics-365-crm-field-merge-a-smarter-way-to-manage-duplicate-data",
+          "publishedOn": "2025-06-26T09:45:00.000Z",
+          "wordCount": 3086,
+          "title": "Dynamics 365 CRM Field Merge: A Smarter Way to Manage Duplicate Data!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/Manage-Duplicate-Data.png"
+        },
+        {
+          "id": "https://365community.online/how-to-make-a-favicon-for-your-website-and-why-you-should",
+          "author": "Belinda Allen",
+          "description": "When you’re sifting through a sea of open tabs, how do you quickly find the one you need? I bet it’s by using favicons — the small icon that appears next to a site’s title in your browser tab. Short for “favorite icons,” favicons don’t just appear in browser tabs; you’ll also find them next […]\nThe post How to Make a Favicon for Your Website (And Why You Should) appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-make-a-favicon-for-your-website-and-why-you-should",
+          "publishedOn": "2025-06-26T08:00:00.000Z",
+          "wordCount": 3795,
+          "title": "How to Make a Favicon for Your Website (And Why You Should)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/06/How-to-Make-a-Favicon-for-Your-Website-And-Why.jpg"
+        },
+        {
+          "id": "https://365community.online/avoid-duplicate-records-in-dynamics-365-using-alternate-keys-quick-tutorial-youtube",
+          "author": "Manish chauhan",
+          "description": "Tired of duplicate entries in Dynamics 365? In this quick video, you’ll learn how to use Alternate Keys to prevent duplicate records and keep your data accurate. Simple steps, easy to follow. This video consists of: ￼00:00-00:18 Introduction 00:19-1:42 Create a Key 1:43-3:02 Demo #microsoftdynamics365 #fieldservice #incidentmanagement #dynamics365tutorial #microsoftcrm #customerservice #servicemanagement #businesssolutions #Dynamics365FieldService #msdynamics365 #incident […]\nThe post Avoid Duplicate Records in Dynamics 365 Using Alternate Keys | Quick Tutorial – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/avoid-duplicate-records-in-dynamics-365-using-alternate-keys-quick-tutorial-youtube",
+          "publishedOn": "2025-06-26T05:00:08.000Z",
+          "wordCount": 2408,
+          "title": "Avoid Duplicate Records in Dynamics 365 Using Alternate Keys | Quick Tutorial – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/3-dicas-que-vao-fazer-o-seu-linkedin-bombar-de-ofertas-de-emprego-linkedin-emprego-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "source\nThe post 3 dicas que vão fazer o seu LinkedIn bombar de ofertas de emprego #linkedin #emprego – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/3-dicas-que-vao-fazer-o-seu-linkedin-bombar-de-ofertas-de-emprego-linkedin-emprego-youtube",
+          "publishedOn": "2025-06-26T00:11:22.000Z",
+          "wordCount": 2370,
+          "title": "3 dicas que vão fazer o seu LinkedIn bombar de ofertas de emprego #linkedin #emprego – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/end-of-my-mvp-journey",
           "author": "Jen Kuntz",
           "description": "It is said that all good things must come to an end. I did not apply for renewal [1] for the Microsoft MVP award, and as a result, I will no longer be part of the program as of the end of June 2025. Why am I not applying for renewal? There are many reasons; […]\nThe post End of my MVP journey appeared first on 365 Community Online.",
@@ -26894,6 +27014,16 @@
           "wordCount": 2350,
           "title": "Welsh Azure User Group June 2025 Meet Up!",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/06/Welsh-Azure-User-Group-June-2025-Meet-Up.jpg"
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-june-2025-event-youtube",
+          "author": "John Lunn",
+          "description": "Welsh Azure User Group – June 2025 Event 🎉 Welcome to the June edition of the Welsh Azure User Group! 🎉 Join us for an exciting and informative session where we dive deep into the world of Azure DevOps and practical data strategies for AI. This event features two fantastic sessions that you won’t want […]\nThe post Welsh Azure User Group – June 2025 Event – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/welsh-azure-user-group-june-2025-event-youtube",
+          "publishedOn": "2025-06-25T19:33:44.000Z",
+          "wordCount": 2792,
+          "title": "Welsh Azure User Group – June 2025 Event – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
           "id": "https://365community.online/using-form-fill-assist-toolbar-to-streamline-data-entry-in-power-apps",
@@ -58194,6 +58324,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=7405",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/06/26/microsoft-bizapps-deutschland-podcast-56/",
+          "publishedOn": "2025-06-26T04:19:44.000Z",
+          "wordCount": 3516,
+          "title": "Microsoft BizApps Deutschland Podcast #56",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.wordpress.com/wp-content/uploads/2025/04/2025-03-06_dbsystemlrev3.mp3",
+            "length": "38162300",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2025/04/collagefinal.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=7652",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -67566,16 +67711,6 @@
           "wordCount": 2562,
           "title": "Picking list journal: Inventory dimension Location must be specified",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/08/LocationMustBeSpecified.png"
-        },
-        {
-          "id": "https://erconsult.eu/?p=7709",
-          "author": "Eugen Glasow",
-          "description": "Low value parts such as bolts, screws, gaskets, clamps, and other fasteners, as well as small electric parts, are rarely retrieved from the main warehouse in the precise quantities by production order. Instead, they are stored in surplus at the workbenches, typically organized in boxes of various sizes. The usage of […]\nThe post Consumable “Kanban” parts in D365 Warehouse management appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/consumable-kanban-parts-in-d365-warehouse-management/",
-          "publishedOn": "2023-06-28T10:32:13.000Z",
-          "wordCount": 2547,
-          "title": "Consumable “Kanban” parts in D365 Warehouse management",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/06/Small_consumable_items.png"
         }
       ]
     },
