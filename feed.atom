@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-06-30T01:57:53.530Z</updated>
+    <updated>2025-07-01T02:04:05.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recurrence Export of Trial Balance]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3841</id>
+        <link href="https://anithasantosh.wordpress.com/2025/06/30/recurrence-export-of-trial-balance/"/>
+        <updated>2025-06-30T20:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Exporting the TB monthly and also having a snapshot of the earlier data helps in analysing and generating the report. I had one such requirement where the TB should be exported for each month and sent to another system. In … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Insight to Impact: The Strategic Power of Discovery]]></title>
+        <id>https://erpsoftwareblog.com/?p=130089</id>
+        <link href="https://erpsoftwareblog.com/2025/06/from-insight-to-impact-the-strategic-power-of-discovery/"/>
+        <updated>2025-06-30T17:42:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Digital transformation isn't just about implementing new software, it's about enabling meaningful, strategic change within an organization. At the heart of any successful digital transformation, you’ll find that a robust […]
+The post From Insight to Impact: The Strategic Power of Discovery appeared first on ERP Software Blog.
+Why You Need Digital Transformation Now More Than Ever
+NAV to Business Central: Should you upgrade or re-implement your solution?
+How to Prevent Scope Creep In Your Next ERP Project]]></summary>
+        <author>
+            <name>Kwixand Solutions Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Holiday Weekend Scam Taught One Microsoft Dynamics ERP User About ACH Fraud]]></title>
+        <id>https://erpsoftwareblog.com/?p=130088</id>
+        <link href="https://erpsoftwareblog.com/2025/06/what-a-holiday-weekend-scam-taught-one-microsoft-dynamics-erp-user-about-ach-fraud/"/>
+        <updated>2025-06-30T17:34:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A payment process that looked “automated enough” turned into a $50 million logistics company’s worst nightmare. They were using Microsoft Dynamics ERP and a bill pay provider to manage payments. […]
+The post What a Holiday Weekend Scam Taught One Microsoft Dynamics ERP User About ACH Fraud appeared first on ERP Software Blog.
+Solving Multi-Facility Production Challenges in Microsoft Dynamics 365 with Vicinity Software
+Insider Advice to Evaluate AP Automation Options for Dynamics 365
+Questions to Ask When Evaluating AP Automation for Dynamics 365]]></summary>
+        <author>
+            <name>Anya Ciecierski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Holistic Approach to ERP Implementations]]></title>
+        <id>https://erpsoftwareblog.com/?p=130071</id>
+        <link href="https://erpsoftwareblog.com/2025/06/a-holistic-approach-to-erp-implementations/"/>
+        <updated>2025-06-30T12:32:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why Volt Technologies Is the Right ERP Implementation Partner for Your Business Choosing the right ERP implementation partner is as critical as selecting the ERP software itself. Even the most […]
+The post A Holistic Approach to ERP Implementations appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central ERP for Rapidly Growing Startups: 3-Year Roadmap for CFOs]]></title>
+        <id>https://erpsoftwareblog.com/?p=130063</id>
+        <link href="https://erpsoftwareblog.com/2025/06/business-central-erp-for-rapidly-growing-startups-3-year-roadmap-for-cfos/"/>
+        <updated>2025-06-30T10:51:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Startups don’t stay small for long. At least, the successful ones don’t. In the early days, spreadsheets, email chains, and basic accounting tools may be enough for smooth operations. But […]
+The post Business Central ERP for Rapidly Growing Startups: 3-Year Roadmap for CFOs appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing with Business Central: Executing Subcontracting in Production Orders]]></title>
+        <id>https://erpsoftwareblog.com/?p=128987</id>
+        <link href="https://erpsoftwareblog.com/2025/06/mastering-manufacturing-with-business-central-executing-subcontracting-in-production-orders/"/>
+        <updated>2025-06-30T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You’ve defined your routing. You’ve assigned the vendor. Now it’s time to put subcontracting into action. In this third installment of the Mastering Manufacturing with Business Central: Subcontracting blog series, […]
+The post Mastering Manufacturing with Business Central: Executing Subcontracting in Production Orders appeared first on ERP Software Blog.
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Create A New Item In Dynamics 365 Business Central
+Microsoft Dynamics ERP for Distribution/Manufacturing Industry]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: Top 7 D365FO Reporting Challenges You Can Solve Only with Docentric]]></title>
+        <id>https://ax.docentric.com/?p=31664</id>
+        <link href="https://ax.docentric.com/dynamicsminds-2025-top-7-d365fo-reporting-challenges-you-can-solve-only-with-docentric/"/>
+        <updated>2025-06-30T08:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Visit this showcase to see some of the most wanted D365FO reporting improvements in action. Design your reports using MS Word-based Docentric template designer with Electronic Reporting configurations as datasources. Electronically sign and email them with additional attachments, distribute them to SharePoint with dynamically populated […]
+The post DynamicsMinds 2025: Top 7 D365FO Reporting Challenges You Can Solve Only with Docentric appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP vs. Business Central in 2025 - What Microsoft Isn’t Telling You (But We Will)]]></title>
+        <id>https://erpsoftwareblog.com/?p=129846</id>
+        <link href="https://erpsoftwareblog.com/2025/06/gp-vs-business-central-in-2025-what-microsoft-isnt-telling-you-but-we-will/"/>
+        <updated>2025-06-30T03:36:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  TL;DR: If you're still on Dynamics GP, you're missing more than just updates—you're missing the future. This blog exposes what Microsoft marketing often leaves out, breaks down the key […]
+The post GP vs. Business Central in 2025 - What Microsoft Isn’t Telling You (But We Will) appeared first on ERP Software Blog.
+Eliminate Vendor Chaos - How Microsoft Simplifies Business Technology
+The Crestwood Story: Celebrating 20 Years and Growing Strong
+Better Together - Explore the Microsoft Intelligent Edge with Dynamics GP 2018R2 and Business Central!]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 3 Power Automate Templates for HR (that actually do something)]]></title>
         <id>https://365community.online/top-3-power-automate-templates-for-hr-that-actually-do-something</id>
@@ -685,6 +796,17 @@ The post Favorite your Actions and Connectors for quick retrieval in Cloud Flows
         <summary type="html"><![CDATA[Discover the best ways to integrate Microsoft Dynamics 365 Customer Engagement (CE) and Finance & Operations (F&O), with a deep dive into Dual-Write, Dataverse, APIs, Power Platform, and more.]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance TAS reports and emails in D365FO with Docentric]]></title>
+        <id>https://ax.docentric.com/?p=31619</id>
+        <link href="https://ax.docentric.com/enhance-tas-reports-emails-d365fo-docentric/"/>
+        <updated>2025-06-24T13:04:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we show how to use Docentric AX to customize reports even from third-parties like SKsoft’s Treasury Automation Suite (TAS). SKsoft’s TAS helps you automate bank connectivity, cash management, and payment workflows, giving straight-through processing and real-time visibility across banks and formats. Customizing […]
+The post Enhance TAS reports and emails in D365FO with Docentric appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
         </author>
     </entry>
     <entry>
@@ -5925,6 +6047,17 @@ The post Role-Based Access Control for Document Security in Dynamics 365 CRM! ap
 The post GitHub Copilot Coding Agent helps you stay strong on the bike… appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2025: Meet D365FO Free Community Tools]]></title>
+        <id>https://ax.docentric.com/?p=31671</id>
+        <link href="https://ax.docentric.com/dynamicsminds-2025-meet-d365fo-free-community-tools/"/>
+        <updated>2025-05-20T08:59:16.000Z</updated>
+        <summary type="html"><![CDATA[In this session, we will do an overview of FREE community tools designed to empower and boost the productivity of D365FO professionals and users. Some tools can be used directly within the D365FO client, others operate outside of it, and several are accessible right from […]
+The post DynamicsMinds 2025: Meet D365FO Free Community Tools appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
         </author>
     </entry>
     <entry>
