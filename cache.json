@@ -4,18 +4,7 @@
       "title": "All Posts - Dynamics 365 Finance & Operations | nuxulu.com",
       "feedUrl": "https://nuxulu.com/posts/index.xml",
       "siteUrl": "https://dynamics365.github.io/posts/",
-      "articles": [
-        {
-          "id": "https://dynamics365.github.io/2023-07-04-microsoft-dynamics-365-commerce-component-overview/",
-          "author": "Max Nguyen",
-          "description": "Microsoft Dynamics 365 Commerce - Component Overview\n\">\n        \n    Microsoft Dynamics 365 Commerce - Component Overview",
-          "link": "https://dynamics365.github.io/2023-07-04-microsoft-dynamics-365-commerce-component-overview/",
-          "publishedOn": "2023-07-04T00:00:00.000Z",
-          "wordCount": 132,
-          "title": "Microsoft Dynamics 365 Commerce - Component Overview",
-          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Automaly Blog",
@@ -1647,6 +1636,86 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=127395",
+          "author": "Alta Vista Technology",
+          "description": "xxx\nBook a free intro call to learn how Alta Vista can help using the Business Central Wave 2 Release to streamline your distribution company. What You Need To Know About […]\nThe post Microsoft Dynamics Business Central Wave 2 Release Features appeared first on ERP Software Blog.\nImportant Business Management Lessons I Learned from Rally Car Racing\nMicrosoft Copilot: The Future of AI Workspaces Is Here\nAre You Ready for Microsoft Dynamics 365 Implementation?",
+          "link": "https://erpsoftwareblog.com/2025/07/microsoft-dynamics-business-central-wave-2-release-features/",
+          "publishedOn": "2025-07-02T20:22:37.000Z",
+          "wordCount": 7860,
+          "title": "Microsoft Dynamics Business Central Wave 2 Release Features",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-May-6-2025-02_17_45-AM-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130293",
+          "author": "Ternpoint Solutions",
+          "description": "xxx\nWe are often asked to look into entries that were posted on an unexpected date, usually related to an inventory related transaction. Or a user may reach out to you […]\nThe post Using Posting Date Ranges and Inventory Periods appeared first on ERP Software Blog.\nHow Much Cash is Locked in Your Warehouse?\nERP SHERPA Program Provides a Self-Implementation Option for Dynamics 365 Business Central\nThe Must-Have Business Central App for those with Inventory",
+          "link": "https://erpsoftwareblog.com/2025/07/using-posting-date-ranges-and-inventory-periods/",
+          "publishedOn": "2025-07-02T19:56:48.000Z",
+          "wordCount": 7843,
+          "title": "Using Posting Date Ranges and Inventory Periods",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130271",
+          "author": "Insight Works",
+          "description": "xxx\nImprove Warehouse Accuracy with Barcode Scanning in Business Central using Warehouse Insight for real-time, error-free inventory control.\nThe post How to Improve Warehouse Accuracy with Barcode Scanning in Business Central appeared first on ERP Software Blog.\nOptimize Order Fulfillment in Business Central\nImport Data into Business Central with Free Import Export PowerTool\nThe Secret to Effortless Data Migration in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/07/how-to-improve-warehouse-accuracy-with-barcode-scanning-in-business-central/",
+          "publishedOn": "2025-07-02T17:51:59.000Z",
+          "wordCount": 7963,
+          "title": "How to Improve Warehouse Accuracy with Barcode Scanning in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/New-WHI-Blo-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130267",
+          "author": "Express Info",
+          "description": "xxx\nIntroduction: Time for a Change Nonprofit finance leaders today face a rapidly changing landscape. Increased oversight, tighter competition for funding, and ever-evolving compliance requirements mean that the accounting software you […]\nThe post Why Nonprofit CFOs and Controllers Are Switching from Microsoft Dynamics GP to Sage Intacct appeared first on ERP Software Blog.\nBusiness intelligence - its contagious!\nFour Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1\nBetter Information = Stronger Company in Tough Economy",
+          "link": "https://erpsoftwareblog.com/2025/07/why-nonprofit-cfos-and-controllers-are-switching-from-microsoft-dynamics-gp-to-sage-intacct/",
+          "publishedOn": "2025-07-02T16:02:56.000Z",
+          "wordCount": 8367,
+          "title": "Why Nonprofit CFOs and Controllers Are Switching from Microsoft Dynamics GP to Sage Intacct",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130243",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "xxx\nHow Microsoft Business Central Manages Fixed Assets.  Microsoft Dynamic s 365 Business Central is a business management solution for small and mid-sized organizations that automate and streamlines business processes and […]\nThe post How Microsoft Business Central Manages Fixed Assets appeared first on ERP Software Blog.\nFinancial Management Benefits of Transition off Legacy ERP Systems\nGetting to Know Microsoft Dynamics NAV for Better Financial Management\nFinancial Management ERP Functionality in NAV's Extended Pack",
+          "link": "https://erpsoftwareblog.com/2025/07/how-microsoft-business-central-manages-fixed-assets/",
+          "publishedOn": "2025-07-02T15:51:24.000Z",
+          "wordCount": 8035,
+          "title": "How Microsoft Business Central Manages Fixed Assets",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130204",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nSelling on Amazon provides access to a massive marketplace, but managing orders, inventory, and customer data without ERP integration can be a logistical nightmare. When systems remain disconnected, businesses suffer […]\nThe post Why You Should Connect Amazon Seller Central with Microsoft Dynamics 365 ERP appeared first on ERP Software Blog.\n3 Tips for Transforming Item Data in Microsoft Dynamics to Meet Amazon Requirements\nThe Benefits of Single-Stack E-Commerce for Dynamics ERPs\nHow DynaRent for Dynamics 365 Operations can erase 3 top complaints from car rental customers",
+          "link": "https://erpsoftwareblog.com/2025/07/why-you-should-connect-amazon-seller-central-with-microsoft-dynamics-365-erp/",
+          "publishedOn": "2025-07-02T12:14:30.000Z",
+          "wordCount": 7989,
+          "title": "Why You Should Connect Amazon Seller Central with Microsoft Dynamics 365 ERP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Why-You-Should-Connect-Amazon-Seller-Central-with-Microsoft-Dynamics-365-ERP-625x352.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130205",
+          "author": "Delinea Team",
+          "description": "xxx\nNew technologies and deployment options have companies rethinking their old, on-premises ERP—Enterprise Resource Planning—systems. In fact, according to g2.com, nearly 50% of companies are planning to or are already going through an ERP […]\nThe post Include security and compliance from the start of ERP implementations appeared first on ERP Software Blog.\nWhat Is SoD and Why Is It So Important?\nWith Microsoft Dynamics GP, you really can have it all! Here's how...\nPort of Long Beach, California Selects Dynamics ERP to Improve Customer Service and increase efficiency",
+          "link": "https://erpsoftwareblog.com/2025/07/security-and-compliance/",
+          "publishedOn": "2025-07-02T10:11:08.000Z",
+          "wordCount": 7570,
+          "title": "Include security and compliance from the start of ERP implementations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129885",
+          "author": "On Point Services US LLC",
+          "description": "xxx\nProject managers face the monthly struggle of reconciling data between Jira, Tempo, and Business Central. Without unified data management, organizations battle duplicate records, inconsistent information, and time-consuming manual processes that […]\nThe post The Best Solution to Sync Jira, Tempo & Business Central Without Duplicate Records appeared first on ERP Software Blog.\nCase Study: Every Month: 105 Hours Saved. Every Year: $89K Reclaimed. All from One Integration.\nHow to Implement a Cloud-Based Payroll System\n6 Myths About Digital Solutions",
+          "link": "https://erpsoftwareblog.com/2025/07/the-best-solution-to-sync-jira-tempo-business-central-without-duplicate-records/",
+          "publishedOn": "2025-07-02T07:00:46.000Z",
+          "wordCount": 8122,
+          "title": "The Best Solution to Sync Jira, Tempo & Business Central Without Duplicate Records",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/The-Best-Solution-to-Sync-Jira-Tempo-Business-Central-Without-Duplicate-Records.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=129905",
           "author": "Bobby Williams",
           "description": "xxx\nPower Automate is great for simple tasks, \"when email arrives, post to Teams.\" But once your workflow spans multiple systems, APIs, files, and data transformations, it quickly becomes slow, fragile, […]\nThe post Is There a Power Automate Alternative That Is Fast and Can Solve Problems That Are More Complex Than 2-3 Step Solutions ? appeared first on ERP Software Blog.\nWhy Pharmaceutical Manufacturing Businesses need ERP Software?\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks",
@@ -1725,6 +1794,16 @@
           "wordCount": 7871,
           "title": "Integrating POS Systems with Microsoft Dynamics 365 Business Central: Streamline Your Retail Operations",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Create-a-Banner-Inte-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129964",
+          "author": "Arjan de Jong",
+          "description": "xxx\nIn an era defined by agility, data, and customer-centricity, traditional enterprise systems are no longer sufficient to meet the dynamic demands of modern business. Companies are searching for integrated platforms […]\nThe post Driving Financial Precision and Operational Excellence in the Cloud Era appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/07/driving-financial-precision-and-operational-excellence-in-the-cloud-era/",
+          "publishedOn": "2025-07-01T11:36:28.000Z",
+          "wordCount": 8169,
+          "title": "Driving Financial Precision and Operational Excellence in the Cloud Era",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Driving-Financial-Precision-and-Operational-Excellence.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=130089",
@@ -1817,6 +1896,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=130235",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nIn 2025, retail is moving faster than ever—and so should your ERP. Multi-brand retail chains are undergoing rapid digital transformation, and at the heart of this shift lies one critical […]\nThe post Why Dynamics 365 Is Replacing Legacy ERP in Multi-Brand Retail Chains in 2025? appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/06/why-dynamics-365-is-replacing-legacy-erp-in-multi-brand-retail-chains-in-2025/",
+          "publishedOn": "2025-06-27T11:54:08.000Z",
+          "wordCount": 8308,
+          "title": "Why Dynamics 365 Is Replacing Legacy ERP in Multi-Brand Retail Chains in 2025?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Legacy-ERP-in-Multi-Brand-Retail-Chains-625x417.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=129958",
           "author": "Intech Systems",
           "description": "xxx\nIntroduction The manufacturing industry is experiencing a transformative shift. And adapting to digital transformation is now no longer an upgrade for manufacturing SMBs, it has absolutely become an urgent business-imperative […]\nThe post The Competitive Advantage of Using Business Central in Manufacturing appeared first on ERP Software Blog.\nImportance of ERP Software in Manufacturing Industries\nHow a Pharmaceutical ERP helps to maintain Stiff Quality Control?\nHow advanced manufacturing ERP Benefits modern Businesses?",
@@ -1875,6 +1964,16 @@
           "wordCount": 8067,
           "title": "Case Study: Every Month: 105 Hours Saved. Every Year: $89K Reclaimed. All from One Integration.",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2-30-625x352.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=129809",
+          "author": "Alta Vista Technology",
+          "description": "xxx\n 365 Business Central + Copilot to Grow Construction Profits Let’s be honest: construction budgets are like houseplants. If you ignore them for too long or assume they’ll thrive on vibes […]\nThe post How Construction Companies Use Dynamics 365 BC & Copilot to Control Costs appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/06/dynamics-365-business-central-copilot-construction/",
+          "publishedOn": "2025-06-25T20:17:53.000Z",
+          "wordCount": 7867,
+          "title": "How Construction Companies Use Dynamics 365 BC & Copilot to Control Costs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Construction-ERP-625x417.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=129936",
