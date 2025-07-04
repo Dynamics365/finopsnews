@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-03T01:53:13.833Z</updated>
+    <updated>2025-07-04T01:52:52.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Customer Portals: The Power Pages and Dual Write Architecture]]></title>
+        <id>https://erpsoftwareblog.com/?p=130317</id>
+        <link href="https://erpsoftwareblog.com/2025/07/microsoft-power-pages-and-dual-write/"/>
+        <updated>2025-07-03T16:05:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Building a customer portal that actually works with D365 F&SCM isn't just about choosing the right technology—it's about implementing a solution that delivers immediate business value while avoiding common pitfalls. […]
+The post Building Customer Portals: The Power Pages and Dual Write Architecture appeared first on ERP Software Blog.
+Hassle Free Upgrades with Dynamics GP Resellers!
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salesforce Dynamics 365 Integration for Lead Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=130256</id>
+        <link href="https://erpsoftwareblog.com/2025/07/salesforce-dynamics-365-integration-for-lead-management/"/>
+        <updated>2025-07-03T10:35:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Salesforce Dynamics 365 Integration for Lead Management Managing leads across disconnected systems often creates inefficiencies and errors. When sales and marketing teams rely on both Salesforce and Microsoft Dynamics 365 […]
+The post Salesforce Dynamics 365 Integration for Lead Management appeared first on ERP Software Blog.
+“Best of Breed” – Why Include Third Party (ISV) Products with Microsoft Dynamics GP?
+Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective
+Taking on "Green" Accounting Practices with Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Costs of Warehouse Inefficiencies in Business Central—And How to Fix Them]]></title>
+        <id>https://erpsoftwareblog.com/?p=130284</id>
+        <link href="https://erpsoftwareblog.com/2025/07/the-hidden-costs-of-warehouse-inefficiencies-in-business-central-and-how-to-fix-them/"/>
+        <updated>2025-07-03T09:14:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Uncover the Hidden Costs of Warehouse Inefficiencies in Business Central—and how Warehouse Insight helps eliminate them fast.
+The post The Hidden Costs of Warehouse Inefficiencies in Business Central—And How to Fix Them appeared first on ERP Software Blog.
+Optimize Order Fulfillment in Business Central
+Import Data into Business Central with Free Import Export PowerTool
+The Secret to Effortless Data Migration in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics Business Central Wave 2 Release Features]]></title>
         <id>https://erpsoftwareblog.com/?p=127395</id>
