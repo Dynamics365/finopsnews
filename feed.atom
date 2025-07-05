@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-04T01:52:52.710Z</updated>
+    <updated>2025-07-05T01:48:44.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HR Prompts so good, you’ll think you’ve been replaced]]></title>
+        <id>https://365community.online/hr-prompts-so-good-youll-think-youve-been-replaced</id>
+        <link href="https://365community.online/hr-prompts-so-good-youll-think-youve-been-replaced"/>
+        <updated>2025-07-04T21:13:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever spent 45 minutes rewriting the same onboarding email, manually digging up salary benchmarks for a job post that still… Original Post https://www.anainesurrutia.com/post/hr-prompts-so-good-you-ll-think-you-ve-been-replaced
+The post HR Prompts so good, you’ll think you’ve been replaced appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducción a ACP: Agent Communication Protocol]]></title>
+        <id>https://365community.online/introduccion-a-acp-agent-communication-protocol</id>
+        <link href="https://365community.online/introduccion-a-acp-agent-communication-protocol"/>
+        <updated>2025-07-04T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Permitir que cualquier agente pueda «hablar» con otro agente La nueva era de los agentes de IA no se construye solo con modelos y herramientas, sino con algo mucho más simple pero igual de poderoso: protocolos. Y entre ellos, el Agent Communication Protocol (ACP) se perfila como el nuevo lenguaje común que permite a los […]
+The post Introducción a ACP: Agent Communication Protocol appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-820 exam experience]]></title>
+        <id>https://365community.online/mb-820-exam-experience</id>
+        <link href="https://365community.online/mb-820-exam-experience"/>
+        <updated>2025-07-04T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past twenty plus years, I have passed almost 100 Microsoft certification exams, a target that I want to reach. I have however run out of exams to take in my field, so I look for exams that I have some related experience and last month I passed the DP-300 exam, Administering Microsoft Azure […]
+The post MB-820 exam experience appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calling Business Central APIs Without a Client Secret]]></title>
+        <id>https://365community.online/calling-business-central-apis-without-a-client-secret</id>
+        <link href="https://365community.online/calling-business-central-apis-without-a-client-secret"/>
+        <updated>2025-07-04T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Intro We’re doing more with Azure resources. I expect that you are too. Especially Static Web Apps and Azure Functions that we need to be able to call back into the Business Central and Dataverse APIs. To authenticate with Business Central we would typically: create an app registration in Azure add Business Central APIs permissions […]
+The post Calling Business Central APIs Without a Client Secret appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>James Pearson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming Business Operations with Strategic Technology Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=130339</id>
+        <link href="https://erpsoftwareblog.com/2025/07/transforming-business-operations-with-strategic-technology-integration/"/>
+        <updated>2025-07-04T11:28:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the rapidly evolving digital landscape, organizations are under constant pressure to enhance efficiency, reduce costs, and deliver superior customer experiences. Traditional software systems, often fragmented and outdated, can no […]
+The post Transforming Business Operations with Strategic Technology Integration appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Arjan de Jong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central Gets Warehouse Insight v2.14 Upgrade]]></title>
+        <id>https://erpsoftwareblog.com/?p=130299</id>
+        <link href="https://erpsoftwareblog.com/2025/07/dynamics-365-business-central-gets-warehouse-insight-v2-14-upgrade/"/>
+        <updated>2025-07-04T10:57:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Discover what's new in Warehouse Insight v2.14 for Business Central, including enhanced barcode parsing, configuration options, and mobile workflow upgrades.
+The post Dynamics 365 Business Central Gets Warehouse Insight v2.14 Upgrade appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Customer Portals: The Power Pages and Dual Write Architecture]]></title>
         <id>https://erpsoftwareblog.com/?p=130317</id>
@@ -22,6 +96,76 @@ Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azure Arc Resource Bridge Tricks and Tips! – YouTube]]></title>
+        <id>https://365community.online/azure-arc-resource-bridge-tricks-and-tips-youtube</id>
+        <link href="https://365community.online/azure-arc-resource-bridge-tricks-and-tips-youtube"/>
+        <updated>2025-07-03T15:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Episode 5 of the #azurearc #youtube series starts the resource bridge topic and why it is so important. In part 1 of this topic, #microsoftmvp Shabaz Darr takes a deep dive into both system and network requirements of the Azure Arc Resource Bridge and pre-requisites you need to know before implementing this vital Arc resource. […]
+The post Azure Arc Resource Bridge Tricks and Tips! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 training and certification changes]]></title>
+        <id>https://365community.online/dynamics-365-training-and-certification-changes</id>
+        <link href="https://365community.online/dynamics-365-training-and-certification-changes"/>
+        <updated>2025-07-03T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[I had meant to post about these changes at the time but decided to wait to see how it all worked out. Last year, in November 2024, Microsoft retired the Dynamics 365 Sales and Dynamics 365 Customer Insights certifications Evolving Microsoft Credentials for Dynamics 365 | Microsoft Community Hub. The replacement was a new combined […]
+The post Dynamics 365 training and certification changes appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub certifications on Microsoft Learn]]></title>
+        <id>https://365community.online/github-certifications-on-microsoft-learn</id>
+        <link href="https://365community.online/github-certifications-on-microsoft-learn"/>
+        <updated>2025-07-03T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub certifications are now available from Microsoft Learn. There are five certifications: GH-900 GitHub Foundations GH-100 GitHub Administration GH-200 GitHub Actions GH-300 GitHub Copilot GH-500 GitHub Advanced Security There are also two applied skills got GitHub: Accelerate app development by using GitHub Copilot Automate Azure Load Testing by using GitHub Actions I am planning on […]
+The post GitHub certifications on Microsoft Learn appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best tool to Clean Dynamics 365 CRM duplicate data – No Outsourcing Needed!]]></title>
+        <id>https://365community.online/best-tool-to-clean-dynamics-365-crm-duplicate-data-no-outsourcing-needed</id>
+        <link href="https://365community.online/best-tool-to-clean-dynamics-365-crm-duplicate-data-no-outsourcing-needed"/>
+        <updated>2025-07-03T11:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Cleaning CRM data is essential; without it, slow CRM speed, reporting misleads, and customer engagement stalls. Businesses often struggle to identify duplicate Dynamics 365 records, especially when dealing with large volumes of inconsistent or outdated data. Keeping that data clean isn’t always easy. Many businesses still rely on outsourcing CRM data cleanup to BPOs, hoping […]
+The post Best tool to Clean Dynamics 365 CRM duplicate data – No Outsourcing Needed! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Dynamics 365 & Power Platform Community in Your Area]]></title>
+        <id>https://365community.online/how-to-build-a-dynamics-365-power-platform-community-in-your-area</id>
+        <link href="https://365community.online/how-to-build-a-dynamics-365-power-platform-community-in-your-area"/>
+        <updated>2025-07-03T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a Microsoft Dynamics 365 & Power Platform Community in Your Area As a team we believe that sharing knowledge, building connections, and giving back to the Microsoft community is just as important as delivering great solutions. Our Consulting Director Andrew Bibby plays a leadership role in the Dynamics 365 & Power Platform user groups […]
+The post How to Build a Dynamics 365 & Power Platform Community in Your Area appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mark Christie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Modernizing Your Business Systems is a Strategic Imperative]]></title>
+        <id>https://erpsoftwareblog.com/?p=130336</id>
+        <link href="https://erpsoftwareblog.com/2025/07/why-modernizing-your-business-systems-is-a-strategic-imperative/"/>
+        <updated>2025-07-03T10:47:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced digital economy, businesses must continuously evolve to stay competitive. Outdated systems and legacy software can quickly become a bottleneck, hindering productivity, growth, and customer satisfaction. As organizations […]
+The post Why Modernizing Your Business Systems is a Strategic Imperative appeared first on ERP Software Blog.
+Avoiding the Hidden Costs of Small and Medium Business Software
+The Significance of ERP Cloud for Small and Medium Businesses
+What ERP Software Can Do for Small and Medium Businesses and How Cloud ERP Can Return Greater ROI]]></summary>
+        <author>
+            <name>Arjan de Jong</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Salesforce Dynamics 365 Integration for Lead Management]]></title>
         <id>https://erpsoftwareblog.com/?p=130256</id>
         <link href="https://erpsoftwareblog.com/2025/07/salesforce-dynamics-365-integration-for-lead-management/"/>
@@ -34,6 +178,17 @@ Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Ef
 Taking on "Green" Accounting Practices with Microsoft Dynamics GP]]></summary>
         <author>
             <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drive Data-Led Decisions in Dynamics 365 with Integrated Maps!]]></title>
+        <id>https://365community.online/drive-data-led-decisions-in-dynamics-365-with-integrated-maps</id>
+        <link href="https://365community.online/drive-data-led-decisions-in-dynamics-365-with-integrated-maps"/>
+        <updated>2025-07-03T10:02:00.000Z</updated>
+        <summary type="html"><![CDATA[As organizations increasingly rely on location intelligence to drive sales, field service, and operational excellence, Maplytics continues to push the boundaries of geospatial mapping capabilities within Microsoft Dynamics 365. Whether you’re optimizing territories, scheduling resources, or visualizing data, Maplytics empowers you to do more, faster, and smarter. In this blog, we’ll walk you through the […]
+The post Drive Data-Led Decisions in Dynamics 365 with Integrated Maps! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
@@ -139,6 +294,21 @@ The Benefits of Single-Stack E-Commerce for Dynamics ERPs
 How DynaRent for Dynamics 365 Operations can erase 3 top complaints from car rental customers]]></summary>
         <author>
             <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Modern Businesses Are Enhancing Customer Relationships]]></title>
+        <id>https://erpsoftwareblog.com/?p=130333</id>
+        <link href="https://erpsoftwareblog.com/2025/07/how-modern-businesses-are-enhancing-customer-relationships/"/>
+        <updated>2025-07-02T10:29:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s competitive landscape, delivering personalized, responsive, and consistent customer experiences is no longer optional—it’s expected. Modern businesses are turning to integrated solutions that allow them to manage relationships holistically, […]
+The post How Modern Businesses Are Enhancing Customer Relationships appeared first on ERP Software Blog.
+Voice Channel in Microsoft Dynamics 365: A game changer to escalate Customer Service Experience
+Why a Dynamics 365 CRM Integration will Enhance Your Business Central Solution
+Unlocking Business Growth with Customer Data: Insights from Dynamics 365]]></summary>
+        <author>
+            <name>Arjan de Jong</name>
         </author>
     </entry>
     <entry>
