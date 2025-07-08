@@ -22,11 +22,79 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-07-06 datetime="2025-07-06T21:56:25.000Z">2025-07-06</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-07-06 datetime="2025-07-06T21:56:25.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-07-07 datetime="2025-07-07T22:08:00.005Z">2025-07-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-07-07 datetime="2025-07-07T22:08:00.005Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Adventures in Axapta world</button>
+                  <a class="source-heading__link" href="https://alexvoy.blogspot.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://alexvoy.blogspot.com/2025/07/packing-sets-maps-lists-etc-in-d365fo.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Packing Sets, Maps, Lists, etc. in D365FO: Why con2str can break your code</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://alexvoy.blogspot.com/2025/07/packing-sets-maps-lists-etc-in-d365fo.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX6ohj60B_9ESn7Jd2b-cXpTznUQ9PPhIDnhGNmvWkLe9l_dSH8TA3h-D6Fmbtm9M2d2eVhtyPWBLRMgF4jiLH00Aoc9DYJfONFzXV0fM0txZQtiMi3nNv_lkL3SwyxQsyVkAEla18faTrAxW-jvWmELiWvKprjMtwgCth6z4GAFFOd35gVxfSUaKWVL4/w1200-h630-p-k-no-nu/error%20at%20creating%20list.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>While working on what seemed like a routine task in Dynamics 365 Finance and Operations, I encountered an unexpected issue Specified cast is not valid when passing a Set as a parameter to a method. 
+
+
+Here&#x27;s what happened.
+I had a simple and logical flow:
+1. Pack a set or a list into a container with standard pack method.
+
+
+
+
+2. Convert this container into a string with con2str global function.
+
+
+3. Pass it to my function as an argument. (not depicted)
+4. Convert this string back to a container via str2con.
+
+
+
+
+5. Create a new set from the restored container via set create method.
+Everything worked fine—until step 5.
+
+
+Instead of a smooth reconstruction of the Set, I ran into an error. The root cause? The str2con() function. By default, str2con() interprets numeric values as Int64 (long integers). This silent type coercion corrupted the data structure expected by Set.create(), which led to the failure.
+
+
+To avoid this issue altogether, do not use str2con() to restore containers that will be used for object reconstruction (like sets, maps, etc.). Instead, use:
+
+
+con2base64str() to serialize the container
+base64str2con() to safely deserialize it
+
+
+
+These Global functions preserve the data types and internal structure of the container without any implicit type conversions.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -38,6 +106,544 @@
                   <a class="source-heading__link" href="https://erpsoftwareblog.com/">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130454"
+                        open
+                      >
+                        <summary class="article-expander__title">No Holds Barred: What It’s Actually Like to Migrate from Dynamics GP to Business Central</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/no-holds-barred-what-its-actually-like-to-migrate-from-dynamics-gp-to-business-central/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/2507-Microsoft-Dynamics-GP-375x210-1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+A clear-eyed look at what to expect when moving from Dynamics GP to Business Central. Microsoft Dynamics GP has been around for over 2 decades, and most companies implemented it […]
+The post No Holds Barred: What It’s Actually Like to Migrate from Dynamics GP to Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+How can Microsoft Dynamics track more Financial Data in the Cloud in 2018?</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;29
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130311"
+                        open
+                      >
+                        <summary class="article-expander__title">How Dynamics 365 BC Copilot Chat Supercharges Your Operations Team</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/dynamics-365-bc-copilot-chat-operations-scenario/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/AI-CHAT-625x417.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+How Dynamics 365 BC Copilot Chat Helps Operations Managers Get Ahead—Fast AI is no longer the future, it’s the productivity booster smart businesses are using today. And with Microsoft’s Dynamics 365 […]
+The post How Dynamics 365 BC Copilot Chat Supercharges Your Operations Team appeared first on ERP Software Blog.
+Better Information &#x3D; Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here&#x27;s how...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130441"
+                        open
+                      >
+                        <summary class="article-expander__title">Adapting at the Speed of Change: Insights for CIOs from the Front Lines of IT Innovation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/cio-it-innovation-security-cost-insights/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/DA-Blogs-LinkedIn-Ads-5-625x352.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+CIO challenges in digital transformation are growing fast. In today’s IT landscape, innovation never sleeps. For CIOs and IT leaders, that means navigating a constant stream of new technologies, evolving […]
+The post Adapting at the Speed of Change: Insights for CIOs from the Front Lines of IT Innovation appeared first on ERP Software Blog.
+What’s Going on with the Microsoft On-Prem Exchange Hack?
+Is Your Business Connected with Agile, AI-powered ERP?
+Reach the Summit of your D365 Implementation with Automated Testing</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130427"
+                        open
+                      >
+                        <summary class="article-expander__title">How Business Central ERP Can Optimize Manufacturing Industry?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/how-business-central-erp-can-optimize-manufacturing-industry/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Overcoming-Modern-Manufacturing-Challenges-with-ERP-visual-selection-e1751898247869.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+Facing challenges due to production bottlenecks, inventory issues, or siloed systems? You are not alone. Many manufacturers experience major hurdles in their scaling journey. But not anymore. Business Central ERP […]
+The post How Business Central ERP Can Optimize Manufacturing Industry? appeared first on ERP Software Blog.
+How Microsoft Dynamics 365 Business Central can transform Your Manufacturing Business?
+Get More in the Cloud with Dynamics 365 Business Central
+Strategic Mindset for a Successful ERP implementation</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130352"
+                        open
+                      >
+                        <summary class="article-expander__title">Planning Worksheet in Business Central: MRP-Driven Inventory Optimization</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/planning-worksheet-in-business-central-mrp-driven-inventory-optimization/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Enhanced-Planning-Worksheet-002-1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+Planning Worksheet in Business Central is enhanced with the Enhanced Planning Worksheet, optimizing inventory and purchase planning.
+The post Planning Worksheet in Business Central: MRP-Driven Inventory Optimization appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130046"
+                        open
+                      >
+                        <summary class="article-expander__title">Top 10 ERP Implementation Mistakes and How to Avoid Them</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/top-10-erp-implementation-mistakes-and-how-to-avoid-them/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Boyer-Mistakes-Header.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+Ever watched an ERP implementation unfold like a slow-motion car crash? You&#x27;re not alone. These projects have earned their reputation as high-stakes nightmares for good reason—yet the difference between disaster […]
+The post Top 10 ERP Implementation Mistakes and How to Avoid Them appeared first on ERP Software Blog.
+How to reduce your workload with the ultimate ERP system
+The benefits you did not know about Cloud computing
+The rental portal: Why is it so important?</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;28
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130405"
+                        open
+                      >
+                        <summary class="article-expander__title">Optimizing License &amp; Access Control in D365 F&amp;SCM</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/optimizing-license-access-control-in-d365-fscm/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Optimizing-LicenseAccess-Control-in-D365FSCM-01-2-scaled.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+Managing an evolving business in the digital age means maintaining a delicate balance between efficiency and security. As enterprises adopt cloud-based solutions like Microsoft Dynamics 365 Finance and Supply Chain […]
+The post Optimizing License &amp; Access Control in D365 F&amp;SCM appeared first on ERP Software Blog.
+DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021
+To-Increase Launches a Plug-And-Play Analytics Solution for Rental Businesses
+Optimize Your Rental Operations in Dynamics 365 with Analytics</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130401"
+                        open
+                      >
+                        <summary class="article-expander__title">Empowering Business Transformation with Intelligent Cloud Solutions</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/empowering-business-transformation-with-intelligent-cloud-solutions/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Empowering-Business-Transformation-with-Intelligent-Cloud-Solutions.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+In an age defined by speed, personalization, and connectivity, businesses across all industries are striving to modernize their operations, enhance customer experiences, and make data-driven decisions. Traditional systems are often […]
+The post Empowering Business Transformation with Intelligent Cloud Solutions appeared first on ERP Software Blog.
+Better Information &#x3D; Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here&#x27;s how...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130015"
+                        open
+                      >
+                        <summary class="article-expander__title">Mastering Manufacturing with Business Central: Advanced Subcontracting Scenarios</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/mastering-manufacturing-with-business-central-advanced-subcontracting-scenarios/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Subcontracting-scaled.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+While standard subcontracting scenarios are relatively straightforward in Microsoft Dynamics 365 Business Central, real-world operations often involve more complexity. What happens when the vendor requires you to ship components to […]
+The post Mastering Manufacturing with Business Central: Advanced Subcontracting Scenarios appeared first on ERP Software Blog.
+How Cloud ERP Helps Build Strong Supply Chains
+Mastering Manufacturing with Business Central: Introduction to Manufacturing in Business Central
+Learn How To Save Time By Using The &quot;Cancel&quot; Option to Reverse A Posted Sales Invoice</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;129170"
+                        open
+                      >
+                        <summary class="article-expander__title">Solve Pharma&#x27;s Biggest Challenges with a Unified Dynamics 365 ERP for Life Sciences</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/solve-pharmas-biggest-challenges-with-a-unified-dynamics-365-erp-for-life-sciences/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://staedean.com/hubfs/Arrows-v2-01.svg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+A patchwork of legacy systems, exacerbated by extensive merger and acquisition activities over the years, has exposed pharmaceutical, biotech, and clinical supplies companies to greater risk of regulatory consequences and […]
+The post Solve Pharma&#x27;s Biggest Challenges with a Unified Dynamics 365 ERP for Life Sciences appeared first on ERP Software Blog.
+Better Information &#x3D; Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here&#x27;s how...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;30
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130193"
+                        open
+                      >
+                        <summary class="article-expander__title">A transition guide: From Outbound marketing to Real-time journeys in Dynamics 365</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/a-transition-guide-from-outbound-marketing-to-real-time-journeys-in-dynamics-365/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/corporate-management-strategy-solution-branding-concept-scaled.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+There’s a significant change coming up in the marketing landscape. It is the removal of the Outbound marketing module from Customer Insights – Journeys (formerly known as Dynamics 365 Marketing) […]
+The post A transition guide: From Outbound marketing to Real-time journeys in Dynamics 365 appeared first on ERP Software Blog.
+What the Dynamics/Marketing Pilot Marriage Means for the Future
+ClickDimensions for CRM Makes Email Marketing Easy &amp; Fun
+5 Marketing Issues to Avoid when Driving an eCommerce Business!</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Alex Meyer</button>
+                  <a class="source-heading__link" href="https://alexdmeyer.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://alexdmeyer.com/?p&#x3D;3607"
+                        open
+                      >
+                        <summary class="article-expander__title">My Experience Moving D365FSC Development From CHE to UDE</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://alexdmeyer.com/2025/07/07/my-experience-moving-d365fsc-development-from-che-to-ude/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://alexdmeyer.com/wp-content/uploads/2025/07/My-Experience-Moving-D365FSC-Development-From-CHE-to-UDE.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I’ve been using the Unified Developer Experience (UDE) for development / troubleshooting of D365FSC for a while now and am finally making the switch to making it the primary development platform from an ISV perspective. I wanted to share what the process looks like and how developing / creating new code differs from a Cloud […]
+The post My Experience Moving D365FSC Development From CHE to UDE appeared first on Alex Meyer.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >365 Community Online</button>
+                  <a class="source-heading__link" href="https://365community.online/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/my-experience-moving-d365fsc-development-from-che-to-ude"
+                        open
+                      >
+                        <summary class="article-expander__title">My Experience Moving D365FSC Development From CHE to UDE</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/my-experience-moving-d365fsc-development-from-che-to-ude">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://365community.online/wp-content/uploads/2025/07/My-Experience-Moving-D365FSC-Development-From-CHE-to-UDE.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I’ve been using the Unified Developer Experience (UDE) for development / troubleshooting of D365FSC for a while now and am finally making the switch to making it the primary development platform from an ISV perspective. I wanted to share what the process looks like and how developing / creating new code differs from a Cloud […]
+The post My Experience Moving D365FSC Development From CHE to UDE appeared first on 365 Community Online.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/troubleshooting-copilot-studio-autonomous-agent-incomplete-status"
+                        open
+                      >
+                        <summary class="article-expander__title">Troubleshooting Copilot Studio Autonomous Agent &quot;Incomplete&quot; Status</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/troubleshooting-copilot-studio-autonomous-agent-incomplete-status">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://365community.online/wp-content/uploads/2025/07/Troubleshooting-Copilot-Studio-Autonomous-Agent-quotIncompletequot-Status.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If you’ve been working with Copilot Studio’s autonomous agents, you’ve probably encountered the frustrating “Incomplete” status. The agent runs, but doesn’t complete successfully, leaving you wondering what went wrong. I’ve dealt with this issue multiple times, and here are two common scenarios with practical solutions. The Mystery of Zero Completed Steps The most puzzling scenario […]
+The post Troubleshooting Copilot Studio Autonomous Agent &quot;Incomplete&quot; Status appeared first on 365 Community Online.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/salesforce-e-transicao-de-carreira-um-mercado-promissor-para-admins-e-developers-youtube"
+                        open
+                      >
+                        <summary class="article-expander__title">SalesForce e transição de carreira – Um mercado promissor para admins e developers – YouTube</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/salesforce-e-transicao-de-carreira-um-mercado-promissor-para-admins-e-developers-youtube">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://365community.online/wp-content/uploads/2025/01/365CommOnl.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Curso admin salesforce – https://trailhead.salesforce.com/pt-BR/content/learn/trails/force_com_admin_beginner Curso developer salesforce – https://trailhead.salesforce.com/pt-BR/content/learn/trails/force_com_dev_beginner ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Hotmart. https://go.hotmart.com/S74000868Y ♐ Adquira meu curso PowerApps avançado na Hotmart. https://go.hotmart.com/U98457324E ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode&#x3D;26879FEB3B350B408792 🚀 Let’s connect: […]
+The post SalesForce e transição de carreira – Um mercado promissor para admins e developers – YouTube appeared first on 365 Community Online.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/get-started-with-sales-analytics-in-dynamics-365-a-crm-users-handbook"
+                        open
+                      >
+                        <summary class="article-expander__title">Get Started with Sales Analytics in Dynamics 365: A CRM User’s Handbook!</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/get-started-with-sales-analytics-in-dynamics-365-a-crm-users-handbook">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://365community.online/wp-content/uploads/2025/07/Get-Started-with-Sales-Analytics-in-Dynamics-365-A-CRM-Users-Handbook.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Sales teams are under intense pressure to deliver results, adapt quickly, and base their decisions on real data. If you’re using Microsoft Dynamics 365, you already know the power of a centralized CRM, but managing sales analytics within it can still be overwhelming. Massive datasets, multilingual customer records, and cross-border territories in regions like the […]
+The post Get Started with Sales Analytics in Dynamics 365: A CRM User’s Handbook! appeared first on 365 Community Online.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-07-06 datetime="2025-07-07T06:39:00.000Z">2025-07-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-07-06 datetime="2025-07-07T06:39:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >365 Community Online</button>
+                  <a class="source-heading__link" href="https://365community.online/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/que-plan-de-github-copilot-necesito-como-entender-lo-que-realmente-estas-consumiendo"
+                        open
+                      >
+                        <summary class="article-expander__title">¿Qué plan de GitHub Copilot necesito? : cómo entender lo que realmente estás consumiendo</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/que-plan-de-github-copilot-necesito-como-entender-lo-que-realmente-estas-consumiendo">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://365community.online/wp-content/uploads/2025/07/¿Que-plan-de-GitHub-Copilot-necesito-como-entender-lo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>GitHub Copilot ha pasado de ser una simple herramienta de autocompletado a convertirse en un ecosistema completo de inteligencia artificial para desarrolladores. Chat integrado, agentes automatizados, revisiones de código… pero entre tanta funcionalidad, es fácil perderse en los detalles del consumo y los límites. ¿Estás usando GitHub Copilot de forma óptima o te estás quedando […]
+The post ¿Qué plan de GitHub Copilot necesito? : cómo entender lo que realmente estás consumiendo appeared first on 365 Community Online.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/customize-your-copilot-agent-in-dynamics-365-to-match-your-brand"
+                        open
+                      >
+                        <summary class="article-expander__title">Customize Your Copilot Agent in Dynamics 365 to Match Your Brand</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/customize-your-copilot-agent-in-dynamics-365-to-match-your-brand">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://365community.online/wp-content/uploads/2025/07/Customize-Your-Copilot-Agent-in-Dynamics-365-to-Match-Your-Brand.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In today’s digital world, creating a consistent brand experience is essential. Your Copilot agent, which serves as a vital point of interaction for customers, should reflect your brand. Making sure its visual design aligns with your identity can greatly boost user experience and build trust. In this blog, we’ll explore three effective ways to customize […]
+The post Customize Your Copilot Agent in Dynamics 365 to Match Your Brand appeared first on 365 Community Online.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/what-is-azure-arc-resource-bridge-find-out-fast-youtube"
+                        open
+                      >
+                        <summary class="article-expander__title">What is Azure Arc Resource Bridge? Find out Fast! – YouTube</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/what-is-azure-arc-resource-bridge-find-out-fast-youtube">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://365community.online/wp-content/uploads/2025/01/365CommOnl.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>#azurearc resource bridge can be tricky to implement if you do not fully understand it. In this video, #microsoftmvp Shabaz Darr takes a deeper look at this #azure service from a #security #deployment and #maintenance perspective. Do not forget to like, comment, and subscribe! Episode Breakdown – 00:00 – Episode Introduction 00:50 – Episode Breakdown […]
+The post What is Azure Arc Resource Bridge? Find out Fast! – YouTube appeared first on 365 Community Online.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >ERP Software Blog</button>
+                  <a class="source-heading__link" href="https://erpsoftwareblog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130375"
+                        open
+                      >
+                        <summary class="article-expander__title">From Data to Decisions: How AI and IoT Supercharge ERP Project Management</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/from-data-to-decisions-how-ai-and-iot-supercharge-erp-project-management/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>xxx
+The Future is Integrated: Leveraging AI, IoT, and ERP for Smarter, Cost-Efficient Project Management  Do you know according to a survey- AI-powered ERP systems are expected to reduce operational costs […]
+The post From Data to Decisions: How AI and IoT Supercharge ERP Project Management appeared first on ERP Software Blog.
+Simplifying ERP Processes: Map the Way with a Microsoft 365 Information Architecture
+How Can Your Construction Company Adopt the Digital Revolution?
+What Life Sciences can Accomplish in the Cloud</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -63,35 +669,25 @@ With Microsoft Dynamics GP, you really can have it all! Here&#x27;s how...</span
                         </a>
                       </details>
                     </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >365 Community Online</button>
-                  <a class="source-heading__link" href="https://365community.online/">Open</a>
-                </h3>
-                <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://365community.online/what-is-azure-arc-resource-bridge-find-out-fast-youtube"
+                        data-accordion-key="https://erpsoftwareblog.com/?p&#x3D;130392"
                         open
                       >
-                        <summary class="article-expander__title">What is Azure Arc Resource Bridge? Find out Fast! – YouTube</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/what-is-azure-arc-resource-bridge-find-out-fast-youtube">
+                        <summary class="article-expander__title">Transforming Business Processes with Next-Gen ERP and CRM Solutions</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://erpsoftwareblog.com/2025/07/transforming-business-processes-with-next-gen-erp-and-crm-solutions/">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://365community.online/wp-content/uploads/2025/01/365CommOnl.png" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://erpsoftwareblog.com/wp-content/uploads/Transforming-Business-Processes.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>#azurearc resource bridge can be tricky to implement if you do not fully understand it. In this video, #microsoftmvp Shabaz Darr takes a deeper look at this #azure service from a #security #deployment and #maintenance perspective. Do not forget to like, comment, and subscribe! Episode Breakdown – 00:00 – Episode Introduction 00:50 – Episode Breakdown […]
-The post What is Azure Arc Resource Bridge? Find out Fast! – YouTube appeared first on 365 Community Online.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
+                              <span>xxx
+In today’s hyper-competitive digital world, businesses must adapt rapidly to shifting market demands, growing customer expectations, and operational complexities. Legacy systems and disjointed workflows no longer suffice. To thrive, companies […]
+The post Transforming Business Processes with Next-Gen ERP and CRM Solutions appeared first on ERP Software Blog.
+Better Information &#x3D; Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here&#x27;s how...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3764,6 +4360,41 @@ Mastering Manufacturing with Business Central: Understanding Subcontracting
 Microsoft Dynamics 365 Business Central: The Best Choice for Manufacturers
 Automated Production Scheduling Using Dynamics 365 Business Central</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Power Apps Archives - Microsoft Power Platform Blog</button>
+                  <a class="source-heading__link" href="https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.microsoft.com/en-us/power-platform/blog/?p&#x3D;131628"
+                        open
+                      >
+                        <summary class="article-expander__title">Customize model-driven forms to leverage Copilot Studio content in your apps (Preview)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/customize-model-driven-forms-to-leverage-copilot-studio-content-preview/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2025/06/agent-api-custom-pcf.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>We’re excited to announce the public preview of two powerful new capabilities in Microsoft Power Apps: Agent APIs and Agent response component.
+The post Customize model-driven forms to leverage Copilot Studio content in your apps (Preview) appeared first on Microsoft Power Platform Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;17
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -192779,8 +193410,8 @@ Errors that prevent your data sync operation from performing smoothly.  Whether 
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/16105823075">
-        <time id="build-timestamp" datetime="2025-07-07T01:58:41.097Z">2025-07-07T01:58:41.097Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/16132018632">
+        <time id="build-timestamp" datetime="2025-07-08T01:53:44.311Z">2025-07-08T01:53:44.311Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
