@@ -2,10 +2,185 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-09T01:55:18.234Z</updated>
+    <updated>2025-07-10T01:55:15.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Part-14: Inventory Valuation Adjustments to Fixed assets Subledger in Dynamics 365 Finance]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3030</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/part-14-inventory-valuation-adjustments-to-fixed-assets-subledger-in-dynamics-365-finance/"/>
+        <updated>2025-07-09T20:26:42.000Z</updated>
+        <summary type="html"><![CDATA[New Video Drop: Dynamics 365 Finance & SCM 10.0.44 – Inventory Adjustments Now Sync to Fixed Assets Automatically! 🔄 Ever faced this? You acquire a fixed asset from inventory… then later adjust the inventory value… but the Net Book Value of the asset doesn’t update. Result? Manual journal entries, extra steps, and risk of inconsistency. […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Volume Historical Inventory Value Report In Microsoft Dynamics 365]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3028</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/large-volume-historical-inventory-value-report-in-microsoft-dynamics-365/"/>
+        <updated>2025-07-09T20:24:47.000Z</updated>
+        <summary type="html"><![CDATA[New Feature Spotlight: Large Volume Historical Inventory Value Report in Dynamics 365 Finance 10.0.44 📅 Released in: Version 10.0.44 | 📦 Module: Inventory Management / Finance In this video, we dive into the newly released Large Volume Historical Inventory Value Report in Microsoft Dynamics 365 Finance (version 10.0.44). This powerful enhancement addresses performance and scalability […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Approved Customer List mapping for Items in Dynamics 365 Finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3025</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/new-approved-customer-list-mapping-for-items-in-dynamics-365-finance-and-operations/"/>
+        <updated>2025-07-09T20:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Take control of your sales process with the latest feature in Microsoft Dynamics 365 Finance – the Approved Customer List! This powerful new functionality allows organizations to map approved customers to specific products, helping enforce sales policies and improve compliance. With this feature, you can: ✅ Define and manage approved customers per product ✅ Restrict […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate Bank Foreign Currency Revaluation Process in Microsoft Dynamics 365 Finance]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3022</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/automate-bank-foreign-currency-revaluation-process-in-microsoft-dynamics-365-finance/"/>
+        <updated>2025-07-09T20:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Say goodbye to manual month-end headaches! In this video, we explore an exciting new feature in Microsoft Dynamics 365 Finance that allows organizations to automate the bank foreign currency revaluation process. With this powerful update, you can now: ✅ Schedule automated revaluations of foreign currency bank accounts ✅ Streamline your financial closing processes ✅ Reduce […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 5: Creating Forecasts in Dynamics 365 Demand Planning]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3020</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/part-5-creating-forecasts-in-dynamics-365-demand-planning/"/>
+        <updated>2025-07-09T20:00:12.000Z</updated>
+        <summary type="html"><![CDATA[📈 In This Video, You’ll Learn: 🔍 Forecasting Algorithms Explained: Get an overview of the algorithms supported in D365 Demand Planning (ARIMA, ETS, Prophet, etc.) and how to select the right one for your business scenario. 💡 Algorithm Recommendations: Learn how the system recommends the best-fit algorithm based on your historical data patterns and planning […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 4: Exploring Time Series Data in Demand Planning with Copilot]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3018</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/part-4-exploring-time-series-data-in-demand-planning-with-copilot/"/>
+        <updated>2025-07-09T19:58:32.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Part 4 of our Demand Planning series in Dynamics 365 Supply Chain Management! In this episode, we move from data preparation to data exploration, showing you how to view and interact with the time series data generated using transformation and calculation profiles. 🔍 What You’ll Learn: How to View Time Series Data: Navigate […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part-3: Data Transformation in Demand Planning App]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3015</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/part-3-data-transformation-in-demand-planning-app/"/>
+        <updated>2025-07-09T19:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Part 3 of our Demand Planning series in Dynamics 365 Supply Chain Management! In this session, we dive deep into how to transform raw planning data into structured time series — the foundation for creating accurate and intelligent demand forecasts. 📊 What You’ll Learn: Creating Transformation Profiles: Understand how to configure transformation profiles […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part-2: Import historical data in Demand planning APP]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3013</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/part-2-import-historical-data-in-demand-planning-app/"/>
+        <updated>2025-07-09T19:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Part 2 of our Demand Planning App series in Microsoft Dynamics 365 Finance & Supply Chain! In this episode, we dive deeper into how the Demand Planning App works by focusing on data import and structure — the foundation for accurate forecasting and planning. Here’s what we cover in this video: ✅ Understanding […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 1 of the Demand Planning App in D365 Finance and Supply Chain]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3010</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/part-1-of-the-demand-planning-app-in-d365-finance-and-supply-chain/"/>
+        <updated>2025-07-09T19:53:20.000Z</updated>
+        <summary type="html"><![CDATA[In this first episode, we’re laying the foundation — diving into the business context behind demand planning, why it matters, and how it fits into the broader supply chain story. We also walk through: ✅ Key features of the Demand Planning App ✅ What makes it different from traditional forecasting tools ✅ How to install […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreign currency Revaluation Automation in Dynamics 365 Finance]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3007</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/10/foreign-currency-revaluation-automation-in-dynamics-365-finance/"/>
+        <updated>2025-07-09T19:33:31.000Z</updated>
+        <summary type="html"><![CDATA[There’s a new addition to the Process Automation Framework that will help finance teams save time and reduce manual effort! Every month, finance users manually run foreign currency revaluation in Accounts Payable (AP) and Accounts Receivable (AR). Now, with the latest preview feature in version 10.0.43, this process can be automated, making month-end tasks smoother […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ACH Fraud Blind Spot Every Microsoft Dynamics ERP User Needs to Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=130581</id>
+        <link href="https://erpsoftwareblog.com/2025/07/the-ach-fraud-blind-spot-every-microsoft-dynamics-erp-user-needs-to-know/"/>
+        <updated>2025-07-09T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  A $50 million transportation and logistics company running Microsoft Dynamics ERP thought it had comprehensive fraud protection. They had invested in payment processing tools, established verification protocols, and felt […]
+The post The ACH Fraud Blind Spot Every Microsoft Dynamics ERP User Needs to Know appeared first on ERP Software Blog.
+Solving Multi-Facility Production Challenges in Microsoft Dynamics 365 with Vicinity Software
+How a Wine Distributor Fixed Their ERP Fail with the Right Partner
+Better Information = Stronger Company in Tough Economy]]></summary>
+        <author>
+            <name>Corpay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial Reporting in Dynamics 365 and FYIsoft Stays Strategic—Even When You’re on Vacation]]></title>
+        <id>https://erpsoftwareblog.com/?p=130467</id>
+        <link href="https://erpsoftwareblog.com/2025/07/financial-reporting-in-dynamics-365-and-fyisoft-stays-strategic-even-when-youre-on-vacation/"/>
+        <updated>2025-07-09T12:32:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Summer vacations are calling! Sadly, for many finance leaders, stepping away from work feels impossible. Deadlines, reporting needs, and unexpected questions don’t take a break. However, with the right financial […]
+The post Financial Reporting in Dynamics 365 and FYIsoft Stays Strategic—Even When You’re on Vacation appeared first on ERP Software Blog.
+FRx Alternative—Video Demo
+Moving to the Cloud - Dynamics GP and Sales Tax Compliance
+As Easy as Copy, Paste and Import: Infinia Integrator for Bringing Excel Data into Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Benefits of Integrating Microsoft Dynamics 365 with Your Shopify Store]]></title>
+        <id>https://erpsoftwareblog.com/?p=130607</id>
+        <link href="https://erpsoftwareblog.com/2025/07/shopify-dynamics-365-integration/"/>
+        <updated>2025-07-09T11:16:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Running a successful Shopify store today demands more than just great products and a sleek front end, it requires operational precision behind the scenes. As order volumes grow, managing inventory, […]
+The post Top 5 Benefits of Integrating Microsoft Dynamics 365 with Your Shopify Store appeared first on ERP Software Blog.
+The Top 3 Reasons Financing Your Microsoft Accounting Software Can Benefit Your Organization
+6 Important Guidelines on Selecting the Best Accounting Software and Reseller
+Service Level Agreements For Accounting Software Users]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Upgrade Your Legacy ERP Today]]></title>
+        <id>https://erpsoftwareblog.com/?p=130599</id>
+        <link href="https://erpsoftwareblog.com/2025/07/why-you-should-upgrade-your-legacy-erp-today/"/>
+        <updated>2025-07-09T10:18:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many companies continue to run on legacy ERP systems that are outdated, inflexible, and expensive to maintain. But sticking with what’s familiar comes at a cost—to productivity, innovation, and competitive […]
+The post Why You Should Upgrade Your Legacy ERP Today appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-World Forecasting in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=130367</id>
+        <link href="https://erpsoftwareblog.com/2025/07/real-world-forecasting-in-business-central/"/>
+        <updated>2025-07-09T07:01:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Watch this on-demand demo to see how the Enhanced Forecasting Worksheet — a free app for Microsoft Dynamics 365 Business Central — helps you take control of your inventory planning. Say goodbye to stockouts, overstock, and manual guesswork.
+The post Real-World Forecasting in Business Central appeared first on ERP Software Blog.
+Optimize Order Fulfillment in Business Central
+Import Data into Business Central with Free Import Export PowerTool
+The Secret to Effortless Data Migration in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Central Go-Live: What the First Month Really Looks Like]]></title>
         <id>https://erpsoftwareblog.com/?p=130447</id>
@@ -124,6 +299,17 @@ Mastering Manufacturing with Business Central: Streamlining Work Centers and Cap
 Production Order in Business Central]]></summary>
         <author>
             <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Power Apps: June 2025 Feature Update]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=131674</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2025-feature-update/"/>
+        <updated>2025-07-08T15:48:21.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered Development Check out the latest updates in this month’s Power Apps Pulse! This month we’re giving you tools to share plans with your project stakeholders, we’ve added a maker setting to tailor your authoring experience, and we want *your* feedback about User Defined Functions and User Defined Types! Take a look at these updates […]
+The post What’s new in Power Apps: June 2025 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Clay Wesener</name>
         </author>
     </entry>
     <entry>
@@ -1176,6 +1362,36 @@ Insider Advice to Evaluate AP Automation Options for Dynamics 365
 Questions to Ask When Evaluating AP Automation for Dynamics 365]]></summary>
         <author>
             <name>Anya Ciecierski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of Adaptability: Embracing Change]]></title>
+        <id>https://erpsoftwareblog.com/?p=130077</id>
+        <link href="https://erpsoftwareblog.com/2025/06/the-power-of-adaptability-embracing-change/"/>
+        <updated>2025-06-30T12:44:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Accelerating Digital Transformation with AI: A Smarter Path Forward In today’s hyper-competitive digital economy, embracing AI-driven transformation is no longer optional, it’s essential. Companies that integrate artificial intelligence into their […]
+The post The Power of Adaptability: Embracing Change appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s Future Impact on Business Applications]]></title>
+        <id>https://erpsoftwareblog.com/?p=130074</id>
+        <link href="https://erpsoftwareblog.com/2025/06/ais-future-impact-on-business-applications/"/>
+        <updated>2025-06-30T12:40:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Impact of AI on Business Applications: A New Era of Intelligence Artificial Intelligence (AI) is no longer a futuristic concept, it’s a present-day force transforming the core of business […]
+The post AI’s Future Impact on Business Applications appeared first on ERP Software Blog.
+Ethical Risks of AI in Financial Services
+Benefits of Automatic Collection Efforts in Business Central
+Using Microsoft AI with Dynamics GP (Great Plains) Data]]></summary>
+        <author>
+            <name>Volt Technologies</name>
         </author>
     </entry>
     <entry>
