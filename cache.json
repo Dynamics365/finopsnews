@@ -497,16 +497,6 @@
           "wordCount": 2885,
           "title": "Set input parameter as mandatory in logic app",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmKT7WIdgWcUBxdLClyi5jX8ljVHY5mqemOG_ZstSw8rvkc5_URl66KG6DCTi8aqNfMsgPSWf0y1rFVQHudHsB7knmrbBiJ3rUFWFDxzGAAlInd1m4evfNIYwOCm9QNarxLNxt9fKZ-Z-13Vt5Bt3XMjiKHxXyPeCqBKEEyCKMF9A19hSxAKm7aWB3mJI/w1200-h630-p-k-no-nu/Required%202.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/07/fin-ops-actions-in-logic-app.html",
-          "author": null,
-          "description": "Hi guys, Today we can see the Fin & ops Actions in the Logic app.\n\n\n\nOpen the Logic app and open the design.\nClick on Add action and search Fin& Ops in the search bar.\n\n\n\n\n\nSelect Fin & Ops.\nBelow are the Actions available for D365FO\n\n\n\n\n    1. Create Record.\n\n        Way 1:\n\n\n\n\n    Way 2:\n\n\n\n\n            body :\n\n{\n    \"CustAccount\": \"Test001\",\n    \"Name\": \"Test 1\",\n    \"CustomerGroup\": \"10\",\n    \"TermsOfPayment\": \"N10\",\n    \"Currency\": \"USD\"\n}\n     2. Delete Record\n\n\n        This is used to delete the record in D365FO.\n        Need to select the URL, Entity name, and Object Id.\n        Object Id (Index of entity) --> Company, CustomerID\n\n\n\n\n    3. Execute action\n\n\n            We can select the executed action based on our requirements.\n\n\n\n\n\n    4. Get a Record\n\n\n            By using this will get the record from D365FO.\n            In Object Id, we need to pass the index of the entity.\n\n\n\n\n          Object Id :\n\n\n    Company,CustAccount --> Index of Entity\n\n\n\n    5. Get List of entities\n\n\n        Get all the entities details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n    6. Lists Items present in table\n\n         By using this will get the record from D365FO.\n\n Single Field\n\n\n\n\n\n\n\n\n\n        Multiple fields\n\n\n\n\n        Expression:\n\n\nlength(body('Lists_items_present_in_table')?['value'])\n\n\n\n\n\n\n\n\n    7. Update Record\n        Way 1:\n    \n\n\n\n\n\n        Way 2:\n\n\n            Object Id :\n\n    Company,CustAccount --> Index of Entity\n\n\n\n\n Keep Daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/07/fin-ops-actions-in-logic-app.html",
-          "publishedOn": "2023-07-13T12:51:00.005Z",
-          "wordCount": 2948,
-          "title": "Fin & ops Actions in Logic app.",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT90BVhFwn2d8Uxrs--8eEvSrlDeGzsJ6bZ6BIfdoRhi8ZJ8VUhFBxaztTZsAvrVT33V3nX-e6P7aFgrQfXbSpCIkflx23NRI5rd20KvpOXA6fJzxPVVhnF-uRrfhiDonK7M1PaMBRxJ_ZZQcJ_MLNv7HP5-nHpO5QWJzYRw_EuFYsC_GH8CYGclLop-0/w1200-h630-p-k-no-nu/Fin.png"
         }
       ]
     },
@@ -1626,6 +1616,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=130670",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nIn 2025, AI ERP automation is no longer a futuristic concept it’s a critical business tool transforming how companies across the USA streamline operations, boost productivity, and gain competitive advantage. […]\nThe post AI ERP Automation 2025: The Future of Smarter Business Management in the USA appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/07/ai-erp-automation/",
+          "publishedOn": "2025-07-11T22:30:40.000Z",
+          "wordCount": 7865,
+          "title": "AI ERP Automation 2025: The Future of Smarter Business Management in the USA",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/erp-for-manufacturing.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130742",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works welcomed 15 new Microsoft Partners into its reseller program in June, expanding global support for manufacturers and distributors using Dynamics 365 Business Central.\nThe post 15 Resellers Join Insight Works to Support Business Central Solutions appeared first on ERP Software Blog.\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nKey Trends for Accounts Payable in 2025\nOptimize Order Fulfillment in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/07/15-resellers-join-insight-works-to-support-business-central-solutions/",
+          "publishedOn": "2025-07-11T20:45:51.000Z",
+          "wordCount": 7439,
+          "title": "15 Resellers Join Insight Works to Support Business Central Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/New-Partners-June-2025.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130739",
+          "author": "PartnerTalks",
+          "description": "xxx\nAt the recent DynamicsCon Regional event in Toronto, Josh Burton of OpenText shared a clear message with Microsoft Partners: legacy systems and modern APIs don’t have to compete. They can work […]\nThe post OpenText’s Josh Burton on Modernizing Supply Chains with Hybrid EDI and API Integration appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/07/opentexts-josh-burton-on-modernizing-supply-chains-with-hybrid-edi-and-api-integration/",
+          "publishedOn": "2025-07-11T18:48:44.000Z",
+          "wordCount": 7382,
+          "title": "OpenText’s Josh Burton on Modernizing Supply Chains with Hybrid EDI and API Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/272-Josh-Burton-Thumbnail.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130732",
+          "author": "Mark Rockwell, Rockton Software",
+          "description": "xxx\nPricing can be one of your business’s most strategic levers, but only if you do it right.  Too often, companies make critical pricing mistakes without even realizing it. In a […]\nThe post Stop Letting Spreadsheets & Your Ego Wreck Your Pricing Strategy appeared first on ERP Software Blog.\nWhat You Need to Know About the E-invoice Exchange Market Pilot\nConnecting Your eMarketplace with Dynamics 365 Business Central\nCurious About Business Central? Join AVT to Learn More!",
+          "link": "https://erpsoftwareblog.com/2025/07/pricing-strategy/",
+          "publishedOn": "2025-07-11T16:33:53.000Z",
+          "wordCount": 7825,
+          "title": "Stop Letting Spreadsheets & Your Ego Wreck Your Pricing Strategy",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Spreadsheets-and-Ego_AcuConnect_1200x600-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130709",
+          "author": "Arjan de Jong",
+          "description": "xxx\nEnterprise Resource Planning (ERP) systems have long been essential for businesses seeking to manage operations, finance, procurement, supply chains, and more. Traditional ERP platforms have served this role for decades, […]\nThe post Dynamics 365 vs Traditional ERP: Why Businesses Are Making the Switch appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/07/dynamics-365-vs-traditional-erp-why-businesses-are-making-the-switch/",
+          "publishedOn": "2025-07-11T11:46:02.000Z",
+          "wordCount": 8213,
+          "title": "Dynamics 365 vs Traditional ERP: Why Businesses Are Making the Switch",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-365-vs-Traditional-ERP.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=130672",
           "author": "Logan Consulting",
           "description": "xxx\nIn today’s dynamic telecommunications environment, procurement is central to maintaining service uptime, scaling infrastructure, and managing expenses. Whether it’s acquiring fiber-optic components, radio access network gear, or managing outsourced service […]\nThe post Optimizing Procurement for the Telecoms Sector in Microsoft Dynamics 365 F&SCM appeared first on ERP Software Blog.\nAchieving Supply Chain Excellence through Consignment Inventory in Microsoft Dynamics 365 for Finance and Operations\nUpgrading from Dynamics AX to Dynamics 365 Finance and Supply Chain Management – Is It Worth It?\nBluJay and NMB Expand Supply Chain Solution Offering for Microsoft Dynamics 365 Users with BluJay Gateway for D365",
@@ -1676,6 +1716,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ESG-Reporting-in-D365-Finance-625x417.png"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=130706",
+          "author": "Arjan de Jong",
+          "description": "xxx\nAs digital transformation accelerates across industries, enterprises are under more pressure than ever to modernize their operations, improve efficiency, and deliver seamless customer experiences. In this rapidly evolving business landscape, […]\nThe post Top Benefits of Microsoft Dynamics 365 for Enterprises appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/07/top-benefits-of-microsoft-dynamics-365-for-enterprises/",
+          "publishedOn": "2025-07-10T11:28:00.000Z",
+          "wordCount": 8234,
+          "title": "Top Benefits of Microsoft Dynamics 365 for Enterprises",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Top-Benefits-of-Microsoft-Dynamics-365.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=130639",
           "author": "Dan Kosanovic, Reach International",
           "description": "xxx\nB2B customers today expect the same seamless digital experiences they enjoy as consumers. Organizations that recognize this shift and act on it are creating substantial competitive advantages through integrated customer […]\nThe post How Smart Organizations Are Winning with Self-Service Portals appeared first on ERP Software Blog.\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?\nWeb Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective\nBeyond The Brochure – What Really Matters To Dynamics Users?",
@@ -1714,6 +1764,16 @@
           "wordCount": 8380,
           "title": "Top 5 Benefits of Integrating Microsoft Dynamics 365 with Your Shopify Store",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Top-5-Benefits-of-Integrating-Microsoft-Dynamics-365-with-Your-Shopify-Store-625x352.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130703",
+          "author": "Arjan de Jong",
+          "description": "xxx\nDigital transformation is no longer optional—it’s essential. As businesses modernize their operations, customer experiences, and internal workflows, one of the most effective platforms driving this change is Microsoft Dynamics 365. […]\nThe post How to Choose the Right Microsoft Dynamics 365 Implementation Partner for Your Business appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/07/how-to-choose-the-right-microsoft-dynamics-365-implementation-partner-for-your-business/",
+          "publishedOn": "2025-07-09T11:05:43.000Z",
+          "wordCount": 8109,
+          "title": "How to Choose the Right Microsoft Dynamics 365 Implementation Partner for Your Business",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-to-Choose-the-Right-Microsoft-Dynamics-365-Implementation-Partner.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=130599",
@@ -1854,6 +1914,16 @@
           "wordCount": 7960,
           "title": "The Strategic Guide to D365 F&SCM Portal Implementation",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-blog-temp-12.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130700",
+          "author": "Arjan de Jong",
+          "description": "xxx\nIn today’s digital-first world, businesses face the constant challenge of staying agile, connected, and customer-focused. Whether you're managing complex supply chains, overseeing field service operations, or trying to build more […]\nThe post Transforming Business Operations with Smart ERP & CRM Solutions appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/07/transforming-business-operations-with-smart-erp-crm-solutions/",
+          "publishedOn": "2025-07-08T10:37:42.000Z",
+          "wordCount": 8053,
+          "title": "Transforming Business Operations with Smart ERP & CRM Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Transforming-Business-Operations-with-Smart-ERP-CRM-Solutions.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=130359",
