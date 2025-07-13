@@ -63350,6 +63350,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=194990",
+          "author": "Ankit Jain",
+          "description": "In customer service, efficient workload distribution is vital for high customer satisfaction and operational efficiency. Unified routing capabilities in Dynamics 365 Customer Service and Dynamics 365 Contact Center help organizations continuously fine-tune their operations. Least active routing assigns work items based on when service representatives finish their last conversation. Initially used for voice channels, this […]\nThe post Use least active routing on messaging channels  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/07/11/use-least-active-routing-on-messaging-channels/",
+          "publishedOn": "2025-07-11T15:00:00.000Z",
+          "wordCount": 5380,
+          "title": "Use least active routing on messaging channels",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/04/istockphoto-165492668-612x612-1.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=194998",
           "author": "Naman Agrawal",
           "description": "In addition to the contact center agent desktop, service representatives frequently interact with multiple platforms to participate in meetings and trainings. Also, they might use various tools for managing customer interactions across channels. To prevent overbooking contact center service reps, presence APIs synchronizes their availability and reflects it in real time across all relevant systems.  […]\nThe post Synchronize service rep availability across platforms with presence APIs  appeared first on Microsoft Dynamics 365 Blog.",
