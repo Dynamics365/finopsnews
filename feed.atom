@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-14T02:02:22.819Z</updated>
+    <updated>2025-07-15T02:02:12.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I went live now what?]]></title>
+        <id>https://erpsoftwareblog.com/?p=130774</id>
+        <link href="https://erpsoftwareblog.com/2025/07/i-went-live-now-what/"/>
+        <updated>2025-07-14T21:25:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+This list is based on the learning from many years of implementing Navision then NAV now Business Central. Many of us at Ternpoint Solutions have worked on both the client […]
+The post I went live now what? appeared first on ERP Software Blog.
+Turning Data Into Actionable Insight With Microsoft Dynamics AX
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365]]></summary>
+        <author>
+            <name>Ternpoint Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MES Upgrade for Business Central: Insight Works Version 7.14]]></title>
+        <id>https://erpsoftwareblog.com/?p=130780</id>
+        <link href="https://erpsoftwareblog.com/2025/07/mes-upgrade-for-business-central-insight-works-version-7-14/"/>
+        <updated>2025-07-14T21:03:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Discover how Shop Floor Insight v7.14 can transform your production management. Visit ShopFloorForDynamics.com for more details, or reach out to your Microsoft Partner to get started today!
+The post MES Upgrade for Business Central: Insight Works Version 7.14 appeared first on ERP Software Blog.
+Optimize Order Fulfillment in Business Central
+Import Data into Business Central with Free Import Export PowerTool
+The Secret to Effortless Data Migration in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B2B Ecommerce: 10 Must-Have Features for a High-Performing Platform for Dynamics 365 BC]]></title>
+        <id>https://erpsoftwareblog.com/?p=130371</id>
+        <link href="https://erpsoftwareblog.com/2025/07/b2b-ecommerce-high-performing-platform-for-dynamics-365-bc/"/>
+        <updated>2025-07-14T13:34:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Modern B2B transactions are far more intricate than simple retail sales, making it essential to have an ecommerce platform built specifically for B2B operations. K-ecommerce provides a powerful platform for […]
+The post B2B Ecommerce: 10 Must-Have Features for a High-Performing Platform for Dynamics 365 BC appeared first on ERP Software Blog.
+9 B2B E-Commerce Trends for 2022 - Part 1
+E-commerce Security with Sana Commerce and Microsoft Dynamics ERP
+SaaS: the Top 4 Benefits and a Few Challenges]]></summary>
+        <author>
+            <name>k-ecommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated, No-Code Dynamics 365 Testing for Retail Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=130461</id>
+        <link href="https://erpsoftwareblog.com/2025/07/automated-no-code-dynamics-365-testing-for-retail-operations/"/>
+        <updated>2025-07-14T13:30:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you rely on Microsoft Dynamics 365 to run your retail operations, you already know how powerful it can be. From managing inventory to processing payments, Dynamics 365 plays a […]
+The post Automated, No-Code Dynamics 365 Testing for Retail Operations appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Leapwork</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Collection Classes]]></title>
+        <id>https://dynamics365musings.com/?p=4296</id>
+        <link href="https://dynamics365musings.com/d365-collection-classes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-collection-classes"/>
+        <updated>2025-07-14T13:23:07.000Z</updated>
+        <summary type="html"><![CDATA[In Microsoft Dynamics 365 for Finance and Operations, there are several ways to store a collection of values, known as D365 collection classes. Quite often, developers will insert values into tables that have different field names and can each have their own data type. Each record is saved to the database for reading later. With... Continue Reading →
+The post D365 Collection Classes appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Azure AD to Microsoft Entra ID: What's Really Changed?]]></title>
+        <id>https://erpsoftwareblog.com/?p=130758</id>
+        <link href="https://erpsoftwareblog.com/2025/07/from-azure-ad-to-microsoft-entra-id-whats-really-changed/"/>
+        <updated>2025-07-14T09:32:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the IT world, we're accustomed to change, but the renaming of a product as critical as Azure Active Directory (Azure AD) to Microsoft Entra ID certainly caused a stir. Was this just a marketing move, a fresh coat of paint on a familiar product? Or did it signal a deeper, strategic shift in how Microsoft views identity and security? The short answer: it's both. While the core functionality that millions of organizations rely on daily has remained intact, this change is much more than just a new name. It marks the evolution of Microsoft's vision for identity and access management, shifting from an Azure-centric service to a comprehensive, multicloud security platform designed for the complexity of the modern workplace. Why the Change? The Rise of the Microsoft Entra Family The primary reason for the name change […]
+The post From Azure AD to Microsoft Entra ID: What's Really Changed? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>2-Controlware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing in Business Central: Understanding Standard vs. Actual Costs in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=130630</id>
+        <link href="https://erpsoftwareblog.com/2025/07/mastering-manufacturing-in-business-central-understanding-standard-vs-actual-costs-in-business-central/"/>
+        <updated>2025-07-14T09:24:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Understanding Standard vs. Actual Costs in Business Central When it comes to manufacturing in Microsoft Dynamics 365 Business Central, one of the most important and most misunderstood topics is costing. […]
+The post Mastering Manufacturing in Business Central: Understanding Standard vs. Actual Costs in Business Central appeared first on ERP Software Blog.
+Mastering Forecasting and Planning in Business Central: A Guide for Manufacturers
+Three ways food manufacturers can increase profits today
+Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging IoT and AI for Smarter Trailer Engineering]]></title>
+        <id>https://erpsoftwareblog.com/?p=130755</id>
+        <link href="https://erpsoftwareblog.com/2025/07/leveraging-iot-and-ai-for-smarter-trailer-engineering/"/>
+        <updated>2025-07-13T07:45:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Firstly, let’s understand what is a smart trailer: A smart trailer is a trailer equipped with sensors and technology that enables it to communicate with other vehicles and systems, such […]
+The post Leveraging IoT and AI for Smarter Trailer Engineering appeared first on ERP Software Blog.
+Realize IoT Benefits Without Heartache with Microsoft Azure
+How construction equipment rental businesses can add dealership to their portfolio
+Maintenance isn’t glamorous—but it’s the heartbeat of equipment asset management]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI ERP Automation 2025: The Future of Smarter Business Management in the USA]]></title>
         <id>https://erpsoftwareblog.com/?p=130670</id>
@@ -1250,6 +1366,21 @@ Optimize your Distribution Process with Advanced Warehouse Management System
 How to Choose a Mobile Computer to use with Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Predictive Analytics Improves Trailer Production Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=130751</id>
+        <link href="https://erpsoftwareblog.com/2025/07/how-predictive-analytics-improves-trailer-production-efficiency/"/>
+        <updated>2025-07-04T07:20:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Let’s self-question yourself: Are your operations truly efficient—or are hidden inefficiencies slowing you down without your knowledge? There is no denying to the fact that in the contemporary business landscape, […]
+The post How Predictive Analytics Improves Trailer Production Efficiency appeared first on ERP Software Blog.
+Did You Get the Memo?  Automotive Production Part Suppliers Face Challenges in Getting and Interpreting Their Mail
+What is Process Manufacturing?
+Material Tracking Systems – Sometimes Smaller is Better than Bigger]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
         </author>
     </entry>
     <entry>
