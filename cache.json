@@ -1597,16 +1597,6 @@
           "wordCount": 1479,
           "title": "Dynamics 365 Finance and Supply Chain: Access development environment",
           "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/Dynamics-365-logo-500x281-1-300x169.png"
-        },
-        {
-          "id": "https://impulztech.com/?p=3111",
-          "author": "Ahmad Hussain",
-          "description": "Dynamics 365 integration projects can be diffcult. In this multipart series of blog posts, we are going to discuss on how to connect the NodeJS application to Microsoft Dynamics 365 application. Problem Statement IMPULZ team was doing a master data and sales integration between the third-party cloud POS solution and the Microsoft Dynamics 365 Finance […]\nThe post NodeJS + Dynamics 365 Finance and Supply Chain – A great combo? appeared first on Impulz Technologies LLC.",
-          "link": "https://impulztech.com/nodejs-can-help-dynamics-365-developer/",
-          "publishedOn": "2023-07-17T09:10:29.000Z",
-          "wordCount": 2374,
-          "title": "NodeJS + Dynamics 365 Finance and Supply Chain – A great combo?",
-          "imageUrl": "https://impulztech.com/wp-content/uploads/2022/08/MS-D365-logo-300x114.png"
         }
       ]
     },
@@ -1615,6 +1605,106 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=130866",
+          "author": "Sabre Limited",
+          "description": "xxx\nPrint manufacturers face mounting pressure to quote faster, operate leaner, and automate more of their customer workflows. In a world of razor-thin margins and increasing complexity, the difference between good […]\nThe post What the Top Print Manufacturers Do Differently with Their Print MIS appeared first on ERP Software Blog.\nDid You Get the Memo?  Automotive Production Part Suppliers Face Challenges in Getting and Interpreting Their Mail\n4 Ways Formula Manufacturers Can Use ERP Software to Reduce Inventory Shrinkage\nMaterial Tracking Systems – Sometimes Smaller is Better than Bigger",
+          "link": "https://erpsoftwareblog.com/2025/07/what-the-top-print-manufacturers-do-differently-with-their-print-mis/",
+          "publishedOn": "2025-07-15T19:34:37.000Z",
+          "wordCount": 6905,
+          "title": "What the Top Print Manufacturers Do Differently with Their Print MIS",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/print-mfg-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130853",
+          "author": "Logan Consulting",
+          "description": "xxx\nFor automotive manufacturers and suppliers, delivering exceptional products while adhering to rigorous industry standards is essential. With rising global competition, increasing customer demands, and evolving regulatory landscapes, taking a proactive […]\nThe post Using D365 SCM to Maximize Quality and Regulatory Compliance for Automotive appeared first on ERP Software Blog.\nCommunication - the key to a smarter supply chain\nSupply Chain - Best practices in a crisis and beyond\n5 Reasons to Embrace Better Maintenance Technology",
+          "link": "https://erpsoftwareblog.com/2025/07/using-d365-scm-to-maximize-quality-and-regulatory-compliance-for-automotive/",
+          "publishedOn": "2025-07-15T17:45:20.000Z",
+          "wordCount": 7018,
+          "title": "Using D365 SCM to Maximize Quality and Regulatory Compliance for Automotive",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/an-image-to-go-with-a-blog-about-Maximizing-Quality-for-the-Automotive-Industry.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130847",
+          "author": "Custom Information Services",
+          "description": "xxx\n  Enterprise Resource Planning (ERP) systems have become essential tools for healthcare organizations, enabling them to streamline operations, improve patient care, and manage resources more effectively. However, as healthcare providers […]\nThe post Making Your ERP System HIPAA-Compliant: What You Need to Know appeared first on ERP Software Blog.\nFour Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1\nHow To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint\nHassle Free Upgrades with Dynamics GP Resellers!",
+          "link": "https://erpsoftwareblog.com/2025/07/making-erp-system-hipaa-compliant-what-you-need-to-know/",
+          "publishedOn": "2025-07-15T15:28:08.000Z",
+          "wordCount": 7246,
+          "title": "Making Your ERP System HIPAA-Compliant: What You Need to Know",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/erp-hipaa-compliance-services.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130843",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nMicrosoft Power BI has become a leading choice for organizations seeking robust data visualization, reporting, and business intelligence capabilities. It offers flexibility, scalability, and a modern interface that makes data […]\nThe post When Do You Need Microsoft Power BI? A Technical Evaluation Guide appeared first on ERP Software Blog.\nA Power Platform Success Story: Western Computer Delivers New Automations and Insights\nTop 5 reasons to use Microsoft Power BI\nWays to collaborate and share reports and dashboards in Power BI",
+          "link": "https://erpsoftwareblog.com/2025/07/microsoft-power-bi-consulting-evaluation-guide/",
+          "publishedOn": "2025-07-15T15:02:08.000Z",
+          "wordCount": 7256,
+          "title": "When Do You Need Microsoft Power BI? A Technical Evaluation Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-power-bi.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130838",
+          "author": "Kati Hvidtfeldt",
+          "description": "xxx\nBack in my Finland days, I was the IT wizard at a pay-TV company, keeping our customer and billing data cleaner than a Nordic sauna. Nightly queries? My pride and […]\nThe post Avoid Three ERP Data Prep Mistakes That Cost Millions appeared first on ERP Software Blog.\nThe 5 Most Often Overlooked Costs of ERP\nNEW White Paper:  Automated Product Recalls are Critical to Protecting Your Brand and Corporate Image\nCreate a Closed-Loop Analysis, Planning, and Reporting Process",
+          "link": "https://erpsoftwareblog.com/2025/07/avoid-three-erp-data-prep-mistakes-that-cost-millions/",
+          "publishedOn": "2025-07-15T14:46:30.000Z",
+          "wordCount": 7085,
+          "title": "Avoid Three ERP Data Prep Mistakes That Cost Millions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Avoid-Costly-ERP-Data-Mistakes.png"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=94561",
+          "author": "Tensoft, Inc.",
+          "description": "xxx\nEfficient Power Conversion, a GaN semiconductor company founded in 2007, needed a scalable solution to manage their semiconductor operations and scale efficiently. After evaluating many options, they chose Tensoft SemiOps. […]\nThe post Case Study: Integrating Tensoft SemiOps with Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nBusiness Central 2024 Release Wave 2: Enhancements to Reporting\nTensoft: Customer Success Story with Microsoft Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central 2021 Release Wave 1 Plan is Here: What’s New?",
+          "link": "https://erpsoftwareblog.com/2025/07/case-study-integrating-tensoft-semiops-with-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-07-15T13:50:19.000Z",
+          "wordCount": 6715,
+          "title": "Case Study: Integrating Tensoft SemiOps with Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Tensoft_EPC-Case-Study.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130789",
+          "author": "Insight Works",
+          "description": "xxx\nShop Floor Insight version 7.14 improves performance, simplifies setup, and deepens Business Central integration for manufacturers.\nThe post Shop Floor Insight v7.14: The Latest MES Upgrade for Dynamics 365 Business Central appeared first on ERP Software Blog.\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nBenefits of Automatic Collection Efforts in Business Central\nKey Trends for Accounts Payable in 2025",
+          "link": "https://erpsoftwareblog.com/2025/07/shop-floor-insight-v7-14-the-latest-mes-upgrade-for-dynamics-365-business-central/",
+          "publishedOn": "2025-07-15T11:53:21.000Z",
+          "wordCount": 7100,
+          "title": "Shop Floor Insight v7.14: The Latest MES Upgrade for Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Shop-Floor-Insight-014.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130826",
+          "author": "x2x eCommerce",
+          "description": "xxx\nSustainability is no longer just a buzzword; it's a business imperative. With climate change, resource constraints, and stakeholder demands rewriting the rules, organizations operating in every industry worldwide are reevaluating […]\nThe post Sustainability Meets ERP: Why It's Time to Go Green with Business Central appeared first on ERP Software Blog.\nThe Top 5 Elements for Every ERP Strategy\nHow Digital Marketing Creates Attraction for eCommerce Sellers?\nHow Important Is Your Hosting Provider when Working with Magento Platform?",
+          "link": "https://erpsoftwareblog.com/2025/07/sustainability-meets-erp-why-its-time-to-go-green-with-business-central/",
+          "publishedOn": "2025-07-15T11:45:48.000Z",
+          "wordCount": 7126,
+          "title": "Sustainability Meets ERP: Why It's Time to Go Green with Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Sustainability-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130823",
+          "author": "Arjan de Jong",
+          "description": "xxx\nIn the modern business landscape, data is more than just numbers—it’s currency, strategy, and vision. Organizations that can collect, analyze, and act on their data gain a substantial competitive edge. […]\nThe post How Microsoft Dynamics 365 Enhances Data-Driven Decision Making appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/07/how-microsoft-dynamics-365-enhances-data-driven-decision-making/",
+          "publishedOn": "2025-07-15T10:47:49.000Z",
+          "wordCount": 7630,
+          "title": "How Microsoft Dynamics 365 Enhances Data-Driven Decision Making",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-Microsoft-Dynamics-365-Enhances-Data-Driven-Decision-Making.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130808",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nIn many industries, equipment failure leads to delays, safety issues, and unexpected costs. Field teams waste time reacting instead of preventing. As a result, customers become frustrated, and time and […]\nThe post Real-Time IoT + Dynamics 365 Field Service Integration for Predictive Maintenance appeared first on ERP Software Blog.\nTake Your Mobile Field Service Operations to the Next Level: 6 Strategies for Superior Connectivity\nComparing AP Solutions: Mekorma vs. BILL\nSeamlessly Transitioning Your Field Service Business to Cloud Software",
+          "link": "https://erpsoftwareblog.com/2025/07/real-time-iot-dynamics-365-field-service-integration-for-predictive-maintenance/",
+          "publishedOn": "2025-07-15T03:55:03.000Z",
+          "wordCount": 8073,
+          "title": "Real-Time IoT + Dynamics 365 Field Service Integration for Predictive Maintenance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/IoT-Dynamics-365-Field-Service-Integration.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=130774",
           "author": "Ternpoint Solutions",
@@ -1656,6 +1746,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-07-Ensure-Retail-Success-with-Automated-No-Code-Dynamics-365-Testing_1200-x-628.png"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=130819",
+          "author": "Arjan de Jong",
+          "description": "xxx\nThe world of Enterprise Resource Planning (ERP) is undergoing a transformative evolution. Gone are the days when ERP systems were merely digital repositories of accounting and operations data. Today, ERP […]\nThe post The Future of ERP: AI, Automation, and Microsoft Dynamics 365 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/07/the-future-of-erp-ai-automation-and-microsoft-dynamics-365/",
+          "publishedOn": "2025-07-14T09:55:13.000Z",
+          "wordCount": 7659,
+          "title": "The Future of ERP: AI, Automation, and Microsoft Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Future-of-ERP.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=130758",
           "author": "2-Controlware",
           "description": "xxx\nIn the IT world, we're accustomed to change, but the renaming of a product as critical as Azure Active Directory (Azure AD) to Microsoft Entra ID certainly caused a stir. Was this just a marketing move, a fresh coat of paint on a familiar product? Or did it signal a deeper, strategic shift in how Microsoft views identity and security? The short answer: it's both. While the core functionality that millions of organizations rely on daily has remained intact, this change is much more than just a new name. It marks the evolution of Microsoft's vision for identity and access management, shifting from an Azure-centric service to a comprehensive, multicloud security platform designed for the complexity of the modern workplace. Why the Change? The Rise of the Microsoft Entra Family The primary reason for the name change […]\nThe post From Azure AD to Microsoft Entra ID: What's Really Changed? appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -1676,6 +1776,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Standard-and-Actual-Cost-Blog-1-1-scaled.png"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=130816",
+          "author": "Arjan de Jong",
+          "description": "xxx\nThe retail industry is experiencing a seismic shift. No longer is it sufficient for brands to simply offer products—they must now deliver personalized, seamless, and emotionally resonant customer experiences. In […]\nThe post Why Dynamics 365 CRM Is Changing Customer Engagement in the Retail Sector appeared first on ERP Software Blog.\n4 Reasons Why Restaurants Cook with Microsoft Dynamics GP\nMicrosoft Dynamics GP Reduces ERP Costs For Popular Restaurant Chain And Food Manufacturer\n‘Tis The Season …For Physical Inventory Made Easier With Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2025/07/why-dynamics-365-crm-is-changing-customer-engagement-in-the-retail-sector/",
+          "publishedOn": "2025-07-13T09:45:35.000Z",
+          "wordCount": 7607,
+          "title": "Why Dynamics 365 CRM Is Changing Customer Engagement in the Retail Sector",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-365-Implementation-Partner-in-UAE.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=130755",
           "author": "Dynamics Square AU",
           "description": "xxx\nFirstly, let’s understand what is a smart trailer: A smart trailer is a trailer equipped with sensors and technology that enables it to communicate with other vehicles and systems, such […]\nThe post Leveraging IoT and AI for Smarter Trailer Engineering appeared first on ERP Software Blog.\nRealize IoT Benefits Without Heartache with Microsoft Azure\nHow construction equipment rental businesses can add dealership to their portfolio\nMaintenance isn’t glamorous—but it’s the heartbeat of equipment asset management",
@@ -1684,6 +1794,16 @@
           "wordCount": 7593,
           "title": "Leveraging IoT and AI for Smarter Trailer Engineering",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=130811",
+          "author": "Arjan de Jong",
+          "description": "xxx\nIn today’s fast-paced business environment, productivity is not just a metric—it’s a competitive advantage. Organizations that can seamlessly manage their operations, automate workflows, and gain real-time insights into business performance […]\nThe post Boosting Productivity with Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/07/boosting-productivity-with-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-07-12T09:25:10.000Z",
+          "wordCount": 7531,
+          "title": "Boosting Productivity with Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Boosting-Productivity-with-Microsoft-Dynamics-365-Business-Central.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=130670",
@@ -2364,6 +2484,16 @@
           "wordCount": 7869,
           "title": "AI and Supply Chain Innovation for Microsoft Dynamics Users at ELAVATE’25",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cavallo-event-Feature-Blog-Image.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=128470",
+          "author": "Tom Becker, NorthStar Automation",
+          "description": "xxx\nIf you're running Dynamics GP and feeling caught between staying put and planning your next ERP move, you're not alone. With approximately 40,000 GP users still active, many organizations find […]\nThe post WMS for Dynamics GP: Why You Should Fix Warehouse Inefficiencies Now, Decide on ERP Later appeared first on ERP Software Blog.\nDo You Have the Recipe for your Food and Beverage Distribution ERP Solution?\nFour Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #4\n4 Reasons Ohio Companies Choose Microsoft Dynamics GP for Distribution?",
+          "link": "https://erpsoftwareblog.com/2025/07/wms-for-dynamics-gp-why-you-should-fix-warehouse-inefficiencies-now-decide-on-erp-later/",
+          "publishedOn": "2025-07-01T18:48:12.000Z",
+          "wordCount": 7275,
+          "title": "WMS for Dynamics GP: Why You Should Fix Warehouse Inefficiencies Now, Decide on ERP Later",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_416652175-scaled.jpeg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=128470",
@@ -61158,16 +61288,6 @@
           "wordCount": 4738,
           "title": "Can you add your own features to Feature Management?",
           "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/08/FeatureManagementISV.jpg"
-        },
-        {
-          "id": "https://dynamicspedia.com/?p=18664",
-          "author": "André Arnaud de Calavon",
-          "description": "Today, Microsoft released the new plans for 2023 release wave 2. These plans will tell you about the short-term investments to be released by Microsoft for Dynamics 365 and the Power Platform. Microsoft is releasing these plans twice a year to indicate what they are working on. In this post, you will find the links […]\nThe post Dynamics 365 & Power Platform – 2023 release wave 1 plans appeared first on Dynamicspedia.",
-          "link": "https://dynamicspedia.com/2023/07/dynamics-365-power-platform-2023-release-wave-1-plans-2/",
-          "publishedOn": "2023-07-17T13:08:16.000Z",
-          "wordCount": 4467,
-          "title": "Dynamics 365 & Power Platform – 2023 release wave 1 plans",
-          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/07/2023releasewave2.jpg"
         }
       ]
     },
