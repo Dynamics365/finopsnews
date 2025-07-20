@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-19T01:55:14.076Z</updated>
+    <updated>2025-07-20T02:08:02.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -3245,6 +3245,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
 The post Azure Logic Apps: are you handling large blobs? Keep memory usage under control. appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Your D365FO Reporting Options in One Place: Docentric AX vs. ER]]></title>
+        <id>https://ax.docentric.com/?p=32238</id>
+        <link href="https://ax.docentric.com/all-your-d365fo-reporting-options-in-one-place-docentric-vs-er/"/>
+        <updated>2025-06-25T12:00:09.000Z</updated>
+        <summary type="html"><![CDATA[In this part of the All your D365FO Reporting options in one place series, we compare Docentric AX to Electronic Reporting (ER) across 5 core reporting elements: Data Source, Format Design, Document Generation, Document Distribution, Configuration & Management. In the introduction video, we outline how […]
+The post All Your D365FO Reporting Options in One Place: Docentric AX vs. ER appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
         </author>
     </entry>
     <entry>
@@ -87541,16 +87552,6 @@ The post Export Data To Excel In D365 appeared first on Dynamics 365 Musings.]]>
         <summary type="html"><![CDATA[Many times, during multi legal entity implementation we come across requirement where customer would like to maintain the cross company shared data which will help them to maintain the integrity and consistency across all the legal entities. In Microsoft dynamics 365 cross company data sharing helps us to achieve this requirement, it allows us: -Create […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to pass parameters  to test a custom service using postman in D365 FO]]></title>
-        <id>http://elearnd365.com/?p=755</id>
-        <link href="https://elearnd365.com/2023/07/20/how-to-pass-parameters-to-test-a-custom-service-using-postman-in-d365-fo/"/>
-        <updated>2023-07-20T23:42:00.000Z</updated>
-        <summary type="html"><![CDATA[While answering questions on Microsoft community forum, I have seen lot people struggle to understand how to pass parameters to service operations in D365 FO. In today’s blog post we will see step by step process to  pass paraments to  test a D365 FO custom service from Postman. For the demonstration I am taking a […]]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>
