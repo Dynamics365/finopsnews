@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-20T02:08:02.352Z</updated>
+    <updated>2025-07-21T02:05:32.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -109,6 +109,17 @@ BluJay and NMB Expand Supply Chain Solution Offering for Microsoft Dynamics 365 
 Dynamics AX Users: You’ll Love Dynamics 365 Supply Chain and Finance]]></summary>
         <author>
             <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central and IRS 1099 Reporting in the USA: An Important Shift Ahead]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195063</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/07/17/irs-1099-reporting-business-central/"/>
+        <updated>2025-07-17T16:36:25.000Z</updated>
+        <summary type="html"><![CDATA[IRS 1099 reporting in the U.S. is undergoing a significant transformation with Microsoft introducing a new standalone IRS Forms app in Business Central. This new approach replaces the traditional method of using preprinted forms with an electronic filing system designed to improve compliance and simplify technical processes.
+The post Business Central and IRS 1099 Reporting in the USA: An Important Shift Ahead  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aleksandar Totovic</name>
         </author>
     </entry>
     <entry>
@@ -339,6 +350,17 @@ The post Welsh Azure User Group  – July 2025 Event – YouTube appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Next-Gen Retail Payments: Trends, Tech, and Transformation using Dynamics 365 Commerce + Adyen]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195046</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/07/16/retail-payments-innovations-trends-tech-and-transformation-using-dynamics-365-commerce-ayden/"/>
+        <updated>2025-07-16T18:55:47.000Z</updated>
+        <summary type="html"><![CDATA[In today’s retail landscape, payments have evolved into a strategic inflection point—where customer expectations, brand trust, and operational efficiency converge. No longer just the final step in a transaction, payments shape the overall customer experience and directly influence conversion, satisfaction, and loyalty. As consumers engage across physical stores, mobile apps, and digital platforms, they demand […]
+The post Next-Gen Retail Payments: Trends, Tech, and Transformation using Dynamics 365 Commerce + Adyen  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Shalabh Jain</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Don't Get Burned: Choose the Right Dynamics 365 Partner with These Key Insights]]></title>
         <id>https://erpsoftwareblog.com/?p=130954</id>
         <link href="https://erpsoftwareblog.com/2025/07/dont-get-burned-choose-the-right-dynamics-365-partner-with-these-key-insights/"/>
@@ -351,6 +373,28 @@ Create a Closed-Loop Analysis, Planning, and Reporting Process
 Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195034</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/07/16/2025-release-wave-2-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-microsoft-copilot-offerings/"/>
+        <updated>2025-07-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 release wave 2 for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot offerings introduces new capabilities that help organizations harness the potential of AI.
+The post 2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ryan Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=131877</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/07/16/2025-release-wave-2-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-microsoft-copilot-offerings/"/>
+        <updated>2025-07-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 release wave 2 for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot offerings introduces new capabilities that help organizations harness the potential of AI.
+The post 2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Ryan Martin</name>
         </author>
     </entry>
     <entry>

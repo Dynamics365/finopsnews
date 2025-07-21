@@ -63900,6 +63900,36 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195063",
+          "author": "Aleksandar Totovic",
+          "description": "IRS 1099 reporting in the U.S. is undergoing a significant transformation with Microsoft introducing a new standalone IRS Forms app in Business Central. This new approach replaces the traditional method of using preprinted forms with an electronic filing system designed to improve compliance and simplify technical processes.\nThe post Business Central and IRS 1099 Reporting in the USA: An Important Shift Ahead  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/07/17/irs-1099-reporting-business-central/",
+          "publishedOn": "2025-07-17T16:36:25.000Z",
+          "wordCount": 5182,
+          "title": "Business Central and IRS 1099 Reporting in the USA: An Important Shift Ahead",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/07/AdobeStock_584170939-scaled.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195046",
+          "author": "Shalabh Jain",
+          "description": "In today’s retail landscape, payments have evolved into a strategic inflection point—where customer expectations, brand trust, and operational efficiency converge. No longer just the final step in a transaction, payments shape the overall customer experience and directly influence conversion, satisfaction, and loyalty. As consumers engage across physical stores, mobile apps, and digital platforms, they demand […]\nThe post Next-Gen Retail Payments: Trends, Tech, and Transformation using Dynamics 365 Commerce + Adyen  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/07/16/retail-payments-innovations-trends-tech-and-transformation-using-dynamics-365-commerce-ayden/",
+          "publishedOn": "2025-07-16T18:55:47.000Z",
+          "wordCount": 6360,
+          "title": "Next-Gen Retail Payments: Trends, Tech, and Transformation using Dynamics 365 Commerce + Adyen",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/07/AdobeStock_752872474-scaled.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195034",
+          "author": "Ryan Martin",
+          "description": "The 2025 release wave 2 for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot offerings introduces new capabilities that help organizations harness the potential of AI.\nThe post 2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/07/16/2025-release-wave-2-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-microsoft-copilot-offerings/",
+          "publishedOn": "2025-07-16T16:00:00.000Z",
+          "wordCount": 6292,
+          "title": "2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/07/M365_1073546_250711-2_1200.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195024",
           "author": "Sherwin Pereira and Ushhan Gundevia",
           "description": "In today’s fast-moving world, it’s not enough to just hear what customers say—you need to understand what they really mean. Whether they’re talking to a voice agent (IVR) or chatting with a virtual agent, it’s important that the technology behind the scenes can truly understand them. That’s where Natural Language Understanding (NLU) comes in. It […]\nThe post NLU+: Fine-tuned language intelligence for smarter conversations  appeared first on Microsoft Dynamics 365 Blog.",
@@ -69801,6 +69831,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=131877",
+          "author": "Ryan Martin",
+          "description": "The 2025 release wave 2 for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot offerings introduces new capabilities that help organizations harness the potential of AI.\nThe post 2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/07/16/2025-release-wave-2-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-microsoft-copilot-offerings/",
+          "publishedOn": "2025-07-16T16:00:00.000Z",
+          "wordCount": 6292,
+          "title": "2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/07/M365_1073546_250711-2_1200.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=131674",
           "author": "Clay Wesener",
