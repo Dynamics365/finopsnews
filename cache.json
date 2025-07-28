@@ -28830,6 +28830,16 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/plan-designer-for-offer-letters",
+          "author": "Ana Inés Urrutia",
+          "description": "It’s 2025 and we’re still… manually writing offer letters in Word? Copying from the last one, replacing names, forgetting to update the… Original Post https://www.anainesurrutia.com/post/plan-designer-for-offer-letters\nThe post Plan designer for Offer Letters appeared first on 365 Community Online.",
+          "link": "https://365community.online/plan-designer-for-offer-letters",
+          "publishedOn": "2025-07-27T18:10:00.000Z",
+          "wordCount": 2182,
+          "title": "Plan designer for Offer Letters",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/07/Plan-designer-for-Offer-Letters.png"
+        },
+        {
           "id": "https://365community.online/smarter-by-design-kill-simplify-scale",
           "author": "Ana Inés Urrutia",
           "description": "It all starts with requirements — and most of them are bad. We don’t talk enough about it, but requirement engineering  is the moment… Original Post https://www.anainesurrutia.com/post/smarter-by-design-kill-simplify-scale\nThe post Smarter by Design: kill–simplify–scale appeared first on 365 Community Online.",
@@ -61028,6 +61038,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=7803",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2025/07/27/copilot-studio-agents-for-gaming/",
+          "publishedOn": "2025-07-27T17:06:13.000Z",
+          "wordCount": 3407,
+          "title": "Copilot Studio Agents For Gaming",
+          "imageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJNaWNyb3NvZnQgQml6QXBwcyBGaW5hbmNlICZhbXA7IENvbnRyb2xsaW5nIiwidGVtcGxhdGUiOiJoaWdod2F5IiwiYmxvZ19pZCI6ODM4ODYzOTl9.ZdIjHKZYmcnAjKEXqDbFctukY0xl4YVQJE80MCmxAFUMQ"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=7761",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -67389,6 +67409,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=3033",
+          "author": "Saurabh Bharti",
+          "description": "Enough talk. Let’s see Copilot Studio in action. Over the weekend, I built something powerful – a custom AI agent for Microsoft Dynamics 365 Finance and Operations. I call it the Chart of Account Manager Agent. 🔍 Here’s the business problem it solves: Large organisations with multiple legal entities often struggle with: ❌ Manual requests […]",
+          "link": "https://exploredynamics365.home.blog/2025/07/25/part-10-create-your-custom-agent-for-d365-fochart-of-account-agent/",
+          "publishedOn": "2025-07-25T15:09:21.000Z",
+          "wordCount": 3484,
+          "title": "Part-10: Create your Custom Agent for D365 F&O[Chart of Account Agent]",
+          "imageUrl": "http://img.youtube.com/vi/DNTusHrqFgU/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=3030",
           "author": "Saurabh Bharti",
           "description": "New Video Drop: Dynamics 365 Finance & SCM 10.0.44 – Inventory Adjustments Now Sync to Fixed Assets Automatically! 🔄 Ever faced this? You acquire a fixed asset from inventory… then later adjust the inventory value… but the Net Book Value of the asset doesn’t update. Result? Manual journal entries, extra steps, and risk of inconsistency. […]",
@@ -68867,16 +68897,6 @@
           "wordCount": 2111,
           "title": "How to get rid of a stuck report design in SSRS",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHhRRFjBwMw9ZZKIyHUl02BwBauXWCX9nXBfT322fnwgrKjtIGcpvhiuCl6sSEdC6yBcnxW7A-N94ZOwuacF1lY1wFdaZEi75vowh0XThQP1U0QeFgzny8HZLRxuL1QP-ZloqUN4dMTjonUmqvcdV9JKDc3Y-eRxPgQLawmlcsgYAinY9XQmKGWO1ylDM/w1200-h630-p-k-no-nu/browse%20reports.jpg"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html",
-          "author": null,
-          "description": "Extensible Data Security (XDS) policies allow restraint access to D365FO data in a very flexible way.\nBusiness case: a user can see those purchase orders and their related confirmations only if he or she is Requester. The whole project can basically contain three objects: role, query, and policy.\n\n\n\n\nAfter creating a specific security role, we need to create a query with HCMWorker table so that it is filtered for the current user.\n\n\n\n\n\n\nAll constrained tables should be added to the policy by referencing a particular relation (PurchTable, for example, has two relations with HCMWorker table; thus, we need to pick up the required one related to Requester field)\n\n\n\n\n\n\n\n\nNote: we can create a join expression if a required relation does not exist for a given table.\n\n\nOnce the project built and synchronized, we can assign this new role along with some standard ones to a user. For example sake, I added Ada to my user.",
-          "link": "https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html",
-          "publishedOn": "2023-07-28T22:19:00.003Z",
-          "wordCount": 2173,
-          "title": "XDS in action: How to restraint access to data based on the current user employee",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhzxeHspGQJWYfdM6oXqkW6D13t31GTVdny_MxnRqDCRs2BGGuI96B9hGMcAWqfg4TbPQVP82KISKf71sVjThd9w0r5wdqzel7j8n5GX4wtFhHemfcgdEE9t5voaFxWNmdHyruJUrvMV7vNowRPTS0Un6ylbE6Exks5revN78ReLrwlJuMNsl5XYQ6Fsjw=w1200-h630-p-k-no-nu"
         }
       ]
     },

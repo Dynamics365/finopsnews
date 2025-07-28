@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-27T02:08:49.948Z</updated>
+    <updated>2025-07-28T02:06:38.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plan designer for Offer Letters]]></title>
+        <id>https://365community.online/plan-designer-for-offer-letters</id>
+        <link href="https://365community.online/plan-designer-for-offer-letters"/>
+        <updated>2025-07-27T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s 2025 and we’re still… manually writing offer letters in Word? Copying from the last one, replacing names, forgetting to update the… Original Post https://www.anainesurrutia.com/post/plan-designer-for-offer-letters
+The post Plan designer for Offer Letters appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio Agents For Gaming]]></title>
+        <id>http://dynamicsax-fico.com/?p=7803</id>
+        <link href="https://dynamicsax-fico.com/2025/07/27/copilot-studio-agents-for-gaming/"/>
+        <updated>2025-07-27T17:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smarter by Design: kill–simplify–scale]]></title>
         <id>https://365community.online/smarter-by-design-kill-simplify-scale</id>
@@ -137,6 +158,16 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
 The post D365 : Is AI fast enough ? appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part-10: Create your Custom Agent for D365 F&O[Chart of Account Agent]]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3033</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/25/part-10-create-your-custom-agent-for-d365-fochart-of-account-agent/"/>
+        <updated>2025-07-25T15:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Enough talk. Let’s see Copilot Studio in action. Over the weekend, I built something powerful – a custom AI agent for Microsoft Dynamics 365 Finance and Operations. I call it the Chart of Account Manager Agent. 🔍 Here’s the business problem it solves: Large organisations with multiple legal entities often struggle with: ❌ Manual requests […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
         </author>
     </entry>
     <entry>
@@ -88812,41 +88843,6 @@ Next deployment should be OK.]]></summary>
 The post Update Data From Excel In D365 appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XDS in action: How to restraint access to data based on the current user employee]]></title>
-        <id>https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html</id>
-        <link href="https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html"/>
-        <updated>2023-07-28T22:19:00.003Z</updated>
-        <summary type="html"><![CDATA[Extensible Data Security (XDS) policies allow restraint access to D365FO data in a very flexible way.
-Business case: a user can see those purchase orders and their related confirmations only if he or she is Requester. The whole project can basically contain three objects: role, query, and policy.
-
-
-
-
-After creating a specific security role, we need to create a query with HCMWorker table so that it is filtered for the current user.
-
-
-
-
-
-
-All constrained tables should be added to the policy by referencing a particular relation (PurchTable, for example, has two relations with HCMWorker table; thus, we need to pick up the required one related to Requester field)
-
-
-
-
-
-
-
-
-Note: we can create a join expression if a required relation does not exist for a given table.
-
-
-Once the project built and synchronized, we can assign this new role along with some standard ones to a user. For example sake, I added Ada to my user.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
