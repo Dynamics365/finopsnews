@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-07-29T02:12:07.735Z</updated>
+    <updated>2025-07-30T02:02:27.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Must-Have Business Central Apps from AppSource]]></title>
+        <id>https://erpsoftwareblog.com/?p=131919</id>
+        <link href="https://erpsoftwareblog.com/2025/07/top-5-must-have-business-central-apps-from-appsource/"/>
+        <updated>2025-07-29T20:17:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central is a powerful ERP platform, but its real magic lies in its ability to extend through third-party apps available on Microsoft AppSource. Whether you're looking […]
+The post Top 5 Must-Have Business Central Apps from AppSource appeared first on ERP Software Blog.
+OLAP Cube vs. Data Warehouse
+How Digital Marketing Creates Attraction for eCommerce Sellers?
+The Role of ERP & eCommerce Integration in Multi-channel eCommerce Management]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow must be in Published state while deleting the Bookings / Work Orders (Dynamics 365 Field Service)Workflow must be in Published state]]></title>
+        <id>https://365community.online/workflow-must-be-in-published-state-while-deleting-the-bookings-work-orders-dynamics-365-field-serviceworkflow-must-be-in-published-state</id>
+        <link href="https://365community.online/workflow-must-be-in-published-state-while-deleting-the-bookings-work-orders-dynamics-365-field-serviceworkflow-must-be-in-published-state"/>
+        <updated>2025-07-29T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we were cleaning some of the work orders and related records in one of our environments. However when trying to delete the bookable resource booking record, we were getting the below error. Deleting booking records is required if we want to delete the associated work order record. We verified all the processes – workflows, […]
+The post Workflow must be in Published state while deleting the Bookings / Work Orders (Dynamics 365 Field Service)Workflow must be in Published state appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent and Stop a DDoS Attack on Your Website]]></title>
+        <id>https://365community.online/how-to-prevent-and-stop-a-ddos-attack-on-your-website</id>
+        <link href="https://365community.online/how-to-prevent-and-stop-a-ddos-attack-on-your-website"/>
+        <updated>2025-07-29T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you stop a distributed denial-of-service (DDoS) attack? Through a mix of proactive prevention and a solid plan for the worst-case scenario. DDoS attacks are a growing problem in their frequency, size, and sophistication. According to Statista, the worldwide number of attacks almost doubled from early 2023 to late 2024, peaking at more than […]
+The post How to Prevent and Stop a DDoS Attack on Your Website appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Microsoft Dynamics 365 SCM to Streamline Retail Procurement]]></title>
+        <id>https://erpsoftwareblog.com/?p=131913</id>
+        <link href="https://erpsoftwareblog.com/2025/07/using-microsoft-dynamics-365-scm-to-streamline-retail-procurement/"/>
+        <updated>2025-07-29T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s retail landscape, profitability is tight, customers expect more than ever, and speed is essential. Procurement efficiency plays a vital role in ensuring products reach the shelves on time […]
+The post Using Microsoft Dynamics 365 SCM to Streamline Retail Procurement appeared first on ERP Software Blog.
+Communication - the key to a smarter supply chain
+Crisis Management in your supply chain
+Covid19 - Supply chain complications]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming Sales: Microsoft Copilot's Automation]]></title>
+        <id>https://erpsoftwareblog.com/?p=131904</id>
+        <link href="https://erpsoftwareblog.com/2025/07/transforming-sales-microsoft-copilots-automation/"/>
+        <updated>2025-07-29T15:16:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Sales professionals have long struggled with a persistent challenge: the endless cycle of administrative tasks that steal precious time from revenue-generating activities. Manual data entry, record updates, and information management […]
+The post Transforming Sales: Microsoft Copilot's Automation appeared first on ERP Software Blog.
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective
+Beyond The Brochure – What Really Matters To Dynamics Users?]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Time to Migrate to Business Central Online? Here’s What You Need to Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=131900</id>
+        <link href="https://erpsoftwareblog.com/2025/07/migrate-to-business-central-online-2025/"/>
+        <updated>2025-07-29T15:07:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Still running Microsoft Dynamics NAV or an on-premise version of Business Central? It might be time to consider a move to the cloud. Microsoft Dynamics 365 Business Central Online offers […]
+The post Is It Time to Migrate to Business Central Online? Here’s What You Need to Know appeared first on ERP Software Blog.
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Benefits of Automatic Collection Efforts in Business Central
+Optimize Order Fulfillment in Business Central]]></summary>
+        <author>
+            <name>NIC Systems Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Charts PLUS include fields from related tables : AMS Club Tip 10]]></title>
+        <id>https://365community.online/top-10-charts-plus-include-fields-from-related-tables-ams-club-tip-10</id>
+        <link href="https://365community.online/top-10-charts-plus-include-fields-from-related-tables-ams-club-tip-10"/>
+        <updated>2025-07-29T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[DYNAMICS 365 SALES TIPS Here’s what you’ll learn How to include fields from related tables (like account or contact) in your charts How to filter and group by fields that aren’t in your current view How to use the Top 10 feature to highlight your best-performing records After you’ve started the video, press f to show this […]
+The post Top 10 Charts PLUS include fields from related tables : AMS Club Tip 10 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enable Sample Data in Dynamics 365 Customer Service – YouTube]]></title>
+        <id>https://365community.online/how-to-enable-sample-data-in-dynamics-365-customer-service-youtube</id>
+        <link href="https://365community.online/how-to-enable-sample-data-in-dynamics-365-customer-service-youtube"/>
+        <updated>2025-07-29T13:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to enable sample data in Dynamics 365 Customer Service. This step-by-step guide shows you how to add sample records to explore and test the system easily. This video consists of : 00:00-00:18 Introduction 00:19-￼1:13 Benefit of using sample data 1:14-1:49 Knowledge Article 1:50-2:18 Cases 2:19-3:59 Enable sample data #microsoftdynamics365 #fieldservice #incidentmanagement #dynamics365tutorial #microsoftcrm […]
+The post How to Enable Sample Data in Dynamics 365 Customer Service – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer Insights transition to real-time marketing]]></title>
+        <id>https://365community.online/customer-insights-transition-to-real-time-marketing</id>
+        <link href="https://365community.online/customer-insights-transition-to-real-time-marketing"/>
+        <updated>2025-07-29T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[For those of you have extended your outbound marketing, you are now in Phase 2 – Existing campaigns and events work; new ones can’t be created and are running out of time to migrate to real-time marketing. Earlier this year I created a training course for the transition to RTM and I am now making […]
+The post Customer Insights transition to real-time marketing appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Share your charts in Dynamics 365 : AMS Club Tip 8]]></title>
+        <id>https://365community.online/share-your-charts-in-dynamics-365-ams-club-tip-8</id>
+        <link href="https://365community.online/share-your-charts-in-dynamics-365-ams-club-tip-8"/>
+        <updated>2025-07-29T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[DYNAMICS 365 SALES TIPS How to quickly share your personal charts in Dynamics How to share a chart with one or more users in your business What each permission level means (and which ones to avoid!) Why sharing isn’t always the best option—and when to consider a system chart instead How to make sure your […]
+The post Share your charts in Dynamics 365 : AMS Club Tip 8 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Chat in FetchXML Builder – getting to know it! – YouTube]]></title>
+        <id>https://365community.online/ai-chat-in-fetchxml-builder-getting-to-know-it-youtube</id>
+        <link href="https://365community.online/ai-chat-in-fetchxml-builder-getting-to-know-it-youtube"/>
+        <updated>2025-07-29T12:09:41.000Z</updated>
+        <summary type="html"><![CDATA[This is a short intro into the world of AI in FetchXML Builder. 0:00 Getting to know AI Chat in FetchXML Builder 0:48 AI Chat knows Custom Tables and Columns 1:47 AI understands more complex filtering 2:16 Make me understand queries 2:49 Use AI Chat the way you want it Documentation: https://jonasr.app/fxb/features/ai/ source
+The post AI Chat in FetchXML Builder – getting to know it! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charts – Just Give Me a Single Total! AMS Club Tip 9]]></title>
+        <id>https://365community.online/charts-just-give-me-a-single-total-ams-club-tip-9</id>
+        <link href="https://365community.online/charts-just-give-me-a-single-total-ams-club-tip-9"/>
+        <updated>2025-07-29T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[DYNAMICS 365 SALES TIPS Here’s what you’ll take away: Why D365 charts usually split data by fields like rating or topic How to group by a field with only one value to get a clean total Which fields to use (like currency or unused options) for this trick When this approach is useful for pipeline […]
+The post Charts – Just Give Me a Single Total! AMS Club Tip 9 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 11 Microsoft Dynamics Partners in Texas (2025 Edition)]]></title>
+        <id>https://erpsoftwareblog.com/?p=131809</id>
+        <link href="https://erpsoftwareblog.com/2025/07/top-11-microsoft-dynamics-partners-in-texas/"/>
+        <updated>2025-07-29T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Texas is booming with innovation from manufacturing hubs in Dallas to oil & gas operations in Houston and tech startups in Austin. As businesses scale, they need digital solutions that […]
+The post Top 11 Microsoft Dynamics Partners in Texas (2025 Edition) appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce Variability and Optimize Routing Accuracy in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=131885</id>
+        <link href="https://erpsoftwareblog.com/2025/07/reduce-variability-and-optimize-routing-accuracy-in-business-central/"/>
+        <updated>2025-07-29T08:24:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Variability in production isn’t just a scheduling headache—it’s a hidden cost driver that impacts everything from labor efficiency to product quality and financial accuracy. In a world where lean operations and predictable outputs are the norm, high variability can silently sabotage profitability.
+The post Reduce Variability and Optimize Routing Accuracy in Business Central appeared first on ERP Software Blog.
+Optimize Order Fulfillment in Business Central
+Import Data into Business Central with Free Import Export PowerTool
+The Secret to Effortless Data Migration in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filling PDF Forms with Electronic Reporting in Dynamics 365 for Finance]]></title>
+        <id>https://erconsult.eu/?p=9791</id>
+        <link href="https://erconsult.eu/blog/filling-pdf-forms-with-electronic-reporting-in-dynamics-365-for-finance/"/>
+        <updated>2025-07-29T08:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Electronic Reporting supports fillable PDF forms, enabling automated population of static templates like tax returns or invoices. While less dynamic than Excel outputs, PDF forms work well with fixed field sets. This guide explains naming conventions, field grouping, and practical tools to streamline PDF integration using ER.
+The post Filling PDF Forms with Electronic Reporting in Dynamics 365 for Finance appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Azure AI Foundry Model Router in your AI projects.]]></title>
+        <id>https://365community.online/using-azure-ai-foundry-model-router-in-your-ai-projects</id>
+        <link href="https://365community.online/using-azure-ai-foundry-model-router-in-your-ai-projects"/>
+        <updated>2025-07-29T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Some months ago Microsoft introduced into its AI toolset in Azure AI Foundry an interesting service called Model Router. The Azure AI Foundry Model Router is a deployable AI chat model within the Azure AI Foundry platform that intelligently selects the best large language model (LLM) to handle a given prompt in real time. It […]
+The post Using Azure AI Foundry Model Router in your AI projects. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Form Submission Counts To Marketing Form Views]]></title>
+        <id>https://365community.online/add-form-submission-counts-to-marketing-form-views</id>
+        <link href="https://365community.online/add-form-submission-counts-to-marketing-form-views"/>
+        <updated>2025-07-29T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the things I like about the Realtime marketing forms is that all of the submissions are stored automatically, no need to turn them on or off. This means we can review if there are any failures along with the successful submissions. However, one thing I don’t like is that you need to go […]
+The post Add Form Submission Counts To Marketing Form Views appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reward Loyalty, Drive Growth: How the Sales Rebates App Makes Incentives Work Smarter]]></title>
         <id>https://erpsoftwareblog.com/?p=131848</id>
@@ -89018,17 +89229,6 @@ Next deployment should be OK.]]></summary>
         <summary type="html"><![CDATA[Intercompany trade serves as a valuable tool in a multi legal entity trading setup. It not only handles basic intercompany transactions effectively but also demonstrates its capability in managing complex multi-leg intercompany orders. In this video, I attempted to explore a more intricate scenario related to this feature Scenario I covered in this video from […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Data From Excel In D365]]></title>
-        <id>https://dynamics365musings.com/?p=3049</id>
-        <link href="https://dynamics365musings.com/update-data-from-excel-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=update-data-from-excel-in-d365"/>
-        <updated>2023-07-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the last tutorial you learned how to export data to excel. Now, learn how to update data from Excel in D365. There are some changes that can be made much faster in Excel compared to within D365. For instance, you can do a ‘find and replace‘ within Microsoft Excel. Specifically, push ctrl-H for the... Continue Reading →
-The post Update Data From Excel In D365 appeared first on Dynamics 365 Musings.]]></summary>
-        <author>
-            <name>peter.ramer</name>
         </author>
     </entry>
     <entry>
