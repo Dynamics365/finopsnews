@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-08-02T01:56:22.417Z</updated>
+    <updated>2025-08-03T02:10:40.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automated CV Import for D365 HR Recruitment add-on]]></title>
+        <id>https://365community.online/automated-cv-import-for-d365-hr-recruitment-add-on</id>
+        <link href="https://365community.online/automated-cv-import-for-d365-hr-recruitment-add-on"/>
+        <updated>2025-08-02T12:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Manual CV upload sucks, therefore is a long forgotten task, often done halfway or not even done. Unless the applicant applies and… Original Post https://www.anainesurrutia.com/post/automated-cv-import-for-d365-hr-recruitment-add-on
+The post Automated CV Import for D365 HR Recruitment add-on appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 CRM Hierarchy Control: 5 Benefits Every CRM Admin Should Know]]></title>
+        <id>https://365community.online/dynamics-365-crm-hierarchy-control-5-benefits-every-crm-admin-should-know</id>
+        <link href="https://365community.online/dynamics-365-crm-hierarchy-control-5-benefits-every-crm-admin-should-know"/>
+        <updated>2025-08-02T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[In the world of CRM, data visibility, navigation, and relationship mapping are critical for smooth operations. Yet many Dynamics 365 CRM admins still struggle with understanding how records are connected – especially in complex scenarios involving accounts, contacts, opportunities, cases, and custom entities. Are you dealing with: Difficulty visualizing relationships between records Manual effort to […]
+The post Dynamics 365 CRM Hierarchy Control: 5 Benefits Every CRM Admin Should Know appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three New Free Apps for Business Central: Forecasting, Planning & Safety Logging]]></title>
         <id>https://erpsoftwareblog.com/?p=132080</id>
@@ -64,6 +86,17 @@ Project Management and Accounting Extraordinaire with Dynamics SL – Part 2
 Five Things a Business Analyst Is (and Isn’t) in an ERP Project]]></summary>
         <author>
             <name>proMX Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Disable Out-of-the-Box Business Process in Dynamics 365 Customer Service – YouTube]]></title>
+        <id>https://365community.online/how-to-disable-out-of-the-box-business-process-in-dynamics-365-customer-service-youtube</id>
+        <link href="https://365community.online/how-to-disable-out-of-the-box-business-process-in-dynamics-365-customer-service-youtube"/>
+        <updated>2025-08-01T14:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to disable the default business process flows in Dynamics 365 Customer Service. This quick guide walks you through the steps to streamline your workflows and customize your environment effectively. This video consists of: ￼00:00-00:18 Introduction 00:19-1:29 Business Process Flow 1:30-3:51 How to disable BPF 3:52-4:35 Demo #microsoftdynamics365 #fieldservice #incidentmanagement #dynamics365tutorial #microsoftcrm #customerservice #servicemanagement […]
+The post How to Disable Out-of-the-Box Business Process in Dynamics 365 Customer Service – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
         </author>
     </entry>
     <entry>
@@ -200,6 +233,16 @@ Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Ef
 Beyond The Brochure – What Really Matters To Dynamics Users?]]></summary>
         <author>
             <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Feature in Dynamics 365 F&O 10.0.45 Preview: Customer Invoice Logging and Traceability Framework]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3037</id>
+        <link href="https://exploredynamics365.home.blog/2025/07/31/new-feature-in-dynamics-365-fo-10-0-45-preview-customer-invoice-logging-and-traceability-framework/"/>
+        <updated>2025-07-31T10:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Have you been posting Sales Order Invoices and Customer Free Text Invoices through batch jobs, only to struggle with tracking the status of those invoices? ✅ Not knowing how many got posted ❌ Not knowing how many failed 🔍 No easy way to view the errors? This was a common pain point in previous versions—but […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
         </author>
     </entry>
     <entry>
