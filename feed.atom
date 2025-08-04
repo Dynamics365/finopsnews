@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-08-03T02:10:40.588Z</updated>
+    <updated>2025-08-04T02:10:37.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why a Business Central Consultant Is Key to a Successful ERP Implementation]]></title>
+        <id>https://erpsoftwareblog.com/?p=130328</id>
+        <link href="https://erpsoftwareblog.com/2025/08/business-central-consultant-for-successful-erp-implementation/"/>
+        <updated>2025-08-03T14:23:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Implementing Microsoft Dynamics 365 Business Central can bring real value to your business, but success depends on more than just the software. A Business Central functional consultant plays a critical […]
+The post Why a Business Central Consultant Is Key to a Successful ERP Implementation appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Router en Azure AI Foundry: Optimización Inteligente de Modelos de IA Generativa]]></title>
+        <id>https://365community.online/model-router-en-azure-ai-foundry-optimizacion-inteligente-de-modelos-de-ia-generativa</id>
+        <link href="https://365community.online/model-router-en-azure-ai-foundry-optimizacion-inteligente-de-modelos-de-ia-generativa"/>
+        <updated>2025-08-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hace unas semanas escribí sobre OpenRouter, un servicio que me llamó la atención por su forma de simplificar el acceso a múltiples modelos de lenguaje y permitir arquitecturas IA multimodelo de manera bastante flexible. Hace unos días saltó en mi radar: Model Router de Azure AI Foundry, la posible alternativa nativa de Microsoft dentro de […]
+The post Model Router en Azure AI Foundry: Optimización Inteligente de Modelos de IA Generativa appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automated CV Import for D365 HR Recruitment add-on]]></title>
         <id>https://365community.online/automated-cv-import-for-d365-hr-recruitment-add-on</id>
@@ -26,6 +52,17 @@ The post Automated CV Import for D365 HR Recruitment add-on appeared first on 36
 The post Dynamics 365 CRM Hierarchy Control: 5 Benefits Every CRM Admin Should Know appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dart Programming Tutorial 2025 | Free Dart Full Course | Dart Tutorial For Beginners | MindMajix – YouTube]]></title>
+        <id>https://365community.online/dart-programming-tutorial-2025-free-dart-full-course-dart-tutorial-for-beginners-mindmajix-youtube</id>
+        <link href="https://365community.online/dart-programming-tutorial-2025-free-dart-full-course-dart-tutorial-for-beginners-mindmajix-youtube"/>
+        <updated>2025-08-02T05:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Dart Programming Tutorial to learn Dart from scratch and master it for real-world app development. This Dart course will guide you through all the essential and advanced concepts of Dart programming, with hands-on examples and clear explanations. In this Dart tutorial, you’ll learn everything from variables, data types, functions, classes, and object-oriented […]
+The post Dart Programming Tutorial 2025 | Free Dart Full Course | Dart Tutorial For Beginners | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -89622,68 +89659,6 @@ The post Warehouse Mobile Device Security Overview appeared first on Alex Meyer.
 Continue reading ‘F&O development with multiple version control workspaces’ »]]></summary>
         <author>
             <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to select\unselect all records in a form grid]]></title>
-        <id>https://alexvoy.blogspot.com/2023/08/how-to-selectunselect-all-records-in.html</id>
-        <link href="https://alexvoy.blogspot.com/2023/08/how-to-selectunselect-all-records-in.html"/>
-        <updated>2023-08-04T21:36:00.005Z</updated>
-        <summary type="html"><![CDATA[While adding standard command button you can opt for SelectAll to mark all records in a form grid. However, there is no such a command for the opposite - unselect all records.
-
-
-You can easily achieve it by using the following method and two usual button form controls.
-
-  
-
-[Form]
-public class mgcDeleteForm extends FormRun
-{
-    public void selectAll(boolean _select)
-    {
-        VendPaymFormat_DS.markAllLoadedRecords(_select);
-    }
-
-    [Control("Button")]
-    class FormButtonControlSelectAll
-    {
-        public void clicked()
-        {
-            element.selectAll(true);
-            super();
-        }
-    }
-
-    [Control("Button")]
-    class FormButtonControlUnSelectAll
-    {
-        public void clicked()
-        {
-            element.selectAll(false);
-            super();
-        }
-    }
-}]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get rid of a stuck report design in SSRS]]></title>
-        <id>https://alexvoy.blogspot.com/2023/08/how-to-get-rid-of-stuck-report-design.html</id>
-        <link href="https://alexvoy.blogspot.com/2023/08/how-to-get-rid-of-stuck-report-design.html"/>
-        <updated>2023-08-04T20:13:00.005Z</updated>
-        <summary type="html"><![CDATA[It is difficult to say if your recent changes to an SSRS report design are really deployed. I suggest that any textbox be colored to visualize it (you can revert it in the end).
-However, sometimes previous design is stuck on the server, and you still see no changes deployed, nevertheless, you already restarted Reporting services. Fortunately, there is a direct way to delete such a stubborn report from the server.
-Open Report Server configuration manager as administrator and apply Portal URL setting if it is not done yet.
-
-
-Then go for your report and delete it.
-
-
-Next deployment should be OK.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
