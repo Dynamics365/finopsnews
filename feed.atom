@@ -2,10 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-08-04T02:10:37.217Z</updated>
+    <updated>2025-08-05T02:04:59.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fixing Date Shift Issue After Changing DateOnly Field from Time Zone Independent to User Local – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/fixing-date-shift-issue-after-changing-dateonly-field-from-time-zone-independent-to-user-local-dataverse-dynamics-365</id>
+        <link href="https://365community.online/fixing-date-shift-issue-after-changing-dateonly-field-from-time-zone-independent-to-user-local-dataverse-dynamics-365"/>
+        <updated>2025-08-05T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In our Dataverse environment, we had a field named custom_sampledate configured as a DateOnly type with User Local behavior. At some point, we changed its behavior to Time Zone Independent, assuming it would prevent confusion across time zones. At first glance, everything seemed fine. But over time, users in time zones like New Zealand (NZ) […]
+The post Fixing Date Shift Issue After Changing DateOnly Field from Time Zone Independent to User Local – Dataverse / Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your own smart-home with Home Assistant]]></title>
+        <id>https://devblog.sertanyaman.com/?p=3830</id>
+        <link href="https://devblog.sertanyaman.com/2025/08/04/build-your-own-smart-home-with-home-assistant/"/>
+        <updated>2025-08-04T15:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Here I am going to present a very nice private project to keep you busy in these beautiful, warm summer days. Building your own home automation using the open-source platform Home Assistant.]]></summary>
+        <author>
+            <name>Tayfun Sertan Yaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicting the unpredictable: How AI tools in Microsoft Dynamics 365 F&SCM are transforming customer payment forecasting]]></title>
+        <id>https://erpsoftwareblog.com/?p=130713</id>
+        <link href="https://erpsoftwareblog.com/2025/08/predicting-the-unpredictable-how-ai-tools-in-microsoft-dynamics-365-fscm-are-transforming-customer-payment-forecasting/"/>
+        <updated>2025-08-04T14:24:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the world of finance, few challenges are as persistent as predicting when customers will actually pay their invoices. Despite any agreed payment terms you have, the reality often differs […]
+The post Predicting the unpredictable: How AI tools in Microsoft Dynamics 365 F&SCM are transforming customer payment forecasting appeared first on ERP Software Blog.
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+Vyas Inside Sales & Counter Sales for D365: The key to provide acceleration to Wholesale Distributors]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common mistakes in project portfolio management – How to avoid them?]]></title>
+        <id>https://erpsoftwareblog.com/?p=132087</id>
+        <link href="https://erpsoftwareblog.com/2025/08/common-mistakes-in-project-portfolio-management-how-to-avoid-them/"/>
+        <updated>2025-08-04T14:02:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Project portfolio management failure is a complex and often subjective matter. It’s a broad term that can apply to various scenarios. It would be easier to understand with an example. […]
+The post Common mistakes in project portfolio management – How to avoid them? appeared first on ERP Software Blog.
+Can the web client be your answer to a portal?
+The secret to delivering projects on time, on budget, and within scope: a project-based ERP for professional services
+Le secret pour livrer vos projets dans les délais et budgets entendus : un ERP de gestion par projet pour les services professionnels]]></summary>
+        <author>
+            <name>proMX Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know About CSV in the Life Sciences Industry]]></title>
+        <id>https://erpsoftwareblog.com/?p=130390</id>
+        <link href="https://erpsoftwareblog.com/2025/08/what-you-need-to-know-about-csv-in-the-life-sciences-industry/"/>
+        <updated>2025-08-04T13:09:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Computer System Validation, or “CSV”, is a process of testing and qualifying a computerized system to ensure that it works as intended in a consistent and reproducible manner that is […]
+The post What You Need to Know About CSV in the Life Sciences Industry appeared first on ERP Software Blog.
+The Top 3 Reasons Financing Your Microsoft Accounting Software Can Benefit Your Organization
+6 Important Guidelines on Selecting the Best Accounting Software and Reseller
+Service Level Agreements For Accounting Software Users]]></summary>
+        <author>
+            <name>STAEDEAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP to BC Migration Pitfalls: Insufficient End-User Training]]></title>
+        <id>https://erpsoftwareblog.com/?p=131974</id>
+        <link href="https://erpsoftwareblog.com/2025/08/gp-to-bc-migration-pitfalls-insufficient-end-user-training/"/>
+        <updated>2025-08-04T12:00:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+GP to BC: End-User Training Migrating from GP to Business Central isn’t just a software upgrade; it’s a new platform with a completely different look and feel. While certain aspects […]
+The post GP to BC Migration Pitfalls: Insufficient End-User Training appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>TrinSoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI and the Modern Mechanical Contractor]]></title>
+        <id>https://erpsoftwareblog.com/?p=131876</id>
+        <link href="https://erpsoftwareblog.com/2025/08/ai-and-the-modern-mechanical-contractor/"/>
+        <updated>2025-08-04T11:00:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you're anything like us, you're constantly hearing buzz around AI and the multitude of ways it's upending the world. And while in a lot of cases the buzz is […]
+The post AI and the Modern Mechanical Contractor  appeared first on ERP Software Blog.
+Take Your Mobile Field Service Operations to the Next Level: 6 Strategies for Superior Connectivity
+Comparing AP Solutions: Mekorma vs. BILL
+Seamlessly Transitioning Your Field Service Business to Cloud Software]]></summary>
+        <author>
+            <name>FIELDBOSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Manufacturing in Business Central: Reporting & Power BI]]></title>
+        <id>https://erpsoftwareblog.com/?p=131777</id>
+        <link href="https://erpsoftwareblog.com/2025/08/mastering-manufacturing-in-business-central-reporting-power-bi/"/>
+        <updated>2025-08-04T09:41:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing a production floor requires real-time visibility into schedules, capacity, and material availability. In Microsoft Dynamics 365 Business Central, you can achieve this through powerful reporting tools and dashboards that […]
+The post Mastering Manufacturing in Business Central: Reporting & Power BI appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: The Best Choice for Manufacturers
+Mastering Manufacturing with Business Central: Reporting and Analytics for Capacity Planning
+Utilizing Power BI Reporting within Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages: Using Dataverse Business Rules for server-side validation of Web API calls]]></title>
+        <id>https://365community.online/power-pages-using-dataverse-business-rules-for-server-side-validation-of-web-api-calls</id>
+        <link href="https://365community.online/power-pages-using-dataverse-business-rules-for-server-side-validation-of-web-api-calls"/>
+        <updated>2025-08-04T09:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Similar to what I explained using Dataverse C# Plugins in my previous posts, sometimes people add business logic in standard forms or custom forms using JavaScript, but this is not enough to prevent certain updates (if the user modifies the DOM or calls the Web API directly,y they could be bypassed). For basic logic scenarios, […]
+The post Power Pages: Using Dataverse Business Rules for server-side validation of Web API calls appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Preview Power Fx Functions in Power Apps Test Engine]]></title>
+        <id>https://365community.online/exploring-preview-power-fx-functions-in-power-apps-test-engine</id>
+        <link href="https://365community.online/exploring-preview-power-fx-functions-in-power-apps-test-engine"/>
+        <updated>2025-08-04T08:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power Apps Test Engine provides a powerful automation framework to validate Canvas apps using test plans written in YAML and Power Fx. With the recent releases, Microsoft has introduced Preview Power Fx functions, enabling deeper, more realistic interaction with the app, pausing test execution, running Playwright scripts, and more. Prerequisites To start using the […]
+The post Exploring Preview Power Fx Functions in Power Apps Test Engine appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: finally we’ll have TRUNCATE table in SaaS.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-finally-well-have-truncate-table-in-saas</id>
+        <link href="https://365community.online/dynamics-365-business-central-finally-well-have-truncate-table-in-saas"/>
+        <updated>2025-08-04T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last 3 years I wrote many times about the need to have the possibility to execute a massive data deletion on SaaS and expecially the need to have the SQL TRUNCATE operation exposed to developers. My last post post this topic was this, I discussed with Microsoft and I also shared an Idea […]
+The post Dynamics 365 Business Central: finally we’ll have TRUNCATE table in SaaS. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Expert Reveals Top Tips for Mastering CAF Series – YouTube]]></title>
+        <id>https://365community.online/microsoft-expert-reveals-top-tips-for-mastering-caf-series-youtube</id>
+        <link href="https://365community.online/microsoft-expert-reveals-top-tips-for-mastering-caf-series-youtube"/>
+        <updated>2025-08-04T00:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to I am IT! The #azure Arc series is complete, but stay tuned for more exciting content. I’m excited to introduce some new changes coming to the channel related to #microsoft #azure and #hybridcloud. Stay tuned! Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Azure Arc-enabled Servers Overview: https://learn.microsoft.com/en-us/azure/azure-arc/servers/overview Join this channel to get access to perks: […]
+The post Microsoft Expert Reveals Top Tips for Mastering CAF Series – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why a Business Central Consultant Is Key to a Successful ERP Implementation]]></title>
         <id>https://erpsoftwareblog.com/?p=130328</id>
@@ -89648,17 +89803,6 @@ The post Picking list journal: Inventory dimension Location must be specified ap
 The post Warehouse Mobile Device Security Overview appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F&O development with multiple version control workspaces]]></title>
-        <id>https://dev.goshoom.net/?p=9875</id>
-        <link href="https://dev.goshoom.net/2023/08/fo-development-with-multiple-version-control-workspaces/"/>
-        <updated>2023-08-06T07:16:50.000Z</updated>
-        <summary type="html"><![CDATA[The usual setup (documented by Microsoft) of version control for F&O is using Team Foundation Version Control and configuring the workspace mapping like this: $/MyProject/Trunk/Main/Metadata k:\AosService\PackagesLocalDirectory $/MyProject/Trunk/Main/Projects c:\Users\Admin123456789\Documents\Visual Studio 2019\Projects This means that PackagesLocalDirectory contains both standard packages (such as ApplicationSuite) and custom packages, i.e. your development and ISV solutions you’ve installed. This works fine ...
-Continue reading ‘F&O development with multiple version control workspaces’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
         </author>
     </entry>
     <entry>
