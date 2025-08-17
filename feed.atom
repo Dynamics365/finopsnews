@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-08-16T01:49:03.666Z</updated>
+    <updated>2025-08-17T02:00:07.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Pages: Using Dataverse Classic real-time Workflows for Server-Side Validation of Web API Calls]]></title>
+        <id>https://365community.online/power-pages-using-dataverse-classic-real-time-workflows-for-server-side-validation-of-web-api-calls</id>
+        <link href="https://365community.online/power-pages-using-dataverse-classic-real-time-workflows-for-server-side-validation-of-web-api-calls"/>
+        <updated>2025-08-16T09:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Continuing the saga of server-side validation in Power Pages and reiterating the issue: Sometimes people add business logic in standard or custom forms using JavaScript. However, this approach only works on the client side, meaning it can be bypassed if someone manipulates the DOM or interacts directly with the Web API (e.g., using browser dev […]
+The post Power Pages: Using Dataverse Classic real-time Workflows for Server-Side Validation of Web API Calls appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Top Reasons your Dynamics 365 CRM Needs a Translation App today!]]></title>
+        <id>https://365community.online/webinar-top-reasons-your-dynamics-365-crm-needs-a-translation-app-today</id>
+        <link href="https://365community.online/webinar-top-reasons-your-dynamics-365-crm-needs-a-translation-app-today-2"/>
+        <updated>2025-08-16T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Struggling to communicate across languages in Dynamics 365 CRM? Serving international clients or collaborating with multilingual teams requires more than just basic translation, it demands real-time, seamless communication. Translate4Dynamics delivers exactly that, bringing instant multilingual support to Microsoft Dynamics 365 CRM, powered by Azure AI Translator. Communicate effortlessly across languages, improve customer experiences, and boost […]
+The post Webinar: Top Reasons your Dynamics 365 CRM Needs a Translation App today! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Top Reasons your Dynamics 365 CRM Needs a Translation App today!]]></title>
+        <id>https://365community.online/webinar-top-reasons-your-dynamics-365-crm-needs-a-translation-app-today</id>
+        <link href="https://365community.online/webinar-top-reasons-your-dynamics-365-crm-needs-a-translation-app-today"/>
+        <updated>2025-08-16T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Struggling to communicate across languages in Dynamics 365 CRM? Serving international clients or collaborating with multilingual teams requires more than just basic translation, it demands real-time, seamless communication. Translate4Dynamics delivers exactly that, bringing instant multilingual support to Microsoft Dynamics 365 CRM, powered by Azure AI Translator. Communicate effortlessly across languages, improve customer experiences, and boost […]
+The post Webinar: Top Reasons your Dynamics 365 CRM Needs a Translation App today! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Github actions for creating Unity catalog tables in Azure Databricks]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10585</id>
+        <link href="https://tomaztsql.wordpress.com/2025/08/16/using-github-actions-for-creating-unity-catalog-tables-in-azure-databricks/"/>
+        <updated>2025-08-16T07:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Managing your tables and data DDL and CRUD using Github actions (or any DevOps tool) is a great way to have your Azure Databricks Unity catalog developed from ground up with DevOps pipelines. And to evolve further catalogs, schemas or…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlock the Power of Free Apps in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=132719</id>
@@ -91427,26 +91471,6 @@ The post Can you add your own features to Feature Management? appeared first on 
 The post Import Number Sequences via Data Entity appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Path to Become Microsoft Dynamics 365 Finance and Operations Functional Consultant]]></title>
-        <id>http://exploredynamics365.home.blog/?p=2752</id>
-        <link href="https://exploredynamics365.home.blog/2023/08/18/learning-path-to-become-microsoft-dynamics-365-finance-and-operations-functional-consultant/"/>
-        <updated>2023-08-17T21:17:37.000Z</updated>
-        <summary type="html"><![CDATA[If you’re interested in embarking on the path of becoming a functional consultant for MS Dynamics 365 Finance and Operations but are uncertain about the specifics of this role, this video has been created with you in mind. Whether you’re a seasoned professional seeking to shift into consulting or a recent graduate, this video aims […]]]></summary>
-        <author>
-            <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Path to Become Microsoft Dynamics 365 Finance and Operations Functional Consultant]]></title>
-        <id>http://exploredynamics365.home.blog/?p=2752</id>
-        <link href="https://exploredynamics365.home.blog/2023/08/18/learning-path-to-become-microsoft-dynamics-365-finance-and-operations-functional-consultant/"/>
-        <updated>2023-08-17T21:17:37.000Z</updated>
-        <summary type="html"><![CDATA[If you’re interested in embarking on the path of becoming a functional consultant for MS Dynamics 365 Finance and Operations but are uncertain about the specifics of this role, this video has been created with you in mind. Whether you’re a seasoned professional seeking to shift into consulting or a recent graduate, this video aims […]]]></summary>
-        <author>
-            <name>Saurabh Bharti</name>
         </author>
     </entry>
     <entry>
