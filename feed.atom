@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-08-17T02:00:07.422Z</updated>
+    <updated>2025-08-18T02:00:42.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Absurd converter with Markdown report]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10573</id>
+        <link href="https://tomaztsql.wordpress.com/2025/08/17/little-useless-useful-r-functions-absurd-converter-with-markdown-report/"/>
+        <updated>2025-08-17T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[This time, I will do an absurd amount of useless conversions 🙂 Some might make some sense – in the long looong run, but most will for sure have none. It all started with coffee 🙂 and the initial question…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Pages: Using Dataverse Classic real-time Workflows for Server-Side Validation of Web API Calls]]></title>
         <id>https://365community.online/power-pages-using-dataverse-classic-real-time-workflows-for-server-side-validation-of-web-api-calls</id>
@@ -267,6 +278,17 @@ The post Explorando Claude Code y Subagentes appeared first on 365 Community Onl
 The post The #1 Microsoft CAF Mistake You’re Probably Making Right Now – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering frontier firms with the Case Management Agent]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195162</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/08/14/empowering-frontier-firms-with-the-case-management-agent/"/>
+        <updated>2025-08-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the latest updates to the Case Management Agent (CMA) in Dynamics 365 Customer Service, Microsoft is helping organizations accelerate their evolution into frontier firms. These organizations lead by empowering AI agents to run entire business processes while humans set direction and monitor progress.   The July 2025 preview updates to CMA introduced powerful capabilities that […]
+The post Empowering frontier firms with the Case Management Agent appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Saurabh Gupta and Harish Tyagi</name>
         </author>
     </entry>
     <entry>
