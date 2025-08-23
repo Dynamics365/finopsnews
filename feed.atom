@@ -2,10 +2,187 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-08-22T01:45:59.077Z</updated>
+    <updated>2025-08-23T01:42:10.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use AI to Write Blog Posts (Without Losing Your Soul)]]></title>
+        <id>https://365community.online/how-to-use-ai-to-write-blog-posts-without-losing-your-soul</id>
+        <link href="https://365community.online/how-to-use-ai-to-write-blog-posts-without-losing-your-soul"/>
+        <updated>2025-08-22T20:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Your mind is buzzing with ideas, insights, stories, and opinions that your audience wants to hear. But turning these ideas into blog posts feels like pulling teeth. That’s where AI comes in. AI can help you find the pulse of your audience, structure your ideas, and support your writing process, without compromising the originality of […]
+The post How to Use AI to Write Blog Posts (Without Losing Your Soul) appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Business Central’s DocXtender v2.4?]]></title>
+        <id>https://erpsoftwareblog.com/?p=132924</id>
+        <link href="https://erpsoftwareblog.com/2025/08/whats-new-in-business-centrals-docxtender-v2-4/"/>
+        <updated>2025-08-22T19:00:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Discover what's new in DocXtender v2.4 for Business Central, including faster SharePoint uploads and improved document handling.
+The post What’s New in Business Central’s DocXtender v2.4? appeared first on ERP Software Blog.
+Optimize Order Fulfillment in Business Central
+Import Data into Business Central with Free Import Export PowerTool
+The Secret to Effortless Data Migration in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staying Ahead in a Perishable World]]></title>
+        <id>https://erpsoftwareblog.com/?p=133022</id>
+        <link href="https://erpsoftwareblog.com/2025/08/staying-ahead-in-a-perishable-world/"/>
+        <updated>2025-08-22T17:50:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-moving markets, shelf life isn’t just a detail, it’s a business driver. From fresh food and beverages to pharmaceuticals and cosmetics, companies handling perishable products face mounting pressure: […]
+The post Staying Ahead in a Perishable World appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>NIC Systems Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Locking Down a Logic App (Consumption) with OAuth for Calls from Dataverse Plug-ins using Managed Identity]]></title>
+        <id>https://365community.online/locking-down-a-logic-app-consumption-with-oauth-for-calls-from-dataverse-plug-ins-using-managed-identity</id>
+        <link href="https://365community.online/locking-down-a-logic-app-consumption-with-oauth-for-calls-from-dataverse-plug-ins-using-managed-identity"/>
+        <updated>2025-08-22T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Why I did this I’m using managed identity to let a Dataverse plug-in call Azure resources without storing secrets. One of those calls hits a Logic App (Consumption) via the When an HTTP request is received trigger. I wanted to ensure the workflow can only be invoked by callers from my tenant using OAuth—no shared […]
+The post Locking Down a Logic App (Consumption) with OAuth for Calls from Dataverse Plug-ins using Managed Identity appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Richard Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Power of Business Central Integrations]]></title>
+        <id>https://erpsoftwareblog.com/?p=133018</id>
+        <link href="https://erpsoftwareblog.com/2025/08/unlock-the-power-of-business-central-integrations/"/>
+        <updated>2025-08-22T15:44:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Out-of-the-box, Dynamics 365 Business Central delivers robust functionality for finance, inventory, sales, and operations. But with smart integrations, it transforms into a business intelligence and automation powerhouse. Here’s how strategic […]
+The post Unlock the Power of Business Central Integrations appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for a Dynamics 365 Data Migration]]></title>
+        <id>https://erpsoftwareblog.com/?p=132366</id>
+        <link href="https://erpsoftwareblog.com/2025/08/how-to-prepare-for-a-dynamics-365-data-migration/"/>
+        <updated>2025-08-22T14:25:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+While migrating data from one system to another may seem like a straightforward technical task, a poorly executed data migration project can severely impact your organization. It can lead to […]
+The post How to Prepare for a Dynamics 365 Data Migration appeared first on ERP Software Blog.
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+How to Reduce Costs with Master Data Management in Dynamics 365]]></summary>
+        <author>
+            <name>STAEDEAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Business Central is the Right Choice for Process Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=132287</id>
+        <link href="https://erpsoftwareblog.com/2025/08/why-business-central-is-the-right-choice-for-process-manufacturers/"/>
+        <updated>2025-08-22T14:23:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’re a manufacturer who works with formulas or recipes, you’ve probably heard about Microsoft Dynamics 365 Business Central. It’s a fantastic, powerful system, and on the surface, it seems […]
+The post Why Business Central is the Right Choice for Process Manufacturers appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Strategic Mindset for a Successful ERP implementation
+Discrete vs. Process and Batch Manufacturing: What’s the Difference?]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft publishes Sales Order Agent use case in FastTrack-Implementation-Assets]]></title>
+        <id>http://kurthatlevik.com/?p=4790</id>
+        <link href="https://kurthatlevik.com/2025/08/22/microsoft-publishes-sales-order-agent-use-case-in-fasttrack-implementation-assets/"/>
+        <updated>2025-08-22T12:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has now published a new FastTrack use case for the Sales Order Agent in D365 . This shows how AI is becoming an integrated part of ERP—automating order intake and reducing manual effort. What is the Sales Order Agent? The Sales Order Agent acts as a virtual assistant. It can read customer emails, create … Continue reading Microsoft publishes Sales Order Agent use case in FastTrack-Implementation-Assets]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft publishes Sales Order Agent use case in FastTrack-Implementation-Assets]]></title>
+        <id>https://365community.online/microsoft-publishes-sales-order-agent-use-case-in-fasttrack-implementation-assets</id>
+        <link href="https://365community.online/microsoft-publishes-sales-order-agent-use-case-in-fasttrack-implementation-assets"/>
+        <updated>2025-08-22T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has now published a new FastTrack use case for the Sales Order Agent in D365 . This shows how AI is becoming an integrated part of ERP—automating order intake and reducing manual effort. What is the Sales Order Agent? The Sales Order Agent acts as a virtual assistant. It can read customer emails, create […]
+The post Microsoft publishes Sales Order Agent use case in FastTrack-Implementation-Assets appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn Sales Data into Business Gold with Heat Maps in Dynamics 365 CRM!]]></title>
+        <id>https://365community.online/turn-sales-data-into-business-gold-with-heat-maps-in-dynamics-365-crm</id>
+        <link href="https://365community.online/turn-sales-data-into-business-gold-with-heat-maps-in-dynamics-365-crm"/>
+        <updated>2025-08-22T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever stared at a sales report and wondered, “Okay, but what does this mean for the location?”, you’re not alone. Numbers tell a story, true, but they don’t always show you the real & complete picture. Bring in heat maps in Dynamics CRM, where your data stops being static rows in a spreadsheet […]
+The post Turn Sales Data into Business Gold with Heat Maps in Dynamics 365 CRM! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Scoreboard Scores a Blunder: How Perth Panthers Handled a Faulty Asset with Dynamics 365 Field Service]]></title>
+        <id>https://365community.online/when-the-scoreboard-scores-a-blunder-how-perth-panthers-handled-a-faulty-asset-with-dynamics-365-field-service</id>
+        <link href="https://365community.online/when-the-scoreboard-scores-a-blunder-how-perth-panthers-handled-a-faulty-asset-with-dynamics-365-field-service"/>
+        <updated>2025-08-22T09:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The Big Purchase That Didn’t Deliver The Perth Panthers had just invested in a digital scoreboard. It was supposed to be the crown jewel of the arena — flashing goals, penalties, and sponsor logos like a Vegas slot machine. Instead, it turned out to be a glorified wall ornament. No lights, no sound, no joy. […]
+The post When the Scoreboard Scores a Blunder: How Perth Panthers Handled a Faulty Asset with Dynamics 365 Field Service appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mark Christie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Reasons Why Maplytics is the Best Geo-Analytical Application for Dynamics 365]]></title>
+        <id>https://365community.online/10-reasons-why-maplytics-is-the-best-geo-analytical-application-for-dynamics-365</id>
+        <link href="https://365community.online/10-reasons-why-maplytics-is-the-best-geo-analytical-application-for-dynamics-365"/>
+        <updated>2025-08-22T09:47:00.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-changing world of modern business, location analytics has moved from being a “nice-to-have” to an absolute necessity. Companies need actionable, real-time insights that connect geography with strategy, more than just static data. When it comes to geo-analytics for the Microsoft ecosystem, Maplytics stands out as the ultimate solution. Built natively for Microsoft Dynamics […]
+The post 10 Reasons Why Maplytics is the Best Geo-Analytical Application for Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code and autodiscovery of MCP servers: better to stay in control.]]></title>
+        <id>https://365community.online/visual-studio-code-and-autodiscovery-of-mcp-servers-better-to-stay-in-control</id>
+        <link href="https://365community.online/visual-studio-code-and-autodiscovery-of-mcp-servers-better-to-stay-in-control"/>
+        <updated>2025-08-22T08:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code in latest versions has an autodiscovery feature for MCP servers installed in your local machine that automatically permits you to import MCP configurations from other tools like Claude, Cursor, Windsurf (at the moment these are only AI tools supported): This setting is enabled by default at the moment, so every time you […]
+The post Visual Studio Code and autodiscovery of MCP servers: better to stay in control. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Talk to Copilot (and Actually Get the Results You Want)]]></title>
+        <id>https://erpsoftwareblog.com/?p=132969</id>
+        <link href="https://erpsoftwareblog.com/2025/08/how-to-talk-to-copilot-and-actually-get-the-results-you-want/"/>
+        <updated>2025-08-22T08:00:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Copilot for Microsoft 365 is like that colleague who always has time to help – except it never takes vacation and doesn’t need coffee breaks (though yes, it still […]
+The post How to Talk to Copilot (and Actually Get the Results You Want) appeared first on ERP Software Blog.
+Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer
+The CFO’s Secret Weapon: Real-Time Control with ERP
+ERP Pricing: What You Need to Know Before You Get a Quote]]></summary>
+        <author>
+            <name>On Point Services US LLC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Month-End is Easier with Dynamics 365 BC: Eliminate the Chaos]]></title>
         <id>https://erpsoftwareblog.com/?p=132836</id>
@@ -82,6 +259,17 @@ AP Automation for Retailers: Streamlining the Chaos of Store Openings and Closur
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is Microsoft Cloud Governance and How Does it Work? – YouTube]]></title>
+        <id>https://365community.online/what-is-microsoft-cloud-governance-and-how-does-it-work-youtube</id>
+        <link href="https://365community.online/what-is-microsoft-cloud-governance-and-how-does-it-work-youtube"/>
+        <updated>2025-08-21T15:00:58.000Z</updated>
+        <summary type="html"><![CDATA[In this episode we re-start the Microsoft CAF Architecture series with a more structured approach. #microsoftmvp Shabaz Darr describes the fundamentals of the Cloud Adoption Framework including its pillars and the benefits for customers. Episode Breakdown – 00:00 – Episode Introduction 02:01 – Episode Breakdown 02:26 – What is Cloud Governance? 04:35 – Governance in […]
+The post What is Microsoft Cloud Governance and How Does it Work? – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your Guide to the Microsoft Stack]]></title>
         <id>https://erpsoftwareblog.com/?p=132524</id>
         <link href="https://erpsoftwareblog.com/2025/08/your-guide-to-the-microsoft-stack/"/>
@@ -94,6 +282,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>ArcherPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAX for Beginners in Power BI || 22 – YouTube]]></title>
+        <id>https://365community.online/dax-for-beginners-in-power-bi-22-youtube</id>
+        <link href="https://365community.online/dax-for-beginners-in-power-bi-22-youtube"/>
+        <updated>2025-08-21T13:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Are you new to DAX in Power BI?  In this beginner-friendly video, we’ll cover everything you need to know about Data Analysis Expressions (DAX) including: ✔ What is DAX? ✔ Uses of DAX in Power BI ✔ Calculated Columns ✔ Measures ✔ Calculated Tables This video consists of: • 0:00 – 0:10 → Introduction • […]
+The post DAX for Beginners in Power BI || 22 – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
         </author>
     </entry>
     <entry>
