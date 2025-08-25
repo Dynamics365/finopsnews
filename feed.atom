@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-08-24T01:55:47.035Z</updated>
+    <updated>2025-08-25T01:50:21.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Easy Guide to Cloud Policies for Beginners! – YouTube]]></title>
+        <id>https://365community.online/easy-guide-to-cloud-policies-for-beginners-youtube</id>
+        <link href="https://365community.online/easy-guide-to-cloud-policies-for-beginners-youtube"/>
+        <updated>2025-08-24T15:00:16.000Z</updated>
+        <summary type="html"><![CDATA[In this video, I dive into how Azure Policy helps you align with the Microsoft Cloud Adoption Framework (CAF) for effective governance and compliance. Learn what Azure Policy is, the difference between built-in and custom policies, and how policy initiatives streamline compliance across your environment. Watch the demo at the end where I show Azure […]
+The post Easy Guide to Cloud Policies for Beginners! – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Adaptive Card Date Issues with Power Automate]]></title>
+        <id>https://365community.online/fix-adaptive-card-date-issues-with-power-automate</id>
+        <link href="https://365community.online/fix-adaptive-card-date-issues-with-power-automate"/>
+        <updated>2025-08-23T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Some people wrestle with darkness, not me. I love shadows. Especially Copilot Studio data related ones. Whilst being obsessed with Wednesday season 2, I decided to experiment with Adaptive Cards again. I wanted to build cool record creation automation between Copilot Studio agents and my Dynamics 365/ Model-Driven Apps. Always being in Sales Ops and CRM, […]
+The post Fix Adaptive Card Date Issues with Power Automate appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Angeliki Patsiavou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using AI Hub: Document outputs in prompts]]></title>
         <id>https://365community.online/using-ai-hub-document-outputs-in-prompts</id>
@@ -59,6 +81,17 @@ The post Cisco Camera Not Detected by Codec: Root Cause Analysis & Fixes appeare
 The post Power Pages FetchXML List Filters, Link-Entities limitations, and a Power Fx column workaround appeared first on 365 Community Online.]]></summary>
         <author>
             <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlin Full Course (2025) | Free Kotlin Course For Beginners | Android Kotlin Training | MindMajix – YouTube]]></title>
+        <id>https://365community.online/kotlin-full-course-2025-free-kotlin-course-for-beginners-android-kotlin-training-mindmajix-youtube</id>
+        <link href="https://365community.online/kotlin-full-course-2025-free-kotlin-course-for-beginners-android-kotlin-training-mindmajix-youtube"/>
+        <updated>2025-08-23T06:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Kotlin Full Course, the ultimate guide to mastering Kotlin programming language from begining to advanced. In this free Kotlin course, you’ll learn Kotlin basics, data types, variables, functions, classes, collections, OOP concepts, null safety, coroutines, and more. We’ll also cover how Kotlin integrates seamlessly with Java, and why it’s the preferred language […]
+The post Kotlin Full Course (2025) | Free Kotlin Course For Beginners | Android Kotlin Training | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
