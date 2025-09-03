@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-09-02T01:44:12.657Z</updated>
+    <updated>2025-09-03T01:37:39.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shipping with Business Central Is More Than Printing a Label]]></title>
+        <id>https://erpsoftwareblog.com/?p=133321</id>
+        <link href="https://erpsoftwareblog.com/2025/09/shipping-with-business-central-is-more-than-printing-a-label/"/>
+        <updated>2025-09-02T19:00:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Discover why shipping in Dynamics 365 Business Central is more than label printing. See how Dynamic Ship streamlines real, embedded shipping workflows.
+The post Shipping with Business Central Is More Than Printing a Label appeared first on ERP Software Blog.
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Benefits of Automatic Collection Efforts in Business Central
+Key Trends for Accounts Payable in 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an MES and how do you choose the right MES for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=133386</id>
+        <link href="https://erpsoftwareblog.com/2025/09/choosing-an-mes-for-business-central/"/>
+        <updated>2025-09-02T17:25:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manufacturers running Microsoft Dynamics 365 Business Central often discover a gap between planning in the ERP and execution on the shop floor. Production orders may look perfect in theory, but […]
+The post What is an MES and how do you choose the right MES for Business Central appeared first on ERP Software Blog.
+Importance of ERP Software in Manufacturing Industries
+What industry newbies can learn from “The State of Dynamics 365 Business Central and Manufacturing Report”
+Warehouse Insight v2.11: Streamlining Operations in Business Central]]></summary>
+        <author>
+            <name>Erin Bonde, MV2 MES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recurring revenue, recurring headaches: The top 5 mistakes in subscription rollouts.]]></title>
+        <id>https://erpsoftwareblog.com/?p=133247</id>
+        <link href="https://erpsoftwareblog.com/2025/09/recurring-revenue-recurring-headaches-the-top-5-mistakes-in-subscription-rollouts/"/>
+        <updated>2025-09-02T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For some teams, it’s the desire to stay competitive. For others, it’s a need to meet investor expectations. In many cases, it’s just about responding to shifting customer preferences. Whatever […]
+The post Recurring revenue, recurring headaches: The top 5 mistakes in subscription rollouts. appeared first on ERP Software Blog.
+Dynamics 365 Tutorials Help You Get up and Running Fast
+Dynamics 365 for Finance and Operations Goes Mobile
+Microsoft Dynamics 365 Overview]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Product Attributes and Categories in Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=69944</id>
+        <link href="https://www.encorebusiness.com/blog/product-attributes-and-categories-in-d365-finance-operations/"/>
+        <updated>2025-09-02T16:06:24.000Z</updated>
+        <summary type="html"><![CDATA[How to Use Product Attributes and Categories in Dynamics 365 Finance & Operations
+Product managers and designers can run into confusing problems with product attributes and categories when trying to set up new products or versions in Dynamics 365 Finance & Operations. Unfortunately, figuring out how to handle attributes and categories by relying on the Microsoft documentation can be frustrating. When I show clients the ins and outs...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Nico Papajani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Automated Invoice Processing: A Practical Implementation Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=133377</id>
+        <link href="https://erpsoftwareblog.com/2025/09/how-we-automated-invoice-processing-a-practical-implementation-guide/"/>
+        <updated>2025-09-02T14:45:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Problem: 15 Minutes Per Invoice × 4,000 Invoices Monthly CareScout's customer support team was drowning in manual invoice processing. Here's what we were dealing with: Volume: 3,500-4,000 invoices monthly […]
+The post How We Automated Invoice Processing: A Practical Implementation Guide appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dan Kosanovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create X++ Client Plugins for Copilot Studio in Dynamics 365 F&O]]></title>
+        <id>https://ariste.info/?p=10579</id>
+        <link href="https://ariste.info/2025/09/create-client-plugins-copilot-studio-d365-fo/"/>
+        <updated>2025-09-02T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 3 of the Copilot Studio + F&O extensibility series. Learn what client plugins are, when to use them, and how to build one in X++—from action scopes and parameters to implementing executeAction and wiring trigger/response topics. Includes a PurchTable example to confirm POs from the sidecar chat. Click here to continue reading Create X++ Client Plugins for Copilot Studio in Dynamics 365 F&O]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents in ERP: A Practical Guide for CTOs and IT Leaders]]></title>
+        <id>https://erpsoftwareblog.com/?p=133370</id>
+        <link href="https://erpsoftwareblog.com/2025/09/ai-agents-in-erp/"/>
+        <updated>2025-09-02T12:54:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Enterprise Resource Planning (ERP) systems have long been the backbone of business operations. Yet, as organizations in the USA face growing challenges- rising costs, supply chain disruptions, and talent shortages […]
+The post AI Agents in ERP: A Practical Guide for CTOs and IT Leaders appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where are the implementation cost-reductions ?]]></title>
+        <id>http://kurthatlevik.com/?p=4796</id>
+        <link href="https://kurthatlevik.com/2025/09/02/where-are-the-implementation-cost-reductions/"/>
+        <updated>2025-09-02T11:13:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been implementing D365 since it first became available. Over the years, the improvements have been both incremental in the short term and fundamental in the long run. Cloud, AI, and modern architecture have reshaped what’s possible. But what puzzles me is this: the costs of implementing D365 and transforming business operations haven’t changed in … Continue reading Where are the implementation cost-reductions ?]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI vs Tableau: Which Wins for Dynamics 365 Users in 2025?]]></title>
+        <id>https://erpsoftwareblog.com/?p=133358</id>
+        <link href="https://erpsoftwareblog.com/2025/09/power-bi-vs-tableau-2025/"/>
+        <updated>2025-09-02T09:23:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing the right business intelligence tool can make or break your Dynamics 365 investment. With over 250,000 organizations worldwide using Microsoft's ERP platform, the question isn't whether you need business […]
+The post Power BI vs Tableau: Which Wins for Dynamics 365 Users in 2025? appeared first on ERP Software Blog.
+Custom Tech Solutions for Salesforce with Microsoft Power Platform
+Microsoft Dynamics 365 Customer Insights: 6 Reasons to Switch
+Salesforce Coming Up Short? Microsoft Power Platform to the Rescue]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Reasons Your Firm Needs Dynamics 365 Field Security from 2-Controlware]]></title>
+        <id>https://erpsoftwareblog.com/?p=133359</id>
+        <link href="https://erpsoftwareblog.com/2025/09/three-reasons-your-firm-needs-dynamics-365-field-security-from-2-controlware/"/>
+        <updated>2025-09-02T09:08:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Every organization faces extreme conditions when someone unauthorized accesses data. This data can be forged or copied for unethical purposes. However, ill intentions are not the only concern. An employee's […]
+The post Three Reasons Your Firm Needs Dynamics 365 Field Security from 2-Controlware appeared first on ERP Software Blog.
+Everything You Need to Know About Microsoft Dynamics 365 Selection
+The Impact of Field Validation Softwareon Customer Experiencefield validation software
+Better Information = Stronger Company in Tough Economy]]></summary>
+        <author>
+            <name>2-Controlware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s Blocking ROI on Your ERP Let’s Fix It]]></title>
+        <id>https://erpsoftwareblog.com/?p=133347</id>
+        <link href="https://erpsoftwareblog.com/2025/09/whats-blocking-roi-on-your-erp-lets-fix-it/"/>
+        <updated>2025-09-02T04:42:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’ve implemented an ERP system like Microsoft Dynamics 365 and you’re still asking, “Where’s the return on investment?”, you're not the only one. Many businesses go live with an […]
+The post What’s Blocking ROI on Your ERP Let’s Fix It appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PCF: Using in Panels and Dialogs]]></title>
         <id>https://365community.online/pcf-using-in-panels-and-dialogs</id>
@@ -155,6 +308,21 @@ The post Use Maps Integrated in Dynamics 365 to Optimize Warehouse-to-Delivery O
         <summary type="html"><![CDATA[Microsoft has just closed a critical gap in Dynamics 365 Project Operations with the release of “Manage Stocked Products for Integrated ERP Deployments.” For leaders overseeing material-intensive projects in construction, engineering, field services, this is the missing link that finally aligns inventory control with project delivery in a unified ERP architecture. With this feature, organizations […]]]></summary>
         <author>
             <name>Sandeep Chaudhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stuck After ERP Go-Live? Here's What Smart Companies Do Next]]></title>
+        <id>https://erpsoftwareblog.com/?p=133343</id>
+        <link href="https://erpsoftwareblog.com/2025/09/stuck-after-erp-go-live-heres-what-smart-companies-do-next-dax-software/"/>
+        <updated>2025-09-01T04:31:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You’ve invested time, money, and effort to implement your ERP system. Go-live day arrives; everyone breathes a sigh of relief. But shortly after, reality sets in. There’s no support, No […]
+The post Stuck After ERP Go-Live? Here's What Smart Companies Do Next appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
         </author>
     </entry>
     <entry>
@@ -399,6 +567,17 @@ Create A New Item In Dynamics 365 Business Central]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI in the inbox: Are your customers ready to embrace AI-powered outreach?]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195329</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/08/28/ai-in-the-inbox-are-your-customers-ready-to-embrace-ai-powered-outreach/"/>
+        <updated>2025-08-28T19:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Sales offers Sales Qualification Agent, which works around the clock to automate pipeline qualification and improve lead quality. Sales Qualification Agent proactively researches information about the lead and company, and can  identify customer fit and stage in the buying journey. The agent can also engage hundreds of leads at once with personalized e-mails and follow-ups. Your organization can configure the agent to meet the needs of your business, like handoff criteria for when it’s time to pass the lead to a seller.
+The post AI in the inbox: Are your customers ready to embrace AI-powered outreach?  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Kriti Basu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Simplify Workplace Safety and Compliance in Business Central with Safety Logbook]]></title>
         <id>https://erpsoftwareblog.com/?p=133146</id>
         <link href="https://erpsoftwareblog.com/2025/08/simplify-workplace-safety-and-compliance-in-business-central-with-safety-logbook/"/>
@@ -467,6 +646,17 @@ Benefits DynaRent Adds to Dynamics 365 F&SCM as a Rental Software]]></summary>
 The post Microsoft Expert Reveals Top Azure CAF Best Practices for Compliance – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tackle the future of  business operations with the combined power of Microsoft 365 and Dynamics 365 Business Central]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195315</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/08/28/tackle-the-future-of-business-operations-with-the-combined-power-of-microsoft-365-and-dynamics-365-business-central/"/>
+        <updated>2025-08-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Empower your business with unified data, AI-powered workflows, and seamless Microsoft 365 integration using Dynamics 365 Business Central.
+The post Tackle the future of  business operations with the combined power of Microsoft 365 and Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Morton</name>
         </author>
     </entry>
     <entry>
@@ -94994,16 +95184,6 @@ video I'll share my solution to implement easily new reports and I will explain 
 The post How to reverse engineer feature management features appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Commerce hypes from Gartner]]></title>
-        <id>http://kurthatlevik.com/?p=4489</id>
-        <link href="https://kurthatlevik.com/2023/09/04/4-commerce-hypes-from-gartner/"/>
-        <updated>2023-09-04T10:41:39.000Z</updated>
-        <summary type="html"><![CDATA[At the inspirit365 Vision Summit in Paris, I got to present details from the latest Gartner report, Hype Cycle for Retail Technologies, 2023. There are 4 areas I would like to relate to the Dynamics 365 Commerce offerings, where I think Microsoft have a very strong offering. I cannot share the Gartner report, but I … Continue reading 4 Commerce hypes from Gartner]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
