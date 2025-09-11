@@ -2,10 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-09-10T01:38:26.971Z</updated>
+    <updated>2025-09-11T01:41:13.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365FO Integration: Import Purchase Orders from PDF using Gemini AI]]></title>
+        <id>https://denistrunin.com/integration-importpurchpdf/</id>
+        <link href="https://denistrunin.com/integration-importpurchpdf/"/>
+        <updated>2025-09-10T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use AI to import purchase orders into Dynamics 365 Finance from complex PDF files. This post covers integration design, sample prompts, and practical code examples.]]></summary>
+        <author>
+            <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics GP to BC Migration Event at Community Summit 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=133912</id>
+        <link href="https://erpsoftwareblog.com/2025/09/microsoft-dynamics-gp-to-bc-migration-event-at-community-summit-2025/"/>
+        <updated>2025-09-10T20:33:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you're running Dynamics GP, chances are you've been fielding questions. From your CFO asking about cloud costs. From IT, wondering about support timelines. From users who've heard Business Central […]
+The post Microsoft Dynamics GP to BC Migration Event at Community Summit 2025 appeared first on ERP Software Blog.
+Microsoft Convergence 2011 is On!
+Microsoft Dynamics Bringing Together Around 10,000 Users Annually
+Survival Tips for After Your ERP Software Go Live – When Your Consultant Is No Longer Part of Your Day to Day.]]></summary>
+        <author>
+            <name>Anya Ciecierski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transitioning from Dynamics GP to Dynamics 365 Business Central – What to Expect with Your AR Process]]></title>
+        <id>https://erpsoftwareblog.com/?p=133904</id>
+        <link href="https://erpsoftwareblog.com/2025/09/transitioning-from-dynamics-gp-to-dynamics-365-business-central-what-to-expect-with-your-ar-process/"/>
+        <updated>2025-09-10T19:59:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+With the sunsetting of Dynamics GP approaching, companies still relying on GP are looking for their next ERP solution. Staying on GP isn’t an option due to enhanced security risks, […]
+The post Transitioning from Dynamics GP to Dynamics 365 Business Central – What to Expect with Your AR Process appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Ryan McBee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering User Access in Business Central: A Strategic Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=132976</id>
+        <link href="https://erpsoftwareblog.com/2025/09/user-access-in-business-central/"/>
+        <updated>2025-09-10T18:15:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Controlling user access within your Business Central environment is more than just a technical necessity - it’s a strategic imperative. Properly configured permissions empower your team to work efficiently while […]
+The post Mastering User Access in Business Central: A Strategic Guide appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free checklist: When do you need to go beyond Business Central for multi-entity management?]]></title>
+        <id>https://erpsoftwareblog.com/?p=133239</id>
+        <link href="https://erpsoftwareblog.com/2025/09/free-checklist-when-do-you-need-to-go-beyond-business-central-for-multi-entity-management/"/>
+        <updated>2025-09-10T17:30:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central is a powerful platform, But as you expand across markets, add new entities, and manage complex intercompany transactions, you might face limitations. This checklist is a practical tool to help […]
+The post Free checklist: When do you need to go beyond Business Central for multi-entity management? appeared first on ERP Software Blog.
+Free download | Guide to multi-entity management in Microsoft Dynamics 365 Business Central.
+How to Manage Your Inventory Using Microsoft Dynamics 365 Business Central
+Microsoft Dynamics 365 Business Central: The Best Choice for Manufacturers]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 F&O Testing Simplified and Automated with Leapwork]]></title>
+        <id>https://erpsoftwareblog.com/?p=133198</id>
+        <link href="https://erpsoftwareblog.com/2025/09/dynamics-365-fo-testing-simplified-and-automated-with-leapwork/"/>
+        <updated>2025-09-10T17:17:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In our previous article, we explored the benefits and limitations of using the Regression Suite Automation Tool (RSAT) for testing Microsoft Dynamics 365 Finance and Operations (F&O). While RSAT provides […]
+The post Dynamics 365 F&O Testing Simplified and Automated with Leapwork appeared first on ERP Software Blog.
+How to Prepare for a Dynamics 365 Data Migration
+Accounts Payable Data: The Hidden Treasure You’re Sitting On
+Enterprise Supply Chain Optimization: How Dynamics 365 Powers Smarter Decisions from Warehouse to CFO Desk]]></summary>
+        <author>
+            <name>Leapwork</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Webinar: Transforming Quality Inspections in Business Central: From Paper to Automation]]></title>
+        <id>https://erpsoftwareblog.com/?p=133888</id>
+        <link href="https://erpsoftwareblog.com/2025/09/eu-webinar-transforming-quality-inspections-in-business-central-from-paper-to-automation/"/>
+        <updated>2025-09-10T17:12:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Quality control shouldn’t slow you down or live outside your system. But for many teams, inspections still rely on paper checklists, disconnected spreadsheets, and after-the-fact data entry. The result? Missed tests, inconsistent results, and delayed decisions.
+The post EU Webinar: Transforming Quality Inspections in Business Central: From Paper to Automation appeared first on ERP Software Blog.
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Benefits of Automatic Collection Efforts in Business Central
+Key Trends for Accounts Payable in 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing High-Value Medical Assets in D365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=133883</id>
+        <link href="https://erpsoftwareblog.com/2025/09/managing-high-value-medical-assets-in-d365-finance/"/>
+        <updated>2025-09-10T16:17:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In healthcare, overseeing high-value medical assets is about more than financial oversight, it directly impacts patient outcomes, regulatory compliance, and day-to-day efficiency. From MRI scanners and surgical instruments to advanced […]
+The post Managing High-Value Medical Assets in D365 Finance appeared first on ERP Software Blog.
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary
+Advanced Quality Management in Microsoft D365: Strengthening Compliance and Control in the Pharmaceutical Industry
+Ten Lessons Learned from Healthcare Organizations on Selecting and Implementing Financial Management and Accounting Software for Their Needs]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why most ERP projects fail before they even begin]]></title>
+        <id>https://erpsoftwareblog.com/?p=133875</id>
+        <link href="https://erpsoftwareblog.com/2025/09/why-most-erp-projects-fail-before-they-even-begin/"/>
+        <updated>2025-09-10T15:01:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP implementations are often described as high-stakes, high-complexity undertakings, and the numbers prove it. Studies show that nearly half of ERP projects fail to meet their goals, often running over […]
+The post Why most ERP projects fail before they even begin appeared first on ERP Software Blog.
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central]]></summary>
+        <author>
+            <name>Justin Delisle, Tato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicPoint GCC Compatibility]]></title>
+        <id>https://erpsoftwareblog.com/?p=133866</id>
+        <link href="https://erpsoftwareblog.com/2025/09/dynamicpoint-gcc-compatibility/"/>
+        <updated>2025-09-10T14:21:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Federal, state, and local agencies can now streamline operations securely! DynamicPoint’s Microsoft 365-based solutions—Invoice Automation, Expense Management, and Portals—deploy seamlessly within the Government Community Cloud (GCC), providing FedRAMP-grade compliance, enhanced […]
+The post DynamicPoint GCC Compatibility appeared first on ERP Software Blog.
+How to Ensure that Your Data is Secure Online with ERP Software
+Better Compliance and Efficiency with Dynamics GP Not-for-Profit
+The 5 Most Often Overlooked Costs of ERP]]></summary>
+        <author>
+            <name>DynamicPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Business Central Implementation Challenges and How to Solve Them?]]></title>
+        <id>https://erpsoftwareblog.com/?p=133769</id>
+        <link href="https://erpsoftwareblog.com/2025/09/common-business-central-implementation-challenges-and-how-to-solve-them/"/>
+        <updated>2025-09-10T05:01:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Implementing Dynamics 365 Business Central (BC) can be a game-changer for businesses looking to streamline operations, improve financial management, and enhance customer experience. However, like any enterprise solution, BC implementation […]
+The post Common Business Central Implementation Challenges and How to Solve Them? appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Markov babbler]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10615</id>
+        <link href="https://tomaztsql.wordpress.com/2025/09/10/little-useless-useful-r-functions-markov-babbler/"/>
+        <updated>2025-09-10T04:22:17.000Z</updated>
+        <summary type="html"><![CDATA[This one is named, yes, you guessed it, after Markov chains. 🙂 The babbler is there to connotate the simplicity of useless R function. It’s simple calculation of probability of words chaining and drawing the multiple times appeared chained words…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Ways Dynamics 365 Business Central Strengthens Your Inventory Strategy]]></title>
         <id>https://erpsoftwareblog.com/?p=133790</id>
@@ -96300,76 +96471,6 @@ select firstonly WorkflowWorkItemTable
 	&& workflowWorkItemTable.Status == WorkflowWorkItemStatus::Pending // this should be Pending
 	&& WorkflowWorkItemTable.RefTableId == tableNum(common)
 	&& WorkflowWo…]]></summary>
-        <author>
-            <name>Dynamics World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetch the Format of financial dimension formats for data entities using X++]]></title>
-        <id>https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html</id>
-        <link href="https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html"/>
-        <updated>2023-09-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fetch the Format of financial dimension formats for data entities using X++.
-
-
-
-I have a requirement to fetch the value mentioned in the above SC and the below one.
-BusinessUnit-CostCenter-Department-Campaign-Center-Customer-Project-Store
-
-
-To get this I have used the Dimension format type  and Active for type
-
-
-
-
-Way 1:
-    private container getFDFromParameters()
-    {
-	DimensionHierarchy              dimensionHierarchy;
-	DimensionHierarchyIntegration   dimensionHierarchyIntegration;
-	container                       con;
-	str				delimiter = DimensionParameters::getDimensionSegmentDelimiter();
-	
-	select firstonly DisplayString from dimensionHierarchyIntegration
-	    exists join dimensionHierarchy
-		where dimensionHierarchy.RecId == dimensionHierarchyIntegration.DimensionHierarchy
-		    && dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat
-		    && dimensionHierarchyIntegration.IsDefault == true;
-
-	return str2con(dimensionHierarchyIntegration.DisplayString, delimiter);
-    }
-
-
-Way 2:
-    private container getFDFromParameters()
-    {
-	DimensionHierarchyLevel         dimensionHierarchyLevel;
-	DimensionHierarchy              dimensionHierarchy;
-	DimensionHierarchyIntegration   dimensionHierarchyIntegration;
-	container                       con;
-
-	while select dimensionHierarchyLevel order by dimensionHierarchyLevel.Level
-		exists join dimensionHierarchy
-		    where dimensionHierarchy.RecId == dimensionHierarchyLevel.DimensionHierarchy
-		exists join dimensionHierarchyIntegration
-		    where dimensionHierarchyIntegration.DimensionHierarchy == dimensionHierarchy.RecId
-	                && dimensionHierarchyIntegration.IsDefault == true
-			&& dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat
-	{
-	    con += DimensionAttribute::find(dimensionHierarchyLevel.DimensionAttribute).Name;
-	}
-
-	return con;
-    }
-
-
-Output:
-
-
-
-
-
-Keep Daxing!!]]></summary>
         <author>
             <name>Dynamics World</name>
         </author>

@@ -628,16 +628,6 @@
           "wordCount": 3008,
           "title": "Multi select workflow using x++",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FKcoJog64XAHPfYU0thILe71-lJa1YHThkCEVGMKpcAT187yJwr3KeUsvN7NwraBcQZW1Yh0pm4TAX9EF-t6HzMY4Oq3-hg_hhi8kZo5aujUru2ATLR8EkI83y8kmXKEzFCxMe5TWvgg50LgJpM1IMtl-2RxEqszP1n_phUFGUaHAnD9SaGt3wHue-w/w1200-h630-p-k-no-nu/image_2023_09_12T10_56_49_218Z.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html",
-          "author": null,
-          "description": "Fetch the Format of financial dimension formats for data entities using X++.\n\n\n\nI have a requirement to fetch the value mentioned in the above SC and the below one.\nBusinessUnit-CostCenter-Department-Campaign-Center-Customer-Project-Store\n\n\nTo get this I have used the Dimension format type  and Active for type\n\n\n\n\nWay 1:\n    private container getFDFromParameters()\n    {\n\tDimensionHierarchy              dimensionHierarchy;\n\tDimensionHierarchyIntegration   dimensionHierarchyIntegration;\n\tcontainer                       con;\n\tstr\t\t\t\tdelimiter = DimensionParameters::getDimensionSegmentDelimiter();\n\t\n\tselect firstonly DisplayString from dimensionHierarchyIntegration\n\t    exists join dimensionHierarchy\n\t\twhere dimensionHierarchy.RecId == dimensionHierarchyIntegration.DimensionHierarchy\n\t\t    && dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat\n\t\t    && dimensionHierarchyIntegration.IsDefault == true;\n\n\treturn str2con(dimensionHierarchyIntegration.DisplayString, delimiter);\n    }\n\n\nWay 2:\n    private container getFDFromParameters()\n    {\n\tDimensionHierarchyLevel         dimensionHierarchyLevel;\n\tDimensionHierarchy              dimensionHierarchy;\n\tDimensionHierarchyIntegration   dimensionHierarchyIntegration;\n\tcontainer                       con;\n\n\twhile select dimensionHierarchyLevel order by dimensionHierarchyLevel.Level\n\t\texists join dimensionHierarchy\n\t\t    where dimensionHierarchy.RecId == dimensionHierarchyLevel.DimensionHierarchy\n\t\texists join dimensionHierarchyIntegration\n\t\t    where dimensionHierarchyIntegration.DimensionHierarchy == dimensionHierarchy.RecId\n\t                && dimensionHierarchyIntegration.IsDefault == true\n\t\t\t&& dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat\n\t{\n\t    con += DimensionAttribute::find(dimensionHierarchyLevel.DimensionAttribute).Name;\n\t}\n\n\treturn con;\n    }\n\n\nOutput:\n\n\n\n\n\nKeep Daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html",
-          "publishedOn": "2023-09-12T06:00:00.000Z",
-          "wordCount": 2920,
-          "title": "Fetch the Format of financial dimension formats for data entities using X++",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01VDmOEc0jKIrA2KyKSPiYmKgH81TX5l-8iWOIOZAC6V666sLuOiUuI7q_7kukdK3FvBaNz9ErSlACc0SDtzHct-f8RNJCwQouOQRTs7IXKLAx3B4NxUtyeNWdGaph4fvqlL9cIn62MO3dAlw0iQXyL-FuER4yPGJJhGuaWGrkAfbTQVp374m_cXXUPo/w1200-h630-p-k-no-nu/Screenshot_1.jpg"
         }
       ]
     },
@@ -646,6 +636,16 @@
       "feedUrl": "https://denistrunin.com/rss.xml",
       "siteUrl": "https://denistrunin.com",
       "articles": [
+        {
+          "id": "https://denistrunin.com/integration-importpurchpdf/",
+          "author": null,
+          "description": "Learn how to use AI to import purchase orders into Dynamics 365 Finance from complex PDF files. This post covers integration design, sample prompts, and practical code examples.",
+          "link": "https://denistrunin.com/integration-importpurchpdf/",
+          "publishedOn": "2025-09-10T22:12:03.000Z",
+          "wordCount": 2313,
+          "title": "D365FO Integration: Import Purchase Orders from PDF using Gemini AI",
+          "imageUrl": "https://denistrunin.com/static/fd933f31a30bdef3290f9b61dcb24aca/62b1f/logo.png"
+        },
         {
           "id": "https://denistrunin.com/integration-inboundwebsales/",
           "author": null,
@@ -1187,6 +1187,16 @@
       "feedUrl": "https://tomaztsql.wordpress.com/feed/",
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=10615",
+          "author": "tomaztsql",
+          "description": "This one is named, yes, you guessed it, after Markov chains. 🙂 The babbler is there to connotate the simplicity of useless R function. It’s simple calculation of probability of words chaining and drawing the multiple times appeared chained words…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/09/10/little-useless-useful-r-functions-markov-babbler/",
+          "publishedOn": "2025-09-10T04:22:17.000Z",
+          "wordCount": 5313,
+          "title": "Little useless-useful R functions – Markov babbler",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/09/image-1.png"
+        },
         {
           "id": "http://tomaztsql.wordpress.com/?p=10573",
           "author": "tomaztsql",
@@ -1756,6 +1766,106 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=133912",
+          "author": "Anya Ciecierski",
+          "description": "xxx\nIf you're running Dynamics GP, chances are you've been fielding questions. From your CFO asking about cloud costs. From IT, wondering about support timelines. From users who've heard Business Central […]\nThe post Microsoft Dynamics GP to BC Migration Event at Community Summit 2025 appeared first on ERP Software Blog.\nMicrosoft Convergence 2011 is On!\nMicrosoft Dynamics Bringing Together Around 10,000 Users Annually\nSurvival Tips for After Your ERP Software Go Live – When Your Consultant Is No Longer Part of Your Day to Day.",
+          "link": "https://erpsoftwareblog.com/2025/09/microsoft-dynamics-gp-to-bc-migration-event-at-community-summit-2025/",
+          "publishedOn": "2025-09-10T20:33:24.000Z",
+          "wordCount": 7660,
+          "title": "Microsoft Dynamics GP to BC Migration Event at Community Summit 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GP-to-BC-Summit-Precon.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133904",
+          "author": "Ryan McBee",
+          "description": "xxx\nWith the sunsetting of Dynamics GP approaching, companies still relying on GP are looking for their next ERP solution. Staying on GP isn’t an option due to enhanced security risks, […]\nThe post Transitioning from Dynamics GP to Dynamics 365 Business Central – What to Expect with Your AR Process appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/09/transitioning-from-dynamics-gp-to-dynamics-365-business-central-what-to-expect-with-your-ar-process/",
+          "publishedOn": "2025-09-10T19:59:32.000Z",
+          "wordCount": 8314,
+          "title": "Transitioning from Dynamics GP to Dynamics 365 Business Central – What to Expect with Your AR Process",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/comparison-chart-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=132976",
+          "author": "EFOQUS",
+          "description": "xxx\nControlling user access within your Business Central environment is more than just a technical necessity - it’s a strategic imperative. Properly configured permissions empower your team to work efficiently while […]\nThe post Mastering User Access in Business Central: A Strategic Guide appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/09/user-access-in-business-central/",
+          "publishedOn": "2025-09-10T18:15:27.000Z",
+          "wordCount": 7046,
+          "title": "Mastering User Access in Business Central: A Strategic Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-User-Permissions.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133239",
+          "author": "Binary Stream",
+          "description": "xxx\nBusiness Central is a powerful platform, But as you expand across markets, add new entities, and manage complex intercompany transactions, you might face limitations. This checklist is a practical tool to help […]\nThe post Free checklist: When do you need to go beyond Business Central for multi-entity management? appeared first on ERP Software Blog.\nFree download | Guide to multi-entity management in Microsoft Dynamics 365 Business Central.\nHow to Manage Your Inventory Using Microsoft Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central: The Best Choice for Manufacturers",
+          "link": "https://erpsoftwareblog.com/2025/09/free-checklist-when-do-you-need-to-go-beyond-business-central-for-multi-entity-management/",
+          "publishedOn": "2025-09-10T17:30:49.000Z",
+          "wordCount": 6395,
+          "title": "Free checklist: When do you need to go beyond Business Central for multi-entity management?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Checklist-CTA-scaled.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133198",
+          "author": "Leapwork",
+          "description": "xxx\nIn our previous article, we explored the benefits and limitations of using the Regression Suite Automation Tool (RSAT) for testing Microsoft Dynamics 365 Finance and Operations (F&O). While RSAT provides […]\nThe post Dynamics 365 F&O Testing Simplified and Automated with Leapwork appeared first on ERP Software Blog.\nHow to Prepare for a Dynamics 365 Data Migration\nAccounts Payable Data: The Hidden Treasure You’re Sitting On\nEnterprise Supply Chain Optimization: How Dynamics 365 Powers Smarter Decisions from Warehouse to CFO Desk",
+          "link": "https://erpsoftwareblog.com/2025/09/dynamics-365-fo-testing-simplified-and-automated-with-leapwork/",
+          "publishedOn": "2025-09-10T17:17:27.000Z",
+          "wordCount": 7215,
+          "title": "Dynamics 365 F&O Testing Simplified and Automated with Leapwork",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-09-Dynamics-365-FO-Testing-Simplified-and-Automated-with-Leapwork_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133888",
+          "author": "Insight Works",
+          "description": "xxx\nQuality control shouldn’t slow you down or live outside your system. But for many teams, inspections still rely on paper checklists, disconnected spreadsheets, and after-the-fact data entry. The result? Missed tests, inconsistent results, and delayed decisions.\nThe post EU Webinar: Transforming Quality Inspections in Business Central: From Paper to Automation appeared first on ERP Software Blog.\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nBenefits of Automatic Collection Efforts in Business Central\nKey Trends for Accounts Payable in 2025",
+          "link": "https://erpsoftwareblog.com/2025/09/eu-webinar-transforming-quality-inspections-in-business-central-from-paper-to-automation/",
+          "publishedOn": "2025-09-10T17:12:19.000Z",
+          "wordCount": 6495,
+          "title": "EU Webinar: Transforming Quality Inspections in Business Central: From Paper to Automation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/EU-Quality-Inspector-Webinar-Linkedin-Event.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133883",
+          "author": "Logan Consulting",
+          "description": "xxx\nIn healthcare, overseeing high-value medical assets is about more than financial oversight, it directly impacts patient outcomes, regulatory compliance, and day-to-day efficiency. From MRI scanners and surgical instruments to advanced […]\nThe post Managing High-Value Medical Assets in D365 Finance appeared first on ERP Software Blog.\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary\nAdvanced Quality Management in Microsoft D365: Strengthening Compliance and Control in the Pharmaceutical Industry\nTen Lessons Learned from Healthcare Organizations on Selecting and Implementing Financial Management and Accounting Software for Their Needs",
+          "link": "https://erpsoftwareblog.com/2025/09/managing-high-value-medical-assets-in-d365-finance/",
+          "publishedOn": "2025-09-10T16:17:07.000Z",
+          "wordCount": 6825,
+          "title": "Managing High-Value Medical Assets in D365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/e338fadc-7dd1-4b7d-9bf2-ecb37bdd8d22.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133875",
+          "author": "Justin Delisle, Tato",
+          "description": "xxx\nERP implementations are often described as high-stakes, high-complexity undertakings, and the numbers prove it. Studies show that nearly half of ERP projects fail to meet their goals, often running over […]\nThe post Why most ERP projects fail before they even begin appeared first on ERP Software Blog.\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central",
+          "link": "https://erpsoftwareblog.com/2025/09/why-most-erp-projects-fail-before-they-even-begin/",
+          "publishedOn": "2025-09-10T15:01:21.000Z",
+          "wordCount": 6612,
+          "title": "Why most ERP projects fail before they even begin",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Tato-Blog-1-Why-discoveries-fail-scaled.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133866",
+          "author": "DynamicPoint",
+          "description": "xxx\nFederal, state, and local agencies can now streamline operations securely! DynamicPoint’s Microsoft 365-based solutions—Invoice Automation, Expense Management, and Portals—deploy seamlessly within the Government Community Cloud (GCC), providing FedRAMP-grade compliance, enhanced […]\nThe post DynamicPoint GCC Compatibility appeared first on ERP Software Blog.\nHow to Ensure that Your Data is Secure Online with ERP Software\nBetter Compliance and Efficiency with Dynamics GP Not-for-Profit\nThe 5 Most Often Overlooked Costs of ERP",
+          "link": "https://erpsoftwareblog.com/2025/09/dynamicpoint-gcc-compatibility/",
+          "publishedOn": "2025-09-10T14:21:15.000Z",
+          "wordCount": 6312,
+          "title": "DynamicPoint GCC Compatibility",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-91625-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133769",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nImplementing Dynamics 365 Business Central (BC) can be a game-changer for businesses looking to streamline operations, improve financial management, and enhance customer experience. However, like any enterprise solution, BC implementation […]\nThe post Common Business Central Implementation Challenges and How to Solve Them? appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/09/common-business-central-implementation-challenges-and-how-to-solve-them/",
+          "publishedOn": "2025-09-10T05:01:15.000Z",
+          "wordCount": 7249,
+          "title": "Common Business Central Implementation Challenges and How to Solve Them?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/19870-scaled.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=133790",
           "author": "Kwixand Solutions Inc.",
