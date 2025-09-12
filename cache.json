@@ -618,16 +618,6 @@
           "wordCount": 3057,
           "title": "How to loop JSON through an array in a logic app?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6iaeYPSjVQKhURFerLq5ppj6R45OKZtneR6LZGUjNCfai_ur2-oz9V0cEyXNwI3EXbwDRYXU8Cg2K_JCbe0EnRuTw149FkL4xgj_bpmdbS6eeHQJsUtMS4fI_D-Xs94q_LKRJYAiGoRY9I7i9w321Gf4GanFxuKu6DERZMfU9vQa9kXoCb85PbrlapFM/w1200-h630-p-k-no-nu/Request%20-%20response.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/09/multi-select-workflow-using-x.html",
-          "author": null,
-          "description": "I got a requirement to submit multiple records to workflow.\nFor this, I have created multiple buttons like below.\n\nSubmit Code:\n#define.WorkFlowTemplateName(\"Template Name\")  \n// or -- workFlowTypeStr(Template name)\n\nif (common.WorkflowApprovalStatus == WFApprovalStatus::Draft)\n{\n    Workflow::activateFromWorkflowType(#WorkFlowTemplateName, common.RecId, \n\t                                'Workflow submitted by button', false, Curuserid());\n}\n\n\nApproval Code:\n\nWorkflowWorkItemTable   WorkflowWorkItemTable;\n\n// main code\nselect firstonly WorkflowWorkItemTable\n    where workflowWorkItemTable.Type == WorkflowWorkItemType::WorkItem\n\t&& workflowWorkItemTable.Status == WorkflowWorkItemStatus::Pending // this should be Pending\n\t&& WorkflowWorkItemTable.RefTableId == tableNum(common)\n\t&& WorkflowWo…",
-          "link": "https://kishoredynamics11.blogspot.com/2023/09/multi-select-workflow-using-x.html",
-          "publishedOn": "2023-09-13T05:37:00.000Z",
-          "wordCount": 3008,
-          "title": "Multi select workflow using x++",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FKcoJog64XAHPfYU0thILe71-lJa1YHThkCEVGMKpcAT187yJwr3KeUsvN7NwraBcQZW1Yh0pm4TAX9EF-t6HzMY4Oq3-hg_hhi8kZo5aujUru2ATLR8EkI83y8kmXKEzFCxMe5TWvgg50LgJpM1IMtl-2RxEqszP1n_phUFGUaHAnD9SaGt3wHue-w/w1200-h630-p-k-no-nu/image_2023_09_12T10_56_49_218Z.png"
         }
       ]
     },
@@ -1766,6 +1756,116 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=134010",
+          "author": "Logan Consulting",
+          "description": "xxx\nThe renewable energy industry is expanding quickly as companies invest in solar, wind, and other sustainable initiatives to meet global energy needs. These projects are capital-heavy, often spanning multiple years […]\nThe post Forecasting for Renewable Energy Projects in D365 Finance appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/09/forecasting-for-renewable-energy-projects-in-d365-finance/",
+          "publishedOn": "2025-09-11T21:36:52.000Z",
+          "wordCount": 6822,
+          "title": "Forecasting for Renewable Energy Projects in D365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/give-me-a-picture-for-a-blog-about-renewable-energy.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134004",
+          "author": "Justin Delisle, Tato",
+          "description": "xxx\nEvery project team knows the frustration of hunting through scattered emails, outdated spreadsheets, or conflicting reports just to find a single answer. Inconsistent documentation isn’t just a nuisance—it’s a costly […]\nThe post The hidden cost of poor project documentation—and how AI can help appeared first on ERP Software Blog.\nIs Your Business Using the Right ERP and Accounting Software in 2025?\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks",
+          "link": "https://erpsoftwareblog.com/2025/09/the-hidden-cost-of-poor-project-documentation-and-how-ai-can-help/",
+          "publishedOn": "2025-09-11T19:56:14.000Z",
+          "wordCount": 6655,
+          "title": "The hidden cost of poor project documentation—and how AI can help",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Tato-Email-banners-big-2.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133782",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works announces Order Fulfillment Worksheet v1.5 for Business Central, introducing smarter order visibility, enhanced performance, and greater fulfillment flexibility.\nThe post Business Central App Upgrade: New Features in Order Fulfillment Worksheet v1.5 appeared first on ERP Software Blog.\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nBenefits of Automatic Collection Efforts in Business Central\nKey Trends for Accounts Payable in 2025",
+          "link": "https://erpsoftwareblog.com/2025/09/business-central-app-upgrade-new-features-in-order-fulfillment-worksheet-v1-5/",
+          "publishedOn": "2025-09-11T19:00:47.000Z",
+          "wordCount": 6858,
+          "title": "Business Central App Upgrade: New Features in Order Fulfillment Worksheet v1.5",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/PR-OFW-1.5-Cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133996",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nThe Real Story Behind Shipping Software Decisions If you're reading this, you're probably knee-deep in comparing shipping solutions for your D365 Supply Chain Management system. Maybe you've been through countless […]\nThe post Choosing the Right Shipping Solution for D365SCM: A Practical Guide appeared first on ERP Software Blog.\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?\nWeb Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective\nBeyond The Brochure – What Really Matters To Dynamics Users?",
+          "link": "https://erpsoftwareblog.com/2025/09/choosing-the-right-shipping-solution-for-d365scm-a-practical-guide/",
+          "publishedOn": "2025-09-11T15:43:31.000Z",
+          "wordCount": 7587,
+          "title": "Choosing the Right Shipping Solution for D365SCM: A Practical Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-17.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133989",
+          "author": "MetaOption LLC",
+          "description": "xxx\nIn the present competitive environment, efficiency & accuracy in the warehouse management can or break a business. The customers want to receive their delivery faster, correct order, and real-time access […]\nThe post Top 10 Benefits of a Modern Warehouse Management Solution for Growing Businesses appeared first on ERP Software Blog.\nAdvanced Warehouse Management Dynamics 365: Real-World Applications and Case Studies\nEverything you need to know about Warehouse Order Picking Methods\nImportant steps to modify your Warehouse Layout",
+          "link": "https://erpsoftwareblog.com/2025/09/warehouse-management-solution-benefits/",
+          "publishedOn": "2025-09-11T15:24:58.000Z",
+          "wordCount": 8588,
+          "title": "Top 10 Benefits of a Modern Warehouse Management Solution for Growing Businesses",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MO-Blog-14.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133987",
+          "author": "Accountnet, Inc.",
+          "description": "xxx\nIn today’s digital-first world, there’s still nothing more powerful than meeting face-to-face. Over the past two weeks, we’ve had the chance to sit down onsite with a customer moving to […]\nThe post How to Bring on the Happiness with Technology… Now More Than Ever appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central\nWhat type of Business central license is right for you?",
+          "link": "https://erpsoftwareblog.com/2025/09/how-to-bring-on-the-happiness-with-technology-now-more-than-ever/",
+          "publishedOn": "2025-09-11T14:31:30.000Z",
+          "wordCount": 6770,
+          "title": "How to Bring on the Happiness with Technology… Now More Than Ever",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/People-Working-13.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=132818",
+          "author": "PartnerTalks",
+          "description": "xxx\nAt 2025's Biz Apps Partner Executive Summit, held July 23-24 in Bellevue near Microsoft’s Washington headquarters, industry leaders told us that AI adoption for Microsoft Partners is essential. As Partners, […]\nThe post Becoming AI Business Solution Partners: Insights from the Biz Apps Partner Executive Summit 2025 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/09/ai-adoption-microsoft-partner-growth-giuseppe-ianni/",
+          "publishedOn": "2025-09-11T14:10:50.000Z",
+          "wordCount": 6844,
+          "title": "Becoming AI Business Solution Partners: Insights from the Biz Apps Partner Executive Summit 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/278-Giuseppe-Ianni-Thumbnail.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133984",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nChoosing the right deployment model for Dynamics 365 Business Central is a critical decision for organizations considering an ERP solution. One of the most common questions businesses face is: Should […]\nThe post Cloud vs On-Premise Business Central: Pros, Cons, and Recommendations appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/09/cloud-vs-on-premise-business-central-pros-cons-and-recommendations/",
+          "publishedOn": "2025-09-11T13:46:50.000Z",
+          "wordCount": 7292,
+          "title": "Cloud vs On-Premise Business Central: Pros, Cons, and Recommendations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/saas-concept-collage-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133953",
+          "author": "Intech Systems",
+          "description": "xxx\nIntroduction The global economy of today faces complicated supply chain challenges.  SMBs and manufacturers need to stay flexible and customer-focused in the face of growing expenses and disruptions.  It is […]\nThe post How D365 Supply Chain Solves Common Operational Challenges? appeared first on ERP Software Blog.\nHow Cloud ERP Helps Build Strong Supply Chains\nOptimising Warehouse Operations with Dynamics 365 ERP: From Inventory to Fulfillment\nThe Intersection of Finance and Operations: Driving Business Agility with Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2025/09/how-d365-supply-chain-solves-common-operational-challenges/",
+          "publishedOn": "2025-09-11T13:15:09.000Z",
+          "wordCount": 7340,
+          "title": "How D365 Supply Chain Solves Common Operational Challenges?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-BLOGS-10.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133948",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn this hyper-connected world of modern sales, responsiveness, personalization, and collaboration are key to closing deals and nurturing lasting customer relationships. Microsoft Dynamics 365 Sales has long been a powerful […]\nThe post Smarter Selling with Dynamics 365 Sales: Outlook & Teams Integration in Action appeared first on ERP Software Blog.\nTech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nHow Real Companies are Using Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2025/09/smarter-selling-with-dynamics-365-sales-outlook-teams-integration-in-action/",
+          "publishedOn": "2025-09-11T06:00:13.000Z",
+          "wordCount": 7558,
+          "title": "Smarter Selling with Dynamics 365 Sales: Outlook & Teams Integration in Action",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133949",
+          "author": "Peter Joeckel",
+          "description": "xxx\nMost organizations think data migration is about moving records from A to B. They're wrong. It's about transforming business information into operational truth. Get it wrong, and you're just digitizing […]\nThe post Your D365 F&O Implementation Is Sitting on a Data Quality Time Bomb appeared first on ERP Software Blog.\nBaker’s Dozen of WMS (Warehouse Management System) Acronyms Defined\nTop 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)\nAdd Barcodes to Report Writer in GP",
+          "link": "https://erpsoftwareblog.com/2025/09/your-d365-fo-implementation-is-sitting-on-a-data-quality-time-bomb/",
+          "publishedOn": "2025-09-11T05:50:06.000Z",
+          "wordCount": 7030,
+          "title": "Your D365 F&O Implementation Is Sitting on a Data Quality Time Bomb",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Data-Quality-Timebomb-417x625.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=133912",
           "author": "Anya Ciecierski",
@@ -69254,6 +69354,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=3954",
+          "author": "AnithaEswaran",
+          "description": "Lately, I’ve been diving into ER, and I keep forgetting some of the setups along the way. I’m not sure if other consultants face the same struggle, but having a blog post like this would be a great way to … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2025/09/11/configure-er-destination-to-sharepoint-d365fo/",
+          "publishedOn": "2025-09-11T21:07:14.000Z",
+          "wordCount": 3391,
+          "title": "Configure ER destination to Sharepoint – D365FO",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2025/09/image-12.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=3938",
           "author": "AnithaEswaran",
           "description": "Recently we faced an issue when trying to activate the standard business event ‘Release Production order’ . This issue didnt occur in Dev VMs and occured in sandbox. What is the solution? Go to Feature Management. Filter for ‘Business event … Continue reading →",
@@ -70743,6 +70853,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195350",
+          "author": "Jeff Comstock",
+          "description": "Microsoft Dynamics 365 Contact Center earns HITRUST certification, advancing secure, AI-powered healthcare engagement.\nThe post Raising the bar for healthcare security: Dynamics 365 Contact Center achieves HITRUST certification appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/09/09/raising-the-bar-for-healthcare-security-dynamics-365-contact-center-achieves-hitrust-certification/",
+          "publishedOn": "2025-09-09T15:00:00.000Z",
+          "wordCount": 5211,
+          "title": "Raising the bar for healthcare security: Dynamics 365 Contact Center achieves HITRUST certification",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/09/CLO25b-healthcare-Getty-606353355-scaled.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195302",
+          "author": "Sam Bobo",
+          "description": "In today’s voice-first world, it’s not enough for systems to simply hear what users say. They need to understand it with precision.  In high-stakes environments like healthcare, finance, or enterprise IT, voice interfaces must balance natural conversation with strict control over vocabulary and intent. Many organizations rely on voice AI agents to collect critical information. […]\nThe post Understand your customers better with constrained speech recognition  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/09/08/understand-your-customers-better-with-constrained-speech-recognition/",
+          "publishedOn": "2025-09-08T19:30:00.000Z",
+          "wordCount": 4902,
+          "title": "Understand your customers better with constrained speech recognition",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2022/07/OFC16_Sophia_013-scaled.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195385",
           "author": "Pratichi Dash and Darya Mazandarany",
@@ -74954,6 +75084,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=31968",
+          "author": "Amir Omanović",
+          "description": "An industrial tools supplier got feedback from customers that their invoices were too plain. The documents looked basic and didn’t include helpful product details. Customers wanted more than just a price list. They wanted to see the products they ordered and get a short info […]\nThe post Create Invoices with Product Images and Specifications Using ER in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/create-invoices-with-product-images-and-specifications-using-er-in-d365fo/",
+          "publishedOn": "2025-09-11T05:45:41.000Z",
+          "wordCount": 17403,
+          "title": "Create Invoices with Product Images and Specifications Using ER in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2025/07/D365Blog_CreateInvoiceswithProductImagesandSpecificationsUsingERinD365FO.png"
+        },
+        {
           "id": "https://ax.docentric.com/?p=31711",
           "author": "Amir Omanović",
           "description": "You're sending an invoice to a customer in Germany, another to a customer in France, and a third to a customer in the United States. Each customer expects to receive an invoice with Terms and Conditions written in their own language. To meet legal requirements […]\nThe post Create Invoices With T&Cs Using Electronic Reporting in D365FO appeared first on Docentric AX.",
@@ -76329,16 +76469,6 @@
           "wordCount": 5412,
           "title": "Enable simplified dimension entry in Dynamics 365 Finance and Operations",
           "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/09/Enable-simplified-dimension-entry-.png"
-        },
-        {
-          "id": "http://paragchapre.com/?p=12095",
-          "author": "paragchapre@gmail.com",
-          "description": "This week, I attempted to import a bacpac file on my development machine using SQLPackage for Windows, but I encountered an error while reading the bacpac file. The error message stated: “File contains damaged data. Resolution: Download SQLPackage .NET Core software in your Development Machine. To extract the file by right-clicking on the file in Windows […]\nThe post Import bacpac error: File contains damaged data appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/import-bacpac-error-file-contains-damaged-data/?utm_source=rss&utm_medium=rss&utm_campaign=import-bacpac-error-file-contains-damaged-data",
-          "publishedOn": "2023-09-13T07:01:15.000Z",
-          "wordCount": 5267,
-          "title": "Import bacpac error: File contains damaged data",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/09/Corrupt-file.png"
         }
       ]
     },
