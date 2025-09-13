@@ -1042,56 +1042,6 @@
           "wordCount": 6152,
           "title": "Context Menus (D365 for Finance and Operations)",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWX4ml7jWIwiyvNMqE1CqmztljidmOzRMWyk_gLPbCWE4yc50I-bzNPUpR-nJB1nAw3_KS6UdJp-E80KDcBCxZGudm5ZvMm0ZaOYDueDVlkLtdEMD6rO7BStLDdeh2EBu0r20c49GIC1N3FsSodQ5DXYw=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/09/asset-library-in-lifecycle-services.html",
-          "author": null,
-          "description": "The Asset library is a storage location for the various assets that are associated with a tenant in Microsoft Dynamics 365 Lifecycle Services. Two types of Asset library are available in Lifecycle Services: the Shared asset library and the project-level Asset library.\n\n Note\nAsset library is not supported for Prospect projects or organizations. In these situations, the Asset library menu option will not be visible.\n\nShared asset library – The Shared asset library is used by Microsoft and Partners to share assets across multiple tenants, projects, and environments in Lifecycle Services. This library can be accessed by any user who signs in to Lifecycle Services. To access the Shared asset library, sign in to Lifecycle Services, and then click the Shared asset library tile.\n\n\n\nProject-level …",
-          "link": "https://d365fotechexpert.blogspot.com/2023/09/asset-library-in-lifecycle-services.html",
-          "publishedOn": "2023-09-13T19:48:00.004Z",
-          "wordCount": 6372,
-          "title": "Asset library in Lifecycle Services",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdU7bWyL824ermmz3Zoiq9f-BIW0WQjE84LXMDXJdV8iqQQL_ABdbsjQrhHjUNynzqVpEB0IsnP-kxCcJJ4NNCRu4mKDYFibdaJ2TjLYHa9L_U-0f0zgEhB_7rkViobO2VNycAM2i9MlRsbyXcg5-1GBKYjZKZqn0rEvRnoadQbL29tc7VOdGFKtNKicT4lwb58fIa_iY6Ea=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/09/caching-display-methods-in-x.html",
-          "author": null,
-          "description": "The performance of display methods can be improved by caching them if they are calculated on Application Object Server (AOS). Caching display methods can also improve performance when records are transferred from the server to the client.\nThe value of all cached methods is set when data is fetched from the back-end database. In addition, the value is refreshed when the reread method is called on the form data source.\n\nAdd a display Method to the Cache\n\n\nLocate the form that the method is used on.\n\nExpand the Data Sources node.\n\nRight-click the data source that the method is associated with, and then select Override Method > init.\n\nCall the FormDataSource.cacheAddMethod method after the call to super() in the init method.\nThe first parameter for cacheAddMethod determines the name of the method to be cached. The second parameter (set to true by default) determines whether the value of the display method is updated when a record is written to the database.\n\n\n\n\n\n    [SysClientCacheDataMethodAttribute(true)]\n    public display Reasoncode display_ReasonCode()\n    {\n        reasoncode ret = '';\n        .......\n        return ret;\n    }",
-          "link": "https://d365fotechexpert.blogspot.com/2023/09/caching-display-methods-in-x.html",
-          "publishedOn": "2023-09-13T19:40:00.004Z",
-          "wordCount": 5615,
-          "title": "Caching display Methods in X++",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/09/sql-query-to-get-security-roles-duties.html",
-          "author": null,
-          "description": "All security roles \n\n            Select Name as SecurityRoleName FROM SecurityRole;\n\nAll security roles to duties\n\n    SELECT SECURITYROLE.Name as SecurityRole, SECURITYDUTY.NAME as Duty \n    FROM SECURITYOBJECTCHILDREREFERENCES  \n    JOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME \n    JOIN SECURITYDUTY ON SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYDUTY.IDENTIFIER\n        WHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND SECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 1\n\norder by SECURITYROLE.Name asc;\n\nAll security roles with privileges \n\n    SELECT SECURITYROLE.Name as SecurityRole, SECURITYPRIVILEGE.NAME as Privileges\n    FROM SECURITYOBJECTCHILDREREFERENCES  \n    JOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME \n    JOIN SECURITYPRIVILEGE \n        ON  SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYPRIVILEGE.IDENTIFIER\n    \tWHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND \n\t\tSECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 2 \n\t\torder by SECURITYROLE.Name asc;\n\n \n\nAll role-duty combination with privilege \n\nSELECT SECURITYROLE.Name as SecurityRole, SECURITYROLE.AOTNAME as RoleSystemName,  \n    SECURITYDUTY.NAME AS Duty, SECURITYDUTY.IDENTIFIER as DutySystemName, \n    SECURITYPRIVILEGE.NAME as Privilege, SECURITYPRIVILEGE.IDENTIFIER as PrivilegeSystemName \nFROM SECURITYOBJECTCHILDREREFERENCES\nJOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME\nJOIN SECURITYDUTY ON SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYDUTY.IDENTIFIER\nJOIN SECURITYOBJECTCHILDREREFERENCES Table1 on Table1.IDENTIFIER = SECURITYDUTY.IDENTIFIER\nJOIN SECURITYPRIVILEGE on Table1.CHILDIDENTIFIER = SECURITYPRIVILEGE.IDENTIFIER\n\tWHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND SECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 1\n\tAND Table1.OBJECTTYPE = 1 AND Table1.CHILDOBJECTTYPE = 2\n\torder by SECURITYROLE.Name asc;",
-          "link": "https://d365fotechexpert.blogspot.com/2023/09/sql-query-to-get-security-roles-duties.html",
-          "publishedOn": "2023-09-13T19:08:00.006Z",
-          "wordCount": 5638,
-          "title": "SQL Query to get Security roles, duties and privileges in D365FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/09/crosscompany-and-changecompany-using-x.html",
-          "author": null,
-          "description": "CrossCompany and changeCompany using x++.\n\n\n\n CrossCompany:\n    Required company filter:\n\n    MyTable \tmyTable; \n    container \tconCompanies = ['cmp1', 'cmp2', 'cmp3'];\n\n    while select crossCompany : conCompanies * from myTable\n    {\n\t// code\n    }\n    All company filter:\n    MyTable \tmyTable; \n\n    while select crossCompany * from myTable\n    {\n        // code\n    }\n    Applying On Dynamic queries:\n\n    Query \t\t\tquery = new Query();\n    QueryRun \t\t\tqueryRun;\n    QueryBuildDataSource \tqBDS;\n\n    qBDS = query.addDataSource(TableNum(CustTable));\n\t\n    // Way-1 (we can add required company)\n    query.allowCrossCompany(true);\n    query.addCompanyRange('cmp1');\n    query.addCompanyRange('cmp2');\n\n    // Way-2 (It will loop all company)\n    queryRun = new QueryRun(query);\n    queryRun.allowCrossCompany(true);\n\n\n\n\n\nChange Company:\n    MyTable \tmyTable;",
-          "link": "https://d365fotechexpert.blogspot.com/2023/09/crosscompany-and-changecompany-using-x.html",
-          "publishedOn": "2023-09-13T19:05:00.004Z",
-          "wordCount": 5536,
-          "title": "CrossCompany and changeCompany using x++.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/09/synchronize-table-from-visual-studio.html",
-          "author": null,
-          "description": "From Visual studio project node we can perform database synchronization either on a required table (or) on few tables bases on our requirement.\nThis could be very useful during on-premises environments package deployments because can can drastically reduce the downtime.\nIn fact you can only synchronize the tables that you have actually modified rather than perform an entire synchronization\nTo perform a single table db sync simply Right click on project >>synchronize table",
-          "link": "https://d365fotechexpert.blogspot.com/2023/09/synchronize-table-from-visual-studio.html",
-          "publishedOn": "2023-09-13T18:54:00.003Z",
-          "wordCount": 5602,
-          "title": "Synchronize the table from Visual studio Project",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT2hsODOrsj5XPb3Uvt5qc6fl4xdPbtxWn5AtLa4Y4_2a8y672JxFLAG4dzbfM3zurlauxrPT-IrC9PwwIr7Mfr5bi3frkl70MgPTq2jFrK6QGJESV8MJxavrYjCzIq7ST8xHCx1CBNsC2lsw8aJWtAFRn7JK0Xe8XG5_hM5AUzuAUuOtyoRzFYNLNDcA/w1200-h630-p-k-no-nu/1.png"
         }
       ]
     },
@@ -1756,6 +1706,66 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=134076",
+          "author": "NIC Systems Inc.",
+          "description": "xxx\nWhat Is a Business Central Preview? Microsoft regularly releases preview versions of Dynamics 365 Business Central as part of its twice-yearly release waves. These previews are available in sandbox environments […]\nThe post Why Business Central Previews Matter appeared first on ERP Software Blog.\nHow to Email Invoices, Past Due Reminders, and Statements Automatically in Dynamics 365 Business Central\n10 Time Saving Business Central Keyboard Shortcuts You Need Today\nCase Study: Embracing ClickLearn as a corporate Dynamics 365 training platform",
+          "link": "https://erpsoftwareblog.com/2025/09/why-business-central-previews-matter/",
+          "publishedOn": "2025-09-12T20:00:32.000Z",
+          "wordCount": 6720,
+          "title": "Why Business Central Previews Matter",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133612",
+          "author": "Insight Works",
+          "description": "xxx\nOrder Fulfillment Worksheet v1.5 for Business Central adds faster performance, smarter availability, and flexible partial shipments.\nThe post What’s New in Business Central’s Order Fulfillment Worksheet v1.5? appeared first on ERP Software Blog.\nOptimize Order Fulfillment in Business Central\nImport Data into Business Central with Free Import Export PowerTool\nThe Secret to Effortless Data Migration in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/09/whats-new-in-business-centrals-order-fulfillment-worksheet-v1-5/",
+          "publishedOn": "2025-09-12T19:00:07.000Z",
+          "wordCount": 6861,
+          "title": "What’s New in Business Central’s Order Fulfillment Worksheet v1.5?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-OFW-1.5-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=133447",
+          "author": "Technology Management Concepts",
+          "description": "xxx\nTL;DR: Microsoft’s latest innovations make one thing clear: intelligent automation is now part of the platform. AI agents are built into the tools many businesses already use, across sales, service, […]\nThe post Microsoft Built the Intelligence In.  Now It’s About Who You Trust to Turn It On appeared first on ERP Software Blog.\nEp 65 | Copilot in Business Central | A Shot of Business Central and A Beer\nAI for SMBs: Addressing the Learning Curve, Trust, and Ethics Head-On\nDynamics Copilot: How Six AI Experts Save Hours Every Day",
+          "link": "https://erpsoftwareblog.com/2025/09/microsoft-built-the-intelligence-in-now-its-about-who-you-trust-to-turn-it-on/",
+          "publishedOn": "2025-09-12T16:43:37.000Z",
+          "wordCount": 7044,
+          "title": "Microsoft Built the Intelligence In.  Now It’s About Who You Trust to Turn It On",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Built-the-Intelligence-In.-Now-Its-About-Who-You-Trust-to-Turn-It-On.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134020",
+          "author": "Dynamics Square CA",
+          "description": "xxx\nIf you are looking for retail software that can increase your customer service and provide relevant insights that promote real-time decision-making, then CRM in retail solutions is your ally, as […]\nThe post CRM software for Retail Businesses in 2025 appeared first on ERP Software Blog.\nWeb Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective\nEvaluating Your ERP System; 5 ERP New Year's Resolutions.\nProcessing Mobile Online Sales Transactions from Your E-Commerce Site Directly Into Your ERP System",
+          "link": "https://erpsoftwareblog.com/2025/09/crm-in-retail/",
+          "publishedOn": "2025-09-12T14:29:04.000Z",
+          "wordCount": 7344,
+          "title": "CRM software for Retail Businesses in 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134043",
+          "author": "Enavate",
+          "description": "xxx\nIf you had $10,000 to invest in your ERP system, what would you do? For many organizations, the answer lies in strengthening what you already have today while preparing for […]\nThe post What Would You Do with $10,000 in Dynamics ERP Services? appeared first on ERP Software Blog.\nHow can Microsoft Dynamics GP 2016 add value?\nWhat’s New in Microsoft Dynamics GP 2015?\nWhy is Financial Reporting Important in Microsoft Dynamics GP?",
+          "link": "https://erpsoftwareblog.com/2025/09/what-would-you-do-with-10000-in-dynamics-erp-services/",
+          "publishedOn": "2025-09-12T14:08:32.000Z",
+          "wordCount": 6755,
+          "title": "What Would You Do with $10,000 in Dynamics ERP Services?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Skaermbillede-2025-09-12-kl.-12.40.07.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134021",
+          "author": "DynaTech Systems",
+          "description": "xxx\nModern world businesses are completely changing the way they test their applications. Older testing approaches are not meant to handle complex scenarios these days. It also can’t manage the scale […]\nThe post Smarter Testing with Playwright MCP: Unlocking AI-Powered Testing for Dynamics 365 Finance & Operations appeared first on ERP Software Blog.\nHow ChatGPT and Microsoft Copilot Boost Productivity\nBuild a Copilot AI-First Go-to-Market Strategy for FY26\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary",
+          "link": "https://erpsoftwareblog.com/2025/09/smarter-testing-with-playwright-mcp-unlocking-ai-powered-testing-for-dynamics-365-finance-operations/",
+          "publishedOn": "2025-09-12T10:03:14.000Z",
+          "wordCount": 7274,
+          "title": "Smarter Testing with Playwright MCP: Unlocking AI-Powered Testing for Dynamics 365 Finance & Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Smarter-Testing-with-Playwright-MCP-Unlocking-AI-Powered-Testing-for-Dynamics-365-Finance-Operations-3-scaled.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=134010",
           "author": "Logan Consulting",
