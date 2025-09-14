@@ -1707,6 +1707,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=134050",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nMicrosoft Dynamics partners are at the forefront of helping organizations adopt and optimize Dynamics 365 ERP and CRM solutions. But as licensing models become increasingly complex—with frequent updates to Enterprise […]\nThe post Why Microsoft Dynamics Partners Look to Large Account Resellers (LARs) for License Guidance and New Business appeared first on ERP Software Blog.\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?\nTop 4 Reasons to Choose Microsoft Dynamics GP for Your Association\n2, 4, 6, 8… What Does Dynamics GP Integrate?",
+          "link": "https://erpsoftwareblog.com/2025/09/why-microsoft-dynamics-partners-look-to-large-account-resellers-lars-for-license-guidance-and-new-business/",
+          "publishedOn": "2025-09-13T05:40:04.000Z",
+          "wordCount": 7138,
+          "title": "Why Microsoft Dynamics Partners Look to Large Account Resellers (LARs) for License Guidance and New Business",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/050eaac3-1ee1-4be7-a3d2-5a29ec61fad1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=134076",
           "author": "NIC Systems Inc.",
           "description": "xxx\nWhat Is a Business Central Preview? Microsoft regularly releases preview versions of Dynamics 365 Business Central as part of its twice-yearly release waves. These previews are available in sandbox environments […]\nThe post Why Business Central Previews Matter appeared first on ERP Software Blog.\nHow to Email Invoices, Past Due Reminders, and Statements Automatically in Dynamics 365 Business Central\n10 Time Saving Business Central Keyboard Shortcuts You Need Today\nCase Study: Embracing ClickLearn as a corporate Dynamics 365 training platform",
@@ -73548,16 +73558,6 @@
           "publishedOn": "2023-09-25T07:54:17.000Z",
           "wordCount": 1503,
           "title": "Query/QueryRun with temporary tables (AX/F&O)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=9924",
-          "author": "Martin Dráb",
-          "description": "Something that was talked about for a long time is getting closer to reality. F&O development will no longer require those huge VMs with SQL Server and everything. Instead, you’ll just install some VS extensions, connect to Dataverse, download F&O code and metadata and start developing. The runtime (web server, database) will be in cloud, ...\nContinue reading ‘Public preview of the new F&O dev experience’ »",
-          "link": "https://dev.goshoom.net/2023/09/public-preview-of-the-new-fo-dev-experience/",
-          "publishedOn": "2023-09-15T07:27:40.000Z",
-          "wordCount": 1287,
-          "title": "Public preview of the new F&O dev experience",
           "imageUrl": null
         }
       ]

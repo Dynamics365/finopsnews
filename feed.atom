@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-09-13T01:25:43.949Z</updated>
+    <updated>2025-09-14T01:44:33.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Microsoft Dynamics Partners Look to Large Account Resellers (LARs) for License Guidance and New Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=134050</id>
+        <link href="https://erpsoftwareblog.com/2025/09/why-microsoft-dynamics-partners-look-to-large-account-resellers-lars-for-license-guidance-and-new-business/"/>
+        <updated>2025-09-13T05:40:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics partners are at the forefront of helping organizations adopt and optimize Dynamics 365 ERP and CRM solutions. But as licensing models become increasingly complex—with frequent updates to Enterprise […]
+The post Why Microsoft Dynamics Partners Look to Large Account Resellers (LARs) for License Guidance and New Business appeared first on ERP Software Blog.
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+Top 4 Reasons to Choose Microsoft Dynamics GP for Your Association
+2, 4, 6, 8… What Does Dynamics GP Integrate?]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Business Central Previews Matter]]></title>
         <id>https://erpsoftwareblog.com/?p=134076</id>
@@ -96547,17 +96562,6 @@ journey of One Dynamics One Platform: ODOP. Discover how you can develop
 now locally !]]></summary>
         <author>
             <name>Aurélien Clere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public preview of the new F&O dev experience]]></title>
-        <id>https://dev.goshoom.net/?p=9924</id>
-        <link href="https://dev.goshoom.net/2023/09/public-preview-of-the-new-fo-dev-experience/"/>
-        <updated>2023-09-15T07:27:40.000Z</updated>
-        <summary type="html"><![CDATA[Something that was talked about for a long time is getting closer to reality. F&O development will no longer require those huge VMs with SQL Server and everything. Instead, you’ll just install some VS extensions, connect to Dataverse, download F&O code and metadata and start developing. The runtime (web server, database) will be in cloud, ...
-Continue reading ‘Public preview of the new F&O dev experience’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
         </author>
     </entry>
     <entry>
