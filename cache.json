@@ -608,16 +608,6 @@
           "wordCount": 3168,
           "title": "How to add destination Tab in sys operation batch job in D365FO",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi96-GXGEc946AujO39-3Esu-vXNfRiPa20apltrVy9nP_qHoEV21lT6wV1sPgcn8IxChFS8BBG55ph7-CnfpZswejaRctccQL5taSFYiIPSOBy6b6dk16I4cGUTIW5aheJJf_FiqsoqdIXvl44giG-pidrdmFFLshhF1PYoTQdDACLxtwtZpA-zzu8mBg/w1200-h630-p-k-no-nu/4.jpg"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/09/how-to-loop-json-through-array-in-logic.html",
-          "author": null,
-          "description": "Hi guys, \nI have a requirement to update multiple records in F&O and send a response for each record using a logic app.\n\n\nPlease find the request and response in the below screenshot.\n\n\n\n\nTo archive my process I have followed the below steps.\n\n\n1. I have utilized the 'When a HTTP request is received' trigger.\n\n\n\n\n2. Initialized the 2 variables(Array, string type).\n\n\n\n\n3. I have used a 'for-each' loop to iterate through each record, passing the HTTP response body as input. Inside the loop, I have parsed the current record.\n\n\n4. After parsing, I updated the record in F&O using the 'update record' trigger.\n\n\n5. If an update is successful, I am assigning a success status to the 'message' variable.\n    If the update fails, I am parsing the error and sending it to the 'message' variable.\n\n\n\n    While parsing the error I have used the below JSON.\n\n    {\n\t\"status\": 400,\n\t\"message\": \"An error has occurred.  Write failed for table row of type 'CustCustomerV3Entity'. Infolog: Warning: \",\n\t\"error\": {\n\t\t\"message\": \"An error has occurred.  Write failed for table row of type 'CustCustomerV3Entity'. Infolog: Warning:\"\n\t\"source\": \"URL\"\n    }\n\n    To fetch the above error use the below expression or parse JSON.\n\n    outputs('Update_record')?['error']?['code'] \n\n    Status code:\n    outputs('Update_record')?['statusCode']\n\n Afterward, I use 'Append to array variable' to create the response JSON and store it in the array.\n\n\n\n6. Configure run after options for Append to the array variable has set up in the below.\n\n\n7. After the for loop, I used the 'HTTP Response' action. In the response body, I converted the array into a JSON string.\n\njson(string(variables('OutputJson')))\n\n\n8. Open the 'For each' setting and setup like the below screenshot.\n\n\n\n\n\nThe output you will find in 1st screenshot.\n\n\nKeep Daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/09/how-to-loop-json-through-array-in-logic.html",
-          "publishedOn": "2023-09-26T07:47:00.002Z",
-          "wordCount": 3057,
-          "title": "How to loop JSON through an array in a logic app?",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6iaeYPSjVQKhURFerLq5ppj6R45OKZtneR6LZGUjNCfai_ur2-oz9V0cEyXNwI3EXbwDRYXU8Cg2K_JCbe0EnRuTw149FkL4xgj_bpmdbS6eeHQJsUtMS4fI_D-Xs94q_LKRJYAiGoRY9I7i9w321Gf4GanFxuKu6DERZMfU9vQa9kXoCb85PbrlapFM/w1200-h630-p-k-no-nu/Request%20-%20response.png"
         }
       ]
     },
@@ -1707,6 +1697,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=134599",
+          "author": "Admiral Consulting Group",
+          "description": "xxx\nPress Release FOR IMMEDIATE RELEASE Mekorma and Admiral Consulting Group Expand Longstanding Partnership to Support Microsoft Dynamics 365 Business Central Clients Minneapolis, MN – September 2025 — Mekorma, a leading […]\nThe post Announcement of Partnership appeared first on ERP Software Blog.\nComparing AP Solutions: Mekorma vs. BILL\nEffortlessly Configure Check Layouts with Mekorma for BC and GP\nStreamlining Dynamics GP Accounts Payable With doc-link ™",
+          "link": "https://erpsoftwareblog.com/2025/09/announcement-of-partnership/",
+          "publishedOn": "2025-09-24T21:00:31.000Z",
+          "wordCount": 6678,
+          "title": "Announcement of Partnership",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2025-09-24-165800-e1758747583614.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134330",
+          "author": "Insight Works",
+          "description": "xxx\nThe Maintenance Manager app for Microsoft Dynamics 365 Business Central helps manufacturers reduce downtime, extend equipment life, and streamline maintenance with integrated scheduling, mobile access, and data-driven planning.\nThe post Redefine Equipment Maintenance in Business Central with Maintenance Manager appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025\nFrom GP to Business Central: Not a Leap into the Unknown",
+          "link": "https://erpsoftwareblog.com/2025/09/redefine-equipment-maintenance-in-business-central-with-maintenance-manager/",
+          "publishedOn": "2025-09-24T19:00:26.000Z",
+          "wordCount": 6802,
+          "title": "Redefine Equipment Maintenance in Business Central with Maintenance Manager",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Maintenance-Manager-350.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134654",
+          "author": "Catapult",
+          "description": "xxx\nImplementing an ERP system is often a long and complex journey. For mid-sized businesses, the traditional approach to deploying Microsoft Dynamics 365 Business Central can involve months of planning, high […]\nThe post Catapult Launches Slingshot for Finance: A Faster, Smarter Way to Implement Dynamics 365 Business Central appeared first on ERP Software Blog.\nDYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?\nTransform your retail business with point of sale software\nMicrosoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’",
+          "link": "https://erpsoftwareblog.com/2025/09/catapult-launches-slingshot-for-finance-a-faster-smarter-way-to-implement-dynamics-365-business-central/",
+          "publishedOn": "2025-09-24T14:00:08.000Z",
+          "wordCount": 6800,
+          "title": "Catapult Launches Slingshot for Finance: A Faster, Smarter Way to Implement Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Slingshot-V2.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134102",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nAs businesses strive to optimize their operations and make data-driven decisions, CFOs are increasingly turning to AI-powered solutions for financial management. One of the most promising technologies in this realm […]\nThe post Top 7 AI Features in D365 Finance & Ops That CFOs Can’t Ignore appeared first on ERP Software Blog.\nDynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations\nRequest a Free Consultation: Discover How D365 Finance & Operations Can Transform Your Finance Operations\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary",
+          "link": "https://erpsoftwareblog.com/2025/09/top-7-ai-features-in-d365-finance-ops-that-cfos-cant-ignore/",
+          "publishedOn": "2025-09-24T11:15:47.000Z",
+          "wordCount": 7370,
+          "title": "Top 7 AI Features in D365 Finance & Ops That CFOs Can’t Ignore",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-Sep-14-2025-04_17_53-PM-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134647",
+          "author": "Volt Technologies",
+          "description": "xxx\nRunning an online store today is about much more than a great website. Behind the storefront, your e-commerce platform must connect seamlessly with your ERP system, managing inventory, orders, payments, […]\nThe post Shopify vs Magento: Choosing the Right Ecommerce Platform for SMBs in 2025 appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/09/shopify-vs-magento-ecommerce-2025/",
+          "publishedOn": "2025-09-24T07:35:57.000Z",
+          "wordCount": 6798,
+          "title": "Shopify vs Magento: Choosing the Right Ecommerce Platform for SMBs in 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Volt-web-featured-6.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=134622",
           "author": "Logan Consulting",
           "description": "xxx\nFor companies running Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM), seamless integration and process efficiency are key to maximizing the platform’s ROI. Although D365 F&SCM offers robust tools […]\nThe post Building the Business Case for EDI in Microsoft Dynamics 365 Finance & Supply Chain Management appeared first on ERP Software Blog.\nRequest a Free Consultation: Discover How D365 Finance & Operations Can Transform Your Finance Operations\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary\nAI ROI in Equipment Rental Business with Sycor.Rental",
@@ -1815,6 +1855,26 @@
           "wordCount": 7218,
           "title": "Top 3 Dynamics 365 CRM Partners in USA [2025 Guide]",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/crm.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134642",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nWhen it comes to enterprise software, the technology you select is only half the equation. The other half — often the more critical one — is choosing the right partner […]\nThe post Choosing the Right ERP/CRM Partner: What Smart Businesses Look For appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/09/choosing-the-right-erp-crm-partner-what-smart-businesses-look-for/",
+          "publishedOn": "2025-09-23T10:12:57.000Z",
+          "wordCount": 7127,
+          "title": "Choosing the Right ERP/CRM Partner: What Smart Businesses Look For",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/choosing-the-right-erpcrm-partner-what-smart-businesses-look-for.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134640",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nDid you know that CFOs are prioritizing copilot technology for several compelling reasons. In fact, according to a 2024 Gartner report, 75% of CFOs plan to increase their investment in […]\nThe post Why CFOs Are Prioritizing Copilot in Their 2025 ERP Strategy appeared first on ERP Software Blog.\nDecember GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022\nMicrosoft Dynamics 365 Copilot\nIntroducing Microsoft 365 Copilot – Next Generation AI for the Workplace",
+          "link": "https://erpsoftwareblog.com/2025/09/why-cfos-are-prioritizing-copilot-in-their-2025-erp-strategy/",
+          "publishedOn": "2025-09-23T03:24:52.000Z",
+          "wordCount": 7491,
+          "title": "Why CFOs Are Prioritizing Copilot in Their 2025 ERP Strategy",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=134569",
