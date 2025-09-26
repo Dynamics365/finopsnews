@@ -598,16 +598,6 @@
           "wordCount": 2926,
           "title": "The transaction log for database is full in D365FO",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD7HPRCgbtqymBKQdOH6aICRb0uldVWv4wr9fdPR2IvFi9YuHOx1nWx6O3Dd7DiH_USAAvGnIh3t393q7ubj7IGlUFAYCkMiUg45HqaIf1PtucBoMFbe2_-OugaWiRs030h3S-XZoGpyDDBABdNVcaUYz6xsbi4N3VbDk4a5mN9H8g9ZDy3wTx9pJfgCc/w1200-h630-p-k-no-nu/7.jpg"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/09/how-to-add-destination-tab-in-sys.html",
-          "author": null,
-          "description": "I have a requirement to generate multiple reports within a batch job. The user would like the option to specify the destination tab in the system operation dialog. Based on their inputs, the system will generate the selected report.\n\nI have followed the standard class \"AssetTransferMassController\".\nIn the controller class, I have written the below code. \nclass MyController extends SysOperationServiceController implements BatchRetryable\n{\n    #AssetTransfer\n\n    public static void main(Args args)\n    {\n        MyController      controller =  new MyController();\n\n        controller.parmExecutionMode(SysOperationExecutionMode::Synchronous);\n        controller.startOperation();\n\n        if (!controller.isDialogCancelled())\n        {\n            MyContract contract = controller.getDataContractO…",
-          "link": "https://kishoredynamics11.blogspot.com/2023/09/how-to-add-destination-tab-in-sys.html",
-          "publishedOn": "2023-09-27T05:24:00.003Z",
-          "wordCount": 3168,
-          "title": "How to add destination Tab in sys operation batch job in D365FO",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi96-GXGEc946AujO39-3Esu-vXNfRiPa20apltrVy9nP_qHoEV21lT6wV1sPgcn8IxChFS8BBG55ph7-CnfpZswejaRctccQL5taSFYiIPSOBy6b6dk16I4cGUTIW5aheJJf_FiqsoqdIXvl44giG-pidrdmFFLshhF1PYoTQdDACLxtwtZpA-zzu8mBg/w1200-h630-p-k-no-nu/4.jpg"
         }
       ]
     },
@@ -1697,6 +1687,66 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=134239",
+          "author": "enVista",
+          "description": "xxx\nFor many businesses, Microsoft Dynamics GP has been a reliable and familiar workhorse, managing core operations for years. As Microsoft shifts its focus toward cloud-first strategies, Dynamics GP is approaching […]\nThe post How To Migrate from Dynamics GP to Dynamics 365 BC  - Best Practices appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/09/how-to-migrate-from-dynamics-gp-to-dynamics-365-bc-best-practices/",
+          "publishedOn": "2025-09-25T21:01:36.000Z",
+          "wordCount": 7252,
+          "title": "How To Migrate from Dynamics GP to Dynamics 365 BC  - Best Practices",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-09-Migrating-from-Dynamics-GP-to-Dynamics-365-BC-How-To_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134719",
+          "author": "Domain 6 Inc.",
+          "description": "xxx\nMicrosoft Dynamics 365 Business Central has become a go-to ERP for organizations looking to modernize finance and operations. Yet, many leaders still hesitate because of lingering misconceptions. Some believe it’s […]\nThe post Business Central misconceptions: Separating myth from reality appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/09/business-central-misconceptions-separating-myth-from-reality/",
+          "publishedOn": "2025-09-25T19:19:13.000Z",
+          "wordCount": 6431,
+          "title": "Business Central misconceptions: Separating myth from reality",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Banner-1-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134703",
+          "author": "Insight Works",
+          "description": "xxx\nAs Dynamics GP starts phasing out in 2025, transitioning to Business Central is the logical next step, particularly for manufacturers that rely heavily on production scheduling.\nThe post From GP to Business Central: Production Scheduling with MxAPS appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central\nOptimize Order Fulfillment in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/09/from-gp-to-business-central-production-scheduling-with-mxaps/",
+          "publishedOn": "2025-09-25T19:00:39.000Z",
+          "wordCount": 6693,
+          "title": "From GP to Business Central: Production Scheduling with MxAPS",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GP-to-BC_Production-Scheduling-1.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134681",
+          "author": "MetaOption LLC",
+          "description": "xxx\nIn regulated businesses, such as pharmaceuticals, food and beverage, chemicals and certain manufacturing businesses, compliance is not a choice. It's a business imperative. A single traceability or expiry error can […]\nThe post How MetaWMS Supports Compliance: Expiry Dating, FIFO/FEFO, and Traceability appeared first on ERP Software Blog.\nEverything you need to know about Warehouse Order Picking Methods\nImportant steps to modify your Warehouse Layout\nThe Impact of Artificial Intelligence (AI) on Warehouse Management",
+          "link": "https://erpsoftwareblog.com/2025/09/how-metawms-supports-compliance-expiry-dating-fifo-fefo-and-traceability/",
+          "publishedOn": "2025-09-25T17:33:57.000Z",
+          "wordCount": 8371,
+          "title": "How MetaWMS Supports Compliance: Expiry Dating, FIFO/FEFO, and Traceability",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MO-Blog1-6.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134682",
+          "author": "Justin Delisle, Tato",
+          "description": "xxx\nMontreal, QC – September 22, 2025 — NYLL and Tato have entered a strategic partnership to help organizations modernize the way they deliver IT projects. The collaboration combines NYLL’s deep experience […]\nThe post NYLL and Tato Announce Partnership to Transform IT Project Delivery appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/09/nyll-and-tato-announce-partnership-to-transform-it-project-delivery/",
+          "publishedOn": "2025-09-25T14:34:05.000Z",
+          "wordCount": 6694,
+          "title": "NYLL and Tato Announce Partnership to Transform IT Project Delivery",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Tato-Social-and-blog-banners-3-625x327.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134675",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nThree weeks. That's what we had after our discovery phase ended. Three weeks to fix what had been slowly breaking for two years. The discovery phase did its job—perhaps too […]\nThe post From Marketing Chaos to Automated Campaigns appeared first on ERP Software Blog.\nMeet SharePoint Syntex\nA Hubbub Over Revenue Recognition for Marketing Promotions\nWhat the Dynamics/Marketing Pilot Marriage Means for the Future",
+          "link": "https://erpsoftwareblog.com/2025/09/from-marketing-chaos-to-automated-campaigns/",
+          "publishedOn": "2025-09-25T11:01:28.000Z",
+          "wordCount": 7111,
+          "title": "From Marketing Chaos to Automated Campaigns",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-21.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=134599",
           "author": "Admiral Consulting Group",
           "description": "xxx\nPress Release FOR IMMEDIATE RELEASE Mekorma and Admiral Consulting Group Expand Longstanding Partnership to Support Microsoft Dynamics 365 Business Central Clients Minneapolis, MN – September 2025 — Mekorma, a leading […]\nThe post Announcement of Partnership appeared first on ERP Software Blog.\nComparing AP Solutions: Mekorma vs. BILL\nEffortlessly Configure Check Layouts with Mekorma for BC and GP\nStreamlining Dynamics GP Accounts Payable With doc-link ™",
@@ -1735,6 +1785,26 @@
           "wordCount": 7370,
           "title": "Top 7 AI Features in D365 Finance & Ops That CFOs Can’t Ignore",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-Sep-14-2025-04_17_53-PM-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134673",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn today’s competitive professional services landscape, organizations are under constant pressure to deliver projects on time, within budget, and at high quality to maximize profitability. Traditional methods of managing projects […]\nThe post ERP for Professional Services: How Dynamics 365 Project Operations Drives Profitability appeared first on ERP Software Blog.\nWhy Dynamics 365 Finance and Operations Customers Should Consider a Two-Tier ERP Strategy with Business Central\nMicrosoft Dynamics ERP for Distribution/Manufacturing Industry\nDon’t Risk It: Ensure Your Payments Processor Knows Your ERP",
+          "link": "https://erpsoftwareblog.com/2025/09/erp-for-professional-services-how-dynamics-365-project-operations-drives-profitability/",
+          "publishedOn": "2025-09-24T10:46:32.000Z",
+          "wordCount": 7646,
+          "title": "ERP for Professional Services: How Dynamics 365 Project Operations Drives Profitability",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134646",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nLooking for the best Microsoft Dynamics 365 implementation partner in the USA? With the rising demand for ERP and CRM modernization, U.S. businesses are evaluating which Microsoft partner can deliver […]\nThe post Top 3 Microsoft Dynamics 365 Implementation Partners in USA (2025 Edition) appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/09/top-microsoft-dynamics-365-implementation-partners-in-usa/",
+          "publishedOn": "2025-09-24T09:04:40.000Z",
+          "wordCount": 7263,
+          "title": "Top 3 Microsoft Dynamics 365 Implementation Partners in USA (2025 Edition)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/generated-image-9.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=134647",
@@ -77001,16 +77071,6 @@
           "wordCount": 12710,
           "title": "Show Mixed Editable and Non-Editable Outer Join Fields on a Form in D365FO",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog_AddingFieldsToFormViaOuterJoin_title.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27141",
-          "author": "Irena Vujcic Pavlovic",
-          "description": "We are exciting to announce 📢 Docentric version 3.4.7 is out! With the cool new features you asked for, most of them being part of Free Edition ❤. Feature No. 1 in this release is 🔥 Print management utilities that will improve, we believe, user […]\nThe post Docentric AX 3.4.7 Released appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/docentric-ax-3-4-7-released/",
-          "publishedOn": "2023-09-27T12:28:35.000Z",
-          "wordCount": 11619,
-          "title": "Docentric AX 3.4.7 Released",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog-DocentricNewVersion_3-4-7.png"
         }
       ]
     },
