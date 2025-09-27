@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-09-26T01:40:37.667Z</updated>
+    <updated>2025-09-27T01:36:29.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What End Users Need to Know About Dynamics GP 18.8 (GP 2026)]]></title>
+        <id>https://erpsoftwareblog.com/?p=134773</id>
+        <link href="https://erpsoftwareblog.com/2025/09/what-end-users-need-to-know-about-dynamics-gp-2026/"/>
+        <updated>2025-09-26T21:52:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics GP 2026 is coming out October 1 2025 as version GP 18.8 = Learn what's new
+The post What End Users Need to Know About Dynamics GP 18.8 (GP 2026) appeared first on ERP Software Blog.
+April 4th News - Microsoft Announces price increases for Dynamics GP
+Have your voice heard - Future of GP Survey
+Happy Birthday Dynamics GP - 32 Years Strong!]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Slow Order Entry in Business Central with Counter Sales]]></title>
+        <id>https://erpsoftwareblog.com/?p=134731</id>
+        <link href="https://erpsoftwareblog.com/2025/09/fix-slow-order-entry-in-business-central-with-counter-sales/"/>
+        <updated>2025-09-26T19:00:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Counter Sales app for Microsoft Dynamics 365 Business Central empowers trade desks, parts counters, and small outlets with real-time order entry, barcode scanning, customer management, and built-in upselling—all inside Business Central.
+The post Fix Slow Order Entry in Business Central with Counter Sales appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manipulate PDF files in Dynamics 365 with iText – Part 1]]></title>
+        <id>https://erconsult.eu/?p=10008</id>
+        <link href="https://erconsult.eu/blog/manipulate-pdf-files-in-dynamics-365-with-itext-part-1/"/>
+        <updated>2025-09-26T17:28:10.000Z</updated>
+        <summary type="html"><![CDATA[When handling PDF invoices in Dynamics 365 Finance and Supply Chain Management, we may need to adjust the generated files before sending them out. With iText 7 for .NET, we can open a PDF in stamping mode, flatten its form fields so the values remain visible, and return the result directly into Electronic Reporting. This ensures the invoice data is permanent, standards-compliant, and ready for archival.
+The post Manipulate PDF files in Dynamics 365 with iText – Part 1 appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Budget to Actual Variances Good, Bad, or Ugly?]]></title>
+        <id>https://erpsoftwareblog.com/?p=134755</id>
+        <link href="https://erpsoftwareblog.com/2025/09/are-budget-to-actual-variances-good-bad-or-ugly/"/>
+        <updated>2025-09-26T17:26:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’ve ever sat in a budget review meeting, you know the moment well: the CFO clicks to the variance report, red and green numbers jump off the page, and […]
+The post Are Budget to Actual Variances Good, Bad, or Ugly? appeared first on ERP Software Blog.
+Professional Sports Team Financial Reporting with Dynamics GP
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Scaling Payables and Expense Management for Growth]]></summary>
+        <author>
+            <name>Dynamic Budgets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 3 Dynamics 365 Finance and Operations Partners in USA]]></title>
+        <id>https://erpsoftwareblog.com/?p=134743</id>
+        <link href="https://erpsoftwareblog.com/2025/09/top-3-dynamics-365-finance-and-operations-partners-in-usa/"/>
+        <updated>2025-09-26T15:59:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction When U.S. businesses look to modernize their financial and operational systems, Microsoft Dynamics 365 Finance and Operations (Dynamics 365 F&O) often becomes the solution of choice. From streamlining global […]
+The post Top 3 Dynamics 365 Finance and Operations Partners in USA appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing a Management Reporter Replacement for Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=134358</id>
+        <link href="https://erpsoftwareblog.com/2025/09/future-proof-microsoft-dynamics-financial-reporting/"/>
+        <updated>2025-09-26T14:32:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For more than a decade, Microsoft’s Management Reporter (MR) was the staple tool for financial reporting in Dynamics environments. It became the comfort zone for many finance teams—reliable, predictable, and […]
+The post Choosing a Management Reporter Replacement for Dynamics 365 Business Central appeared first on ERP Software Blog.
+How can Microsoft Dynamics track more Financial Data in the Cloud in 2018?
+How does Microsoft Dynamics reporting of data offer Accountability Today?
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Supply Chain vs SAP S/4HANA: Which is Best for Manufacturing?]]></title>
+        <id>https://erpsoftwareblog.com/?p=134105</id>
+        <link href="https://erpsoftwareblog.com/2025/09/dynamics-365-supply-chain-vs-sap-s4hana/"/>
+        <updated>2025-09-26T11:27:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced manufacturing landscape, choosing the right enterprise resource planning (ERP) platform can define operational efficiency, cost optimization, and long-term growth. As manufacturers scale globally, they need solutions that […]
+The post Dynamics 365 Supply Chain vs SAP S/4HANA: Which is Best for Manufacturing? appeared first on ERP Software Blog.
+Rapid Growth Supported by Dynamics 365 F&SCM
+Achieving Supply Chain Excellence through Consignment Inventory in Microsoft Dynamics 365 for Finance and Operations
+Five Ways to Make Your Supply Chain More Dynamic]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Calculated Fields and Formula Columns in Dynamics 365 CRM]]></title>
+        <id>https://www.encorebusiness.com/?p=45083</id>
+        <link href="https://www.encorebusiness.com/blog/d365-crm-calculated-field-formula-column/"/>
+        <updated>2025-09-26T11:13:44.000Z</updated>
+        <summary type="html"><![CDATA[How to Create Calculated Fields and Formula Columns in Dynamics 365 CRM
+You can use Calculated Fields or Formula Columns in your Microsoft Dynamics 365 CRM solution to automate calculations and special processes. I have used these options to help clients automatically: Calculate an expiry date based on an effective date Use an expiry date to determine a record’s status Reference columns from a related record Note...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Leanne Pahal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Migrate from Dynamics GP to Dynamics 365 BC  - Best Practices]]></title>
         <id>https://erpsoftwareblog.com/?p=134239</id>
@@ -5017,6 +5131,16 @@ The post Unlock Your AI Potential: The Power of Copilot Consulting Services appe
 The post What You Gain From Hiring Professional Anniversary Catering Services appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Jeroen Burgerhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding MCP server and Using MCP server with dynamics 365 for finance and Operations]]></title>
+        <id>http://elearnd365.com/?p=2001</id>
+        <link href="https://elearnd365.com/2025/08/22/understanding-mcp-server-and-using-mcp-server-with-dynamics-365-for-finance-and-operations/"/>
+        <updated>2025-08-22T21:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has announced Model context protocol and MCP servers to provide standardize way for AI agents to connect with external tools and data sources. In this blog post we will take at what is MCP and how MCP tools can be utilized to work with finance and operations data. MCP (Model Context Protocol) lets you […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>
