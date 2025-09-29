@@ -1012,16 +1012,6 @@
           "wordCount": 6775,
           "title": "Restricted Delete Action in Dynamics 365 Finance and Operations",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWqqUghVkM9-y3N03lNi8LJdS1RPjCikSaN3gZW-hpP-ColIDxOcVxFbihFyoZRnEBYfyaf46UlRm59ikb-SaO5hG1f2ZVoHH5SV0ZK4FCD2S8=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html",
-          "author": null,
-          "description": "In older versions of AX, We used right-click context menus (shortcut menus) by using the PopupMenu class\n\nBut in the current version, this can be achieved by using ContextMenu API and by overriding 2 methods getContextMenuOptions(), to add options to the context menu and selectedMenuOption() to process the user’s selection\nLets create a new form as shown below by name SRContextMenu. I have added CustGroup Table as a dataSource and in the design I have added CustGroup control to the grid.\n \n\nLets see the coding part to achieve this now. Override the classDeclaration method of the form/element and add the below line of code\n[Form]\npublic class SRContextMenu extends FormRun\n{\n    public const int rootIdx = 1;\n}\nThen override the getContextMenuOptions method as shown below from the CustGroup c…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html",
-          "publishedOn": "2023-09-30T06:53:00.001Z",
-          "wordCount": 6152,
-          "title": "Context Menus (D365 for Finance and Operations)",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWX4ml7jWIwiyvNMqE1CqmztljidmOzRMWyk_gLPbCWE4yc50I-bzNPUpR-nJB1nAw3_KS6UdJp-E80KDcBCxZGudm5ZvMm0ZaOYDueDVlkLtdEMD6rO7BStLDdeh2EBu0r20c49GIC1N3FsSodQ5DXYw=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -1686,6 +1676,16 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=134124",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nEnterprise Resource Planning (ERP) systems are now the backbone of modern Canadian businesses. From manufacturing to finance, companies rely on ERP to unify operations, improve efficiency, and gain real-time insights. […]\nThe post Top 10 ERP Partners in Canada for 2025 appeared first on ERP Software Blog.\n3 Factors to Consider When Evaluating ERP Partners\nMicrosoft makes training options available for Dynamics GP easy and convenient.\nGoogle for the perfect Microsoft Dynamics GP (Great Plains) Partner for you!",
+          "link": "https://erpsoftwareblog.com/2025/09/erp-partners-in-canada/",
+          "publishedOn": "2025-09-28T21:41:27.000Z",
+          "wordCount": 7532,
+          "title": "Top 10 ERP Partners in Canada for 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-Sep-15-2025-02_54_21-AM-625x417.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=134773",
           "author": "GP Support North",
@@ -32986,6 +32986,16 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/%f0%9f%93%82-linux-directories-explained-linux-file-system-file-structure-for-beginners-mindmajix-youtube",
+          "author": null,
+          "description": "In this video, we explain the Linux directory structure with practical examples, making it easy to understand how the Linux file system is organized and how each directory is used. Learn important linux directories such as / (root), /bin, /sbin, /etc, /home, /usr, /var, /tmp, /opt, and /dev, showing their purpose and usage with practical […]\nThe post 📂 Linux Directories Explained | Linux File System & File Structure For Beginners | MindMajix – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/%f0%9f%93%82-linux-directories-explained-linux-file-system-file-structure-for-beginners-mindmajix-youtube",
+          "publishedOn": "2025-09-27T09:01:09.000Z",
+          "wordCount": 2351,
+          "title": "📂 Linux Directories Explained | Linux File System & File Structure For Beginners | MindMajix – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/primeros-pasos-gituhub-copilot-coding-agent-con-teams-youtube",
           "author": "jarmesto",
           "description": "Primeros Pasos GituHub Copilot Coding Agent con Teams\nThe post Primeros Pasos GituHub Copilot Coding Agent con Teams – YouTube appeared first on 365 Community Online.",
@@ -33031,7 +33041,7 @@
           "description": "5th Anniversary – Welsh Azure User Group September 2025 Event Join us as we celebrate five incredible years of the Welsh Azure User Group! Hosted by John Lunn and Matthew Fortunka, this special anniversary session reflects on the group’s journey, highlights standout moments, and showcases a compelling talk from long-time sponsor Servent. 🔹 Session Highlights: […]\nThe post 5th Anniversary – Welsh Azure User Group   September 2025 Event – YouTube appeared first on 365 Community Online.",
           "link": "https://365community.online/5th-anniversary-welsh-azure-user-group-september-2025-event-youtube",
           "publishedOn": "2025-09-26T09:49:02.000Z",
-          "wordCount": 2722,
+          "wordCount": 2691,
           "title": "5th Anniversary – Welsh Azure User Group   September 2025 Event – YouTube",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
@@ -33064,6 +33074,16 @@
           "wordCount": 3445,
           "title": "Will AI Replace Web Developers (And How Should You Adapt)?",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/09/Will-AI-Replace-Web-Developers-And-How-Should-You-Adapt.jpg"
+        },
+        {
+          "id": "https://365community.online/postgresql-full-course-free-postgresql-training-postgresql-tutorial-for-beginners-mindmajix-youtube",
+          "author": null,
+          "description": "Welcome to the PostgreSQL Full Course, your complete guide to mastering one of the popular open-source relational databases. In this PostgreSQL course you’ll learn SQL basics, Postgres installation, database design, schema creation, CRUD operations, functions, views, indexing, stored procedures, triggers, and transactions. We’ll also cover advanced topics like performance tuning, backup & recovery, user roles […]\nThe post PostgreSQL Full Course | Free PostgreSQL Training | PostgreSQL Tutorial For Beginners | MindMajix – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/postgresql-full-course-free-postgresql-training-postgresql-tutorial-for-beginners-mindmajix-youtube",
+          "publishedOn": "2025-09-25T13:45:00.000Z",
+          "wordCount": 2410,
+          "title": "PostgreSQL Full Course | Free PostgreSQL Training | PostgreSQL Tutorial For Beginners | MindMajix – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
           "id": "https://365community.online/enhance-user-experience-with-model-driven-power-apps",

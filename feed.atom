@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-09-28T01:48:42.939Z</updated>
+    <updated>2025-09-29T01:42:59.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 ERP Partners in Canada for 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=134124</id>
+        <link href="https://erpsoftwareblog.com/2025/09/erp-partners-in-canada/"/>
+        <updated>2025-09-28T21:41:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Enterprise Resource Planning (ERP) systems are now the backbone of modern Canadian businesses. From manufacturing to finance, companies rely on ERP to unify operations, improve efficiency, and gain real-time insights. […]
+The post Top 10 ERP Partners in Canada for 2025 appeared first on ERP Software Blog.
+3 Factors to Consider When Evaluating ERP Partners
+Microsoft makes training options available for Dynamics GP easy and convenient.
+Google for the perfect Microsoft Dynamics GP (Great Plains) Partner for you!]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📂 Linux Directories Explained | Linux File System & File Structure For Beginners | MindMajix – YouTube]]></title>
+        <id>https://365community.online/%f0%9f%93%82-linux-directories-explained-linux-file-system-file-structure-for-beginners-mindmajix-youtube</id>
+        <link href="https://365community.online/%f0%9f%93%82-linux-directories-explained-linux-file-system-file-structure-for-beginners-mindmajix-youtube"/>
+        <updated>2025-09-27T09:01:09.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we explain the Linux directory structure with practical examples, making it easy to understand how the Linux file system is organized and how each directory is used. Learn important linux directories such as / (root), /bin, /sbin, /etc, /home, /usr, /var, /tmp, /opt, and /dev, showing their purpose and usage with practical […]
+The post 📂 Linux Directories Explained | Linux File System & File Structure For Beginners | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What End Users Need to Know About Dynamics GP 18.8 (GP 2026)]]></title>
         <id>https://erpsoftwareblog.com/?p=134773</id>
@@ -281,6 +307,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Justin Delisle, Tato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL Full Course | Free PostgreSQL Training | PostgreSQL Tutorial For Beginners | MindMajix – YouTube]]></title>
+        <id>https://365community.online/postgresql-full-course-free-postgresql-training-postgresql-tutorial-for-beginners-mindmajix-youtube</id>
+        <link href="https://365community.online/postgresql-full-course-free-postgresql-training-postgresql-tutorial-for-beginners-mindmajix-youtube"/>
+        <updated>2025-09-25T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the PostgreSQL Full Course, your complete guide to mastering one of the popular open-source relational databases. In this PostgreSQL course you’ll learn SQL basics, Postgres installation, database design, schema creation, CRUD operations, functions, views, indexing, stored procedures, triggers, and transactions. We’ll also cover advanced topics like performance tuning, backup & recovery, user roles […]
+The post PostgreSQL Full Course | Free PostgreSQL Training | PostgreSQL Tutorial For Beginners | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -98322,28 +98359,6 @@ The post Using Telemetry Data for Read Auditing in D365FO appeared first on Alex
         <summary type="html"><![CDATA[In the Dynamics 365 eCommerce project we where implementing a pricing logic that was quite complex and required many steps to calculate a price. The prices are unique for each customer, product, and other aspects, and the prices had to be calculated each time and in real-time. But calculating prices are a time- and compute … Continue reading Dynamics 365 CSU – Cache is king]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context Menus (D365 for Finance and Operations)]]></title>
-        <id>https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html</id>
-        <link href="https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html"/>
-        <updated>2023-09-30T06:53:00.001Z</updated>
-        <summary type="html"><![CDATA[In older versions of AX, We used right-click context menus (shortcut menus) by using the PopupMenu class
-
-But in the current version, this can be achieved by using ContextMenu API and by overriding 2 methods getContextMenuOptions(), to add options to the context menu and selectedMenuOption() to process the user’s selection
-Lets create a new form as shown below by name SRContextMenu. I have added CustGroup Table as a dataSource and in the design I have added CustGroup control to the grid.
- 
-
-Lets see the coding part to achieve this now. Override the classDeclaration method of the form/element and add the below line of code
-[Form]
-public class SRContextMenu extends FormRun
-{
-    public const int rootIdx = 1;
-}
-Then override the getContextMenuOptions method as shown below from the CustGroup c…]]></summary>
-        <author>
-            <name>D365 F&amp;O TechExpert</name>
         </author>
     </entry>
     <entry>
