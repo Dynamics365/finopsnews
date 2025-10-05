@@ -588,16 +588,6 @@
           "wordCount": 3010,
           "title": "Generate Payment Advice report using x++",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVd9r0fvPHTf61uEQEMSI-_C7mlP1lwMtV2DclL-6Nuid-DWp_M9tr7rLLTAlfyc9pLYoS8xMHO8xtjaLpmaeVqPI1dwTclR7O_8SKVc7bfvk1cpTfnvSR7TtGIau7M8J9DBsxAcCsedb3yKDed-5x7LTDfaBu5HGTcAm4mpV2x5KPSTRGTrWvIfiIK4/w1200-h630-p-k-no-nu/12.jpg"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/10/the-transaction-log-for-database-is.html",
-          "author": null,
-          "description": "Managing SQL Server data files when the disk is full.\nIf The database is full will get the below issues\n\n\nWhen I built the project, I encountered 26 synchronization errors. \nThe front-end URL is not open, and I am receiving an HTTP Error 503.\n\n\nSo, I checked 'This PC,' and I observed that the MSSQL (H) drive is full. Consequently, I followed the steps below to shrink the database\n\n\n\nhttps://sql2014.wordpress.com/tag/logdata-disk-full/\n\n\nStep 1: Open SQL Server Management Studio (SSMS) as an administrator.\nStep 2: Select the 'AXDB' database, right-click on it, and choose 'Properties.'\n\nStep 3: In the Properties window, navigate to the 'Options' tab, select the 'Recovery model' as 'Simple,' and click 'OK.'\n\nStep 4: Right-click on 'AXDB' again, select 'Tasks,' and then choose 'Shrink.' Under 'Shrink,' select 'Files.'\n\nStep 5: Choose the file type as 'Log' and click 'OK.'\n\nStep 6: Afterward, change the recovery model back to 'Full' and click 'OK.' (Rollback the step 3)\n\n\nKeep Daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/10/the-transaction-log-for-database-is.html",
-          "publishedOn": "2023-10-06T06:58:00.001Z",
-          "wordCount": 2926,
-          "title": "The transaction log for database is full in D365FO",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD7HPRCgbtqymBKQdOH6aICRb0uldVWv4wr9fdPR2IvFi9YuHOx1nWx6O3Dd7DiH_USAAvGnIh3t393q7ubj7IGlUFAYCkMiUg45HqaIf1PtucBoMFbe2_-OugaWiRs030h3S-XZoGpyDDBABdNVcaUYz6xsbi4N3VbDk4a5mN9H8g9ZDy3wTx9pJfgCc/w1200-h630-p-k-no-nu/7.jpg"
         }
       ]
     },
@@ -1656,6 +1646,16 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=135030",
+          "author": "Crestwood Associates",
+          "description": "xxx\n  In today’s manufacturing and distribution environments, precision planning is no longer a luxury, it’s a necessity. Balancing customer demand, production schedules, and inventory costs requires more than spreadsheets or […]\nThe post Optimize Your Supply Chain with MRP and MPS in Dynamics 365 Business Central  appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/10/optimize-your-supply-chain-with-mrp-and-mps-in-dynamics-365-business-central/",
+          "publishedOn": "2025-10-04T12:47:21.000Z",
+          "wordCount": 7080,
+          "title": "Optimize Your Supply Chain with MRP and MPS in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/global-online-shopping-transportation-and-fulfillm-2024-09-19-01-51-56-utc-scaled.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=135017",
           "author": "Western Computer",
@@ -33435,6 +33435,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/%f0%9f%8c%8aclaude-imagine-cuando-la-ia-pasa-de-responder-a-crear-youtube",
+          "author": "jarmesto",
+          "description": "🌊Claude Imagine: Cuando la IA pasa de responder a crear.\nThe post 🌊Claude Imagine: Cuando la IA pasa de responder a crear. – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/%f0%9f%8c%8aclaude-imagine-cuando-la-ia-pasa-de-responder-a-crear-youtube",
+          "publishedOn": "2025-10-04T14:10:45.000Z",
+          "wordCount": 2200,
+          "title": "🌊Claude Imagine: Cuando la IA pasa de responder a crear. – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/integracion-de-copilot-con-teams-primeros-pasos-shorts-youtube",
+          "author": "jarmesto",
+          "description": "Integración de Copilot con Teams: Primeros pasos #shorts\nThe post Integración de Copilot con Teams: Primeros pasos #shorts – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/integracion-de-copilot-con-teams-primeros-pasos-shorts-youtube",
+          "publishedOn": "2025-10-04T12:44:53.000Z",
+          "wordCount": 2184,
+          "title": "Integración de Copilot con Teams: Primeros pasos #shorts – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules",
+          "author": "Inogic",
+          "description": "If you work with Dynamics 365 CRM every day, you’ve likely faced this challenge: Two records for the same customer appear in your search results. Sales updates one record, while support logs a case in the other. Reports pull inconsistent data, frustrating your entire team. Duplicate records are one of the biggest hidden productivity killers […]\nThe post New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules! appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules",
+          "publishedOn": "2025-10-04T09:16:00.000Z",
+          "wordCount": 3460,
+          "title": "New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules!",
+          "imageUrl": "https://www.inogic.com/blog/wp-content/uploads/2025/10/Duplicate-Records-scaled.png"
+        },
+        {
+          "id": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-2",
+          "author": "Inogic",
+          "description": "If you work with Dynamics 365 CRM every day, you’ve likely faced this challenge: Two records for the same customer appear in your search results. Sales updates one record, while support logs a case in the other. Reports pull inconsistent data, frustrating your entire team. Duplicate records are one of the biggest hidden productivity killers […]\nThe post New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules! appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-2",
+          "publishedOn": "2025-10-04T09:16:00.000Z",
+          "wordCount": 3457,
+          "title": "New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules!",
+          "imageUrl": "https://www.inogic.com/blog/wp-content/uploads/2025/10/Duplicate-Records-scaled.png"
+        },
+        {
+          "id": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-3",
+          "author": "Inogic",
+          "description": "If you work with Dynamics 365 CRM every day, you’ve likely faced this challenge: Two records for the same customer appear in your search results. Sales updates one record, while support logs a case in the other. Reports pull inconsistent data, frustrating your entire team. Duplicate records are one of the biggest hidden productivity killers […]\nThe post New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules! appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-3",
+          "publishedOn": "2025-10-04T09:16:00.000Z",
+          "wordCount": 3460,
+          "title": "New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules!",
+          "imageUrl": "https://www.inogic.com/blog/wp-content/uploads/2025/10/Duplicate-Records-scaled.png"
+        },
+        {
+          "id": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-4",
+          "author": "Inogic",
+          "description": "If you work with Dynamics 365 CRM every day, you’ve likely faced this challenge: Two records for the same customer appear in your search results. Sales updates one record, while support logs a case in the other. Reports pull inconsistent data, frustrating your entire team. Duplicate records are one of the biggest hidden productivity killers […]\nThe post New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules! appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-4",
+          "publishedOn": "2025-10-04T09:16:00.000Z",
+          "wordCount": 3457,
+          "title": "New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules!",
+          "imageUrl": "https://www.inogic.com/blog/wp-content/uploads/2025/10/Duplicate-Records-scaled.png"
+        },
+        {
+          "id": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-5",
+          "author": "Inogic",
+          "description": "If you work with Dynamics 365 CRM every day, you’ve likely faced this challenge: Two records for the same customer appear in your search results. Sales updates one record, while support logs a case in the other. Reports pull inconsistent data, frustrating your entire team. Duplicate records are one of the biggest hidden productivity killers […]\nThe post New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules! appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-release-merge-duplicate-records-automatically-in-dynamics-365-crm-with-master-deciding-rules-5",
+          "publishedOn": "2025-10-04T09:16:00.000Z",
+          "wordCount": 3456,
+          "title": "New Release: Merge Duplicate Records Automatically in Dynamics 365 CRM with Master Deciding Rules!",
+          "imageUrl": "https://www.inogic.com/blog/wp-content/uploads/2025/10/Duplicate-Records-scaled.png"
+        },
+        {
+          "id": "https://365community.online/decision-tree-algorithm-in-machine-learning-classification-and-regression-trees-mindmajix-youtube",
+          "author": null,
+          "description": "In this video, we explain the Decision Tree algorithm in Machine Learning with examples to help you understand the concept. Learn the basics of decision trees, splitting criteria like Gini Index and Entropy, Information Gain, how the CART algorithm works, overfitting, and real-world applications. You’ll also learn how decision tree classifiers are applied in real […]\nThe post Decision Tree Algorithm in Machine Learning | Classification and Regression Trees | MindMajix – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/decision-tree-algorithm-in-machine-learning-classification-and-regression-trees-mindmajix-youtube",
+          "publishedOn": "2025-10-03T14:00:25.000Z",
+          "wordCount": 2404,
+          "title": "Decision Tree Algorithm in Machine Learning | Classification and Regression Trees | MindMajix – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/how-to-create-a-route-with-multiple-stops-using-google-apple-maps",
           "author": "Inogic",
@@ -71831,26 +71911,6 @@
           "wordCount": 4059,
           "title": "Number sequence set up for SmmContactPersonId – D365F&O",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-8.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3002",
-          "author": "AnithaEswaran",
-          "description": "While working on multiple projects or environments, we will always have various windows left open . Rather than checking the Address bar every time , if we have some extension which highlights the environment name in the active window, that … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/10/06/easy-identification-of-d365fo-environments-chrome-extension/",
-          "publishedOn": "2023-10-06T08:57:14.000Z",
-          "wordCount": 4034,
-          "title": "Easy identification of D365FO Environments – Chrome extension",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-6.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=2993",
-          "author": "AnithaEswaran",
-          "description": "Being a technical, my SSMS window will have multiple active connections , thus at times it will be perplexful to identify the correct environment. I found the below solution long back , but thought of sharing to the community which … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/10/06/ssms-color-pattern-to-differentiate-various-environments/",
-          "publishedOn": "2023-10-06T08:12:18.000Z",
-          "wordCount": 4056,
-          "title": "SSMS – Color pattern to differentiate various environments",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-2.png"
         }
       ]
     },
