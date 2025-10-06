@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-10-05T01:47:39.718Z</updated>
+    <updated>2025-10-06T01:41:47.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Logic apps – Reading from Sharepoint and send to Azure Service Bus]]></title>
+        <id>https://365community.online/logic-apps-reading-from-sharepoint-and-send-to-azure-service-bus</id>
+        <link href="https://365community.online/logic-apps-reading-from-sharepoint-and-send-to-azure-service-bus"/>
+        <updated>2025-10-05T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post , we will understand how the data uploaded in sharepoint will be sent to Service Bus queue via logic apps. What is Azure Service Bus? I am not going to dive deep into the ASB concept , but will give a brief oeverview of it to understand how it is used and […]
+The post Logic apps – Reading from Sharepoint and send to Azure Service Bus appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic apps – Reading from Sharepoint and send to Azure Service Bus]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4028</id>
+        <link href="https://anithasantosh.wordpress.com/2025/10/05/logic-apps-reading-from-sharepoint-and-send-to-azure-service-bus/"/>
+        <updated>2025-10-05T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post , we will understand how the data uploaded in sharepoint will be sent to Service Bus queue via logic apps. What is Azure Service Bus? I am not going to dive deep into the ASB concept , … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cloud PCs Will Be Bulletproof Against Hackers – YouTube]]></title>
+        <id>https://365community.online/how-cloud-pcs-will-be-bulletproof-against-hackers-youtube</id>
+        <link href="https://365community.online/how-cloud-pcs-will-be-bulletproof-against-hackers-youtube"/>
+        <updated>2025-10-05T14:00:56.000Z</updated>
+        <summary type="html"><![CDATA[🔐 Supercharge Your Windows 365 Cloud PC Security with EDR & NSG Hardening! 🔐 Join me in this video as I take you through the thrilling process of integrating Endpoint Detection and Response (EDR) security onboarding with Windows 365 Cloud PC and fortifying your setup using Network Security Groups (NSGs). Whether you’re an IT admin, […]
+The post How Cloud PCs Will Be Bulletproof Against Hackers – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the New Microsoft Marketplace: A Unified Hub for Cloud and AI Solutions!]]></title>
+        <id>https://365community.online/introducing-the-new-microsoft-marketplace-a-unified-hub-for-cloud-and-ai-solutions</id>
+        <link href="https://365community.online/introducing-the-new-microsoft-marketplace-a-unified-hub-for-cloud-and-ai-solutions"/>
+        <updated>2025-10-05T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[On September 25, 2025, Microsoft launched a reimagined Marketplace, merging Azure Marketplace and Microsoft AppSource into a unified destination. This single hub allows users to discover, try, buy, and deploy cloud solutions, AI applications, and intelligent agents. The move simplifies procurement and integration of third-party solutions within the Microsoft ecosystem, delivering a seamless, streamlined experience […]
+The post Introducing the New Microsoft Marketplace: A Unified Hub for Cloud and AI Solutions! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate your news filter – YouTube]]></title>
+        <id>https://365community.online/automate-your-news-filter-youtube</id>
+        <link href="https://365community.online/automate-your-news-filter-youtube"/>
+        <updated>2025-10-05T01:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Automate your news filter Build a daily brief with criteria and impact checks. Signal over noise. Build a daily brief with criteria and impact checks. Signal over noise. source
+The post Automate your news filter – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌊Claude Imagine: Cuando la IA pasa de responder a crear. – YouTube]]></title>
         <id>https://365community.online/%f0%9f%8c%8aclaude-imagine-cuando-la-ia-pasa-de-responder-a-crear-youtube</id>
@@ -99170,54 +99224,6 @@ The post Show Mixed Editable and Non-Editable Outer Join Fields on a Form in D36
 The post Dynamics Communities Summit North America 2023 Speaking Activities appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to insert a record directly through query X++]]></title>
-        <id>https://d365fotechexpert.blogspot.com/2023/10/how-to-insert-record-directly-through.html</id>
-        <link href="https://d365fotechexpert.blogspot.com/2023/10/how-to-insert-record-directly-through.html"/>
-        <updated>2023-10-07T06:59:00.002Z</updated>
-        <summary type="html"><![CDATA[static void test_insertRecordThroughQuery(Args _args)
-{CUSTTEST testTable;
-Map fieldMapping;
-Query query = new Query();
-QueryBuildDataSource qbds_custTable;
-QueryBuildFieldList fldList_custTable;
-qbds_custTable = query.addDataSource(tableNum(CustTable));
-// Field lists are required
-// ————————
-fldList_custTable = qbds_custTable.fields();
-fldList_custTable.addField(fieldNum(CustTable, AccountNum));
-fldList_custTable.addField(fieldNum(CustTable, BirthDate_IT));
-fldList_custTable.dynamic(QueryFieldListDynamic::No);
-fieldMapping = new Map(Types::String, Types::Container);
-fieldMapping.insert(fieldStr(testTable, Name), [qbds_custTable.uniqueId(), fieldStr(CustTable, AccountNum)]);
-fieldMapping.insert(fieldStr(testTable, TransDate), [qbds_custTable.uniqueId(), fieldStr(CustTable, BirthDate_IT)]);
-// Let AX handle getting data from the query to the target table
-// ————————————————————-
-query::insert_recordset(testTable, fieldMapping, query);
-info (“Done”);
-}
-Output:]]></summary>
-        <author>
-            <name>D365 F&amp;O TechExpert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Hide Enum values x++]]></title>
-        <id>https://d365fotechexpert.blogspot.com/2023/10/how-to-hide-enum-values-x.html</id>
-        <link href="https://d365fotechexpert.blogspot.com/2023/10/how-to-hide-enum-values-x.html"/>
-        <updated>2023-10-07T06:54:00.002Z</updated>
-        <summary type="html"><![CDATA[Today will discuss about a simple topic of hiding enum values through code.
-Suppose, you have enum Gender which contains values A,B,C. you want to hide last value of enum while displaying it on the form.
-So, what you have to do is override the enter method of that enum control at form level.
-public void enter()
-{super();
-this.delete(enum2str(Gender::C));
-}
-Please let me know if you have any further queries.]]></summary>
-        <author>
-            <name>D365 F&amp;O TechExpert</name>
         </author>
     </entry>
     <entry>
