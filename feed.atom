@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-10-10T01:40:52.590Z</updated>
+    <updated>2025-10-11T01:36:22.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[National Accounts Available for Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=135452</id>
+        <link href="https://erpsoftwareblog.com/2025/10/national-accounts-available-for-dynamics-365-business-central/"/>
+        <updated>2025-10-10T20:52:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+National Accounts, a feature that has been famously missing from out of the box Dynamics 365 Business Central is now available as an add-on. Developed by the team at iSolutions […]
+The post National Accounts Available for Dynamics 365 Business Central appeared first on ERP Software Blog.
+Guide to Payment Processing in Microsoft Dynamics ERP
+Accounts Receivable For Microsoft Business Central from Versapay
+How are AP and AR the 2 Sides of The Same Coin?]]></summary>
+        <author>
+            <name>iSolutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central App Upgrade: New Features in Quality Inspector v7.23]]></title>
+        <id>https://erpsoftwareblog.com/?p=135207</id>
+        <link href="https://erpsoftwareblog.com/2025/10/business-central-app-upgrade-new-features-in-quality-inspector-v7-23/"/>
+        <updated>2025-10-10T19:05:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works announces Quality Inspector v7.23 for Business Central, delivering enhanced automation, visibility, and flexibility for quality assurance.
+The post Business Central App Upgrade: New Features in Quality Inspector v7.23 appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+How Manufacturers Automate Preventive Maintenance with Business Central
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the Benefits of Pricing Software?]]></title>
+        <id>https://erpsoftwareblog.com/?p=135439</id>
+        <link href="https://erpsoftwareblog.com/2025/10/benefits-of-pricing-software/"/>
+        <updated>2025-10-10T17:39:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Efficiency is the key to success in business, and pricing plays a bigger role than ever in protecting your bottom line. To stay competitive and maximize profits, companies are turning […]
+The post What are the Benefits of Pricing Software? appeared first on ERP Software Blog.
+Comparing AP Solutions: Mekorma vs. BILL
+Embedded AP Solutions vs Integrated: What’s Right for Your Team?
+“Readers Digest” Version of the LEAN Enterprise]]></summary>
+        <author>
+            <name>Mark Rockwell, Rockton Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How three financial reports can stop revenue leakage before it starts for service firms]]></title>
+        <id>https://erpsoftwareblog.com/?p=134323</id>
+        <link href="https://erpsoftwareblog.com/2025/10/how-three-financial-reports-can-stop-revenue-leakage-before-it-starts-for-service-firms/"/>
+        <updated>2025-10-10T14:00:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Revenue leakage is the silent margin killer in service organizations. Hours get delivered but never billed, invoices go out late, and cash shows up long after the work is complete. […]
+The post How three financial reports can stop revenue leakage before it starts for service firms appeared first on ERP Software Blog.
+Top 5 Signs It's Time to Get a Project Management Tool for Your Services Company
+How to Use Microsoft Dynamics 365 Business Central with a Project Accounting Application to Identify Your Most Profitable Projects
+Why Training Project Managers on Financial Metrics Is Crucial for Business Success]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multilingual Agents in Microsoft Copilot Studio: Enabling Multi‑Language Conversational AI]]></title>
+        <id>https://365community.online/multilingual-agents-in-microsoft-copilot-studio-enabling-multi%e2%80%91language-conversational-ai</id>
+        <link href="https://365community.online/multilingual-agents-in-microsoft-copilot-studio-enabling-multi%e2%80%91language-conversational-ai"/>
+        <updated>2025-10-10T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, customer interactions often span many languages. Microsoft’s Copilot Studio provides a powerful way to build multilingual agents, chat agents or bots that can seamlessly converse in more than one language while being maintained as a single agent. What is a Multilingual Agent? A multilingual agent in Copilot Studio is an agent that: Has one […]
+The post Multilingual Agents in Microsoft Copilot Studio: Enabling Multi‑Language Conversational AI appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Details of type initializer exception]]></title>
+        <id>https://dev.goshoom.net/?p=10201</id>
+        <link href="https://dev.goshoom.net/2025/10/details-of-type-initializer-exception/"/>
+        <updated>2025-10-10T09:34:59.000Z</updated>
+        <summary type="html"><![CDATA[My F&O development environment showed an error message when I tried to use Inventory > Transaction on a sales order line. This doesn’t say much about the actual cause. Attaching a debugger didn’t help – there was no unhandled exception and Info.add() wasn’t called either. I was still able to get more information; showing that ...
+Continue reading ‘Details of type initializer exception’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Central App Upgrade: New Features in Product Configurator v4.0]]></title>
         <id>https://erpsoftwareblog.com/?p=135179</id>
@@ -126,6 +208,17 @@ Want to provide equipment and its status directly to each depot manager and take
 Know how to effectively integrate blockchain into your business]]></summary>
         <author>
             <name>DATABASICS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Service Explained | Share, Collaborate & Manage Reports in the Cloud – YouTube]]></title>
+        <id>https://365community.online/power-bi-service-explained-share-collaborate-manage-reports-in-the-cloud-youtube</id>
+        <link href="https://365community.online/power-bi-service-explained-share-collaborate-manage-reports-in-the-cloud-youtube"/>
+        <updated>2025-10-09T12:43:08.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we dive deep into the Power BI Service, Microsoft’s cloud-based platform for sharing, collaborating, and managing Power BI reports and dashboards online. You’ll learn: ✅ What the Power BI Service is and how it connects your Power BI Desktop reports to the cloud. ✅ How to navigate the Power BI Service interface […]
+The post Power BI Service Explained | Share, Collaborate & Manage Reports in the Cloud – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
         </author>
     </entry>
     <entry>
