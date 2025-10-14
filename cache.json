@@ -1637,6 +1637,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=135200",
+          "author": "Insight Works",
+          "description": "xxx\nGP to Business Central: For companies that rely on shipping to keep their operations moving, Dynamic Ship by Insight Works offers the next step forward\nThe post GP to Business Central: What Happens to Your Shipping Processes? appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/gp-to-business-central-what-happens-to-your-shipping-processes/",
+          "publishedOn": "2025-10-13T18:41:02.000Z",
+          "wordCount": 7040,
+          "title": "GP to Business Central: What Happens to Your Shipping Processes?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GP-to-BC_Shipping-1.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135377",
+          "author": "DLD Business Solutions, Inc.",
+          "description": "xxx\nIf you've received a quote for a Dynamics 365 Business Central (BC) implementation, there’s a good chance you’ll be surprised at the final invoice. According to Panorama Consulting’s ERP Report, […]\nThe post Dynamics 365 BC Implementation: How to Avoid Cost Overruns appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/dynamics-365-bc-implementation-how-to-avoid-cost-overruns/",
+          "publishedOn": "2025-10-13T18:08:55.000Z",
+          "wordCount": 7636,
+          "title": "Dynamics 365 BC Implementation: How to Avoid Cost Overruns",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-10-Dynamics-365-BC-Implementation-How-to-Avoid-Cost-Overruns_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135352",
+          "author": "STAEDEAN",
+          "description": "xxx\nSTAEDEAN offers end-to-end life sciences software fully embedded within Microsoft Dynamics 365 Finance & Supply Chain Management (F&SCM). With built-in data controls, regulatory support, and process automation, STAEDEAN helps companies […]\nThe post Validation in Life Sciences with Dynamics ERP F&SCM appeared first on ERP Software Blog.\nThe Top 3 Reasons Financing Your Microsoft Accounting Software Can Benefit Your Organization\n6 Important Guidelines on Selecting the Best Accounting Software and Reseller\nService Level Agreements For Accounting Software Users",
+          "link": "https://erpsoftwareblog.com/2025/10/validation-in-life-sciences-with-dynamics-erp-fscm/",
+          "publishedOn": "2025-10-13T16:36:14.000Z",
+          "wordCount": 7376,
+          "title": "Validation in Life Sciences with Dynamics ERP F&SCM",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-10-ERP-Validation-in-Life-Sciences-is-Complex.-It-Just-Got-Easier_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135427",
+          "author": "Ryan Carolan D365contractors.com",
+          "description": "xxx\nA guide to getting the most from Dynamics 365 independent contractors Let me guess: Your last contractor was technically brilliant. Solved problems you didn't even know you had. Then vanished […]\nThe post 5 Tips to Stop Your D365 Contractor Going Missing appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/5-tips-to-stop-your-d365-contractor-going-missing/",
+          "publishedOn": "2025-10-13T15:36:13.000Z",
+          "wordCount": 7745,
+          "title": "5 Tips to Stop Your D365 Contractor Going Missing",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/u3562425248_create_an_image_of_an_8-ball_on_an_IT_workers_des_61f071df-01aa-46cb-b931-2ce2e2f4bf7d_1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135474",
+          "author": "Volt Technologies",
+          "description": "xxx\nA smooth sales process is vital for any growing business. Yet, many teams struggle with disjointed tools, manual data entry, and communication gaps between sales and finance. Microsoft Dynamics 365 […]\nThe post The Sales Lifecycle in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/the-sales-lifecycle-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-10-13T09:00:21.000Z",
+          "wordCount": 6901,
+          "title": "The Sales Lifecycle in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Volt-web-featured-14.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=135452",
           "author": "iSolutions",
           "description": "xxx\nNational Accounts, a feature that has been famously missing from out of the box Dynamics 365 Business Central is now available as an add-on. Developed by the team at iSolutions […]\nThe post National Accounts Available for Dynamics 365 Business Central appeared first on ERP Software Blog.\nGuide to Payment Processing in Microsoft Dynamics ERP\nAccounts Receivable For Microsoft Business Central from Versapay\nHow are AP and AR the 2 Sides of The Same Coin?",
@@ -33836,6 +33886,56 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/what-are-partial-merges-in-business-process-flow-bpf-and-what-can-we-do-about-it-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Let’s take an example. Suppose we have the following Business Process Flow (BPF) for Leads: If the Lead Type = Grade A, we want the Grade A Details stage to appear. For other grades (B, C, D), we skip that stage and continue. So far, this is simple. Now, say we have a new business […]\nThe post What are Partial Merges in Business Process Flow (BPF), and what can we do about it – Dataverse / Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/what-are-partial-merges-in-business-process-flow-bpf-and-what-can-we-do-about-it-dataverse-dynamics-365",
+          "publishedOn": "2025-10-13T18:35:00.000Z",
+          "wordCount": 2136,
+          "title": "What are Partial Merges in Business Process Flow (BPF), and what can we do about it – Dataverse / Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/What-are-Partial-Merges-in-Business-Process-Flow-BPF-and.png"
+        },
+        {
+          "id": "https://365community.online/power-automate-e-copilot-como-gerar-um-pdf-na-horizontal-de-forma-simples-e-sem-usar-conector-pago-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "♐ Adquira meu curso PowerApps avançado na Hotmart. https://go.hotmart.com/U98457324E ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Hotmart. https://go.hotmart.com/S74000868Y ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 🚀 Let’s connect: Linkedin: https://www.linkedin.com/in/saulosoaresoliveira Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCUuAtzt0pMmnC54UpEVls8g/join […]\nThe post Power Automate e Copilot – Como gerar um pdf na horizontal de forma simples e sem usar conector pago – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/power-automate-e-copilot-como-gerar-um-pdf-na-horizontal-de-forma-simples-e-sem-usar-conector-pago-youtube",
+          "publishedOn": "2025-10-13T11:15:31.000Z",
+          "wordCount": 2097,
+          "title": "Power Automate e Copilot – Como gerar um pdf na horizontal de forma simples e sem usar conector pago – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/getting-started-with-power-platform-pipelines-youtube",
+          "author": "Matt Collins",
+          "description": "In this video, I explain the basics of setting up and configuring Power Platform Pipelines, to allow users of the Power Platform to perform healthy ALM actions. This video is the creation of an environment, installation of the application and creating a pipeline. Blog: https://www.mattcollinsjones.co.uk BlueSky: https://bsky.app/profile/mattcollinsjones.co.uk LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source\nThe post Getting Started with Power Platform Pipelines – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/getting-started-with-power-platform-pipelines-youtube",
+          "publishedOn": "2025-10-13T09:00:12.000Z",
+          "wordCount": 2007,
+          "title": "Getting Started with Power Platform Pipelines – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/tech-talk-episode-2-exploring-microsoft-dynamics-365-project-operations-youtube",
+          "author": "Sam William",
+          "description": "Welcome to Tech talk Episode 2, where we unlock project excellence with Microsoft Dynamics 365 Project Operations — your all-in-one solution to manage projects, resources, finances, and delivery with clarity and control. 🎯What You’ll Learn in This Episode: What is Dynamics 365 Project Operations & why it matters -Core features: planning, resourcing, cost tracking, billing […]\nThe post Tech talk Episode 2 | Exploring Microsoft Dynamics 365 Project Operations – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/tech-talk-episode-2-exploring-microsoft-dynamics-365-project-operations-youtube",
+          "publishedOn": "2025-10-13T05:30:07.000Z",
+          "wordCount": 2137,
+          "title": "Tech talk Episode 2 | Exploring Microsoft Dynamics 365 Project Operations – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/setting-up-the-elgato-prompter-youtube",
+          "author": "John Lunn",
+          "description": "Setting up the Elgato Prompter! source\nThe post Setting up the Elgato Prompter! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/setting-up-the-elgato-prompter-youtube",
+          "publishedOn": "2025-10-12T16:23:47.000Z",
+          "wordCount": 1944,
+          "title": "Setting up the Elgato Prompter! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/starting-a-user-group-what-you-need-to-know",
           "author": "Areti Iles",
           "description": "I share my journey of starting a user group in the UK Microsoft Community, detailing challenges faced, lessons learned, and essential considerations for organizing successful events to foster community engagement. Original Post https://aretiiles.com/2025/10/12/starting-a-user-group-what-you-need-to-know/\nThe post Starting a User Group: What You Need to Know appeared first on 365 Community Online.",
@@ -33893,16 +33993,6 @@
           "publishedOn": "2025-10-12T06:21:44.000Z",
           "wordCount": 1915,
           "title": "Office meetings 😩 #memes – YouTube",
-          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
-        },
-        {
-          "id": "https://365community.online/how-to-break-the-fear-cycle-youtube",
-          "author": "NZ365Guy",
-          "description": "How to break the fear cycle Spot fear early and interrupt the chain before it turns to anger and hate. Spot fear early and interrupt the chain before it turns to anger and hate. source\nThe post How to break the fear cycle – YouTube appeared first on 365 Community Online.",
-          "link": "https://365community.online/how-to-break-the-fear-cycle-youtube",
-          "publishedOn": "2025-10-12T01:01:21.000Z",
-          "wordCount": 1952,
-          "title": "How to break the fear cycle – YouTube",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
@@ -78721,26 +78811,6 @@
           "wordCount": 11478,
           "title": "#MySummitNA 2023: Docentric Free Edition – What Can It Do for Your D365FO Projects?",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/PSS-Docentric-Free-Edition-–-what-can-it-do-for-your-D365FO-projects-2.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27394",
-          "author": "Albin Lotric",
-          "description": "Our expert, Albin Lotrič, has gathered the top practical tips and tricks for customizing ER configurations that cannot only help you survive but also thrive in Electronic reporting 🤩. Here's a sneak peek into Albin's survival kit, and what he'll be tackling during his session: […]\nThe post #MySummitNA 2023: Survival Guide for Customizing Electronic Reporting Configurations appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/survival-guide-for-customizing-electronic-reporting-configurations/",
-          "publishedOn": "2023-10-15T12:59:42.000Z",
-          "wordCount": 11472,
-          "title": "#MySummitNA 2023: Survival Guide for Customizing Electronic Reporting Configurations",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/Survival-Guide-for-Customizing-Electronic-Reporting-Configurations.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27387",
-          "author": "Irena Vujcic Pavlovic",
-          "description": "We are thrilled to return to Community Summit NA, the biggest D365 community event in the world 🌎 . We have the privilege of sharing our commitment to the community through the Docentric Free Edition, and our support to the world-class D365 and Power Platform Community […]\nThe post Meet Us at Community Summit NA 2023 in Charlotte appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/meet-us-at-community-summit-na-2023-in-charlotte/",
-          "publishedOn": "2023-10-14T23:05:26.000Z",
-          "wordCount": 11436,
-          "title": "Meet Us at Community Summit NA 2023 in Charlotte",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/Charlotte-Community-Summit-2023.jpg"
         }
       ]
     },
