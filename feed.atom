@@ -2,10 +2,316 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-10-14T01:40:35.002Z</updated>
+    <updated>2025-10-15T01:43:29.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Batch and Expiry Tracking in Microsoft Dynamics 365 Enhances Pharma Supply Chain Safety]]></title>
+        <id>https://erpsoftwareblog.com/?p=135590</id>
+        <link href="https://erpsoftwareblog.com/2025/10/how-batch-and-expiry-tracking-in-microsoft-dynamics-365-enhances-pharma-supply-chain-safety/"/>
+        <updated>2025-10-14T19:18:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the pharmaceutical industry, precision, traceability, and compliance are non-negotiable. From manufacturing to distribution, every product must be tracked, verified, and documented to protect patient safety and meet strict regulatory […]
+The post How Batch and Expiry Tracking in Microsoft Dynamics 365 Enhances Pharma Supply Chain Safety appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Quote to Shipment: Will the Sales Order Agent and Order Ship Express Replace You?]]></title>
+        <id>https://erpsoftwareblog.com/?p=135406</id>
+        <link href="https://erpsoftwareblog.com/2025/10/from-quote-to-shipment-will-the-sales-order-agent-and-order-ship-express-replace-you/"/>
+        <updated>2025-10-14T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Sales Order Agent is Microsoft’s AI powered assistant for order capture. When a customer sends an email requesting a quote, the agent:
+The post From Quote to Shipment: Will the Sales Order Agent and Order Ship Express Replace You? appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Gotcha: Why [x == (a || b)] Fails]]></title>
+        <id>https://365community.online/javascript-gotcha-why-x-a-b-fails</id>
+        <link href="https://365community.online/javascript-gotcha-why-x-a-b-fails"/>
+        <updated>2025-10-14T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we observed that our JavaScript code was not working as expected. Now when we write conditions in JavaScript, it’s natural to want to check if a variable equals one of multiple values. A common mistake is to write the condition like this: At first glance, it seems like this would check if ‘loanType’ is […]
+The post JavaScript Gotcha: Why [x == (a || b)] Fails appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Database Log in D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4073</id>
+        <link href="https://anithasantosh.wordpress.com/2025/10/14/enabling-database-log-in-d365fo/"/>
+        <updated>2025-10-14T18:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Database logging provides a way to track specific types of changes to the tables and fields in the system. Changes that can be tracked include insert, update, delete, and rename key operations. When you configure logging for a table or … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Database Log in D365FO]]></title>
+        <id>https://365community.online/enabling-database-log-in-d365fo</id>
+        <link href="https://365community.online/enabling-database-log-in-d365fo"/>
+        <updated>2025-10-14T18:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Database logging provides a way to track specific types of changes to the tables and fields in the system. Changes that can be tracked include insert, update, delete, and rename key operations. When you configure logging for a table or field, a record of every change to that table or field is stored in the […]
+The post Enabling Database Log in D365FO appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Legacy to the Cloud: Nonprofits Are Moving to Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=135568</id>
+        <link href="https://erpsoftwareblog.com/2025/10/from-legacy-to-the-cloud-nonprofits-are-moving-to-dynamics-365-business-central/"/>
+        <updated>2025-10-14T18:00:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Many nonprofit organizations still rely on outdated accounting or donor systems that can’t keep up with today’s increasing demands. Legacy ERP solutions, spreadsheets, and disconnected databases create bottlenecks that […]
+The post From Legacy to the Cloud: Nonprofits Are Moving to Dynamics 365 Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Advanced Budgeting, Reporting and Consolidates Empowering Dynamics 365 Business Central
+How to Manage Your Inventory Using Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Michael Ramatowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit Filters – Filtering Views Quickly Part 3 : AMS Club Tip 19]]></title>
+        <id>https://365community.online/edit-filters-filtering-views-quickly-part-3-ams-club-tip-19</id>
+        <link href="https://365community.online/edit-filters-filtering-views-quickly-part-3-ams-club-tip-19"/>
+        <updated>2025-10-14T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[DYNAMICS 365 SALES TIPS Here’s what you’ll learn How to filter using fields from related tables How to combine AND and OR conditions for better results Why testing your filters step by step helps you get the right data Tips for using helper columns to check your results After you’ve started the video, press f […]
+The post Edit Filters – Filtering Views Quickly Part 3 : AMS Club Tip 19 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit Filters – Filtering Views Quickly Part 2 : AMS Club Tip 18]]></title>
+        <id>https://365community.online/edit-filters-filtering-views-quickly-part-2-ams-club-tip-18</id>
+        <link href="https://365community.online/edit-filters-filtering-views-quickly-part-2-ams-club-tip-18"/>
+        <updated>2025-10-14T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[DYNAMICS 365 SALES TIPS Here’s what you’ll learn How to add OR conditions to your filters How to group criteria for better results Why OR filters help you cover different scenarios in one view Tips for planning your filters to get the right outcome After you’ve started the video, press f to show this in […]
+The post Edit Filters – Filtering Views Quickly Part 2 : AMS Club Tip 18 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Discovery Saves the Business Central Implementation]]></title>
+        <id>https://erpsoftwareblog.com/?p=135560</id>
+        <link href="https://erpsoftwareblog.com/2025/10/business-central-implementation/"/>
+        <updated>2025-10-14T15:34:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most ERP implementations bog down in endless planning sessions. The Gear for the Game implementation shows how investing time in proper discovery upfront actually speeds everything up. What We Found […]
+The post When Discovery Saves the Business Central Implementation appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Expansion Simplified: How MetaShip Supports International Shipping]]></title>
+        <id>https://erpsoftwareblog.com/?p=135548</id>
+        <link href="https://erpsoftwareblog.com/2025/10/international-shipping/"/>
+        <updated>2025-10-14T15:14:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Scaling beyond borders is one of the fastest ways for businesses to grow — but cross-border shipping is also one of the most complex. New markets bring new carriers, customs […]
+The post Global Expansion Simplified: How MetaShip Supports International Shipping appeared first on ERP Software Blog.
+Real-Time Rate Shopping: Maximizing Savings and Efficiency
+How you can secure your data with Document Management System (DMS)
+How does Business Central offer enhanced reporting and data access?]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Built with Care. Backed by People.]]></title>
+        <id>https://erpsoftwareblog.com/?p=135524</id>
+        <link href="https://erpsoftwareblog.com/2025/10/built-with-care-backed-by-people/"/>
+        <updated>2025-10-14T14:30:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+At On Point, we believe technology should feel human. The best systems are the ones you don’t have to think about because they just work. But behind that quiet reliability […]
+The post Built with Care. Backed by People. appeared first on ERP Software Blog.
+ERP Pricing: What You Need to Know Before You Get a Quote
+The CFO’s Secret Weapon: Real-Time Control with ERP
+Moving from GP to Business Central? Here’s How to Do It Without Losing Your Mind (or Your Data)]]></summary>
+        <author>
+            <name>On Point Services US LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit Columns – Sorting Views Quickly : AMS Club Tip 16]]></title>
+        <id>https://365community.online/edit-columns-sorting-views-quickly-ams-club-tip-16</id>
+        <link href="https://365community.online/edit-columns-sorting-views-quickly-ams-club-tip-16"/>
+        <updated>2025-10-14T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[DYNAMICS 365 SALES TIPS Here’s what you’ll learn How to reorder columns with simple drag and drop How to add new fields from the table How to include data from related tables like account or owner How to filter by any other field After you’ve started the video, press f to show this in full […]
+The post Edit Columns – Sorting Views Quickly : AMS Club Tip 16 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Partner growth in EMEA: How Directions is driving the momentum]]></title>
+        <id>https://erpsoftwareblog.com/?p=135286</id>
+        <link href="https://erpsoftwareblog.com/2025/10/microsoft-partner-growth-emea-directions/"/>
+        <updated>2025-10-14T14:06:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Europe’s Microsoft Partner community continues to expand at a pace unmatched by other regions, and nowhere is that more evident than at Directions EMEA, the annual conference for Partners building […]
+The post Microsoft Partner growth in EMEA: How Directions is driving the momentum appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Legacy ERP to Dynamics 365: A Step-by-Step Guide for U.S. Businesses]]></title>
+        <id>https://erpsoftwareblog.com/?p=135544</id>
+        <link href="https://erpsoftwareblog.com/2025/10/migrating-from-legacy-erp-to-dynamics-365/"/>
+        <updated>2025-10-14T13:56:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many U.S. companies are exploring modern solutions to streamline operations, improve efficiency, and gain real-time insights. Migrating from a legacy ERP to Microsoft Dynamics 365 is a strategic move that […]
+The post Migrating from Legacy ERP to Dynamics 365: A Step-by-Step Guide for U.S. Businesses appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central for Community Health Finance Transformation]]></title>
+        <id>https://erpsoftwareblog.com/?p=135539</id>
+        <link href="https://erpsoftwareblog.com/2025/10/business-central-for-community-health-finance-transformation/"/>
+        <updated>2025-10-14T13:17:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central for Community Health Finance Transformation A community mental health organization wanted to modernize its financial processes and leave behind its Sage Intacct system. Intacct lacked integration with other […]
+The post Business Central for Community Health Finance Transformation appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>The TM Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step Into the AI-Driven Era of Smarter Operations at Community Summit NA [2025]]]></title>
+        <id>https://erpsoftwareblog.com/?p=135533</id>
+        <link href="https://erpsoftwareblog.com/2025/10/step-into-the-ai-driven-era-of-smarter-operations-at-community-summit-na-2025/"/>
+        <updated>2025-10-14T12:02:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-moving business world, efficiency and data-driven decisions are no longer optional; they are essential. As companies grow, managing operations, financials, and customer data across different systems becomes a […]
+The post Step Into the AI-Driven Era of Smarter Operations at Community Summit NA [2025] appeared first on ERP Software Blog.
+A Guide to Microsoft Dynamics 365 Suite for Growing Businesses 
+Unlocking Business Growth with Customer Data: Insights from Dynamics 365
+The Role of AI in Enhancing Customer Relationship Management with Dynamics 365]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Consensus to Consent – Speed Things Up]]></title>
+        <id>http://kurthatlevik.com/?p=4812</id>
+        <link href="https://kurthatlevik.com/2025/10/14/from-consensus-to-consent-speed-things-up/"/>
+        <updated>2025-10-14T10:00:31.000Z</updated>
+        <summary type="html"><![CDATA[In many projects, we lose momentum not because people resist change — but because we wait too long for consensus. We keep discussing until everyone agrees. And then time flies by, costs accelerate and we fail on success criteria’s. Chasing the perfect decision means often results in winning the fight, but loosing the war. Project … Continue reading From Consensus to Consent – Speed Things Up]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Consensus to Consent – Speed Things Up]]></title>
+        <id>https://365community.online/from-consensus-to-consent-speed-things-up</id>
+        <link href="https://365community.online/from-consensus-to-consent-speed-things-up"/>
+        <updated>2025-10-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In many projects, we lose momentum not because people resist change — but because we wait too long for consensus. We keep discussing until everyone agrees. And then time flies by, costs accelerate and we fail on success criteria’s. Chasing the perfect decision means often results in winning the fight, but loosing the war. Project […]
+The post From Consensus to Consent – Speed Things Up appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: previewing PDF files in web client using the new ExtendedDataType = Document.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-previewing-pdf-files-in-web-client-using-the-new-extendeddatatype-document</id>
+        <link href="https://365community.online/dynamics-365-business-central-previewing-pdf-files-in-web-client-using-the-new-extendeddatatype-document"/>
+        <updated>2025-10-14T09:44:00.000Z</updated>
+        <summary type="html"><![CDATA[With the new Dynamics 365 Business Central 2025 Wave 2 release (v27) and AL Language version 16.x, Microsoft introduced the support for a new ExtendedDataType value (for Media and MediaSet fields) called Document. This new ExtendedDataType allows the client to render elements such as PDF files and images in FactBoxes (ListPart and CardPart page types). With this new property you can […]
+The post Dynamics 365 Business Central: previewing PDF files in web client using the new ExtendedDataType = Document. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the “Search Rows (Preview)” Action in Power Automate for Smarter Dataverse Queries]]></title>
+        <id>https://365community.online/how-to-use-the-search-rows-preview-action-in-power-automate-for-smarter-dataverse-queries</id>
+        <link href="https://365community.online/how-to-use-the-search-rows-preview-action-in-power-automate-for-smarter-dataverse-queries-2"/>
+        <updated>2025-10-14T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[If you often build automation flows in Power Automate, you’ve probably used the “List rows” action to pull data from Microsoft Dataverse. It’s useful for basic data retrieval—but when your data grows or you need to search across multiple tables, it starts to hit limitations. That’s where the “Search Rows (Preview)” action comes in. It […]
+The post How to Use the “Search Rows (Preview)” Action in Power Automate for Smarter Dataverse Queries appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the “Search Rows (Preview)” Action in Power Automate for Smarter Dataverse Queries]]></title>
+        <id>https://365community.online/how-to-use-the-search-rows-preview-action-in-power-automate-for-smarter-dataverse-queries</id>
+        <link href="https://365community.online/how-to-use-the-search-rows-preview-action-in-power-automate-for-smarter-dataverse-queries"/>
+        <updated>2025-10-14T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[If you often build automation flows in Power Automate, you’ve probably used the “List rows” action to pull data from Microsoft Dataverse. It’s useful for basic data retrieval—but when your data grows or you need to search across multiple tables, it starts to hit limitations. That’s where the “Search Rows (Preview)” action comes in. It […]
+The post How to Use the “Search Rows (Preview)” Action in Power Automate for Smarter Dataverse Queries appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing Inventory Bottlenecks with a Unified Supply Chain]]></title>
+        <id>https://erpsoftwareblog.com/?p=135526</id>
+        <link href="https://erpsoftwareblog.com/2025/10/unified-supply-chain-inventory-bottlenecks/"/>
+        <updated>2025-10-14T08:16:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Inventory bottlenecks are more than just annoyances, they’re profit killers. When stockouts, overstocking, or delayed delivery strike, they disrupt cash flow, frustrate customers, and blur forecasting accuracy. The solution? A […]
+The post Fixing Inventory Bottlenecks with a Unified Supply Chain appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search And Filtering Of Sessions On Event Registration Form]]></title>
+        <id>https://365community.online/search-and-filtering-of-sessions-on-event-registration-form</id>
+        <link href="https://365community.online/search-and-filtering-of-sessions-on-event-registration-form"/>
+        <updated>2025-10-14T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[I love getting questions from people that are using Customer Insights – Journeys. I have a lot of ideas but there are scenarios that I just never come up against myself. One was a question that asked if it might be possible to add a search box or filtering to an event registration form that […]
+The post Search And Filtering Of Sessions On Event Registration Form appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate Field Service bookings with Outlook and Teams, now Generally Available.]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195552</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/13/dynamics-365-field-service-exchange-integration/"/>
+        <updated>2025-10-13T18:42:19.000Z</updated>
+        <summary type="html"><![CDATA[With Release Wave 2 2025, we’re excited to announce the General Availability (GA) of Exchange Integration for Dynamics 365 Field Service. This capability syncs work order bookings directly into Outlook and Teams calendars, giving technicians a unified view of their schedules in one place, where they already collaborate with their team. 
+The post Integrate Field Service bookings with Outlook and Teams, now Generally Available.  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jason Shotts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP to Business Central: What Happens to Your Shipping Processes?]]></title>
         <id>https://erpsoftwareblog.com/?p=135200</id>
@@ -104,17 +410,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Started with Power Platform Pipelines – YouTube]]></title>
-        <id>https://365community.online/getting-started-with-power-platform-pipelines-youtube</id>
-        <link href="https://365community.online/getting-started-with-power-platform-pipelines-youtube"/>
-        <updated>2025-10-13T09:00:12.000Z</updated>
-        <summary type="html"><![CDATA[In this video, I explain the basics of setting up and configuring Power Platform Pipelines, to allow users of the Power Platform to perform healthy ALM actions. This video is the creation of an environment, installation of the application and creating a pipeline. Blog: https://www.mattcollinsjones.co.uk BlueSky: https://bsky.app/profile/mattcollinsjones.co.uk LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source
-The post Getting Started with Power Platform Pipelines – YouTube appeared first on 365 Community Online.]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tech talk Episode 2 | Exploring Microsoft Dynamics 365 Project Operations – YouTube]]></title>
         <id>https://365community.online/tech-talk-episode-2-exploring-microsoft-dynamics-365-project-operations-youtube</id>
         <link href="https://365community.online/tech-talk-episode-2-exploring-microsoft-dynamics-365-project-operations-youtube"/>
@@ -134,6 +429,16 @@ The post Tech talk Episode 2 | Exploring Microsoft Dynamics 365 Project Operatio
 The post Docentric AX 3.5.0 Released appeared first on Docentric AX.]]></summary>
         <author>
             <name>Ana Gligorijevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Announcement : Free Microsoft Dynamics 365 Finance Bootcamp: Posting Profiles Demystified – Register Now]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3045</id>
+        <link href="https://exploredynamics365.home.blog/2025/10/12/%f0%9f%a7%a0-announcement-free-microsoft-dynamics-365-finance-bootcamp-posting-profiles-demystified-register-now/"/>
+        <updated>2025-10-12T17:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Back to fundamentals. Forward to mastery.  If you work with Microsoft Dynamics 365 Finance, you already know: Posting Profiles can make or break your financial transactions. Yet, they’re one of the most overlooked (and misunderstood) areas in many implementations.  📅 Date: Saturday, November 1st, 2025  ⏰ Time: 11:00 AM GMT | 4:30 PM IST | 12 PM CET  📍 Location: Online (Live Virtual […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
         </author>
     </entry>
     <entry>
@@ -1000,6 +1305,21 @@ Top 7 AI Features in D365 Finance & Ops That CFOs Can’t Ignore]]></summary>
 The post Synchronous vs Asynchronous Workflows in Dynamics 365 CRM: Best Practices for Large Data Sets – Part 1 appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRM and ERP Integration: The Secret to Seamless Operations in the UK]]></title>
+        <id>https://erpsoftwareblog.com/?p=135527</id>
+        <link href="https://erpsoftwareblog.com/2025/10/crm-and-erp-integration-the-secret-to-seamless-operations-in-the-uk/"/>
+        <updated>2025-10-07T08:08:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Disconnected systems are one of the biggest barriers to business growth. When sales teams can’t see what finance is doing, and customer service lacks access to order history, efficiency suffers. […]
+The post CRM and ERP Integration: The Secret to Seamless Operations in the UK appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
@@ -100350,28 +100670,6 @@ The post Dynamics 365 Finance and Supply Chain: Access development environment a
 The post Ceridian Dayforce HCM vs Microsoft Dynamics 365 HR appeared first on Parag Chapre.]]></summary>
         <author>
             <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering HR: ChatGPT and Power Apps in Harmony]]></title>
-        <id>http://paragchapre.com/?p=12129</id>
-        <link href="https://paragchapre.com/chatgpt-powerapps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chatgpt-powerapps"/>
-        <updated>2023-10-16T06:36:09.000Z</updated>
-        <summary type="html"><![CDATA[Elevate HR operations with the seamless fusion of ChatGPT and Power Apps for greater efficiency and intelligence.
-The post Empowering HR: ChatGPT and Power Apps in Harmony appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MySummitNA 2023: Docentric Free Edition – What Can It Do for Your D365FO Projects?]]></title>
-        <id>https://ax.docentric.com/?p=27391</id>
-        <link href="https://ax.docentric.com/docentric-free-edition-what-can-it-do-for-your-d365fo-projects/"/>
-        <updated>2023-10-15T20:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Docentric expert and huge community enthusiast Sanja Kolundžija will demonstrate bridging the gaps in D365FO document generation and distribution with Docentric Free Edition, a product built on community feedback with heart ❤. You will see in action: ✅ Print destinations as you expect them to […]
-The post #MySummitNA 2023: Docentric Free Edition – What Can It Do for Your D365FO Projects? appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Sanja Kolundzija</name>
         </author>
     </entry>
     <entry>
