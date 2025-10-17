@@ -1618,16 +1618,6 @@
           "wordCount": 2183,
           "title": "How To Setup A Connection Between Azure DevOps & LCS",
           "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-300x169.png"
-        },
-        {
-          "id": "https://impulztech.com/?p=3156",
-          "author": "Wajahat Wasti",
-          "description": "Microsoft has changed how the admin user is setup in Dynamics 365 Finance and Supply Chain development virtual machine in order to access the Dynamics 365 development environment after the release of the VHD for version 10.0.24 in LCS. Prior to this version, user just needed to provide a valid domain email in Admin User […]\nThe post Dynamics 365 Finance and Supply Chain: Access development environment appeared first on Impulz Technologies LLC.",
-          "link": "https://impulztech.com/dynamics-365-finance-and-supply-chain-access-development-environment/",
-          "publishedOn": "2023-10-18T13:35:12.000Z",
-          "wordCount": 1479,
-          "title": "Dynamics 365 Finance and Supply Chain: Access development environment",
-          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/Dynamics-365-logo-500x281-1-300x169.png"
         }
       ]
     },
@@ -1636,6 +1626,91 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=135774",
+          "author": "Logan Consulting",
+          "description": "xxx\nIn today’s competitive business environment, finance teams are expected to deliver accurate insights and reports faster than ever before. Manual workflows, spreadsheet-based accounting, and disconnected legacy systems slow down operations […]\nThe post The ROI of Financial Automation in Microsoft Dynamics 365 Finance appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/10/the-roi-of-financial-automation-in-microsoft-dynamics-365-finance/",
+          "publishedOn": "2025-10-16T23:13:03.000Z",
+          "wordCount": 6943,
+          "title": "The ROI of Financial Automation in Microsoft Dynamics 365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/financial-automoation-300x168-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135708",
+          "author": "Insight Works",
+          "description": "xxx\nQuality Inspector v7.23 for Business Central brings smarter inspections, barcode labels, flexible sampling, and real-time quality control, all inside the system you already use.\nThe post What’s New in Business Central’s Quality Inspector v7.23? appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/10/whats-new-in-business-centrals-quality-inspector-v7-23/",
+          "publishedOn": "2025-10-16T18:18:17.000Z",
+          "wordCount": 6815,
+          "title": "What’s New in Business Central’s Quality Inspector v7.23?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/QI-7.23-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=134687",
+          "author": "Cosmos Data Technologies",
+          "description": "xxx\nCosmos, the only reporting solution built natively for Microsoft Dynamics 365 Business Central Cloud, has released its most significant update in history. The new platform experience, which went live September […]\nThe post Cosmos Strengthens Its Place Among the Best Business Central Reporting Tools with Major Excel-Based Upgrade appeared first on ERP Software Blog.\nHow to Load Multiple Excel Files into SQL Server Automatically\nEp. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast\nWebinar: Lightning-Fast Cloud Reporting and Analytics for Business Central | Discover the Power of Cosmos",
+          "link": "https://erpsoftwareblog.com/2025/10/best-business-central-reporting-tools-excel-based-reporting/",
+          "publishedOn": "2025-10-16T18:17:34.000Z",
+          "wordCount": 7003,
+          "title": "Cosmos Strengthens Its Place Among the Best Business Central Reporting Tools with Major Excel-Based Upgrade",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/admin-ajax-3.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135712",
+          "author": "The TM Group, Inc.",
+          "description": "xxx\nPower Apps Invoice Automation for Construction A construction materials supplier relied on Microsoft Dynamics GP for its accounting. But their invoice approval process remained fully manual. Workers printed invoices, traveled […]\nThe post Power Apps Invoice Automation for Construction appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/10/power-apps-invoice-automation-for-construction/",
+          "publishedOn": "2025-10-16T18:07:15.000Z",
+          "wordCount": 6718,
+          "title": "Power Apps Invoice Automation for Construction",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/aaaaaa.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135697",
+          "author": "Erin Bonde, MV2 MES",
+          "description": "xxx\nFor small and medium manufacturers, every hour of machine time counts. Unlike large enterprises, smaller plants often run lean, so a single machine downtime can disrupt schedules, deliveries, and cash […]\nThe post OEE for Small to Medium Plants: How to Measure and Improve Equipment Effectiveness appeared first on ERP Software Blog.\nWhat is an MES and how do you choose the right MES for Business Central\nAchieving ROI with a Best-of-Breed Warehouse Management Solution (WMS)\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix",
+          "link": "https://erpsoftwareblog.com/2025/10/oee-for-small-to-medium-plants-how-to-measure-and-improve-equipment-effectiveness/",
+          "publishedOn": "2025-10-16T15:44:17.000Z",
+          "wordCount": 6759,
+          "title": "OEE for Small to Medium Plants: How to Measure and Improve Equipment Effectiveness",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MV2-Blog-banners-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135692",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nSometimes you show up to solve one problem and discover something completely different needs fixing. That's what happened with Gear for the Game. The Original Ask Gear for the Game […]\nThe post Beyond Training: When Implementation Becomes Transformation appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/10/beyond-training-when-implementation-becomes-transformation/",
+          "publishedOn": "2025-10-16T15:13:35.000Z",
+          "wordCount": 6969,
+          "title": "Beyond Training: When Implementation Becomes Transformation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-27.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135633",
+          "author": "Sycor Americas",
+          "description": "xxx\nIndustry-leading Rental ERP Solution   Sycor.Rental for equipment rental industries allows rental businesses to manage their entire operation from one central platform built on Microsoft's leading ERP solution, Dynamics 365 […]\nThe post Sycor.Rental for Equipment Rental Industries appeared first on ERP Software Blog.\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary\nComparing AP Solutions: Mekorma vs. BILL\nThe Top 7 ERP Vendors for All Industries in 2025",
+          "link": "https://erpsoftwareblog.com/2025/10/sycor-rental-for-equipment-rental-industries/",
+          "publishedOn": "2025-10-16T13:05:43.000Z",
+          "wordCount": 7000,
+          "title": "Sycor.Rental for Equipment Rental Industries",
+          "enclosure": {
+            "url": "https://erpsoftwareblog.com/wp-content/uploads/Sycor.Rental-miniDemo.mp4",
+            "length": "55632671",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Sycor.Rental-375x210-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135685",
+          "author": "Crestwood Associates",
+          "description": "xxx\nClose the Gaps: Why Every SMB Needs a Microsoft Security Assessment  Small and midsize businesses (SMBs) face an increasing barrage of cyber threats. But here’s the kicker, many are still […]\nThe post Microsoft Security Assessment for SMBs appeared first on ERP Software Blog.\n6 Key Benefits of Cloud Computing for SMBs in 2018\nTop Reasons why SMBs Are Investing in Cloud-Based ERP System\nFinding the Right Dynamics 365 Partner",
+          "link": "https://erpsoftwareblog.com/2025/10/microsoft-security-assessment-for-smbs/",
+          "publishedOn": "2025-10-16T12:36:36.000Z",
+          "wordCount": 7055,
+          "title": "Microsoft Security Assessment for SMBs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/hacker-cracking-the-security-code-on-a-laptop-2025-02-09-23-34-32-utc-scaled.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=135653",
           "author": "Mark Rockwell, Rockton Software",
@@ -34105,6 +34180,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/3-new-features-in-the-jetpack-mobile-app",
+          "author": "Belinda Allen",
+          "description": "iOS 26 brought some significant updates to Apple’s mobile operating system, and we’re keeping pace with updates of our own in the Jetpack mobile app. With the release of Jetpack app 26.4, we’re shipping three new features designed to save you time, eliminate friction, and improve your experience. Let’s dive into what’s new. Improved Stats […]\nThe post 3 New Features in the Jetpack Mobile App appeared first on 365 Community Online.",
+          "link": "https://365community.online/3-new-features-in-the-jetpack-mobile-app",
+          "publishedOn": "2025-10-16T15:00:00.000Z",
+          "wordCount": 2308,
+          "title": "3 New Features in the Jetpack Mobile App",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/3-New-Features-in-the-Jetpack-Mobile-App.jpg"
+        },
+        {
+          "id": "https://365community.online/adding-alerts-to-azure-application-insight-events-for-d365fsc",
+          "author": "Alex Meyer",
+          "description": "Let’s take a look at how you can place alerts around telemetry data being ingested by Azure Application Insights. We will specifically be looking at data coming from Dynamics 365 Finance & Supply Chain but this guide will apply to any application that utilizes Application Insights as its logging back end. Scenario For our example, […]\nThe post Adding Alerts to Azure Application Insight Events for D365FSC appeared first on 365 Community Online.",
+          "link": "https://365community.online/adding-alerts-to-azure-application-insight-events-for-d365fsc",
+          "publishedOn": "2025-10-16T14:25:00.000Z",
+          "wordCount": 2658,
+          "title": "Adding Alerts to Azure Application Insight Events for D365FSC",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Adding-Alerts-to-Azure-Application-Insight-Events-for-D365FSC.png"
+        },
+        {
+          "id": "https://365community.online/testing-edr-against-windows-365-the-cloud-based-threat-youtube",
+          "author": "shabaz darr",
+          "description": "🔐 Testing EDR Against Windows 365: The Cloud-Based Threat | Defender XDR Integration Demo Welcome back to the Windows 365 advanced security and compliance series! In this video, we’re diving deep into how to enhance your system’s defenses using key features within Microsoft Intune and Microsoft Defender. Learn essential tips for protecting your systems with […]\nThe post Testing EDR Against Windows 365: The Cloud-Based Threat – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/testing-edr-against-windows-365-the-cloud-based-threat-youtube",
+          "publishedOn": "2025-10-16T14:00:38.000Z",
+          "wordCount": 2013,
+          "title": "Testing EDR Against Windows 365: The Cloud-Based Threat – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/role-wise-youtube",
+          "author": "CRM Jetty",
+          "description": "Role Wise Role-Wise Access in CRMJetty enables administrators to define permissions and control what each user role can view or perform within the portal. It ensures data security and personalized experiences by granting access based on roles such as admin, manager, or customer, promoting efficient collaboration and compliance across the organization. Role-Wise Access in CRMJetty […]\nThe post Role Wise – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/role-wise-youtube",
+          "publishedOn": "2025-10-16T12:36:43.000Z",
+          "wordCount": 1977,
+          "title": "Role Wise – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/multisite-support-youtube",
+          "author": "CRM Jetty",
+          "description": "Multisite support Multisite Support in CRMJetty allows organizations to manage multiple portals or websites from a single CRM integration. It helps maintain consistent branding, user management, and data synchronization across different sites. This feature is ideal for enterprises operating in multiple regions or managing various customer, partner, or vendor portals efficiently. Multisite Support in CRMJetty […]\nThe post Multisite support – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/multisite-support-youtube",
+          "publishedOn": "2025-10-16T12:21:51.000Z",
+          "wordCount": 1976,
+          "title": "Multisite support – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/supercharging-dynamics-crm-geo-mapping-with-ai-a-deep-dive-into-mapcopilot",
+          "author": "Inogic",
+          "description": "The global AI market is experiencing rapid growth. It’s expected to increase at a rate of more than 36% every year through 2030. This illustrates how deeply AI is becoming integrated into everyday business operations. When location intelligence meets artificial intelligence, it creates real impact. It makes workflow better and turns them into smart, data-driven […]\nThe post Supercharging Dynamics CRM Geo Mapping with AI — A Deep Dive into MapCopilot appeared first on 365 Community Online.",
+          "link": "https://365community.online/supercharging-dynamics-crm-geo-mapping-with-ai-a-deep-dive-into-mapcopilot",
+          "publishedOn": "2025-10-16T12:12:00.000Z",
+          "wordCount": 3297,
+          "title": "Supercharging Dynamics CRM Geo Mapping with AI — A Deep Dive into MapCopilot",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Dynamics-CRM-Geo-Mapping-with-AI.png"
+        },
+        {
+          "id": "https://365community.online/email-validation-before-submitting-realtime-marketing-forms-using-data8",
+          "author": "Megan V. Walker",
+          "description": "I’ve written about Data8 a few times now (again, not getting paid by them, I just love their service offerings), especially when it comes to how we can do checks on Realtime Marketing forms BEFORE they get submitted in to our database. On the last one, I wrote about doing address auto populate to try […]\nThe post Email Validation Before Submitting Realtime Marketing Forms Using Data8 appeared first on 365 Community Online.",
+          "link": "https://365community.online/email-validation-before-submitting-realtime-marketing-forms-using-data8",
+          "publishedOn": "2025-10-16T07:20:00.000Z",
+          "wordCount": 3777,
+          "title": "Email Validation Before Submitting Realtime Marketing Forms Using Data8",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Email-Validation-Before-Submitting-Realtime-Marketing-Forms-Using-Data8.jpg"
+        },
+        {
+          "id": "https://365community.online/enhancing-data-presentation-with-conditional-formatting-in-power-pages",
+          "author": "Inogic",
+          "description": "You can enhance Microsoft Power Pages list views using conditional formatting with JavaScript. This approach lets you visually highlight records such as “Qualified” or “Cancelled” leads based on their status field, improving readability, prioritization, and overall data presentation. What Is Microsoft Power Pages? Microsoft Power Pages is a low-code platform that allows users to build […]\nThe post Enhancing Data Presentation with Conditional Formatting in Power Pages appeared first on 365 Community Online.",
+          "link": "https://365community.online/enhancing-data-presentation-with-conditional-formatting-in-power-pages",
+          "publishedOn": "2025-10-16T06:54:00.000Z",
+          "wordCount": 3397,
+          "title": "Enhancing Data Presentation with Conditional Formatting in Power Pages",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Enhancing-Data-Presentation-with-Conditional-Formatting-in-Power-Pages.png"
+        },
+        {
+          "id": "https://365community.online/sora2-on-azure-ai-foundry-in-public-preview-youtube",
+          "author": "John Lunn",
+          "description": "Sora2 on Azure AI Foundry in Public Preview Ever wondered what a dog skateboarding across Mars at sunset would look like? Sora2 is now available in East US 2 on Azure AI Foundry in Public Preview https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/?msockid=14c00f6e6ed8674f0027190c6f416614 Ever wondered what a dog skateboarding across Mars at sunset would look like? Sora2 is now available in […]\nThe post Sora2 on Azure AI Foundry in Public Preview – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/sora2-on-azure-ai-foundry-in-public-preview-youtube",
+          "publishedOn": "2025-10-15T22:26:49.000Z",
+          "wordCount": 1982,
+          "title": "Sora2 on Azure AI Foundry in Public Preview – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/chat-8-live-marketing-journeys-real-time-chats-youtube",
           "author": "Megan V. Walker",
@@ -71982,6 +72147,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=3720",
+          "author": "Alex",
+          "description": "Let’s take a look at how you can place alerts around telemetry data being ingested by Azure Application Insights. We will specifically be looking at data coming from Dynamics 365 Finance & Supply Chain but this guide will apply to any application that utilizes Application Insights as its logging back end. Scenario For our example, […]\nThe post Adding Alerts to Azure Application Insight Events for D365FSC appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2025/10/16/adding-alerts-to-azure-application-insight-events-for-d365fsc/",
+          "publishedOn": "2025-10-16T14:25:11.000Z",
+          "wordCount": 4624,
+          "title": "Adding Alerts to Azure Application Insight Events for D365FSC",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2025/10/Adding-Alerts-to-Azure-Application-Insight-Events-for-D365FSC.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=3702",
           "author": "Alex",
           "description": "Microsoft recently changed some key aspects of their licensing framework and enforcement with an update in September 2025, let’s take a look at what has changed and how it will impact your organization. Resources Dynamics 365 Licensing Resources Dynamics 365 Finance and Operations Apps Security Role FAQ Key Takeaways #1 – License Enforcement Has a […]\nThe post Key Takeaways from the Dynamics 365 Licensing Update Sept 2025 appeared first on Alex Meyer.",
@@ -73161,16 +73336,6 @@
           "wordCount": 5032,
           "title": "D365FO Business event for cloud hosted environments – Error Response Status code does not indicate success : 400",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-13.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3024",
-          "author": "AnithaEswaran",
-          "description": "If you want to updates a single record in an entity using Logic apps, we have two options Use Odata URL directly in the POST method like below Second option is via logic apps connector. It is tricky to understand … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/10/18/update-a-record-action-using-finops-connector-in-logic-apps/",
-          "publishedOn": "2023-10-18T13:17:03.000Z",
-          "wordCount": 4095,
-          "title": "‘Update a record’ action using FinOps connector in Logic apps",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-10.png"
         }
       ]
     },
@@ -74092,6 +74257,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/15/announcing-sensitive-data-redaction-for-voice-ai-agents/",
+          "author": "Tarun Shroff",
+          "description": "We are excited to introduce sensitive data redaction in Dynamics 365 Contact Center, a major advancement in privacy-first AI for customer service. This new capability empowers organizations to deliver intelligent voice experiences while ensuring that customers’ sensitive information remains protected throughout the interaction.  This feature is designed specifically for human interaction with voice AI agents, allowing voice AI agent makers to flag variables as sensitive […]\nThe post Announcing sensitive data redaction for voice AI agents appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/15/announcing-sensitive-data-redaction-for-voice-ai-agents/",
+          "publishedOn": "2025-10-15T16:56:28.000Z",
+          "wordCount": 4881,
+          "title": "Announcing sensitive data redaction for voice AI agents",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/04/MSC24-ASEAN-business-Getty-1700107458-rgb_600.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195552",
           "author": "Jason Shotts",
@@ -78402,6 +78577,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=32753",
+          "author": "Adria Ariste Santacreu",
+          "description": "With Microsoft’s latest license enforcement changes, storage costs in Dynamics 365 Finance & Operations (D365FO) are becoming increasingly relevant. Every gigabyte counts, and if you don’t actively monitor storage, it can silently inflate your bill. Luckily, D365FO comes with several standard cleanup jobs to keep […]\nThe post Keep D365FO Print Archive Small to Pay Less appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/keep-d365fo-print-archive-small-to-pay-less/",
+          "publishedOn": "2025-10-16T11:32:59.000Z",
+          "wordCount": 12488,
+          "title": "Keep D365FO Print Archive Small to Pay Less",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2025/10/D365Blog_PrintArchiveCleanupJob_TitleImage.png"
+        },
         {
           "id": "https://ax.docentric.com/?p=32674",
           "author": "Adria Ariste Santacreu",
