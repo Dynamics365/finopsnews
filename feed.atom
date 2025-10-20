@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-10-19T01:52:45.984Z</updated>
+    <updated>2025-10-20T01:50:34.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI-enabled D365 F&O integrations using the new Logic Apps agent loops]]></title>
+        <id>https://devblog.sertanyaman.com/?p=3941</id>
+        <link href="https://devblog.sertanyaman.com/2025/10/19/ai-enabled-d365-fo-integrations-using-the-new-logic-apps-agent-loops/"/>
+        <updated>2025-10-19T15:36:43.000Z</updated>
+        <summary type="html"><![CDATA[This article is the first in a series of blog posts I plan to publish, aimed at bringing clarity to one of today’s most hyped technology topic: artificial intelligence (AI). As with most of my other posts, there will be a practical example to illustrate the concepts, and I’ll explain everything at a beginner-friendly level … Continue reading AI-enabled D365 F&O integrations using the new Logic Apps agent loops]]></summary>
+        <author>
+            <name>Tayfun Sertan Yaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From RSAT To Next-Generation Testing for Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=134969</id>
+        <link href="https://erpsoftwareblog.com/2025/10/from-rsat-to-next-generation-testing-for-dynamics-365/"/>
+        <updated>2025-10-19T13:17:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Regression Suite Automation Tool (RSAT) is a widely used tool for automating user acceptance testing (UAT) in Dynamics 365. It allows users to convert task recordings into automated test […]
+The post From RSAT To Next-Generation Testing for Dynamics 365 appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>Leapwork</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From intent to app, fast – YouTube]]></title>
+        <id>https://365community.online/from-intent-to-app-fast-youtube</id>
+        <link href="https://365community.online/from-intent-to-app-fast-youtube"/>
+        <updated>2025-10-19T03:01:10.000Z</updated>
+        <summary type="html"><![CDATA[From intent to app, fast Natural-language building shifts who can ship. Clarity of intent is the new skill. Natural-language building shifts who can ship. Clarity of intent is the new skill. source
+The post From intent to app, fast – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring AI Functions (PowerFX) within Canvas Power Apps]]></title>
+        <id>https://365community.online/exploring-ai-functions-powerfx-within-canvas-power-apps</id>
+        <link href="https://365community.online/exploring-ai-functions-powerfx-within-canvas-power-apps"/>
+        <updated>2025-10-19T02:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft continues to bring intelligence closer to app makers with the introduction of AI Functions in Power Apps. These new capabilities allow creators to embed natural language understanding, translation, and extraction capabilities directly within their canvas apps — without writing complex code. In my latest video, I take you through a practical exploration of these […]
+The post Exploring AI Functions (PowerFX) within Canvas Power Apps appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌊BC Summit 2025 – 🧙‍♀️GitHub Copilot no está Solo … – YouTube]]></title>
         <id>https://365community.online/%f0%9f%8c%8abc-summit-2025-%f0%9f%a7%99%e2%99%80%ef%b8%8fgithub-copilot-no-esta-solo-youtube</id>
@@ -55,6 +102,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cut the drudge. Create today. – YouTube]]></title>
+        <id>https://365community.online/cut-the-drudge-create-today-youtube</id>
+        <link href="https://365community.online/cut-the-drudge-create-today-youtube"/>
+        <updated>2025-10-18T02:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Cut the drudge. Create today. Reduce busywork with AI and start a daily creative habit now. Reduce busywork with AI and start a daily creative habit now. source
+The post Cut the drudge. Create today. – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From GP to Business Central: Moving Warehouse Operations Forward with Warehouse Insight]]></title>
         <id>https://erpsoftwareblog.com/?p=135830</id>
         <link href="https://erpsoftwareblog.com/2025/10/from-gp-to-business-central-moving-warehouse-operations-forward-with-warehouse-insight/"/>
@@ -82,6 +140,17 @@ Create a Closed-Loop Analysis, Planning, and Reporting Process
 How can Microsoft Dynamics track more Financial Data in the Cloud in 2018?]]></summary>
         <author>
             <name>Admiral Consulting Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use custom productivity tools in Dynamics 365 Customer Service]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/17/use-custom-productivity-tools-in-dynamics-365-customer-service/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/17/use-custom-productivity-tools-in-dynamics-365-customer-service/"/>
+        <updated>2025-10-17T16:44:10.000Z</updated>
+        <summary type="html"><![CDATA[As customer service teams strive to deliver faster, more personalized support, the need for tailored productivity enhancements has never been greater. With the introduction of custom productivity tools in Dynamics 365 Copilot Service Workspace (CSw), organizations can now equip customer service representatives with purpose-built utilities that streamline workflows, reduce clicks, and eliminate context switching.  From generic to purpose built  While CSw offers a robust set […]
+The post Use custom productivity tools in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sean Meeker</name>
         </author>
     </entry>
     <entry>
@@ -101220,46 +101289,6 @@ Code:
         contract = BankP…]]></summary>
         <author>
             <name>Dynamics World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 : Performance benefits of Omnichannel media management]]></title>
-        <id>http://kurthatlevik.com/?p=4511</id>
-        <link href="https://kurthatlevik.com/2023/10/21/dynamics-365-performance-benefits-of-omnichannel-media-management/"/>
-        <updated>2023-10-21T12:27:40.000Z</updated>
-        <summary type="html"><![CDATA[Scheduled for release on Monday, October 23, 2023, Microsoft’s Omnichannel Media Management feature promises significant performance gains, particularly in eCommerce and POS. Beyond merely optimizing digital asset performance, this feature offers a range of functionalities: Key Features: Integrated Product Image Management: Dynamics 365 now includes an iframe that links directly to the site builder. This … Continue reading Dynamics 365 : Performance benefits of Omnichannel media management]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Export Data from D365 FO using Synapse Link]]></title>
-        <id>http://azureintegrations.com/?p=1336</id>
-        <link href="https://azureintegrations.com/2023/10/21/export-data-from-d365-fo-using-synapse-link/"/>
-        <updated>2023-10-21T10:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Introduced Azure Synapse Link for Dataverse to export data from D365 finance and operations apps into Azure Synapse Analytics or Azure Data Lake Storage Gen2]]></summary>
-        <author>
-            <name>Poojith Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using power platform integration capabilities in Finance and operations integrations]]></title>
-        <id>http://elearnd365.com/?p=791</id>
-        <link href="https://elearnd365.com/2023/10/20/using-power-platform-integration-capabilities-in-finance-and-operations-integrations-2/"/>
-        <updated>2023-10-20T23:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft’s Power platform has rich functionalities which can be used while working with Finance and operations apps. To unlock those features for Finance and operations customer Microsoft has provided power platform integration through LCS which gives us ability to use following features The above features provide a way of convergence of F&O with dataverse platform […]]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO Business event for cloud hosted environments – Error Response Status code does not indicate success : 400]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3033</id>
-        <link href="https://anithasantosh.wordpress.com/2023/10/20/d365fo-business-event-for-cloud-hosted-environments-error-response-status-code-does-not-indicate-success-400/"/>
-        <updated>2023-10-20T15:33:33.000Z</updated>
-        <summary type="html"><![CDATA[As we are aware Business events are used to send messages to third party applications when the active event is triggered. When you set up business events or virtual entities in a cloud-hosted environment, you might receive the following error … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
         </author>
     </entry>
     <entry>

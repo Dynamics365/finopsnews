@@ -1039,16 +1039,6 @@
           "wordCount": 6585,
           "title": "Azure API Management Design for shared services",
           "imageUrl": "https://azureintegrations.com/wp-content/uploads/2023/10/azure-api-managment-landing-zone-1.png"
-        },
-        {
-          "id": "http://azureintegrations.com/?p=1336",
-          "author": "Poojith Jain",
-          "description": "Microsoft Introduced Azure Synapse Link for Dataverse to export data from D365 finance and operations apps into Azure Synapse Analytics or Azure Data Lake Storage Gen2",
-          "link": "https://azureintegrations.com/2023/10/21/export-data-from-d365-fo-using-synapse-link/",
-          "publishedOn": "2023-10-21T10:42:00.000Z",
-          "wordCount": 4627,
-          "title": "Export Data from D365 FO using Synapse Link",
-          "imageUrl": "https://poojithjain.files.wordpress.com/2023/11/d365fo-exportto-datalake-csv-parquet-onelake.png"
         }
       ]
     },
@@ -1626,6 +1616,16 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=134969",
+          "author": "Leapwork",
+          "description": "xxx\nThe Regression Suite Automation Tool (RSAT) is a widely used tool for automating user acceptance testing (UAT) in Dynamics 365. It allows users to convert task recordings into automated test […]\nThe post From RSAT To Next-Generation Testing for Dynamics 365 appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/10/from-rsat-to-next-generation-testing-for-dynamics-365/",
+          "publishedOn": "2025-10-19T13:17:14.000Z",
+          "wordCount": 7265,
+          "title": "From RSAT To Next-Generation Testing for Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-10-From-RSAT-To-Next-Generation-Testing-for-Dynamics-365_1200-x-628.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=135791",
           "author": "Dynamics Square USA",
@@ -34246,6 +34246,26 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/from-intent-to-app-fast-youtube",
+          "author": "NZ365Guy",
+          "description": "From intent to app, fast Natural-language building shifts who can ship. Clarity of intent is the new skill. Natural-language building shifts who can ship. Clarity of intent is the new skill. source\nThe post From intent to app, fast – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/from-intent-to-app-fast-youtube",
+          "publishedOn": "2025-10-19T03:01:10.000Z",
+          "wordCount": 1986,
+          "title": "From intent to app, fast – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/exploring-ai-functions-powerfx-within-canvas-power-apps",
+          "author": "Saurav Dhyani",
+          "description": "Microsoft continues to bring intelligence closer to app makers with the introduction of AI Functions in Power Apps. These new capabilities allow creators to embed natural language understanding, translation, and extraction capabilities directly within their canvas apps — without writing complex code. In my latest video, I take you through a practical exploration of these […]\nThe post Exploring AI Functions (PowerFX) within Canvas Power Apps appeared first on 365 Community Online.",
+          "link": "https://365community.online/exploring-ai-functions-powerfx-within-canvas-power-apps",
+          "publishedOn": "2025-10-19T02:04:00.000Z",
+          "wordCount": 2216,
+          "title": "Exploring AI Functions (PowerFX) within Canvas Power Apps",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Exploring-AI-Functions-PowerFX-within-Canvas-Power-Apps.png"
+        },
+        {
           "id": "https://365community.online/%f0%9f%8c%8abc-summit-2025-%f0%9f%a7%99%e2%99%80%ef%b8%8fgithub-copilot-no-esta-solo-youtube",
           "author": "jarmesto",
           "description": "🌊BC Summit 2025 – 🧙‍♀️GitHub Copilot no está Solo …\nThe post 🌊BC Summit 2025 – 🧙‍♀️GitHub Copilot no está Solo … – YouTube appeared first on 365 Community Online.",
@@ -34274,6 +34294,16 @@
           "wordCount": 2939,
           "title": "Stop Being Slowed Down: How We Make Technology Simple, Affordable, and Useful for Your Teams",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Stop-Being-Slowed-Down-How-We-Make-Technology-Simple-Affordable.png"
+        },
+        {
+          "id": "https://365community.online/cut-the-drudge-create-today-youtube",
+          "author": "NZ365Guy",
+          "description": "Cut the drudge. Create today. Reduce busywork with AI and start a daily creative habit now. Reduce busywork with AI and start a daily creative habit now. source\nThe post Cut the drudge. Create today. – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/cut-the-drudge-create-today-youtube",
+          "publishedOn": "2025-10-18T02:01:29.000Z",
+          "wordCount": 1981,
+          "title": "Cut the drudge. Create today. – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
           "id": "https://365community.online/how-net-literacy-secures-its-legacy-with-wordpress-coms-100%e2%80%91year-plan",
@@ -73471,16 +73501,6 @@
           "wordCount": 4033,
           "title": "End of mainstream support for Microsoft Dynamics AX 2009, Dynamics AX 2012, Dynamics AX 2012 R2, and Dynamics AX 2012 R3",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2023/06/community_5f00_badge_5f00_logo_2d00_01.png?w=143"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3033",
-          "author": "AnithaEswaran",
-          "description": "As we are aware Business events are used to send messages to third party applications when the active event is triggered. When you set up business events or virtual entities in a cloud-hosted environment, you might receive the following error … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/10/20/d365fo-business-event-for-cloud-hosted-environments-error-response-status-code-does-not-indicate-success-400/",
-          "publishedOn": "2023-10-20T15:33:33.000Z",
-          "wordCount": 5032,
-          "title": "D365FO Business event for cloud hosted environments – Error Response Status code does not indicate success : 400",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-13.png"
         }
       ]
     },
@@ -74337,16 +74357,6 @@
           "wordCount": 3456,
           "title": "D365 – Overriding code with a hack(100% meaningless)",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/10/103023_1944_d365overrid1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4511",
-          "author": "Kurt Hatlevik",
-          "description": "Scheduled for release on Monday, October 23, 2023, Microsoft’s Omnichannel Media Management feature promises significant performance gains, particularly in eCommerce and POS. Beyond merely optimizing digital asset performance, this feature offers a range of functionalities: Key Features: Integrated Product Image Management: Dynamics 365 now includes an iframe that links directly to the site builder. This … Continue reading Dynamics 365 : Performance benefits of Omnichannel media management",
-          "link": "https://kurthatlevik.com/2023/10/21/dynamics-365-performance-benefits-of-omnichannel-media-management/",
-          "publishedOn": "2023-10-21T12:27:40.000Z",
-          "wordCount": 3488,
-          "title": "Dynamics 365 : Performance benefits of Omnichannel media management",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/10/102123_1227_dynamics3651.png"
         }
       ]
     },
@@ -74402,6 +74412,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/17/use-custom-productivity-tools-in-dynamics-365-customer-service/",
+          "author": "Sean Meeker",
+          "description": "As customer service teams strive to deliver faster, more personalized support, the need for tailored productivity enhancements has never been greater. With the introduction of custom productivity tools in Dynamics 365 Copilot Service Workspace (CSw), organizations can now equip customer service representatives with purpose-built utilities that streamline workflows, reduce clicks, and eliminate context switching.  From generic to purpose built  While CSw offers a robust set […]\nThe post Use custom productivity tools in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/17/use-custom-productivity-tools-in-dynamics-365-customer-service/",
+          "publishedOn": "2025-10-17T16:44:10.000Z",
+          "wordCount": 4923,
+          "title": "Use custom productivity tools in Dynamics 365 Customer Service",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/03/CLO25-SCI-Lifestyle-013_600.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/15/announcing-sensitive-data-redaction-for-voice-ai-agents/",
           "author": "Tarun Shroff",
@@ -78680,6 +78700,16 @@
       "siteUrl": "https://devblog.sertanyaman.com",
       "articles": [
         {
+          "id": "https://devblog.sertanyaman.com/?p=3941",
+          "author": "Tayfun Sertan Yaman",
+          "description": "This article is the first in a series of blog posts I plan to publish, aimed at bringing clarity to one of today’s most hyped technology topic: artificial intelligence (AI). As with most of my other posts, there will be a practical example to illustrate the concepts, and I’ll explain everything at a beginner-friendly level … Continue reading AI-enabled D365 F&O integrations using the new Logic Apps agent loops",
+          "link": "https://devblog.sertanyaman.com/2025/10/19/ai-enabled-d365-fo-integrations-using-the-new-logic-apps-agent-loops/",
+          "publishedOn": "2025-10-19T15:36:43.000Z",
+          "wordCount": null,
+          "title": "AI-enabled D365 F&O integrations using the new Logic Apps agent loops",
+          "imageUrl": null
+        },
+        {
           "id": "https://devblog.sertanyaman.com/?p=3899",
           "author": "Tayfun Sertan Yaman",
           "description": "Microsoft has recently added a preview feature to Azure API Centers, which gives you the possibility to deploy custom MCP servers using Logic App connector actions. It is a rather easy process, which gives you great flexibility to use any of the 300+ connectors, including D365 Dataverse and Fin & Ops ones, and publish them … Continue reading How to create custom D365 MCP servers using Logic Apps",
@@ -80224,16 +80254,6 @@
           "wordCount": 3679,
           "title": "Utility to run runnable classes in D365 FO",
           "imageUrl": "https://elearnd365.files.wordpress.com/2023/12/picture3.png"
-        },
-        {
-          "id": "http://elearnd365.com/?p=791",
-          "author": "Sukrut Parab",
-          "description": "Microsoft’s Power platform has rich functionalities which can be used while working with Finance and operations apps. To unlock those features for Finance and operations customer Microsoft has provided power platform integration through LCS which gives us ability to use following features The above features provide a way of convergence of F&O with dataverse platform […]",
-          "link": "https://elearnd365.com/2023/10/20/using-power-platform-integration-capabilities-in-finance-and-operations-integrations-2/",
-          "publishedOn": "2023-10-20T23:55:00.000Z",
-          "wordCount": 4171,
-          "title": "Using power platform integration capabilities in Finance and operations integrations",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2023/10/2021-12-16-en-de.jpg"
         }
       ]
     },
