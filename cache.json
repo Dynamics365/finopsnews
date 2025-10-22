@@ -578,16 +578,6 @@
           "wordCount": 3004,
           "title": "Merge multiple pdf’s into a single pdf using x++ in D365FO",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC7tZiu3bUPioxmjNfKMsoOL9Xm_lIN6dkcRpXvEEbAF7sCYYNULCWx9W6uuBf6T3WNDuHuyL8KRo9Gz6_qZgeE8Vmc2w6ChHPqr31BI0v6gNgFfjy_YPeh6Kx2u6BYaj7fasdRu886njcKqACNRMiXqdbqmADEiOzYBJJzJa33sdfXQd0yddH3kuBPuc/w1200-h630-p-k-no-nu/image_2023_10_18T11_16_03_145Z.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/10/generate-payment-advice-report-using-x.html",
-          "author": null,
-          "description": "Generate Payment Advice report using x++.\n\n\n\n\n\nWay 1: \n            The system will download the PDF using the Print setting.\n\nWay 2 :\n        Get the stream to send the mail or store it in the server. For this, we have to add the parm method in the contract class and assign the value in savePrintArchiveDetails method.\n\n\nCode:\n    public void generatePaymAdvice(LedgerJournalTrans _ledgerJournalTrans)\n    {\n        Filename                        fileName;\n        BankPaymAdviceVendControllerV2  controller  = new BankPaymAdviceVendControllerV2();\n        BankPaymAdviceContract          contract;\n        SRSPrintDestinationSettings     settings;\n        \n        fileName = strFmt(\"%1_%2_PaymemtAdvice.pdf\", _ledgerjournalTrans.JournalNum, _ledgerjournalTrans.Voucher);\n\n        contract = BankP…",
-          "link": "https://kishoredynamics11.blogspot.com/2023/10/generate-payment-advice-report-using-x.html",
-          "publishedOn": "2023-10-23T06:19:00.000Z",
-          "wordCount": 3010,
-          "title": "Generate Payment Advice report using x++",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVd9r0fvPHTf61uEQEMSI-_C7mlP1lwMtV2DclL-6Nuid-DWp_M9tr7rLLTAlfyc9pLYoS8xMHO8xtjaLpmaeVqPI1dwTclR7O_8SKVc7bfvk1cpTfnvSR7TtGIau7M8J9DBsxAcCsedb3yKDed-5x7LTDfaBu5HGTcAm4mpV2x5KPSTRGTrWvIfiIK4/w1200-h630-p-k-no-nu/12.jpg"
         }
       ]
     },
@@ -1598,16 +1588,6 @@
           "wordCount": 2153,
           "title": "Create Build & Development Server In D365 FO – Part 1",
           "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-1-300x235.png"
-        },
-        {
-          "id": "https://impulztech.com/?p=3231",
-          "author": "Muhammad Ali",
-          "description": "Transferring software deployable packages to the Asset Library is actively enabled by the connection between DevOps and LCS. Here I am describing each step in detail that how can you setup connection between Azure DevOps & LCS so it will be easy for you to deploy your dynamics packages easily in LCS Environment. 1-Workflow: After […]\nThe post How To Setup A Connection Between Azure DevOps & LCS appeared first on Impulz Technologies LLC.",
-          "link": "https://impulztech.com/how-to-setup-a-connection-between-azure-devops-lcs/",
-          "publishedOn": "2023-10-23T12:21:59.000Z",
-          "wordCount": 2183,
-          "title": "How To Setup A Connection Between Azure DevOps & LCS",
-          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-300x169.png"
         }
       ]
     },
@@ -1616,6 +1596,116 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=135956",
+          "author": "Insight Works",
+          "description": "xxx\nLearn how Product Configurator for Business Central automates cost and weight calculations to speed up quoting, improve accuracy, and support reliable production planning.\nThe post How to Calculate Product Costs and Weights Automatically in Business Central appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central\nFrom GP to Business Central: Production Scheduling with MxAPS",
+          "link": "https://erpsoftwareblog.com/2025/10/how-to-calculate-product-costs-and-weights-automatically-in-business-central/",
+          "publishedOn": "2025-10-21T19:00:59.000Z",
+          "wordCount": 7156,
+          "title": "How to Calculate Product Costs and Weights Automatically in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Calculate-Product-Costs-and-Weights-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136039",
+          "author": "Logan Consulting",
+          "description": "xxx\nImplementing Microsoft Dynamics 365 Finance and Supply Chain Management (D365 F&SCM) is a major achievement, but real success begins after go-live. To sustain ROI and continuously enhance performance, many top […]\nThe post Building a Microsoft Dynamics 365 Center of Excellence: Key Steps for Long-Term Success appeared first on ERP Software Blog.\nRequest a Free Consultation: Discover How D365 Finance & Operations Can Transform Your Finance Operations\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary\nAI ROI in Equipment Rental Business with Sycor.Rental",
+          "link": "https://erpsoftwareblog.com/2025/10/building-a-microsoft-dynamics-365-center-of-excellence-key-steps-for-long-term-success/",
+          "publishedOn": "2025-10-21T18:36:49.000Z",
+          "wordCount": 7016,
+          "title": "Building a Microsoft Dynamics 365 Center of Excellence: Key Steps for Long-Term Success",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/technological-excellence-for-business.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136035",
+          "author": "Admiral Consulting Group",
+          "description": "xxx\nPlan Smarter: Personalized Pricing for Dynamics 365 Business Central If you’re currently evaluating ERP (Enterprise Resource Planning) solutions, you know the decision isn’t just about software—it’s about choosing the right […]\nThe post Considering Microsoft Dynamics 365 Business Central? Get a Personalized Quote Today appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central\nWhat type of Business central license is right for you?",
+          "link": "https://erpsoftwareblog.com/2025/10/considering-microsoft-dynamics-365-business-central-get-a-personalized-quote-today-2/",
+          "publishedOn": "2025-10-21T18:05:39.000Z",
+          "wordCount": 6689,
+          "title": "Considering Microsoft Dynamics 365 Business Central? Get a Personalized Quote Today",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/istockphoto-1322205541-612x612-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136017",
+          "author": "Jason Ochipa, Tensoft Inc.",
+          "description": "xxx\nOne of the most exciting developments in the latest release of Microsoft Dynamics 365 Business Central is the Accounts Payable (AP) Agent. You can think of AI agents as task-focused […]\nThe post A Quick Overview of Payables Agent in Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow to Create a Test Company Within the Production and Sandbox Environment\nChange Logs in Microsoft Dynamics 365 Business Central\nWhat’s New in Microsoft Dynamics 365 Business Central 2023 Wave 2",
+          "link": "https://erpsoftwareblog.com/2025/10/a-quick-overview-of-payables-agent-in-dynamics-365-business-central/",
+          "publishedOn": "2025-10-21T16:12:42.000Z",
+          "wordCount": 7020,
+          "title": "A Quick Overview of Payables Agent in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Payables-Agent-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136018",
+          "author": "Mekorma",
+          "description": "xxx\n      FOR IMMEDIATE RELEASE  Mekorma and Continia Deliver Unified End-to-End AP and Payment Automation for Microsoft Dynamics 365 Business Central customers and partners in North America.  Two trusted ERP specialists unite […]\nThe post Mekorma and Continia Deliver Unified End-to-End AP and Payment Automation for Microsoft Dynamics 365 Business Central customers and partners in North America. appeared first on ERP Software Blog.\nEmbedded AP Solutions vs Integrated: What’s Right for Your Team?\nRemote Payment Services: The Key to Finance Resilience\nSimplifying Multi-Entity AP with Mekorma Payment Hub",
+          "link": "https://erpsoftwareblog.com/2025/10/mekorma-and-continia-deliver-unified-end-to-end-ap-and-payment-automation-for-microsoft-dynamics-365-business-central-customers-and-partners-in-north-america/",
+          "publishedOn": "2025-10-21T15:54:17.000Z",
+          "wordCount": 7214,
+          "title": "Mekorma and Continia Deliver Unified End-to-End AP and Payment Automation for Microsoft Dynamics 365 Business Central customers and partners in North America.",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/1000015598-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135999",
+          "author": "DynamicPoint",
+          "description": "xxx\nFor healthcare organizations, efficiency means nothing without compliance. Managing expenses, invoices, and vendor workflows sounds great — until you hit the wall of HIPAA and PHI regulations. That’s why at […]\nThe post Healthcare Process Automation with DynamicPoint appeared first on ERP Software Blog.\nSarbanes, HIPAA, FISMA  - Oh My!  Controlled Compliance with Microsoft Dynamics GP\nWorld Vision Selects Dynamics ERP for eProcurement and Global Supply Chain Management\nCheck Your Health: Long-Term Care Facilities Revitalize with Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2025/10/healthcare-process-automation-with-dynamicpoint/",
+          "publishedOn": "2025-10-21T14:31:49.000Z",
+          "wordCount": 6520,
+          "title": "Healthcare Process Automation with DynamicPoint",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-102825.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135921",
+          "author": "Crestwood Associates",
+          "description": "xxx\nThe Sales Order Agent in Microsoft Dynamics 365 Business Central is changing how companies process sales orders. By reading customer emails, generating quotes, and converting them into orders, the tool […]\nThe post Best Practices for Integrating Dynamics 365 Business Central’s Sales Order Agent with Microsoft 365  appeared first on ERP Software Blog.\nHow Industry 4.0 and the Pandemic are Transforming ERP in Manufacturing\nTech Insider Update Features Latest ERP Enhancements to Microsoft Dynamics 365 and Full Microsoft Suite\nUsing Dynamics 365 Marketing to Create a Personalized Event",
+          "link": "https://erpsoftwareblog.com/2025/10/best-practices-for-integrating-dynamics-365-business-centrals-sales-order-agent-with-microsoft-365/",
+          "publishedOn": "2025-10-21T13:47:49.000Z",
+          "wordCount": 7115,
+          "title": "Best Practices for Integrating Dynamics 365 Business Central’s Sales Order Agent with Microsoft 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Sales-Order-Agent-5.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135996",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nDuring discovery with Gear for the Game, we uncovered something common among growing businesses: they operated under two DBA entities, each serving different market segments. What looked like a straightforward […]\nThe post Managing Multiple Business Entities Without Multiple Systems appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/10/managing-multiple-business-entities-without-multiple-systems/",
+          "publishedOn": "2025-10-21T10:41:57.000Z",
+          "wordCount": 6932,
+          "title": "Managing Multiple Business Entities Without Multiple Systems",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-29.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135379",
+          "author": "proMX Group",
+          "description": "xxx\nIf your business relies on Microsoft Project Online, note that Microsoft will officially retire this service on September 30, 2026. This change is part of their strategy to transition customers to more modern project management solutions.   The key question […]\nThe post 2 ways of migrating from retiring Project Online appeared first on ERP Software Blog.\nSimplifying ERP Processes: Map the Way with a Microsoft 365 Information Architecture\nThe secret to delivering projects on time, on budget, and within scope: a project-based ERP for professional services\nLe secret pour livrer vos projets dans les délais et budgets entendus : un ERP de gestion par projet pour les services professionnels",
+          "link": "https://erpsoftwareblog.com/2025/10/2-ways-of-migrating-from-retiring-project-online/",
+          "publishedOn": "2025-10-21T09:14:56.000Z",
+          "wordCount": 7418,
+          "title": "2 ways of migrating from retiring Project Online",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/project_online_migration_tsa_picture.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135991",
+          "author": "Volt Technologies",
+          "description": "xxx\nIn too many organizations, finance and operations live in separate worlds. Finance focuses on budgets, costs, and forecasts; operations handles production, logistics, and service delivery. The result? Misaligned goals, fragmented […]\nThe post Breaking Down Silos: Unifying Finance and Operations for Smarter Business appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/breaking-down-silos-unifying-finance-and-operations-for-smarter-business/",
+          "publishedOn": "2025-10-21T08:00:50.000Z",
+          "wordCount": 6964,
+          "title": "Breaking Down Silos: Unifying Finance and Operations for Smarter Business",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Volt-web-featured-16.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135684",
+          "author": "Intech Systems",
+          "description": "xxx\nThink back to the last time you had to decide something important, like when it was an emergency and thanks to some unknown circumstances that rendered you blind, you did […]\nThe post How AI Copilots Are Redefining Financial Strategy for CFOs appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/how-ai-copilots-are-redefining-financial-strategy-for-cfos/",
+          "publishedOn": "2025-10-21T06:00:12.000Z",
+          "wordCount": 7578,
+          "title": "How AI Copilots Are Redefining Financial Strategy for CFOs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AI-Copilots-in-Finance.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=135945",
           "author": "ERP Software Blog Writer",
@@ -34345,6 +34435,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/cloud-pcs-the-future-of-remote-work-youtube",
+          "author": "shabaz darr",
+          "description": "In todays video we take a look at a LinkedIn post from Michael Roth in which he explains the recent updates and enhancements to #microsoft Frontline shared mode demo to include the latest #windows365 #cloudapps provisioning and employee experience. Check out my walk-through of this demo environment and how you can learn more about #cloudpc […]\nThe post Cloud PCs: The Future of Remote Work? – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/cloud-pcs-the-future-of-remote-work-youtube",
+          "publishedOn": "2025-10-21T14:00:23.000Z",
+          "wordCount": 2090,
+          "title": "Cloud PCs: The Future of Remote Work? – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/generate-specs-with-agents-for-business-central-quick-demo-youtube",
+          "author": "jarmesto",
+          "description": "Generate Specs with Agents for Business Central — Quick Demo\nThe post Generate Specs with Agents for Business Central — Quick Demo – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/generate-specs-with-agents-for-business-central-quick-demo-youtube",
+          "publishedOn": "2025-10-21T11:35:20.000Z",
+          "wordCount": 2025,
+          "title": "Generate Specs with Agents for Business Central — Quick Demo – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/master-data-segmentation-in-power-bi-use-slicers-filters-groups-like-a-pro-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, you’ll learn Data Segmentation in Power BI — one of the most powerful techniques to analyse and visualize data efficiently. Discover how to use slicers, filters, and data grouping in Power BI to divide large datasets into meaningful segments for deeper insights and better decision-making. We’ll go step-by-step through real-time examples showing […]\nThe post Master Data Segmentation in Power BI | Use Slicers, Filters & Groups Like a Pro. – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/master-data-segmentation-in-power-bi-use-slicers-filters-groups-like-a-pro-youtube",
+          "publishedOn": "2025-10-21T11:13:08.000Z",
+          "wordCount": 2247,
+          "title": "Master Data Segmentation in Power BI | Use Slicers, Filters & Groups Like a Pro. – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/adapting-the-ai-native-development-architecture-to-dynamics-365-business-central",
+          "author": "jarmesto",
+          "description": "This article presents a practical adaptation of AI Native Development for AL development in Dynamics 365 Business Central. It is not a normative guide but a pragmatic approach born from innovation projects, designed to transform experimentation into repeatable, auditable engineering practices. I will share the repository and public project very soon. From trial and error […]\nThe post Adapting the AI Native Development Architecture to  Dynamics 365 Business Central appeared first on 365 Community Online.",
+          "link": "https://365community.online/adapting-the-ai-native-development-architecture-to-dynamics-365-business-central",
+          "publishedOn": "2025-10-21T09:04:00.000Z",
+          "wordCount": 3496,
+          "title": "Adapting the AI Native Development Architecture to  Dynamics 365 Business Central",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Adapting-the-AI-Native-Development-Architecture-to-Dynamics-365-Business.png"
+        },
+        {
+          "id": "https://365community.online/como-construir-flujos-de-ia-fiables-agent-primitives-context-engineering-y-business-central",
+          "author": "jarmesto",
+          "description": "Este artículo describe una adaptación práctica del marco AI Native Development aplicada al desarrollo en AL para Dynamics 365 Business Central. No es una guía normativa; es un enfoque nacido de la experiencia en proyectos de innovación pensado para convertir la experimentación en prácticas de ingeniería repetibles y auditables.Muy pronto compartiré el repositorio y proyecto […]\nThe post Cómo construir flujos de IA fiables: Agent Primitives, context engineering y Business Central appeared first on 365 Community Online.",
+          "link": "https://365community.online/como-construir-flujos-de-ia-fiables-agent-primitives-context-engineering-y-business-central",
+          "publishedOn": "2025-10-21T09:04:00.000Z",
+          "wordCount": 3802,
+          "title": "Cómo construir flujos de IA fiables: Agent Primitives, context engineering y Business Central",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Adapting-the-AI-Native-Development-Architecture-to-Dynamics-365-Business.png"
+        },
+        {
+          "id": "https://365community.online/the-three-phase-journey-to-becoming-a-frontier-firm",
+          "author": "Dave Burrell",
+          "description": "You understand what a Frontier Firm is. You know the Microsoft technology stack that powers them. Now comes the crucial question: How do you actually transform? The good news: successful organisations follow a predictable pattern. Microsoft’s research reveals three distinct phases that organisations progress through, each with specific objectives, timelines, and technologies. The better news: you […]\nThe post The Three-Phase Journey to Becoming a Frontier Firm appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-three-phase-journey-to-becoming-a-frontier-firm",
+          "publishedOn": "2025-10-21T08:34:00.000Z",
+          "wordCount": 3528,
+          "title": "The Three-Phase Journey to Becoming a Frontier Firm",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/The-Three-Phase-Journey-to-Becoming-a-Frontier-Firm.png"
+        },
+        {
+          "id": "https://365community.online/keep-your-agents-organized-create-file-groups-for-better-responses",
+          "author": "Dian Taylor",
+          "description": "When you’re building agents in Copilot Studio, adding knowledge sources is a key step in building your agent. One of the quick ways to add knowledge to the agent is by providing documents! This can be done in 2 separate ways today, and the option you’ll go for will depend on how your agent will […]\nThe post Keep your agents organized: Create File Groups for better responses appeared first on 365 Community Online.",
+          "link": "https://365community.online/keep-your-agents-organized-create-file-groups-for-better-responses",
+          "publishedOn": "2025-10-21T08:22:00.000Z",
+          "wordCount": 2059,
+          "title": "Keep your agents organized: Create File Groups for better responses",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/keep-your-agents-organized-create-file-groups-for-better-responses-youtube",
+          "author": "Dian Taylor",
+          "description": "Keep your agents organized: Create File Groups for better responses! In this video I will explain what File Groups are in Copilot Studio. I will explain how they work under the covers and what I found when I tried to test this preview feature! Related article: https://d365goddess.com/keep-your-agent-organized-create-file-groups-for-better-responses/ X: https://x.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ Bluesky: https://bsky.app/profile/d365goddess.bsky.social Website: https://d365goddess.com […]\nThe post Keep your agents organized: Create File Groups for better responses! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/keep-your-agents-organized-create-file-groups-for-better-responses-youtube",
+          "publishedOn": "2025-10-21T08:20:01.000Z",
+          "wordCount": 2123,
+          "title": "Keep your agents organized: Create File Groups for better responses! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-microsoft-technology-stack-for-frontier-firms-your-complete-ai-toolkit",
+          "author": "Dave Burrell",
+          "description": "In our previous post, we explored what defines a Frontier Firm and why this transformation matters. Now, let’s examine the practical question every leader is asking: What technology do I actually need to become a Frontier Firm? Microsoft provides the most comprehensive, enterprise-ready platform for this transformation. The ecosystem spans five critical layers, each addressing different […]\nThe post The Microsoft Technology Stack for Frontier Firms: Your Complete AI Toolkit appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-microsoft-technology-stack-for-frontier-firms-your-complete-ai-toolkit",
+          "publishedOn": "2025-10-21T08:12:00.000Z",
+          "wordCount": 3498,
+          "title": "The Microsoft Technology Stack for Frontier Firms: Your Complete AI Toolkit",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/The-Microsoft-Technology-Stack-for-Frontier-Firms-Your-Complete-AI.webp.webp"
+        },
+        {
+          "id": "https://365community.online/dynamic-one-off-marketing-messages-for-your-realtime-emails",
+          "author": "Megan V. Walker",
+          "description": "If you work for yourself or are part of a very small team managing submissions from your Realtime Marketing forms, things come up, holidays or sick leave happen and sometimes you know there could be delays in following up with people who’ve sent a request via one of your forms. Wouldn’t it be great if […]\nThe post Dynamic One Off Marketing Messages For Your Realtime Emails appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamic-one-off-marketing-messages-for-your-realtime-emails",
+          "publishedOn": "2025-10-21T07:20:00.000Z",
+          "wordCount": 3015,
+          "title": "Dynamic One Off Marketing Messages For Your Realtime Emails",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Dynamic-One-Off-Marketing-Messages-For-Your-Realtime-Emails.jpg"
+        },
         {
           "id": "https://365community.online/how-to-become-a-wordpress-developer-a-zero-to-hired-roadmap",
           "author": "Belinda Allen",
@@ -72314,16 +72504,6 @@
           "wordCount": 5374,
           "title": "Back to the feature: Bulk editing in grids",
           "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/10/BulkEditingInGrids1200.jpg"
-        },
-        {
-          "id": "https://dynamicspedia.com/?p=18803",
-          "author": "André Arnaud de Calavon",
-          "description": "Just recently, I shared my first blog post about Process Mining. In my previous post, I shared the first step to get started with Process Mining. In this post, I will go one step further and present a walkthrough of how to create a new process using an event log data file. Create a new […]\nThe post The F&O Twist on Process Mining – Create new process with event log appeared first on Dynamicspedia.",
-          "link": "https://dynamicspedia.com/2023/10/the-fo-twist-on-process-mining-create-new-process-with-event-log/",
-          "publishedOn": "2023-10-23T10:23:08.000Z",
-          "wordCount": 4434,
-          "title": "The F&O Twist on Process Mining – Create new process with event log",
-          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/10/Process-Mining-Create-new-process-1200.jpg"
         }
       ]
     },
