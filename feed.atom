@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-10-22T01:47:13.997Z</updated>
+    <updated>2025-10-23T01:43:20.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flows getting triggered multiple times / missing callbackregistration record – Power Automate / Dataverse]]></title>
+        <id>https://365community.online/flows-getting-triggered-multiple-times-missing-callbackregistration-record-power-automate-dataverse</id>
+        <link href="https://365community.online/flows-getting-triggered-multiple-times-missing-callbackregistration-record-power-automate-dataverse"/>
+        <updated>2025-10-22T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, we observed that one of our flows was getting triggered multiple times in our UAT environment; however, the flow was working properly in our Development environment. On comparing the flows trigger, we didn’t find any differences. However, when checking for the callbackregistration record, we observed that for the Dev env, we had the callbackregistration […]
+The post Flows getting triggered multiple times / missing callbackregistration record – Power Automate / Dataverse appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Directions EMEA’s Executive Zone: Why Poznań is the place for Partner leaders to set 2025 priorities]]></title>
+        <id>https://erpsoftwareblog.com/?p=135836</id>
+        <link href="https://erpsoftwareblog.com/2025/10/directions-emea-2025-adds-an-executive-zone-in-poznan-for-ceos-and-cros-to-shape-ai-marketplace-and-valuation-strategy/"/>
+        <updated>2025-10-22T20:22:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Directions EMEA 2025 Executive Zone introduces a new way for Partner leaders to connect and collaborate in Poznań this November Directions EMEA returns Nov. 4-6, 2025, introducing an Executive […]
+The post Directions EMEA’s Executive Zone: Why Poznań is the place for Partner leaders to set 2025 priorities appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEBINAR: Simplify BOM Creation & Configuration Management in Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=135976</id>
+        <link href="https://erpsoftwareblog.com/2025/10/simplify-bom-creation-configuration-management-in-dynamics-365-business-central/"/>
+        <updated>2025-10-22T19:09:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Join this upcoming session to see how you can streamline BOM creation, automate routing, and simplify complex product configurations—all inside Dynamics 365 Business Central. Eliminate errors, speed up quoting, and give your team the tools to build accurate, customer-specific configurations without extra steps or spreadsheets.
+The post WEBINAR: Simplify BOM Creation & Configuration Management in Dynamics 365 Business Central appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replatform B2B Ecommerce with Dynamics 365 BC]]></title>
+        <id>https://erpsoftwareblog.com/?p=135837</id>
+        <link href="https://erpsoftwareblog.com/2025/10/b2b-ecommerce-with-dynamics-365-bc/"/>
+        <updated>2025-10-22T18:43:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Is your ecommerce store falling behind? It might be time to replatform your B2B ecommerce store with Dynamics 365 BC. k-ecommerce and Microsoft Dynamics 365 Business Central can help you […]
+The post Replatform B2B Ecommerce with Dynamics 365 BC appeared first on ERP Software Blog.
+How Today’s Wine Distributors Wow Customers with Integrated eCommerce + ERP
+eCommerce: Why You Should Sell Online and Why Through Amazon
+How to Choose an eCommerce Solution for Success]]></summary>
+        <author>
+            <name>k-ecommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing BC Telemetry with AI with the “BC Telemetry Buddy”]]></title>
+        <id>https://365community.online/analyzing-bc-telemetry-with-ai-with-the-bc-telemetry-buddy</id>
+        <link href="https://365community.online/analyzing-bc-telemetry-with-ai-with-the-bc-telemetry-buddy"/>
+        <updated>2025-10-22T16:04:00.000Z</updated>
+        <summary type="html"><![CDATA[I did a thing … TL;DR I created an MCP for VSCode that makes it possible for you to just “talk” to your Telemetry without touching KQL or getting to know any tools.  It’s available on the marketplace, you don’t need extra subscriptions to fancy models or tools – it just uses your chat subscription […]
+The post Analyzing BC Telemetry with AI with the “BC Telemetry Buddy” appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a Web Design Company You’ll Love Working With]]></title>
+        <id>https://365community.online/how-to-choose-a-web-design-company-youll-love-working-with</id>
+        <link href="https://365community.online/how-to-choose-a-web-design-company-youll-love-working-with"/>
+        <updated>2025-10-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How can you tell if a web design company is worth your investment? In this guide, we’ll explore how much it costs to build a website in today’s market, highlight key considerations in your evaluation, and recommend questions to ask potential providers. By the end of this post, you’ll be able to make the right […]
+The post How to Choose a Web Design Company You’ll Love Working With appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicPoint Apps and FedRAMP]]></title>
+        <id>https://erpsoftwareblog.com/?p=136006</id>
+        <link href="https://erpsoftwareblog.com/2025/10/dynamicpoint-apps-and-fedramp/"/>
+        <updated>2025-10-22T14:34:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When a federal agency or regulated organization needs software, security, control, and compliance are always top of mind. DynamicPoint’s suite of solutions—including Customer & Vendor Portals, EasyAP365 for AP automation, […]
+The post DynamicPoint Apps and FedRAMP appeared first on ERP Software Blog.
+Microsoft Offers Free Microsoft Dynamics GP (Great Plains) Licenses for Not-For-Profit Companies in US and Canada
+Dynamics GP For Government Agencies And Contracts
+How to Ensure that Your Data is Secure Online with ERP Software]]></summary>
+        <author>
+            <name>DynamicPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVP Summit 2025 – The Seattle Experience]]></title>
+        <id>https://365community.online/mvp-summit-2025-the-seattle-experience</id>
+        <link href="https://365community.online/mvp-summit-2025-the-seattle-experience"/>
+        <updated>2025-10-22T14:19:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the third and final post in my MVP Summit 2025 series, the first one is found here The MVP Summit Story. This isn’t about the latest tech updates. It’s about exploring an event city before the tech begins and me looking back, remembering a dot on the timeline. This time, Jonas Rapp and […]
+The post MVP Summit 2025 – The Seattle Experience appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVP Summit 2025 – Guided Tours]]></title>
+        <id>https://365community.online/mvp-summit-2025-guided-tours</id>
+        <link href="https://365community.online/mvp-summit-2025-guided-tours"/>
+        <updated>2025-10-22T14:19:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the second post in my MVP Summit 2025 series, the first one is found here The MVP Summit Story. This isn’t about the latest tech updates. It’s about the moments in between. The guided tours, the unexpected discoveries around Microsoft’s campus, and the little things that made it memorable. Among my favorite spots? […]
+The post MVP Summit 2025 – Guided Tours appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The MVP Summit 2025 Story]]></title>
+        <id>https://365community.online/the-mvp-summit-2025-story</id>
+        <link href="https://365community.online/the-mvp-summit-2025-story"/>
+        <updated>2025-10-22T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Two years had passed since I looked up at the skyscrapers of Seattle, strolling randomly across downtown, just to soak in the atmosphere, dreaming of having all the time in the world to explore every corner by foot. Back then I had done some research and wanted to experience the city skyline from Kerry Park […]
+The post The MVP Summit 2025 Story appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Field Service Features]]></title>
+        <id>https://365community.online/dynamics-365-field-service-features</id>
+        <link href="https://365community.online/dynamics-365-field-service-features"/>
+        <updated>2025-10-22T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Field Service includes work order management, intelligent scheduling, mobile access for technicians, asset tracking, inventory control, customer communication tools and integration with Microsoft 365 and other Dynamics apps. It supports predictive maintenance, IoT monitoring, and AI-powered dispatching. Core Capabilities Work Orders Create, manage, and track service work Define tasks, products, services, and billing […]
+The post Dynamics 365 Field Service Features appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP to BC Migration Pitfalls: Overlooking SmartLists]]></title>
+        <id>https://erpsoftwareblog.com/?p=136050</id>
+        <link href="https://erpsoftwareblog.com/2025/10/gp-to-bc-migration-pitfalls-overlooking-smartlists/"/>
+        <updated>2025-10-22T12:00:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Hidden Risks of Overlooking SmartLists and Ad Hoc Query Needs Many organizations rely on Dynamics GP’s SmartLists for quick reporting. These lists let users slice, filter, and export data […]
+The post GP to BC Migration Pitfalls: Overlooking SmartLists appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>TrinSoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is <this tech> and what is it used for?]]></title>
+        <id>https://365community.online/what-is-this-tech-and-what-is-it-used-for</id>
+        <link href="https://365community.online/what-is-this-tech-and-what-is-it-used-for"/>
+        <updated>2025-10-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered what you can use a Canvas app for? What are people using Dynamics 365 Customer Insights – Data for? Who needs Dynamics 365 Field Service? Is Dataverse only for the biggest customers?What are some use cases for Power Automate?What even is Copilot Studio?Is AI builder still a thing?Do I need to […]
+The post What is <this tech> and what is it used for? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can Dynamics 365 Field Service Do For My Organisation?]]></title>
+        <id>https://365community.online/what-can-dynamics-365-field-service-do-for-my-organisation</id>
+        <link href="https://365community.online/what-can-dynamics-365-field-service-do-for-my-organisation"/>
+        <updated>2025-10-22T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Field Service helps businesses manage field operations more efficiently. It improves scheduling, technician productivity, customer communication, inventory control, and service delivery. What are the main benefits of a system like Dynamics Field Service? Fix it first time, more often:Give the right engineer the right job with AI and Resource Scheduling Optimisation (RSO). […]
+The post What Can Dynamics 365 Field Service Do For My Organisation? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Spreadsheet: How Role-Specific Dashboards in Business Central Put Data at Your Fingertips]]></title>
+        <id>https://erpsoftwareblog.com/?p=136054</id>
+        <link href="https://erpsoftwareblog.com/2025/10/beyond-the-spreadsheet-how-role-specific-dashboards-in-business-central-put-data-at-your-fingertips/"/>
+        <updated>2025-10-22T10:32:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why a one-size-fits-all view of your data is costing you time and insight. Discover how tailored analytics for every decision-maker can transform your manufacturing or retail business. The business leaders […]
+The post Beyond the Spreadsheet: How Role-Specific Dashboards in Business Central Put Data at Your Fingertips appeared first on ERP Software Blog.
+How to Create Purchase Credit Memo in Business Central
+An Overview of Purchase Order in Microsoft Dynamics 365 Business Central
+Why We Like Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Beyond Key (Dynamics CRM Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Post-Case Resolution Surveys in Dynamics 365 with Copilot and Power Automate (Preview)]]></title>
+        <id>https://365community.online/how-to-automate-post-case-resolution-surveys-in-dynamics-365-with-copilot-and-power-automate-preview</id>
+        <link href="https://365community.online/how-to-automate-post-case-resolution-surveys-in-dynamics-365-with-copilot-and-power-automate-preview"/>
+        <updated>2025-10-22T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Exceptional customer service doesn’t end when a support ticket is closed. In many cases, the most insightful feedback comes after the resolution. Microsoft Dynamics 365 now offers a preview feature that enables organizations to automatically send satisfaction surveys to customers once a case is marked as resolved. In this blog post, we’ll walk you through […]
+The post How to Automate Post-Case Resolution Surveys in Dynamics 365 with Copilot and Power Automate (Preview) appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Calculate Product Costs and Weights Automatically in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=135956</id>
@@ -359,6 +559,18 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>NIC Systems Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Finance with an AI Assistant in Microsoft 365 Copilot]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195739</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/20/empowering-finance-with-an-ai-assistant-in-microsoft-365-copilot/"/>
+        <updated>2025-10-20T15:30:08.000Z</updated>
+        <summary type="html"><![CDATA[The Finance in Microsoft 365 Copilot, formerly Microsoft Copilot for Finance, is now generally available, helping finance teams bring ERP-connected data and workflows directly into the flow of work. Built with Microsoft 365 Copilot, this role-based AI solution connects to your existing systems of record, such as Microsoft Dynamics 365 Finance or SAP. It also infuses AI assistance into the tools you already use every day, like Excel and Outlook. 
+The result: faster financial operations, fewer manual handoffs, and better collaboration between finance, business teams, and IT.
+The post Empowering Finance with an AI Assistant in Microsoft 365 Copilot  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sigita Cepaitiene</name>
         </author>
     </entry>
     <entry>
@@ -101720,28 +101932,6 @@ The post Connect to other environments using the Microsoft Dataverse connector a
         <updated>2023-10-25T05:50:56.000Z</updated>
         <summary type="html"><![CDATA[Learn how to use the Microsoft Dataverse connector for actions and triggers across Power Platform environments.
 The post Connect to other environments using the Microsoft Dataverse connector appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Open-Ended Leave of Absence in Dynamics 365 HR]]></title>
-        <id>http://paragchapre.com/?p=12196</id>
-        <link href="https://paragchapre.com/open-ended-leave/"/>
-        <updated>2023-10-24T06:02:32.000Z</updated>
-        <summary type="html"><![CDATA[You can submit requests for a leave of absence that is open-ended and view the status of your leave requests in Dynamics 365 Human Resources.
-The post Managing Open-Ended Leave of Absence in Dynamics 365 HR appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Open-Ended Leave of Absence in Dynamics 365 HR]]></title>
-        <id>http://paragchapre.com/?p=12196</id>
-        <link href="https://paragchapre.com/open-ended-leave/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=open-ended-leave"/>
-        <updated>2023-10-24T06:02:32.000Z</updated>
-        <summary type="html"><![CDATA[You can submit requests for a leave of absence that is open-ended and view the status of your leave requests in Dynamics 365 Human Resources.
-The post Managing Open-Ended Leave of Absence in Dynamics 365 HR appeared first on Parag Chapre.]]></summary>
         <author>
             <name>paragchapre@gmail.com</name>
         </author>
