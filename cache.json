@@ -1019,16 +1019,6 @@
           "wordCount": 3965,
           "title": "Triggering a YAML Pipeline in Azure DevOps Automatically After Another Pipeline Completes",
           "imageUrl": "https://azureintegrations.com/wp-content/uploads/2019/10/cropped-pic.png?w=200"
-        },
-        {
-          "id": "http://azureintegrations.com/?p=1488",
-          "author": "Poojith Jain",
-          "description": "Azure API Management Introduction An APIM layer sits between clients and APIs(services). It acts as a reverse proxy, routing requests from clients to services. It may also perform various cross-cutting tasks such as authentication, SSL (Secure Socket Layer) termination, and rate-limiting. Clients must send requests directly to back-end services if you do not deploy aContinue reading \"Azure API Management Design for shared services\"",
-          "link": "https://azureintegrations.com/2023/10/25/azure-api-management-design-for-shared-services/",
-          "publishedOn": "2023-10-25T07:47:00.000Z",
-          "wordCount": 6585,
-          "title": "Azure API Management Design for shared services",
-          "imageUrl": "https://azureintegrations.com/wp-content/uploads/2023/10/azure-api-managment-landing-zone-1.png"
         }
       ]
     },
@@ -1597,6 +1587,66 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=136118",
+          "author": "Logan Consulting",
+          "description": "xxx\nHealthcare organizations face distinctive financial management hurdles, from balancing constrained budgets and diverse funding sources to ensuring compliance with rigorous regulations. To achieve greater transparency and efficiency, many healthcare finance […]\nThe post Financial Management in Healthcare: Strengthening Budget Control and Grant Tracking with Microsoft Dynamics 365 Finance appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/10/financial-management-in-healthcare-strengthening-budget-control-and-grant-tracking-with-microsoft-dynamics-365-finance/",
+          "publishedOn": "2025-10-23T23:43:24.000Z",
+          "wordCount": 6878,
+          "title": "Financial Management in Healthcare: Strengthening Budget Control and Grant Tracking with Microsoft Dynamics 365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/budgetingcycle.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136110",
+          "author": "The TM Group, Inc.",
+          "description": "xxx\nContract and Documentation Process with Microsoft Dynamics 365 Client Background A software firm offering complex enterprise solutions struggled with manual contract and documentation workflows. Their team entered contact details, contract […]\nThe post Contract and Documentation Process with Microsoft Dynamics 365 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/contract-and-documentation-process-with-microsoft-dynamics-365/",
+          "publishedOn": "2025-10-23T19:57:45.000Z",
+          "wordCount": 6623,
+          "title": "Contract and Documentation Process with Microsoft Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135971",
+          "author": "Insight Works",
+          "description": "xxx\nThe Product Configurator app for Microsoft Dynamics 365 Business Central helps manufacturers and assemble-to-order businesses accelerate quoting, reduce errors, and automate BOMs and routings with intuitive configuration, rule-based logic, and seamless integration.\nThe post Simplify Product Configuration in Business Central with Product Configurator appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/10/simplify-product-configuration-in-business-central-with-product-configurator-2/",
+          "publishedOn": "2025-10-23T19:00:32.000Z",
+          "wordCount": 6937,
+          "title": "Simplify Product Configuration in Business Central with Product Configurator",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Prod-Config-PR-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136103",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nWe implemented Business Central for Gear for the Game in two weeks—February 17th to March 2nd, working about 20 hours total. Here's what actually happened and what made it possible. […]\nThe post Business Central in Two Weeks appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/10/business-central-in-two-weeks/",
+          "publishedOn": "2025-10-23T15:03:52.000Z",
+          "wordCount": 6961,
+          "title": "Business Central in Two Weeks",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-30.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136091",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nChicago, IL – Oct 23, 2025 – Beyond Key, a Top Windows Technology Partner, announced the launch of the free-of-charge ERP Assessment service targeted at small-to-mid-gauge manufacturing businesses. This initiative offers […]\nThe post Beyond Key Launches Free ERP Assessment with an Aim to Help Manufacturers From Legacy System Entrapment appeared first on ERP Software Blog.\nHow Microsoft Dynamics 365 Can Transform Your Manufacturing Business\nWhy ERP Software is Essential for Manufacturing Industry in 2025?\nWhy Manufacturers are Moving Forward with ERP",
+          "link": "https://erpsoftwareblog.com/2025/10/beyond-key-launches-free-erp-assessment-with-an-aim-to-help-manufacturers-from-legacy-system-entrapment/",
+          "publishedOn": "2025-10-23T12:34:00.000Z",
+          "wordCount": 6881,
+          "title": "Beyond Key Launches Free ERP Assessment with an Aim to Help Manufacturers From Legacy System Entrapment",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136080",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nIf you’ve ever faced the nightmare of stock shortages, overstocking, or inaccurate counts, you’re not alone. Inventory headaches are one of the most common challenges for growing businesses — especially […]\nThe post Inventory Headaches? How Dynamics 365 Helps You Control Stock in Real Time appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/inventory-headaches-how-dynamics-365-helps-you-control-stock-in-real-time/",
+          "publishedOn": "2025-10-23T09:29:32.000Z",
+          "wordCount": 7154,
+          "title": "Inventory Headaches? How Dynamics 365 Helps You Control Stock in Real Time",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Inventory-Headaches.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=135836",
           "author": "PartnerTalks",
           "description": "xxx\nThe Directions EMEA 2025 Executive Zone introduces a new way for Partner leaders to connect and collaborate in Poznań this November Directions EMEA returns Nov. 4-6, 2025, introducing an Executive […]\nThe post Directions EMEA’s Executive Zone: Why Poznań is the place for Partner leaders to set 2025 priorities appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -1865,6 +1915,16 @@
           "wordCount": 7265,
           "title": "From RSAT To Next-Generation Testing for Dynamics 365",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-10-From-RSAT-To-Next-Generation-Testing-for-Dynamics-365_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136083",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nFor UK businesses looking to modernize their ERP systems, deciding between a Dynamics 365 Business Central migration and a re-implementation can be challenging. Both approaches offer unique advantages, but selecting […]\nThe post Dynamics 365 Business Central: Migration or Re-Implementation — Which Path Is Right for Your Business? appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/dynamics-365-business-central-migration-or-re-implementation-which-path-is-right-for-your-business/",
+          "publishedOn": "2025-10-19T09:45:50.000Z",
+          "wordCount": 6923,
+          "title": "Dynamics 365 Business Central: Migration or Re-Implementation — Which Path Is Right for Your Business?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Reimplementation.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=135791",
@@ -34495,6 +34555,46 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/spring-boot-full-course-java-spring-boot-tutorial-learn-spring-boot-with-project-mindmajix-youtube",
+          "author": null,
+          "description": "Welcome to the Spring Boot full course by MindMajix, your complete guide to mastering the popular Java framework for building modern, scalable, and production ready web applications. In this Spring Boot training, you’ll learn about RESTful APIs, Dependency Injection, JPA and Hibernate, MySQL integration, error handling, and Spring Security. You’ll also build a complete Spring […]\nThe post Spring Boot Full Course | Java Spring Boot Tutorial | Learn Spring Boot with Project | MindMajix – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/spring-boot-full-course-java-spring-boot-tutorial-learn-spring-boot-with-project-mindmajix-youtube",
+          "publishedOn": "2025-10-23T14:05:52.000Z",
+          "wordCount": 2275,
+          "title": "Spring Boot Full Course | Java Spring Boot Tutorial | Learn Spring Boot with Project | MindMajix – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/intune-rbac-best-practices-and-a-handy-excel-matrix",
+          "author": "Jeroen Burgerhout",
+          "description": "If you've ever tried to set up Role-Based Access Control (RBAC) in Microsoft Intune, you know it can quickly become messy. Too many roles, too many scopes, and suddenly everyone is a full administrator “to make everything work.” I've been there. Over the past few months, I've refined my own RBAC model, not only for […]\nThe post Intune RBAC – Best Practices (and a handy Excel matrix) appeared first on 365 Community Online.",
+          "link": "https://365community.online/intune-rbac-best-practices-and-a-handy-excel-matrix",
+          "publishedOn": "2025-10-23T10:19:00.000Z",
+          "wordCount": 2416,
+          "title": "Intune RBAC – Best Practices (and a handy Excel matrix)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Intune-RBAC-–-Best-Practices-and-a-handy-Excel-matrix-scaled.jpeg"
+        },
+        {
+          "id": "https://365community.online/step-by-step-build-an-update-profile-form-in-customer-insights-journeys",
+          "author": "Megan V. Walker",
+          "description": "I was recently asked how we can give customers the ability to update their email via a form. I advised against it. If you are using Customer Insights – Journeys, you know that a Contact Point Consent record exists for an email address showing if it is Opted In or Opted Out of a Purpose […]\nThe post Step-by-Step: Build an Update Profile Form in Customer Insights Journeys appeared first on 365 Community Online.",
+          "link": "https://365community.online/step-by-step-build-an-update-profile-form-in-customer-insights-journeys",
+          "publishedOn": "2025-10-23T07:20:00.000Z",
+          "wordCount": 2917,
+          "title": "Step-by-Step: Build an Update Profile Form in Customer Insights Journeys",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Step-by-Step-Build-an-Update-Profile-Form-in-Customer-Insights-Journeys.jpg"
+        },
+        {
+          "id": "https://365community.online/step-by-step-guide-to-duplicate-detection-and-merge-rules-in-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Why Clean Data is Every Manager’s Competitive Edge If your sales and marketing teams rely on Microsoft Dynamics 365 CRM, you already know this: duplicate data kills productivity. Multiple records for the same customer lead to fragmented conversations, inaccurate reporting, and poor customer experiences. That’s where duplicate detection and merging come in, not as a […]\nThe post Step-by-Step Guide to Duplicate Detection and Merge Rules in Dynamics 365 CRM appeared first on 365 Community Online.",
+          "link": "https://365community.online/step-by-step-guide-to-duplicate-detection-and-merge-rules-in-dynamics-365-crm",
+          "publishedOn": "2025-10-23T06:51:00.000Z",
+          "wordCount": 3158,
+          "title": "Step-by-Step Guide to Duplicate Detection and Merge Rules in Dynamics 365 CRM",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Duplicate-Detection-scaled.png"
+        },
         {
           "id": "https://365community.online/flows-getting-triggered-multiple-times-missing-callbackregistration-record-power-automate-dataverse",
           "author": "Nishant Rana",
@@ -74933,6 +75033,56 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195963",
+          "author": "Rupa Mantravadi",
+          "description": "With Microsoft Project Online retiring in September 2026, many organizations are now considering what comes next. The decision isn’t just about replacing a familiar tool—it’s about selecting a solution that supports your business model for the future. For organizations managing service-based operations, Microsoft Dynamics 365 Project Operations delivers the capabilities, flexibility, and innovation to support that evolution. \nThe post What’s Next: Why Project Online Customers Should Evaluate Microsoft Dynamics 365 Project Operations  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/23/dynamics-365-project-operations-for-project-online-customers/",
+          "publishedOn": "2025-10-23T15:30:00.000Z",
+          "wordCount": 6085,
+          "title": "What’s Next: Why Project Online Customers Should Evaluate Microsoft Dynamics 365 Project Operations",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/03/AdobeStock_257753729-scaled.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/21/try-rich-messaging-for-live-chat-and-whatsapp-in-contact-center/",
+          "author": "Sanchita Kedia",
+          "description": "In today’s fast-paced digital world, customers expect more than just plain text when interacting with businesses. Traditional text-based conversations can be inefficient. This is especially true when customers need to exchange detailed information, explore options, or make quick decisions. That’s where rich messaging comes in.  Rich messaging introduces interactive elements, such as forms, carousels, and suggested replies, directly within the conversation. This enables […]\nThe post Try rich messaging for live chat and WhatsApp in Contact Center  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/21/try-rich-messaging-for-live-chat-and-whatsapp-in-contact-center/",
+          "publishedOn": "2025-10-21T15:55:46.000Z",
+          "wordCount": 5022,
+          "title": "Try rich messaging for live chat and WhatsApp in Contact Center",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/01/11.8-CTA-correct.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195704",
+          "author": "Bryan Goode",
+          "description": "Discover how agentic business applications in Dynamics 365 are transforming data into real-time decisions and measurable outcomes.\nThe post From systems of record to systems of action: Dynamics 365, agentic business applications for the frontier appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/21/from-systems-of-record-to-systems-of-action-dynamics-365-agentic-business-applications-for-the-frontier/",
+          "publishedOn": "2025-10-21T14:50:00.000Z",
+          "wordCount": 6613,
+          "title": "From systems of record to systems of action: Dynamics 365, agentic business applications for the frontier",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/10/1021-Blog-Feature-Image.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195804",
+          "author": "Julie Strauss",
+          "description": "The Sales Research Agent in Dynamics 365 Sales automatically connects to live CRM data and can connect to additional data stored elsewhere, such as budgets and targets. It reasons over complex, even customized schemas with deep domain expertise, and presents novel, decision-ready insights through text-based narratives and rich data visualizations tailored to the business question at hand.\nThe post Elevating Sales Performance with Microsoft’s Sales Research Agent: How Rigorous Evaluation Unlocks Trust and Transformation appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/21/sales-research-bench/",
+          "publishedOn": "2025-10-21T14:50:00.000Z",
+          "wordCount": 6664,
+          "title": "Elevating Sales Performance with Microsoft’s Sales Research Agent: How Rigorous Evaluation Unlocks Trust and Transformation",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/10/AdobeStock_620118693-scaled.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/21/sales-research-agent-sales-research-bench/",
+          "author": "Deepanjan Bhol",
+          "description": "This post introduces the architecture and evaluation methodology and results behind Microsoft’s Sales Research Agent. Its technical innovations distinguish the Sales Research Agent from other available offerings, from multi-agent orchestration and multi-model support to advanced techniques for schema intelligence, self-correction and validation. In determining how best to evaluate the Sales Research Agent, Microsoft reviewed existing AI benchmarks and ultimately decided to create the Sales Research Bench, a new benchmark purpose-built to measure the quality of AI-powered Sales Research on business data, in alignment with the business questions, needs, and priorities of sales leaders.\nThe post Sales Research Agent & Sales Research Bench appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/21/sales-research-agent-sales-research-bench/",
+          "publishedOn": "2025-10-21T14:50:00.000Z",
+          "wordCount": 8294,
+          "title": "Sales Research Agent & Sales Research Bench",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/10/AdobeStock_413881238-1024x683.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195739",
           "author": "Sigita Cepaitiene",
           "description": "The Finance in Microsoft 365 Copilot, formerly Microsoft Copilot for Finance, is now generally available, helping finance teams bring ERP-connected data and workflows directly into the flow of work. Built with Microsoft 365 Copilot, this role-based AI solution connects to your existing systems of record, such as Microsoft Dynamics 365 Finance or SAP. It also infuses AI assistance into the tools you already use every day, like Excel and Outlook. \nThe result: faster financial operations, fewer manual handoffs, and better collaboration between finance, business teams, and IT.\nThe post Empowering Finance with an AI Assistant in Microsoft 365 Copilot  appeared first on Microsoft Dynamics 365 Blog.",
@@ -80101,16 +80251,6 @@
           "wordCount": 11528,
           "title": "Digiton 2023: Elevating Report and Document Automation in D365FO",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/Digiton-Elevating-Reort-and-Document-Automation-in-D365FO.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27547",
-          "author": "Slobodan Vucicevic",
-          "description": "Adding file attachments to a record in Microsoft Dynamics 365 Finance and Operations (D365FO) is a straightforward process from the user's perspective. The user only clicks the paperclip icon 📎, selects a file for the attachment, and the attachment is added to the record. When […]\nThe post D365FO Attachments Tips & Tricks: Why does DocuRef have two CompanyId fields? appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/why-does-docuref-have-two-companyid-fields/",
-          "publishedOn": "2023-10-25T13:25:06.000Z",
-          "wordCount": 12001,
-          "title": "D365FO Attachments Tips & Tricks: Why does DocuRef have two CompanyId fields?",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_ActualCompanyIdVsRefCompanyId_Title.png"
         }
       ]
     },
@@ -80538,26 +80678,6 @@
           "wordCount": 5779,
           "title": "Power for HR: Transform your HR processes with Power Platform Enterprise Templates",
           "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/11/Power-for-HR.png"
-        },
-        {
-          "id": "http://paragchapre.com/?p=12211",
-          "author": "paragchapre@gmail.com",
-          "description": "Learn how to use the Microsoft Dataverse connector for actions and triggers across Power Platform environments.\nThe post Connect to other environments using the Microsoft Dataverse connector appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/dataverse-connect-to-other-environments/",
-          "publishedOn": "2023-10-25T05:50:56.000Z",
-          "wordCount": 2240,
-          "title": "Connect to other environments using the Microsoft Dataverse connector",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/10/Dataverse-connector.png"
-        },
-        {
-          "id": "http://paragchapre.com/?p=12211",
-          "author": "paragchapre@gmail.com",
-          "description": "Learn how to use the Microsoft Dataverse connector for actions and triggers across Power Platform environments.\nThe post Connect to other environments using the Microsoft Dataverse connector appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/dataverse-connect-to-other-environments/?utm_source=rss&utm_medium=rss&utm_campaign=dataverse-connect-to-other-environments",
-          "publishedOn": "2023-10-25T05:50:56.000Z",
-          "wordCount": 5659,
-          "title": "Connect to other environments using the Microsoft Dataverse connector",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/10/Dataverse-connector.png"
         }
       ]
     },
@@ -80778,6 +80898,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=10155",
+          "author": "Eugen Glasow",
+          "description": "Reconciling outbound ISO20022 pain.001 payments with Camt.053 statements in Dynamics 365 isn’t straightforward. Modern Bank Reconciliation struggles to match vouchers using the EndToEndId field. This article explains how to adjust the ABR Camt.053 ER format and mapping to achieve accurate matching of your own payments.\nThe post Matching own payments in Modern bank reconciliation appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/matching-own-payments-in-modern-bank-reconciliation/",
+          "publishedOn": "2025-10-23T18:23:01.000Z",
+          "wordCount": 2437,
+          "title": "Matching own payments in Modern bank reconciliation",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2025/10/ABR-Camt.053-ER-format-Kopie.png"
+        },
         {
           "id": "https://erconsult.eu/?p=10008",
           "author": "Eugen Glasow",
