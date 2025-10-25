@@ -922,36 +922,6 @@
           "wordCount": 5696,
           "title": "Enable/Disable form control (COC) in X++",
           "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365_25.html",
-          "author": null,
-          "description": "As part of Chat GPT integration with Dynamics 365 Finance and operation, here I have started working on real application which actually can help end user to identify and get more information about error message in system.\n\nif you want to lean about how to integrate ChatGPT with Dynamics 365 Finance and operation.\n\n\n\n\n\n\n\nI have decided to start with General journal posting and Validation process.\nSystem store all validation message related to journal lines in header table (Log field)\n\n\n\nI have decided to add new button on general journal screen which will help me to read log from header table and try to find out relevant information using ChatGPT call.\n\n\n\nHere below I have showing sample X++ code for your reference.\n\nFollowing tweaks I am trying to do here to make request more understandabl…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365_25.html",
-          "publishedOn": "2023-10-25T15:30:00.002Z",
-          "wordCount": 5906,
-          "title": "ChatGPT by Open AI with Dynamics 365 Finance and operation – Part 2 with Application",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUXvIqCQMzzzaI1L8V69KFVu95du0Zv2yTI1UChNsnXpAfZOX4Ezeum1-W1tECdU-Pvp6FgyBNY09fBsCHwmK0THTeRtXxn2iA48RCoCgj34TZ5yg6Z-Lvpr0F15_hsy3KEpO7ZyvguBncS=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365.html",
-          "author": null,
-          "description": "Guys vote if you want Microsoft to add chat GPT by Open API integration with Dynamics 365 Finance and operation in upcoming release.\n\n\n\nThis blog is for ChatGPT and D365 Finance and operation integration, As we know so many people are talking about ChatGPT now a days and why don’t we try to access ChatGPT features from Dynamics 365 finance and operation and let user interact with AI to get required help.\n\n\n\n\n\nYes it is possible to with some C# and X++ code combination.\nTo start with I will suggest everyone to play with ChatGPT for sometime and understand. (New chat (openai.com))\n\n\n\n\n\nIf you feel now you are ready for technical integration, its time to jump on Playground and understand some technical stuff.\n\n\n\nPlayground – OpenAI API (To understand each parameters, Refer https://www.makeuseof.com/how-to-use-gpt-3-openai-playground/, Blog.\n\n\n\nMain parameters to understand.\n1.Model,\n2.Temperature (To fine tune output response)\n3.Maximum length (Max output response)\n4Top P,\n5.Frequency Penalty\n6.Presence penalty.\nOnce you understand more about parameter, It time to get API and secret key from beta.openai.com.\nApiCall = “https://api.openai.com/v1/engines/&#8221; + engine + “/completions”;\nYou can generate secret key from\n\n\n\nOnce you have all required information you can write C# code to integrate.\n\n\nI have created D365 parameter table to store required parameters for ChatGPT API call.\nHere you can find C# code for calling ChatGPT API.\n\n\n\n\n\nYou can refer same code in D365 and call using X++ reference.\n\nOnce you are done with above technical changes, Now we can proceed with parameters \n\n\nsetup for API call and start playing with it\n\nHere you have playground in D365 Finance and operation for your reference.\n\nAs a responsible technical I would suggest to have some restriction in place for responsible use of ChatGPT API if you wanted to implement same for customer.",
-          "link": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365.html",
-          "publishedOn": "2023-10-25T15:29:00.002Z",
-          "wordCount": 5832,
-          "title": "ChatGPT by Open AI with Dynamics 365 Finance and operation part1",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdVitBeX_5BVEoOsg9VSBAUG7hMdGUxdkvC4QEy8h17hsif9WACIHIj5tH0qryoztr-IcUCiW5QYhrzN0ekCxCQ8aK4Fk49K9bj1CPG0fBWK18nSY_j0JcFoA0GdvT06sxAKobvMZw5ilw=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/10/run-custom-x-scripts-with-zero-downtime.html",
-          "author": null,
-          "description": "As we know there are many issues, we face every day where data is not correct, and we need to write small script or runnable job to correct that data. But to do we need downtime in production and complete package deployment and build process is needed which is quite time taking task.\n\nHere with 10.0.25 version Microsoft has given new feature which will help to correct data without any down time required.\nYou can check Microsoft document for complete details and feature availability.\n\n\nHere I m going to explain step by step process, how you can use this functionality.\nFirst process would be, you needed to create new model using model management and add reference module like application suite, application foundation and any other model if required.\n\n\n\n\nOnce you are done with model creation, …",
-          "link": "https://d365fotechexpert.blogspot.com/2023/10/run-custom-x-scripts-with-zero-downtime.html",
-          "publishedOn": "2023-10-25T15:20:00.001Z",
-          "wordCount": 5933,
-          "title": "Run custom X++ scripts with zero downtime – D365 Finance and operation",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWrk91iOVSz4p3wMcfBkrWlrUGmjTrMCj3CQwQ2YVWXSTtLO3EMKDROZ2KwA5siGNc1TZczSeT43-rq3DRPacuFVjzcIsywWIcbJpCaHnyFC5lj7C8pgNif8fgwOYbSVcSR1cpnDgxus8I=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -1586,6 +1556,106 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=136068",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works welcomed nine Microsoft Partners into its reseller program in September, expanding its global network and empowering more Business Central users worldwide.\nThe post Nine Resellers Join Insight Works to Boost Business Central Integration appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/10/nine-resellers-join-insight-works-to-boost-business-central-integration/",
+          "publishedOn": "2025-10-24T19:05:15.000Z",
+          "wordCount": 6883,
+          "title": "Nine Resellers Join Insight Works to Boost Business Central Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Sept-Resellers.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136154",
+          "author": "Admiral Consulting Group",
+          "description": "xxx\nEmpowering Manufacturers to Innovate, Adapt, and Thrive in the Age of AI In 1913, Henry Ford forever changed the face of manufacturing. His introduction of the moving assembly line cut […]\nThe post From Ford’s Assembly Line to AI: The Next Manufacturing Revolution appeared first on ERP Software Blog.\nAutomating business processes through an ERP\n5 Quick Ways to Extend Microsoft Dynamics Business Central and CRM with Power Platform\nWarning Graphical Material:  Where is My Production Schedule?",
+          "link": "https://erpsoftwareblog.com/2025/10/from-fords-assembly-line-to-ai-the-next-manufacturing-revolution/",
+          "publishedOn": "2025-10-24T16:03:58.000Z",
+          "wordCount": 6770,
+          "title": "From Ford’s Assembly Line to AI: The Next Manufacturing Revolution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/74d73c69-9ca1-46b7-b682-5aa0737e0bef.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136137",
+          "author": "MetaOption LLC",
+          "description": "xxx\nIf there’s one thing every growing business wants, it’s efficiency. You want to do more with less time, less effort, and less confusion. In the world of logistics and fulfillment, […]\nThe post The ROI of Automation: Quantifying Benefits of MetaWMS and MetaShip Integration appeared first on ERP Software Blog.\nSustainability in Shipping: Guide on How MetaShip Helps Businesses Reduce Carbon Footprint\nBaker’s Dozen of WMS (Warehouse Management System) Acronyms Defined\nTop 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)",
+          "link": "https://erpsoftwareblog.com/2025/10/benefits-of-metawms-and-metaship-integration/",
+          "publishedOn": "2025-10-24T14:14:23.000Z",
+          "wordCount": 8510,
+          "title": "The ROI of Automation: Quantifying Benefits of MetaWMS and MetaShip Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MO-Blog-24.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136100",
+          "author": "On Point Services US LLC",
+          "description": "xxx\nIn conversations with clients, we often notice one thing – people tend to mix up the terms CRM and ERP. It’s easy to see why, both describe business software, both […]\nThe post Think You Need a CRM? You Might Actually Need an ERP (or Both) appeared first on ERP Software Blog.\nThe CFO’s Secret Weapon: Real-Time Control with ERP\nERP Pricing: What You Need to Know Before You Get a Quote\nComparing AP Solutions: Mekorma vs. BILL",
+          "link": "https://erpsoftwareblog.com/2025/10/think-you-need-a-crm-you-might-actually-need-an-erp-or-both/",
+          "publishedOn": "2025-10-24T14:00:21.000Z",
+          "wordCount": 7303,
+          "title": "Think You Need a CRM? You Might Actually Need an ERP (or Both)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/1-45.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135923",
+          "author": "Crestwood Associates",
+          "description": "xxx\nFor most businesses, the sales process doesn’t begin with a purchase order, it starts with a question: “Can you quote this?” Managing that request through to a confirmed order often […]\nThe post From Quote to Close: How Business Central’s Sales Order Agent Streamlines Sales Efficiency  appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/from-quote-to-close-how-business-centrals-sales-order-agent-streamlines-sales-efficiency/",
+          "publishedOn": "2025-10-24T13:48:53.000Z",
+          "wordCount": 7140,
+          "title": "From Quote to Close: How Business Central’s Sales Order Agent Streamlines Sales Efficiency",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Sales-Order-Agent-6.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136138",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nChicago, IL – Oct 23, 2025  – Beyond Key, a well-known Microsoft Solutions Partner, is very happy with their new product which is Microsoft Dynamics 365 Customer Service specialized service […]\nThe post Beyond Key Verticalizes Microsoft Dynamics 365 Customer Service -Powered AI Platform appeared first on ERP Software Blog.\nVoice Channel in Microsoft Dynamics 365: A game changer to escalate Customer Service Experience\nUnderstanding Case Management In Microsoft Dynamics 365\nMicrosoft Dynamics 365 and Microsoft Power Platform Just Got Even Better with its New AI Updates",
+          "link": "https://erpsoftwareblog.com/2025/10/beyond-key-verticalizes-microsoft-dynamics-365-customer-service-powered-ai-platform/",
+          "publishedOn": "2025-10-24T13:18:32.000Z",
+          "wordCount": 6997,
+          "title": "Beyond Key Verticalizes Microsoft Dynamics 365 Customer Service -Powered AI Platform",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135862",
+          "author": "Innovia Consulting",
+          "description": "xxx\nManaging accounts receivable efficiently is crucial for maintaining a healthy cash flow and fostering strong customer relationships. Microsoft Dynamics 365 Business Central offers a modern, integrated platform to streamline Accounts […]\nThe post Streamline Accounts Receivable with Microsoft Dynamics 365 BC appeared first on ERP Software Blog.\nWebinar: Business Central Add-on Spotlight Series – Nodus, a division of EVO\n5 Ways to Unclog Your AR Cash Flow\nAP Wellness: Streamline Your Accounts Payable",
+          "link": "https://erpsoftwareblog.com/2025/10/streamline-accounts-receivable-with-microsoft-dynamics-365-bc/",
+          "publishedOn": "2025-10-24T13:10:06.000Z",
+          "wordCount": 7292,
+          "title": "Streamline Accounts Receivable with Microsoft Dynamics 365 BC",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-10-Streamline-Accounts-Receivable-with-Microsoft-Dynamics-365-BC_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135672",
+          "author": "Netstock",
+          "description": "xxx\nFor nearly a century, Grundéns has been keeping commercial and sport fishermen protected from the elements. What began in the small Swedish fishing village of Grundsund has grown into a […]\nThe post Predictive Inventory Planning in Dynamics ERP with Netstock appeared first on ERP Software Blog.\nWhat is the Chinese New Year and How to Plan Your Supply Chain\nTime to Upgrade Your TMS or Maybe Move to a New Provider ?\nChoosing the right Inventory Management WMS Supply Chain Platform",
+          "link": "https://erpsoftwareblog.com/2025/10/predictive-inventory-planning-in-dynamics-erp-with-netstock/",
+          "publishedOn": "2025-10-24T13:07:05.000Z",
+          "wordCount": 7244,
+          "title": "Predictive Inventory Planning in Dynamics ERP with Netstock",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-10-Predictive-Inventory-Planning-in-Dynamics-ERP-with-Netstock_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136133",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nFor growing businesses, understanding Business Central licensing and pricing is essential before investing in an ERP system that manages finance, sales, and operations. Microsoft Dynamics 365 Business Central offers scalable […]\nThe post Dynamics 365 Business Central Licensing Explained (Pricing, Plans & Comparison) appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/dynamics-365-business-central-licensing/",
+          "publishedOn": "2025-10-24T12:03:35.000Z",
+          "wordCount": 8005,
+          "title": "Dynamics 365 Business Central Licensing Explained (Pricing, Plans & Comparison)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Licensing.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136042",
+          "author": "proMX Group",
+          "description": "xxx\nIn the rapidly evolving business environment, organizations across different industries are facing recurring project management challenges, including scope creep, delays in deliveries, and growing project complexities. These issues are affecting […]\nThe post Mastering Project Portfolio Management appeared first on ERP Software Blog.\nResponsible AP Automation: Empowering Teams, Not Replacing Them\nThe 5 biggest challenges in resource management – and how modern software solves them\nWhat’s New in Microsoft Dynamics GP 2015?",
+          "link": "https://erpsoftwareblog.com/2025/10/mastering-project-portfolio-management/",
+          "publishedOn": "2025-10-24T10:13:15.000Z",
+          "wordCount": 7861,
+          "title": "Mastering Project Portfolio Management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/625-х-417-Main-v1-1.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=136118",
           "author": "Logan Consulting",
@@ -34556,6 +34626,36 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/using-microsoft-learn-during-your-certification-exam",
+          "author": "Julian Sharp",
+          "description": "You have been able to search Microsoft Learn during an associate or expert level exam for a couple of years now as explained on https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience#accessing-microsoft-learn-during-your-certification-exam I thought I would share my approach to using Learn in the exam. First, I open up the Learn window once at the beginning of the exam and drag and […]\nThe post Using Microsoft Learn during your certification exam appeared first on 365 Community Online.",
+          "link": "https://365community.online/using-microsoft-learn-during-your-certification-exam",
+          "publishedOn": "2025-10-24T15:02:00.000Z",
+          "wordCount": 2105,
+          "title": "Using Microsoft Learn during your certification exam",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-ultimate-guide-to-row-level-filtering-in-dynamics-365-customer-insights-data",
+          "author": "Inogic",
+          "description": "Working with massive datasets in Microsoft Dynamics 365 Customer Insights-Data can be challenging. If you’re dealing with millions of records from different data sources, managing and filtering out unwanted data to enhance system performance is key. Loading unnecessary data can create bottlenecks, slow down processing, and waste resources when creating segments, calculating measures, or building […]\nThe post The Ultimate Guide to Row-Level Filtering in Dynamics 365 Customer Insights – Data appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-ultimate-guide-to-row-level-filtering-in-dynamics-365-customer-insights-data",
+          "publishedOn": "2025-10-24T10:14:00.000Z",
+          "wordCount": 2887,
+          "title": "The Ultimate Guide to Row-Level Filtering in Dynamics 365 Customer Insights – Data",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/1Dynamics-365-Customer-Insights-–-Data.png"
+        },
+        {
+          "id": "https://365community.online/turn-your-imagination-into-reality-with-sora-2-on-azure-ai-foundry-youtube",
+          "author": "John Lunn",
+          "description": "Turn Your Imagination into Reality with Sora 2 on Azure AI Foundry! Ever wished you could create a lifelike video from just a text prompt? In this episode of AzBytes, John, Ty, and Seema explore Sora 2, OpenAI’s next-gen text-to-video model now integrated into Azure AI Foundry. ✅ What you’ll learn: How Sora 2 transforms […]\nThe post Turn Your Imagination into Reality with Sora 2 on Azure AI Foundry! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/turn-your-imagination-into-reality-with-sora-2-on-azure-ai-foundry-youtube",
+          "publishedOn": "2025-10-23T16:44:17.000Z",
+          "wordCount": 2135,
+          "title": "Turn Your Imagination into Reality with Sora 2 on Azure AI Foundry! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/spring-boot-full-course-java-spring-boot-tutorial-learn-spring-boot-with-project-mindmajix-youtube",
           "author": null,
           "description": "Welcome to the Spring Boot full course by MindMajix, your complete guide to mastering the popular Java framework for building modern, scalable, and production ready web applications. In this Spring Boot training, you’ll learn about RESTful APIs, Dependency Injection, JPA and Hibernate, MySQL integration, error handling, and Spring Security. You’ll also build a complete Spring […]\nThe post Spring Boot Full Course | Java Spring Boot Tutorial | Learn Spring Boot with Project | MindMajix – YouTube appeared first on 365 Community Online.",
@@ -34563,6 +34663,16 @@
           "publishedOn": "2025-10-23T14:05:52.000Z",
           "wordCount": 2275,
           "title": "Spring Boot Full Course | Java Spring Boot Tutorial | Learn Spring Boot with Project | MindMajix – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-to-prevent-your-cloudpc-data-from-being-leaked-youtube",
+          "author": "shabaz darr",
+          "description": "🔐 How to Prevent Your CloudPC Data from Being Leaked | Microsoft Purview DLP for Windows 365 In this video, I walk you through how to protect sensitive data stored on your Windows 365 Cloud PC using Data Loss Prevention (DLP) policies in Microsoft Purview. Whether you’re an IT admin or a security enthusiast, understanding […]\nThe post How to Prevent Your CloudPC Data from Being Leaked – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-prevent-your-cloudpc-data-from-being-leaked-youtube",
+          "publishedOn": "2025-10-23T14:00:58.000Z",
+          "wordCount": 2035,
+          "title": "How to Prevent Your CloudPC Data from Being Leaked – YouTube",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
@@ -80221,36 +80331,6 @@
           "wordCount": 14191,
           "title": "SysGlobalCache versus SysGlobalObjectCache in D365FO",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_SysGlobalCache_Title.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27661",
-          "author": "Jovica Zivkovic",
-          "description": "At the Digiton Conference in Skopje, Docentric expert, Jovica Živković, demonstrated how to use Attachments and Alerts, providing insights into enhancing their usability through small customizations. For every D365FO implementation, Alerts and Attachments are essential functionalities which, let's be honest, could offer more features out […]\nThe post Digiton 2023: Tips and Tricks with Alerts and Attachments in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/digiton-2023-tips-and-tricks-with-alerts-and-attachments-in-d365fo/",
-          "publishedOn": "2023-10-26T08:19:51.000Z",
-          "wordCount": 11493,
-          "title": "Digiton 2023: Tips and Tricks with Alerts and Attachments in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/Digiton-Tips-and-Tricks-with-Alerts-and-Attachments-in-D365FO.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27648",
-          "author": "Irena Vujcic Pavlovic",
-          "description": "Docentric Team was attending Digiton Conference in Skopje, which is powered by Axapta Masters and Axapta Learning Center, and supported by Microsoft. 🚀 The event merges the power of Microsoft's latest updates with revolutionary ERP, CRM, and Power Platform technologies. We were heading there as […]\nThe post Docentric Team at Digiton Conference in Skopje appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/docentric-team-at-digiton-conference-in-skopje/",
-          "publishedOn": "2023-10-26T08:18:30.000Z",
-          "wordCount": 11387,
-          "title": "Docentric Team at Digiton Conference in Skopje",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/docentric-at-digiton.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27656",
-          "author": "Raul Rodman",
-          "description": "At the Digiton conference organized by Axapta Masters on October 20-21, 2023 in North Macedonia, Raul Rodman presented how to simplify reporting and document automation in D365FO with Docentric AX. During the demo session, he highlighted some key features of the Docentric solution: ✅ Integration […]\nThe post Digiton 2023: Elevating Report and Document Automation in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/digiton-2023-elevating-report-and-document-automation-in-d365fo/",
-          "publishedOn": "2023-10-26T08:17:23.000Z",
-          "wordCount": 11528,
-          "title": "Digiton 2023: Elevating Report and Document Automation in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/Digiton-Elevating-Reort-and-Document-Automation-in-D365FO.png"
         }
       ]
     },
