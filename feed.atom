@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-10-25T01:41:00.786Z</updated>
+    <updated>2025-10-26T01:49:07.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI lets you build apps in a few sentences – YouTube]]></title>
+        <id>https://365community.online/ai-lets-you-build-apps-in-a-few-sentences-youtube</id>
+        <link href="https://365community.online/ai-lets-you-build-apps-in-a-few-sentences-youtube"/>
+        <updated>2025-10-25T00:01:40.000Z</updated>
+        <summary type="html"><![CDATA[AI lets you build apps in a few sentences Tailor software to your goals. Build what you need in a few sentences. Tailor software to your goals. Build what you need in a few sentences. source
+The post AI lets you build apps in a few sentences – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nine Resellers Join Insight Works to Boost Business Central Integration]]></title>
         <id>https://erpsoftwareblog.com/?p=136068</id>
@@ -176,6 +187,17 @@ The 5 biggest challenges in resource management – and how modern software solv
 What’s New in Microsoft Dynamics GP 2015?]]></summary>
         <author>
             <name>proMX Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From prompt to app in nine steps – YouTube]]></title>
+        <id>https://365community.online/from-prompt-to-app-in-nine-steps-youtube</id>
+        <link href="https://365community.online/from-prompt-to-app-in-nine-steps-youtube"/>
+        <updated>2025-10-24T02:02:55.000Z</updated>
+        <summary type="html"><![CDATA[From prompt to app in nine steps A short prompt. Nine automated phases. A working personal app. A short prompt. Nine automated phases. A working personal app. source
+The post From prompt to app in nine steps – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
@@ -102099,54 +102121,6 @@ The below …]]></summary>
         <summary type="html"><![CDATA[Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge multiple pdf’s into a single pdf using x++ in D365FO]]></title>
-        <id>https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html</id>
-        <link href="https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html"/>
-        <updated>2023-10-27T05:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Got the requirement to Merge multiple pdf’s into a single pdf in D365FO.
-
-
-
-To achieve this need to download the (pdfsharp)3rd party DLL from the below link 
-https://www.dllme.com/dll/files/pdfsharp#dl.
-once DLL is downloaded you have to add at the project reference node.
-
-
-Write the below code.
-using PdfSharp;
-internal final class PFDRun
-{
-    public static void main(Args _args)
-    { 
-	PdfSharp.Pdf.PdfDocument 	outPutPDFDocument = new PdfSharp.Pdf.PdfDocument();
-	PdfSharp.Pdf.PdfDocument 	inputPDFDocument  = new PdfSharp.Pdf.PdfDocument(); 
-        PdfSharp.Pdf.PdfPages 		pdfPages;
-
-        container con = ['D:\\Test1.pdf','D:\\Test2.pdf', 'D:\\Test3.pdf'];
-
-        int i, j, pageCount;
-
-	FileName 		pdfFile;
-        InteropPermission 	permission;
-        str 			errorMessage;
-
-        try…]]></summary>
-        <author>
-            <name>Dynamics World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Experience at Dynamics Communities North America Summit 2023]]></title>
-        <id>https://alexdmeyer.com/?p=2893</id>
-        <link href="https://alexdmeyer.com/2023/10/26/my-experience-at-dynamics-communities-north-america-summit-2023/"/>
-        <updated>2023-10-26T14:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Last week was one of my favorite weeks of the year professionally with the Dynamics Communities North America Summit conference this year hosted in Charlotte, North Carolina. I wanted to share the sights of the conference from my experience! Dynamics 365 Finance & Operations Security Overview Academy Class My Summit week started off with teaching […]
-The post My Experience at Dynamics Communities North America Summit 2023 appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
     <entry>

@@ -568,16 +568,6 @@
           "wordCount": 3119,
           "title": "How to fetch values from records to Include filter using x++ in D365FO",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVaWFIoGXWp5SAVoUCUDj-0ZUP5QBINL_FDsoI4VDUbzUs7Xk4rOpfl9VX_q0ICcNztEX_Xfw6bjTELrD5BBA-yqYnu2O1CO8i1F9o3zdFB7JnJPHSXKIVy9xDXN_gS3z9zl2MCjVjBij9nZpLCdIBQhICuaoX98TrioPsrbAWTbbs1RJ6QGyUdMMwpEo/w1200-h630-p-k-no-nu/11.jpg"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html",
-          "author": null,
-          "description": "Got the requirement to Merge multiple pdf’s into a single pdf in D365FO.\n\n\n\nTo achieve this need to download the (pdfsharp)3rd party DLL from the below link \nhttps://www.dllme.com/dll/files/pdfsharp#dl.\nonce DLL is downloaded you have to add at the project reference node.\n\n\nWrite the below code.\nusing PdfSharp;\ninternal final class PFDRun\n{\n    public static void main(Args _args)\n    { \n\tPdfSharp.Pdf.PdfDocument \toutPutPDFDocument = new PdfSharp.Pdf.PdfDocument();\n\tPdfSharp.Pdf.PdfDocument \tinputPDFDocument  = new PdfSharp.Pdf.PdfDocument(); \n        PdfSharp.Pdf.PdfPages \t\tpdfPages;\n\n        container con = ['D:\\\\Test1.pdf','D:\\\\Test2.pdf', 'D:\\\\Test3.pdf'];\n\n        int i, j, pageCount;\n\n\tFileName \t\tpdfFile;\n        InteropPermission \tpermission;\n        str \t\t\terrorMessage;\n\n        try…",
-          "link": "https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html",
-          "publishedOn": "2023-10-27T05:49:00.000Z",
-          "wordCount": 3004,
-          "title": "Merge multiple pdf’s into a single pdf using x++ in D365FO",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC7tZiu3bUPioxmjNfKMsoOL9Xm_lIN6dkcRpXvEEbAF7sCYYNULCWx9W6uuBf6T3WNDuHuyL8KRo9Gz6_qZgeE8Vmc2w6ChHPqr31BI0v6gNgFfjy_YPeh6Kx2u6BYaj7fasdRu886njcKqACNRMiXqdbqmADEiOzYBJJzJa33sdfXQd0yddH3kuBPuc/w1200-h630-p-k-no-nu/image_2023_10_18T11_16_03_145Z.png"
         }
       ]
     },
@@ -34626,6 +34616,16 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/ai-lets-you-build-apps-in-a-few-sentences-youtube",
+          "author": "NZ365Guy",
+          "description": "AI lets you build apps in a few sentences Tailor software to your goals. Build what you need in a few sentences. Tailor software to your goals. Build what you need in a few sentences. source\nThe post AI lets you build apps in a few sentences – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/ai-lets-you-build-apps-in-a-few-sentences-youtube",
+          "publishedOn": "2025-10-25T00:01:40.000Z",
+          "wordCount": 1850,
+          "title": "AI lets you build apps in a few sentences – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/using-microsoft-learn-during-your-certification-exam",
           "author": "Julian Sharp",
           "description": "You have been able to search Microsoft Learn during an associate or expert level exam for a couple of years now as explained on https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience#accessing-microsoft-learn-during-your-certification-exam I thought I would share my approach to using Learn in the exam. First, I open up the Learn window once at the beginning of the exam and drag and […]\nThe post Using Microsoft Learn during your certification exam appeared first on 365 Community Online.",
@@ -34644,6 +34644,16 @@
           "wordCount": 2887,
           "title": "The Ultimate Guide to Row-Level Filtering in Dynamics 365 Customer Insights – Data",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/10/1Dynamics-365-Customer-Insights-–-Data.png"
+        },
+        {
+          "id": "https://365community.online/from-prompt-to-app-in-nine-steps-youtube",
+          "author": "NZ365Guy",
+          "description": "From prompt to app in nine steps A short prompt. Nine automated phases. A working personal app. A short prompt. Nine automated phases. A working personal app. source\nThe post From prompt to app in nine steps – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/from-prompt-to-app-in-nine-steps-youtube",
+          "publishedOn": "2025-10-24T02:02:55.000Z",
+          "wordCount": 1830,
+          "title": "From prompt to app in nine steps – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
           "id": "https://365community.online/turn-your-imagination-into-reality-with-sora-2-on-azure-ai-foundry-youtube",
@@ -73405,16 +73415,6 @@
           "wordCount": 4754,
           "title": "Hidden Feature Flag Changing How User Licensing is Performed in D365FO",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/11/0.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=2893",
-          "author": "Alex",
-          "description": "Last week was one of my favorite weeks of the year professionally with the Dynamics Communities North America Summit conference this year hosted in Charlotte, North Carolina. I wanted to share the sights of the conference from my experience! Dynamics 365 Finance & Operations Security Overview Academy Class My Summit week started off with teaching […]\nThe post My Experience at Dynamics Communities North America Summit 2023 appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2023/10/26/my-experience-at-dynamics-communities-north-america-summit-2023/",
-          "publishedOn": "2023-10-26T14:21:15.000Z",
-          "wordCount": 4877,
-          "title": "My Experience at Dynamics Communities North America Summit 2023",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/10/charlotte_sign-scaled.jpg"
         }
       ]
     },
