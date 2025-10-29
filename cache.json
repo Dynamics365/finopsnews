@@ -558,16 +558,6 @@
           "wordCount": 3529,
           "title": "Add File upload option in sys operation dialog in D365FO",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9LFp9j2E3dRIt-R5dSBnPy7D16CR-dMekpTW_8Ye3HlYDuWVHrsqDIzrGs1y4gkiim9j2pIlEN6jm4wuDAMZIKWEyY0Zudnap6hjs5Ti5KKWZwxUbedju0IaLf-xiFpAPP4NaF2GzVVn8aMj9dx4PuMlURiO7SaU3sHyLU4ReI4EI7sHpKfDP39brIoQ/w1200-h630-p-k-no-nu/image_2023_11_15T07_24_24_606Z.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/10/how-to-fetch-records-to-include-filter.html",
-          "author": null,
-          "description": "Hi guys, I have a requirement to fetch the record to include filtered values from the report dialog.\n\n\n\n\n\nI need to show those values in the report footer.\n\n Code :\nUsers can apply filters from the filter screen, and if any new tables are joined or new fields are added. To get those values I have used a query filter.\n\n\n\n\n\n\n        str                         value;\n\tQuery                       query;\n\tQueryFilter                 qf;\n\n\tquery = qr.query();// getting query from query run.\n\n\tint  cnt = query.queryFilterCount();\n\n\t// Fetching data from query if any new tables are joined or new Fileds are added\n\tfor (int ds =1; ds<= cnt; ds++)\n\t{\n\t\tqf = query.queryFilter(ds);\n\n\t\tif(qf.value())\n\t\t{\n\t\t\tvalue += strFmt('%1 : %2',\n\t\t\t\t            qf.field(),\n\t\t\t\t\t    qf.value());\n\t\t}\n\t}\n\n\nThe below …",
-          "link": "https://kishoredynamics11.blogspot.com/2023/10/how-to-fetch-records-to-include-filter.html",
-          "publishedOn": "2023-10-30T07:55:00.002Z",
-          "wordCount": 3119,
-          "title": "How to fetch values from records to Include filter using x++ in D365FO",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVaWFIoGXWp5SAVoUCUDj-0ZUP5QBINL_FDsoI4VDUbzUs7Xk4rOpfl9VX_q0ICcNztEX_Xfw6bjTELrD5BBA-yqYnu2O1CO8i1F9o3zdFB7JnJPHSXKIVy9xDXN_gS3z9zl2MCjVjBij9nZpLCdIBQhICuaoX98TrioPsrbAWTbbs1RJ6QGyUdMMwpEo/w1200-h630-p-k-no-nu/11.jpg"
         }
       ]
     },
@@ -1546,6 +1536,136 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=136338",
+          "author": "Insight Works",
+          "description": "xxx\nDiscover how Dynamics 365 Business Central users can stay agile amid supply chain volatility using Insight Works’ Enhanced Planning and Forecasting tools.\nThe post Riding the Wave of Supply Chain Volatility: How Business Central Users Can Plan Smarter, Not Harder appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/riding-the-wave-of-supply-chain-volatility-how-business-central-users-can-plan-smarter-not-harder/",
+          "publishedOn": "2025-10-28T19:00:34.000Z",
+          "wordCount": 7081,
+          "title": "Riding the Wave of Supply Chain Volatility: How Business Central Users Can Plan Smarter, Not Harder",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/EPP_cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136390",
+          "author": "StockIQ Technologies",
+          "description": "xxx\nAs the year winds down, supply chain professionals face a perfect storm of challenges: the bustling holiday shopping season followed closely by Chinese New Year factory shutdowns. For businesses relying […]\nThe post How StockIQ Helps You Master Holiday Demand and Chinese New Year Disruptions appeared first on ERP Software Blog.\n7 Common Problems to Avoid in Demand Forecasting\nWhat is the Chinese New Year and How to Plan Your Supply Chain\n6 Strategies to Cut Costs Across Your Supply Chain",
+          "link": "https://erpsoftwareblog.com/2025/10/how-stockiq-helps-you-master-holiday-demand-and-chinese-new-year-disruptions/",
+          "publishedOn": "2025-10-28T15:53:02.000Z",
+          "wordCount": 6884,
+          "title": "How StockIQ Helps You Master Holiday Demand and Chinese New Year Disruptions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DO-NOT-EDIT-StockIQIllustrations.Ai-11-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136399",
+          "author": "TrinSoft",
+          "description": "xxx\nThe Hidden Risks of Overlooking Binary Stream’s Multi-Entity Management Companies with multiple subsidiaries or business units often rely on specialized tools to manage intercompany transactions and consolidated financials. A common […]\nThe post GP to BC Migration Pitfalls: Failing to Evaluate Multi-Entity Management appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nCreate a Closed-Loop Analysis, Planning, and Reporting Process",
+          "link": "https://erpsoftwareblog.com/2025/10/gp-to-bc-multi-entity-management/",
+          "publishedOn": "2025-10-28T15:29:14.000Z",
+          "wordCount": 7007,
+          "title": "GP to BC Migration Pitfalls: Failing to Evaluate Multi-Entity Management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GP-to-BC-Migration-Pitfalls-1080p.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136389",
+          "author": "Catapult",
+          "description": "xxx\nA New Addition to the Slingshot Line Catapult is excited to announce the launch of Slingshot for Distribution, the newest offering in our expanding line of Slingshot implementation packages for […]\nThe post Introducing Slingshot for Distribution: A New Solution for Unified Finance and Warehouse Management appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/introducing-slingshot-for-distribution-a-new-solution-for-unified-finance-and-warehouse-management/",
+          "publishedOn": "2025-10-28T15:14:15.000Z",
+          "wordCount": 6766,
+          "title": "Introducing Slingshot for Distribution: A New Solution for Unified Finance and Warehouse Management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Slingshot-Distribution-intro.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136383",
+          "author": "USTPay",
+          "description": "xxx\nAs a higher percentage of customers expects speed and choice throughout the buying process, a vendor’s flexibility has become a key differentiator. Within Dynamics 365 Business Central, USTPay helps businesses […]\nThe post Why payment flexibility matters in Dynamics 365 Business Central appeared first on ERP Software Blog.\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/why-payment-flexibility-matters-in-dynamics-365-business-central/",
+          "publishedOn": "2025-10-28T13:59:47.000Z",
+          "wordCount": 6794,
+          "title": "Why payment flexibility matters in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/USTPay-blog-designs-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136286",
+          "author": "Velosio",
+          "description": "xxx\nEvery business runs on spreadsheets. They’re flexible, familiar, and fast — until they’re not. As organizations scale, those same spreadsheets that once powered reporting, scheduling, or project tracking start to […]\nThe post From Spreadsheet to AI-Enabled App in 30 Days: How to Turn Everyday Processes into Intelligent Tools appeared first on ERP Software Blog.\nUnlock the Power of Unified Data with Free Integration for Business Central and Dynamics 365 Sales\nChoosing the Right ERP: Everything Growing Businesses Need to Know\nThe Data Challenge of Generative AI: Why a Strong Governance Strategy is Essential",
+          "link": "https://erpsoftwareblog.com/2025/10/from-spreadsheet-to-ai-enabled-app-in-30-days/",
+          "publishedOn": "2025-10-28T13:52:17.000Z",
+          "wordCount": 6876,
+          "title": "From Spreadsheet to AI-Enabled App in 30 Days: How to Turn Everyday Processes into Intelligent Tools",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Excel.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136330",
+          "author": "Enavate",
+          "description": "xxx\nFor many organizations, Dynamics GP sits at the center of day-to-day operations—managing everything from financials to reporting. But in today’s fast-paced business environment, teams need more than static data. They […]\nThe post AI-Driven Insights Unlock Dynamics GP Productivity appeared first on ERP Software Blog.\nThe Cloud and Your Company:  Governing a New Way Forward\nTaking Microsoft Dynamics GP to the Cloud\nWelcome to Exceptional Financial Reporting with Microsoft Dynamics GP 2010",
+          "link": "https://erpsoftwareblog.com/2025/10/ai-driven-insights-unlock-dynamics-gp-productivity/",
+          "publishedOn": "2025-10-28T12:00:59.000Z",
+          "wordCount": 6881,
+          "title": "AI-Driven Insights Unlock Dynamics GP Productivity",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136362",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nAt Beyond Key, we’re helping businesses work smarter with Microsoft Copilot in Dynamics 365 Business Central. This infographic highlights how AI is reshaping productivity and collaboration for growing organizations. With […]\nThe post Work smarter with Microsoft Copilot in Dynamics 365 Business Central appeared first on ERP Software Blog.\nMicrosoft Copilot in Business Central: Revolutionize Your Business Operations\nMicrosoft Copilot with Dynamics 365 Business Central: Real-World Applications\nMicrosoft Copilot: The Future of AI Workspaces Is Here",
+          "link": "https://erpsoftwareblog.com/2025/10/work-smarter-with-microsoft-copilot-in-dynamics-365-business-central/",
+          "publishedOn": "2025-10-28T11:33:54.000Z",
+          "wordCount": 6682,
+          "title": "Work smarter with Microsoft Copilot in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Copilot-in-dynamics-365-busness-central.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136363",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nIn 2025, Dynamics 365 Business Central pricing continues to be one of the most searched topics for growing businesses exploring cloud ERP systems. Whether you’re a small company upgrading from […]\nThe post Dynamics 365 Business Central Pricing Explained (2025): Plans, Licensing & Cost Comparison appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/10/dynamics-365-business-central-pricing-explained/",
+          "publishedOn": "2025-10-28T11:30:31.000Z",
+          "wordCount": 8145,
+          "title": "Dynamics 365 Business Central Pricing Explained (2025): Plans, Licensing & Cost Comparison",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Pricing.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136361",
+          "author": "Intech Systems",
+          "description": "xxx\nPicture this: It is Monday morning, and your support inbox is flooded. Your three customer service reps are already drowning in tickets. A customer is calling about an issue that […]\nThe post AI-Agents in Dynamics 365 Customer Service: From Support Tickets to Smarter Resolutions appeared first on ERP Software Blog.\nUnderstanding Omnichannel for Customer Service for Developers: Key Features & Functions\nHow Modern Businesses Are Enhancing Customer Relationships\nAvoid Three ERP Data Prep Mistakes That Cost Millions",
+          "link": "https://erpsoftwareblog.com/2025/10/ai-agents-in-dynamics-365-customer-service-from-support-tickets-to-smarter-resolutions/",
+          "publishedOn": "2025-10-28T10:57:35.000Z",
+          "wordCount": 8188,
+          "title": "AI-Agents in Dynamics 365 Customer Service: From Support Tickets to Smarter Resolutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Picture1-46.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136364",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nIf your team already lives in Outlook, Teams, and Excel, you're halfway there. Here's why connecting Dynamics 365 to the tools you already use actually matters in daily work. The […]\nThe post Microsoft 365 and Dynamics 365: Better Together for SMBs appeared first on ERP Software Blog.\nHow Dynamics 365 can boost your Sales Cycle?\nHow to efficiently nurture leads through the sales process in Microsoft Dynamics 365?\nLeverage the Power of Dynamics 365 Business Central and D365 for Sales Integration",
+          "link": "https://erpsoftwareblog.com/2025/10/microsoft-365-and-dynamics-365-better-together-for-smbs/",
+          "publishedOn": "2025-10-28T10:47:23.000Z",
+          "wordCount": 7705,
+          "title": "Microsoft 365 and Dynamics 365: Better Together for SMBs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-31.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135404",
+          "author": "Technology Management Concepts",
+          "description": "xxx\n  TL;DR Microsoft has quietly turned Dynamics 365 Business Central into something far more intelligent than a traditional ERP. With AI now embedded in daily workflows, Business Central can analyze […]\nThe post Business Central Can Now Think for You appeared first on ERP Software Blog.\nMicrosoft Built the Intelligence In.  Now It’s About Who You Trust to Turn It On\nERP SHERPA Program Provides a Self-Implementation Option for Dynamics 365 Business Central\nBuild a Tighter End-to-End Sales and Accounting Process with Dynamics 365 CRM and Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/business-central-can-now-think-for-you/",
+          "publishedOn": "2025-10-28T04:28:06.000Z",
+          "wordCount": 7785,
+          "title": "Business Central Can Now Think for You",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Can-Now-Think-for-You-Heres-What-That-Really-Means.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136288",
+          "author": "Sycor Americas",
+          "description": "xxx\nAt Sycor Americas, we’ve seen it all. From manufacturers to equipment-rental firms to MedTech innovators, the promise of a streamlined system that reduces manual work and unlocks data-driven insights is […]\nThe post Prevent ERP Implementation Pitfalls Before They Happen appeared first on ERP Software Blog.\nSycor.Rental for Equipment Rental Industries\nThe Top 7 ERP Vendors for All Industries in 2025\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary",
+          "link": "https://erpsoftwareblog.com/2025/10/prevent-erp-implementation-pitfalls-before-they-happen/",
+          "publishedOn": "2025-10-27T20:45:04.000Z",
+          "wordCount": 7172,
+          "title": "Prevent ERP Implementation Pitfalls Before They Happen",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-to-Avoid-Implementation-Pitfalls-1.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=136288",
           "author": "Sycor Americas",
@@ -33099,6 +33219,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=71539",
+          "author": "Don McNulty",
+          "description": "Functionality in Dynamics GP Compared to D365 Business Central | Purchase Orders\nThis recorded webinar provides a side-by-side look at how Purchase Order processes are handled in both Dynamics GP and Dynamics 365 Business Central. You’ll learn how each system manages full and partial receipts, invoice matching, and purchase price variance (PPV) tracking, helping you understand key differences. Topics Covered: Issuing purchase orders Receiving full and partial...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/functionality-in-dynamics-gp-compared-to-d365-business-central-purchase-orders/",
+          "publishedOn": "2025-10-28T14:12:09.000Z",
+          "wordCount": 8705,
+          "title": "Functionality in Dynamics GP Compared to D365 Business Central | Purchase Orders",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2025/10/GP-to-D365-BC-Purchase-Orders-LI.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=71246",
           "author": "Ali Durvesh",
           "description": "How to Use and Modify Routings in Dynamics 365 Business Central\nRoutings are the backbone of efficient manufacturing in Dynamics 365 Business Central. They define the labor steps required to produce a finished good, working hand-in-hand with Bills of Material (BOMs), which specify material requirements. Once set up, Routings are automatically reused in Production Orders, helping manufacturers save time and reduce errors. I’ve helped many manufacturing...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -34746,6 +34876,56 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/11-delicious-food-blog-examples-and-how-to-follow-their-lead",
+          "author": "Belinda Allen",
+          "description": "When it comes to starting a food blog, there are lots of decisions to make.  The good news is that you don’t need to start completely from scratch: just like with recipes, it’s completely natural to browse other blogs for ideas, fork what’s working, and add your own unique spin for a blog that perfectly […]\nThe post 11 Delicious Food Blog Examples (And How to Follow Their Lead) appeared first on 365 Community Online.",
+          "link": "https://365community.online/11-delicious-food-blog-examples-and-how-to-follow-their-lead",
+          "publishedOn": "2025-10-28T15:00:00.000Z",
+          "wordCount": 4158,
+          "title": "11 Delicious Food Blog Examples (And How to Follow Their Lead)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/11-Delicious-Food-Blog-Examples-And-How-to-Follow-Their.jpg"
+        },
+        {
+          "id": "https://365community.online/inogic-at-community-summit-2025-a-magical-journey-of-ai-copilot-dynamics-365-innovation",
+          "author": "Inogic",
+          "description": "What an incredible experience it was! The Community Summit North America 2025, held in Orlando, Florida, from October 19 to 20, brought together over 5,000+ Dynamics 365 and Power Platform enthusiasts from across the globe. Known as the largest Microsoft Business Applications User Conference on the planet, this year’s event was nothing short of extraordinary. […]\nThe post Inogic at Community Summit 2025: A Magical Journey of AI, Copilot & Dynamics 365 Innovation appeared first on 365 Community Online.",
+          "link": "https://365community.online/inogic-at-community-summit-2025-a-magical-journey-of-ai-copilot-dynamics-365-innovation",
+          "publishedOn": "2025-10-28T11:52:00.000Z",
+          "wordCount": 2649,
+          "title": "Inogic at Community Summit 2025: A Magical Journey of AI, Copilot & Dynamics 365 Innovation",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Inogic-at-Community-Summit-2025-scaled.png"
+        },
+        {
+          "id": "https://365community.online/how-microsoft-dynamics-365-field-service-is-powering-the-next-generation-of-technicians",
+          "author": "Mark Christie",
+          "description": "Keeping the Grid Connected: Resource Management in Utilities with Dynamics 365 Field Service Today’s technicians are digital problem-solvers, armed with real-time insights, mobile tools, and connected field service technology that helps deliver faster, smarter support. As technology evolves, so does the role of the engineer and Microsoft Dynamics 365 Field Service is at central to […]\nThe post How Microsoft Dynamics 365 Field Service is Powering the Next Generation of Technicians appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-microsoft-dynamics-365-field-service-is-powering-the-next-generation-of-technicians",
+          "publishedOn": "2025-10-28T10:04:00.000Z",
+          "wordCount": 2301,
+          "title": "How Microsoft Dynamics 365 Field Service is Powering the Next Generation of Technicians",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/easily-add-and-use-event-images-in-customer-insights-journeys",
+          "author": "Megan V. Walker",
+          "description": "Sometimes new things just pop up in Dynamics 365 and specifically in Customer Insights – Journeys. This one is such a little thing but makes for a better user experience and perhaps less confusing for people how to then use it in emails. That is, the control for adding an and then use event images […]\nThe post Easily Add And Use Event Images In Customer Insights – Journeys appeared first on 365 Community Online.",
+          "link": "https://365community.online/easily-add-and-use-event-images-in-customer-insights-journeys",
+          "publishedOn": "2025-10-28T08:20:00.000Z",
+          "wordCount": 2249,
+          "title": "Easily Add And Use Event Images In Customer Insights – Journeys",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Easily-Add-And-Use-Event-Images-In-Customer-Insights-–.jpg"
+        },
+        {
+          "id": "https://365community.online/advanced-analytics-in-power-bi-step-by-step-tutorial-for-beginners-youtube",
+          "author": "Manish chauhan",
+          "description": "Welcome to this Power BI tutorial for beginners! 🌟 In this video, we’ll explore how to use Advanced Analytics features in Power BI to gain deeper insights from your data. You’ll see a step-by-step practical implementation to make your reports more interactive, data-driven, and visually powerful. By the end of this tutorial, you’ll understand how […]\nThe post Advanced Analytics in Power BI | Step-by-Step Tutorial for Beginners – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/advanced-analytics-in-power-bi-step-by-step-tutorial-for-beginners-youtube",
+          "publishedOn": "2025-10-27T13:10:54.000Z",
+          "wordCount": 2005,
+          "title": "Advanced Analytics in Power BI | Step-by-Step Tutorial for Beginners – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/build-production-ready-student-management-system-with-microservices-build-rest-api-in-spring-boot-youtube",
           "author": null,
           "description": "In this video, you’ll learn how to build a production-ready Student Management System using Microservices architecture with Spring Boot. We’ll cover everything from designing microservices to build Spring Boot REST APIs, database integration, API Gateway, Service Registry (Eureka), Load Balancing, and centralized configuration using Spring Cloud Config. This Spring Boot project is perfect for Java […]\nThe post Build Production-Ready Student Management System with Microservices | Build REST API in Spring Boot – YouTube appeared first on 365 Community Online.",
@@ -34753,6 +34933,26 @@
           "publishedOn": "2025-10-27T12:02:00.000Z",
           "wordCount": 2077,
           "title": "Build Production-Ready Student Management System with Microservices | Build REST API in Spring Boot – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/powering-efficiency-field-service-innovation-in-utilities",
+          "author": "Mark Christie",
+          "description": "Powering Efficiency: Field Service Innovation in Utilities The utilities and energy sector faces growing pressure to modernise, from maintaining ageing infrastructure to meeting sustainability targets and rising customer expectations. Reliable, efficient field service operations are essential to keeping customers satisfied. With Microsoft Dynamics 365 Field Service, utilities providers can streamline operations, reduce downtime, and empower […]\nThe post Powering Efficiency: Field Service Innovation in Utilities appeared first on 365 Community Online.",
+          "link": "https://365community.online/powering-efficiency-field-service-innovation-in-utilities",
+          "publishedOn": "2025-10-27T11:02:00.000Z",
+          "wordCount": 2289,
+          "title": "Powering Efficiency: Field Service Innovation in Utilities",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/power-platform-pipelines-security-are-your-pipelines-secure-youtube",
+          "author": "Matt Collins",
+          "description": "In this video, I explain how the security of Power Platform Pipelines work, so that organisations can ensure pipelines are secure and only authorised people have access to them. Blog: https://www.mattcollinsjones.co.uk BlueSky: https://bsky.app/profile/mattcollinsjones.co.uk LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source\nThe post Power Platform Pipelines Security! Are Your Pipelines Secure?! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/power-platform-pipelines-security-are-your-pipelines-secure-youtube",
+          "publishedOn": "2025-10-27T11:01:16.000Z",
+          "wordCount": 1864,
+          "title": "Power Platform Pipelines Security! Are Your Pipelines Secure?! – YouTube",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
@@ -75297,16 +75497,6 @@
           "wordCount": 3420,
           "title": "Dynamics 365 eCommerce, search and no hype",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/12/120823_0933_dynamics3651.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4518",
-          "author": "Kurt Hatlevik",
-          "description": "The following blogpost is 100% meaningless and can in no circumstances be used for anything other than better understanding Dynamics 365 code and playing around. What I’m about to show will NOT help you in any way, or make you more happy. When developing in Visual Studio you are restricted to make overrides to any … Continue reading D365 – Overriding code with a hack(100% meaningless)",
-          "link": "https://kurthatlevik.com/2023/10/30/d365-overriding-code-with-a-hack100-meaningless/",
-          "publishedOn": "2023-10-30T10:22:04.000Z",
-          "wordCount": 3456,
-          "title": "D365 – Overriding code with a hack(100% meaningless)",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/10/103023_1944_d365overrid1.png"
         }
       ]
     },
@@ -78855,26 +79045,6 @@
           "wordCount": 3125,
           "title": "Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4",
           "imageUrl": "http://img.youtube.com/vi/TZX7NM7Wh94/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2776",
-          "author": "Saurabh Bharti",
-          "description": "I recently had a discussion with a customer who plans to utilize a free text invoice for processing customer invoices. One specific requirement they have is the ability to input a description in the header and ensure that it is recorded in both customer and ledger transactions. In D365, the issue lies in the absence […]",
-          "link": "https://exploredynamics365.home.blog/2023/10/29/default-description-for-free-text-invoice-transactions-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2023-10-29T13:50:03.000Z",
-          "wordCount": 2954,
-          "title": "Default Description for free text invoice transactions in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/Hrx8P-XzHwE/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2773",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]",
-          "link": "https://exploredynamics365.home.blog/2023/10/29/inventory-valuationfifo-lifo-in-microsoft-dynamics-365-finance-and-operations-part-3/",
-          "publishedOn": "2023-10-29T13:48:31.000Z",
-          "wordCount": 2939,
-          "title": "Inventory valuation(FIFO & LIFO) in Microsoft Dynamics 365 Finance and Operations: Part-3",
-          "imageUrl": "http://img.youtube.com/vi/ZUq0BfbDUYk/0.jpg"
         }
       ]
     },
@@ -79482,26 +79652,6 @@
           "wordCount": 3125,
           "title": "Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4",
           "imageUrl": "http://img.youtube.com/vi/TZX7NM7Wh94/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2776",
-          "author": "Saurabh Bharti",
-          "description": "I recently had a discussion with a customer who plans to utilize a free text invoice for processing customer invoices. One specific requirement they have is the ability to input a description in the header and ensure that it is recorded in both customer and ledger transactions. In D365, the issue lies in the absence […]",
-          "link": "https://exploredynamics365.home.blog/2023/10/29/default-description-for-free-text-invoice-transactions-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2023-10-29T13:50:03.000Z",
-          "wordCount": 2954,
-          "title": "Default Description for free text invoice transactions in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/Hrx8P-XzHwE/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2773",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]",
-          "link": "https://exploredynamics365.home.blog/2023/10/29/inventory-valuationfifo-lifo-in-microsoft-dynamics-365-finance-and-operations-part-3/",
-          "publishedOn": "2023-10-29T13:48:31.000Z",
-          "wordCount": 2939,
-          "title": "Inventory valuation(FIFO & LIFO) in Microsoft Dynamics 365 Finance and Operations: Part-3",
-          "imageUrl": "http://img.youtube.com/vi/ZUq0BfbDUYk/0.jpg"
         }
       ]
     },
