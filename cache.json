@@ -1518,16 +1518,6 @@
           "wordCount": 2097,
           "title": "Setup A Release Pipeline In D365 FO – Part 2",
           "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-1-300x235.png"
-        },
-        {
-          "id": "https://impulztech.com/?p=3255",
-          "author": "Muhammad Ali",
-          "description": "Azure DevOps Pipelines is a cloud service that you can use to automatically build, test and deploy your code to (m)any environments. Since Apr 2019 you can use new Azure DevOps tasks for Microsoft Dynamics 365 to upload and deploy your application deployable package to LCS environments. This blog describes how to create build and […]\nThe post Create Build & Development Server In D365 FO – Part 1 appeared first on Impulz Technologies LLC.",
-          "link": "https://impulztech.com/create-build-development-server-d365-finance-operations-part-1/",
-          "publishedOn": "2023-11-01T09:46:36.000Z",
-          "wordCount": 2153,
-          "title": "Create Build & Development Server In D365 FO – Part 1",
-          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-1-300x235.png"
         }
       ]
     },
@@ -1536,6 +1526,96 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=136596",
+          "author": "Fidesic",
+          "description": "xxx\nEnterprise accounting and finance operations require sophisticated invoicing infrastructure that addresses both accounts receivable and accounts payable complexities. Fidesic and strategic partner PayTrace are hosting an educational webinar on this […]\nThe post Fidesic & PayTrace Going Live appeared first on ERP Software Blog.\nD365 Business Central Health Check\nMekorma Payment Hub v0.9: New Features for Business Central\nWinning the AP Game with Mekorma Embedded Solutions",
+          "link": "https://erpsoftwareblog.com/2025/10/fidesic-paytrace-going-live/",
+          "publishedOn": "2025-10-30T19:45:40.000Z",
+          "wordCount": 6620,
+          "title": "Fidesic & PayTrace Going Live",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/fidesic-paytrace-webinar-nov-2025.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136526",
+          "author": "Insight Works",
+          "description": "xxx\nBoost warehouse efficiency in Microsoft Dynamics 365 Business Central with License Plating from Insight Works. Group items under a single License Plate Number (LPN) to move, track, and ship inventory faster and with total accuracy.\nThe post License Plating in Business Central: The Smarter Way to Move, Track, and Ship Inventory appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/license-plating-in-business-central-the-smarter-way-to-move-track-and-ship-inventory/",
+          "publishedOn": "2025-10-30T18:30:18.000Z",
+          "wordCount": 7192,
+          "title": "License Plating in Business Central: The Smarter Way to Move, Track, and Ship Inventory",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/The-Smarter-Way-to-Move-covers.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136592",
+          "author": "Logan Consulting",
+          "description": "xxx\nIn the energy industry, finance teams face growing pressure to manage complex accounting requirements while maintaining accuracy, visibility, and regulatory compliance. From joint venture reporting to asset tracking and consolidation, […]\nThe post From Manual to Modern: How Microsoft D365 Finance Transforms Energy Accounting Operations appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2025/10/from-manual-to-modern-how-microsoft-d365-finance-transforms-energy-accounting-operations/",
+          "publishedOn": "2025-10-30T16:51:01.000Z",
+          "wordCount": 6944,
+          "title": "From Manual to Modern: How Microsoft D365 Finance Transforms Energy Accounting Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AZowKyfOijj2E6GdOx04Mg-AZowKyfOM-onsbHgBdoywA.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136014",
+          "author": "Crestwood Associates",
+          "description": "xxx\nIf you’re still running Microsoft Dynamics GP, you’ve probably noticed changes support updates are slowing, integrations are harder to maintain, and costs are rising. But here’s the good news: you don’t […]\nThe post The ERP Decision: Navigating the Shift from GP to Acumatica appeared first on ERP Software Blog.\nWhy You Should Consider Replacing Your Custom Solution With Microsoft Accounting Software\nWhy to Consider Microsoft Dynamics GP for E-Commerce vs. NetSuite\nHow to Effectively Manage Your Cyclical Billing Processes Within Microsoft Dynamics GP (Great Plains)",
+          "link": "https://erpsoftwareblog.com/2025/10/the-erp-decision-navigating-the-shift-from-gp-to-acumatica/",
+          "publishedOn": "2025-10-30T16:37:27.000Z",
+          "wordCount": 6750,
+          "title": "The ERP Decision: Navigating the Shift from GP to Acumatica",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Social-Image-1-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136582",
+          "author": "MetaOption LLC",
+          "description": "xxx\nIn today’s fast-paced business world, where customers expect real-time tracking, perfect order accuracy, and lightning-fast fulfillment, warehouses have become more than just storage spaces. They’re now the nerve center of […]\nThe post Why Businesses Choose MetaWMS for Dynamics 365 Business Central appeared first on ERP Software Blog.\nTop 5 Dynamics 365 Business Central and NAV Add-Ons that will Transform your Business Process\nChance to Win a Mobile Device when you Attend Business Central Webinar\nEverything you need to know about Warehouse Order Picking Methods",
+          "link": "https://erpsoftwareblog.com/2025/10/metawms-for-dynamics-365-business-central/",
+          "publishedOn": "2025-10-30T15:50:14.000Z",
+          "wordCount": 8565,
+          "title": "Why Businesses Choose MetaWMS for Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MetaWMS-1.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136578",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nWhen we needed a sales app that worked the way our team does, we built it in Dynamics 365. Here's what that looks like and what you can learn from […]\nThe post How We Built Our Sales App in Dynamics 365 appeared first on ERP Software Blog.\nThe Basics of Globalization Studio in Microsoft Dynamics 365 Finance\nThe Journey Build Nobody Talks About (Messy but Real)\nThe Latest Changes to Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2025/10/how-we-built-our-sales-app-in-dynamics-365/",
+          "publishedOn": "2025-10-30T15:09:41.000Z",
+          "wordCount": 6901,
+          "title": "How We Built Our Sales App in Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-32.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136571",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nToday, most businesses use different types of software such as CRM, ERP, marketing, and support tools to manage their daily operations. Each system adds value in its own area, but […]\nThe post Unifying Business Systems with Modern Integration at DAX appeared first on ERP Software Blog.\nMappings in x2x Acumatica and RMH Integration\nCan My ERP System And Business Related Software Work Together?\nAdd Dashboards To Your ERP/Accounting System For A Winning Combination",
+          "link": "https://erpsoftwareblog.com/2025/10/unifying-business-systems-with-modern-integration-at-dax/",
+          "publishedOn": "2025-10-30T12:52:31.000Z",
+          "wordCount": 7368,
+          "title": "Unifying Business Systems with Modern Integration at DAX",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/unifying-business-systems-with-modern-integration-at-dax.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136561",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nRunning a business efficiently often comes down to how well your systems work together. Many growing organizations face challenges with scattered tools and manual processes — that’s where Beyond Key […]\nThe post Drive results Beyond Key and Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nWhat is Microsoft Dynamics 365 Business Central? - Webinar\nAdvanced Budgeting, Reporting and Consolidates Empowering Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/10/drive-results-beyond-key-and-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2025-10-30T08:52:45.000Z",
+          "wordCount": 6648,
+          "title": "Drive results Beyond Key and Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/microsoft-dynamics-365-business-central-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136562",
+          "author": "Volt Technologies",
+          "description": "xxx\nThe apparel manufacturing industry is entering a new era of speed, customization, and sustainability. Customers expect fast turnarounds, more variants (styles, sizes, colours), and higher transparency, all while profits are […]\nThe post Top 7 Business Central Features for Apparel Manufacturers in 2026 appeared first on ERP Software Blog.\nProcess, Discrete and Mixed Mode Manufacturing; 3 Business Issues - 3 Dynamic Solutions!\nReal Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP\nStila Cosmetics Selects Dynamics ERP Over Oracle And Sage",
+          "link": "https://erpsoftwareblog.com/2025/10/top-7-business-central-features-for-apparel-manufacturers-in-2026/",
+          "publishedOn": "2025-10-30T08:23:08.000Z",
+          "wordCount": 6947,
+          "title": "Top 7 Business Central Features for Apparel Manufacturers in 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Volt-web-featured-19.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=136032",
           "author": "ArcherPoint",
@@ -34935,6 +35015,56 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/protect-your-cloud-pc-apps-before-it-is-too-late-youtube",
+          "author": "shabaz darr",
+          "description": "🔐 Protect Your Cloud PC Apps Before It Is Too Late! In this episode, I dive deep into securing your Windows 365 Cloud PC environment using Microsoft Defender for Cloud Apps (MDCA) — formerly known as Microsoft Cloud App Security (MCAS). 🚨 With the rise of remote work and hybrid environments, securing SaaS applications and […]\nThe post Protect Your Cloud PC Apps Before It Is Too Late! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/protect-your-cloud-pc-apps-before-it-is-too-late-youtube",
+          "publishedOn": "2025-10-30T14:00:49.000Z",
+          "wordCount": 2036,
+          "title": "Protect Your Cloud PC Apps Before It Is Too Late! – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/add-list-of-session-registrations-to-internal-notification-email-in-customer-insights",
+          "author": "Megan V. Walker",
+          "description": "I’ve written previous posts about internal email notifications for marketing form submissions, and how to gather information if it’s related to an Event Registration. This post expands on that and explains how you can also provide information on which sessions the person registered for. By default, each session registered for gets a field submission including […]\nThe post Add List Of Session Registrations To Internal Notification Email In Customer Insights appeared first on 365 Community Online.",
+          "link": "https://365community.online/add-list-of-session-registrations-to-internal-notification-email-in-customer-insights",
+          "publishedOn": "2025-10-30T08:20:00.000Z",
+          "wordCount": 3004,
+          "title": "Add List Of Session Registrations To Internal Notification Email In Customer Insights",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Add-List-Of-Session-Registrations-To-Internal-Notification-Email-In.jpg"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-and-azure-front-door-issue",
+          "author": "Stefano Demiliani",
+          "description": "Yesterday I received (and read) lots of messages by many partners and customers related to the unavailability of the Dynamics 365 Business Central SaaS service for some period. The issue was not a Dynamics 365 Business Central-related issue, but the cause of this unreliability was a different service: Azure Front Door. Azure Front Door is […]\nThe post Dynamics 365 Business Central and Azure Front Door issue. appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamics-365-business-central-and-azure-front-door-issue",
+          "publishedOn": "2025-10-30T08:11:00.000Z",
+          "wordCount": 2698,
+          "title": "Dynamics 365 Business Central and Azure Front Door issue.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/10/Dynamics-365-Business-Central-and-Azure-Front-Door-issue.jpg"
+        },
+        {
+          "id": "https://365community.online/export-dynamics-365-reports-to-pdf-automatically-step-by-step-guide",
+          "author": "Inogic",
+          "description": "Generating and sharing Dynamics 365 reports shouldn’t take hours each week. Yet many users still spend time manually exporting reports, converting them to PDF, and emailing them to stakeholders, often multiple times. This guide walks you through two efficient ways to export Dynamics 365 reports to PDF: Manual Export: Ideal for one-time or ad-hoc reporting […]\nThe post Export Dynamics 365 Reports to PDF Automatically: Step-by-Step Guide appeared first on 365 Community Online.",
+          "link": "https://365community.online/export-dynamics-365-reports-to-pdf-automatically-step-by-step-guide",
+          "publishedOn": "2025-10-30T05:52:00.000Z",
+          "wordCount": 3103,
+          "title": "Export Dynamics 365 Reports to PDF Automatically: Step-by-Step Guide",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/master-power-bi-from-scratch%f0%9f%91%89simple-practical-guide-powerbi-dataanalytics-youtube",
+          "author": "Manish chauhan",
+          "description": "Master Power BI from scratch to pro!Start your data journey with our complete Power BI course playlist : simple & practical. #powerbi #dataanalytics source\nThe post Master Power BI from Scratch!👉Simple & Practical Guide. #powerbi #dataanalytics – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/master-power-bi-from-scratch%f0%9f%91%89simple-practical-guide-powerbi-dataanalytics-youtube",
+          "publishedOn": "2025-10-30T05:15:28.000Z",
+          "wordCount": 1858,
+          "title": "Master Power BI from Scratch!👉Simple & Practical Guide. #powerbi #dataanalytics – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/exam-ab-100-agentic-ai-business-solutions-architect",
           "author": "thecrmninja",
@@ -74721,26 +74851,6 @@
           "wordCount": 4115,
           "title": "Users can extract the tables list from Data entity – D365F&O",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2023/11/image-2.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3049",
-          "author": "AnithaEswaran",
-          "description": "A data entity that is named Feature management lets you export the Feature management settings from one environment and then import them into another environment. This entity updates only existing features. The business logic in the entity also helps guarantee that the … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/11/01/data-entity-export-import-for-feature-management/",
-          "publishedOn": "2023-11-01T07:51:37.000Z",
-          "wordCount": 4257,
-          "title": "Data entity Export/Import for Feature Management",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-14.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3046",
-          "author": "AnithaEswaran",
-          "description": "Mainstream support for Dynamics AX 2009 Service Pack 1 (SP1), Dynamics AX 2012, and Dynamics AX 2012 R2 ended on October 9, 2018. Security hotfixes were provided for those three versions through the extended support period, which ended on April … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/10/31/end-of-mainstream-support-for-microsoft-dynamics-ax-2009-dynamics-ax-2012-dynamics-ax-2012-r2-and-dynamics-ax-2012-r3/",
-          "publishedOn": "2023-10-31T17:29:25.000Z",
-          "wordCount": 4033,
-          "title": "End of mainstream support for Microsoft Dynamics AX 2009, Dynamics AX 2012, Dynamics AX 2012 R2, and Dynamics AX 2012 R3",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/06/community_5f00_badge_5f00_logo_2d00_01.png?w=143"
         }
       ]
     },
@@ -80791,16 +80901,6 @@
           "wordCount": 12202,
           "title": "Add the Back (Close) and Save Buttons to Print Management Setup",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/D365Blog_AddBackAndSaveButtonsToPrintMgmt_MainImage.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27582",
-          "author": "Jovica Zivkovic",
-          "description": "Have you ever noticed how Dynamics 365 for Finance and Operations (D365FO) initially loads at a snail's pace 🐌 but then speeds up 🚀 when you revisit the same form? That's the magic of caching at work! Caching boosts your application's speed and performance by […]\nThe post SysGlobalCache versus SysGlobalObjectCache in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/sysglobalcache-versus-sysglobalobjectcache-in-d365fo/",
-          "publishedOn": "2023-11-01T00:10:48.000Z",
-          "wordCount": 14191,
-          "title": "SysGlobalCache versus SysGlobalObjectCache in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_SysGlobalCache_Title.jpg"
         }
       ]
     },
