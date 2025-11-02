@@ -1527,6 +1527,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=134409",
+          "author": "Boyer &#38; Associates",
+          "description": "xxx\nAnother regulatory notice hits your inbox at 3 AM – new ESG (environmental, social, and governance) reporting requirements that need implementation by quarter-end. Sounds familiar? If you're a business executive […]\nThe post Navigating the global compliance maze: why D365 Finance is your best business partner appeared first on ERP Software Blog.\nDynamics 365 Tutorials Help You Get up and Running Fast\nDynamics 365 for Finance and Operations Goes Mobile\nMicrosoft Dynamics 365 Overview",
+          "link": "https://erpsoftwareblog.com/2025/11/navigating-the-global-compliance-maze-why-d365-finance-is-your-best-business-partner/",
+          "publishedOn": "2025-11-01T20:25:11.000Z",
+          "wordCount": 7885,
+          "title": "Navigating the global compliance maze: why D365 Finance is your best business partner",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BoyerFSCMCmdCtr-625x603.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=136647",
           "author": "Solver Inc",
           "description": "xxx\nSolver had an incredible experience at Community Summit North America 2025 in Orlando, where we proudly participated as a Premier Sponsor. The event brought together thousands of Microsoft Dynamics users, partners, and thought leaders for a week […]\nThe post Solver at Community Summit North America 2025: Unleashing the x Factor appeared first on ERP Software Blog.\nHow ChatGPT and Microsoft Copilot Boost Productivity\nBuild a Copilot AI-First Go-to-Market Strategy for FY26\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary",
@@ -35077,16 +35087,6 @@
           "wordCount": 1792,
           "title": "New Features in 2023 Release Wave 2 for Dynamics 365 Business Central",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=59930",
-          "author": "Mike Harris",
-          "description": "How to Optimize User Experience in Dynamics 365 Business Central by Adding Fields to Pages\nThere’s a new capability in Dynamics 365 Business Central, and it will allow you to easily tailor the user experience to different roles. Users were already able to modify information on a page to hide, show, or move parts around, however not all fields from the underlying table were available, and if you wanted to...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/add-fields-to-pages-in-d365-business-central/",
-          "publishedOn": "2023-11-02T15:27:45.000Z",
-          "wordCount": 1519,
-          "title": "How to Optimize User Experience in Dynamics 365 Business Central by Adding Fields to Pages",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
         }
       ]
     },
@@ -35095,6 +35095,46 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/your-guide-to-successful-crm-implementation",
+          "author": "Chris Roberts",
+          "description": "From a blank page to go live, these phases are designed to help you every step of the way As a Customer Service Director, you recognise the enormous pressure when systems fail. Housing associations are often trapped. They are forced to rely on rigid, expensive, and outdated systems. These systems actively prevent colleagues from providing […]\nThe post Your Guide to Successful CRM Implementation appeared first on 365 Community Online.",
+          "link": "https://365community.online/your-guide-to-successful-crm-implementation",
+          "publishedOn": "2025-11-01T17:14:00.000Z",
+          "wordCount": 39907,
+          "title": "Your Guide to Successful CRM Implementation",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Your-Guide-to-Successful-CRM-Implementation.png"
+        },
+        {
+          "id": "https://365community.online/how-to-find-sunday-and-saturday-of-the-current-week-using-liquid-in-power-pages",
+          "author": "michelcarlo",
+          "description": "Recently, I needed to run some date calculations in Liquid to detect what the start date (Sunday) or end date (Saturday) of the current week is, and I found there was no trivial filter in Power Pages’ Liquid for that. But by doing some data manipulation, we can achieve that. The basics The date filter […]\nThe post How to Find Sunday and Saturday of the Current Week Using Liquid in Power Pages appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-find-sunday-and-saturday-of-the-current-week-using-liquid-in-power-pages",
+          "publishedOn": "2025-11-01T10:27:00.000Z",
+          "wordCount": 39258,
+          "title": "How to Find Sunday and Saturday of the Current Week Using Liquid in Power Pages",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/liquid-date.png"
+        },
+        {
+          "id": "https://365community.online/transforming-field-operations-with-ai-azure-maps-dynamics-365",
+          "author": "Inogic",
+          "description": "Efficient field operations are the backbone of successful, data-driven organizations. Yet, many businesses continue to struggle with scattered CRM data, route inefficiencies, and time-consuming manual planning. If your team often spends more time figuring out “where to go next” than actually getting things done, it’s time to bring clarity and intelligence into your operations. With […]\nThe post Transforming Field Operations with AI, Azure Maps & Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/transforming-field-operations-with-ai-azure-maps-dynamics-365",
+          "publishedOn": "2025-11-01T06:48:00.000Z",
+          "wordCount": 39647,
+          "title": "Transforming Field Operations with AI, Azure Maps & Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Azure-Maps-Dynamics-365-scaled.png"
+        },
+        {
+          "id": "https://365community.online/exploring-umbraco-headless-capabilities-for-omnichannel-delivery",
+          "author": "Jeroen Burgerhout",
+          "description": "Businesses and organizations must deliver content consistently across websites, mobile apps, smart devices, voice assistants and more. That means a modern content management platform must support accurate omnichannel delivery. This is where Umbraco CMS development shines, primarily through its headless and hybrid options. In this article, we will explore how Umbraco’s headless capabilities make it […]\nThe post Exploring Umbraco Headless Capabilities for Omnichannel Delivery appeared first on 365 Community Online.",
+          "link": "https://365community.online/exploring-umbraco-headless-capabilities-for-omnichannel-delivery",
+          "publishedOn": "2025-11-01T05:33:00.000Z",
+          "wordCount": 39460,
+          "title": "Exploring Umbraco Headless Capabilities for Omnichannel Delivery",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Exploring-Umbraco-Headless-Capabilities-for-Omnichannel-Delivery.png"
+        },
         {
           "id": "https://365community.online/ai-powered-faq-webpart-in-sharepoint-online",
           "author": "Marcin Siewnicki",
@@ -75021,16 +75061,6 @@
           "wordCount": 4313,
           "title": "OData query options with D365F&O (Part 1)",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2023/11/image-6.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3054",
-          "author": "AnithaEswaran",
-          "description": "We are aware that Data Entities in D365F&O represent a specific data object, typically corresponding to a table or view in the underlying database. They define the structure and attributes of the data they represent. From a technical background , … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/11/02/users-can-extract-the-tables-list-from-data-entity-d365fo/",
-          "publishedOn": "2023-11-02T14:43:09.000Z",
-          "wordCount": 4115,
-          "title": "Users can extract the tables list from Data entity – D365F&O",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/11/image-2.png"
         }
       ]
     },
@@ -81488,26 +81518,6 @@
           "wordCount": 5840,
           "title": "Installing and Configuring Dynamics 365 Expense Management Mobile App",
           "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/11/Dynamics-365-Expense-Management-Mobile-App.png"
-        },
-        {
-          "id": "http://paragchapre.com/?p=12220",
-          "author": "paragchapre@gmail.com",
-          "description": "\"Power for HR: Transform your HR processes with Power Platform Enterprise Templates\nThe post Power for HR: Transform your HR processes with Power Platform Enterprise Templates appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/power-for-hr-power-platform-enterprise-templates/",
-          "publishedOn": "2023-11-02T23:58:31.000Z",
-          "wordCount": 2409,
-          "title": "Power for HR: Transform your HR processes with Power Platform Enterprise Templates",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/11/Power-for-HR.png"
-        },
-        {
-          "id": "http://paragchapre.com/?p=12220",
-          "author": "paragchapre@gmail.com",
-          "description": "\"Power for HR: Transform your HR processes with Power Platform Enterprise Templates\nThe post Power for HR: Transform your HR processes with Power Platform Enterprise Templates appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/power-for-hr-power-platform-enterprise-templates/?utm_source=rss&utm_medium=rss&utm_campaign=power-for-hr-power-platform-enterprise-templates",
-          "publishedOn": "2023-11-02T23:58:31.000Z",
-          "wordCount": 5779,
-          "title": "Power for HR: Transform your HR processes with Power Platform Enterprise Templates",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/11/Power-for-HR.png"
         }
       ]
     },
