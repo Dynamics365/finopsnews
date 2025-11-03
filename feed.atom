@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-02T01:52:07.112Z</updated>
+    <updated>2025-11-03T01:51:18.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding LLM performance degradation: a deep dive into Context Window limits]]></title>
+        <id>https://365community.online/understanding-llm-performance-degradation-a-deep-dive-into-context-window-limits</id>
+        <link href="https://365community.online/understanding-llm-performance-degradation-a-deep-dive-into-context-window-limits"/>
+        <updated>2025-11-02T20:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) have revolutionized how we interact with AI, but they come with a critical constraint: the context window. This limitation isn’t just a theoretical boundary, but it has real, measurable impacts on performance. I discussed about this topic some weeks ago in an AI training I’ve done in Microsoft Italy, and (as […]
+The post Understanding LLM performance degradation: a deep dive into Context Window limits appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Signs Your Chemical Manufacturing System Is Holding You Back]]></title>
+        <id>https://erpsoftwareblog.com/?p=136655</id>
+        <link href="https://erpsoftwareblog.com/2025/11/5-signs-your-chemical-manufacturing-system-is-holding-you-back/"/>
+        <updated>2025-11-02T18:49:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Quick Answer   Q: What are the signs that your chemical manufacturing system needs replacing?A: If you rely on spreadsheets for batch tracking, struggle with compliance documentation, can’t calculate true yield […]
+The post 5 Signs Your Chemical Manufacturing System Is Holding You Back appeared first on ERP Software Blog.
+Three ERP Implementation Tips for SMB Manufacturers
+December GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022
+Does My Manufacturing Business Need to Integrate PLM and ERP?]]></summary>
+        <author>
+            <name>Stephanie E. Clark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Need Consistency In Content Creation – YouTube]]></title>
+        <id>https://365community.online/why-you-need-consistency-in-content-creation-youtube</id>
+        <link href="https://365community.online/why-you-need-consistency-in-content-creation-youtube"/>
+        <updated>2025-11-02T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[🎥 Why You Need Consistency In Content Creation 🎥 In this video, I share my personal journey and lessons learned from building my YouTube channel — specifically around the power of consistency in publishing content. 📌 What I cover: – Why publishing on the same days each week builds audience trust and engagement – How […]
+The post Why You Need Consistency In Content Creation – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn D365 Data into a Custom Agent using Copilot Studio and Dataverse]]></title>
+        <id>https://365community.online/turn-d365-data-into-a-custom-agent-using-copilot-studio-and-dataverse-2</id>
+        <link href="https://365community.online/turn-d365-data-into-a-custom-agent-using-copilot-studio-and-dataverse-2"/>
+        <updated>2025-11-02T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[I had so many ideas today, and then none of them made sense. So I decided to keep it simple. Today I will show you how to create an Agent using Copilot Studio  and connecting it with some entities that are available in Dataverse. These will act a source for the agent coming from Dynamics […]
+The post Turn D365 Data into a Custom Agent using Copilot Studio and Dataverse appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Fall Release: Everything You Need to Know for Dynamics 365 Users!]]></title>
+        <id>https://365community.online/copilot-fall-release-everything-you-need-to-know-for-dynamics-365-users</id>
+        <link href="https://365community.online/copilot-fall-release-everything-you-need-to-know-for-dynamics-365-users"/>
+        <updated>2025-11-02T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has officially dropped the Copilot Fall Release, and it marks a significant evolution in the world of generative AI. Going beyond the headlines and hype, this release is founded on a principle Microsoft AI CEO Mustafa Suleyman calls “human-centered AI.” The core mission is to shift the technology from demanding attention to giving users […]
+The post Copilot Fall Release: Everything You Need to Know for Dynamics 365 Users! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn D365 Data into a Custom Agent using Copilot Studio and Dataverse]]></title>
+        <id>https://365community.online/turn-d365-data-into-a-custom-agent-using-copilot-studio-and-dataverse</id>
+        <link href="https://365community.online/turn-d365-data-into-a-custom-agent-using-copilot-studio-and-dataverse"/>
+        <updated>2025-11-02T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[I had so many ideas today, and then none of them made sense. So I decided to keep it simple. Today I will show you how to create an Agent using Copilot Studio and connecting it with some entities that are available in Dataverse. These will act a source for the agent coming from Dynamics […]
+The post Turn D365 Data into a Custom Agent using Copilot Studio and Dataverse appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Useless Pyramid of R needs]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10624</id>
+        <link href="https://tomaztsql.wordpress.com/2025/11/02/little-useless-useful-r-functions-useless-pyramid-of-r-needs/"/>
+        <updated>2025-11-02T09:21:47.000Z</updated>
+        <summary type="html"><![CDATA[What motivates human behaviour can be captured in the Maslow’s hierarchy of needs (source: Wiki). Maslow and psychologists have articulated these needs in a form of a Pyramid, and ever since the concept had been widely adopted (also criticised), and…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navigating the global compliance maze: why D365 Finance is your best business partner]]></title>
         <id>https://erpsoftwareblog.com/?p=134409</id>
@@ -103059,73 +103140,6 @@ The post D365 TTSBegin and TTSCommit appeared first on Dynamics 365 Musings.]]><
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add the Back (Close) and Save Buttons to Print Management Setup]]></title>
-        <id>https://ax.docentric.com/?p=27667</id>
-        <link href="https://ax.docentric.com/add-the-back-and-save-buttons-to-print-management-setup/"/>
-        <updated>2023-11-04T00:45:32.000Z</updated>
-        <summary type="html"><![CDATA[As D365FO Reporting and Print management experts, we’ve frequently been asked - where is, for goodness’ sake, the Close button (which became the Back button in the meantime 😀) on the Print management setup form. We also saw the feature request on Dynamics 365 Application […]
-The post Add the Back (Close) and Save Buttons to Print Management Setup appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Vilko Jenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How does Microsoft Dynamics deliver secure data to your team members?]]></title>
-        <id>https://erpsoftwareblog.com/?p=101750</id>
-        <link href="https://erpsoftwareblog.com/2023/11/how-does-microsoft-dynamics-deliver-secure-data-to-your-team-members-2/"/>
-        <updated>2023-11-03T20:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Harnessing the Power of Intelligence- In an era where data permeates every facet of our lives, every business has evolved into a data-driven entity. The real question is: how can …  How does Microsoft Dynamics deliver secure data to your team members? Read More »
-The post How does Microsoft Dynamics deliver secure data to your team members? appeared first on ERP Software Blog.
-A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge
-3 ways to optimize your financial processes with Business Central
-Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting]]></summary>
-        <author>
-            <name>Accountnet, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best ERP Systems Of 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=101746</id>
-        <link href="https://erpsoftwareblog.com/2023/11/best-erp-systems/"/>
-        <updated>2023-11-03T20:16:20.000Z</updated>
-        <summary type="html"><![CDATA[As we step into 2024, the ecosystem of ERP solutions is more dynamic than ever, with advancements in cloud computing, AI, and machine learning leading the charge. This guide to …  Best ERP Systems Of 2024 Read More »
-The post Best ERP Systems Of 2024 appeared first on ERP Software Blog.
-Infographic: The Key Factors For A Successful ERP Implementation
-Project-driven Companies Hit It Out of the Park with Microsoft Dynamics SL
-Build Your Own WMS Apps for Microsoft Dynamics]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insight Works Adds 18 Microsoft Partners to Reseller Network]]></title>
-        <id>https://erpsoftwareblog.com/?p=101741</id>
-        <link href="https://erpsoftwareblog.com/2023/11/insight-works-adds-18-microsoft-partners-to-reseller-network/"/>
-        <updated>2023-11-03T18:56:35.000Z</updated>
-        <summary type="html"><![CDATA[In a strategic move to enhance ERP solutions worldwide, Insight Works integrates 18 new Microsoft Partners into their reseller program.
-The post Insight Works Adds 18 Microsoft Partners to Reseller Network appeared first on ERP Software Blog.
-Achieving ROI with a Best-of-Breed Warehouse Management Solution (WMS)
-Free Business Central Apps to Fill the Gaps
-WithoutWire™ Partial Picking – Minimizing the Impact of Changing Sales Orders]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Your Financial Reporting on Dynamics Feel Like a House of Cards?]]></title>
-        <id>https://erpsoftwareblog.com/?p=101729</id>
-        <link href="https://erpsoftwareblog.com/2023/11/does-your-financial-reporting-on-dynamics-feel-like-a-house-of-cards/"/>
-        <updated>2023-11-03T15:49:10.000Z</updated>
-        <summary type="html"><![CDATA[If your organization has complex reporting needs – like multiple entities or frequently changing reporting demands – then you may relate to the feeling that accounting professionals get during the …  Does Your Financial Reporting on Dynamics Feel Like a House of Cards? Read More »
-The post Does Your Financial Reporting on Dynamics Feel Like a House of Cards? appeared first on ERP Software Blog.
-How is Microsoft Dynamics Financial Reporting so Important in 2018?
-How Can Microsoft Dynamics GP Enable Better Controls?
-How Can Microsoft Dynamics Point You in the Right Direction?]]></summary>
-        <author>
-            <name>FYIsoft, Inc.</name>
         </author>
     </entry>
     <entry>
