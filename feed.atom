@@ -2,10 +2,303 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-04T01:46:47.778Z</updated>
+    <updated>2025-11-05T01:48:44.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to use AI for dynamic data transformations in integrations]]></title>
+        <id>https://devblog.sertanyaman.com/?p=4146</id>
+        <link href="https://devblog.sertanyaman.com/2025/11/04/how-to-use-ai-for-dynamic-data-transformations-in-integrations/"/>
+        <updated>2025-11-04T20:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Data transformation is an essential part of our integrations, and we have many tools and options to perform them with pre-determined rules and schemas. However, we may run into integration scenarios where using deterministic schemas is not feasible or too difficult to maintain. Some API’s change their schema version nearly every day, like open-source web … Continue reading How to use AI for dynamic data transformations in integrations]]></summary>
+        <author>
+            <name>Tayfun Sertan Yaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Webinar: Manage Equipment Maintenance in Business Central: Plan Smarter, Prevent Downtime]]></title>
+        <id>https://erpsoftwareblog.com/?p=136681</id>
+        <link href="https://erpsoftwareblog.com/2025/11/eu-webinar-manage-equipment-maintenance-in-business-central-plan-smarter-prevent-downtime/"/>
+        <updated>2025-11-04T20:00:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Join this webinar and learn to streamline maintenance tasks, stay ahead of equipment issues, and keep everything in sync, right inside Business Central.
+The post EU Webinar: Manage Equipment Maintenance in Business Central: Plan Smarter, Prevent Downtime appeared first on ERP Software Blog.
+Heads Up: Successful Forecasting and Demand Planning with AGR
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – “Action cannot be performed. This quote is not owned by Dynamics 365 Sales” in Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/fixed-action-cannot-be-performed-this-quote-is-not-owned-by-dynamics-365-sales-in-dataverse-dynamics-365</id>
+        <link href="https://365community.online/fixed-action-cannot-be-performed-this-quote-is-not-owned-by-dynamics-365-sales-in-dataverse-dynamics-365"/>
+        <updated>2025-11-04T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, while working with Quotes in Dynamics 365 Sales integrated with Supply Chain Management (SCM) through Dual-write, we encountered an interesting error while trying to activate an existing quote. When attempting to activate Quote, the system threw the following error message: Checking the Plugin Trace Log, we found the following details: Entered Microsoft.Dynamics.SCMExtended.Plugins.QuotePreUpdate.Execute(), Correlation Id: […]
+The post Fixed – “Action cannot be performed. This quote is not owned by Dynamics 365 Sales” in Dataverse / Dynamics 365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time, Expense, and the AI Reckoning Inside Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=136731</id>
+        <link href="https://erpsoftwareblog.com/2025/11/time-expense-ai-reckoning-dynamics-365/"/>
+        <updated>2025-11-04T16:42:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A Real Lesson from Dynamics Summit 2025: Automation Isn’t About Speed Anymore At Dynamics Summit 2025, the conversations around AI had shifted. 2024 was about potential. 2025 was about what's […]
+The post Time, Expense, and the AI Reckoning Inside Dynamics 365 appeared first on ERP Software Blog.
+How to Fix Your Timesheet & Expense Pain Points in Dynamics 365: Actionable Solutions & When to Upgrade
+Why Artificial Intelligence is not as dangerous as you think
+How Microsoft Dynamics 365 Business Central Helps Manufacturers Meet Challenges]]></summary>
+        <author>
+            <name>DATABASICS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up Custom Views in Dynamics 365 Sales]]></title>
+        <id>https://erpsoftwareblog.com/?p=136747</id>
+        <link href="https://erpsoftwareblog.com/2025/11/setting-up-custom-views-in-dynamics-365-sales/"/>
+        <updated>2025-11-04T16:38:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  In our last post, we covered setting up the basics of Dynamics 365 Sales. Now let's talk about views—how to customize what you see and share those customizations with […]
+The post Setting Up Custom Views in Dynamics 365 Sales appeared first on ERP Software Blog.
+The Consumerization of Online B2B Sales
+Microsoft Dynamics 365 for Sales Management
+How Dynamics 365 Makes the Job of an Accountant Easier]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP to BC Migration Pitfalls: Underestimating Timeline and Internal Resource Needs]]></title>
+        <id>https://erpsoftwareblog.com/?p=136748</id>
+        <link href="https://erpsoftwareblog.com/2025/11/underestimating-timeline-and-internal-resource-needs/"/>
+        <updated>2025-11-04T16:38:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Building a Realistic GP to Business Central Migration Timeline Migrating from Microsoft Dynamics GP to Business Central isn’t a quick system upgrade — it’s a full ERP implementation that impacts […]
+The post GP to BC Migration Pitfalls: Underestimating Timeline and Internal Resource Needs appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>TrinSoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Glossary –  Core Terms]]></title>
+        <id>https://365community.online/dynamics-365-glossary-core-terms</id>
+        <link href="https://365community.online/dynamics-365-glossary-core-terms"/>
+        <updated>2025-11-04T16:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Core data concepts What is a Table in Dynamics 365? A Table is a data structure in Dataverse that stores records. It was previously called an Entity. Tables contain columns and rows, similar to a database table. What is a Record in Dynamics 365? A Record is a single row of data in a table. […]
+The post Dynamics 365 Glossary –  Core Terms appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Glossary – Advanced terms]]></title>
+        <id>https://365community.online/dynamics-365-glossary-advanced-terms</id>
+        <link href="https://365community.online/dynamics-365-glossary-advanced-terms"/>
+        <updated>2025-11-04T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Security & Access What is a User in Dynamics 365? A User is an individual with access to a Dynamics 365 environment. Users are authenticated through Microsoft Entra ID (formerly Azure Active Directory) and assigned security roles. What is a Team in Dynamics 365? A Team is a group of users that can share ownership […]
+The post Dynamics 365 Glossary – Advanced terms appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central crosses 50,000 companies: What Microsoft’s Directions EMEA 2025 announcement means for the future]]></title>
+        <id>https://erpsoftwareblog.com/?p=136732</id>
+        <link href="https://erpsoftwareblog.com/2025/11/business-central-crosses-50000-companies-what-microsofts-directions-emea-2025-announcement-means-for-the-future/"/>
+        <updated>2025-11-04T15:02:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+At Directions EMEA 2025 in Poznań, Microsoft confirmed a major milestone: Dynamics 365 Business Central now powers more than 50,000 companies worldwide. The announcement drew a standing ovation, marking a […]
+The post Business Central crosses 50,000 companies: What Microsoft’s Directions EMEA 2025 announcement means for the future appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365]]></summary>
+        <author>
+            <name>Domain 6 Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a Small Business Grows Up: Staying Sane with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=136702</id>
+        <link href="https://erpsoftwareblog.com/2025/11/when-a-small-business-grows-up-staying-sane-with-business-central/"/>
+        <updated>2025-11-04T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Growth is supposed to be a good thing, right? Your business is picking up, the orders are rolling in, the phone won’t stop buzzing, and suddenly, what used to fit […]
+The post When a Small Business Grows Up: Staying Sane with Business Central appeared first on ERP Software Blog.
+A Guide to A Stress-Free Tax Season for AP
+Key Trends for Accounts Payable in 2025
+Mekorma Payment Hub v1.0 for Business Central is here!]]></summary>
+        <author>
+            <name>On Point Services US LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nerdio NME Top 10 Features – No 2: Auto Heal – YouTube]]></title>
+        <id>https://365community.online/nerdio-nme-top-10-features-no-2-auto-heal-youtube</id>
+        <link href="https://365community.online/nerdio-nme-top-10-features-no-2-auto-heal-youtube"/>
+        <updated>2025-11-04T14:01:43.000Z</updated>
+        <summary type="html"><![CDATA[🔧 Nerdio Wednesday – Top 10 NME Features | #2: Auto-Healing Session Hosts 🔧 Welcome back to Nerdio Wednesday! In this second episode of my Top 10 Nerdio Manager for Enterprise (NME) Features series, we’re diving into one of the most powerful automation tools in the Nerdio arsenal — Auto-Healing Session Hosts. 💥 Why is […]
+The post Nerdio NME Top 10 Features – No 2: Auto Heal – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft SharePoint Training | SharePoint Full Course | SharePoint Course | MindMajix – YouTube]]></title>
+        <id>https://365community.online/microsoft-sharepoint-training-sharepoint-full-course-sharepoint-course-mindmajix-youtube</id>
+        <link href="https://365community.online/microsoft-sharepoint-training-sharepoint-full-course-sharepoint-course-mindmajix-youtube"/>
+        <updated>2025-11-04T13:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Microsoft SharePoint course by MindMajix. In this SharePoint training, you’ll learn about SharePoint architecture, sites, lists, libraries, workflows, permissions, and integration with Microsoft 365. You’ll also work on practical projects where you’ll learn how to create team sites, automate business processes, manage content, and collaborate efficiently across your organization. This SharePoint tutorial […]
+The post Microsoft SharePoint Training | SharePoint Full Course | SharePoint Course | MindMajix – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Model Creation in Dynamics 365 F&O – A Developer’s Toolkit]]></title>
+        <id>https://erpsoftwareblog.com/?p=136727</id>
+        <link href="https://erpsoftwareblog.com/2025/11/mastering-model-creation-in-dynamics-365-fo-a-developers-toolkit/"/>
+        <updated>2025-11-04T13:40:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics 365 F&O: How to Set Up a New Model from Scratch?  Alright, let’s cut to the chase. If you’ve ever worked in Dynamics 365 Finance and Operations development, you know how easy it is […]
+The post Mastering Model Creation in Dynamics 365 F&O – A Developer’s Toolkit appeared first on ERP Software Blog.
+Your Ultimate Resource Guide for Upgrading from Dynamics AX to D365 Finance and Supply Chain
+5 Ways PLM ERP Integration Improves Supply Chain Agility
+Field Service vs. DynaRent Mobile: Mobile Apps on Dynamics 365 for Rental Operations]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Cost of Poor Inventory Visibility (And How to Fix It)]]></title>
+        <id>https://erpsoftwareblog.com/?p=136719</id>
+        <link href="https://erpsoftwareblog.com/2025/11/inventory-visibility-challenges/"/>
+        <updated>2025-11-04T12:58:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’ve ever walked through a warehouse and thought, “Wait, how do we have so many of these in stock?” or “Why are we out of that again?”, you already […]
+The post The Hidden Cost of Poor Inventory Visibility (And How to Fix It) appeared first on ERP Software Blog.
+Benefits of Barcode Scanning and Lot Tracking in Modern Warehouse Management
+How you can Improve Workflow Efficiency in your Warehouse?
+Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Big ERP or CRM Software Project is Bleeding Budget?]]></title>
+        <id>https://erpsoftwareblog.com/?p=136711</id>
+        <link href="https://erpsoftwareblog.com/2025/11/why-your-big-erp-or-crm-software-project-is-bleeding-budget/"/>
+        <updated>2025-11-04T12:40:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You remember the feeling. The kick-off meeting was all energy and optimism. The slides showed a future of seamless workflows, happy customers, and data-driven decisions. The budget was approved, the […]
+The post Why Your Big ERP or CRM Software Project is Bleeding Budget? appeared first on ERP Software Blog.
+Dynamics GP Shipping Software Integration: Three Key Cost Saving Benefits
+VIDEO: See How Dynamics 365 Business Central Integrates with Outlook!
+What’s New in Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Beyond Key (Dynamics CRM Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I did a thing!]]></title>
+        <id>https://365community.online/i-did-a-thing</id>
+        <link href="https://365community.online/i-did-a-thing"/>
+        <updated>2025-11-04T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Background For years, I’ve had this itch: What if I could build my own app experience on top of Dynamics 365 — something cleaner, faster, and more modern than a Model-Driven App? Model-Driven Apps gave us structure.Canvas Apps gave us freedom.Power Pages brought external users into the mix. But the truth?Every time I looked over […]
+The post I did a thing! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Thomas Sandsør</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Project Operations: Pros, cons, pricing & best alternatives]]></title>
+        <id>https://erpsoftwareblog.com/?p=135314</id>
+        <link href="https://erpsoftwareblog.com/2025/11/microsoft-dynamics-365-project-operations-pros-cons-pricing-best-alternatives/"/>
+        <updated>2025-11-04T11:00:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Modern project-centric businesses have many software options to manage projects more efficiently. One prominent choice is Microsoft Dynamics 365 Project Operations, an end-to-end solution that connects sales, project management, resource management, […]
+The post Microsoft Dynamics 365 Project Operations: Pros, cons, pricing & best alternatives appeared first on ERP Software Blog.
+Simplifying ERP Processes: Map the Way with a Microsoft 365 Information Architecture
+The secret to delivering projects on time, on budget, and within scope: a project-based ERP for professional services
+Le secret pour livrer vos projets dans les délais et budgets entendus : un ERP de gestion par projet pour les services professionnels]]></summary>
+        <author>
+            <name>proMX Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Predict4Dynamics — Coming Soon to Revolutionize Dynamics 365 Forecasting!]]></title>
+        <id>https://365community.online/introducing-predict4dynamics-coming-soon-to-revolutionize-dynamics-365-forecasting</id>
+        <link href="https://365community.online/introducing-predict4dynamics-coming-soon-to-revolutionize-dynamics-365-forecasting"/>
+        <updated>2025-11-04T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine if your Dynamics 365 CRM could predict what happens next… What if your CRM could tell you which lead is most likely to convert, when a customer might churn, or which service asset is due for maintenance — before it actually happens? For most Dynamics 365 users, this has always felt like a glimpse […]
+The post Introducing Predict4Dynamics — Coming Soon to Revolutionize Dynamics 365 Forecasting! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving User Adoption and Change Readiness in ERP Projects]]></title>
+        <id>https://erpsoftwareblog.com/?p=136714</id>
+        <link href="https://erpsoftwareblog.com/2025/11/improving-user-adoption-and-change-readiness-in-erp-projects/"/>
+        <updated>2025-11-04T10:09:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A successful ERP implementation isn’t defined only by technology—it’s defined by people. Even the most advanced system can fail if employees don’t use it effectively. User adoption and change readiness […]
+The post Improving User Adoption and Change Readiness in ERP Projects appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’
+6 Best Practices to Planning Successful ERP Implementation
+IRAP DTAPP Funding for Small Business]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Suppression List Rules And Managing Them In Customer Insights Journeys]]></title>
+        <id>https://365community.online/understanding-suppression-list-rules-and-managing-them-in-customer-insights-journeys</id>
+        <link href="https://365community.online/understanding-suppression-list-rules-and-managing-them-in-customer-insights-journeys"/>
+        <updated>2025-11-04T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you know there is a suppression list used for all of your Journeys sending emails in Customer Insights and that list is unique to your organisation? This is well documented by Microsoft as to when and why an email address you’ve sent an email to can be added to the suppression list, but how […]
+The post Understanding Suppression List Rules And Managing Them In Customer Insights Journeys appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Copilot Is Revolutionising ERP & CRM in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=136706</id>
+        <link href="https://erpsoftwareblog.com/2025/11/how-microsoft-copilot-is-revolutionising-erp-crm-in-2026/"/>
+        <updated>2025-11-04T07:52:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Artificial intelligence has moved from concept to core, and Microsoft Copilot is at the heart of that transformation within ERP and CRM. Embedded across Dynamics 365 Business Central, Sales, Finance […]
+The post How Microsoft Copilot Is Revolutionising ERP & CRM in 2026 appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI in Business Central Helps Finance Teams Collect Payments Faster]]></title>
+        <id>https://erpsoftwareblog.com/?p=136697</id>
+        <link href="https://erpsoftwareblog.com/2025/11/how-ai-in-business-central-helps-finance-teams-collect-payments-faster/"/>
+        <updated>2025-11-04T03:37:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Days sales outstanding (DSO) is one of the most telling measures of financial health. It shows how fast your business turns invoices into cash, and for many finance teams, it’s […]
+The post How AI in Business Central Helps Finance Teams Collect Payments Faster appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks]]></summary>
+        <author>
+            <name>USTPay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Routing Analysis in Business Central: Stop Guessing, Start Knowing]]></title>
         <id>https://erpsoftwareblog.com/?p=136555</id>
@@ -86,6 +379,17 @@ The Exact Minute When Customers Knew They Could Trust Commission Plan and the Et
 How to Automate Your Commissions Processing and Order Management in 2024]]></summary>
         <author>
             <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paginated Reports in Power BI (Part 2) | Step-by-Step Guide to Create a SamplePaginated Report – YouTube]]></title>
+        <id>https://365community.online/paginated-reports-in-power-bi-part-2-step-by-step-guide-to-create-a-samplepaginated-report-youtube</id>
+        <link href="https://365community.online/paginated-reports-in-power-bi-part-2-step-by-step-guide-to-create-a-samplepaginated-report-youtube"/>
+        <updated>2025-11-03T12:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Ready to take your Power BI Paginated Reports skills to the next level? 🚀 In this video, we’ll create a sample paginated report from scratch and show you how to design, format, and structure reports that look professional and print perfectly every time! You’ll learn 👇 ✅ How to build a Paginated Reports in Power […]
+The post Paginated Reports in Power BI (Part 2) | Step-by-Step Guide to Create a SamplePaginated Report – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
         </author>
     </entry>
     <entry>
@@ -103264,16 +103568,6 @@ Not All ERP is One-Size-Fits-All]]></summary>
 The post D365 TTSBegin and TTSCommit appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI make you rich?]]></title>
-        <id>http://dynamicsax-fico.com/?p=5389</id>
-        <link href="https://dynamicsax-fico.com/2023/11/06/can-ai-make-you-rich/"/>
-        <updated>2023-11-06T05:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
         </author>
     </entry>
     <entry>
