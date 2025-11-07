@@ -1518,16 +1518,6 @@
           "wordCount": 1487,
           "title": "3 things you must consider when doing the data upgrade from AX2012 to Dynamics 365",
           "imageUrl": null
-        },
-        {
-          "id": "https://impulztech.com/?p=3277",
-          "author": "Muhammad Ali",
-          "description": "In the previous section, we examined the Azure DevOps build pipeline and its role in creating a deployable software package (Part 1). In this section, We will delve into the Azure DevOps tasks designed for the release pipeline. These tasks enable you to both upload the deployable software package to a project’s asset library in […]\nThe post Setup A Release Pipeline In D365 FO – Part 2 appeared first on Impulz Technologies LLC.",
-          "link": "https://impulztech.com/setup-a-release-pipeline-in-d365-fo-part-2/",
-          "publishedOn": "2023-11-08T10:36:47.000Z",
-          "wordCount": 2097,
-          "title": "Setup A Release Pipeline In D365 FO – Part 2",
-          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-1-300x235.png"
         }
       ]
     },
@@ -1536,6 +1526,76 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=136845",
+          "author": "Insight Works",
+          "description": "xxx\nLocal Youth Football Club Teams Up with Insight Works for Seat Drop at Directions EMEA 2025 Keynote in Poznań, Poland.\nThe post Local Youth Football Club Teams Up with Insight Works for Seat Drop at Directions EMEA 2025 appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\nWhy implementing ERP and EDI together drives even greater top-line growth\nRealizing the Full Potential of Dynamics GP Manufacturing",
+          "link": "https://erpsoftwareblog.com/2025/11/local-youth-football-club-teams-up-with-insight-works-for-seat-drop-at-directions-emea-2025/",
+          "publishedOn": "2025-11-06T19:51:55.000Z",
+          "wordCount": 6885,
+          "title": "Local Youth Football Club Teams Up with Insight Works for Seat Drop at Directions EMEA 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Seat-Drop-Cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136888",
+          "author": "MetaOption LLC",
+          "description": "xxx\nEver wondered how the most efficient warehouses seem to “know” what’s coming next? How do they restock just before inventory runs low, avoid bottlenecks before they happen, and meet customer […]\nThe post From Data to Decisions: How Predictive  Analytics is Transforming Warehouse  Operations appeared first on ERP Software Blog.\nHow you can Improve Workflow Efficiency in your Warehouse?\nExploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central\nDecoding the Warehouse: Serial vs. Batch Numbers and Why They Matter",
+          "link": "https://erpsoftwareblog.com/2025/11/predictive-analytics-in-warehouse-management/",
+          "publishedOn": "2025-11-06T16:15:01.000Z",
+          "wordCount": 8507,
+          "title": "From Data to Decisions: How Predictive  Analytics is Transforming Warehouse  Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MO-Blog-27.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136884",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nWe've shown you how to build custom views manually—filters, columns, saving, sharing, the whole process. But there's a faster way if all those dropdown menus feel like too much: ask […]\nThe post Let Copilot Build Your Views in Dynamics 365 appeared first on ERP Software Blog.\nThe Consumerization of Online B2B Sales\nMicrosoft Dynamics 365 for Sales Management\nHow Dynamics 365 Makes the Job of an Accountant Easier",
+          "link": "https://erpsoftwareblog.com/2025/11/using-copilot-dynamics-365/",
+          "publishedOn": "2025-11-06T15:07:06.000Z",
+          "wordCount": 7097,
+          "title": "Let Copilot Build Your Views in Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-34.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136504",
+          "author": "Crestwood Associates",
+          "description": "xxx\nIn the world of ERP, user experience isn’t just a nice-to-have; it’s a critical driver of adoption, efficiency, and growth. Acumatica has always stood out in the ERP landscape, not […]\nThe post Productivity Boost: How Acumatica’s Modern UI is Built for You appeared first on ERP Software Blog.\nNew Booklet Explains Editions, Functional Areas, and Modules Available with Microsoft Dynamics GP\nControlling the Cost of Your Manufacturing ERP Project\n13 characteristics that really make a good VAR (Lucky 13)!",
+          "link": "https://erpsoftwareblog.com/2025/11/productivity-boost-how-acumaticas-modern-ui-is-built-for-you/",
+          "publishedOn": "2025-11-06T13:44:14.000Z",
+          "wordCount": 7254,
+          "title": "Productivity Boost: How Acumatica’s Modern UI is Built for You",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Acumatica-Modern-UI.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136860",
+          "author": "Ryan Carolan D365contractors.com",
+          "description": "xxx\nWritten for ERP Commanders steering Dynamics 365 Finance & Operations and Business Central implementations in manufacturing, distribution, and supply chain. Flight suits optional, sarcasm encouraged. Implementing an ERP system is […]\nThe post Surviving ERP Fatigue Like a Space Mission: 5 Ways to Keep Your Crew Engaged in a D365 Launch appeared first on ERP Software Blog.\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central",
+          "link": "https://erpsoftwareblog.com/2025/11/erp-change-fatigue-d365/",
+          "publishedOn": "2025-11-06T11:18:15.000Z",
+          "wordCount": 8381,
+          "title": "Surviving ERP Fatigue Like a Space Mission: 5 Ways to Keep Your Crew Engaged in a D365 Launch",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/u3562425248_create_me_a_high_quality_image_of_launching_a_spa_560921e1-3dea-409d-81b0-567ba8ecf1c6_2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136859",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nData silos are, in fact, the main hindrance in the way of efficiency in the present-day business environment. Microsoft and SAP also realized this situation, and at the same time, […]\nThe post How Dataverse in Business Central Contrasts with SAP's \"One\" Strategy appeared first on ERP Software Blog.\nAn Overview of Purchase Order in Microsoft Dynamics 365 Business Central\nWhy We Like Microsoft Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central: The Best Choice for Manufacturers",
+          "link": "https://erpsoftwareblog.com/2025/11/how-dataverse-in-business-central-contrasts-with-saps-one-strategy/",
+          "publishedOn": "2025-11-06T11:04:26.000Z",
+          "wordCount": 7351,
+          "title": "How Dataverse in Business Central Contrasts with SAP's \"One\" Strategy",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=136807",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nInvesting in an Enterprise Resource Planning (ERP) system is one of the most strategic steps an organization can take to improve efficiency, unify processes, and build real-time visibility across finance, […]\nThe post ERP Implementation Costs Explained: What Companies Often Overlook appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/11/erp-implementation-costs-explained/",
+          "publishedOn": "2025-11-06T06:01:24.000Z",
+          "wordCount": 7848,
+          "title": "ERP Implementation Costs Explained: What Companies Often Overlook",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Implementation-Costs-Explained.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=136842",
           "author": "DynamicPoint",
@@ -33610,46 +33670,6 @@
           "wordCount": 7007,
           "title": "Dynamics GP Case Study: American Software",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/amsoftware.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=101795",
-          "author": "Dynamics Square UK",
-          "description": "ERP cost and budgeting are critical components for a growing business aiming to harness the full potential of ERP systems. This guide is crafted to demystify the costs associated with …  ERP Cost and Budgeting in 2024 [Definitive Guide] Read More »\nThe post ERP Cost and Budgeting in 2024 [Definitive Guide] appeared first on ERP Software Blog.\nHave You Calculated the Cost of Not Switching ERP Systems?\nCan Small Businesses Benefit From an ERP Software Solution?\nDon't Blow The Call - Implement Dynamics GP 2010",
-          "link": "https://erpsoftwareblog.com/2023/11/erp-cost-budgeting/",
-          "publishedOn": "2023-11-07T19:19:24.000Z",
-          "wordCount": 9947,
-          "title": "ERP Cost and Budgeting in 2024 [Definitive Guide]",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-cost-and-budgeting-625x357.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=101788",
-          "author": "Andrew King, WebSan Solutions, Inc.",
-          "description": "Hello, Microsoft Dynamics enthusiasts and business leaders! We're thrilled to announce that WebSan Solutions Inc. is back with our highly anticipated event, the Dynamics Virtual Launchpad, for the …  WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad! Read More »\nThe post WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad! appeared first on ERP Software Blog.\nHeads Up: Successful Forecasting and Demand Planning with AGR\nTo upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central\nTech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack",
-          "link": "https://erpsoftwareblog.com/2023/11/websan-solutions-inc-invites-you-to-our-third-annual-interactive-virtual-half-day-conference-dynamics-virtual-launchpad/",
-          "publishedOn": "2023-11-07T17:20:35.000Z",
-          "wordCount": 7480,
-          "title": "WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!",
-          "imageUrl": "https://www.websan.com/images/easyblog_articles/621/b2ap3_large_DVS---Website-V1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=101360",
-          "author": "Binary Stream",
-          "description": "Revenue leakage can be a silent killer for businesses, subtly eroding profits over time. Identifying and rectifying it is crucial for sustainable growth. In this blog, we'll introduce you to …  Navigating revenue leakage: a simple approach to understanding and combating it Read More »\nThe post Navigating revenue leakage: a simple approach to understanding and combating it appeared first on ERP Software Blog.\nDynaRent and the Internet of Things: ideal for Equipment-driven businesses\nTop 3 Blog Posts You Should Read for Your Equipment Rental Business\nGet proactive about equipment utilization with DynaRent Power BI",
-          "link": "https://erpsoftwareblog.com/2023/11/navigating-revenue-leakage-a-simple-approach-to-understanding-and-combating-it/",
-          "publishedOn": "2023-11-07T15:00:51.000Z",
-          "wordCount": 7335,
-          "title": "Navigating revenue leakage: a simple approach to understanding and combating it",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Image-1-header-image.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=101781",
-          "author": "MetaOption LLC",
-          "description": "In today’s fast-paced business environment, efficiency and productivity are paramount. To succeed, organizations need to optimize their operations and make informed decisions based on real-time data. For companies that rely …  Streamline Your Business Processes with MetaDocs for Business Central Read More »\nThe post Streamline Your Business Processes with MetaDocs for Business Central appeared first on ERP Software Blog.\nMetaWMS Integration: Enhancing Business Central with IoT and RFID Technology\nEverything you need to know about Warehouse Order Picking Methods\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses",
-          "link": "https://erpsoftwareblog.com/2023/11/streamline-your-business-processes-with-metadocs-for-business-central/",
-          "publishedOn": "2023-11-07T14:35:45.000Z",
-          "wordCount": 7499,
-          "title": "Streamline Your Business Processes with MetaDocs for Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/docs.jpg"
         }
       ]
     },
@@ -35297,16 +35317,6 @@
           "wordCount": 2368,
           "title": "Live vs Test Environments and Companies in Dynamics GP",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=59942",
-          "author": "Sandra Roskin",
-          "description": "New Features in 2023 Release Wave 2 for Dynamics 365 Business Central\nThe 2023 Release Wave 2 for Dynamics 365 Business Central includes several new features that will help users simplify and streamline their processes across Business Central. Below are a few key updates we found particularly interesting from this release. Key Updates in 2023 Release Wave 2 Streamline Data Consolidation Across Multiple Entities This new feature...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/new-features-in-2023-release-wave-2-for-d365-business-central/",
-          "publishedOn": "2023-11-07T16:24:02.000Z",
-          "wordCount": 1792,
-          "title": "New Features in 2023 Release Wave 2 for Dynamics 365 Business Central",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
         }
       ]
     },
@@ -35315,6 +35325,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/primavera-p6-online-training-success-story-4-student-testimonial-wiznicworld-youtube-2",
+          "author": "Madan Mohan Maharana",
+          "description": "Primavera P6 Online Training Success Story-4, Student Testimonial | WiznicWorld Learn Primavera P6 with real project experience: https://www.wiznicworld.com/testimonial 🎯Learn Primavera P6 online from an industry expert with 27+ years of real project experience… In this testimonial video, The students share Their experiences with our comprehensive Primavera P6 training program and how it transformed his project […]\nThe post Primavera P6 Online Training Success Story-4, Student Testimonial | WiznicWorld – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/primavera-p6-online-training-success-story-4-student-testimonial-wiznicworld-youtube-2",
+          "publishedOn": "2025-11-06T15:34:25.000Z",
+          "wordCount": 2260,
+          "title": "Primavera P6 Online Training Success Story-4, Student Testimonial | WiznicWorld – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-to-build-a-multilingual-website-on-wordpress-com",
+          "author": "Belinda Allen",
+          "description": "Have you ever wondered whether having your WordPress website in multiple languages is worth it, and how much effort it actually takes?  During my recent trip to the Netherlands, I found myself navigating local websites for everything from restaurants to train schedules.  As a non-Dutch speaker, it was such a relief when I could switch […]\nThe post How to Build a Multilingual Website on WordPress.com appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-build-a-multilingual-website-on-wordpress-com",
+          "publishedOn": "2025-11-06T15:00:00.000Z",
+          "wordCount": 4024,
+          "title": "How to Build a Multilingual Website on WordPress.com",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/How-to-Build-a-Multilingual-Website-on-WordPresscom.jpg"
+        },
+        {
+          "id": "https://365community.online/mapcopilot-an-ai-guide-for-efficient-field-management-within-dynamics-365",
+          "author": "Inogic",
+          "description": "“Jack, it’s been 20 minutes. Why haven’t you reached Mr. Carter’s office? It is barely a 5-minute walk from your location.” “Kristine, I am trying to decipher Radius Search in Maplytics on my mobile. It’s been just 3 days since I started working with this application, so I’ve been reading their blog to figure out […]\nThe post MapCopilot- An AI Guide for Efficient Field Management within Dynamics 365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/mapcopilot-an-ai-guide-for-efficient-field-management-within-dynamics-365",
+          "publishedOn": "2025-11-06T09:55:00.000Z",
+          "wordCount": 2976,
+          "title": "MapCopilot- An AI Guide for Efficient Field Management within Dynamics 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Field-Management-within-Dynamics-365.png"
+        },
+        {
+          "id": "https://365community.online/how-to-improve-sharepoint-online-storage-performance-and-maintain-document-security",
+          "author": "Inogic",
+          "description": "Why Do Businesses Hit the SharePoint Online Storage Limit So Quickly? Because SharePoint is at the heart of Microsoft 365’s collaboration ecosystem, it often becomes a “document dump” before teams realize it. From project files and client proposals to CRM attachments synced from Dynamics 365, storage fills up fast. Did you know? The default SharePoint […]\nThe post How to Improve SharePoint Online Storage Performance and Maintain Document Security appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-improve-sharepoint-online-storage-performance-and-maintain-document-security",
+          "publishedOn": "2025-11-06T09:47:00.000Z",
+          "wordCount": 3140,
+          "title": "How to Improve SharePoint Online Storage Performance and Maintain Document Security",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/How-to-Securely-Improve-SharePoint-Online-Storage-Performance-scaled.png"
+        },
+        {
+          "id": "https://365community.online/custom-pages-and-canvas-apps-whats-the-difference-really",
+          "author": "Megan V. Walker",
+          "description": "If you’ve worked with Power Apps for at least the past few years, you’ve probably heard the term Custom Page and wondered how it fits alongside Canvas Apps. Custom pages and Canvas apps both use the same drag-and-drop designer, Power Fx, and data connectors. So what’s the real difference? In short, Custom Pages bring the […]\nThe post Custom Pages and Canvas Apps: What’s the Difference, Really? appeared first on 365 Community Online.",
+          "link": "https://365community.online/custom-pages-and-canvas-apps-whats-the-difference-really",
+          "publishedOn": "2025-11-06T08:30:00.000Z",
+          "wordCount": 2763,
+          "title": "Custom Pages and Canvas Apps: What’s the Difference, Really?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Custom-Pages-and-Canvas-Apps-Whats-the-Difference-Really.jpg"
+        },
+        {
+          "id": "https://365community.online/use-the-black-hat-with-ai-youtube",
+          "author": "NZ365Guy",
+          "description": "Use the black hat with AI Six Thinking Hats, plus AI. Stress-test ideas, surface risks, and avoid confirmation bias. Six Thinking Hats, plus AI. Stress-test ideas, surface risks, and avoid confirmation bias. source\nThe post Use the black hat with AI – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/use-the-black-hat-with-ai-youtube",
+          "publishedOn": "2025-11-06T03:00:45.000Z",
+          "wordCount": 1875,
+          "title": "Use the black hat with AI – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/why-loop-is-changing-the-way-we-collaborate-youtube",
+          "author": "NZ365Guy",
+          "description": "Why Loop Is Changing the Way We Collaborate Get featured on the show by leaving us a Voice Mail: https://bit.ly/MIPVM Amanda Sterner shares practical insights on how Microsoft Loop and Copilot are reshaping collaboration, productivity, and digital adoption. From overcoming tool resistance to driving change through Champions programs, this episode offers actionable strategies for tech […]\nThe post Why Loop Is Changing the Way We Collaborate – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-loop-is-changing-the-way-we-collaborate-youtube",
+          "publishedOn": "2025-11-05T19:34:40.000Z",
+          "wordCount": 3028,
+          "title": "Why Loop Is Changing the Way We Collaborate – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/primavera-p6-online-training-success-story-4-student-testimonial-wiznicworld-youtube",
           "author": "Madan Mohan Maharana",
@@ -74327,16 +74407,6 @@
           "wordCount": 3372,
           "title": "D365FO Electronic Reporting (GER): Properly use table methods",
           "imageUrl": "https://fernitudela.files.wordpress.com/2023/12/featured-image.png?w=1200"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1177",
-          "author": "Fernando Tudela Desantes",
-          "description": "In this video/post we are going to go through the requirement of exporting all the CustInvoiceTrans with the related header and lines charges. This is a real requirement example that I chose because I find it very didactic, since given the table structure I was forced to use and understand the functions AllItemsQuery, ListDistinct and ListJoin. I also take advantage of this example to explain again how to export data to excel, generating myself the Excel template with the ranges and everything. Check it out, it is a good opportunity to continue strengthening your ER abilities! … More D365FO Electronic Reporting complete real export to Excel example: Use of AllItemsQuery, ListDistinct and ListJoin",
-          "link": "https://fernitudela.dev/2023/11/08/d365fo-electronic-reporting-complete-real-export-to-excel-example-use-of-allitemsquery-listdistinct-and-listjoin/",
-          "publishedOn": "2023-11-08T11:12:00.000Z",
-          "wordCount": 4297,
-          "title": "D365FO Electronic Reporting complete real export to Excel example: Use of AllItemsQuery, ListDistinct and ListJoin",
-          "imageUrl": "https://fernitudela.files.wordpress.com/2023/11/featuredimage2resizedandcompressed.png?w=1200"
         }
       ]
     },
@@ -79061,26 +79131,6 @@
           "wordCount": 2956,
           "title": "Microsoft is a Leader in The Forrester Wave™: Sales Force Automation, Q3 2023",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/D365_Blog_Lifestyle_Abstract_20231031_1200.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/embrace-agent-availability-to-reduce-customer-wait-times/",
-          "author": "Vamsee Mullapudi",
-          "description": "In the realm of customer service, one enduring pain point affects both customers and service providers: the uncertainty of agent availability. When customers engage in live chat for assistance, the last thing they want is to be left hanging in a seemingly endless queue, uncertain about when they’ll connect with a support agent.  The challenge\nThe post Embrace agent availability to reduce customer wait times appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/embrace-agent-availability-to-reduce-customer-wait-times/",
-          "publishedOn": "2023-11-07T17:25:40.000Z",
-          "wordCount": 2720,
-          "title": "Embrace agent availability to reduce customer wait times",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/10/customer-service.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/",
-          "author": "Jeff Comstock",
-          "description": "It is with great pride that Microsoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for CRM Customer Engagement Center. We believe this placement recognizes Microsoft’s continued rapid pace of innovation and our customers’ success using our service as well as our broader end-to-end CRM (customer relationship management) solutions and cloud functionality.  \nThe post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/",
-          "publishedOn": "2023-11-07T16:00:00.000Z",
-          "wordCount": 3511,
-          "title": "Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/10/D365_Blog_Abstract-01.jpg"
         }
       ]
     },
@@ -81501,16 +81551,6 @@
           "wordCount": 12353,
           "title": "Post and Print Project Invoices in D365FO",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/02-05-Prepare-and-Print-PSA-Managed-Invoice.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27998",
-          "author": "Sanja Kolundzija",
-          "description": "If you are using Docentric Free Edition, we bet you don't know all the features! Docentric Free Edition webinar was held in November 2023 by Sanja Kolundžija, our Technical Lady. The video can help you uncover hidden gems and put your D365FO reporting on steroids. […]\nThe post What Else Docentric Free Edition Can Do for Reporting in Your D365FO Projects appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/what-else-docentric-free-edition-can-do-for-reporting-in-your-d365fo-projects/",
-          "publishedOn": "2023-11-08T07:49:24.000Z",
-          "wordCount": 11518,
-          "title": "What Else Docentric Free Edition Can Do for Reporting in Your D365FO Projects",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/01/Free-Version-Webinar_November-2023.png"
         }
       ]
     },
