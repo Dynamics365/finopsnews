@@ -1527,6 +1527,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=134543",
+          "author": "EFOQUS",
+          "description": "xxx\nKeeping up with regulations is a growing challenge for businesses across all industries. From financial reporting to data privacy, compliance requirements are more complex than ever, and the risks of […]\nThe post How Business Central Supports Business Compliance appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/11/how-business-central-supports-business-compliance/",
+          "publishedOn": "2025-11-08T19:49:37.000Z",
+          "wordCount": 6985,
+          "title": "How Business Central Supports Business Compliance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Compliance.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=136958",
           "author": "The TM Group, Inc.",
           "description": "xxx\nManufacturing ERP Adoption: The Challenge A machinery manufacturing company faced major issues with its outdated IBM AS/400 ERP system. The legacy platform required constant workarounds, manual reporting, and custom code […]\nThe post Manufacturing ERP Adoption appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
@@ -33670,16 +33680,6 @@
           "wordCount": 7406,
           "title": "Data Migration in ERP Migration Process",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-22-1-300x169.png"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=26515",
-          "author": "Caprice Murray, Tensoft, Inc",
-          "description": "I’ve run across enough blog posts alluding to the “dangers” of industry-specific solutions that I can’t help but think that there must be some misunderstanding about this topic.  At Tensoft, …  How an Industry-Specific Solution Can Change Your Life Read More »\nThe post How an Industry-Specific Solution Can Change Your Life appeared first on ERP Software Blog.\nWhat's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?\nWhy Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video\nAn Overview of Start-ups Life Cycle",
-          "link": "https://erpsoftwareblog.com/2023/11/simply-wont-believe-much-industry-specific-solutions-will-change-life/",
-          "publishedOn": "2023-11-09T17:40:28.000Z",
-          "wordCount": 7406,
-          "title": "How an Industry-Specific Solution Can Change Your Life",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         }
       ]
     },
@@ -35317,16 +35317,6 @@
           "wordCount": 2026,
           "title": "Reporting in Dynamics 365 Customer Engagement",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=59923",
-          "author": "Patrick Ceaser",
-          "description": "Live vs Test Environments and Companies in Dynamics GP\nIf you’ve ever wondered about any of the following questions while configuring Dynamics GP companies in live or test environments, this blog will help identify the differences in managing your Dynamics GP systems effectively. Can I set up and use multiple LIVE/Main company databases in Dynamics GP? Can I set up and use multiple Test...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/live-vs-test-environments-and-companies-in-dynamics-gp/",
-          "publishedOn": "2023-11-09T15:31:43.000Z",
-          "wordCount": 2368,
-          "title": "Live vs Test Environments and Companies in Dynamics GP",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
         }
       ]
     },
@@ -35335,6 +35325,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/power-pages-liquid-code-forloop-index-vs-forloop-index0",
+          "author": "michelcarlo",
+          "description": "In a recent Power Pages piece of work I needed to obtation numeric index of the current weekday. For example, we might want to calculate this week’s Sunday and Saturday dynamically, no matter what day today is. But there is no straight filter for that, and we needed to do some data manipulation to obtain […]\nThe post Power Pages Liquid code: forloop.index VS forloop.index0 appeared first on 365 Community Online.",
+          "link": "https://365community.online/power-pages-liquid-code-forloop-index-vs-forloop-index0",
+          "publishedOn": "2025-11-08T09:27:00.000Z",
+          "wordCount": 2518,
+          "title": "Power Pages Liquid code: forloop.index VS forloop.index0",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/forloop_thumb.png"
+        },
+        {
+          "id": "https://365community.online/how-to-improve-data-accuracy-and-eliminate-duplicates-in-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Duplicate data might not seem like a big deal until your CRM starts giving mixed signals, your sales reps chase the same lead twice, or your reports stop adding up. If you’ve ever thought, “Didn’t we already have this contact in Dynamics 365?” Most Dynamics 365 CRM users face one common and costly challenge: duplicate […]\nThe post How to Improve Data Accuracy and Eliminate Duplicates in Dynamics 365 CRM appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-improve-data-accuracy-and-eliminate-duplicates-in-dynamics-365-crm",
+          "publishedOn": "2025-11-08T06:27:00.000Z",
+          "wordCount": 3002,
+          "title": "How to Improve Data Accuracy and Eliminate Duplicates in Dynamics 365 CRM",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/DeDupeD-scaled.png"
+        },
+        {
+          "id": "https://365community.online/power-bi-dashboard-tutorial-for-beginners-create-customize-share-interactive-dashboards-youtube",
+          "author": "Manish chauhan",
+          "description": "In this Power BI Dashboard tutorial, you’ll learn what dashboards are, how they work, and how to create, customize, and share them effectively in Microsoft Power BI. We’ll explore the key features of Power BI Dashboards that make them essential for data monitoring, visualization, and decision-making. By the end of this video, you’ll know how […]\nThe post Power BI Dashboard Tutorial for Beginners | Create, Customize & Share Interactive Dashboards – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/power-bi-dashboard-tutorial-for-beginners-create-customize-share-interactive-dashboards-youtube",
+          "publishedOn": "2025-11-07T13:16:18.000Z",
+          "wordCount": 2066,
+          "title": "Power BI Dashboard Tutorial for Beginners | Create, Customize & Share Interactive Dashboards – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/how-much-does-dynamics-field-service-software-cost",
+          "author": "Pete Murray",
+          "description": "If you are looking into field service software, one of the first questions that comes up is simple: how much does it actually cost?  The honest answer is that it depends on your business size, team setup, and how complex your operations are. But as a guide, most UK businesses spend around £100–£110 per user […]\nThe post How Much Does Dynamics Field Service Software Cost? appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-much-does-dynamics-field-service-software-cost",
+          "publishedOn": "2025-11-07T12:54:00.000Z",
+          "wordCount": 3285,
+          "title": "How Much Does Dynamics Field Service Software Cost?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Web-featured-image-6.webp.webp"
+        },
+        {
+          "id": "https://365community.online/how-to-automate-document-signing-with-docusign-in-power-automate",
+          "author": "Inogic",
+          "description": "Introduction In an earlier Inogic post, “Streamlining E-Signatures in Multi-Step Forms with Power Pages and DocuSign Integration”, Our previous post demonstrated how Power Pages and DocuSign integration streamlines multi-step client data entry and signature workflow. In this article, we focus on the next step of how to use Power Automate together with DocuSign to automatically […]\nThe post How to Automate Document Signing with DocuSign in Power Automate appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-automate-document-signing-with-docusign-in-power-automate",
+          "publishedOn": "2025-11-07T12:42:00.000Z",
+          "wordCount": 2873,
+          "title": "How to Automate Document Signing with DocuSign in Power Automate",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/1DocuSign-in-Power-Automate.png"
+        },
+        {
+          "id": "https://365community.online/mastering-windows-shared-pcs-with-microsoft-intune",
+          "author": "Jeroen Burgerhout",
+          "description": "Shared PCs are a perfect fit for frontline, education, or shift-based environments — where devices are used by multiple users throughout the day. But managing them right requires the right balance between security, performance, and user experience. In this post, I’ll walk you through how to configure Windows Shared PCs with Microsoft Intune, explain the […]\nThe post Mastering Windows Shared PCs with Microsoft Intune appeared first on 365 Community Online.",
+          "link": "https://365community.online/mastering-windows-shared-pcs-with-microsoft-intune",
+          "publishedOn": "2025-11-07T10:40:00.000Z",
+          "wordCount": 3030,
+          "title": "Mastering Windows Shared PCs with Microsoft Intune",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Mastering-Windows-Shared-PCs-with-Microsoft-Intune-scaled.jpeg"
+        },
         {
           "id": "https://365community.online/primavera-p6-online-training-success-story-4-student-testimonial-wiznicworld-youtube-2",
           "author": "Madan Mohan Maharana",
@@ -35354,6 +35404,16 @@
           "wordCount": 4024,
           "title": "How to Build a Multilingual Website on WordPress.com",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/11/How-to-Build-a-Multilingual-Website-on-WordPresscom.jpg"
+        },
+        {
+          "id": "https://365community.online/why-you-should-focus-on-fewer-topics-in-content-creation-youtube",
+          "author": "shabaz darr",
+          "description": "🎯 Why You Should Focus on Fewer Topics in Content Creation 🎯 In this video, I share one of the most impactful lessons from my own content creation journey: the power of narrowing your focus. 📌 What I cover: – Why choosing 1–2 core topic areas helps build a loyal and engaged audience – How […]\nThe post Why You Should Focus on Fewer Topics in Content Creation – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-you-should-focus-on-fewer-topics-in-content-creation-youtube",
+          "publishedOn": "2025-11-06T14:01:14.000Z",
+          "wordCount": 2057,
+          "title": "Why You Should Focus on Fewer Topics in Content Creation – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
           "id": "https://365community.online/mapcopilot-an-ai-guide-for-efficient-field-management-within-dynamics-365",
@@ -76463,6 +76523,26 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=196131",
+          "author": "Harish Tyagi and Saurabh Gupta",
+          "description": "As customer support organizations scale, maintaining consistent service quality becomes a challenge. Manual quality reviews are time-consuming, subjective, and often fail to cover the full spectrum of agent interactions. The Quality Evaluation Agent (QEA) in Dynamics 365 Customer Service and Dynamics 365 Contact Center addresses this gap, bringing automation, consistency, and intelligence to quality assessments for both case and conversation records.  QEA introduces a powerful, extensible evaluation framework that empowers teams to […]\nThe post Elevate support excellence with Quality Evaluation Agent  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/30/elevate-support-excellence-with-quality-evaluation-agent/",
+          "publishedOn": "2025-10-30T19:20:25.000Z",
+          "wordCount": 5242,
+          "title": "Elevate support excellence with Quality Evaluation Agent",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/02/CLO22_HybridWork_026-1024x683.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195974",
+          "author": "Alexis Goodrich",
+          "description": "Stay ahead of shifting tariffs with an AI agent that monitors trade updates, automates compliance checks, and helps your supply chain adapt to global changes in real time.\nThe post 3 ways to navigate changing tariffs with AI agents appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/30/navigate-changing-tariffs-build-an-agent-that-keeps-up-with-your-supply-chain/",
+          "publishedOn": "2025-10-30T15:00:00.000Z",
+          "wordCount": 5815,
+          "title": "3 ways to navigate changing tariffs with AI agents",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/10/Warehouse-workers-walking-through-the-aisle-manager-reviewing-and-sharing-data-real-time1.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=195747",
           "author": "Sean Meeker",
           "description": "As customer service representatives juggle multiple cases, tabs, and applications throughout their day, interruptions—whether from browser crashes, accidental closures, or system reboots—can be costly. That’s why session restore, also known as app session restore, is a game-changer in Dynamics 365 Copilot Service workspace (CSw). This feature ensures service reps can pick up exactly where they left off, minimizing disruption and maximizing productivity.  Reclaiming lost time  Before session restore, service reps who lost their session due […]\nThe post Use session restore for seamless continuity in Customer Service appeared first on Microsoft Dynamics 365 Blog.",
@@ -79111,16 +79191,6 @@
           "wordCount": 3238,
           "title": "Best Practices for Offline Mode in the Field Service mobile app – Part 3",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/CLO22_Retail_020-1024x683.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/09/performance-and-storage-improvements-coming-to-financial-dimensions/",
-          "author": "Ryan Carlson",
-          "description": "A new feature is coming that is designed to improve performance when working with financial dimensions and reduce the overall storage cost of storing financial dimension values. \nThe post Performance and Storage Improvements Coming to Financial Dimensions appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/09/performance-and-storage-improvements-coming-to-financial-dimensions/",
-          "publishedOn": "2023-11-09T16:30:24.000Z",
-          "wordCount": 2586,
-          "title": "Performance and Storage Improvements Coming to Financial Dimensions",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/CLO22_GreenEnergyFarm_008-1024x683.jpg"
         }
       ]
     },
@@ -83892,26 +83962,6 @@
           "wordCount": 3324,
           "title": "Power Apps accelerates the shift toward modern, AI-infused apps with governance at scale",
           "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/CLO23_WorkAnywhere_021_1200.jpg"
-        },
-        {
-          "id": "simplified-license-assignment-for-power-apps",
-          "author": null,
-          "description": "Introducing Easier License Management for Power Apps Starting in December 2023 we are introducing a set of changes which will make it easier for admins to manage license assignments for Power Apps per-user licenses. We understand the complexities admins face when identifying users in need of Power Apps licenses, and we’re excited to introduce enhancements…",
-          "link": "https://powerapps.microsoft.com/en-us/blog/simplified-license-assignment-for-power-apps/",
-          "publishedOn": "2023-11-09T22:06:23.000Z",
-          "wordCount": 2098,
-          "title": "Simplified License Assignment for Power Apps",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
-        },
-        {
-          "id": "copilot-now-powers-all-app-descriptions",
-          "author": null,
-          "description": "We are excited to announce the Public Preview of Copilot-generated app descriptions in Power Apps. Copilot will now generate a description for every app that is missing a description within Managed Environments.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-all-app-descriptions/",
-          "publishedOn": "2023-11-09T14:10:34.000Z",
-          "wordCount": 1913,
-          "title": "Copilot now powers all app descriptions",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         }
       ]
     },

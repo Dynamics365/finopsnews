@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-08T01:41:38.085Z</updated>
+    <updated>2025-11-09T01:50:44.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Business Central Supports Business Compliance]]></title>
+        <id>https://erpsoftwareblog.com/?p=134543</id>
+        <link href="https://erpsoftwareblog.com/2025/11/how-business-central-supports-business-compliance/"/>
+        <updated>2025-11-08T19:49:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Keeping up with regulations is a growing challenge for businesses across all industries. From financial reporting to data privacy, compliance requirements are more complex than ever, and the risks of […]
+The post How Business Central Supports Business Compliance appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages Liquid code: forloop.index VS forloop.index0]]></title>
+        <id>https://365community.online/power-pages-liquid-code-forloop-index-vs-forloop-index0</id>
+        <link href="https://365community.online/power-pages-liquid-code-forloop-index-vs-forloop-index0"/>
+        <updated>2025-11-08T09:27:00.000Z</updated>
+        <summary type="html"><![CDATA[In a recent Power Pages piece of work I needed to obtation numeric index of the current weekday. For example, we might want to calculate this week’s Sunday and Saturday dynamically, no matter what day today is. But there is no straight filter for that, and we needed to do some data manipulation to obtain […]
+The post Power Pages Liquid code: forloop.index VS forloop.index0 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Data Accuracy and Eliminate Duplicates in Dynamics 365 CRM]]></title>
+        <id>https://365community.online/how-to-improve-data-accuracy-and-eliminate-duplicates-in-dynamics-365-crm</id>
+        <link href="https://365community.online/how-to-improve-data-accuracy-and-eliminate-duplicates-in-dynamics-365-crm"/>
+        <updated>2025-11-08T06:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Duplicate data might not seem like a big deal until your CRM starts giving mixed signals, your sales reps chase the same lead twice, or your reports stop adding up. If you’ve ever thought, “Didn’t we already have this contact in Dynamics 365?” Most Dynamics 365 CRM users face one common and costly challenge: duplicate […]
+The post How to Improve Data Accuracy and Eliminate Duplicates in Dynamics 365 CRM appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manufacturing ERP Adoption]]></title>
         <id>https://erpsoftwareblog.com/?p=136958</id>
@@ -82,6 +119,39 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Power BI Dashboard Tutorial for Beginners | Create, Customize & Share Interactive Dashboards – YouTube]]></title>
+        <id>https://365community.online/power-bi-dashboard-tutorial-for-beginners-create-customize-share-interactive-dashboards-youtube</id>
+        <link href="https://365community.online/power-bi-dashboard-tutorial-for-beginners-create-customize-share-interactive-dashboards-youtube"/>
+        <updated>2025-11-07T13:16:18.000Z</updated>
+        <summary type="html"><![CDATA[In this Power BI Dashboard tutorial, you’ll learn what dashboards are, how they work, and how to create, customize, and share them effectively in Microsoft Power BI. We’ll explore the key features of Power BI Dashboards that make them essential for data monitoring, visualization, and decision-making. By the end of this video, you’ll know how […]
+The post Power BI Dashboard Tutorial for Beginners | Create, Customize & Share Interactive Dashboards – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Does Dynamics Field Service Software Cost?]]></title>
+        <id>https://365community.online/how-much-does-dynamics-field-service-software-cost</id>
+        <link href="https://365community.online/how-much-does-dynamics-field-service-software-cost"/>
+        <updated>2025-11-07T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are looking into field service software, one of the first questions that comes up is simple: how much does it actually cost?  The honest answer is that it depends on your business size, team setup, and how complex your operations are. But as a guide, most UK businesses spend around £100–£110 per user […]
+The post How Much Does Dynamics Field Service Software Cost? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Document Signing with DocuSign in Power Automate]]></title>
+        <id>https://365community.online/how-to-automate-document-signing-with-docusign-in-power-automate</id>
+        <link href="https://365community.online/how-to-automate-document-signing-with-docusign-in-power-automate"/>
+        <updated>2025-11-07T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In an earlier Inogic post, “Streamlining E-Signatures in Multi-Step Forms with Power Pages and DocuSign Integration”, Our previous post demonstrated how Power Pages and DocuSign integration streamlines multi-step client data entry and signature workflow. In this article, we focus on the next step of how to use Power Automate together with DocuSign to automatically […]
+The post How to Automate Document Signing with DocuSign in Power Automate appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top Exhibitors to Visit at Convergence AI + ERP 2025 in Miami]]></title>
         <id>https://erpsoftwareblog.com/?p=136769</id>
         <link href="https://erpsoftwareblog.com/2025/11/top-exhibitors-to-visit-at-convergence-ai-erp-2025-in-miami/"/>
@@ -94,6 +164,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Windows Shared PCs with Microsoft Intune]]></title>
+        <id>https://365community.online/mastering-windows-shared-pcs-with-microsoft-intune</id>
+        <link href="https://365community.online/mastering-windows-shared-pcs-with-microsoft-intune"/>
+        <updated>2025-11-07T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Shared PCs are a perfect fit for frontline, education, or shift-based environments — where devices are used by multiple users throughout the day. But managing them right requires the right balance between security, performance, and user experience. In this post, I’ll walk you through how to configure Windows Shared PCs with Microsoft Intune, explain the […]
+The post Mastering Windows Shared PCs with Microsoft Intune appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Jeroen Burgerhout</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +257,17 @@ How Dynamics 365 Makes the Job of an Accountant Easier]]></summary>
 The post How to Build a Multilingual Website on WordPress.com appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Focus on Fewer Topics in Content Creation – YouTube]]></title>
+        <id>https://365community.online/why-you-should-focus-on-fewer-topics-in-content-creation-youtube</id>
+        <link href="https://365community.online/why-you-should-focus-on-fewer-topics-in-content-creation-youtube"/>
+        <updated>2025-11-06T14:01:14.000Z</updated>
+        <summary type="html"><![CDATA[🎯 Why You Should Focus on Fewer Topics in Content Creation 🎯 In this video, I share one of the most impactful lessons from my own content creation journey: the power of narrowing your focus. 📌 What I cover: – Why choosing 1–2 core topic areas helps build a loyal and engaged audience – How […]
+The post Why You Should Focus on Fewer Topics in Content Creation – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -1327,6 +1419,17 @@ Winning the AP Game with Mekorma Embedded Solutions]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Elevate support excellence with Quality Evaluation Agent]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=196131</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/10/30/elevate-support-excellence-with-quality-evaluation-agent/"/>
+        <updated>2025-10-30T19:20:25.000Z</updated>
+        <summary type="html"><![CDATA[As customer support organizations scale, maintaining consistent service quality becomes a challenge. Manual quality reviews are time-consuming, subjective, and often fail to cover the full spectrum of agent interactions. The Quality Evaluation Agent (QEA) in Dynamics 365 Customer Service and Dynamics 365 Contact Center addresses this gap, bringing automation, consistency, and intelligence to quality assessments for both case and conversation records.  QEA introduces a powerful, extensible evaluation framework that empowers teams to […]
+The post Elevate support excellence with Quality Evaluation Agent  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Harish Tyagi and Saurabh Gupta</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[License Plating in Business Central: The Smarter Way to Move, Track, and Ship Inventory]]></title>
         <id>https://erpsoftwareblog.com/?p=136526</id>
         <link href="https://erpsoftwareblog.com/2025/10/license-plating-in-business-central-the-smarter-way-to-move-track-and-ship-inventory/"/>
@@ -1410,6 +1513,17 @@ The Journey Build Nobody Talks About (Messy but Real)
 The Latest Changes to Dynamics 365]]></summary>
         <author>
             <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 ways to navigate changing tariffs with AI agents]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=195974</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/30/navigate-changing-tariffs-build-an-agent-that-keeps-up-with-your-supply-chain/"/>
+        <updated>2025-10-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stay ahead of shifting tariffs with an AI agent that monitors trade updates, automates compliance checks, and helps your supply chain adapt to global changes in real time.
+The post 3 ways to navigate changing tariffs with AI agents appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Alexis Goodrich</name>
         </author>
     </entry>
     <entry>
@@ -103691,64 +103805,6 @@ Portals Improving Relationships: 3 Groups of Transparency with Dynamics GP
 Take Control of Your ERP Data]]></summary>
         <author>
             <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplified License Assignment for Power Apps]]></title>
-        <id>simplified-license-assignment-for-power-apps</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/simplified-license-assignment-for-power-apps/"/>
-        <updated>2023-11-09T22:06:23.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Easier License Management for Power Apps Starting in December 2023 we are introducing a set of changes which will make it easier for admins to manage license assignments for Power Apps per-user licenses. We understand the complexities admins face when identifying users in need of Power Apps licenses, and we’re excited to introduce enhancements…]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an Industry-Specific Solution Can Change Your Life]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=26515</id>
-        <link href="https://erpsoftwareblog.com/2023/11/simply-wont-believe-much-industry-specific-solutions-will-change-life/"/>
-        <updated>2023-11-09T17:40:28.000Z</updated>
-        <summary type="html"><![CDATA[I’ve run across enough blog posts alluding to the “dangers” of industry-specific solutions that I can’t help but think that there must be some misunderstanding about this topic.  At Tensoft, …  How an Industry-Specific Solution Can Change Your Life Read More »
-The post How an Industry-Specific Solution Can Change Your Life appeared first on ERP Software Blog.
-What's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?
-Why Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video
-An Overview of Start-ups Life Cycle]]></summary>
-        <author>
-            <name>Caprice Murray, Tensoft, Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance and Storage Improvements Coming to Financial Dimensions]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/11/09/performance-and-storage-improvements-coming-to-financial-dimensions/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/11/09/performance-and-storage-improvements-coming-to-financial-dimensions/"/>
-        <updated>2023-11-09T16:30:24.000Z</updated>
-        <summary type="html"><![CDATA[A new feature is coming that is designed to improve performance when working with financial dimensions and reduce the overall storage cost of storing financial dimension values. 
-The post Performance and Storage Improvements Coming to Financial Dimensions appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Ryan Carlson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live vs Test Environments and Companies in Dynamics GP]]></title>
-        <id>https://www.encorebusiness.com/?p=59923</id>
-        <link href="https://www.encorebusiness.com/blog/live-vs-test-environments-and-companies-in-dynamics-gp/"/>
-        <updated>2023-11-09T15:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Live vs Test Environments and Companies in Dynamics GP
-If you’ve ever wondered about any of the following questions while configuring Dynamics GP companies in live or test environments, this blog will help identify the differences in managing your Dynamics GP systems effectively. Can I set up and use multiple LIVE/Main company databases in Dynamics GP? Can I set up and use multiple Test...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Patrick Ceaser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot now powers all app descriptions]]></title>
-        <id>copilot-now-powers-all-app-descriptions</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-all-app-descriptions/"/>
-        <updated>2023-11-09T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the Public Preview of Copilot-generated app descriptions in Power Apps. Copilot will now generate a description for every app that is missing a description within Managed Environments.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
