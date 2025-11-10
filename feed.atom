@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-09T01:50:44.805Z</updated>
+    <updated>2025-11-10T01:52:19.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are Shorter Videos MORE Effective? – YouTube]]></title>
+        <id>https://365community.online/are-shorter-videos-more-effective-youtube</id>
+        <link href="https://365community.online/are-shorter-videos-more-effective-youtube"/>
+        <updated>2025-11-09T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[🎥 Are Shorter Videos MORE Effective? | YouTube Content Creation Tips Welcome back to my mini-series on YouTube content creation tips! In this episode, I dive into a question many creators ask: Do shorter videos really perform better? 📉 After experimenting with video lengths on my channel, I noticed a surprising trend — shorter videos […]
+The post Are Shorter Videos MORE Effective? – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget the Tech: Why a Great CRM Starts With You]]></title>
+        <id>https://365community.online/forget-the-tech-why-a-great-crm-starts-with-you</id>
+        <link href="https://365community.online/forget-the-tech-why-a-great-crm-starts-with-you"/>
+        <updated>2025-11-09T08:26:00.000Z</updated>
+        <summary type="html"><![CDATA[As a customer service leader in the housing sector, you know the daily struggle better than anyone. You and your teams are often trapped, forced to work with rigid, expensive, and outdated systems that just don’t… work. It leads to daily frustrations that you see first hand: The ‘Swivel-Chair’ Nightmare: Your team is juggling three […]
+The post Forget the Tech: Why a Great CRM Starts With You appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 6 Programming Languages to Learn in 2026 | MindMajix #shorts – YouTube]]></title>
+        <id>https://365community.online/top-6-programming-languages-to-learn-in-2026-mindmajix-shorts-youtube</id>
+        <link href="https://365community.online/top-6-programming-languages-to-learn-in-2026-mindmajix-shorts-youtube"/>
+        <updated>2025-11-09T06:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Top 6 Programming Languages to Learn in 2026 Want to future-proof your tech career? In this Short, we reveal the which programming languages is best to learn in 2026. Whether you want AI/data work, modern web apps, or high-performance systems, these languages are shaping job demand and open-source activity this year. #TopProgrammingLanguages2026 #BestProgrammingLanguages #LearnCoding #Mindmajix […]
+The post Top 6 Programming Languages to Learn in 2026 | MindMajix #shorts – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Business Central Supports Business Compliance]]></title>
         <id>https://erpsoftwareblog.com/?p=134543</id>
@@ -19,6 +52,17 @@ Dynamics 365 Business Central and Industry-Tailored Functionality
 Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
         <author>
             <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot Tutorial | Install & Setup Spring Boot CLI, Suite, Auto Configuration – YouTube]]></title>
+        <id>https://365community.online/spring-boot-tutorial-install-setup-spring-boot-cli-suite-auto-configuration-youtube</id>
+        <link href="https://365community.online/spring-boot-tutorial-install-setup-spring-boot-cli-suite-auto-configuration-youtube"/>
+        <updated>2025-11-08T14:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this Spring Boot Tutorial for Beginners, where you’ll learn how to set up and work with Spring Boot from scratch. In this video, we’ll walk you through the complete setup process — from installing and configuring the Spring Boot CLI to using the Spring Initializer for creating your first project. You’ll also learn […]
+The post Spring Boot Tutorial | Install & Setup Spring Boot CLI, Suite, Auto Configuration – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -208,6 +252,17 @@ Realizing the Full Potential of Dynamics GP Manufacturing]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Use custom multisession apps in Copilot Service workspace]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/06/use-custom-multisession-apps-in-copilot-service-workspace/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/06/use-custom-multisession-apps-in-copilot-service-workspace/"/>
+        <updated>2025-11-06T18:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Customer service organizations need tailored, high-productivity employee experiences in order to grow and scale. Dynamics 365 Copilot Service workspace (CSw), formerly known as Customer Service workspace, has long offered a robust multisession interface—but until recently, this capability was limited to a single, out-of-the-box app. That’s changing.
+The post Use custom multisession apps in Copilot Service workspace  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sean Meeker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Data to Decisions: How Predictive  Analytics is Transforming Warehouse  Operations]]></title>
         <id>https://erpsoftwareblog.com/?p=136888</id>
         <link href="https://erpsoftwareblog.com/2025/11/predictive-analytics-in-warehouse-management/"/>
@@ -220,6 +275,17 @@ Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central
 Decoding the Warehouse: Serial vs. Batch Numbers and Why They Matter]]></summary>
         <author>
             <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is named a Leader in 2025 Gartner® Magic Quadrant™ for CRM Customer Engagement Center]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=196196</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/11/06/microsoft-is-named-a-leader-in-2025-gartner-magic-quadrant-for-crm-customer-engagement-center/"/>
+        <updated>2025-11-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft leads in agentic service, transforming customer engagement with AI and Dynamics 365 in Gartner’s 2025 CRM Magic Quadrant.
+The post Microsoft is named a Leader in 2025 Gartner® Magic Quadrant™ for CRM Customer Engagement Center appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Deva Rajamohan</name>
         </author>
     </entry>
     <entry>
@@ -698,6 +764,17 @@ The post Dynamics 365 Glossary –  Core Terms appeared first on 365 Community O
 The post Dynamics 365 Glossary – Advanced terms appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft named a Leader in IDC MarketScape for AI-Enabled Large Enterprise ERP Applications]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/11/04/microsoft-named-a-leader-in-idc-marketscape-for-ai-enabled-large-enterprise-erp-applications/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/11/04/microsoft-named-a-leader-in-idc-marketscape-for-ai-enabled-large-enterprise-erp-applications/"/>
+        <updated>2025-11-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has been recognized as a Leader in the IDC MarketScape for AI-Enabled Large Enterprise ERP Applications, highlighting our innovation and customer-centric approach to intelligent business solutions.
+The post Microsoft named a Leader in IDC MarketScape for AI-Enabled Large Enterprise ERP Applications appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Georg Glantschnig</name>
         </author>
     </entry>
     <entry>
@@ -103766,45 +103843,6 @@ Multi record insert - This is inserting multiple records at a time in a single 
 Insert_RecordSet - This is using bypassing using a specific buffer and instead attempting to insert data more directly into the database. You can read more at https…]]></summary>
         <author>
             <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices for Offline Mode in the Field Service mobile app – Part 3]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/11/10/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-3/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/11/10/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-3/"/>
-        <updated>2023-11-10T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[In this final part of the Field Service Mobile offline blog series, we will discuss some of the more advanced configuration and recommendations for IT pros and partners to get the most out of their offline application. 
-The post Best Practices for Offline Mode in the Field Service mobile app – Part 3 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jonathan Baker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Dynamics GP to Business Central: Optimizing Warehouse Management]]></title>
-        <id>https://erpsoftwareblog.com/?p=101875</id>
-        <link href="https://erpsoftwareblog.com/2023/11/from-gp-to-business-central-optimizing-warehouse-management/"/>
-        <updated>2023-11-10T17:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Approaching 2025, Microsoft transitions from Dynamics GP to the more advanced, cloud-based Dynamics 365 Business Central, paired with the Warehouse Insight app, streamlining warehouse management with real-time data and enhanced flexibility.
-The post From Dynamics GP to Business Central: Optimizing Warehouse Management appeared first on ERP Software Blog.
-Getting in Tune with the Shop Floor with Microsoft Dynamics 365 for Manufacturing
-Should You Switch from Dynamics GP to Business Central?
-How to move from Microsoft Dynamics GP to Business Central in a few easy steps]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Migration in ERP Migration Process]]></title>
-        <id>https://erpsoftwareblog.com/?p=101872</id>
-        <link href="https://erpsoftwareblog.com/2023/11/data-migration-in-erp-migration-process/"/>
-        <updated>2023-11-10T15:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Data Migration in the ERP Migration Process is a critical aspect of successful digital transformation. ERP systems are comprehensive solutions that integrate and perform various business processes and functions across …  Data Migration in ERP Migration Process Read More »
-The post Data Migration in ERP Migration Process appeared first on ERP Software Blog.
-Improving SMB Planning, Budgeting & Forecasting
-Portals Improving Relationships: 3 Groups of Transparency with Dynamics GP
-Take Control of Your ERP Data]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
         </author>
     </entry>
     <entry>
