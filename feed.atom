@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-16T01:53:47.235Z</updated>
+    <updated>2025-11-17T01:49:48.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI-native toolkit for Business Central now available on Visual Studio Marketplace]]></title>
+        <id>https://365community.online/ai-native-toolkit-for-business-central-now-available-on-visual-studio-marketplace</id>
+        <link href="https://365community.online/ai-native-toolkit-for-business-central-now-available-on-visual-studio-marketplace"/>
+        <updated>2025-11-16T15:48:00.000Z</updated>
+        <summary type="html"><![CDATA[AL Development Collection is now available as an official extension on Visual Studio Marketplace for Visual Studio Code. It is an AI-native toolkit for AL developers working with Dynamics 365 Business Central and GitHub Copilot, designed to turn “playing with AI” into a structured, repeatable development workflow. The extension installs in seconds and deploys a […]
+The post AI-native toolkit for Business Central now available on Visual Studio Marketplace appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to set up the new Dynamics 365 ERP MCP server]]></title>
+        <id>https://dynamicspedia.com/?p=19644</id>
+        <link href="https://dynamicspedia.com/2025/11/how-to-set-up-the-new-dynamics-365-erp-mcp-server/"/>
+        <updated>2025-11-16T10:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, Microsoft released a preview of the new Dynamics 365 ERP MCP server. This is a big step in enabling Dynamics 365 as a headless ERP system to be used by AI agents. In this post, you can read more about the Model Context Protocol (MCP), how to enable the preview, and set […]
+The post How to set up the new Dynamics 365 ERP MCP server appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 Business Central Solves the Biggest Warehouse Challenges for Growing Distributors?]]></title>
+        <id>https://erpsoftwareblog.com/?p=137401</id>
+        <link href="https://erpsoftwareblog.com/2025/11/how-dynamics-365-business-central-solves-the-biggest-warehouse-challenges-for-growing-distributors/"/>
+        <updated>2025-11-16T06:01:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As distributors scale, warehouse challenges multiply- inventory inaccuracies, delayed shipments, manual errors, disconnected systems, and the inability to track orders in real-time. These challenges slow down growth, increase operational costs, […]
+The post How Dynamics 365 Business Central Solves the Biggest Warehouse Challenges for Growing Distributors? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What You Need to Know About Microsoft 365 Agents Toolkit for Enterprise AI]]></title>
         <id>https://365community.online/what-you-need-to-know-about-microsoft-365-agents-toolkit-for-enterprise-ai</id>
@@ -104425,62 +104462,6 @@ Dynamics 365 Business Central Software for Project Managers
 How to Email Invoices, Past Due Reminders, and Statements Automatically in Dynamics 365 Business Central]]></summary>
         <author>
             <name>JourneyTEAM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Pay B2B Vendors with ACH]]></title>
-        <id>https://erpsoftwareblog.com/?p=102014</id>
-        <link href="https://erpsoftwareblog.com/2023/11/why-pay-b2b-vendors-with-ach/"/>
-        <updated>2023-11-17T20:28:50.000Z</updated>
-        <summary type="html"><![CDATA[Paying with ACH ACH is the preferred method for paying invoices among accounts payable experts. When you pay your vendors with ACH you have to work with them to implement …  Why Pay B2B Vendors with ACH Read More »
-The post Why Pay B2B Vendors with ACH appeared first on ERP Software Blog.
-Webcast on Microsoft Dynamics GP Reporting Options
-Interested in Cloud Computing?: Get Your Answers at Explore Microsoft Business Cloud!
-Selecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy.]]></summary>
-        <author>
-            <name>Fidesic AP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Considerations for Successful ERP Selection]]></title>
-        <id>https://erpsoftwareblog.com/?p=102008</id>
-        <link href="https://erpsoftwareblog.com/2023/11/key-considerations-for-successful-erp-selection/"/>
-        <updated>2023-11-17T19:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Selecting the appropriate ERP system is crucial for enhancing business productivity and streamlining processes. With a plethora of options available, making the right choice can be challenging. This guide explores …  Key Considerations for Successful ERP Selection Read More »
-The post Key Considerations for Successful ERP Selection appeared first on ERP Software Blog.
-How to Select an Electronic Workflow Solution?
-Les avantages de choisir un partenaire d’implantation spécialisé dans votre industrie – Liste d’évaluation d’un nouveau système ERP #7
-Add a Feature to an Existing Microsoft Dynamics GP Installation]]></summary>
-        <author>
-            <name>Calsoft Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERP-eCommerce Integration Touch Points]]></title>
-        <id>https://erpsoftwareblog.com/?p=102004</id>
-        <link href="https://erpsoftwareblog.com/2023/11/erp-ecommerce-integration-touch-points/"/>
-        <updated>2023-11-17T19:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Integrating an Enterprise Resource Planning (ERP) system with an e-commerce platform is crucial for businesses having an online presence. Streamlining operations, enhancing customer experience, and ensuring seamless data flow between …  ERP-eCommerce Integration Touch Points Read More »
-The post ERP-eCommerce Integration Touch Points appeared first on ERP Software Blog.
-Real Time vs. Scheduler Based Integrations
-Dynamics GP & POS (RMH) Integration by x2x-eCommerce
-Integrate Dynamics GP with leading Storefront Platforms]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Essential AI Tools in Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=101957</id>
-        <link href="https://erpsoftwareblog.com/2023/11/4-essential-ai-tools-in-business-central/"/>
-        <updated>2023-11-17T14:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Make the most of your Dynamics 365 Business Central ERP system by leveraging the power of cutting-edge AI capabilities. Business Central is a cloud-ERP solution designed for small and medium-sized …  4 Essential AI Tools in Business Central Read More »
-The post 4 Essential AI Tools in Business Central appeared first on ERP Software Blog.
-The Impact of Artificial Intelligence (AI) on Warehouse Management
-Statistical Accounts in Microsoft Dynamics 365 Business Central
-Top 5 Takeaways from Microsoft Inspire 2023]]></summary>
-        <author>
-            <name>Kwixand Solutions Inc.</name>
         </author>
     </entry>
     <entry>
