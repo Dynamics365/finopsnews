@@ -2,10 +2,191 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-20T01:46:40.409Z</updated>
+    <updated>2025-11-21T01:47:34.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Recurring Expense Allocation in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=137809</id>
+        <link href="https://erpsoftwareblog.com/2025/11/how-to-automate-recurring-expense-allocation-in-business-central/"/>
+        <updated>2025-11-20T20:59:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing recurring expense distribution across departments in Microsoft Dynamics 365 Business Central can consume valuable finance team hours each month. Fixed Allocations provide a solution that automates this process, eliminating […]
+The post How to Automate Recurring Expense Allocation in Business Central appeared first on ERP Software Blog.
+6 Key Benefits of Cloud Computing for SMBs in 2018
+Top Reasons why SMBs Are Investing in Cloud-Based ERP System
+Finding the Right Dynamics 365 Partner]]></summary>
+        <author>
+            <name>CAL Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret to Faster Picking in Business Central: Automate Warehouse Picks with One Click]]></title>
+        <id>https://erpsoftwareblog.com/?p=137712</id>
+        <link href="https://erpsoftwareblog.com/2025/11/the-secret-to-faster-picking-in-business-central-automate-warehouse-picks-with-one-click/"/>
+        <updated>2025-11-20T20:00:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Every warehouse supervisor faces the same challenge: stacks of orders to pick, limited staff, and the constant question—what ships today? Sorting through order lists and stock data eats up valuable […]
+The post The Secret to Faster Picking in Business Central: Automate Warehouse Picks with One Click appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+How Manufacturers Automate Preventive Maintenance with Business Central
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing Webinar: Unlock Operational Excellence with AI & Copilot]]></title>
+        <id>https://erpsoftwareblog.com/?p=137801</id>
+        <link href="https://erpsoftwareblog.com/2025/11/manufacturing-webinar-unlock-operational-excellence-with-ai-copilot/"/>
+        <updated>2025-11-20T19:50:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Inside the Future Factory — AI & Copilot Manufacturing   As manufacturers deal with increasing complexity and fast-changing market demands, AI is quickly becoming a powerful way to boost resilience, […]
+The post Manufacturing Webinar: Unlock Operational Excellence with AI & Copilot appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Admiral Consulting Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse Controls & Cold Storage in Microsoft D365 Supply Chain Management for Food Processors]]></title>
+        <id>https://erpsoftwareblog.com/?p=137803</id>
+        <link href="https://erpsoftwareblog.com/2025/11/warehouse-controls-cold-storage-in-microsoft-d365-supply-chain-management-for-food-processors/"/>
+        <updated>2025-11-20T19:48:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing cold storage operations is one of the most demanding elements of the food and beverage supply chain. From stringent regulatory rules to products that require constant temperature control, food […]
+The post Warehouse Controls & Cold Storage in Microsoft D365 Supply Chain Management for Food Processors appeared first on ERP Software Blog.
+GS1 Standards Boost Efficiency in D365 Supply Chain
+How D365 SCM Enhances Forecasting for Seasonal Food Demand
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different ways to check the current legal entity in x++]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4142</id>
+        <link href="https://anithasantosh.wordpress.com/2025/11/20/different-ways-to-check-the-current-legal-entity-in-x/"/>
+        <updated>2025-11-20T17:42:27.000Z</updated>
+        <summary type="html"><![CDATA[There are various ways in x++ to check the current company in X++ (Ax2012 / D365FO). 1. Using SysCountryRegionCode::isLegalEntityInCountryRegion Simplest built-in method. Example: ✅ Pros: Direct, readable, uses enum. No Hard-coding of the legal entity ⚠️ Cons: Limited to predefined … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different ways to check the current legal entity in x++]]></title>
+        <id>https://365community.online/different-ways-to-check-the-current-legal-entity-in-x</id>
+        <link href="https://365community.online/different-ways-to-check-the-current-legal-entity-in-x"/>
+        <updated>2025-11-20T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[There are various ways in x++ to check the current company in X++ (Ax2012 / D365FO). 1. Using SysCountryRegionCode::isLegalEntityInCountryRegion Simplest built-in method. Example: #ISOCountryRegionCodes if (SysCountryRegionCode::isLegalEntityInCountryRegion(#isoUS)) { info("Current legal entity is in the United States."); } Pros: Direct, readable, uses enum. No Hard-coding of the legal entity Cons: Limited to predefined SysCountryRegionCode macro values. 2. […]
+The post Different ways to check the current legal entity in x++ appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming ERP: A Conversation with Experts from Hitachi Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=137738</id>
+        <link href="https://erpsoftwareblog.com/2025/11/transforming-erp-a-conversation-with-experts-from-hitachi-solutions/"/>
+        <updated>2025-11-20T17:00:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In this blog, we’ve summarized an excerpt from a conversation on our Exchanges with Hitachi Solutions podcast with two of our Microsoft Dynamics 365 experts, Marcus Raddatz and Rick Doss, […]
+The post Transforming ERP: A Conversation with Experts from Hitachi Solutions appeared first on ERP Software Blog.
+What Does Moving to the Cloud Mean for Dynamics AX Users?
+Dynamics 365 Finance versus Dynamics 365 Business Central Functionality
+Bank Foreign Currency Revaluation Process in Dynamics 365 Finance]]></summary>
+        <author>
+            <name>Hitachi Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Open Source Make WordPress Different (And Better)?]]></title>
+        <id>https://365community.online/how-does-open-source-make-wordpress-different-and-better</id>
+        <link href="https://365community.online/how-does-open-source-make-wordpress-different-and-better"/>
+        <updated>2025-11-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress’s open-source nature gives you true ownership and flexibility for your website. Unlike proprietary site builders, it allows you full control over every aspect of your site — from hosting and design to performance and functionality. This matters because your website is a long-term asset. The platform you choose establishes the foundation for everything you […]
+The post How Does Open Source Make WordPress Different (And Better)? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investing in a Cloud Lab for Content – Why It’s Worth It – YouTube]]></title>
+        <id>https://365community.online/investing-in-a-cloud-lab-for-content-why-its-worth-it-youtube</id>
+        <link href="https://365community.online/investing-in-a-cloud-lab-for-content-why-its-worth-it-youtube"/>
+        <updated>2025-11-20T13:01:17.000Z</updated>
+        <summary type="html"><![CDATA[☁️ Investing in a Cloud Lab for Content – Why It’s Worth It | YouTube Content Creation Tips Hey #ITGeekFam! 👋 I’m out of the office again and soaking up the beach vibes 🌊 — but today I’m diving into a topic that truly transformed my content creation journey: building a personal cloud lab. Early […]
+The post Investing in a Cloud Lab for Content – Why It’s Worth It – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Learned Building Multi-Agent Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=137781</id>
+        <link href="https://erpsoftwareblog.com/2025/11/lessons-multi-agent-systems/"/>
+        <updated>2025-11-20T11:16:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Building our truck brokering multi-agent system for Community Summit NA taught us more in three weeks than months of reading documentation ever could. The architecture looked elegant on paper. Reality […]
+The post What We Learned Building Multi-Agent Systems appeared first on ERP Software Blog.
+Important Business Management Lessons I Learned from Rally Car Racing
+Microsoft Dynamics 365 Copilot
+Microsoft Copilot: The Future of AI Workspaces Is Here]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernising Field Operations with Connected Field Service]]></title>
+        <id>https://365community.online/modernising-field-operations-with-connected-field-service</id>
+        <link href="https://365community.online/modernising-field-operations-with-connected-field-service"/>
+        <updated>2025-11-20T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Modernising Field Operations with Connected Field Service Ageing infrastructure, rising customer expectations, and the need to deliver services faster and more sustainably are forcing field organisations to rethink how their field teams work. Connected Field Service, powered by Microsoft Dynamics 365, is transforming the way organisations manage assets, technicians, and service delivery.   We’ve explored […]
+The post Modernising Field Operations with Connected Field Service appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mark Christie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Effortlessly Export Reports, Templates, and CRM Data in One Click]]></title>
+        <id>https://365community.online/how-to-effortlessly-export-reports-templates-and-crm-data-in-one-click</id>
+        <link href="https://365community.online/how-to-effortlessly-export-reports-templates-and-crm-data-in-one-click"/>
+        <updated>2025-11-20T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Managing reports in Dynamics 365 often feels like a never-ending task. Exporting files, emailing updates, scheduling reports, and doing all of this manually can drain hours every week. But what if all of it could happen in just ONE click? That’s exactly what Click2Export brings to your CRM workflow. Let’s dive into how it works, […]
+The post How to Effortlessly Export Reports, Templates, and CRM Data in One Click appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding A Custom Page To A Form Ribbon In A Model-driven App]]></title>
+        <id>https://365community.online/adding-a-custom-page-to-a-form-ribbon-in-a-model-driven-app</id>
+        <link href="https://365community.online/adding-a-custom-page-to-a-form-ribbon-in-a-model-driven-app"/>
+        <updated>2025-11-20T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have started creating a custom page, the end goal adding a custom page to a form ribbon in a Model-driven App (Dynamics 365 Customer Engagement, CRM, Dataverse or whatever you want to call it). That is where your users will find it and interact with it. How do you do that? Well there […]
+The post Adding A Custom Page To A Form Ribbon In A Model-driven App appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Copilot in Business Central Automates Finance, Inventory & Reporting?]]></title>
+        <id>https://erpsoftwareblog.com/?p=137579</id>
+        <link href="https://erpsoftwareblog.com/2025/11/how-copilot-in-business-central-automates-finance-inventory-reporting/"/>
+        <updated>2025-11-20T06:01:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+AI is reshaping ERP systems, and Copilot in Business Central is at the center of this transformation. With SMBs facing rising operational costs, tighter margins, and constant labor shortages, intelligent […]
+The post How Copilot in Business Central Automates Finance, Inventory & Reporting? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welsh Azure User Group November 2025 Meet Up!]]></title>
         <id>https://365community.online/welsh-azure-user-group-november-2025-meet-up</id>
@@ -13,6 +194,17 @@
         <updated>2025-11-19T20:10:00.000Z</updated>
         <summary type="html"><![CDATA[Date: 19th November 2025Location: VirtualTopic: Building Scalable Voice Solutions with Azure Communication Services (ACS)Speaker: Fabrizio Volpe, Senior Consultant at Exponentially A Warm Welcome to the Community The Welsh Azure User Group wrapped up its final event of 2025 with an engaging virtual session focused on Azure Communication Services (ACS). Hosted by John Lunn and Matthew […]
 The post Welsh Azure User Group November 2025 Meet Up! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group  – November 2025 Event – YouTube]]></title>
+        <id>https://365community.online/welsh-azure-user-group-november-2025-event-youtube</id>
+        <link href="https://365community.online/welsh-azure-user-group-november-2025-event-youtube"/>
+        <updated>2025-11-19T20:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Welsh Azure User Group – November 2025 Event Join us for the Welsh Azure User Group November 2025 Virtual Meetup, where we dive deep into Azure Communication Services (ACS) and explore how to build scalable voice solutions for modern applications. In this session, Fabrizio Volpe, Senior Consultant at Exponentially, shares expert insights on: Why ACS […]
+The post Welsh Azure User Group  – November 2025 Event – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>John Lunn</name>
         </author>
@@ -282,6 +474,17 @@ Transform Your Business Central Operations at Community Summit North America 202
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Let it close itself: Smart, autonomous case closure is here]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/18/let-it-close-itself-smart-autonomous-case-closure-is-here/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/18/let-it-close-itself-smart-autonomous-case-closure-is-here/"/>
+        <updated>2025-11-18T18:16:57.000Z</updated>
+        <summary type="html"><![CDATA[What’s one of the most persistent challenges in customer service? The last mile.  A resolution might be proposed, but what happens next often falls into a gray zone. Agents are waiting for a response, customers are going silent, SLAs are creeping past their due dates. It’s inefficient, inconsistent, and frequently unnoticed until metrics start to dip.  With the latest release, Customer Management Agent (CMA) addresses this decisively.
+The post Let it close itself: Smart, autonomous case closure is here appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Madhuri Somara</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Both ERP and AI projects fail?]]></title>
         <id>https://erpsoftwareblog.com/?p=137623</id>
         <link href="https://erpsoftwareblog.com/2025/11/why-both-erp-and-ai-projects-fail/"/>
@@ -320,6 +523,28 @@ ERP Year End Tips and Tricks - Dynamics GP, NAV, SL, POS, AX, RMS & Dynamics 365
 ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey]]></summary>
         <author>
             <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Ignite 2025: Powering Frontier Firms with agentic business applications]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=196271</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/11/18/microsoft-ignite-2025-powering-frontier-firms-with-agentic-business-applications/"/>
+        <updated>2025-11-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accelerate transformation with the Microsoft Sales Development Agent and MCP Servers.
+The post Microsoft Ignite 2025: Powering Frontier Firms with agentic business applications appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Bryan Goode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the new Power Apps: The future of app development]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=132850</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/2025/11/18/inside-the-new-power-apps-the-future-of-app-development/"/>
+        <updated>2025-11-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how the new Power Apps empowers every developer to build intelligent, connected apps faster than ever.
+The post Inside the new Power Apps: The future of app development appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Ryan Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -580,6 +805,17 @@ How to Effectively Manage Your Cyclical Billing Processes Within Microsoft Dynam
 The post Fixed – Error occurred while loading document template / Error occurred while loading preview error in Dynamics 365 appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing customer support with autonomous case resolution]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/17/revolutionizing-customer-support-with-autonomous-case-resolution/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/17/revolutionizing-customer-support-with-autonomous-case-resolution/"/>
+        <updated>2025-11-17T17:18:21.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced digital landscape, customer expectations are higher than ever. They demand swift, accurate, and personalized support—without the friction of long wait times or repetitive interactions. Autonomous case resolution will redefine how support cases are managed and resolved.  What is autonomous case resolution?  Autonomous case resolution is a specialized sub agent within the broader Case Management Agent (CMA) ecosystem.
+The post Revolutionizing customer support with autonomous case resolution  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ramnath Srinivasan and Megha Gupta</name>
         </author>
     </entry>
     <entry>
@@ -924,6 +1160,17 @@ The post Get ready for Microsoft Ignite 2025 appeared first on 365 Community Onl
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Effortlessly create and update cases with Case Management Agent]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/14/effortlessly-create-and-update-cases-with-case-management-agent/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/14/effortlessly-create-and-update-cases-with-case-management-agent/"/>
+        <updated>2025-11-14T16:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Customers expect quick and smooth help when they reach out to customer support—whether it’s about a delayed order, a product question, or a service issue. Good case management means keeping track of all these requests and associated customer conversations to make sure nothing falls through the cracks.  Managing these cases is not always easy.
+The post Effortlessly create and update cases with Case Management Agent appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Neha Agarwal and Soham Ghosh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Multi-Agent Systems Actually Work Together (And Why It Matters)]]></title>
         <id>https://erpsoftwareblog.com/?p=137416</id>
         <link href="https://erpsoftwareblog.com/2025/11/multi-agent-systems-2/"/>
@@ -988,6 +1235,17 @@ The post A Practical Guide to Background Operations and Callback URL in Dynamics
 The post AI should serve humans – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listening, Learning, and Delivering: Field Service Upgrades for Everyday Scheduling]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=196310</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/13/field-service-scheduling-upgrades/"/>
+        <updated>2025-11-13T22:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few months, our scheduling team has focused on strengthening the core product by addressing the real-world needs of dispatchers, admins, frontline workers, and managers.
+The post Listening, Learning, and Delivering: Field Service Upgrades for Everyday Scheduling  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Michael Kelleher</name>
         </author>
     </entry>
     <entry>
@@ -1225,6 +1483,17 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
 The post Create A Basic Dialog Custom Page To Update One Record appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building trust and consistency: The evaluation framework behind QEA]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/12/building-trust-and-consistency-the-evaluation-framework-behind-qea/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/12/building-trust-and-consistency-the-evaluation-framework-behind-qea/"/>
+        <updated>2025-11-12T21:06:08.000Z</updated>
+        <summary type="html"><![CDATA[In our recent blog, we introduced how the Quality Evaluation Agent elevates support excellence by bringing automation, consistency, and intelligence to quality assessments. Now, let’s dive deeper into the evaluation framework at the heart of QEA – the blueprint that defines how QEA evaluates support interactions, what standards it upholds, and how it transforms raw evaluations into actionable insights.
+The post Building trust and consistency: The evaluation framework behind QEA appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Shruti Phanse</name>
         </author>
     </entry>
     <entry>
@@ -1520,6 +1789,20 @@ Managing High-Value Medical Assets in D365 Finance
 Connect and Innovate with STAEDEAN at Dynamics Community Summit 2025]]></summary>
         <author>
             <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolving the Dynamics 365 ERP Model Context Protocol (MCP) Server]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=196244</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/11/dynamics-365-erp-model-context-protocol/"/>
+        <updated>2025-11-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is extending that foundation with two major advancements: 
+ The Dynamics 365 ERP MCP server is evolving from static to dynamic. This unlocks hundreds of thousands of ERP functions for secure, real-time use by agents, developers, and applications. The new dynamic server is now in public preview.
+A new Dynamics 365 ERP MCP server for analytics is being introduced. It applies the same model-context principles to business intelligence and insights, with public preview of the server coming this December.
+Together, these capabilities advance how ERP systems, data, and AI agents connect: simplifying extensibility, supporting accelerated development, and enabling consistent governance across every business process.
+The post Evolving the Dynamics 365 ERP Model Context Protocol (MCP) Server  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jared Hall</name>
         </author>
     </entry>
     <entry>
@@ -2048,6 +2331,17 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
 The post Spring Boot Tutorial | Install & Setup Spring Boot CLI, Suite, Auto Configuration – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ana Gligorijević, Jure Leskovec: We Don’t Hire Toxic People (Dnevnik Interview)]]></title>
+        <id>https://ax.docentric.com/?p=33059</id>
+        <link href="https://ax.docentric.com/ana-gligorijevic-jure-leskovec-interview-we-dont-hire-toxic-people/"/>
+        <updated>2025-11-08T12:36:34.000Z</updated>
+        <summary type="html"><![CDATA[After receiving the Golden Gazelle award, Ana Gligorijević and Jure Leskovec, Docentric founders and co-CEOs, sat down with Dnevnik journalist Urška Rus. They spoke about Docentric’s journey, culture, values, and leadership. Among other things, Ana and Jure emphasized that the company’s success comes from a […]
+The post Ana Gligorijević, Jure Leskovec: We Don’t Hire Toxic People (Dnevnik Interview) appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marjeta Dimnik</name>
         </author>
     </entry>
     <entry>
@@ -4240,6 +4534,17 @@ Reliable by Design: How Commission Plan Became Metropolitan Sales’ Trusted Sol
 Better Information = Stronger Company in Tough Economy]]></summary>
         <author>
             <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docentric Wins the 2025 Golden Gazelle Award 🏆]]></title>
+        <id>https://ax.docentric.com/?p=33066</id>
+        <link href="https://ax.docentric.com/docentric-wins-the-2025-golden-gazelle-award/"/>
+        <updated>2025-10-27T12:05:39.000Z</updated>
+        <summary type="html"><![CDATA[We are proud to announce that Docentric has been awarded the 2025 Golden Gazelle, recognizing us as Slovenia’s best high-growth company. The Golden Gazelle award, organized by the newspaper publisher Dnevnik, is the most prestigious business recognition a Slovenian company can receive. It honors the […]
+The post Docentric Wins the 2025 Golden Gazelle Award 🏆 appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marjeta Dimnik</name>
         </author>
     </entry>
     <entry>
@@ -8031,6 +8336,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>ERP Software Blog Guest Blogger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dnevnik: “Docentric, One of the Most Promising Tech Companies”]]></title>
+        <id>https://ax.docentric.com/?p=33047</id>
+        <link href="https://ax.docentric.com/docentric-one-of-the-most-promising-tech-companies/"/>
+        <updated>2025-10-03T14:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Docentric was recently featured in Dnevnik, Slovenia’s daily newspaper, as one of the country’s most promising technology companies. The article highlights Docentric’s strong growth, community-first culture, and the leadership of founders Ana Gligorijević and Jure Leskovec – a journey from the first product prototype to […]
+The post Dnevnik: “Docentric, One of the Most Promising Tech Companies” appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marjeta Dimnik</name>
         </author>
     </entry>
     <entry>
@@ -104689,124 +105005,6 @@ Transform Pharma Industry with next-generation Pharmaceutical ERP
 Everything you need to know about Warehouse Order Picking Methods]]></summary>
         <author>
             <name>Vicinity Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End-of-year balance confirmation automation with RPA]]></title>
-        <id>http://dynamicsax-fico.com/?p=5518</id>
-        <link href="https://dynamicsax-fico.com/2023/11/22/end-of-year-balance-confirmation-automation-with-rpa/"/>
-        <updated>2023-11-22T10:28:26.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock the Full Potential of Dynamics 365 with Managed Services]]></title>
-        <id>https://erpsoftwareblog.com/?p=102116</id>
-        <link href="https://erpsoftwareblog.com/2023/11/unlock-the-full-potential-of-dynamics-365-with-managed-services/"/>
-        <updated>2023-11-22T09:13:11.000Z</updated>
-        <summary type="html"><![CDATA[More and more businesses today are relying on the cloud to run their business efficiently. With several business applications running across different cloud and hybrid environments, managing these applications requires …  Unlock the Full Potential of Dynamics 365 with Managed Services Read More »
-The post Unlock the Full Potential of Dynamics 365 with Managed Services appeared first on ERP Software Blog.
-4 Steps to Secure Your Data Using EMS
-Webinar: How intuition & integration drive revenue & cost analysis with DynaRent in Dynamics 365 for Operations
-Compare Microsoft Dynamics GP, AX, NAV, & Dynamics 365]]></summary>
-        <author>
-            <name>Synoptek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Basics of Globalization Studio in Microsoft Dynamics 365 Finance]]></title>
-        <id>https://erpsoftwareblog.com/?p=102111</id>
-        <link href="https://erpsoftwareblog.com/2023/11/the-basics-of-globalization-studio-in-microsoft-dynamics-365-finance-2/"/>
-        <updated>2023-11-22T05:47:48.000Z</updated>
-        <summary type="html"><![CDATA[The increasing digitization of the world has enabled businesses to expand their operations in Globalization Studio in Microsoft Dynamics 365 Finance, fostering integration and interdependence among various cultures, societies, and …  The Basics of Globalization Studio in Microsoft Dynamics 365 Finance Read More »
-The post The Basics of Globalization Studio in Microsoft Dynamics 365 Finance appeared first on ERP Software Blog.
-Tech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack
-Register Now for JourneyTEAM’s 2021 Business Technology Summit
-Challenges Rental Companies Face from ERP and CRM Silos - And the Solution]]></summary>
-        <author>
-            <name>Techcronus Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing General Availability for model-driven apps offline for maker]]></title>
-        <id>announcing-general-availability-for-model-driven-apps-offline-for-maker</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-model-driven-apps-offline-for-maker/"/>
-        <updated>2023-11-22T05:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Do your users need to work on the go with spotty connectivity? With model-driven apps offline for makers experience in general availability, it is now easier than before to set up an app to work offline. After enabling your model-driven apps for offline, people in your organization can work seamlessly without worrying about connectivity! You…]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReportFYI Is the Perfect Solution for Complex Financial Reporting in Microsoft Dynamics 365 BC]]></title>
-        <id>https://erpsoftwareblog.com/?p=101850</id>
-        <link href="https://erpsoftwareblog.com/2023/11/reportfyi-is-the-perfect-solution-for-complex-financial-reporting-in-microsoft-dynamics-365-bc/"/>
-        <updated>2023-11-22T01:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Even companies experiencing success can face challenges when it comes to upgrading their business software. That was the case with Sprenger Health Care Systems when they moved from their legacy …  ReportFYI Is the Perfect Solution for Complex Financial Reporting in Microsoft Dynamics 365 BC Read More »
-The post ReportFYI Is the Perfect Solution for Complex Financial Reporting in Microsoft Dynamics 365 BC appeared first on ERP Software Blog.
-DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021
-deFacto PowerPlanning | Pain Point Remedies : Financial Reporting in PowerBI
-Join Us At Dynamic Communities Summit - Booth 800]]></summary>
-        <author>
-            <name>FYIsoft, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Track Pending Deliveries in Microsoft Dynamics 365 Finance & Operations]]></title>
-        <id>https://erpsoftwareblog.com/?p=101907</id>
-        <link href="https://erpsoftwareblog.com/2023/11/how-to-track-pending-deliveries-in-microsoft-dynamics-365-finance-operations/"/>
-        <updated>2023-11-22T01:03:49.000Z</updated>
-        <summary type="html"><![CDATA[For companies (like manufacturers and distributors) that need to manage inventory, keeping track of pending deliveries is crucial. Microsoft Dynamics 365 Finance and Operations offers robust tools to help manage …  How to Track Pending Deliveries in Microsoft Dynamics 365 Finance & Operations Read More »
-The post How to Track Pending Deliveries in Microsoft Dynamics 365 Finance & Operations appeared first on ERP Software Blog.
-Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry
-Still Using Dynamics GP? Why it Might be Hindering Your Manufacturing Business
-How Microsoft Dynamics 365 Can Transform Your Manufacturing Business]]></summary>
-        <author>
-            <name>Western Computer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of ePayables and AI]]></title>
-        <id>https://erpsoftwareblog.com/?p=102092</id>
-        <link href="https://erpsoftwareblog.com/2023/11/the-state-of-epayables-and-ai/"/>
-        <updated>2023-11-21T20:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Ardent Partners recently unveiled their report, "The State of ePayables 2023: Paving the Way for a Smarter Future." This research offers intriguing perspectives on the evolving roles of AI and …  The State of ePayables and AI Read More »
-The post The State of ePayables and AI appeared first on ERP Software Blog.
-6 Ways to Use AI in Your Business
-Modern AP Automation for Business Central
-SimplyAP - Cloud AP Automation for Business Central]]></summary>
-        <author>
-            <name>Lori Johnson, MetaViewer Paperless AP Automation for Microsoft Dynamics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERP & eCommerce Integration Strategies]]></title>
-        <id>https://erpsoftwareblog.com/?p=102060</id>
-        <link href="https://erpsoftwareblog.com/2023/11/erp-e-commerce-integration-strategies/"/>
-        <updated>2023-11-21T17:24:08.000Z</updated>
-        <summary type="html"><![CDATA[ERP & e-commerce Integration Strategies involve combining two different systems to work together cohesively and efficiently. Some commonly used integration strategies are discussed below: Point-to-Point Integration: Direct connection between two …  ERP & eCommerce Integration Strategies Read More »
-The post ERP & eCommerce Integration Strategies appeared first on ERP Software Blog.
-Restricted Party Screening for Microsoft Dynamics GP, Do You Know Who You Do Business With?
-Integrated eCommerce: The Key to Keeping Up with Big Box Retailers
-10 Benefits of Data Quality Studio for D365 ERP]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling the Secrets to Financial Transformation Success: Your Roadmap to Excellence]]></title>
-        <id>https://erpsoftwareblog.com/?p=101856</id>
-        <link href="https://erpsoftwareblog.com/2023/11/101856/"/>
-        <updated>2023-11-21T15:42:48.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic landscape of today's business world, staying ahead of the curve requires adaptability, innovation, and most importantly, financial transformation. Many companies turn to external consultants to guide them …  Unveiling the Secrets to Financial Transformation Success: Your Roadmap to Excellence Read More »
-The post Unveiling the Secrets to Financial Transformation Success: Your Roadmap to Excellence appeared first on ERP Software Blog.
-A Digital Transformation Revolution is Brewing
-Overcome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automation
-Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip]]></summary>
-        <author>
-            <name>Binary Stream</name>
         </author>
     </entry>
     <entry>
