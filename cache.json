@@ -508,16 +508,6 @@
           "wordCount": 2943,
           "title": "How to add custom Execute action in logic app",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe1F8hlG3eD9EQKAVRz_7boC-BemrK_-sSOCaE5cPzno2s7fYVVEt3CbuunhBB5k5midD_b_WPWn2Uz6hD9weYa1l58f4yuk_3zbA8tIVnHXuCmKHeZT-D0Z4mXRpYh1_qWDUZ4XcTy1SziYkguU8ALRjkjEIEaNtOJQpUnd4apKvdGcEuhLYdQ_agmMQ/w1200-h630-p-k-no-nu/11.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/11/convert-csv-file-to-json-in-logic-app.html",
-          "author": null,
-          "description": "Convert CSV file to JSON in Logic app.\nThis is the full step-by-step process, and I have provided its output below.\n\n\n\nI used the below CSV file, separated by pipes ('|'), to test this.\n\nPlease follow the below steps.\n\n\n        Step 1: I fetched the file from Blob by searching for the blob and selecting the 'Get blob content' action.\n\n\n\n\n\n\n       Step 2: For this action, I provided the storage account name and file path.\n\n\n\n\n\n \n        Step 3: To process the output content from the blob, I used the 'Compose' action and applied the 'Split' function.\n\n\n\n\n\n         Expression:\n        split(body('Get_blob_content_'),decodeUriComponent('%0D%0A'))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        Step 4: Additionally, I used another 'Compose' action to remove the last line, as it appeared empty. You can choose to include…",
-          "link": "https://kishoredynamics11.blogspot.com/2023/11/convert-csv-file-to-json-in-logic-app.html",
-          "publishedOn": "2023-11-23T05:46:00.000Z",
-          "wordCount": 3033,
-          "title": "Convert CSV file to JSON in Logic app",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgMO4srcSDGbVEVqYrA4_QNSYeYi8mS4kcDB1Y-WhW6h_jdvexdtISnxR49CuDySxAhoRrf26GzKDRohwMeU69ZBCJ8aFP1ZdxuAg4IbDcQpyub7laObgtCzjUyhIjwZEk6uf00GNZVS0Xy_Ehmt5GEiaFc_ZLraW5wj6bme1F4_r1Up_pyDq6zscJT6E/w1200-h630-p-k-no-nu/0.jpg"
         }
       ]
     },
@@ -1496,6 +1486,66 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=137455",
+          "author": "Technology Management Concepts",
+          "description": "xxx\nTL;DR Organizations invest in the Microsoft technology stack because it connects finance, sales, operations, reporting, collaboration, and AI tools in one environment. The stack is designed to help teams work […]\nThe post How the Microsoft Technology Stack Simplifies Work and Prepares Businesses for AI appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/11/how-the-microsoft-technology-stack-simplifies-work-and-prepares-businesses-for-ai/",
+          "publishedOn": "2025-11-21T23:05:19.000Z",
+          "wordCount": 7919,
+          "title": "How the Microsoft Technology Stack Simplifies Work and Prepares Businesses for AI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-the-Microsoft-Technology-Stack-Simplifies-Work-and-Prepares-Businesses-for-AI.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137852",
+          "author": "Ryan Carolan D365contractors.com",
+          "description": "xxx\nBy d365contractors.com ~ connecting food & beverage manufacturers with independent Dynamics 365 experts who actually understand catch-weight and cold storage  Do We Really Need to Upgrade from AX 2012 Right […]\nThe post The Hidden Costs of Staying on AX 2012: Why Food & Beverage Manufacturers Are Paying More by Delaying Their D365 Upgrade appeared first on ERP Software Blog.\nThe 5 Most Often Overlooked Costs of ERP\nERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV\nReShoring Manufacturing in the U.S.A.",
+          "link": "https://erpsoftwareblog.com/2025/11/ax-2012-hidden-costs-food-beverage-manufacturers/",
+          "publishedOn": "2025-11-21T22:55:19.000Z",
+          "wordCount": 9203,
+          "title": "The Hidden Costs of Staying on AX 2012: Why Food & Beverage Manufacturers Are Paying More by Delaying Their D365 Upgrade",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/d365-ax2012-vs-d365-upgrade-food-manufacturing.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137753",
+          "author": "Insight Works",
+          "description": "xxx\nAs warehouses face growing demand and limited stock availability, Order Fulfillment Worksheet brings real-time order management to Microsoft Dynamics 365 Business Central, automating picks, shipments, and backorder tracking to keep […]\nThe post Optimize Order Fulfillment in Business Central with Order Fulfillment Worksheet appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/11/optimize-order-fulfillment-in-business-central-with-order-fulfillment-worksheet/",
+          "publishedOn": "2025-11-21T20:02:41.000Z",
+          "wordCount": 7085,
+          "title": "Optimize Order Fulfillment in Business Central with Order Fulfillment Worksheet",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Optimize-Order-Fulfillment-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137833",
+          "author": "Avalara",
+          "description": "xxx\nThe compliance landscape for Microsoft Dynamics users is shifting faster than most people realize. While businesses have relied on traditional tax automation for years, a new wave of AI technology […]\nThe post Why Dynamics 365 Users Need to Pay Attention to Agentic AI in Tax Compliance appeared first on ERP Software Blog.\nCopilot and Dynamics 365 ERP: A Match Made for Efficiency\nHeads Up: Successful Forecasting and Demand Planning with AGR\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2025/11/why-dynamics-365-users-need-to-pay-attention-to-agentic-ai-in-tax-compliance/",
+          "publishedOn": "2025-11-21T18:35:30.000Z",
+          "wordCount": 7309,
+          "title": "Why Dynamics 365 Users Need to Pay Attention to Agentic AI in Tax Compliance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/video-thumbnaill-image.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137766",
+          "author": "Hanumanth Tenneti, SVP - Biz Apps & Competency Head- Microsoft Dynamics",
+          "description": "xxx\nERP modernization is shifting from basic cloud migration to a new phase of intelligent, data-driven reinvention, towards composable, AI-enabled ERP architectures that integrate real-time data, automate decision-making, and unlock predictive […]\nThe post Sonata Software powers AI-first ERP transformation appeared first on ERP Software Blog.\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nMicrosoft Dynamics 365 Business Central: Essentials vs. Premium\nA Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge",
+          "link": "https://erpsoftwareblog.com/2025/11/sonata-software-powers-ai-first-erp-transformation/",
+          "publishedOn": "2025-11-21T17:00:43.000Z",
+          "wordCount": 7213,
+          "title": "Sonata Software powers AI-first ERP transformation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Sonata-ERPSoftwareBlog-Article.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137826",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nThere’s a moment in every growing business when spreadsheets stop being helpful, dashboards start feeling outdated, and simple tools can no longer support complex decisions. It’s the moment leaders realize: […]\nThe post Microsoft Dynamics 365 Adoption for SMBs appeared first on ERP Software Blog.\nImportant Business Management Lessons I Learned from Rally Car Racing\nMicrosoft Dynamics 365 Copilot\nMicrosoft Copilot: The Future of AI Workspaces Is Here",
+          "link": "https://erpsoftwareblog.com/2025/11/microsoft-dynamics-365-adoption-for-smbs/",
+          "publishedOn": "2025-11-21T09:52:35.000Z",
+          "wordCount": 6933,
+          "title": "Microsoft Dynamics 365 Adoption for SMBs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=137809",
           "author": "CAL Business Solutions, Inc.",
@@ -34100,66 +34150,6 @@
           "wordCount": 7187,
           "title": "Microsoft Dynamics 365 Business Central and Dynamics GP Year-End Processing 2023",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102159",
-          "author": "Techcronus Inc.",
-          "description": "Why you should upgrade to Dynamics 365 Business Central before the end of 2023? Switching from one ERP system to another is an infrequent event for businesses due to the …  Why you should upgrade to Dynamics 365 Business Central? Read More »\nThe post Why you should upgrade to Dynamics 365 Business Central? appeared first on ERP Software Blog.\nBarcoding & Advance Warehouse Management with D365 BC\nEverything you need to know about Warehouse Order Picking Methods\nFour Newly Released Business Central Features To Improve Your Team’s Efficiency",
-          "link": "https://erpsoftwareblog.com/2023/11/why-you-should-upgrade-to-dynamics-365-business-central/",
-          "publishedOn": "2023-11-23T04:40:33.000Z",
-          "wordCount": 7678,
-          "title": "Why you should upgrade to Dynamics 365 Business Central?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Why-you-should-upgrade-to-Dynamics-365-Business-Central_-1536x864-1.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102133",
-          "author": "Insight Works",
-          "description": "Upgrade Dynamics GP shipping with Business Central and Dynamic Ship by Insight Works. Experience seamless integration, cost-effective rate shopping, and streamlined operations.\nThe post From GP to Business Central: Elevate Shipping Processes appeared first on ERP Software Blog.\nQuote Generation with Product Configurator for Business Central\nRevolutionizing Production Scheduling: Unveiling MxAPS 4.7 for Business Central\nCycle Counting vs. Full Physical Counts: A Comprehensive Inventory Insight",
-          "link": "https://erpsoftwareblog.com/2023/11/from-gp-to-business-central-elevate-shipping-processes/",
-          "publishedOn": "2023-11-22T21:34:04.000Z",
-          "wordCount": 7321,
-          "title": "From GP to Business Central: Elevate Shipping Processes",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamic-Ship-250.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102139",
-          "author": "Mark Rockwell, Rockton Software",
-          "description": "In the world of retail, pricing strategies play a pivotal role in attracting customers, driving sales, and maximizing profits. Seasonal retail sales, in particular, present a unique set of challenges …  Pricing Strategies for Seasonal Retail Sales Read More »\nThe post Pricing Strategies for Seasonal Retail Sales appeared first on ERP Software Blog.\nAccelerating Your Online Business Presence and Profitability\n5 Types of ERP Software Delivery Models To Consider Before You Buy\nBinary Stream - Did You Know - Weekly Tips - Multi-Entity Management - New Entity Setup Wizard",
-          "link": "https://erpsoftwareblog.com/2023/11/pricing-strategies-for-seasonal-retail-sales/",
-          "publishedOn": "2023-11-22T21:31:00.000Z",
-          "wordCount": 7476,
-          "title": "Pricing Strategies for Seasonal Retail Sales",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102130",
-          "author": "Domain 6 Inc.",
-          "description": "With so many ERP solutions out on the market, choosing the one that is right for your organization might be a challenge. And now if you have decided to go …  Dynamics 365 Business Central vs Dynamics 365 Finance and Operations: Choose the Right ERP for Your Business Read More »\nThe post Dynamics 365 Business Central vs Dynamics 365 Finance and Operations: Choose the Right ERP for Your Business appeared first on ERP Software Blog.\nIs It Time for a New ERP Software Implementation?\nScaling up: 6 signs it's time to ditch QuickBooks\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve",
-          "link": "https://erpsoftwareblog.com/2023/11/dynamics-365-business-central-vs-dynamics-365-finance-and-operations-choose-the-right-erp-for-your-business/",
-          "publishedOn": "2023-11-22T17:23:54.000Z",
-          "wordCount": 7595,
-          "title": "Dynamics 365 Business Central vs Dynamics 365 Finance and Operations: Choose the Right ERP for Your Business",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_275650312-scaled.jpeg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102123",
-          "author": "DynamicPoint",
-          "description": "Creating an employee expense management solution on Office 365 can be achieved by leveraging the various tools and services available within the platform. This is an alternative to purchasing a …  Creating an Employee Expense Management Solution on Office 365 vs Alternative Solutions Read More »\nThe post Creating an Employee Expense Management Solution on Office 365 vs Alternative Solutions appeared first on ERP Software Blog.\nStaffing Agency Manages Finances with Just One Person Using Microsoft Dynamics GP with Project Accounting\n24/7 Self Service Customer & Vendor Portals | Fast. Easy. Integrated.\nCan Microsoft Dynamics GP Provide Better Insight?",
-          "link": "https://erpsoftwareblog.com/2023/11/creating-an-employee-expense-management-solution-on-office-365-vs-alternative-solutions/",
-          "publishedOn": "2023-11-22T15:27:12.000Z",
-          "wordCount": 6926,
-          "title": "Creating an Employee Expense Management Solution on Office 365 vs Alternative Solutions",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-112123-2.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=101812",
-          "author": "Vicinity Software",
-          "description": "An ERP Implementation is one of the most impactful projects your company will embark on. Your ERP system will be the core of your company's business processes. It will be …  Achieving Dynamics ERP Implementation Success for Manufacturers Read More »\nThe post Achieving Dynamics ERP Implementation Success for Manufacturers appeared first on ERP Software Blog.\nOptimize the Picking Process with the right methodology in your Warehouse\nTransform Pharma Industry with next-generation Pharmaceutical ERP\nEverything you need to know about Warehouse Order Picking Methods",
-          "link": "https://erpsoftwareblog.com/2023/11/achieving-dynamics-erp-implementation-success-for-manufacturers/",
-          "publishedOn": "2023-11-22T14:10:50.000Z",
-          "wordCount": 7617,
-          "title": "Achieving Dynamics ERP Implementation Success for Manufacturers",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-11-Achieving-Dynamics-ERP-Implementation-Success-for-Manufacturers_1200-x-628.png"
         }
       ]
     },
@@ -35767,16 +35757,6 @@
           "wordCount": 2295,
           "title": "How to Use Excel to Bulk Update Records in Dynamics 365 Finance & Operations",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=59877",
-          "author": "The Encore Team",
-          "description": "How to Report on Asset Leases in Dynamics 365 Finance & Operations\nIf a finance team member or leader, or anyone else needs to report on asset leases (for instance, for the Board of Directors) from Dynamics 365 Finance & Operations, this article will tell you how to get the information you need. Read more about Setting Up Asset Leasing in Dynamics 365 Finance & Operations here and Using Asset...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/how-to-report-on-asset-leases-in-dynamics-365-finance-operations/",
-          "publishedOn": "2023-11-22T16:00:35.000Z",
-          "wordCount": 1778,
-          "title": "How to Report on Asset Leases in Dynamics 365 Finance & Operations",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
         }
       ]
     },
@@ -35786,6 +35766,46 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/20-years-of-wordpress-com-show-us-what-youve-built",
+          "author": "Belinda Allen",
+          "description": "Today, we’re celebrating 20 years of WordPress.com! We set out to put the power of publishing into everyone’s hands, and since then, millions of you have used it to build amazing things. Our beginnings and our purpose On June 20, 2005, WordPress project co-founder Matt Mullenweg hired Donncha Ó Caoimh (a software developer and WordPress […]\nThe post 20 Years of WordPress.com: Show Us What You’ve Built appeared first on 365 Community Online.",
+          "link": "https://365community.online/20-years-of-wordpress-com-show-us-what-youve-built",
+          "publishedOn": "2025-11-21T15:00:00.000Z",
+          "wordCount": 2309,
+          "title": "20 Years of WordPress.com: Show Us What You’ve Built",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/20-Years-of-WordPresscom-Show-Us-What-Youve-Built.jpg"
+        },
+        {
+          "id": "https://365community.online/best-practices-for-mastering-territory-planning-in-2026",
+          "author": "Inogic",
+          "description": "Companies that are effective at territory design achieve 14% higher sales objectives, while poorly designed territories correlate with 15% lower sales performance. Why Territory Management is Now Strategic? The moment a company expands into new markets or starts relying more on field teams, one truth becomes clear- ‘geography isn’t just distance, it’s strategy’. How you […]\nThe post Best Practices for Mastering Territory Planning in 2026 appeared first on 365 Community Online.",
+          "link": "https://365community.online/best-practices-for-mastering-territory-planning-in-2026",
+          "publishedOn": "2025-11-21T09:05:00.000Z",
+          "wordCount": 3525,
+          "title": "Best Practices for Mastering Territory Planning in 2026",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Best-Practices-for-Mastering-Territory-Planning-in-2026.png"
+        },
+        {
+          "id": "https://365community.online/visualize-dataverse-insights-using-code-interpreter-in-microsoft-copilot-studio",
+          "author": "Inogic",
+          "description": "Microsoft Copilot Studio is rapidly transforming how business users analyze data, automate tasks, and create intelligent solutions. One of its most powerful new capabilities is the Code Interpreter, which allows users to run Python code directly within Copilot, without needing developer expertise. With this feature, users can perform advanced data analysis, process documents (Word, Excel, […]\nThe post Visualize Dataverse Insights Using Code Interpreter in Microsoft Copilot Studio appeared first on 365 Community Online.",
+          "link": "https://365community.online/visualize-dataverse-insights-using-code-interpreter-in-microsoft-copilot-studio",
+          "publishedOn": "2025-11-21T09:05:00.000Z",
+          "wordCount": 3272,
+          "title": "Visualize Dataverse Insights Using Code Interpreter in Microsoft Copilot Studio",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Visualize-Dataverse-Insights-Using-Code-Interpreter-in-Microsoft-Copilot-Studio.png"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-use-sequential-guids-when-possible",
+          "author": "Stefano Demiliani",
+          "description": "I think that everyone of you know what a GUID is. A GUID (Globally Unique Identifier) is a 128-bit number used to uniquely identify information in computer systems. A GUID is represented as a 32-character hexadecimal string, typically formatted with hyphens like this: 550e8400-e29b-41d4-a716-446655440000. The 128 bits are divided into five groups that follow a […]\nThe post Dynamics 365 Business Central: use sequential GUIDs when possible. appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamics-365-business-central-use-sequential-guids-when-possible",
+          "publishedOn": "2025-11-21T08:47:00.000Z",
+          "wordCount": 2875,
+          "title": "Dynamics 365 Business Central: use sequential GUIDs when possible.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Dynamics-365-Business-Central-use-sequential-GUIDs-when-possible.png"
+        },
+        {
           "id": "https://365community.online/different-ways-to-check-the-current-legal-entity-in-x",
           "author": "Anitha Santosh",
           "description": "There are various ways in x++ to check the current company in X++ (Ax2012 / D365FO). 1. Using SysCountryRegionCode::isLegalEntityInCountryRegion Simplest built-in method. Example: #ISOCountryRegionCodes if (SysCountryRegionCode::isLegalEntityInCountryRegion(#isoUS)) { info(\"Current legal entity is in the United States.\"); } Pros: Direct, readable, uses enum. No Hard-coding of the legal entity Cons: Limited to predefined SysCountryRegionCode macro values. 2. […]\nThe post Different ways to check the current legal entity in x++ appeared first on 365 Community Online.",
@@ -35794,6 +35814,16 @@
           "wordCount": 2162,
           "title": "Different ways to check the current legal entity in x++",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/10/ALTER-COMMANDS-ON-SQL-SERVER.png"
+        },
+        {
+          "id": "https://365community.online/how-to-add-action-to-a-button-in-model-driven-app-using-power-fx-dataverse-ribbontutorial-2025-youtube",
+          "author": "Manish chauhan",
+          "description": "In this step-by-step tutorial, you’ll learn how to add a custom action to an existing button in a Model-Driven App using Power Fx in Dynamics 365 and Dataverse. We’ll walk through: ✔ How to edit the Application Ribbon in Dataverse ✔ Adding and configuring a custom command ✔ Applying Power Fx logic to the button […]\nThe post How to Add Action to a Button in Model-Driven App using Power Fx | Dataverse RibbonTutorial 2025 – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-add-action-to-a-button-in-model-driven-app-using-power-fx-dataverse-ribbontutorial-2025-youtube",
+          "publishedOn": "2025-11-20T15:18:02.000Z",
+          "wordCount": 2228,
+          "title": "How to Add Action to a Button in Model-Driven App using Power Fx | Dataverse RibbonTutorial 2025 – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
           "id": "https://365community.online/how-does-open-source-make-wordpress-different-and-better",
@@ -80241,16 +80271,6 @@
           "wordCount": 4353,
           "title": "Transforming Supply Chains: Exploring Advanced AI-Powered Demand Forecasting and Demand Planning in Dynamics 365 Supply Chain Management",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/07/IoT-Azure-2.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/22/deliver-higher-impact-experiences-with-better-data-quality-and-configuration-with-copilot/",
-          "author": "Radha Sayyaparaju and Zachary Cook",
-          "description": "In today’s data-driven world, businesses rely on customer data to fuel their marketing strategies. They need to access, analyze, and act on this data to power personalized experiences that drive return on marketing investments. \nThe post Deliver higher-impact experiences with better data  quality and configuration with Copilot appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/22/deliver-higher-impact-experiences-with-better-data-quality-and-configuration-with-copilot/",
-          "publishedOn": "2023-11-22T14:48:31.000Z",
-          "wordCount": 3267,
-          "title": "Deliver higher-impact experiences with better data  quality and configuration with Copilot",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/CLO20_Demi_008_yoast.jpg"
         }
       ]
     },
