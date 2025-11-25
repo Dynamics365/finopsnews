@@ -96,6 +96,16 @@
           "imageUrl": "https://automaly.com/img/ripples.svg"
         },
         {
+          "id": "https://automaly.com/posts/using-xppprepostargs-to-pass-parameters-through-a-method/",
+          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
+          "description": "Master XppPrePostArgs class in Dynamics 365 for passing parameters between pre- and post-event handlers. Practical example with CustGroup table extension and method wrapping.",
+          "link": "https://automaly.com/posts/using-xppprepostargs-to-pass-parameters-through-a-method/",
+          "publishedOn": "2024-01-02T00:00:00.000Z",
+          "wordCount": 752,
+          "title": "Using XppPrePostArgs to pass parameters through a method",
+          "imageUrl": "https://automaly.com/img/ripples.svg"
+        },
+        {
           "id": "https://automaly.com/posts/nodataintmptableforpreprocessreport/",
           "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
           "description": "Troubleshoot SSRS report preprocessing issues in Dynamics 365 Finance and Operations. Learn why takeOwnershipOfTempTable() is required for temporary table manipulation in RDP classes.",
@@ -1486,6 +1496,116 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=137636",
+          "author": "DLD Business Solutions, Inc.",
+          "description": "xxx\nMoving from Dynamics GP to Dynamics 365 BC isn't something you want to jump into without a plan. A well-structured migration keeps your project on track, prevents unpleasant surprises, and […]\nThe post Dynamics GP to Dynamics 365 BC: 7 Steps for a Smooth Migration appeared first on ERP Software Blog.\nFrom Dynamics GP to Business Central: Tackling Common Migration Pain Points\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality",
+          "link": "https://erpsoftwareblog.com/2025/11/dynamics-gp-to-dynamics-365-bc-7-steps-for-a-smooth-migration/",
+          "publishedOn": "2025-11-25T01:30:31.000Z",
+          "wordCount": 7599,
+          "title": "Dynamics GP to Dynamics 365 BC: 7 Steps for a Smooth Migration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-11-Dynamics-GP-to-Dynamics-365-BC-7-Steps-for-a-Smooth-Migration_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137761",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works welcomed eight Microsoft Partners into its reseller program in October, expanding its global network and helping more Business Central users succeed. Insight Works, a leading Independent Software Vendor […]\nThe post Eight Resellers Join Insight Works to Strengthen Business Central Solutions appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/11/eight-resellers-join-insight-works-to-strengthen-business-central-solutions/",
+          "publishedOn": "2025-11-24T20:00:05.000Z",
+          "wordCount": 6931,
+          "title": "Eight Resellers Join Insight Works to Strengthen Business Central Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/October-Resellers-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137770",
+          "author": "Argano",
+          "description": "xxx\nHistorically, supply chain management was viewed primarily as a fundamental operational function that was focused on moving products efficiently, reducing costs, and ensuring smooth logistics. Few organizations recognized its potential […]\nThe post Supply Chain Management: From Operational Necessity to Strategic Advantage appeared first on ERP Software Blog.\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nMicrosoft Dynamics 365 Business Central: Essentials vs. Premium\nA Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge",
+          "link": "https://erpsoftwareblog.com/2025/11/supply-chain-management-from-operational-necessity-to-strategic-advantage/",
+          "publishedOn": "2025-11-24T17:00:57.000Z",
+          "wordCount": 6899,
+          "title": "Supply Chain Management: From Operational Necessity to Strategic Advantage",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Argano-ERPSoftwareBlog-Article.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137387",
+          "author": "Leapwork",
+          "description": "xxx\nYou can feel it the moment something breaks. A checkout page freezes, a workflow misfires, or a field refuses to load. It’s never dramatic at first, but as every finance […]\nThe post Streamlined Dynamics 365 Testing Automation with Leapwork appeared first on ERP Software Blog.\nSmarter Testing with Playwright MCP: Unlocking AI-Powered Testing for Dynamics 365 Finance & Operations\nTop 7 AI Features in D365 Finance & Ops That CFOs Can’t Ignore\nCommunity Summit North America 2025 Guide: Must-See Sessions, Key Insights, and Networking Tips",
+          "link": "https://erpsoftwareblog.com/2025/11/streamlined-dynamics-365-testing-automation-with-leapwork/",
+          "publishedOn": "2025-11-24T16:48:24.000Z",
+          "wordCount": 7501,
+          "title": "Streamlined Dynamics 365 Testing Automation with Leapwork",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-11-Streamlined-Dynamics-365-Testing-Automation-with-Leapwork_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137258",
+          "author": "Netstock",
+          "description": "xxx\nFor many small and midsize businesses (SMBs), 2024 was a year of reacting to nonstop challenges. But 2025 is shaping up differently as the year of rebuilding with strategy and […]\nThe post Supply Chain Planning with D365 SCM and This Report's Insights appeared first on ERP Software Blog.\nSalesPad Order Entry for Dynamics GP and WMS complete your Supply Chain!\nImprove Inventory Tracking in Microsoft Dynamics NAV\nApple is Teaming Up with Former Nemesis IBM",
+          "link": "https://erpsoftwareblog.com/2025/11/supply-chain-planning-with-d365-scm-and-this-reports-insights/",
+          "publishedOn": "2025-11-24T16:42:26.000Z",
+          "wordCount": 7455,
+          "title": "Supply Chain Planning with D365 SCM and This Report's Insights",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-11-Supply-Chain-Planning-with-D365-SCM-and-This-Reports-Insights_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=135817",
+          "author": "Qixas Group",
+          "description": "xxx\nWhy You Need Microsoft Copilot - Embrace the Power of AI In an era where businesses are constantly striving to improve efficiency and adaptability, the integration of Ai is no […]\nThe post Why You Need Microsoft Copilot - Embrace the Power of AI appeared first on ERP Software Blog.\nMicrosoft Business Central Will Save You Time - Here's How\nEp 65 | Copilot in Business Central | A Shot of Business Central and A Beer\nMicrosoft Dynamics 365 Business Central and Microsoft Dynamics 365 Finance and Operations: What’s the Difference?",
+          "link": "https://erpsoftwareblog.com/2025/11/why-you-need-microsoft-copilot-embrace-the-power-of-ai/",
+          "publishedOn": "2025-11-24T16:05:48.000Z",
+          "wordCount": 7233,
+          "title": "Why You Need Microsoft Copilot - Embrace the Power of AI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/maxresdefault.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137885",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nYour sales manager walks into your office and asks, \"What does our Q4 pipeline look like by region?\" You know the data is in Dynamics 365. You also know you're […]\nThe post Chart Your Dynamics 365 Data in Seconds appeared first on ERP Software Blog.\nThe Consumerization of Online B2B Sales\nMicrosoft Dynamics 365 for Sales Management\nHow Dynamics 365 Makes the Job of an Accountant Easier",
+          "link": "https://erpsoftwareblog.com/2025/11/chart-your-dynamics-365-data-in-seconds/",
+          "publishedOn": "2025-11-24T14:13:43.000Z",
+          "wordCount": 7531,
+          "title": "Chart Your Dynamics 365 Data in Seconds",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-42.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137835",
+          "author": "Ed Garibian, LLumin, Inc.",
+          "description": "xxx\nOrganizations that depend on equipment, facilities, or vehicles know how quickly operations can slow down when something unexpected breaks. That’s why many turn to a CMMS — a computerized maintenance […]\nThe post Optimize Asset Management with Dynamics ERP and LLumin CMMS+ appeared first on ERP Software Blog.\nSycor.Rental for Equipment Rental Industries\nHow Microsoft Dynamics 365 ERP and Sycor.Rental Helped a Rental Company Break Down Silos\nDid You Get the Memo?  Automotive Production Part Suppliers Face Challenges in Getting and Interpreting Their Mail",
+          "link": "https://erpsoftwareblog.com/2025/11/optimize-asset-management-with-dynamics-erp-and-llumin-cmms/",
+          "publishedOn": "2025-11-24T14:00:34.000Z",
+          "wordCount": 7369,
+          "title": "Optimize Asset Management with Dynamics ERP and LLumin CMMS+",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-11-LLumin-Blog-Photo-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137831",
+          "author": "MetaOption LLC",
+          "description": "xxx\nIn 2026, managing stocks, handling orders, and streamlining your warehouse operations have become easier than ever before. If you are still relying on multiple warehouse management tools to manage and […]\nThe post 10 Top Warehouse Management Systems in 2026: Rating, Uses, Features appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/11/top-warehouse-management-systems/",
+          "publishedOn": "2025-11-24T13:52:37.000Z",
+          "wordCount": 8474,
+          "title": "10 Top Warehouse Management Systems in 2026: Rating, Uses, Features",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/WMS-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137878",
+          "author": "Volt Technologies",
+          "description": "xxx\nIn today’s manufacturing environment, efficient production scheduling is no longer optional, it’s essential. Many small and mid-sized manufacturers still rely on spreadsheets, manual workarounds or disconnected systems that sap productivity […]\nThe post Streamlining Production Scheduling with ERP Tools appeared first on ERP Software Blog.\nDid You Get the Memo?  Automotive Production Part Suppliers Face Challenges in Getting and Interpreting Their Mail\nWhat is Process Manufacturing?\nMaterial Tracking Systems – Sometimes Smaller is Better than Bigger",
+          "link": "https://erpsoftwareblog.com/2025/11/streamlining-production-scheduling-with-erp-tools/",
+          "publishedOn": "2025-11-24T10:25:19.000Z",
+          "wordCount": 6922,
+          "title": "Streamlining Production Scheduling with ERP Tools",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Production-Scheduling-with-ERP-Tools.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137872",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nFor years, Sage 200 and QuickBooks have been go-to choices for small and mid-sized UK companies. But as businesses scale, expand across regions, add more revenue streams, or simply require […]\nThe post Why UK Companies Are Replacing Sage 200 & QuickBooks with Business Central (2026 Guide) appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/11/why-uk-companies-are-replacing-sage-200-quickbooks-with-business-central-2026-guide/",
+          "publishedOn": "2025-11-24T07:46:49.000Z",
+          "wordCount": 7606,
+          "title": "Why UK Companies Are Replacing Sage 200 & QuickBooks with Business Central (2026 Guide)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Replacing-Sage-200-QuickBooks-with-Business-Central-625x417.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=137864",
           "author": "Dynamics Square USA",
@@ -34149,6 +34269,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=71946",
+          "author": "Don McNulty",
+          "description": "Functionality in Dynamics GP Compared to D365 Business Central | Assembly & Light Manufacturing\nIn this recorded webinar, learn how light manufacturing and assembly processes are handled in Dynamics GP compared to Dynamics 365 Business Central. This session highlights the differences in how Bills of Materials (BOMs), assembly orders, and kits are managed. Topics Covered: Using Bills of Materials (BOMs) Creating and managing assembly orders Comparing assembly vs. kits...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/gp-compared-to-d365-business-central-assembly-light-manufacturing/",
+          "publishedOn": "2025-11-24T21:57:15.000Z",
+          "wordCount": 5489,
+          "title": "Functionality in Dynamics GP Compared to D365 Business Central | Assembly & Light Manufacturing",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2025/11/GP-to-D365-BC-Assembly-Light-Mfg-LI.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47173",
           "author": "Jess Mooney",
           "description": "What Is Dynamics 365 Customer Service?\nDynamics 365 Customer Service is a business application that empowers service teams to provide fast, consistent, high-quality customer service and gather insights about customer trends and interactions. As one of the Microsoft Dynamics 365 CRM applications, Customer Service integrates with the rest of the Dynamics 365 stack, but can also stand alone. Encore has implemented Dynamics...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -35735,6 +35865,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/mes-integration-integrate-d365fo-with-third-party-integration-system-part-2-inbound",
+          "author": "Anitha Santosh",
+          "description": "In continuation to my previous post which explored the Outbound APIs, let us continue to understand about Inbound APIs. To monitor the incoming MES messages to the system, go to Production control > Setup > Manufacturing execution > Manufacturing execution systems integration. The data sent via external app or postman is captured here. How to […]\nThe post MES Integration – Integrate D365FO with Third Party integration system – Part 2 (Inbound) appeared first on 365 Community Online.",
+          "link": "https://365community.online/mes-integration-integrate-d365fo-with-third-party-integration-system-part-2-inbound",
+          "publishedOn": "2025-11-24T21:36:00.000Z",
+          "wordCount": 2351,
+          "title": "MES Integration – Integrate D365FO with Third Party integration system – Part 2 (Inbound)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/MES-Integration-–-Integrate-D365FO-with-Third-Party-integration-system-–.png"
+        },
+        {
+          "id": "https://365community.online/fixing-the-only-1-of-2-keys-provided-for-lookup-provide-keys-for-dataareaid-projectid-not-found-error-in-power-automate-fin-ops-apps",
+          "author": "Nishant Rana",
+          "description": "Recently, while working with the Projects table from a Finance & Operations (F&O) environment, we ran into an error while using the Get a record action in Power Automate. (BTW this was the first we were using the Fin & Ops connector) The flow kept failing with the following message: Only 1 of 2 keys […]\nThe post Fixing the “Only 1 of 2 keys provided for lookup, provide keys for dataAreaId, ProjectID / Not found” Error in Power Automate (Fin & Ops Apps) appeared first on 365 Community Online.",
+          "link": "https://365community.online/fixing-the-only-1-of-2-keys-provided-for-lookup-provide-keys-for-dataareaid-projectid-not-found-error-in-power-automate-fin-ops-apps",
+          "publishedOn": "2025-11-24T18:35:00.000Z",
+          "wordCount": 2222,
+          "title": "Fixing the “Only 1 of 2 keys provided for lookup, provide keys for dataAreaId, ProjectID / Not found” Error in Power Automate (Fin & Ops Apps)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Fixing-the-Only-1-of-2-keys-provided-for-lookup.jpeg"
+        },
+        {
+          "id": "https://365community.online/managed-vs-shared-wordpress-hosting-which-is-best-for-you",
+          "author": "Belinda Allen",
+          "description": "When you’re starting a website, hosting can feel like one of the trickier choices — especially if you’re trying to balance cost, performance, security, and simplicity. In short, shared hosting is the budget-friendly option where multiple websites share the same server, while managed WordPress hosting offers better speed, security, and automatic maintenance. This guide breaks […]\nThe post Managed vs. Shared WordPress Hosting: Which is Best for You? appeared first on 365 Community Online.",
+          "link": "https://365community.online/managed-vs-shared-wordpress-hosting-which-is-best-for-you",
+          "publishedOn": "2025-11-24T15:00:00.000Z",
+          "wordCount": 3940,
+          "title": "Managed vs. Shared WordPress Hosting: Which is Best for You?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Managed-vs-Shared-WordPress-Hosting-Which-is-Best-for-You.jpg"
+        },
+        {
+          "id": "https://365community.online/delegated-deployments-for-pipelines-full-guide-youtube",
+          "author": "Matt Collins",
+          "description": "In this video, I provide a full guide for how to setup delegated deployments for Power Platform Pipelines. Delegated deployments enable so many possibilities for organisations and can make them more secure. https://www.mattcollinsjones.co.uk/single-post/power-platform-pipelines-delegated-deployment-architectural-pattern-for-connections-with-oauth https://learn.microsoft.com/en-us/power-platform/alm/delegated-deployments-setup Blog: https://www.mattcollinsjones.co.uk BlueSky: https://bsky.app/profile/mattcollinsjones.co.uk LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source\nThe post Delegated Deployments for Pipelines – Full Guide – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/delegated-deployments-for-pipelines-full-guide-youtube",
+          "publishedOn": "2025-11-24T13:31:01.000Z",
+          "wordCount": 2044,
+          "title": "Delegated Deployments for Pipelines – Full Guide – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/mastering-power-platform-security-a-complete-guide-to-protecting-your-crm-data",
+          "author": "Inogic",
+          "description": "The Security Overview page in the Power Platform admin center serves as a centralized dashboard where you can monitor security, review your security score, and activate recommended policies. For CRM administrators managing Dynamics 365 and Power Platform environments, understanding these security features is essential to safeguarding your organization’s data. Introduction Microsoft Power Platform enables organizations […]\nThe post Mastering Power Platform Security: A Complete Guide to Protecting Your CRM Data appeared first on 365 Community Online.",
+          "link": "https://365community.online/mastering-power-platform-security-a-complete-guide-to-protecting-your-crm-data",
+          "publishedOn": "2025-11-24T11:39:00.000Z",
+          "wordCount": 4410,
+          "title": "Mastering Power Platform Security: A Complete Guide to Protecting Your CRM Data",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/1Mastering-Power-Platform-Security.png"
+        },
+        {
+          "id": "https://365community.online/powerapps-codeapps-passo-a-passo-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Documentação: https://learn.microsoft.com/en-us/power-apps/developer/code-apps/quickstart ♐ Adquira meu curso Avançado de PowerApps na Hotmart. https://go.hotmart.com/U98457324E ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Hotmart. https://go.hotmart.com/S74000868Y ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 🚀 Let’s connect: Linkedin: https://www.linkedin.com/in/saulosoaresoliveira Seja membro deste canal e […]\nThe post PowerApps CodeApps passo a passo – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/powerapps-codeapps-passo-a-passo-youtube",
+          "publishedOn": "2025-11-24T11:27:54.000Z",
+          "wordCount": 2050,
+          "title": "PowerApps CodeApps passo a passo – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/vscode-copilot-studiogithub-copilot-traduce-y-actualiza-al-italiano-facil-shorts-youtube",
+          "author": "jarmesto",
+          "description": "VSCode + Copilot Studio+GitHub Copilot: Traduce y Actualiza al italiano ¡Fácil! #shorts\nThe post VSCode + Copilot Studio+GitHub Copilot: Traduce y Actualiza al italiano ¡Fácil! #shorts – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/vscode-copilot-studiogithub-copilot-traduce-y-actualiza-al-italiano-facil-shorts-youtube",
+          "publishedOn": "2025-11-24T07:12:52.000Z",
+          "wordCount": 2045,
+          "title": "VSCode + Copilot Studio+GitHub Copilot: Traduce y Actualiza al italiano ¡Fácil! #shorts – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/sabias-que-puedes-usar-vs-code-para-editar-tus-agentes-de-copilot-studio-youtube",
           "author": "jarmesto",
@@ -76223,6 +76423,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=4149",
+          "author": "AnithaEswaran",
+          "description": "In continuation to my previous post which explored the Outbound APIs, let us continue to understand about Inbound APIs. To monitor the incoming MES messages to the system, go to Production control > Setup > Manufacturing execution > Manufacturing execution … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2025/11/24/mes-integration-integrate-d365fo-with-third-party-integration-system-part-2-inbound/",
+          "publishedOn": "2025-11-24T21:36:08.000Z",
+          "wordCount": 3329,
+          "title": "MES Integration – Integrate D365FO with Third Party integration system – Part 2 (Inbound)",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2025/11/image-11.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=4142",
           "author": "AnithaEswaran",
           "description": "There are various ways in x++ to check the current company in X++ (Ax2012 / D365FO). 1. Using SysCountryRegionCode::isLegalEntityInCountryRegion Simplest built-in method. Example: ✅ Pros: Direct, readable, uses enum. No Hard-coding of the legal entity ⚠️ Cons: Limited to predefined … Continue reading →",
@@ -77658,7 +77868,7 @@
           "description": "We are thrilled to announce that the Customer Feedback Survey Agent, powered by Microsoft Copilot Studio in Dynamics 365 Contact Center, is now generally available for the chat channel.\nThe post Customer Feedback Survey Agent is now generally available appeared first on Microsoft Dynamics 365 Blog.",
           "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/11/21/customer-feedback-survey-agent-is-now-generally-available/",
           "publishedOn": "2025-11-21T15:57:58.000Z",
-          "wordCount": 4762,
+          "wordCount": 4750,
           "title": "Customer Feedback Survey Agent is now generally available",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/MSFT_M365_FEB23_320727_Blog_Blogheader_240227_V03_1200.png"
         },
