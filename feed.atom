@@ -2,10 +2,243 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-25T01:49:12.169Z</updated>
+    <updated>2025-11-26T01:49:06.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aligning Microsoft Dynamics 365 with Industry Needs: Western Computer’s Approach]]></title>
+        <id>https://erpsoftwareblog.com/?p=138013</id>
+        <link href="https://erpsoftwareblog.com/2025/11/aligning-microsoft-dynamics-365-with-industry-needs-western-computers-approach/"/>
+        <updated>2025-11-25T22:13:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In a crowded ERP and business applications market, many partners claim industry expertise. Fewer can point to decades of focus, a large bench of senior consultants, and a clear alignment […]
+The post Aligning Microsoft Dynamics 365 with Industry Needs: Western Computer’s Approach appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+“Readers Digest” Version of the LEAN Enterprise
+Addressing Sales Tax Compliance with Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MES Integration – Integrate D365FO with Third Party integration system – Part 3 (Cleanup)]]></title>
+        <id>https://365community.online/mes-integration-integrate-d365fo-with-third-party-integration-system-part-3-cleanup</id>
+        <link href="https://365community.online/mes-integration-integrate-d365fo-with-third-party-integration-system-part-3-cleanup"/>
+        <updated>2025-11-25T20:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Refer my previous posts for Outbound and Inbound . In this article, let us understand the clean up part. In order to clean up the processed and canceled messages related to third-party MES systems which can affect the performance and data management, a clean up job is necessary. Go to System administration > Message processor > […]
+The post MES Integration – Integrate D365FO with Third Party integration system – Part 3 (Cleanup) appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MES Integration – Integrate D365FO with Third Party integration system – Part 3 (Cleanup)]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4167</id>
+        <link href="https://anithasantosh.wordpress.com/2025/11/25/mes-integration-integrate-d365fo-with-third-party-integration-system-part-3-cleanup/"/>
+        <updated>2025-11-25T20:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Refer my previous posts for Outbound and Inbound . In this article, let us understand the clean up part. In order to clean up the processed and canceled messages related to third-party MES systems which can affect the performance and … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Efficiency in Transportation with Microsoft Dynamics 365 Finance & SCM]]></title>
+        <id>https://erpsoftwareblog.com/?p=138006</id>
+        <link href="https://erpsoftwareblog.com/2025/11/driving-efficiency-in-transportation-with-microsoft-dynamics-365-finance-scm/"/>
+        <updated>2025-11-25T20:30:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the transportation sector, profit margins remain tight, customer demands continue to rise, and logistics operations grow more intricate each year. To stay ahead, carriers and logistics organizations must rely […]
+The post Driving Efficiency in Transportation with Microsoft Dynamics 365 Finance & SCM appeared first on ERP Software Blog.
+Top 7 AI Features in D365 Finance & Ops That CFOs Can’t Ignore
+Community Summit North America 2025 Guide: Must-See Sessions, Key Insights, and Networking Tips
+Navigating Pricing in the Dynamics Space: Why Transparency Matters]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smarter Planning in Business Central: Insight Works Releases Enhanced Planning Pack v3.9]]></title>
+        <id>https://erpsoftwareblog.com/?p=137925</id>
+        <link href="https://erpsoftwareblog.com/2025/11/smarter-planning-in-business-central-insight-works-releases-enhanced-planning-pack-v3-9/"/>
+        <updated>2025-11-25T20:03:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When production schedules slip or stock levels miss the mark, it’s often not your team’s fault; it’s your tools. Standard Business Central planning pages can only take you so far. […]
+The post Smarter Planning in Business Central: Insight Works Releases Enhanced Planning Pack v3.9 appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+How Manufacturers Automate Preventive Maintenance with Business Central
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1099 Continuous Compliance: How Year-Round Vendor Validation Simplifies Year-End 1099 Prep]]></title>
+        <id>https://erpsoftwareblog.com/?p=137995</id>
+        <link href="https://erpsoftwareblog.com/2025/11/1099-continuous-compliance-year-end-prep/"/>
+        <updated>2025-11-25T19:38:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Keeping up with vendor compliance doesn’t have to be a stressful, last-minute race. By adopting 1099 continuous compliance, AP teams can maintain accurate, audit-ready vendor data all year long—reducing risk, […]
+The post 1099 Continuous Compliance: How Year-Round Vendor Validation Simplifies Year-End 1099 Prep appeared first on ERP Software Blog.
+Embedded AP Solutions vs Integrated: What’s Right for Your Team?
+Mekorma Payment Hub v1.0 for Business Central is here!
+Going Beyond ACH Payments in Business Central]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JobBOSS vs Dynamics 365 Business Central: Which ERP Is Better for Modern Manufacturers?]]></title>
+        <id>https://erpsoftwareblog.com/?p=137994</id>
+        <link href="https://erpsoftwareblog.com/2025/11/jobboss-vs-dynamics-365-business-central/"/>
+        <updated>2025-11-25T19:26:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manufacturers today need more than basic production scheduling and job costing tools. They need integrated, scalable, cloud-based ERP systems that can automate processes, improve visibility, and support growth. As a […]
+The post JobBOSS vs Dynamics 365 Business Central: Which ERP Is Better for Modern Manufacturers? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cloud-First to AI-First: How Dynamics 365 ERP Is Evolving for Enterprise — With a Focus on Manufacturing]]></title>
+        <id>https://erpsoftwareblog.com/?p=137788</id>
+        <link href="https://erpsoftwareblog.com/2025/11/from-cloud-first-to-ai-first-how-dynamics-365-erp-is-evolving-for-enterprise-with-a-focus-on-manufacturing/"/>
+        <updated>2025-11-25T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  For years, manufacturers have been modernizing their operations by shifting from on-premises ERP systems to cloud-based platforms. The move to the cloud introduced improvements in scalability, real-time visibility, and […]
+The post From Cloud-First to AI-First: How Dynamics 365 ERP Is Evolving for Enterprise — With a Focus on Manufacturing appeared first on ERP Software Blog.
+Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined
+Top 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)
+Add Barcodes to Report Writer in GP]]></summary>
+        <author>
+            <name>Alithya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Multi-Agent AI Fixed Truck-to-Load Matching]]></title>
+        <id>https://erpsoftwareblog.com/?p=137980</id>
+        <link href="https://erpsoftwareblog.com/2025/11/multi-agent-systems-3/"/>
+        <updated>2025-11-25T16:11:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  The Problem A transportation company with 500+ trucks had a bottleneck that was killing their business: matching trucks to loads took over 75 seconds on average. Think about what […]
+The post How Multi-Agent AI Fixed Truck-to-Load Matching appeared first on ERP Software Blog.
+Demand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP
+6 Ways to Use AI in Your Business
+Webinar Coming Up! Reducing Accounting Overhead for Long Term Care]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recap 2025 Business Central 📱 – YouTube]]></title>
+        <id>https://365community.online/recap-2025-business-central-%f0%9f%93%b1-youtube</id>
+        <link href="https://365community.online/recap-2025-business-central-%f0%9f%93%b1-youtube"/>
+        <updated>2025-11-25T14:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Recap 2025 Business Central 📱
+The post Recap 2025 Business Central 📱 – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recap 2025 Business Central – YouTube]]></title>
+        <id>https://365community.online/recap-2025-business-central-youtube</id>
+        <link href="https://365community.online/recap-2025-business-central-youtube"/>
+        <updated>2025-11-25T14:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Recap 2025 Business Central
+The post Recap 2025 Business Central – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Game-Changing AI Features in Dynamics 365 Commerce Retailers Should Not Ignore]]></title>
+        <id>https://erpsoftwareblog.com/?p=137976</id>
+        <link href="https://erpsoftwareblog.com/2025/11/dynamics-365-commerce-ai-retail-features/"/>
+        <updated>2025-11-25T14:19:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’re a retailer today, your competition isn't just the store down the street; it's the seamless, personalized experience offered by digital giants. Customer expectations for instant answers, perfect product […]
+The post 7 Game-Changing AI Features in Dynamics 365 Commerce Retailers Should Not Ignore appeared first on ERP Software Blog.
+6 reasons to partner with Dynamicweb for integrated eCommerce solutions
+Holiday season eCommerce and marketing ideas to boost your sales
+How to build a better B2B eCommerce customer experience]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Question: Can I Automatically Calculate Commissions for a Territory Manager in Dynamics GP?]]></title>
+        <id>https://erpsoftwareblog.com/?p=137924</id>
+        <link href="https://erpsoftwareblog.com/2025/11/question-can-i-automatically-calculate-commissions-for-a-territory-manager-in-dynamics-gp/"/>
+        <updated>2025-11-25T13:45:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Answer: If you’re relying solely on GP functionality and the territory manager is different than the salesperson: no, you can’t. You can create territories in GP and assign customers to them, but […]
+The post Question: Can I Automatically Calculate Commissions for a Territory Manager in Dynamics GP? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Strategies to Simplify Record Cloning in CRM]]></title>
+        <id>https://365community.online/top-strategies-to-simplify-record-cloning-in-crm</id>
+        <link href="https://365community.online/top-strategies-to-simplify-record-cloning-in-crm"/>
+        <updated>2025-11-25T09:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Recreating similar records manually in CRM — like Quotes, Orders, Opportunities, or Cases — can feel like déjà vu for every user. These repetitive tasks not only consume valuable time but also increase the risk of human error and data inconsistency. Best Solution? Click2Clone, the ultimate productivity app for Dynamics 365 CRM by Inogic, automates […]
+The post Top Strategies to Simplify Record Cloning in CRM appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ignite 2025 Announcements You Need to Know and Why They Matter]]></title>
+        <id>https://365community.online/ignite-2025-announcements-you-need-to-know-and-why-they-matter</id>
+        <link href="https://365community.online/ignite-2025-announcements-you-need-to-know-and-why-they-matter"/>
+        <updated>2025-11-25T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[I was fortunate to attend Microsoft’s Ignite conference last week, and just like I’ve seen before at other conferences, we see that agents and AI are (and will probably stay) a big focus of Microsoft. After letting all the announcements sink in, one message came through loud and clear: agents aren’t just assistants anymore, they’re […]
+The post Ignite 2025 Announcements You Need to Know and Why They Matter appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Ignite 2025 Announcements you need to know and why they matter – YouTube]]></title>
+        <id>https://365community.online/top-ignite-2025-announcements-you-need-to-know-and-why-they-matter-youtube</id>
+        <link href="https://365community.online/top-ignite-2025-announcements-you-need-to-know-and-why-they-matter-youtube"/>
+        <updated>2025-11-25T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Top Ignite 2025 Announcements you need to know and why they matter Microsoft Ignite delivered some massive announcements this year — especially around Copilot Agents, PowerPlatform, WorkIQ, and Agent 365 — and these updates are about to reshape how we build, deploy, and govern AI across the Dynamics 365 ecosystem. In this video, I break […]
+The post Top Ignite 2025 Announcements you need to know and why they matter – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculating Your Overall Net Promoter Score In Dataverse]]></title>
+        <id>https://365community.online/calculating-your-overall-net-promoter-score-in-dataverse</id>
+        <link href="https://365community.online/calculating-your-overall-net-promoter-score-in-dataverse"/>
+        <updated>2025-11-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I wrote about this back in 2019 back when Dataverse was the Common Data Service, and Customer Voice was Forms Pro, AND before Realtime Marketing and Customer Insights Journeys. So time for a bit of a revamp! This post will look at how you can calculate your organisations overall Net Promoter Score in Dataverse. It […]
+The post Calculating Your Overall Net Promoter Score In Dataverse appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Blueprint to Reality: Your Non-Techie Guide to Phase 3 (Building and Testing Your CRM)]]></title>
+        <id>https://365community.online/from-blueprint-to-reality-your-non-techie-guide-to-phase-3-building-and-testing-your-crm</id>
+        <link href="https://365community.online/from-blueprint-to-reality-your-non-techie-guide-to-phase-3-building-and-testing-your-crm"/>
+        <updated>2025-11-25T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[As a Customer Service Director, you recognise the immense pressure when systems fail. Housing associations are often trapped. They are forced to rely on rigid, expensive, and outdated systems. These systems actively prevent colleagues from providing excellent service. This reliance leads to critical consequences. It causes Service Degradation for both colleagues and customers. Critical funds […]
+The post From Blueprint to Reality: Your Non-Techie Guide to Phase 3 (Building and Testing Your CRM) appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics GP to Dynamics 365 BC: 7 Steps for a Smooth Migration]]></title>
         <id>https://erpsoftwareblog.com/?p=137636</id>
@@ -105261,32 +105494,6 @@ How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP]]></summary>
 The post Deploy A D365 Environment appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application modernization with Power Platform]]></title>
-        <id>application-modernization-with-power-platform</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/application-modernization-with-power-platform/"/>
-        <updated>2023-11-27T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The low-code development capabilities of Microsoft Power Platform make it possible to build and deploy modern applications faster and more cost-effectively than ever before. Whether you’re a citizen developer tinkering around the edges or a professional developer working on a complex customization, you can drive digital transformation intuitively, quickly, and at a lower cost than with traditional approaches.
-
-This white paper explores the benefits, strategies, and best practices of modernizing applications with Power Platform. It provides insights and guidance on how Power Platform can help you ensure the success of application modernization efforts as part of an organization’s digital transformation.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Advantages of Using Dynamics GP Payroll]]></title>
-        <id>https://erpsoftwareblog.com/?p=101945</id>
-        <link href="https://erpsoftwareblog.com/2023/11/the-advantages-of-using-dynamics-gp-payroll/"/>
-        <updated>2023-11-27T03:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Do you realize that some companies have paid $100,000 to use Dynamics GP Payroll and Human Resources for unlimited employees? But if you purchased GP after December 2012, you have …  The Advantages of Using Dynamics GP Payroll Read More »
-The post The Advantages of Using Dynamics GP Payroll appeared first on ERP Software Blog.
-How CA Field Value Security Solves Checkbook Access Issues in Dynamics GP
-More Information on New Releases for Microsoft Dynamics GP Coming in 2014!
-A glance at DynaRent’s rental project management features in Dynamics 365 for Finance and Operations]]></summary>
-        <author>
-            <name>DLD Business Solutions, Inc.</name>
         </author>
     </entry>
     <entry>
