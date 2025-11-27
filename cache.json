@@ -508,16 +508,6 @@
           "wordCount": 2771,
           "title": "Get worker current company using x++",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKVqhPgtthwYLwQKH4Yl6KeHq7eVJ9wbqMnDIwUY98ykenycQsx4uu3m7Y8x7pMN0LAPNLcIamoiYeaWHovCoOXfe28Yq-ZrpgkHBVm3QRlnPTLDP4TnbkxJ-4Khogz1iQS8uZX9Tn4XbioLNu0KtA9yADsKwpExMweFm9RnCYc2sc5wKAMwcSIL0z9n4/w1200-h630-p-k-no-nu/image_2024_02_16T10_17_52_109Z.png"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2023/11/how-to-add-custom-execute-action-in_96.html",
-          "author": null,
-          "description": "How to add custom Execute action in the logic app.\n\n\n\n\n\n\n\n\n\n\n\nIn the drop-down, the system will display standard OData execute actions. To enable this, we need to create an OData execute action. \n\nThis involves creating a method in the data entity and adding the following attribute at the top of the method.\n\n\n        [SysODataActionAttribute(\"Name\", false)]\n\n\n\n\n For a static method, we will pass 'false.' For an instance method, we need to pass 'true'.\n\n\n\nBelow code I have written in my custom entity.\n[SysODataActionAttribute(\"GetSalesStatus\", false)]\npublic static str getStatus(str    salesId, DataAreaId company)\n{\n    str  status;\n\n    changecompany (company)\n    {\n\tstatus = enum2Str(SalesTable::find(salesId).SalesStatus);\n    }\n\n    return  status;\n} \n\n\n\nAfter rebuilding the project, it appears in the drop-down.\n\n\n\n\n\n\n\n\nSales ID and company are the input parameters. After selecting the execute action, click on 'Add parameter,' then select these two parameters and assign their respective values\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the blog below, he has explained OData actions with different scenarios. Please check for further clarification.   \nOData actions\n\n\n\nKeep Daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2023/11/how-to-add-custom-execute-action-in_96.html",
-          "publishedOn": "2023-11-28T08:32:00.000Z",
-          "wordCount": 2943,
-          "title": "How to add custom Execute action in logic app",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe1F8hlG3eD9EQKAVRz_7boC-BemrK_-sSOCaE5cPzno2s7fYVVEt3CbuunhBB5k5midD_b_WPWn2Uz6hD9weYa1l58f4yuk_3zbA8tIVnHXuCmKHeZT-D0Z4mXRpYh1_qWDUZ4XcTy1SziYkguU8ALRjkjEIEaNtOJQpUnd4apKvdGcEuhLYdQ_agmMQ/w1200-h630-p-k-no-nu/11.png"
         }
       ]
     },
@@ -1497,12 +1487,62 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=138036",
+          "author": "Insight Works",
+          "description": "xxx\nChoosing one Business Central ISV with a fully integrated app suite helps you keep your environment clear, consistent, and manageable. After all, working in Business Central is easier when your […]\nThe post 10 Reasons Why Insight Works is Your Ultimate Dynamics 365 Business Central ISV appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/11/10-reasons-why-insight-works-is-your-ultimate-dynamics-365-business-central-isv/",
+          "publishedOn": "2025-11-26T20:00:29.000Z",
+          "wordCount": 6914,
+          "title": "10 Reasons Why Insight Works is Your Ultimate Dynamics 365 Business Central ISV",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/10-reasons-cover-.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137482",
+          "author": "Technology Management Concepts",
+          "description": "xxx\nTL;DR Copilot in Dynamics 365 Sales continues to grow into a powerful AI assistant for sales teams. In 2025, Copilot offers role-based sales agents, automated data mapping, advanced meeting prep […]\nThe post How Copilot in Dynamics 365 Sales Helps Teams Work Faster and Build Stronger Customer Relationships appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/11/how-copilot-in-dynamics-365-sales-helps-teams-work-faster-and-build-stronger-customer-relationships/",
+          "publishedOn": "2025-11-26T18:05:22.000Z",
+          "wordCount": 7434,
+          "title": "How Copilot in Dynamics 365 Sales Helps Teams Work Faster and Build Stronger Customer Relationships",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-Copilot-in-Dynamics-365-Sales-Helps-Teams-Work-Faster-and-Build-Stronger-Customer-Relationships.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137938",
+          "author": "Gina Montgomery, Armanino",
+          "description": "xxx\nAI dominates today's enterprise conversation, especially when it comes to ERP transformation. From automating journal processes to predicting supply chain disruptions, AI promises to revolutionize how organizations operate. But beneath […]\nThe post Beyond the AI Buzz: How to Safeguard ERP Innovation from Hidden Risks appeared first on ERP Software Blog.\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nMicrosoft Dynamics 365 Business Central: Essentials vs. Premium\nA Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge",
+          "link": "https://erpsoftwareblog.com/2025/11/beyond-the-ai-buzz-how-to-safeguard-erp-innovation-from-hidden-risks-2/",
+          "publishedOn": "2025-11-26T17:00:18.000Z",
+          "wordCount": 7466,
+          "title": "Beyond the AI Buzz: How to Safeguard ERP Innovation from Hidden Risks",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Armanino-ERPSoftwareBlog-Image.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138028",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nHere's the problem: someone asks you about a deal from three months ago, and you're digging through old emails, trying to remember who said what and when. Or a new […]\nThe post How to Actually Use the Timeline in Dynamics 365 Sales appeared first on ERP Software Blog.\nThe Consumerization of Online B2B Sales\nMicrosoft Dynamics 365 for Sales Management\nHow Dynamics 365 Makes the Job of an Accountant Easier",
+          "link": "https://erpsoftwareblog.com/2025/11/timeline-in-dynamics-365-sales/",
+          "publishedOn": "2025-11-26T14:45:49.000Z",
+          "wordCount": 7375,
+          "title": "How to Actually Use the Timeline in Dynamics 365 Sales",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-44.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138016",
+          "author": "Data Courage",
+          "description": "xxx\nFinance teams in every industry are feeling the pressure to move faster, manage more complexity, and keep up with rising expectations for accuracy. At the same time, Microsoft continues to […]\nThe post The New Era of Autonomous Finance in Business Central appeared first on ERP Software Blog.\nASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey\nJoin Us At Dynamic Communities Summit - Booth 800\nHeads Up: Successful Forecasting and Demand Planning with AGR",
+          "link": "https://erpsoftwareblog.com/2025/11/the-new-era-of-autonomous-finance-in-business-central/",
+          "publishedOn": "2025-11-26T05:10:42.000Z",
+          "wordCount": 7189,
+          "title": "The New Era of Autonomous Finance in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Social-1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=138013",
           "author": "ERP Software Blog Writer",
           "description": "xxx\nIn a crowded ERP and business applications market, many partners claim industry expertise. Fewer can point to decades of focus, a large bench of senior consultants, and a clear alignment […]\nThe post Aligning Microsoft Dynamics 365 with Industry Needs: Western Computer’s Approach appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\n“Readers Digest” Version of the LEAN Enterprise\nAddressing Sales Tax Compliance with Microsoft Dynamics GP",
           "link": "https://erpsoftwareblog.com/2025/11/aligning-microsoft-dynamics-365-with-industry-needs-western-computers-approach/",
           "publishedOn": "2025-11-25T22:13:37.000Z",
-          "wordCount": 7222,
+          "wordCount": 7210,
           "title": "Aligning Microsoft Dynamics 365 with Industry Needs: Western Computer’s Approach",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/WesternLogo.png"
         },
@@ -1522,7 +1562,7 @@
           "description": "xxx\nWhen production schedules slip or stock levels miss the mark, it’s often not your team’s fault; it’s your tools. Standard Business Central planning pages can only take you so far. […]\nThe post Smarter Planning in Business Central: Insight Works Releases Enhanced Planning Pack v3.9 appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
           "link": "https://erpsoftwareblog.com/2025/11/smarter-planning-in-business-central-insight-works-releases-enhanced-planning-pack-v3-9/",
           "publishedOn": "2025-11-25T20:03:44.000Z",
-          "wordCount": 7120,
+          "wordCount": 7106,
           "title": "Smarter Planning in Business Central: Insight Works Releases Enhanced Planning Pack v3.9",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/EPP-Cover.jpg"
         },
@@ -34270,76 +34310,6 @@
           "wordCount": 7489,
           "title": "How S&OP Can Boost Your Business Performance",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=101965",
-          "author": "Binary Stream",
-          "description": "In today's rapidly evolving business landscape, adaptability is key. The Little Rock Convention and Visitors Bureau (LRCVB) recognized this truth when faced with the imperative to enhance services and streamline …  Unlocking Efficiency: The Little Rock Convention & Visitors Bureau's Cloud Migration Journey with Dynamics 365 BC Read More »\nThe post Unlocking Efficiency: The Little Rock Convention & Visitors Bureau's Cloud Migration Journey with Dynamics 365 BC appeared first on ERP Software Blog.\nBinary Stream and SignUp Software join forces to deliver powerful solutions for Microsoft Dynamics 365\nIntegrity Data and Binary Stream meet the growing demand for robust Business Central solutions\nBusiness Central Add-on Spotlight Webinar | Binary Stream Multi-Entity Management",
-          "link": "https://erpsoftwareblog.com/2023/11/unlocking-efficiency-the-little-rock-convention-visitors-bureaus-cloud-migration-journey-with-dynamics-365-bc/",
-          "publishedOn": "2023-11-28T13:41:19.000Z",
-          "wordCount": 7205,
-          "title": "Unlocking Efficiency: The Little Rock Convention & Visitors Bureau's Cloud Migration Journey with Dynamics 365 BC",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Download-ebook-thumbnail-1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102251",
-          "author": "Dexpro Dynamics",
-          "description": "What's New in Microsoft Dynamics GP 18.6 October Release? The Dynamics GP October 2023 (18.6.1685) release gives users new features and enhancements across the core modules. We encourage you to …  New Features in Microsoft Dynamics GP Release 18.6 Read More »\nThe post New Features in Microsoft Dynamics GP Release 18.6 appeared first on ERP Software Blog.\nWhat Customers Can Look Forward to in Microsoft Dynamics Great Plains 2013 (Part 1)\nControl Inventory Costs And You’re Free To Invest In Other Parts Of Your Business\nDynamics GP Year-End Close Tips",
-          "link": "https://erpsoftwareblog.com/2023/11/new-features-in-microsoft-dynamics-gp-release-18-6/",
-          "publishedOn": "2023-11-28T12:02:23.000Z",
-          "wordCount": 8513,
-          "title": "New Features in Microsoft Dynamics GP Release 18.6",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dexpro-lifecycle-graphic-dynamics-gp.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102244",
-          "author": "Hire Dynamics Developers",
-          "description": "Choosing the right Microsoft Dynamics ERP consultant is a pivotal decision for businesses aiming to leverage the full potential of their ERP system. As the backbone of modern enterprise resource …  Top Practices to Find the Best Microsoft Dynamics ERP Consultant Read More »\nThe post Top Practices to Find the Best Microsoft Dynamics ERP Consultant appeared first on ERP Software Blog.\nWhat’s New in Microsoft Dynamics GP 2015?\nVIDEO: How Project-based Company Overcame Fear of a New ERP System\nNo More Microsoft Dynamics NAV Locking!",
-          "link": "https://erpsoftwareblog.com/2023/11/top-practices-to-find-the-best-microsoft-dynamics-erp-consultant/",
-          "publishedOn": "2023-11-28T11:25:47.000Z",
-          "wordCount": 9342,
-          "title": "Top Practices to Find the Best Microsoft Dynamics ERP Consultant",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/7076235-300x200.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102239",
-          "author": "Hire Dynamics Developers",
-          "description": "Choosing the right Microsoft Dynamics ERP partners is crucial for leveraging the full potential of Dynamics ERP in your business operations. Microsoft Dynamics ERP stands as a powerful tool in …  How to Choose Microsoft Dynamics ERP Partners Read More »\nThe post How to Choose Microsoft Dynamics ERP Partners appeared first on ERP Software Blog.\nWhat’s New in Microsoft Dynamics GP 2015?\nHow Can Your Organization Benefit from a Timesheet Integrated to Microsoft Dynamics GP?\nGet More in the Cloud with Dynamics 365 Business Central",
-          "link": "https://erpsoftwareblog.com/2023/11/how-to-choose-microsoft-dynamics-erp-partners/",
-          "publishedOn": "2023-11-28T11:03:14.000Z",
-          "wordCount": 8795,
-          "title": "How to Choose Microsoft Dynamics ERP Partners",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/business-people-shaking-hands-with-green-background-office-buildings-300x200.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102234",
-          "author": "Hire Dynamics Developers",
-          "description": "In the rapidly evolving landscape of business technology, integration stands as a cornerstone of operational efficiency. At the heart of this integration is Microsoft Dynamics AX, a robust enterprise resource …  Key Steps in Dynamics AX Integration Read More »\nThe post Key Steps in Dynamics AX Integration appeared first on ERP Software Blog.\nAre We Ready for ERP Software To Integrate with Social Media?\n6 Must-Ask Questions When Interviewing ERP Implementation Firms\nEl consultor de ERP honesto : Una especie en extinción",
-          "link": "https://erpsoftwareblog.com/2023/11/key-steps-in-dynamics-ax-integration/",
-          "publishedOn": "2023-11-28T10:54:31.000Z",
-          "wordCount": 8570,
-          "title": "Key Steps in Dynamics AX Integration",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/it-consultant-being-setup-virtual-document-management-system-dms-with-laptop-computer-office-wok-from-home-software-archiving-corporate-files-concept-300x123.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102088",
-          "author": "Netstock",
-          "description": "Inventory management is vital for any distribution business to retain customers and remain competitive. Inventory reduction is a critical element of inventory management, especially in times of uncertainty and market …  How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 1 Read More »\nThe post How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 1 appeared first on ERP Software Blog.\nStreamline Processes and Increase Accuracy with Barcodes in Business Central\nOvercoming the Challenge of Printing from Business Central Cloud\nTop Benefits of MetaWMS that Enable Efficient Warehouse Operations",
-          "link": "https://erpsoftwareblog.com/2023/11/inventory-reduction-unlock-operating-cash-with-netstock-and-dynamics-365-part-1/",
-          "publishedOn": "2023-11-28T10:16:00.000Z",
-          "wordCount": 8255,
-          "title": "How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 1",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-11-How-to-Reduce-Inventory-Bloat-with-Netstock-and-Dynamics-365-Part-1_1200-x-628.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102194",
-          "author": "FYIsoft, Inc.",
-          "description": "Business Central reporting can be challenging for multi-company environments. Moving to Business Central presents unique financial reporting challenges for finance teams tasked with multi-entity reporting. At a base level, the …  3 Finance Leaders Share Top Pick for Business Central Reporting Read More »\nThe post 3 Finance Leaders Share Top Pick for Business Central Reporting appeared first on ERP Software Blog.\nSaving Space by Going Paperless…\nThe Important Business Function Your ERP System CAN'T Do\nHow to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP",
-          "link": "https://erpsoftwareblog.com/2023/11/3-finance-leaders-share-top-pick-for-business-central-reporting/",
-          "publishedOn": "2023-11-27T14:39:16.000Z",
-          "wordCount": 7975,
-          "title": "3 Finance Leaders Share Top Pick for Business Central Reporting",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Featured-Image-Case-Study.png"
         }
       ]
     },
@@ -34348,6 +34318,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=71924",
+          "author": "Alfred Selvarajah",
+          "description": "The Path Forward for Salesforce CPQ Customers\nIf your organization currently uses Salesforce CPQ, it is important to note that Salesforce has moved this product into its end-of-sale phase. As a result, Salesforce CPQ customers are now considering alternative technologies to meet their ongoing Configure, Price, Quote (CPQ) requirements. This article will answer some questions Salesforce CPQ customers may have as they...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/path-forward-salesforce-cpq-customers/",
+          "publishedOn": "2025-11-26T12:13:24.000Z",
+          "wordCount": 2125,
+          "title": "The Path Forward for Salesforce CPQ Customers",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2025/11/Salesforce-CPQ-LI.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=71946",
           "author": "Don McNulty",
@@ -35945,6 +35925,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/omg-modelo-semantico-desde-0-desde-vs-code-youtube",
+          "author": "jarmesto",
+          "description": "OMG Modelo Semantico desde 0 desde VS Code??\nThe post OMG Modelo Semantico desde 0 desde VS Code?? – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/omg-modelo-semantico-desde-0-desde-vs-code-youtube",
+          "publishedOn": "2025-11-26T20:34:23.000Z",
+          "wordCount": 1972,
+          "title": "OMG Modelo Semantico desde 0 desde VS Code?? – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/d365-and-the-quick-ping-performance-test",
+          "author": "Kurt Hatlevik",
+          "description": "Did you know there is a very easy way to check if your core D365 database are performing OK. Use the tool ‘Run performance test‘. There are no need to enable every test. Just focus on the insert of 1000 records. What is shown is the number of milliseconds it takes to insert 1000 records. […]\nThe post D365 and the quick ‘ping’ performance test appeared first on 365 Community Online.",
+          "link": "https://365community.online/d365-and-the-quick-ping-performance-test",
+          "publishedOn": "2025-11-26T19:58:00.000Z",
+          "wordCount": 2027,
+          "title": "D365 and the quick ‘ping’ performance test",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/D365-and-the-quick-‘ping-performance-test.png"
+        },
+        {
+          "id": "https://365community.online/the-ultimate-wordpress-migration-checklist-for-beginners",
+          "author": "Belinda Allen",
+          "description": "If you’re planning to move your site to WordPress.com, this step-by-step WordPress migration checklist covers everything you need for a smooth, stress-free process. You’ll find the exact workflow and steps I’ve used to successfully move WordPress sites so that you can complete your own website migration with confidence. TL;DR: Quick WordPress migration checklist Here’s a […]\nThe post The Ultimate WordPress Migration Checklist for Beginners appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-ultimate-wordpress-migration-checklist-for-beginners",
+          "publishedOn": "2025-11-26T15:00:00.000Z",
+          "wordCount": 4094,
+          "title": "The Ultimate WordPress Migration Checklist for Beginners",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/The-Ultimate-WordPress-Migration-Checklist-for-Beginners.jpg"
+        },
+        {
+          "id": "https://365community.online/empezando-a-usar-mcp-server-power-bi-youtube",
+          "author": "jarmesto",
+          "description": "Empezando a usar MCP Server Power BI\nThe post Empezando a usar MCP Server Power BI – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/empezando-a-usar-mcp-server-power-bi-youtube",
+          "publishedOn": "2025-11-26T12:49:28.000Z",
+          "wordCount": 1964,
+          "title": "Empezando a usar MCP Server Power BI – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/setting-up-codex-with-power-platform-mcp-server",
+          "author": "Priyesh Wagh",
+          "description": "Here’s how to first Codex extension in VS Code to Power Platform MCP Server. The post Setting up Codex with Power Platform MCP Server appeared first on D365 Demystified. Original Post https://d365demystified.com/2025/11/26/setting-up-codex-with-power-platform-mcp-server/\nThe post Setting up Codex with Power Platform MCP Server appeared first on 365 Community Online.",
+          "link": "https://365community.online/setting-up-codex-with-power-platform-mcp-server",
+          "publishedOn": "2025-11-26T11:07:00.000Z",
+          "wordCount": 1994,
+          "title": "Setting up Codex with Power Platform MCP Server",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Setting-up-Codex-with-Power-Platform-MCP-Server.png"
+        },
+        {
+          "id": "https://365community.online/how-to-use-modern-invoicing-in-project-operations",
+          "author": "Inogic",
+          "description": "Managing invoicing within project operations is an integral part that project managers use on a daily basis for billing purposes. Earlier invoicing in Project Operations required multiple clicks and a lot of manual work, as features like bulk editing, consolidation of line items were not feasible. With Microsoft’s new Modern Invoice experience, the entire process […]\nThe post How to Use Modern Invoicing in Project Operations appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-use-modern-invoicing-in-project-operations",
+          "publishedOn": "2025-11-26T09:24:00.000Z",
+          "wordCount": 2743,
+          "title": "How to Use Modern Invoicing in Project Operations",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/How-to-Use-Modern-Invoicing-in-Project-Operations.png"
+        },
+        {
+          "id": "https://365community.online/hacking-google-antigravity-to-develop-al-extensions-for-dynamics-365-business-central",
+          "author": "Stefano Demiliani",
+          "description": "Some weeks ago Google introduced Antigravity, its new agentic development platform powered by Gemini 3 (but also supports Claude Sonnet 4.5 and GPT-OSS 120B) that combines a familiar, AI-powered coding experience (forked from Visual Studio Code/Windsurf) with a new agent-first interface. Google has introduced several capabilities that make Antigravity different from existing AI coding tools […]\nThe post “Hacking” Google Antigravity to develop AL extensions for Dynamics 365 Business Central. appeared first on 365 Community Online.",
+          "link": "https://365community.online/hacking-google-antigravity-to-develop-al-extensions-for-dynamics-365-business-central",
+          "publishedOn": "2025-11-26T08:01:00.000Z",
+          "wordCount": 2562,
+          "title": "“Hacking” Google Antigravity to develop AL extensions for Dynamics 365 Business Central.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Hacking-Google-Antigravity-to-develop-AL-extensions-for-Dynamics-365.png"
+        },
         {
           "id": "https://365community.online/mes-integration-integrate-d365fo-with-third-party-integration-system-part-3-cleanup",
           "author": "Anitha Santosh",
@@ -75824,16 +75874,6 @@
           "wordCount": 4841,
           "title": "The F&O Twist on Process Mining – Warehouse material movement analysis template",
           "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/12/Warehouse-material-movement-integration-1200.jpg"
-        },
-        {
-          "id": "https://dynamicspedia.com/?p=18863",
-          "author": "André Arnaud de Calavon",
-          "description": "In this blog about process mining, I will talk about my learnings about data requirements for event logs to be used for process mining. Next to the file format, I will provide several examples showing the differences and variation options. Data requirements and file formats When I explored process mining, I came across a good […]\nThe post The F&O Twist on Process Mining – Event log data requirements appeared first on Dynamicspedia.",
-          "link": "https://dynamicspedia.com/2023/11/the-fo-twist-on-process-mining-event-log-data-requirements/",
-          "publishedOn": "2023-11-28T07:54:08.000Z",
-          "wordCount": 4812,
-          "title": "The F&O Twist on Process Mining – Event log data requirements",
-          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/11/Event-log-data-requirements1200-new.jpg"
         }
       ]
     },
@@ -77353,16 +77393,6 @@
           "wordCount": 4729,
           "title": "Multithreading in D365 Batch Jobs",
           "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/11/Multithreading-In-D365-Batch-Jobs.png"
-        },
-        {
-          "id": "https://dynamics365musings.com/?p=3175",
-          "author": "peter.ramer",
-          "description": "In order to debug or develop new custom code you need to deploy a D365 environment. There are multiple different types of environments with different capabilities. In this article, learn how to deploy a cloud-hosted environment and how it is used. First, this environment is hosted in Azure. Next, users can access the front end... Continue Reading →\nThe post Deploy A D365 Environment appeared first on Dynamics 365 Musings.",
-          "link": "https://dynamics365musings.com/deploy-a-d365-environment/?utm_source=rss&utm_medium=rss&utm_campaign=deploy-a-d365-environment",
-          "publishedOn": "2023-11-27T14:00:00.000Z",
-          "wordCount": 3704,
-          "title": "Deploy A D365 Environment",
-          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/11/Deploy-A-D365-Environment.png"
         }
       ]
     },
@@ -77668,6 +77698,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4862",
+          "author": "Kurt Hatlevik",
+          "description": "Did you know there is a very easy way to check if your core D365 database are performing OK. Use the tool ‘Run performance test‘. There are no need to enable every test. Just focus on the insert of 1000 records. What is shown is the number of milliseconds it takes to insert 1000 records. … Continue reading D365 and the quick ‘ping’ performance test",
+          "link": "https://kurthatlevik.com/2025/11/26/d365-and-the-quick-ping-performance-test/",
+          "publishedOn": "2025-11-26T19:58:40.000Z",
+          "wordCount": 3935,
+          "title": "D365 and the quick ‘ping’ performance test",
+          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2025/11/image-9.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4844",
           "author": "Kurt Hatlevik",
@@ -85412,16 +85452,6 @@
           "wordCount": 3158,
           "title": "What’s new: Power Apps November 2023 Feature Update",
           "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/PowerFxFormulaBar-1.gif"
-        },
-        {
-          "id": "join-microsoft-the-devintersection-conference-in-orlando",
-          "author": null,
-          "description": "Microsoft warmly invites you to join us in Orlando for the DEVIntersection Conference and the Microsoft Azure + AI Conference. You’ll hear from some of your favorite Microsoft leaders, including Scott Hanselman, Vice President of Microsoft Development Community, and Scott Hunter, Vice President Director of Product at Microsoft on the Azure Development Experience.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/join-microsoft-the-devintersection-conference-in-orlando/",
-          "publishedOn": "2023-11-28T08:00:00.000Z",
-          "wordCount": 1949,
-          "title": "Join Microsoft at the DEVintersection Conference in Orlando",
-          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/11/CLO24-Azure-Fintech-017_1200.jpg"
         }
       ]
     },
