@@ -1487,6 +1487,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=137949",
+          "author": "Binary Stream",
+          "description": "xxx\nContract renewals should be straightforward: a quick reminder, a confirmation from the customer, and an update in the system. Yet for many organizations, this process is anything but simple. Many […]\nThe post Never miss a renewal again: Binary Stream’s AI-powered Renewal Assistant  appeared first on ERP Software Blog.\n5 ways to protect your mobile devices from malware while in the field!\n10 Time Saving Business Central Keyboard Shortcuts You Need Today\nCase Study: Embracing ClickLearn as a corporate Dynamics 365 training platform",
+          "link": "https://erpsoftwareblog.com/2025/11/never-miss-a-renewal-again-binary-streams-ai-powered-renewal-assistant/",
+          "publishedOn": "2025-11-28T17:00:45.000Z",
+          "wordCount": 7251,
+          "title": "Never miss a renewal again: Binary Stream’s AI-powered Renewal Assistant",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Binary-Stream-ERPSoftwareBlog-Article.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138088",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nHere's the thing: most of your sales conversations happen in Outlook. If those emails never make it into Dynamics 365, your CRM is only telling half the story. Good news—you […]\nThe post Track Your Outlook Emails in Dynamics 365 appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 CRM For Non-Profit Organizations\nThe Basics of Globalization Studio in Microsoft Dynamics 365 Finance\nBenefits of Microsoft Sales Copilot AI for CRM | Techcronus",
+          "link": "https://erpsoftwareblog.com/2025/11/track-your-outlook-emails-in-dynamics-365/",
+          "publishedOn": "2025-11-28T11:29:19.000Z",
+          "wordCount": 7138,
+          "title": "Track Your Outlook Emails in Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Reach-Blogs-Temp-46.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138065",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nChoosing the right ERP for distribution is one of the most important decisions a wholesale or supply chain company can make. With rising customer expectations, multi-warehouse complexities, and pressure for […]\nThe post Top 11 ERP for Distribution in 2026: Best Solutions for Wholesale, Supply Chain & Distribution Companies (USA Guide) appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/11/top-11-erp-for-distribution/",
+          "publishedOn": "2025-11-28T06:01:49.000Z",
+          "wordCount": 7547,
+          "title": "Top 11 ERP for Distribution in 2026: Best Solutions for Wholesale, Supply Chain & Distribution Companies (USA Guide)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/erp-for-distribution-1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=138041",
           "author": "Insight Works",
           "description": "xxx\nThe latest release of the Enhanced Planning Pack app from Insight Works delivers refined tools for planners, buyers, and engineers, improving control and precision across forecasting, inventory, and production processes. […]\nThe post Enhanced Planning Pack v3.9 Sharpens Planning Accuracy and Flexibility for Business Central Users appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
@@ -34290,16 +34320,6 @@
           "wordCount": 7687,
           "title": "Why You Need EDI Integrated with Dynamics 365 ERP for the Holiday Rush",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/feet-christmas-socks-near-fireplace-relaxing-home1-625x417.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102336",
-          "author": "Catapult",
-          "description": "Microsoft has been busy releasing exciting new updates and capabilities for all the Dynamics 365 applications, and Business Central is no exception. Geared towards small and mid-sized companies, Business Central …  Streamline Your User Workflows With Newly Released Business Central Capabilities Read More »\nThe post Streamline Your User Workflows With Newly Released Business Central Capabilities appeared first on ERP Software Blog.\nEasily Manage Data with Business Central Virtual Tables\nMicrosoft Dynamics 365 Business Central: The Future of Distribution Accounting\n6 Best Practices to Planning Successful ERP Implementation",
-          "link": "https://erpsoftwareblog.com/2023/11/streamline-your-user-workflows-with-newly-released-business-central-capabilities/",
-          "publishedOn": "2023-11-29T21:13:03.000Z",
-          "wordCount": 7622,
-          "title": "Streamline Your User Workflows With Newly Released Business Central Capabilities",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BusinessCentralWebinar.jpg"
         }
       ]
     },
@@ -35915,6 +35935,16 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/vibe-coding-in-power-apps",
+          "author": "Ana Inés Urrutia",
+          "description": "We’ve seen the term vibe-coding for a bit, and I was staying behind the wave, so decided to test it out. I have to say that from the environments I own, only one worked. But again, this is a recent feature. If you’d like to test it you can go to vibe.powerapps.com and play around. […]\nThe post Vibe Coding in Power Apps appeared first on 365 Community Online.",
+          "link": "https://365community.online/vibe-coding-in-power-apps",
+          "publishedOn": "2025-11-28T18:40:00.000Z",
+          "wordCount": 1887,
+          "title": "Vibe Coding in Power Apps",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Vibe-Coding-in-Power-Apps.png"
+        },
         {
           "id": "https://365community.online/the-ai-workflows-agent-that-replaced-your-job",
           "author": "Mirko Peters",
@@ -76405,16 +76435,6 @@
           "wordCount": 4637,
           "title": "Add Logging to SysAdmin Role Assignments in D365FO",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/12/1.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=2973",
-          "author": "Alex",
-          "description": "For a recent project, I needed the ability to test custom role access within a D365FO environment but was having a difficult time getting a test account created to assign this access to. My personal user had SysAdmin access, was there anyway for me to be able to test role access with just my user […]\nThe post How to Test Role Access Without a Test Account in D365FO appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2023/11/29/how-to-test-role-access-without-a-test-account-in-d365fo/",
-          "publishedOn": "2023-11-29T16:40:26.000Z",
-          "wordCount": 5023,
-          "title": "How to Test Role Access Without a Test Account in D365FO",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/11/1-1.png"
         }
       ]
     },
@@ -77719,16 +77739,6 @@
           "publishedOn": "2024-01-14T20:41:48.000Z",
           "wordCount": 1721,
           "title": "Using AI To Provide Help For Users",
-          "imageUrl": null
-        },
-        {
-          "id": "1684 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 11/29/23.\n\n\nLast modified: \n\n11/30/23\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nAI      \nInsert      \nFor      \n\nWhat's in a For Loop?\nIn this article, we'll delve into a specifics of using a For loop, inserting data into the database, and use of transaction plus some error handling too.\nfor(int i = 0; i <= this.parmRecordCount(); i++)\nAn x++ for-loop is very similar to any other for-loop out this in terms of its idea. This is a for-loop, initiating with i set to 0 and running until i is greater than the number returned by this.parmRecordCount(). This loop controls the number of times records are inserted into the SalesPool table. This is essentially the same as any for-loop in most other 4th generation languages.\nTransaction Handling\nThe ttsBegin; and ttsCommit; statements m…",
-          "link": "https://www.atomicax.com/article/loop-de-loop-and-transaction-review",
-          "publishedOn": "2023-11-30T03:15:46.000Z",
-          "wordCount": 1861,
-          "title": "Loop-de-for-loop and Transaction Review",
           "imageUrl": null
         }
       ]

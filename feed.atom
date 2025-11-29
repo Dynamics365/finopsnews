@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-28T01:47:15.820Z</updated>
+    <updated>2025-11-29T01:46:21.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding in Power Apps]]></title>
+        <id>https://365community.online/vibe-coding-in-power-apps</id>
+        <link href="https://365community.online/vibe-coding-in-power-apps"/>
+        <updated>2025-11-28T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve seen the term vibe-coding for a bit, and I was staying behind the wave, so decided to test it out. I have to say that from the environments I own, only one worked. But again, this is a recent feature. If you’d like to test it you can go to vibe.powerapps.com and play around. […]
+The post Vibe Coding in Power Apps appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never miss a renewal again: Binary Stream’s AI-powered Renewal Assistant]]></title>
+        <id>https://erpsoftwareblog.com/?p=137949</id>
+        <link href="https://erpsoftwareblog.com/2025/11/never-miss-a-renewal-again-binary-streams-ai-powered-renewal-assistant/"/>
+        <updated>2025-11-28T17:00:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Contract renewals should be straightforward: a quick reminder, a confirmation from the customer, and an update in the system. Yet for many organizations, this process is anything but simple. Many […]
+The post Never miss a renewal again: Binary Stream’s AI-powered Renewal Assistant  appeared first on ERP Software Blog.
+5 ways to protect your mobile devices from malware while in the field!
+10 Time Saving Business Central Keyboard Shortcuts You Need Today
+Case Study: Embracing ClickLearn as a corporate Dynamics 365 training platform]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Track Your Outlook Emails in Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=138088</id>
+        <link href="https://erpsoftwareblog.com/2025/11/track-your-outlook-emails-in-dynamics-365/"/>
+        <updated>2025-11-28T11:29:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Here's the thing: most of your sales conversations happen in Outlook. If those emails never make it into Dynamics 365, your CRM is only telling half the story. Good news—you […]
+The post Track Your Outlook Emails in Dynamics 365 appeared first on ERP Software Blog.
+Microsoft Dynamics 365 CRM For Non-Profit Organizations
+The Basics of Globalization Studio in Microsoft Dynamics 365 Finance
+Benefits of Microsoft Sales Copilot AI for CRM | Techcronus]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 11 ERP for Distribution in 2026: Best Solutions for Wholesale, Supply Chain & Distribution Companies (USA Guide)]]></title>
+        <id>https://erpsoftwareblog.com/?p=138065</id>
+        <link href="https://erpsoftwareblog.com/2025/11/top-11-erp-for-distribution/"/>
+        <updated>2025-11-28T06:01:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing the right ERP for distribution is one of the most important decisions a wholesale or supply chain company can make. With rising customer expectations, multi-warehouse complexities, and pressure for […]
+The post Top 11 ERP for Distribution in 2026: Best Solutions for Wholesale, Supply Chain & Distribution Companies (USA Guide) appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI Workflows Agent That Replaced Your Job]]></title>
         <id>https://365community.online/the-ai-workflows-agent-that-replaced-your-job</id>
@@ -105466,70 +105522,6 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Don McNulty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop-de-for-loop and Transaction Review]]></title>
-        <id>1684 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/loop-de-loop-and-transaction-review"/>
-        <updated>2023-11-30T03:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 11/29/23.
-
-
-Last modified: 
-
-11/30/23
-
-
-
-
-
-
-
-
-
-
-
-
-      
-Tags: 
-AI      
-Insert      
-For      
-
-What's in a For Loop?
-In this article, we'll delve into a specifics of using a For loop, inserting data into the database, and use of transaction plus some error handling too.
-for(int i = 0; i <= this.parmRecordCount(); i++)
-An x++ for-loop is very similar to any other for-loop out this in terms of its idea. This is a for-loop, initiating with i set to 0 and running until i is greater than the number returned by this.parmRecordCount(). This loop controls the number of times records are inserted into the SalesPool table. This is essentially the same as any for-loop in most other 4th generation languages.
-Transaction Handling
-The ttsBegin; and ttsCommit; statements m…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline Your User Workflows With Newly Released Business Central Capabilities]]></title>
-        <id>https://erpsoftwareblog.com/?p=102336</id>
-        <link href="https://erpsoftwareblog.com/2023/11/streamline-your-user-workflows-with-newly-released-business-central-capabilities/"/>
-        <updated>2023-11-29T21:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has been busy releasing exciting new updates and capabilities for all the Dynamics 365 applications, and Business Central is no exception. Geared towards small and mid-sized companies, Business Central …  Streamline Your User Workflows With Newly Released Business Central Capabilities Read More »
-The post Streamline Your User Workflows With Newly Released Business Central Capabilities appeared first on ERP Software Blog.
-Easily Manage Data with Business Central Virtual Tables
-Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting
-6 Best Practices to Planning Successful ERP Implementation]]></summary>
-        <author>
-            <name>Catapult</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Role Access Without a Test Account in D365FO]]></title>
-        <id>https://alexdmeyer.com/?p=2973</id>
-        <link href="https://alexdmeyer.com/2023/11/29/how-to-test-role-access-without-a-test-account-in-d365fo/"/>
-        <updated>2023-11-29T16:40:26.000Z</updated>
-        <summary type="html"><![CDATA[For a recent project, I needed the ability to test custom role access within a D365FO environment but was having a difficult time getting a test account created to assign this access to. My personal user had SysAdmin access, was there anyway for me to be able to test role access with just my user […]
-The post How to Test Role Access Without a Test Account in D365FO appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
     <entry>
