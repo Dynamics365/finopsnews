@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-11-29T01:46:21.517Z</updated>
+    <updated>2025-11-30T02:00:18.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The SharePoint Lie That Breaks Every Power App]]></title>
+        <id>https://365community.online/the-sharepoint-lie-that-breaks-every-power-app</id>
+        <link href="https://365community.online/the-sharepoint-lie-that-breaks-every-power-app"/>
+        <updated>2025-11-30T00:51:21.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,660SharePoint lists are a database for Power Apps. 200:00:02,660 –> 00:00:03,600Incorrect. 300:00:03,600 –> 00:00:07,700That belief is why your apps stall at 2,000 records, choke on filters, 400:00:07,700 –> 00:00:10,540and die behind a friendly blue delegation banner. 500:00:10,540 –> 00:00:12,940Most teams discover the cliff at 5,000 items 600:00:12,940 –> 00:00:14,860and then spend weeks patching […]
+The post The SharePoint Lie That Breaks Every Power App appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Licensing Enforcement Advent Calendar]]></title>
+        <id>https://dynamicspedia.com/?p=19668</id>
+        <link href="https://dynamicspedia.com/2025/11/dynamics-365-licensing-enforcement-advent-calendar/"/>
+        <updated>2025-11-29T21:54:52.000Z</updated>
+        <summary type="html"><![CDATA[A large part of the year 2025, I spent time on the upcoming user license enforcement for Microsoft Dynamics 365 F&O. This involved both working with clients and spending time to help out in the community and the Viva Engage feedback forums. Now we are coming to the end of the year and reaching (again) […]
+The post Dynamics 365 Licensing Enforcement Advent Calendar appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagnosing Your AI’s Fatal Flaw]]></title>
+        <id>https://365community.online/diagnosing-your-ais-fatal-flaw-2</id>
+        <link href="https://365community.online/diagnosing-your-ais-fatal-flaw-2"/>
+        <updated>2025-11-29T21:16:49.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,320It started with a warning, then silence. 200:00:02,320 –> 00:00:05,120The GPU bill climbed as if the accelerator never slept, 300:00:05,120 –> 00:00:07,400yet outputs crawled like the lights went out. 400:00:07,400 –> 00:00:09,440Dashboards were green, customers weren’t. 500:00:09,440 –> 00:00:11,800The anomaly didn’t fit. 600:00:11,800 –> 00:00:15,040Near zero GPU utilization, while latency spiked, 700:00:15,040 –> […]
+The post Diagnosing Your AI’s Fatal Flaw appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagnosing Your AI’s Fatal Flaw]]></title>
+        <id>https://365community.online/diagnosing-your-ais-fatal-flaw</id>
+        <link href="https://365community.online/diagnosing-your-ais-fatal-flaw"/>
+        <updated>2025-11-29T17:34:18.000Z</updated>
+        <summary type="html"><![CDATA[It started with a warning—then silence. The GPU bill climbed as if the accelerator never slept, yet outputs crawled like the lights went out. Dashboards were green. Customers weren’t.The anomaly didn’t fit: near‑zero GPU utilization while latency spiked. No alerts fired, no red lines—just time evaporating. The evidence suggests a single pathology masquerading as normal.Here’s […]
+The post Diagnosing Your AI’s Fatal Flaw appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Context Engineering Is Your Only Fix]]></title>
+        <id>https://365community.online/why-context-engineering-is-your-only-fix</id>
+        <link href="https://365community.online/why-context-engineering-is-your-only-fix"/>
+        <updated>2025-11-29T13:57:19.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,780Your copilot isn’t dumb, you starved it. 200:00:02,780 –> 00:00:05,460No skimmer, no rules, no guardrails, 300:00:05,460 –> 00:00:07,500then you complain about hallucinations. 400:00:07,500 –> 00:00:08,880The truth? 500:00:08,880 –> 00:00:12,040Most power platform AI failures aren’t model IQ, 600:00:12,040 –> 00:00:14,140they’re context that you created. 700:00:14,140 –> 00:00:15,620Here’s what you’ll get today. 800:00:15,620 –> 00:00:17,700A […]
+The post Why Context Engineering Is Your Only Fix appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Copilot AI Enhances Dynamics 365 Commerce for Modern Retail Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=138025</id>
+        <link href="https://erpsoftwareblog.com/2025/11/copilot-dynamics-365-commerce-ai/"/>
+        <updated>2025-11-29T13:39:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Modern retail success is measured by speed, personalization, and efficiency. The shift is no longer from manual processes to ERP; it’s from basic digital presence to AI-powered intelligence. Dynamics 365 […]
+The post How Microsoft Copilot AI Enhances Dynamics 365 Commerce for Modern Retail Operations appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Copilot
+idyn announces a brand new Magento based e-commerce suite for Microsoft Dynamics
+What is eCommerce Product Enrichment and How Can it Increase Sales?]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Housing Associations Can Become Frontier Firms with AI]]></title>
+        <id>https://365community.online/how-housing-associations-can-become-frontier-firms-with-ai</id>
+        <link href="https://365community.online/how-housing-associations-can-become-frontier-firms-with-ai"/>
+        <updated>2025-11-29T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[How to turn “Doing More with Less” from a slogan into a strategy using Microsoft Copilot and Power Platform Customer Service Directors and IT leaders in UK housing associations face a crucial dilemma: The demand for high-quality, empathetic service has never been higher. At the same time, resources are tighter than ever. Your teams are […]
+The post How Housing Associations Can Become Frontier Firms with AI appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI That Does It For You]]></title>
+        <id>https://365community.online/the-ai-that-does-it-for-you-2</id>
+        <link href="https://365community.online/the-ai-that-does-it-for-you-2"/>
+        <updated>2025-11-29T10:16:25.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,880Still hand upgrading legacy Java, that’s not craftsmanship, that’s unpaid penance. 200:00:03,880 –> 00:00:07,880Manual modernization is a failure mode, slow, error prone and permanently behind. 300:00:07,880 –> 00:00:08,880The truth? 400:00:08,880 –> 00:00:12,280AI agents now handle the drudgery with receipts. 500:00:12,280 –> 00:00:13,520Here’s what you actually get. 600:00:13,520 –> 00:00:17,120Time back, CV is gone, […]
+The post The AI That Does It For You appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellar Migrator Review: Is This the Best Tool for Email Migration? – YouTube]]></title>
+        <id>https://365community.online/stellar-migrator-review-is-this-the-best-tool-for-email-migration-youtube</id>
+        <link href="https://365community.online/stellar-migrator-review-is-this-the-best-tool-for-email-migration-youtube"/>
+        <updated>2025-11-29T08:25:07.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Stellar Migrator Review: Is This the Best Tool for Email Migration? Are you planning a Microsoft Exchange Online tenant-to-tenant migration? In this video, I review Stellar Migrator for Exchange, one of Stellar Data Recovery’s flagship products, and show you exactly how to configure and use it for seamless email migration in Microsoft 365. ✅ […]
+The post Stellar Migrator Review: Is This the Best Tool for Email Migration? – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI That Does It For You]]></title>
+        <id>https://365community.online/the-ai-that-does-it-for-you</id>
+        <link href="https://365community.online/the-ai-that-does-it-for-you"/>
+        <updated>2025-11-29T06:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Stop Fixing Legacy Java—Let the AI Do ItStill hand-upgrading legacy Java? That’s not craftsmanship; that’s unpaid penance. Manual modernization is a failure mode—slow, error-prone, and permanently behind. The truth? AI agents now handle the drudgery with receipts.Here’s what you actually get: time back, CVEs gone, and cloud bills that stop bleeding. We’ll walk a narrative […]
+The post The AI That Does It For You appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Architecture That Makes AI Agents Actually Work]]></title>
+        <id>https://365community.online/the-secret-architecture-that-makes-ai-agents-actually-work</id>
+        <link href="https://365community.online/the-secret-architecture-that-makes-ai-agents-actually-work"/>
+        <updated>2025-11-29T02:56:49.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,560The one validation that prevents smart agents doing dumb things. 200:00:03,560 –> 00:00:07,760There’s one gate that turns clever into competent, the pre-execution contract check. 300:00:07,760 –> 00:00:10,960Before any tool runs, the validator proves three things in order. 400:00:10,960 –> 00:00:14,960In 10 matches are real capability, the caller has permission right now, 500:00:14,960 –> […]
+The post The Secret Architecture That Makes AI Agents Actually Work appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Must Talk To Your Teenagers About AI, Not Police Them – YouTube]]></title>
+        <id>https://365community.online/why-you-must-talk-to-your-teenagers-about-ai-not-police-them-youtube</id>
+        <link href="https://365community.online/why-you-must-talk-to-your-teenagers-about-ai-not-police-them-youtube"/>
+        <updated>2025-11-29T00:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Why You Must Talk To Your Teenagers About AI, Not Police Them Teenagers are already deep into AI tools, homework helpers, and companions. This clip urges parents to replace silent monitoring with explicit, ongoing conversations. Teenagers are already deep into AI tools, homework helpers, and companions. This clip urges parents to replace silent monitoring with […]
+The post Why You Must Talk To Your Teenagers About AI, Not Police Them – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vibe Coding in Power Apps]]></title>
         <id>https://365community.online/vibe-coding-in-power-apps</id>
@@ -105360,168 +105496,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
         <author>
             <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhance Shipping Functions in Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=102297</id>
-        <link href="https://erpsoftwareblog.com/2023/12/enhance-shipping-functions-in-business-central/"/>
-        <updated>2023-12-01T13:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing shipping efficiency for small and medium-sized businesses (SMBs) on Business Central is crucial. This article showcases how the integration of the Dynamic Ship app enhances the core shipping functionalities of Business Central.
-The post Enhance Shipping Functions in Business Central appeared first on ERP Software Blog.
-From GP to Business Central: Elevate Shipping Processes
-Quote Generation with Product Configurator for Business Central
-Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Detect Invalid Cloud Migration Configurations with Proactive Warnings]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-detect-invalid-cloud-migration-configurations-with-proactive-warnings</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-detect-invalid-cloud-migration-configurations-with-proactive-warnings"/>
-        <updated>2023-12-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solution Versatility through Device Compatibility]]></title>
-        <id>https://erpsoftwareblog.com/?p=102332</id>
-        <link href="https://erpsoftwareblog.com/2023/12/solution-versatility-through-device-compatibility/"/>
-        <updated>2023-12-01T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Solution Versatility through Device Compatibility refers to the ability of a particular solution, application, or technology to function and adapt across various devices or platforms seamlessly. It indicates that the …  Solution Versatility through Device Compatibility Read More »
-The post Solution Versatility through Device Compatibility appeared first on ERP Software Blog.
-5 Scalability Benefits of Microsoft Dynamics GP in the Cloud
-Essential accounts payable software features for efficient financial management
-Increase business profits by increasing equipment lifecycles via the Internet of Things]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Understand Shipments in Basic Warehousing]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-shipments-in-basic-warehousing</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-shipments-in-basic-warehousing"/>
-        <updated>2023-12-01T11:00:19.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics GP Users Moving to Dynamics 365BC – How to Prepare]]></title>
-        <id>https://erpsoftwareblog.com/?p=102362</id>
-        <link href="https://erpsoftwareblog.com/2023/11/dynamics-gp-users-moving-to-dynamics-365bc-how-to-prepare/"/>
-        <updated>2023-11-30T21:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central is here to stay. Dynamics GP users realize that, eventually, it will make sense to switch to Microsoft's new cloud-based ERP solution. If you are …  Dynamics GP Users Moving to Dynamics 365BC – How to Prepare Read More »
-The post Dynamics GP Users Moving to Dynamics 365BC – How to Prepare appeared first on ERP Software Blog.
-Which Microsoft Dynamics 365 Do You Need – Business Central or Finance and Operations?
-How Microsoft Intelligent Edge Enhances On-Premises ERP Solutions
-Pitfalls to Avoid as you Transition your Business Software to the Cloud]]></summary>
-        <author>
-            <name>Dexpro Dynamics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new: Power Apps November 2023 Feature Update]]></title>
-        <id>whats-new-power-apps-november-2023-feature-update</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-november-2023-feature-update/"/>
-        <updated>2023-11-30T18:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We’ve got a great set of updates across for our makers, security and monitor improvements, and updates to model driven apps for end users.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transform the way work gets done with Microsoft Copilot in Dynamics 365 Business Central]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/30/transform-the-way-work-gets-done-with-microsoft-copilot-in-dynamics-365-business-central/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/30/transform-the-way-work-gets-done-with-microsoft-copilot-in-dynamics-365-business-central/"/>
-        <updated>2023-11-30T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving AI landscape, Microsoft Dynamics 365 Business Central is taking the lead with innovations that have equipped more than 30,000 small and medium-sized businesses to work smarter. Powered by next-generation AI, Microsoft Copilot offers new ways to enhance workplace efficiency, automate mundane tasks, and unlock creativity.
-The post Transform the way work gets done with Microsoft Copilot in Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Mike Morton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming EDI Integration: Vantree Systems' Debut at Community Summit 2023]]></title>
-        <id>https://erpsoftwareblog.com/?p=102320</id>
-        <link href="https://erpsoftwareblog.com/2023/11/transforming-edi-integration-vantree-systems-debut-at-community-summit-2023/"/>
-        <updated>2023-11-30T18:28:06.000Z</updated>
-        <summary type="html"><![CDATA[I had the pleasure of chatting with Phillip Aguib, the Director of Sales at Vantree Systems, during their first-ever Community Summit experience. Phillip shared his impressions of the event, shed …  Transforming EDI Integration: Vantree Systems' Debut at Community Summit 2023 Read More »
-The post Transforming EDI Integration: Vantree Systems' Debut at Community Summit 2023 appeared first on ERP Software Blog.
-Are repetitive customer service tasks impeding productivity?
-Time to Upgrade Your TMS or Maybe Move to a New Provider ?
-Future-facing Equipment Service Management: Managing Delayed Maintenance with DynaRent For Microsoft Dynamics]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workflow Assistant – Standard Logic apps]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3096</id>
-        <link href="https://anithasantosh.wordpress.com/2023/11/30/workflow-assistant-standard-logic-apps/"/>
-        <updated>2023-11-30T18:18:29.000Z</updated>
-        <summary type="html"><![CDATA[The workflow assistant is a chat interface to answer any questions about Azure Logic Apps, from directly within designer. You can also use it to describe existing workflow or prompt for specific answers in the context of your workflow. The … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transportation Management Software for Dynamics 365 FO and BC]]></title>
-        <id>https://erpsoftwareblog.com/?p=102155</id>
-        <link href="https://erpsoftwareblog.com/2023/11/post-covid-transportation-management-trends-going-into-2024/"/>
-        <updated>2023-11-30T17:05:49.000Z</updated>
-        <summary type="html"><![CDATA[The restrictions associated with the COVID-19 pandemic played havoc with many businesses. That has been true for supply chain and transportation companies also. Shippers and transportation managers have had to …  Transportation Management Software for Dynamics 365 FO and BC Read More »
-The post Transportation Management Software for Dynamics 365 FO and BC appeared first on ERP Software Blog.
-Our Journey from Microsoft Dynamics GP to the Business Central Cloud Part 2: Where We're Going
-To upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central
-Best Practices For Dispatchers]]></summary>
-        <author>
-            <name>Next Generation Logistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate Accounts Receivable with Dynamics 365 BC and Unified A/R]]></title>
-        <id>https://erpsoftwareblog.com/?p=102231</id>
-        <link href="https://erpsoftwareblog.com/2023/11/automate-accounts-receivable-with-dynamics-365-bc-and-unified-a-r/"/>
-        <updated>2023-11-30T16:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Are you frustrated by inefficiencies and delays in your critical business operations? Don't let manual payment posting slow down your order-to-cash processes. Meet the challenge with Unified A/R's Automated Accounts …  Automate Accounts Receivable with Dynamics 365 BC and Unified A/R Read More »
-The post Automate Accounts Receivable with Dynamics 365 BC and Unified A/R appeared first on ERP Software Blog.
-Generating Barcodes in Dynamics 365 Business Central
-Our Journey from Microsoft Dynamics GP to the Business Central Cloud Part 2: Where We're Going
-To upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Unified A/R</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Need EDI Integrated with Dynamics 365 ERP for the Holiday Rush]]></title>
-        <id>https://erpsoftwareblog.com/?p=102136</id>
-        <link href="https://erpsoftwareblog.com/2023/11/why-you-need-edi-integrated-with-dynamics-365-erp-for-the-holiday-rush/"/>
-        <updated>2023-11-30T15:48:49.000Z</updated>
-        <summary type="html"><![CDATA[The holiday season brings a flurry of activity for businesses across various industries. Retailers, manufacturers, and suppliers face increased demands, making efficient and streamlined processes crucial. One vital tool to …  Why You Need EDI Integrated with Dynamics 365 ERP for the Holiday Rush Read More »
-The post Why You Need EDI Integrated with Dynamics 365 ERP for the Holiday Rush appeared first on ERP Software Blog.
-Tracking Quality in the Manufacturing Process
-Warehouse Insight Now Available for Dynamics 365 Business Central
-Manufacturing Capabilities of Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Vantree Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics GP Year End Procedures and Processes]]></title>
-        <id>https://www.encorebusiness.com/?p=51138</id>
-        <link href="https://www.encorebusiness.com/blog/dynamics-gp-year-end-procedures-and-processes/"/>
-        <updated>2023-11-30T14:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics GP Year End Procedures and Processes
-It seems that every year I have the same conversation with several clients over the procedure for year end closing of Dynamics GP. We usually discuss two sides of the system requirements as well as year end timing. System Process The system side is pretty straight forward and there is great tech knowledge by Microsoft...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Don McNulty</name>
         </author>
     </entry>
     <entry>
