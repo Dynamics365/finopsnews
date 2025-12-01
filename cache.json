@@ -1487,6 +1487,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=137547",
+          "author": "eOne Solutions",
+          "description": "xxx\nWe’ve got good news: the latest update to eOne’s SmartConnect on-premise makes it easier than ever to work with custom D365 Business Central APIs. Users are now able to use […]\nThe post SmartConnect On-Premise Just Got Smarter: Now With Full Support for Custom APIs In Dynamics 365 Business Central appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/11/smartconnect-full-support-for-custom-apis-in-dynamics-365-business-central/",
+          "publishedOn": "2025-11-30T21:38:15.000Z",
+          "wordCount": 6961,
+          "title": "SmartConnect On-Premise Just Got Smarter: Now With Full Support for Custom APIs In Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BC-PD-Webinar.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=138025",
           "author": "Folio3 Dynamics",
           "description": "xxx\nModern retail success is measured by speed, personalization, and efficiency. The shift is no longer from manual processes to ERP; it’s from basic digital presence to AI-powered intelligence. Dynamics 365 […]\nThe post How Microsoft Copilot AI Enhances Dynamics 365 Commerce for Modern Retail Operations appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Copilot\nidyn announces a brand new Magento based e-commerce suite for Microsoft Dynamics\nWhat is eCommerce Product Enrichment and How Can it Increase Sales?",
@@ -35865,6 +35875,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/stop-sharepoint-agents-from-leaking-your-data-the-it-pro-fix",
+          "author": "Mirko Peters",
+          "description": "Are your SharePoint agents suddenly surfacing answers that feel too honest—or worse, too exposed? It’s probably not “AI being spooky.”It’s your permissions, scope, and DLP. In this episode, we unpack why SharePoint agents leak data, why it’s almost never “hallucination,” and how to fix it with: Tight knowledge source scoping Permission and inheritance hardening in […]\nThe post Stop SharePoint Agents From Leaking Your Data (The IT Pro Fix) appeared first on 365 Community Online.",
+          "link": "https://365community.online/stop-sharepoint-agents-from-leaking-your-data-the-it-pro-fix",
+          "publishedOn": "2025-12-01T02:05:55.000Z",
+          "wordCount": 2753,
+          "title": "Stop SharePoint Agents From Leaking Your Data (The IT Pro Fix)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/your-conditional-access-policy-has-trust-issues-we-need-to-talk-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,680It’s not misbehaving, it’s overwhelmed. 200:00:01,680 –> 00:00:03,560Your conditional access is trying to protect you 300:00:03,560 –> 00:00:06,600while juggling mixed messages and unresolved exceptions. 400:00:06,600 –> 00:00:08,280It’s been asked to trust without boundaries. 500:00:08,280 –> 00:00:09,080Here’s the plan. 600:00:09,080 –> 00:00:11,720We’ll diagnose three trust wounds, overbroad exclusions, 700:00:11,720 –> 00:00:13,960device compliance gaps and […]\nThe post Your Conditional Access Policy Has Trust Issues: We Need To Talk appeared first on 365 Community Online.",
+          "link": "https://365community.online/your-conditional-access-policy-has-trust-issues-we-need-to-talk-2",
+          "publishedOn": "2025-11-30T22:23:29.000Z",
+          "wordCount": 7795,
+          "title": "Your Conditional Access Policy Has Trust Issues: We Need To Talk",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/microsoft-ignite-2025-recap",
+          "author": "Marcin Siewnicki",
+          "description": "Microsoft Ignite 2025 was a huge conference dedicated to all products and services in Microsoft 365 and Azure. Microsoft announced many new features, mostly in the AI area. Let’s check out what’s new and what’s coming in SharePoint, Teams, and Copilot! During the conference, Microsoft announced and showcased tons of new features and functions across […]\nThe post Microsoft Ignite 2025 – recap appeared first on 365 Community Online.",
+          "link": "https://365community.online/microsoft-ignite-2025-recap",
+          "publishedOn": "2025-11-30T21:26:00.000Z",
+          "wordCount": 1835,
+          "title": "Microsoft Ignite 2025 – recap",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/your-conditional-access-policy-has-trust-issues-we-need-to-talk",
+          "author": "Mirko Peters",
+          "description": "It’s not misbehaving; it’s overwhelmed. Your Conditional Access is trying to protect you while juggling mixed messages and unresolved exceptions. It’s been asked to trust without boundaries.Here’s the plan. We’ll diagnose three trust wounds—over-broad exclusions, device compliance gaps, and token theft paths—and give you a calming baseline, a safe test plan, and monitoring alerts. If […]\nThe post Your Conditional Access Policy Has Trust Issues: We Need To Talk appeared first on 365 Community Online.",
+          "link": "https://365community.online/your-conditional-access-policy-has-trust-issues-we-need-to-talk",
+          "publishedOn": "2025-11-30T18:45:12.000Z",
+          "wordCount": 3355,
+          "title": "Your Conditional Access Policy Has Trust Issues: We Need To Talk",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/heres-what-microsoft-is-really-building",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,360You’ve been told canvas apps are back in a cute story, the truth. 200:00:03,360 –> 00:00:06,320Microsoft didn’t revive anything. They forked the experience. 300:00:06,320 –> 00:00:10,000App, builder, workflows and agents look like power platform, 400:00:10,000 –> 00:00:13,080but they live in a different lane. Your personal automation layer. 500:00:13,080 –> 00:00:15,560In the next few […]\nThe post Here’s What Microsoft Is Really Building appeared first on 365 Community Online.",
+          "link": "https://365community.online/heres-what-microsoft-is-really-building",
+          "publishedOn": "2025-11-30T15:12:05.000Z",
+          "wordCount": 6453,
+          "title": "Here’s What Microsoft Is Really Building",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/bc-telemetry-buddy-84-commits-later",
+          "author": "Waldo",
+          "description": "I did a thing … well .. I guess .. I kept doing things .. If you haven’t read my previous post, I recommend to do so: Analyzing BC Telemetry with AI with the “BC Telemetry Buddy”.  Consider this one the be the “sequel” TL;DR In the last 4 weeks, my BC Telemetry Buddy went […]\nThe post BC Telemetry Buddy – 84 commits later.. appeared first on 365 Community Online.",
+          "link": "https://365community.online/bc-telemetry-buddy-84-commits-later",
+          "publishedOn": "2025-11-30T13:30:00.000Z",
+          "wordCount": 3437,
+          "title": "BC Telemetry Buddy – 84 commits later..",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/BC-Telemetry-Buddy-–-84-commits-later.png"
+        },
+        {
+          "id": "https://365community.online/tools-to-perform-actions-in-custom-copilots-copilot-studio",
+          "author": "Priyesh Wagh",
+          "description": "Here’s how you can use Tools in Custom Copilots to perform AI actions based on your inputs. The post Tools to perform actions in Custom Copilots | Copilot Studio appeared first on D365 Demystified. Original Post https://d365demystified.com/2025/11/30/tools-to-perform-actions-in-custom-copilots-copilot-studio/\nThe post Tools to perform actions in Custom Copilots | Copilot Studio appeared first on 365 Community Online.",
+          "link": "https://365community.online/tools-to-perform-actions-in-custom-copilots-copilot-studio",
+          "publishedOn": "2025-11-30T13:29:00.000Z",
+          "wordCount": 1874,
+          "title": "Tools to perform actions in Custom Copilots | Copilot Studio",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/11/Tools-to-perform-actions-in-Custom-Copilots-Copilot-Studio.png"
+        },
+        {
+          "id": "https://365community.online/fabric-snapshots-deliver-the-only-version-of-truth",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,760Your live analytics aren’t truth. 200:00:01,760 –> 00:00:04,320They’re a constantly mutating rumor with charts. 300:00:04,320 –> 00:00:05,960You pull a number, ETL sneezes, 400:00:05,960 –> 00:00:08,200and that number changes before the meeting ends. 500:00:08,200 –> 00:00:11,520Then executives ask which version is right, spoiler, none, 600:00:11,520 –> 00:00:13,800because the state you query no longer exists. […]\nThe post Fabric Snapshots Deliver The ONLY Version of Truth appeared first on 365 Community Online.",
+          "link": "https://365community.online/fabric-snapshots-deliver-the-only-version-of-truth",
+          "publishedOn": "2025-11-30T11:36:49.000Z",
+          "wordCount": 6894,
+          "title": "Fabric Snapshots Deliver The ONLY Version of Truth",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-langchain4j-copilot-studio-mess",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:04,800AI agents are shipping faster than your change control meetings and the governance is a vibe. 200:00:04,800 –> 00:00:08,640You know that feeling when a co-pilot ships with tenant-wide access just for testing? 300:00:08,640 –> 00:00:12,960Yeah, that’s your compliance officer’s hard beat you’re hearing. Today, I’m tearing down the mess 400:00:12,960 –> 00:00:18,000in Langchain […]\nThe post The LangChain4j & Copilot Studio Mess appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-langchain4j-copilot-studio-mess",
+          "publishedOn": "2025-11-30T07:54:13.000Z",
+          "wordCount": 6555,
+          "title": "The LangChain4j & Copilot Studio Mess",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/why-your-excel-data-will-still-fail",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,160You clicked create app from Excel, 200:00:02,160 –> 00:00:06,120felt clever and congratulations migrated your chaos at scale. 300:00:06,120 –> 00:00:07,280Excel isn’t a database, 400:00:07,280 –> 00:00:09,720it’s a calculator with delusions of grandeur. 500:00:09,720 –> 00:00:12,320Dataverse enforces identity types and relationships 600:00:12,320 –> 00:00:15,040and it will punish spreadsheet habits with integrity errors. 700:00:15,040 –> […]\nThe post Why Your Excel Data Will Still Fail appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-your-excel-data-will-still-fail",
+          "publishedOn": "2025-11-30T04:22:40.000Z",
+          "wordCount": 7571,
+          "title": "Why Your Excel Data Will Still Fail",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/the-sharepoint-lie-that-breaks-every-power-app",
           "author": "Mirko Peters",
@@ -74369,46 +74479,6 @@
           "wordCount": 3021,
           "title": "Paginated REST API calls in Power BI",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/navigating-copilot-studiomcs-powerplatform-pva-copilotstudio-copilot-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/navigating-copilot-studiomcs-powerplatform-pva-copilotstudio-copilot-youtube",
-          "publishedOn": "2023-12-02T13:00:50.000Z",
-          "wordCount": 2917,
-          "title": "Navigating Copilot Studio#MCS #powerplatform #PVA #CopilotStudio #Copilot – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1701579393_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/season-2-dynamics-365-crm-apps-webinar-marathon-boost-productivity-this-holiday-season",
-          "author": "Inogic",
-          "description": "As the winter embraces us and the magic of the Christmas season fills the air with joy, we recognize the importance of streamlining and automating your business processes, especially as […]",
-          "link": "https://365community.online/season-2-dynamics-365-crm-apps-webinar-marathon-boost-productivity-this-holiday-season",
-          "publishedOn": "2023-12-02T12:18:40.000Z",
-          "wordCount": 3353,
-          "title": "Season 2: Dynamics 365 CRM Apps Webinar Marathon – Boost Productivity this Holiday Season!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Webinar-Marathon-2.png?fit=700%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/azure-logic-apps-standard-introducing-the-workflow-assistant-ai",
-          "author": "Stefano Demiliani",
-          "description": "Yes… AI is coming also in Azure Logic Apps Designer! If you’re developing an Azure Logic Apps Standard workflow, in the designer editor you will start seeing a new Assistant […]",
-          "link": "https://365community.online/azure-logic-apps-standard-introducing-the-workflow-assistant-ai",
-          "publishedOn": "2023-12-01T15:11:50.000Z",
-          "wordCount": 3063,
-          "title": "Azure Logic Apps Standard: introducing the Workflow Assistant (AI)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1701455909_Azure-Logic-Apps-Standard-introducing-the-Workflow-Assistant-AI.png?fit=1200%2C950&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-multiple-vat-numbers-per-customer",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-multiple-vat-numbers-per-customer",
-          "publishedOn": "2023-12-01T15:00:18.000Z",
-          "wordCount": 3097,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Multiple VAT Numbers per Customer",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -75675,6 +75745,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19700",
+          "author": "André Arnaud de Calavon",
+          "description": "Welcome to the first post of the Dynamics 365 license enforcement Advent Calendar. In the post, you will get an introduction to why Microsoft made the decision to go for license enforcement. What happened this year and even before? History Dynamics 365 Finance and Operations (aka AI ERP) is the successor of Dynamics AX and […]\nThe post Licensing Advent Calendar – Day 1 – Introduction and History appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-1-introduction-and-history/",
+          "publishedOn": "2025-11-30T23:00:00.000Z",
+          "wordCount": 4479,
+          "title": "Licensing Advent Calendar – Day 1 – Introduction and History",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/11/Advent-calendar-01.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19668",
           "author": "André Arnaud de Calavon",
@@ -83834,16 +83914,6 @@
           "wordCount": 3948,
           "title": "Custom table browser utility",
           "imageUrl": "https://elearnd365.files.wordpress.com/2024/02/image-11.png"
-        },
-        {
-          "id": "http://elearnd365.com/?p=710",
-          "author": "Sukrut Parab",
-          "description": "We have different ways to execute runnable classes in D365 FO. Below are few ways you can execute With the utility available on my GitHub page you can run your runnable class through single UI where you can run runnable class which can be of type form or class. Here are the steps which will […]",
-          "link": "https://elearnd365.com/2023/12/01/utility-to-run-runnable-classes-in-d365-fo/",
-          "publishedOn": "2023-12-02T00:03:41.000Z",
-          "wordCount": 3679,
-          "title": "Utility to run runnable classes in D365 FO",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2023/12/picture3.png"
         }
       ]
     },
