@@ -2,10 +2,292 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-03T01:50:57.221Z</updated>
+    <updated>2025-12-04T01:52:25.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 4 – PPAC User License Consumption]]></title>
+        <id>https://dynamicspedia.com/?p=19735</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-4-ppac-user-license-consumption/"/>
+        <updated>2025-12-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Day 4 of the Advent Calendar. It is time to talk about the first license report available for the required user licensing. On this day, I will only talk about the basic visualization of the licensing report available in Power Platform Admin Center. User License Consumption The calculation for required licenses has been moved out […]
+The post Licensing Advent Calendar – Day 4 – PPAC User License Consumption appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Hub and Spoke Planning]]></title>
+        <id>https://365community.online/master-hub-and-spoke-planning</id>
+        <link href="https://365community.online/master-hub-and-spoke-planning"/>
+        <updated>2025-12-03T22:26:56.000Z</updated>
+        <summary type="html"><![CDATA[WEBVTT 100:00:00.080 –> 00:00:03.799POWERBI, the golden promise of self service analytics and the 200:00:03.839 –> 00:00:07.519silent destroyer of data consistency. Everyone loves it until you 300:00:07.559 –> 00:00:10.960realize your company has forty versions of the same sales dashboard, 400:00:11.119 –> 00:00:13.240each claiming to be the truth. You laugh, I can 500:00:13.279 –> 00:00:15.039hear it, but […]
+The post Master Hub and Spoke Planning appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Data Maturity Determines Your AI Readiness]]></title>
+        <id>https://erpsoftwareblog.com/?p=138261</id>
+        <link href="https://erpsoftwareblog.com/2025/12/why-data-maturity-determines-your-ai-readiness/"/>
+        <updated>2025-12-03T20:54:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+AI is everywhere. From Microsoft Copilot to industry-specific AI agents, organizations are racing to adopt intelligent technologies that promise efficiency, automation, and new competitive advantages. But there’s a hard truth […]
+The post Why Data Maturity Determines Your AI Readiness appeared first on ERP Software Blog.
+Spreadsheets are Helpful, But You Can’t Rely on Them Forever
+No More Late Nights for Year End Reporting
+My Three, No My FOUR, Favorite New Features in Management Reporter 2012]]></summary>
+        <author>
+            <name>Velosio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teams Channels Are Not Secure By Default: The Admin Lie]]></title>
+        <id>https://365community.online/teams-channels-are-not-secure-by-default-the-admin-lie</id>
+        <link href="https://365community.online/teams-channels-are-not-secure-by-default-the-admin-lie"/>
+        <updated>2025-12-03T18:51:09.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,680The night was thick with static, 200:00:01,680 –> 00:00:03,760Teams channels hummed like open vents, 300:00:03,760 –> 00:00:06,440not secure by default, not even close. 400:00:06,440 –> 00:00:09,360Guests slip in. 500:00:09,360 –> 00:00:10,680Linger. 600:00:10,680 –> 00:00:14,080Files sink to places you don’t watch. 700:00:14,080 –> 00:00:17,040One careless click away from a bleed you can’t stop. 800:00:17,040 […]
+The post Teams Channels Are Not Secure By Default: The Admin Lie appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 6.9: What’s New for Developers]]></title>
+        <id>https://365community.online/wordpress-6-9-whats-new-for-developers</id>
+        <link href="https://365community.online/wordpress-6-9-whats-new-for-developers"/>
+        <updated>2025-12-03T18:23:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress 6.9 is a pivotal release that strengthens the foundation for where WordPress is heading next. The updates to the Abilities API, Interactivity API, Block Bindings, DataViews, and DataForm make the platform more connected and easier to customize. This release also puts developers in a better position to build interactive and intelligent features as WordPress […]
+The post WordPress 6.9: What’s New for Developers appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 3 – SQL Server 2025 – New T-SQL functions – JSON Index]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10690</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/03/advent-of-2025-day-3-sql-server-2025-new-t-sql-functions-json-index/"/>
+        <updated>2025-12-03T17:01:15.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: SQL Server 2025 introduces a JSON index on JSON columns that accelerates querying data from JSON objects. In addition, JSON index supports functions like JSON_VALUE, JSON_PATH_EXISTS, and JSON_CONTAINS. There are some limitations, namely…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Agents to Automation: Practical Ways ERP Teams Are Using Copilot Today]]></title>
+        <id>https://erpsoftwareblog.com/?p=137963</id>
+        <link href="https://erpsoftwareblog.com/2025/12/from-agents-to-automation-practical-ways-erp-teams-are-using-copilot-today/"/>
+        <updated>2025-12-03T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’re a technology or operations leader, you’ve heard the promises: Copilot will transform workflows, automate processes, and deliver instant insights. The reality? First experiences often feel uneven. Some features […]
+The post From Agents to Automation: Practical Ways ERP Teams Are Using Copilot Today appeared first on ERP Software Blog.
+New Microsoft Software Updates in August 2020 - Tech Insider Update
+Mekorma Enhances Remote Payment Services with Greater Value, Flexibility, and Security
+Choosing the Right AP Automation Solution: Checklist]]></summary>
+        <author>
+            <name>Stoneridge Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Microsoft Dynamics 365 to Excel: A Step-by-Step Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=136942</id>
+        <link href="https://erpsoftwareblog.com/2025/12/how-to-connect-microsoft-dynamics-365-to-excel/"/>
+        <updated>2025-12-03T16:00:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In this article, we'll walk you through a step by step guide on how to connect Microsoft Dynamics 365 to Excel, sharing tips and insights along the way. Let's dive […]
+The post How to Connect Microsoft Dynamics 365 to Excel: A Step-by-Step Guide appeared first on ERP Software Blog.
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey
+Mekorma Enhances Remote Payment Services with Greater Value, Flexibility, and Security
+Winning the AP Game with Mekorma Embedded Solutions]]></summary>
+        <author>
+            <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop SharePoint Hoarding: The Blob Storage Fix]]></title>
+        <id>https://365community.online/stop-sharepoint-hoarding-the-blob-storage-fix</id>
+        <link href="https://365community.online/stop-sharepoint-hoarding-the-blob-storage-fix"/>
+        <updated>2025-12-03T15:15:21.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,660Your SharePoint looks confident. 200:00:01,660 –> 00:00:04,200Copilot 2, ask a question, get an answer, 300:00:04,200 –> 00:00:06,600deliver it with the swagger of a straight A student. 400:00:06,600 –> 00:00:07,360The truth? 500:00:07,360 –> 00:00:10,200It’s guessing between five files named final final V2, 600:00:10,200 –> 00:00:11,960final V2 real and you know this one, 700:00:11,960 –> […]
+The post Stop SharePoint Hoarding: The Blob Storage Fix appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Navision Software to become an ERP pioneer - Conglomorate Magazine story]]></title>
+        <id>https://erpsoftwareblog.com/?p=138246</id>
+        <link href="https://erpsoftwareblog.com/2025/12/from-navision-software-to-become-an-erp-pioneer-conglomorate-magazine-story/"/>
+        <updated>2025-12-03T15:01:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Journey of the experiences that transformed Kati Hvidtfeldt from a curious technologist into an ERP pioneer and see how those lessons became the foundation of HandsFree ERP’s groundbreaking methodology. From […]
+The post From Navision Software to become an ERP pioneer - Conglomorate Magazine story appeared first on ERP Software Blog.
+Fast ROI For Manufacturing Companies And Distributors From Your ERP
+“Readers Digest” Version of the LEAN Enterprise
+Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined]]></summary>
+        <author>
+            <name>Kati Hvidtfeldt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing Industry 3 Critical Trends & How Business Central Solves Them]]></title>
+        <id>https://erpsoftwareblog.com/?p=138231</id>
+        <link href="https://erpsoftwareblog.com/2025/12/manufacturing-industry-3-critical-trends-how-business-central-solves-them/"/>
+        <updated>2025-12-03T13:12:41.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The manufacturing landscape is more volatile than ever. Between unpredictable supply chains, rising costs, and the pressure to do more with less, today’s manufacturers need a crystal-clear view of their entire operation […]
+The post Manufacturing Industry 3 Critical Trends & How Business Central Solves Them appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Beyond Key (Dynamics CRM Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud vs. On-Prem: Choosing the Right Dynamics 365 ERP Implementation Approach]]></title>
+        <id>https://erpsoftwareblog.com/?p=138232</id>
+        <link href="https://erpsoftwareblog.com/2025/12/cloud-vs-on-prem-dynamics-365-erp-implementation-approach/"/>
+        <updated>2025-12-03T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When organizations begin their Microsoft Dynamics 365 ERP implementation journey, one question becomes crucial to the entire strategy: Should we deploy it to the cloud or keep it on-premises? This […]
+The post Cloud vs. On-Prem: Choosing the Right Dynamics 365 ERP Implementation Approach appeared first on ERP Software Blog.
+Strengthening Vendor Relationships with Microsoft D365’s Procurement Tools
+Efficient Intercompany Transactions in Dynamics 365 Finance & SCM
+Microsoft's Supplier Communications Agent: Automate Procurement Tasks in Dynamics 365 F&SCM]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Copilot Rollout Will Fail]]></title>
+        <id>https://365community.online/why-your-copilot-rollout-will-fail</id>
+        <link href="https://365community.online/why-your-copilot-rollout-will-fail"/>
+        <updated>2025-12-03T11:29:16.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,340Your co-pilot rollout will fail for one reason, people not tech. 200:00:03,340 –> 00:00:06,740You’ll light up licenses, publish a heroic memo, and three months later? 300:00:06,740 –> 00:00:07,460Nothing. 400:00:07,460 –> 00:00:10,540Wasted budget, annoyed executives, zero behavior change. 500:00:10,540 –> 00:00:13,740The truth, deployment isn’t adoption, behavior change is the product. 600:00:13,740 –> 00:00:16,780Here’s the […]
+The post Why Your Copilot Rollout Will Fail appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to Free Online Slot Machine]]></title>
+        <id>https://365community.online/?p=106271</id>
+        <link href="https://365community.online/the-ultimate-guide-to-free-online-slot-machine"/>
+        <updated>2025-12-03T11:13:55.000Z</updated>
+        <summary type="html"><![CDATA[On the internet ports have become immensely prominent throughout the years, offering players with amazing and satisfying betting experiences from the comfort of their own homes. And the best component? There are plenty of totally free online slots available for those that want to take pleasure in the thrill without spending a dime. In this […]
+The post The Ultimate Guide to Free Online Slot Machine appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEBINAR: Improve and Simplify Shop Floor Time Tracking in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=138215</id>
+        <link href="https://erpsoftwareblog.com/2025/12/improve-and-simplify-shop-floor-time-tracking-in-business-central/"/>
+        <updated>2025-12-03T11:12:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For manufacturers running production in Business Central, tracking labor, managing work orders, and maintaining visibility across the shop floor can be an ongoing challenge. Paper timecards, manual approvals, and delayed […]
+The post WEBINAR: Improve and Simplify Shop Floor Time Tracking in Business Central appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Training Resource Gap: When to Hire D365 F&O Training Experts Instead of Overloading Your Core Team]]></title>
+        <id>https://erpsoftwareblog.com/?p=138203</id>
+        <link href="https://erpsoftwareblog.com/2025/12/the-training-resource-gap-when-to-hire-d365-fo-training-experts-instead-of-overloading-your-core-team/"/>
+        <updated>2025-12-03T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The setup that kills F&O implementations: Your core team is allocated 50% to the project. They're attending design sessions, testing configurations, writing documentation, and making critical business decisions. Then someone […]
+The post The Training Resource Gap: When to Hire D365 F&O Training Experts Instead of Overloading Your Core Team appeared first on ERP Software Blog.
+How to Prepare for a Dynamics 365 Data Migration
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
+        <author>
+            <name>The Good Talent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Integration Done Right: Turning Fragmented Systems Into One Streamlined Engine]]></title>
+        <id>https://erpsoftwareblog.com/?p=138228</id>
+        <link href="https://erpsoftwareblog.com/2025/12/dynamics-365-integration-done-right-turning-fragmented-systems-into-one-streamlined-engine/"/>
+        <updated>2025-12-03T10:01:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced business environment, organizations use a variety of applications—ERP systems, CRMs, marketing platforms, legacy databases, and more. Each tool serves a specific purpose, but when these systems don’t […]
+The post Dynamics 365 Integration Done Right: Turning Fragmented Systems Into One Streamlined Engine appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Themes Per App , Not Just Per Environment In Dataverse]]></title>
+        <id>https://365community.online/custom-themes-per-app-not-just-per-environment-in-dataverse</id>
+        <link href="https://365community.online/custom-themes-per-app-not-just-per-environment-in-dataverse"/>
+        <updated>2025-12-03T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I noticed a post on LinkedIn from Bülent Altinsoy recently where he pointed out that Microsoft has released a new Theme Designer for Model-Driven Apps. It’s a solution you can download and import which adds a model-driven app of its own which allows you to set a new theme a bit easier. I’d added a […]
+The post Custom Themes Per App , Not Just Per Environment In Dataverse appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Power Pages and what is it used for?]]></title>
+        <id>https://365community.online/what-is-power-pages-and-what-is-it-used-for</id>
+        <link href="https://365community.online/what-is-power-pages-and-what-is-it-used-for"/>
+        <updated>2025-12-03T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilot answer Microsoft Power Pages is a secure, enterprise-grade low-code SaaS platform for creating, hosting, and administering modern external-facing business websites. It lets low-code makers and professional developers rapidly design responsive, data-driven sites using a visual design studio, templates, and Microsoft Dataverse for shared business data. Common uses include customer self-service portals, partner and vendor […]
+The post What is Power Pages and what is it used for? appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Defender XDR Is Mandatory]]></title>
+        <id>https://365community.online/why-defender-xdr-is-mandatory</id>
+        <link href="https://365community.online/why-defender-xdr-is-mandatory"/>
+        <updated>2025-12-03T07:52:29.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,440You’ve got six dashboards, three vendors, and a color-coded incident spreadsheet. 200:00:04,440 –> 00:00:09,600Congrats, you built a Rube Goldberg machine that alerts loudly and catches little. 300:00:09,600 –> 00:00:12,520Hybrid security isn’t more tools. 400:00:12,520 –> 00:00:16,360It’s two overlapping attack surfaces pretending to be one. 500:00:16,360 –> 00:00:18,200Here’s what most people miss. 600:00:18,200 –> […]
+The post Why Defender XDR Is Mandatory appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Technical Capabilities in Dynamics 365 Field Service That Are Significantly Enhanced by Copilot]]></title>
+        <id>https://erpsoftwareblog.com/?p=138225</id>
+        <link href="https://erpsoftwareblog.com/2025/12/d365-field-service-copilot-technical-features/"/>
+        <updated>2025-12-03T07:22:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Field Service success has always hinged on two things: efficiency and context. For years, companies relied on core automation features like Resource Scheduling Optimization (RSO) and manual processes. Today, that […]
+The post 5 Technical Capabilities in Dynamics 365 Field Service That Are Significantly Enhanced by Copilot appeared first on ERP Software Blog.
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary
+Field Service Optimization: How Support Services Maximize the ROI of Dynamics 365 Field Service
+How does proMX 365 Absence Management drive productivity across industries?]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Is Broken Until You Do THIS]]></title>
+        <id>https://365community.online/copilot-is-broken-until-you-do-this</id>
+        <link href="https://365community.online/copilot-is-broken-until-you-do-this"/>
+        <updated>2025-12-03T04:15:05.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,440You think Copilot is smart because it speaks confidently. 200:00:02,440 –> 00:00:04,520The truth, it’s a pleasant generalist that 300:00:04,520 –> 00:00:07,720stalls the second your question touches your company’s rules. 400:00:07,720 –> 00:00:11,000You paid for a digital butler, you got an intern with Wi-Fi. 500:00:11,000 –> 00:00:12,120Here’s the fix. 600:00:12,120 –> 00:00:16,160Bring your custom […]
+The post Copilot Is Broken Until You Do THIS appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI That Killed It]]></title>
         <id>https://365community.online/the-ai-that-killed-it</id>
@@ -161,17 +443,6 @@ The post WordPress 6.9: What’s New for Bloggers, Creators, and Site Owners a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[anabolizantes online 7]]></title>
-        <id>https://365community.online/?p=106259</id>
-        <link href="https://365community.online/anabolizantes-online-7"/>
-        <updated>2025-12-02T14:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Claves Para Comprar Medicamentos Por Web Los magníficos resultados obtenidos por la República Democrática Alemana a partir de los años 60, sobre todo en las mujeres, llamaron poderosamente la atención pública y, tras demostrarse su relación con los anabolizantes, el Comité Olímpico Internacional los prohibió en 19749,10. El caso más famoso de abuso de anabolizantes […]
-The post anabolizantes online 7 appeared first on 365 Community Online.]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dooap Earns Microsoft Certification for Business Applications: A Step Forward in ERP]]></title>
         <id>https://erpsoftwareblog.com/?p=138079</id>
         <link href="https://erpsoftwareblog.com/2025/12/dooap-earns-microsoft-certification-for-business-applications-a-step-forward-in-erp/"/>
@@ -184,17 +455,6 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dooap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nerdio NME Top 10 Features – No 6: Desktop Imaging – YouTube]]></title>
-        <id>https://365community.online/nerdio-nme-top-10-features-no-6-desktop-imaging-youtube</id>
-        <link href="https://365community.online/nerdio-nme-top-10-features-no-6-desktop-imaging-youtube"/>
-        <updated>2025-12-02T14:01:07.000Z</updated>
-        <summary type="html"><![CDATA[🔟 Nerdio NME Top 10 Features – No 6: Desktop Imaging 🔟 Welcome back to Nerdio Wednesday! In Episode 6, I introduce the sixth feature in my Top 10 Nerdio Manager for Enterprise (NME) Features — Desktop Imaging. This feature is a game-changer for managing and deploying consistent, secure, and optimized desktop environments across your […]
-The post Nerdio NME Top 10 Features – No 6: Desktop Imaging – YouTube appeared first on 365 Community Online.]]></summary>
-        <author>
-            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -105851,134 +106111,6 @@ Microsoft Dynamics GP 2015 Roadmap: Get Excited about New Releases!
 QuickBooks vs. Dynamics NAV on Limited Accounting Staff]]></summary>
         <author>
             <name>Binary Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warehouse Insight v2.11: Streamlining Operations in Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=102380</id>
-        <link href="https://erpsoftwareblog.com/2023/12/warehouse-insight-v2-11-streamlining-operations-in-business-central/"/>
-        <updated>2023-12-05T13:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Learn about how Warehouse Insight v2.11's new features enhance warehouse management for Microsoft Dynamics 365 Business Central users.
-The post Warehouse Insight v2.11: Streamlining Operations in Business Central appeared first on ERP Software Blog.
-Importance of ERP Software in Manufacturing Industries
-Free Business Central Apps to Fill the Gaps
-Unlocking Seamless Order Fulfillment in Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide for Monitoring and Resolving Issues with Automated Record Creation Rules in Dynamics 365 CRM]]></title>
-        <id>https://365community.online/a-guide-for-monitoring-and-resolving-issues-with-automated-record-creation-rules-in-dynamics-365-crm</id>
-        <link href="https://365community.online/a-guide-for-monitoring-and-resolving-issues-with-automated-record-creation-rules-in-dynamics-365-crm"/>
-        <updated>2023-12-05T11:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Microsoft’s Automated Record Creation (ARC) rule was added in the most recent edition. Its purpose is to generate or update systems or custom activities based on actions like emails, […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factors to Consider for ERP Integration]]></title>
-        <id>https://erpsoftwareblog.com/?p=102405</id>
-        <link href="https://erpsoftwareblog.com/2023/12/factors-to-consider-for-erp-integration/"/>
-        <updated>2023-12-05T11:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Integrating an Enterprise Resource Planning (ERP) system involves various considerations to ensure a smooth and successful integration process. Factors to Consider for ERP Integration are as under: Business Objectives and …  Factors to Consider for ERP Integration Read More »
-The post Factors to Consider for ERP Integration appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Or NetSuite ERP For Your SME?
-New ERP? Choose a Go-Live Date that Best Suits Your Company
-On-premise vs Cloud-based - 10 Considerations]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Monitor Performance for Cloud and Desktop Flow Activities]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-monitor-performance-for-cloud-and-desktop-flow-activities</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-monitor-performance-for-cloud-and-desktop-flow-activities"/>
-        <updated>2023-12-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build your own service copilot with Copilot for Service (Preview)]]></title>
-        <id>https://365community.online/build-your-own-service-copilot-with-copilot-for-service-preview</id>
-        <link href="https://365community.online/build-your-own-service-copilot-with-copilot-for-service-preview"/>
-        <updated>2023-12-05T09:38:00.000Z</updated>
-        <summary type="html"><![CDATA[During the Microsoft Ignite conference in November there have been a lot of announcements about Microsoft Copilot. There are a ton of different copilot types, each with their own unique […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot for Service(Preview) – YouTube]]></title>
-        <id>https://365community.online/copilot-for-servicepreview-youtube</id>
-        <link href="https://365community.online/copilot-for-servicepreview-youtube"/>
-        <updated>2023-12-05T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Copilot for Service(Preview) I’m sure you’ve heard all the buzz around Copilot from Microsoft! In this video I will show you how you can use Copilot for Service(preview) to create […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions Secrets: Security Best Practices – YouTube]]></title>
-        <id>https://365community.online/github-actions-secrets-security-best-practices-youtube</id>
-        <link href="https://365community.online/github-actions-secrets-security-best-practices-youtube"/>
-        <updated>2023-12-05T08:00:23.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Actions Secrets: Security Best Practices In this video, I am going to show you 7 security best practices for using GitHub Actions Secrets properly and safely. 🎶 The music […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why use managed solutions]]></title>
-        <id>https://365community.online/why-use-managed-solutions</id>
-        <link href="https://365community.online/why-use-managed-solutions"/>
-        <updated>2023-12-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every now and then I get asked why someone should use managed solutions. We also had a discussion internally recently because some of our projects have problems with it. The […]]]></summary>
-        <author>
-            <name>Benedikt Bergmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate developer productivity with Microsoft Power Platform]]></title>
-        <id>accelerate-developer-productivity-with-microsoft-power-platform</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/accelerate-developer-productivity-with-microsoft-power-platform/"/>
-        <updated>2023-12-05T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Power Platform developer tools are enabling professional developers to create more effective business solutions using Power Platform. Learn more.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transitioning from Unmanaged to Managed Solution (Dynamics 365 / Dataverse)]]></title>
-        <id>https://365community.online/transitioning-from-unmanaged-to-managed-solution-dynamics-365-dataverse</id>
-        <link href="https://365community.online/transitioning-from-unmanaged-to-managed-solution-dynamics-365-dataverse"/>
-        <updated>2023-12-04T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has always recommended managed solution(s), apart from the some of benefits that managed solutions offer over unmanaged, Microsoft is also adding features to the managed solution, making it easy […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Series Index]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-series-index</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-series-index"/>
-        <updated>2023-12-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of a series on the new functionality announced for Wave 2 of Microsoft Power Automate 2023. There are two release waves for Power Automate each year, […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnichannel for Customer Service – IVR BOTs and Languages]]></title>
-        <id>https://365community.online/omnichannel-for-customer-service-ivr-bots-and-languages</id>
-        <link href="https://365community.online/omnichannel-for-customer-service-ivr-bots-and-languages"/>
-        <updated>2023-12-04T14:01:26.000Z</updated>
-        <summary type="html"><![CDATA[I recently created a blog post which explained the options we have in Microsoft’s Omnichannel for Customer Service and Unified Routing around languages. In this post I will continue that […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
         </author>
     </entry>
     <entry>
