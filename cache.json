@@ -928,6 +928,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10741",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Continuing with SQL Server 2025 T-SQL functions for Regular Expressions for replace and substring functionalities. REGEXP_SUBSTR() Returns one occurrence of a substring of a string that matches the regular expression pattern. If no…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/07/advent-of-2025-day-7-sql-server-2025-new-t-sql-functions-regexp_substr-and-regexp_replace/",
+          "publishedOn": "2025-12-07T17:15:25.000Z",
+          "wordCount": 5552,
+          "title": "Advent of 2025, Day 7 – SQL Server 2025 – New T-SQL functions – REGEXP_SUBSTR() and REGEXP_REPLACE()",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-17.png?w=221"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10727",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: SQL Server 2025 introduces a new T-SQL functions for Regular Expressions (RegEx). With multiple RegEx functions, the LIKE function indicates if the regular expression pattern matches the string or is in a string.…\nRead more ›",
@@ -1546,6 +1556,16 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=138104",
+          "author": "proMX",
+          "description": "xxx\nIn a world where artificial intelligence evolves faster than ever, and genuine human connection often feels like an afterthought, it’s time to rethink how we use technology. Instead of replacing […]\nThe post How Dynamics 365 Contact Center solves five biggest customer service challenges appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/how-dynamics-365-contact-center-solves-five-biggest-customer-service-challenges/",
+          "publishedOn": "2025-12-07T16:40:06.000Z",
+          "wordCount": 7180,
+          "title": "How Dynamics 365 Contact Center solves five biggest customer service challenges",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ProMX-ERPSoftwareBlog-Image.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=138051",
           "author": "Convergence Dynamics User Group",
@@ -34620,46 +34640,6 @@
           "wordCount": 7777,
           "title": "How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-How-Process-Reviews-Prove-That-Microsoft-Dynamics-GP-Can-Do-More-Than-You-Think-It-Can-Do_1200-x-628.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102482",
-          "author": "Insight Works",
-          "description": "In a strategic move to enhance ERP solutions worldwide, Insight Works integrates five new Microsoft Partners into their reseller program. Edmonton, Alberta, Canada, December 8, 2023 – Insight Works, a …  Insight Works Welcomes 5 New Microsoft Partners Read More »\nThe post Insight Works Welcomes 5 New Microsoft Partners appeared first on ERP Software Blog.\nBrilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP\nMicrosoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances\nIs it Time for Your Microsoft Cloud ERP Migration?",
-          "link": "https://erpsoftwareblog.com/2023/12/insight-works-welcomes-5-new-microsoft-partners/",
-          "publishedOn": "2023-12-08T21:13:57.000Z",
-          "wordCount": 7294,
-          "title": "Insight Works Welcomes 5 New Microsoft Partners",
-          "imageUrl": "https://www.dmsiworks.com/wp-content/uploads/Insight-Works-Welcomes-5-New-Microsoft-Partners-to-Reseller-Program-300x300.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102479",
-          "author": "Calsoft Systems",
-          "description": "Selecting the appropriate Microsoft partner goes beyond simply choosing a product; it involves establishing a lasting and fruitful business relationship. Your Microsoft partner plays a pivotal role in comprehending your …  The Key Factors in Choosing and Switching Microsoft Dynamics Partners Read More »\nThe post The Key Factors in Choosing and Switching Microsoft Dynamics Partners appeared first on ERP Software Blog.\nReporting Fail?  Keys to Avoiding Weak Executive Dashboards\nDemoing Dynamics GP at Pervasive's IntegrationWorld 2012\nThe ERP Implementation Partnership: Human Factor vs. Tools & Procedures",
-          "link": "https://erpsoftwareblog.com/2023/12/key-factors-switching-microsoft-dynamics-partners/",
-          "publishedOn": "2023-12-08T20:06:58.000Z",
-          "wordCount": 7475,
-          "title": "The Key Factors in Choosing and Switching Microsoft Dynamics Partners",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102439",
-          "author": "x2x eCommerce",
-          "description": "The importance of Historical ERP Data is significant as it holds immense importance for businesses due to its numerous benefits. This article discusses some major advantages taken from historical data: …  Importance of Historical ERP Data Read More »\nThe post Importance of Historical ERP Data appeared first on ERP Software Blog.\nImprove Inventory Tracking in Microsoft Dynamics NAV\nWhat’s My Dynamics NAV Price?\nVideo Testimonial: Clients First & Dynamics NAV, Keeping the Railroads Moving",
-          "link": "https://erpsoftwareblog.com/2023/12/importance-of-historical-erp-data/",
-          "publishedOn": "2023-12-08T14:41:28.000Z",
-          "wordCount": 7291,
-          "title": "Importance of Historical ERP Data",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-29-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102417",
-          "author": "Criterion",
-          "description": "In the ever-evolving landscape of Human Capital Management (HCM) solutions, companies are looking for a blend of functionality, flexibility, and seamless integration with their existing ERP systems. Gary provides his …  Human Capital Management Integrated to Microsoft Dynamics 365 Finance with Criterion HCM Read More »\nThe post Human Capital Management Integrated to Microsoft Dynamics 365 Finance with Criterion HCM appeared first on ERP Software Blog.\nInterested in Cloud Computing?: Get Your Answers at Explore Microsoft Business Cloud!\nSelecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy.\nEnhancing Quality and Compliance with Lot Traceability in Business Central for Manufacturing",
-          "link": "https://erpsoftwareblog.com/2023/12/human-capital-management-integrated-to-microsoft-dynamics-365-finance-with-criterion-hcm/",
-          "publishedOn": "2023-12-08T14:24:31.000Z",
-          "wordCount": 8031,
-          "title": "Human Capital Management Integrated to Microsoft Dynamics 365 Finance with Criterion HCM",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-Integrate-Human-Capital-Management-into-Dynamics-365-Finance_1200-x-628.png"
         }
       ]
     },
@@ -36265,6 +36245,56 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/why-your-azure-backups-arent-as-safe-as-you-think-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,560Administrator, do you hear that? 200:00:01,560 –> 00:00:03,280The silence is lying to you. 300:00:03,280 –> 00:00:05,280Backups you trust can vanish in seconds 400:00:05,280 –> 00:00:07,200when one shadowed identity twitches. 500:00:07,200 –> 00:00:08,240And here’s what actually happens 600:00:08,240 –> 00:00:09,800when Azure Backups sits on defaults. 700:00:09,800 –> 00:00:11,440Meet the backup operator from hell, 800:00:11,440 […]\nThe post Why Your Azure Backups Aren’t as Safe as You Think appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-your-azure-backups-arent-as-safe-as-you-think-2",
+          "publishedOn": "2025-12-07T22:26:09.000Z",
+          "wordCount": 6995,
+          "title": "Why Your Azure Backups Aren’t as Safe as You Think",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/why-your-azure-backups-arent-as-safe-as-you-think",
+          "author": "Mirko Peters",
+          "description": "Administrator… do you hear that? The silence is lying to you. Your Azure backups look healthy. Vaults are green. Jobs say Completed. No alerts. No smoke. But one overpowered identity, one leaked token, or one panicked admin can quietly erase every recovery point you’re betting the company on. In this episode, we dissect what really […]\nThe post Why Your Azure Backups Aren’t as Safe as You Think appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-your-azure-backups-arent-as-safe-as-you-think",
+          "publishedOn": "2025-12-07T18:38:23.000Z",
+          "wordCount": 2752,
+          "title": "Why Your Azure Backups Aren’t as Safe as You Think",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/why-ai-compliance-alone-wont-save-your-business-youtube",
+          "author": "NZ365Guy",
+          "description": "Why AI Compliance Alone Won’t Save Your Business Get featured on the show by leaving us a Voice Mail: https://bit.ly/MIPVM AI adoption is accelerating, but compliance alone won’t protect your business. In this episode, Santosh Kaveti explores practical strategies for managing AI risk, securing data, and scaling responsibly while unlocking new revenue streams. 👉 Full […]\nThe post Why AI Compliance Alone Won’t Save Your Business – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-ai-compliance-alone-wont-save-your-business-youtube",
+          "publishedOn": "2025-12-07T17:20:37.000Z",
+          "wordCount": 2799,
+          "title": "Why AI Compliance Alone Won’t Save Your Business – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/run-azure-on-a-mini-pc",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,560You’re still paying rent for machines you can’t touch. 200:00:02,560 –> 00:00:03,480Think about that. 300:00:03,480 –> 00:00:05,720Every month, the invoice from your cloud provider 400:00:05,720 –> 00:00:08,000arrives like a landlord shaking you down for sunlight, 500:00:08,000 –> 00:00:10,080charging you for compute cycles, you don’t even 600:00:10,080 –> 00:00:11,320remember scheduling. 700:00:11,320 –> 00:00:13,040The total […]\nThe post Run Azure on a Mini PC appeared first on 365 Community Online.",
+          "link": "https://365community.online/run-azure-on-a-mini-pc",
+          "publishedOn": "2025-12-07T14:55:14.000Z",
+          "wordCount": 7325,
+          "title": "Run Azure on a Mini PC",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/why-microsoft-fabric-is-becoming-the-new-operating-system-for-enterprise-data",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,120You don’t have a data platform, you have a staged illusion, 200:00:03,120 –> 00:00:06,960power BI pretending to be glue, pipelines masking drift, 300:00:06,960 –> 00:00:09,440access you can’t explain, lineage you can’t prove, 400:00:09,440 –> 00:00:11,920you call it analytics, it’s chaos. 500:00:11,920 –> 00:00:15,440Your truth lives in 15 places, non-authoritative, 600:00:15,440 –> 00:00:17,120you blame […]\nThe post Why Microsoft Fabric Is Becoming the New Operating System for Enterprise Data appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-microsoft-fabric-is-becoming-the-new-operating-system-for-enterprise-data",
+          "publishedOn": "2025-12-07T11:05:55.000Z",
+          "wordCount": 10137,
+          "title": "Why Microsoft Fabric Is Becoming the New Operating System for Enterprise Data",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/why-agentic-rag-is-your-only-fix",
           "author": "Mirko Peters",
@@ -74869,36 +74899,6 @@
           "wordCount": 2935,
           "title": "Navigate automatically between topics in Copilot Studio #Copilot #CopilotStudio #MCS – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702178321_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/your-own-ai-prompt-library",
-          "author": "Ana Inés Urrutia",
-          "description": "I was having a look at Power Apps Studio today and something caught my eye. It is under the AI Hub, and it’s called ‘Unlock the power of generative AI […]",
-          "link": "https://365community.online/your-own-ai-prompt-library",
-          "publishedOn": "2023-12-08T21:33:08.000Z",
-          "wordCount": 3032,
-          "title": "Your own AI Prompt library",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Your-own-AI-Prompt-library.jpg?fit=1000%2C750&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-versioning-for-solution-cloud-flows",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-versioning-for-solution-cloud-flows",
-          "publishedOn": "2023-12-08T15:00:00.000Z",
-          "wordCount": 3093,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use Versioning for Solution Cloud Flows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/testing-a-copilot-powerplatform-mcs-copilotstudio-copilot-pva-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/testing-a-copilot-powerplatform-mcs-copilotstudio-copilot-pva-youtube",
-          "publishedOn": "2023-12-08T13:54:03.000Z",
-          "wordCount": 2929,
-          "title": "Testing a Copilot! #powerplatform #mcs #copilotstudio #copilot #pva – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702192256_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -76155,6 +76155,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19774",
+          "author": "André Arnaud de Calavon",
+          "description": "Day 8 of the advent calendar. I got some reactions wondering how it is possible to write 24 posts about Dynamics 365 licensing. Honestly, I was also having a doubt myself. The idea of an advent calendar is having small presents every day. For that reason, I try to divide all topics into smaller posts. […]\nThe post Licensing Advent Calendar – Day 8 – Over-licensed users appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-8-over-licensed-users/",
+          "publishedOn": "2025-12-07T23:00:00.000Z",
+          "wordCount": 4290,
+          "title": "Licensing Advent Calendar – Day 8 – Over-licensed users",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-08.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19764",
           "author": "André Arnaud de Calavon",
@@ -81326,16 +81336,6 @@
           "wordCount": 2765,
           "title": "Begin your copilot journey with summarization",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/Copilot-Image.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/08/business-central-dynamics-365-czech/",
-          "author": "Predrag Maricic",
-          "description": "Microsoft has separated all Czech-specific functionalities into distinct applications as part of the delocalization process of the Czech version of Dynamics 365 Business Central. T\nThe post Impact of Delocalization Process in the Czech Version of Business Central 2023 Wave 2 Release appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/08/business-central-dynamics-365-czech/",
-          "publishedOn": "2023-12-08T17:08:53.000Z",
-          "wordCount": 2761,
-          "title": "Impact of Delocalization Process in the Czech Version of Business Central 2023 Wave 2 Release",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/12/CLO24-Azure-Fintech-023-1024x683.jpg"
         }
       ]
     },
@@ -82128,6 +82128,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3051",
+          "author": "Saurabh Bharti",
+          "description": "Hi Everyone!For the last 5 years, I’ve been sharing practical knowledge with all of you through 250+ published blogs (1.3M+ views) and 120+ videos on YouTube with over 1M minutes watched. The response, support, and engagement from this community have been incredible — and now it’s time to elevate your learning experience! Today, I’m thrilled […]",
+          "link": "https://exploredynamics365.home.blog/2025/12/08/introducing-smart-learner-club-membership-on-youtube-your-next-level-of-learning-starts-today/",
+          "publishedOn": "2025-12-07T18:42:07.000Z",
+          "wordCount": 3751,
+          "title": "Introducing Smart Learner Club Membership on YouTube – Your Next Level of Learning Starts Today!",
+          "imageUrl": "https://exploredynamics365.home.blog/wp-content/uploads/2025/12/memebrshipthubnail.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3045",
           "author": "Saurabh Bharti",
