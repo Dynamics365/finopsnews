@@ -928,6 +928,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10757",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Continuing with SQL Server 2025 T-SQL functions for Regular Expressions for in string and count functionalities. REGEXP_INSTR() Returns the starting or ending position of the matched string (or substring). Starting or ending depends…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/08/advent-of-2025-day-8-sql-server-2025-new-t-sql-functions-regexp_instr-and-regexp_count/",
+          "publishedOn": "2025-12-08T16:31:15.000Z",
+          "wordCount": 5424,
+          "title": "Advent of 2025, Day 8 – SQL Server 2025 – New T-SQL functions – REGEXP_INSTR() and REGEXP_COUNT()",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-20.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10741",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: Continuing with SQL Server 2025 T-SQL functions for Regular Expressions for replace and substring functionalities. REGEXP_SUBSTR() Returns one occurrence of a substring of a string that matches the regular expression pattern. If no…\nRead more ›",
@@ -1556,6 +1566,86 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=137561",
+          "author": "Technology Management Concepts",
+          "description": "xxx\nTL;DR Microsoft is retiring Dynamics GP over the next several years, with mainstream support ending in December 2029 and all remaining support ending by April 2031. As GP moves closer […]\nThe post Why Staying on Dynamics GP Is Risky in 2026 and What Companies Need to Know About Moving to Business Central appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/why-staying-on-dynamics-gp-is-risky-in-2026-and-what-companies-need-to-know-about-moving-to-business-central/",
+          "publishedOn": "2025-12-08T22:12:59.000Z",
+          "wordCount": 7887,
+          "title": "Why Staying on Dynamics GP Is Risky in 2026 and What Companies Need to Know About Moving to Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Why-Staying-on-Dynamics-GP-Is-Risky-in-2025-and-What-Companies-Need-to-Know-About-Moving-to-Business-Central.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138436",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works welcomed 10 Microsoft Partners into its reseller program in November, expanding its global network and empowering Business Central users worldwide. Insight Works, a leading Independent Software Vendor (ISV) […]\nThe post 10 Resellers Join Insight Works to Boost Business Central Integration appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/12/10-resellers-join-insight-works-to-boost-business-central-integration/",
+          "publishedOn": "2025-12-08T19:34:23.000Z",
+          "wordCount": 6901,
+          "title": "10 Resellers Join Insight Works to Boost Business Central Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/10-2.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138417",
+          "author": "360 Visibility",
+          "description": "xxx\nFor many organizations, Microsoft Dynamics GP has been a trusted financial system for decades. However, as the business landscape evolves, clinging to legacy systems is becoming increasingly risky — and […]\nThe post The Hidden Costs of Delaying Your Dynamics GP Migration appeared first on ERP Software Blog.\nBusiness intelligence - its contagious!\nFour Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1\nBetter Information = Stronger Company in Tough Economy",
+          "link": "https://erpsoftwareblog.com/2025/12/the-hidden-costs-of-delaying-your-dynamics-gp-migration/",
+          "publishedOn": "2025-12-08T16:32:05.000Z",
+          "wordCount": 7616,
+          "title": "The Hidden Costs of Delaying Your Dynamics GP Migration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/microsoftpic03.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138410",
+          "author": "Erin Bonde, MV2 MES",
+          "description": "xxx\nManufacturers depend on accurate inventory to keep production flowing, avoid shortages, and deliver on time. But even the strongest operations struggle when inventory data in Business Central doesn’t match what’s […]\nThe post Inventory Accuracy on the Shop Floor: How Manufacturers Can Strengthen Cycle Counting in Business Central appeared first on ERP Software Blog.\nChoosing the Right AP Automation Solution: Checklist\nMicrosoft Dynamics GP Phase-Out: Smooth ERP Transition\nAutomated Vendor Validation: Secure and Simplify AP Compliance",
+          "link": "https://erpsoftwareblog.com/2025/12/inventory-accuracy-on-the-shop-floor-how-manufacturers-can-strengthen-cycle-counting-in-business-central/",
+          "publishedOn": "2025-12-08T15:03:48.000Z",
+          "wordCount": 6747,
+          "title": "Inventory Accuracy on the Shop Floor: How Manufacturers Can Strengthen Cycle Counting in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MV2-Blog-banners-7.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138301",
+          "author": "Sycor Americas",
+          "description": "xxx\nTop 10 Ways Microsoft D365 ERP Empowers Rental Leaders   Modern equipment rental operations are under intense pressure to move faster, cut costs, and make smarter decisions — but many […]\nThe post Top 10 Ways Microsoft D365 ERP Empowers Rental Leaders appeared first on ERP Software Blog.\nMicrosoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary\nSycor.Rental for Equipment Rental Industries\nCommon Challenges Testing Dynamics 365 and How Test Automation Can Help",
+          "link": "https://erpsoftwareblog.com/2025/12/top-10-ways-microsoft-d365-erp-empowers-rental-leaders/",
+          "publishedOn": "2025-12-08T14:15:55.000Z",
+          "wordCount": 7622,
+          "title": "Top 10 Ways Microsoft D365 ERP Empowers Rental Leaders",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Download-our.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138407",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nIf someone had told business owners ten years ago that ERP systems would become as common as email, very few would have believed it. But here we are in 2026, […]\nThe post Top ERP Companies of 2026 and What Makes Them Stand Out appeared first on ERP Software Blog.\nYou need to know about the emerging trend: Transportation as a Service\nWebinar: PHTPlus - Business Software for Plating, Heat Treating & Finishing Services\nCloud Services: The Good, the Bad, & Things They Don’t Tell You",
+          "link": "https://erpsoftwareblog.com/2025/12/top-erp-companies-of-2026-and-what-makes-them-stand-out/",
+          "publishedOn": "2025-12-08T13:42:05.000Z",
+          "wordCount": 7225,
+          "title": "Top ERP Companies of 2026 and What Makes Them Stand Out",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138396",
+          "author": "Volt Technologies",
+          "description": "xxx\nPrivate equity firms drive value by optimizing portfolio companies, operationally, financially, and strategically. But with multiple investments spanning industries, geographies, and business models, keeping track of performance across separate ERP […]\nThe post How Private Equity Firms Streamline Operations with Business Central appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/how-private-equity-firms-streamline-operations-with-business-central/",
+          "publishedOn": "2025-12-08T10:07:23.000Z",
+          "wordCount": 7130,
+          "title": "How Private Equity Firms Streamline Operations with Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Private-Equity-Firms.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138393",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nManual financial reporting is one of the biggest barriers to fast decision-making for UK enterprises. Month-end close cycles still take weeks for many organisations, and finance teams often spend more […]\nThe post How UK Companies Automate Financial Reporting with Dynamics 365 Finance Implementation appeared first on ERP Software Blog.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS\nDynamics 365 First Look",
+          "link": "https://erpsoftwareblog.com/2025/12/how-uk-companies-automate-financial-reporting-with-dynamics-365-finance-implementation/",
+          "publishedOn": "2025-12-08T08:17:57.000Z",
+          "wordCount": 7364,
+          "title": "How UK Companies Automate Financial Reporting with Dynamics 365 Finance Implementation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Automate-Financial-Reporting.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=138104",
           "author": "proMX",
@@ -34630,16 +34720,6 @@
           "wordCount": 8390,
           "title": "How much does it cost to Implement Dynamics 365 Business Central?",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-much-does-it-cost-to-implement-Dynamics-365-Business-Central.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102426",
-          "author": "DLD Business Solutions, Inc.",
-          "description": "\\Let me take you back to a breakfast encounter in a California resort, where a chance conversation changed the way a director of finance viewed Microsoft Dynamics GP. This story …  How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do Read More »\nThe post How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do appeared first on ERP Software Blog.\nCustomerSource Resources Can Help You Maximize the Benefits of Dynamics GP.\nMicrosoft Dynamics GP: All the Functionality – 1/3 of the Investment\nFavorite Features of Microsoft Dynamics GP 2010 R2",
-          "link": "https://erpsoftwareblog.com/2023/12/how-process-reviews-prove-that-microsoft-dynamics-gp-can-do-more-than-you-think-it-can-do/",
-          "publishedOn": "2023-12-10T01:48:17.000Z",
-          "wordCount": 7777,
-          "title": "How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-How-Process-Reviews-Prove-That-Microsoft-Dynamics-GP-Can-Do-More-Than-You-Think-It-Can-Do_1200-x-628.png"
         }
       ]
     },
@@ -36245,6 +36325,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/fix-your-power-platform-connectivity-now",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,640You’re still using the default on premises data gateway settings, fascinating. 200:00:03,640 –> 00:00:08,160And you wonder why your Power BI refreshes crawl like a dial-up modem in 1998. 300:00:08,160 –> 00:00:09,720Here’s the news you apparently skipped. 400:00:09,720 –> 00:00:12,800The Power Platform doesn’t talk directly to your databases. 500:00:12,800 –> 00:00:16,040It sends every query, […]\nThe post Fix Your Power Platform Connectivity NOW! appeared first on 365 Community Online.",
+          "link": "https://365community.online/fix-your-power-platform-connectivity-now",
+          "publishedOn": "2025-12-09T00:36:20.000Z",
+          "wordCount": 6386,
+          "title": "Fix Your Power Platform Connectivity NOW!",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/why-your-data-fabric-is-too-slow",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:05,920AI training speeds have just exploded when we’re now running models so large they make last year’s super computers look like pocket calculators 200:00:05,920 –> 00:00:13,440But here’s the awkward truth your data fabric the connective tissue between storage compute and analytics is crawling along like it stuck in 2013 300:00:13,440 –> 00:00:21,040The result […]\nThe post Why Your Data Fabric is Too Slow appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-your-data-fabric-is-too-slow",
+          "publishedOn": "2025-12-08T20:53:11.000Z",
+          "wordCount": 6729,
+          "title": "Why Your Data Fabric is Too Slow",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/ai-website-building-separating-hype-from-reality",
+          "author": "Belinda Allen",
+          "description": "I built my business site on WordPress and often recommend it — along with tools like Jetpack and the new AI website builder — to people in my network. I’m an experienced website designer, but I’m not a software developer.  Vibe coding has been a fun, seemingly magical way to turn ideas into working mini-apps, […]\nThe post AI Website Building: Separating Hype from Reality appeared first on 365 Community Online.",
+          "link": "https://365community.online/ai-website-building-separating-hype-from-reality",
+          "publishedOn": "2025-12-08T18:02:00.000Z",
+          "wordCount": 3353,
+          "title": "AI Website Building: Separating Hype from Reality",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/AI-Website-Building-Separating-Hype-from-Reality.jpg"
+        },
+        {
+          "id": "https://365community.online/building-multi-agent-systems-with-azure-foundry-semantic-kernel",
+          "author": "Mirko Peters",
+          "description": "You already know the meme: chatbots talk, agents act, multi-agent systems actually get stuff done.If you’ve ever begged a bot to fix Intune and got a poem instead, this one’s for you. In this episode, we go full Netflix hands-on: you watch, you snack, I poke the dangerous Service Principal things so nobody nukes prod. […]\nThe post Building Multi-Agent Systems with Azure Foundry + Semantic Kernel appeared first on 365 Community Online.",
+          "link": "https://365community.online/building-multi-agent-systems-with-azure-foundry-semantic-kernel",
+          "publishedOn": "2025-12-08T17:09:52.000Z",
+          "wordCount": 2697,
+          "title": "Building Multi-Agent Systems with Azure Foundry + Semantic Kernel",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/new-security-duplication-feature-in-d365fsc",
+          "author": "Alex Meyer",
+          "description": "Microsoft’s validation of Dynamics 365 for Finance & Supply Chain licenses is on it’s way. As many customers are in the process of ensuring they are compliant, Microsoft is adding new features to help with this process. One that I first noticed in the 10.0.45 (10.0.2345.117) is a new feature surrounding the duplication of security […]\nThe post New Security Duplication Feature in D365FSC appeared first on 365 Community Online.",
+          "link": "https://365community.online/new-security-duplication-feature-in-d365fsc",
+          "publishedOn": "2025-12-08T14:37:00.000Z",
+          "wordCount": 2465,
+          "title": "New Security Duplication Feature in D365FSC",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/New-Security-Duplication-Feature-in-D365FSC.png"
+        },
+        {
+          "id": "https://365community.online/how-to-use-update_recordset-in-d365",
+          "author": "Peter Ramer",
+          "description": "In this article, learn how to use update_recordset in D365. The update_recordset keyword in x++ is used when you need to update many records in a table quickly with the best performance. It is extremely fast because it generates a single SQL statement that is sent to the server once. Alternatively, developers sometimes write a… […]\nThe post How To Use Update_RecordSet In D365 appeared first on 365 Community Online.",
+          "link": "https://365community.online/how-to-use-update_recordset-in-d365",
+          "publishedOn": "2025-12-08T14:00:00.000Z",
+          "wordCount": 2044,
+          "title": "How To Use Update_RecordSet In D365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/How-To-Use-Update_RecordSet-In-D365.png"
+        },
+        {
+          "id": "https://365community.online/you-are-not-ai-ready",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,080Stop, put down your migration roadmap and close the Azure portal 200:00:03,080 –> 00:00:04,480because you’re about to make a mistake 300:00:04,480 –> 00:00:06,520that will haunt your AI plans for the next decade. 400:00:06,520 –> 00:00:08,680You’re migrating to the cloud as if it’s 2015 500:00:08,680 –> 00:00:11,320but expecting it to deliver 2025’s AI miracles. […]\nThe post You Are Not AI Ready appeared first on 365 Community Online.",
+          "link": "https://365community.online/you-are-not-ai-ready",
+          "publishedOn": "2025-12-08T13:32:35.000Z",
+          "wordCount": 7270,
+          "title": "You Are Not AI Ready",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/dynamics-v9-onprem-installation-reporting-extensions-issue",
+          "author": "Clement Olivier",
+          "description": "Hi guys, I wanted to share with everyone a pretty bad surprise when I tried to install a brand new Dynamics v9.0 instance OnPremise for a client. I know that installing an OnPremise instance is not something you do everyday now but … Besides all steps which were fine, I started to struggle when I […]\nThe post Dynamics v9 (onprem) installation – Reporting Extensions Issue appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamics-v9-onprem-installation-reporting-extensions-issue",
+          "publishedOn": "2025-12-08T11:49:00.000Z",
+          "wordCount": 2224,
+          "title": "Dynamics v9 (onprem) installation – Reporting Extensions Issue",
+          "imageUrl": "http://undefined.azurewebsites.net/content/images/2025/12/2025_12_05_10-42-30_mstsc.png"
+        },
+        {
+          "id": "https://365community.online/the-ultimate-pre-launch-checklist-for-crm-systems",
+          "author": "Chris Roberts",
+          "description": "As a Housing Leader, you know the feeling: weeks of hard work planning your new system are nearly done. But the transition—that moment of Go-Live—can feel like stepping onto thin ice. You are trying to escape rigid, expensive, and outdated legacy systems. These systems are actively preventing your colleagues from providing excellent service. You need […]\nThe post The Ultimate Pre-Launch Checklist for CRM Systems appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-ultimate-pre-launch-checklist-for-crm-systems",
+          "publishedOn": "2025-12-08T11:43:00.000Z",
+          "wordCount": 3072,
+          "title": "The Ultimate Pre-Launch Checklist for CRM Systems",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/The-Ultimate-Pre-Launch-Checklist-for-CRM-Systems.png"
+        },
+        {
+          "id": "https://365community.online/why-intune-alone-isnt-enough-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,040Watcher, heed this record. 200:00:03,040 –> 00:00:09,080Most believe in tune is tamed until they try to scale it across realms of laptops, phones 300:00:09,080 –> 00:00:13,040and kiosks, and the chronicles turn to noise. 400:00:13,040 –> 00:00:19,800The enemy enters not through walls, but through drift, delay, and human habit. 500:00:19,800 –> 00:00:21,040Here is the […]\nThe post Why Intune Alone Isn’t Enough appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-intune-alone-isnt-enough-2",
+          "publishedOn": "2025-12-08T09:44:11.000Z",
+          "wordCount": 6755,
+          "title": "Why Intune Alone Isn’t Enough",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/why-your-azure-backups-arent-as-safe-as-you-think-2",
           "author": "Mirko Peters",
@@ -74889,16 +75069,6 @@
           "wordCount": 2929,
           "title": "Store entire response as Variable #CopilotStudio #Copilot #MCS #DieHardCopilot – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702320255_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/navigate-automatically-between-topics-in-copilot-studio-copilot-copilotstudio-mcs-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/navigate-automatically-between-topics-in-copilot-studio-copilot-copilotstudio-mcs-youtube",
-          "publishedOn": "2023-12-09T17:17:57.000Z",
-          "wordCount": 2935,
-          "title": "Navigate automatically between topics in Copilot Studio #Copilot #CopilotStudio #MCS – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702178321_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -76156,6 +76326,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=19789",
+          "author": "André Arnaud de Calavon",
+          "description": "So far, during the Advent Calendar, I talked about license reporting outside of Dynamics 365 F&O. There are still some topics to talk about on PPAC, but I will first focus on User security governance features related to licensing in the Dynamics 365 F&O application. User security governance The base of all of the features […]\nThe post Licensing Advent Calendar – Day 9 – User security governance appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-9-user-security-governance/",
+          "publishedOn": "2025-12-08T23:00:00.000Z",
+          "wordCount": 4468,
+          "title": "Licensing Advent Calendar – Day 9 – User security governance",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-09.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=19774",
           "author": "André Arnaud de Calavon",
           "description": "Day 8 of the advent calendar. I got some reactions wondering how it is possible to write 24 posts about Dynamics 365 licensing. Honestly, I was also having a doubt myself. The idea of an advent calendar is having small presents every day. For that reason, I try to divide all topics into smaller posts. […]\nThe post Licensing Advent Calendar – Day 8 – Over-licensed users appeared first on Dynamicspedia.",
@@ -76681,6 +76861,16 @@
       "feedUrl": "https://alexdmeyer.com/feed/",
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
+        {
+          "id": "https://alexdmeyer.com/?p=3785",
+          "author": "Alex",
+          "description": "Microsoft’s validation of Dynamics 365 for Finance & Supply Chain licenses is on it’s way. As many customers are in the process of ensuring they are compliant, Microsoft is adding new features to help with this process. One that I first noticed in the 10.0.45 (10.0.2345.117) is a new feature surrounding the duplication of security […]\nThe post New Security Duplication Feature in D365FSC appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2025/12/08/new-security-duplication-feature-in-d365fsc/",
+          "publishedOn": "2025-12-08T14:37:18.000Z",
+          "wordCount": 4334,
+          "title": "New Security Duplication Feature in D365FSC",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2025/12/New-Security-Duplication-Feature-in-D365FSC.png"
+        },
         {
           "id": "https://alexdmeyer.com/?p=3759",
           "author": "Alex",
@@ -77820,6 +78010,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=4460",
+          "author": "peter.ramer",
+          "description": "In this article, learn how to use update_recordset in D365. The update_recordset keyword in x++ is used when you need to update many records in a table quickly with the best performance. It is extremely fast because it generates a single SQL statement that is sent to the server once. Alternatively, developers sometimes write a... Continue Reading →\nThe post How To Use Update_RecordSet In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/update_recordset-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=update_recordset-in-d365",
+          "publishedOn": "2025-12-08T14:00:00.000Z",
+          "wordCount": 4232,
+          "title": "How To Use Update_RecordSet In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2025/12/How-To-Use-Update_RecordSet-In-D365.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=4345",
           "author": "peter.ramer",
           "description": "When using a Microsoft Dynamics 365 Azure cloud-hosted environment, you may receive an error message relating to a D365 invalid certificate. In this article, I will describe the steps required to resolve this error. Certificates are used to secure communications over the Internet. They expire after a specific period and need to be renewed. Therefore,... Continue Reading →\nThe post Fix D365 Invalid Certificate Error appeared first on Dynamics 365 Musings.",
@@ -78021,6 +78221,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1713 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 12/07/25.\n\n\nLast modified: \n\n12/08/25\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nBatch      \nTop-Picking      \n\nDeep dive an top picking batch jobs\nWhat is a top picking batch job?\nA top picking batch job is a particular type of multi-threaded, high throughput batch job that has a distinct design pattern of putting then selecting staging records into a table just for use by the batch job that acknowledges there may be some database contention for records and plans for and handles that specific case. Imagine you have a list of 1,000 things to do. As a thing person, you would pick 1 time, do it, then move to the next. Now imagine it's you plus 9 other workers all grabbing tasks. First, we have to have an organized list of tasks for workers to pull from - that's the staging table…",
+          "link": "https://www.atomicax.com/article/when-create-top-picking-batch-job",
+          "publishedOn": "2025-12-08T03:36:23.000Z",
+          "wordCount": 1800,
+          "title": "When to Create a Top Picking Batch Job",
+          "imageUrl": null
+        },
         {
           "id": "1716 at https://www.atomicax.com",
           "author": "Nathan Clouse",
@@ -81521,6 +81731,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3051",
+          "author": "Saurabh Bharti",
+          "description": "Hi Everyone!For the last 5 years, I’ve been sharing practical knowledge with all of you through 250+ published blogs (1.3M+ views) and 120+ videos on YouTube with over 1M minutes watched. The response, support, and engagement from this community have been incredible — and now it’s time to elevate your learning experience! Today, I’m thrilled […]",
+          "link": "https://exploredynamics365.home.blog/2025/12/08/introducing-smart-learner-club-membership-on-youtube-your-next-level-of-learning-starts-today/",
+          "publishedOn": "2025-12-07T18:42:07.000Z",
+          "wordCount": 3751,
+          "title": "Introducing Smart Learner Club Membership on YouTube – Your Next Level of Learning Starts Today!",
+          "imageUrl": "https://exploredynamics365.home.blog/wp-content/uploads/2025/12/memebrshipthubnail.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3045",
           "author": "Saurabh Bharti",
