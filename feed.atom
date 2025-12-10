@@ -2,10 +2,277 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-09T01:52:08.344Z</updated>
+    <updated>2025-12-10T01:54:11.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 10 – Licenses usage summary]]></title>
+        <id>https://dynamicspedia.com/?p=19797</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-10-licenses-usage-summary/"/>
+        <updated>2025-12-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Day 10! So far, I’ve gotten a lot of questions and feedback. Thanks for all the interactions. Even from experienced people, I get messages saying that most of the content is familiar, but still, there are some things mentioned in the blogs that they were not aware of. The post today will be like that. […]
+The post Licensing Advent Calendar – Day 10 – Licenses usage summary appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Really Add MCP to Copilot Studio]]></title>
+        <id>https://365community.online/how-to-really-add-mcp-to-copilot-studio</id>
+        <link href="https://365community.online/how-to-really-add-mcp-to-copilot-studio"/>
+        <updated>2025-12-09T22:59:57.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,940You’ve been told that adding the model context protocol MCP for short to co-pilot studio is easy. 200:00:04,940 –> 00:00:06,880Just use a custom connector, they say. 300:00:06,880 –> 00:00:09,040Technically, that’s true. Functionally, it’s a lie. 400:00:09,040 –> 00:00:11,920The same kind of lie as just plug in the USB. 500:00:11,920 –> 00:00:15,880Without telling you […]
+The post How to Really Add MCP to Copilot Studio appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 9 – SQL Server 2025 – New T-SQL functions – REGEXP_MATCHES() and REGEXP_SPLIT_TO_TABLE()]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10774</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/09/advent-of-2025-day-9-sql-server-2025-new-t-sql-functions-regexp_matches-and-regexp_split_to_table/"/>
+        <updated>2025-12-09T22:43:30.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: Last two functions in the family of new T-SQL functions that were shipped with RegEx, are REGEXP_MATCHES() and REGEXP_SPLIT_TO_TABLE(). REGEXP_MATCHES() Returns a table of captured substrings that match a regular expression pattern to…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDI + Business Central: Automating Shipping Document Flow and Carrier Communication]]></title>
+        <id>https://erpsoftwareblog.com/?p=138502</id>
+        <link href="https://erpsoftwareblog.com/2025/12/edi-business-central-automating-shipping-document-flow-and-carrier-communication/"/>
+        <updated>2025-12-09T21:35:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central users continue to look for better ways to connect shipping operations with accurate, standards-based EDI workflows. Shipping and EDI often run on separate systems, which leads to duplicated […]
+The post EDI + Business Central: Automating Shipping Document Flow and Carrier Communication appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce AP Workload Year-End: 4 Ways to Lighten the Load on AP Teams]]></title>
+        <id>https://erpsoftwareblog.com/?p=138499</id>
+        <link href="https://erpsoftwareblog.com/2025/12/reduce-ap-workload-year-end/"/>
+        <updated>2025-12-09T19:22:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Year-end is the busiest time for financial teams, and many organizations look for ways to reduce AP workload year-end without adding extra staff. December brings planning cycles, vendor requests, PTO, […]
+The post Reduce AP Workload Year-End: 4 Ways to Lighten the Load on AP Teams appeared first on ERP Software Blog.
+Key Trends for Accounts Payable in 2025
+Mekorma Payment Hub v1.0 for Business Central is here!
+Vendor Data in Accounts Payable: Best Management Practices]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Azure Quantum Hybrid Fix]]></title>
+        <id>https://365community.online/the-azure-quantum-hybrid-fix</id>
+        <link href="https://365community.online/the-azure-quantum-hybrid-fix"/>
+        <updated>2025-12-09T19:22:03.000Z</updated>
+        <summary type="html"><![CDATA[It started with a warning. Then… silence. Your classical optimization pipeline didn’t get murdered — it bled out from combinatoric wounds while everyone argued about budget. Now someone wants you to “manage qubits” and all you can think is: I barely trust my VM agents to reboot on schedule. Here’s the truth: Optimization is everywhere. […]
+The post The Azure Quantum Hybrid Fix appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Storage Capacity is Important: How to Manage Data Growth in Microsoft Dynamics 365 F&SCM]]></title>
+        <id>https://erpsoftwareblog.com/?p=138495</id>
+        <link href="https://erpsoftwareblog.com/2025/12/why-storage-capacity-is-important-how-to-manage-data-growth-in-microsoft-dynamics-365-fscm/"/>
+        <updated>2025-12-09T19:02:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As organizations expand and their operations become more complex, data stacks up quickly, transaction histories, ledger records, attachments, system logs, audit information, and more. In an ERP ecosystem like Microsoft […]
+The post Why Storage Capacity is Important: How to Manage Data Growth in Microsoft Dynamics 365 F&SCM appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+GS1 Standards Boost Efficiency in D365 Supply Chain
+5 Signs It’s Time to Upgrade from Legacy ERP to Dynamics 365 Finance and Operations]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Delete Views in Microsoft Dynamics 365: Quick Tips]]></title>
+        <id>https://erpsoftwareblog.com/?p=136992</id>
+        <link href="https://erpsoftwareblog.com/2025/12/how-to-create-and-delete-views-in-microsoft-dynamics-365-quick-tips/"/>
+        <updated>2025-12-09T16:00:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’re new to Dynamics 365, this step-by-step guide will show you how to create and delete views, so you can optimize your system for maximum efficiency. Let's dive in! […]
+The post How to Create and Delete Views in Microsoft Dynamics 365: Quick Tips appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret to Putting SQL Data in Copilot Studio]]></title>
+        <id>https://365community.online/the-secret-to-putting-sql-data-in-copilot-studio</id>
+        <link href="https://365community.online/the-secret-to-putting-sql-data-in-copilot-studio"/>
+        <updated>2025-12-09T15:41:43.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,900Your co-pilot is fluent, confident, and utterly clueless. 200:00:02,900 –> 00:00:04,620It greets your employees like an expert, 300:00:04,620 –> 00:00:07,140yet it’s blind to the existence of your customers, 400:00:07,140 –> 00:00:08,500invoices, or inventory. 500:00:08,500 –> 00:00:09,580You think it knows your business? 600:00:09,580 –> 00:00:10,240It doesn’t. 700:00:10,240 –> 00:00:11,380It knows Wikipedia. 800:00:11,380 –> 00:00:13,420Inside […]
+The post The Secret to Putting SQL Data in Copilot Studio appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Integration Failure Points No One Talks About (And How Dynamics 365 Fixes Them)]]></title>
+        <id>https://erpsoftwareblog.com/?p=138470</id>
+        <link href="https://erpsoftwareblog.com/2025/12/integration-failure-points-dynamics-365-fixes/"/>
+        <updated>2025-12-09T14:08:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Nowadays businesses rely on smooth system integrations more than ever especially between their ERP and eCommerce platforms. Whether you're connecting your back office to Shopify or aligning supply chain with […]
+The post 5 Integration Failure Points No One Talks About (And How Dynamics 365 Fixes Them) appeared first on ERP Software Blog.
+A Free Tool for Dynamics GP That Microsoft Excel Users Will Love
+Top 6 Reasons to use Microsoft Dynamics GP Payroll
+Paperless Systems Can Help Service Companies Accommodate More Demanding Customers]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's new in GP October 2025 Release?]]></title>
+        <id>https://erpsoftwareblog.com/?p=138463</id>
+        <link href="https://erpsoftwareblog.com/2025/12/whats-new-in-gp-october-2025-release/"/>
+        <updated>2025-12-09T13:59:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Good question. When people refer to the “2025 October release” of Microsoft Dynamics GP — they generally mean the October 2025 update (version Dynamics GP 18.8). Here’s what that release […]
+The post What's new in GP October 2025 Release? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+With Microsoft Dynamics GP, you really can have it all! Here's how...
+2, 4, 6, 8… What Does Dynamics GP Integrate?]]></summary>
+        <author>
+            <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana Tutorial | Learn Monitoring and Visualization with Grafana | Grafana Prometheus Tutorial – YouTube]]></title>
+        <id>https://365community.online/grafana-tutorial-learn-monitoring-and-visualization-with-grafana-grafana-prometheus-tutorial-youtube</id>
+        <link href="https://365community.online/grafana-tutorial-learn-monitoring-and-visualization-with-grafana-grafana-prometheus-tutorial-youtube"/>
+        <updated>2025-12-09T13:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Grafana tutorial, that is one of the most powerful open-source tools for monitoring, visualization, and observability. In this tutorial will help you learn how to install and set up Grafana, connect data sources like Prometheus, and build interactive dashboards for monitoring system performance. You’ll also explore user management, dashboard templating, and plugins. […]
+The post Grafana Tutorial | Learn Monitoring and Visualization with Grafana | Grafana Prometheus Tutorial – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Straight Talk Guide to Multi-Agent AI Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=138459</id>
+        <link href="https://erpsoftwareblog.com/2025/12/guide-to-multi-agent-ai-systems/"/>
+        <updated>2025-12-09T12:21:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Stop me if this sounds familiar: someone mentions "multi-agent systems" in a meeting, everyone nods knowingly, and you're left wondering what the hell they're actually talking about. Let's fix that. […]
+The post The Straight Talk Guide to Multi-Agent AI Systems appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Autonomous Agent Excel Hack]]></title>
+        <id>https://365community.online/the-autonomous-agent-excel-hack</id>
+        <link href="https://365community.online/the-autonomous-agent-excel-hack"/>
+        <updated>2025-12-09T12:02:19.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,360Excel, humanity’s favorite self-inflicted punishment disguised as productivity software. 200:00:04,360 –> 00:00:05,460Every office has one. 300:00:05,460 –> 00:00:09,340The person who still believes the best way to complete a request for information spreadsheet 400:00:09,340 –> 00:00:14,580is to manually copy and paste 50 answers from a word document into neatly-bordered cells. 500:00:14,580 –> 00:00:17,660Watching them […]
+The post The Autonomous Agent Excel Hack appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barcode to Robotics: What a Modern WMS Should Look Like for UK Businesses (Before ERP Go-Live)]]></title>
+        <id>https://erpsoftwareblog.com/?p=138452</id>
+        <link href="https://erpsoftwareblog.com/2025/12/barcode-to-robotics-what-a-modern-wms-should-look-like-for-uk-businesses-before-erp-go-live/"/>
+        <updated>2025-12-09T10:25:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For UK businesses preparing for an ERP go-live, one area that often decides success or failure is the warehouse. If your warehouse operations are running on outdated processes—manual entries, spreadsheet […]
+The post Barcode to Robotics: What a Modern WMS Should Look Like for UK Businesses (Before ERP Go-Live) appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The spirit of the licensing.guide]]></title>
+        <id>https://365community.online/the-spirit-of-the-licensing-guide</id>
+        <link href="https://365community.online/the-spirit-of-the-licensing-guide"/>
+        <updated>2025-12-09T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[My dedicated website for all things Microsoft licensing (Power Platform, Dynamics 365, Copilot) has now been launched. Introducing: The Licensing Guide. Continue reading The spirit of the licensing.guide at Jukka Niiranen blog. Original Post https://jukkaniiranen.com/2025/12/spirit-of-the-licensing-guide/
+The post The spirit of the licensing.guide appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Jukka Niiranen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualize Complex Relationships with New Hierarchy Control]]></title>
+        <id>https://365community.online/visualize-complex-relationships-with-new-hierarchy-control</id>
+        <link href="https://365community.online/visualize-complex-relationships-with-new-hierarchy-control"/>
+        <updated>2025-12-09T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Last September I wrote an article introducing the new Hierarchy Control for model-driven apps and how it helps us better visualize relationships between self-referencing tables. In the article I explained how you can easily visualize data within a single table, for example parent and child accounts. It was a great start, but the control still […]
+The post Visualize Complex Relationships with New Hierarchy Control appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualize Complex Relationships with New Hierarchy Control – YouTube]]></title>
+        <id>https://365community.online/visualize-complex-relationships-with-new-hierarchy-control-youtube</id>
+        <link href="https://365community.online/visualize-complex-relationships-with-new-hierarchy-control-youtube"/>
+        <updated>2025-12-09T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Visualize Complex Relationships with New Hierarchy Control Last September I shared how the new Hierarchy Control helps us visualize parent-child relationships in a single table like accounts and their related child-accounts in model-driven apps. Great start… but real-world relationships don’t live in just one table! Accounts connect to contacts, opportunities, cases, and even those custom […]
+The post Visualize Complex Relationships with New Hierarchy Control – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerShell + Graph API the Modern Way]]></title>
+        <id>https://365community.online/powershell-graph-api-the-modern-way</id>
+        <link href="https://365community.online/powershell-graph-api-the-modern-way"/>
+        <updated>2025-12-09T08:12:27.000Z</updated>
+        <summary type="html"><![CDATA[If your PowerShell scripts still Import-Module MSOnline or AzureAD, they’re already legacy. And if you just thought “That’s not me,” this episode is exactly for you. The cloud moved on. Your modules didn’t. They break on Linux runners, containers, CI/CD. REST doesn’t. PowerShell isn’t dead — but the “old module era” is. We’re going API-first […]
+The post PowerShell + Graph API the Modern Way appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is your AI strategy still a blank slide? Everyone wants AI and almost no one knows where to start. This changes everything.]]></title>
+        <id>https://erpsoftwareblog.com/?p=138446</id>
+        <link href="https://erpsoftwareblog.com/2025/12/is-your-ai-strategy-is-still-a-blank-slide-everyone-wants-ai-and-almost-no-one-knows-where-to-start-this-changes-everything/"/>
+        <updated>2025-12-09T07:16:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  “Where do we start with AI?” Using an AI-powered Agent Assessment tool, leaders can map their business processes, identify pain points, evaluate data readiness, and uncover high-value AI and […]
+The post Is your AI strategy still a blank slide? Everyone wants AI and almost no one knows where to start. This changes everything. appeared first on ERP Software Blog.
+Start with a Small Investment to Add Barcode Technology to GP
+Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined
+Top 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)]]></summary>
+        <author>
+            <name>Kati Hvidtfeldt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2026 Frontend Developer Roadmap | MindMajix #frontend #webdevelopment #roadmap – YouTube]]></title>
+        <id>https://365community.online/the-2026-frontend-developer-roadmap-mindmajix-frontend-webdevelopment-roadmap-youtube</id>
+        <link href="https://365community.online/the-2026-frontend-developer-roadmap-mindmajix-frontend-webdevelopment-roadmap-youtube"/>
+        <updated>2025-12-09T06:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontend Developer Roadmap In this #short video, we have prepared a complete roadmap to become a Frontend developer. #frontend #frontenddevelopment #roadmap #webdevelopment source
+The post The 2026 Frontend Developer Roadmap | MindMajix #frontend #webdevelopment #roadmap – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fix Your Power Platform Connectivity NOW!]]></title>
         <id>https://365community.online/fix-your-power-platform-connectivity-now</id>
@@ -78,6 +345,17 @@ Transform Your Business Central Operations at Community Summit North America 202
 The post AI Website Building: Separating Hype from Reality appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Retrieval: How an Agentic Approach Transforms Microsoft Dataverse Search]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=197438</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/12/08/agentic-ai-dataverse-search/"/>
+        <updated>2025-12-08T17:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re using Copilot in Dynamics 365 Sales, Power Apps customized through Microsoft Copilot Studio or Microsoft 365 Copilot for Sales, under the hood, these experiences leverage one common engine: AI-powered Dataverse (DV) Search, which seamlessly connects business users to the underlying database schema, translating intent into action without requiring technical expertise. Thousands of enterprise customers already rely on this capability to power their business workflows.
+The post Beyond Retrieval: How an Agentic Approach Transforms Microsoft Dataverse Search  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ishani Parikh and Nitish Jain</name>
         </author>
     </entry>
     <entry>
@@ -106501,104 +106779,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 The post Multithreading in D365 Batch Jobs appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s coming in Customer Insights-Journeys in December-March?]]></title>
-        <id>https://365community.online/whats-coming-in-customer-insights-journeys-in-december-march</id>
-        <link href="https://365community.online/whats-coming-in-customer-insights-journeys-in-december-march"/>
-        <updated>2023-12-11T13:27:03.000Z</updated>
-        <summary type="html"><![CDATA[At the time of the release of this post, we’re waiting on the December ’23 release for Customer Insights – Journeys, it’s hopefully right around the corner. Because there are […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the Tech Terrain: AJ Zafar's Thrilling Journey from Web Developer to Power Platform Wizard at Metro Bank]]></title>
-        <id>https://365community.online/navigating-the-tech-terrain-aj-zafars-thrilling-journey-from-web-developer-to-power-platform-wizard-at-metro-bank</id>
-        <link href="https://365community.online/navigating-the-tech-terrain-aj-zafars-thrilling-journey-from-web-developer-to-power-platform-wizard-at-metro-bank"/>
-        <updated>2023-12-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/507  Hop aboard the Tech Express with AJ Zafar, the solutions architect from England! Our guest is a tech whiz at Kerv Digital, but don't let his […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Operations: A Step-by-Step Guide for Workers on Navigating the Production Floor Execution Interface]]></title>
-        <id>https://erpsoftwareblog.com/?p=102511</id>
-        <link href="https://erpsoftwareblog.com/2023/12/efficient-operations-a-step-by-step-guide-for-workers-on-navigating-the-production-floor-execution-interface/"/>
-        <updated>2023-12-11T12:47:30.000Z</updated>
-        <summary type="html"><![CDATA[The production floor execution interface in Microsoft Dynamics 365 Supply Chain Management proves to be an invaluable tool for employees involved in attendance and time tasks, as well as production …  Efficient Operations: A Step-by-Step Guide for Workers on Navigating the Production Floor Execution Interface Read More »
-The post Efficient Operations: A Step-by-Step Guide for Workers on Navigating the Production Floor Execution Interface appeared first on ERP Software Blog.
-Dynamics 365 for Finance and Operations – Improving Productivity with Workspaces
-Dynamics AX Users: You’ll Love Dynamics 365 Supply Chain and Finance
-Cloud-Based Rental ERP Software: The What, Why, and Benefits]]></summary>
-        <author>
-            <name>DynaTech Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Post Shipment From a Warehouse Shipment Document]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-shipment-from-a-warehouse-shipment-document</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-shipment-from-a-warehouse-shipment-document"/>
-        <updated>2023-12-11T11:00:07.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: Power BI and the “You do not have a Power BI account” error.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-power-bi-and-the-you-do-not-have-a-power-bi-account-error</id>
-        <link href="https://365community.online/dynamics-365-business-central-power-bi-and-the-you-do-not-have-a-power-bi-account-error"/>
-        <updated>2023-12-11T09:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Power BI embedded is one of the greatest feature in Dynamics 365 Business Central because enables users to create Power BI reports, scorecards, and dashboards based on Business Central data. […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to integrate existing Power Page sites into a new environment effortlessly using Command-Line Interface (CLI) – Part 2]]></title>
-        <id>https://365community.online/how-to-integrate-existing-power-page-sites-into-a-new-environment-effortlessly-using-command-line-interface-cli-part-2</id>
-        <link href="https://365community.online/how-to-integrate-existing-power-page-sites-into-a-new-environment-effortlessly-using-command-line-interface-cli-part-2"/>
-        <updated>2023-12-11T08:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: In our previous blog, we discussed how to create and integrate Power Pages websites into a solution and how to configure them. Now, in this blog, we will guide […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoE Starter Kit: Efficient Testing Strategy for Inactivity Processes – Admin Simulations for Maker Clean-Up Approvals]]></title>
-        <id>https://365community.online/coe-starter-kit-efficient-testing-strategy-for-inactivity-processes-admin-simulations-for-maker-clean-up-approvals</id>
-        <link href="https://365community.online/coe-starter-kit-efficient-testing-strategy-for-inactivity-processes-admin-simulations-for-maker-clean-up-approvals"/>
-        <updated>2023-12-11T08:17:03.000Z</updated>
-        <summary type="html"><![CDATA[As a Power Platform Admin, I would like to efficiently test the CoE Starter Kit Inactivity Processes, so I understand how it works and confirm it meets my requirements without […]]]></summary>
-        <author>
-            <name>Olena Grischenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How much does it cost to Implement Dynamics 365 Business Central?]]></title>
-        <id>https://erpsoftwareblog.com/?p=102501</id>
-        <link href="https://erpsoftwareblog.com/2023/12/how-much-does-it-cost-to-implement-dynamics-365-business-central/"/>
-        <updated>2023-12-11T05:54:51.000Z</updated>
-        <summary type="html"><![CDATA[Implementing Dynamics 365 Business Central: Understanding the Costs Implementing Dynamics 365 Business Central brings tremendous value to businesses, streamlining operations, enhancing productivity, and fostering growth. However, one of the initial …  How much does it cost to Implement Dynamics 365 Business Central? Read More »
-The post How much does it cost to Implement Dynamics 365 Business Central? appeared first on ERP Software Blog.
-How to Choose Between Cloud & On-Premises Dynamics 365 Business Central
-What Is Microsoft Dynamics 365 Business Central, and Should You Switch?
-Dynamics SL to Dynamics 365 Business Central: It’s time to Migrate]]></summary>
-        <author>
-            <name>Techcronus Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Store entire response as Variable #CopilotStudio #Copilot #MCS #DieHardCopilot – YouTube]]></title>
-        <id>https://365community.online/store-entire-response-as-variable-copilotstudio-copilot-mcs-diehardcopilot-youtube</id>
-        <link href="https://365community.online/store-entire-response-as-variable-copilotstudio-copilot-mcs-diehardcopilot-youtube"/>
-        <updated>2023-12-10T16:37:36.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Matt Collins</name>
         </author>
     </entry>
     <entry>
