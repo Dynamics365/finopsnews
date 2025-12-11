@@ -928,6 +928,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10789",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: This new functionality, you can call to the system stored procedure sp_invoke_external_rest_endpoint, and call / get: – Call REST/GraphQL endpoints from other Azure services– Have data processed via an Azure Function– Update a Power…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/10/advent-of-2025-day-9-sql-server-2025-external-rest-endpoint-invocation/",
+          "publishedOn": "2025-12-10T21:52:25.000Z",
+          "wordCount": 5527,
+          "title": "Advent of 2025, Day 10 – SQL Server 2025 – External REST endpoint invocation",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-27.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10774",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: Last two functions in the family of new T-SQL functions that were shipped with RegEx, are REGEXP_MATCHES() and REGEXP_SPLIT_TO_TABLE(). REGEXP_MATCHES() Returns a table of captured substrings that match a regular expression pattern to…\nRead more ›",
@@ -1577,6 +1587,76 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=138426",
+          "author": "Jeremy Prichard, TrinDocs",
+          "description": "xxx\nTosh Farms is a major agricultural operation in Tennessee, made up of three businesses that work closely together. Tosh Farms handles crop production, Tosh Pork LLC manages swine production, and […]\nThe post Microsoft Dynamics BC and TrinDocs Automate Credit Card Reconciliation appeared first on ERP Software Blog.\nTime to Upgrade Your TMS or Maybe Move to a New Provider ?\nThe Evolution of Scheduling for Process Manufacturers\nEverything is Taxable until Proven Otherwise",
+          "link": "https://erpsoftwareblog.com/2025/12/microsoft-dynamics-bc-and-trindocs-automate-credit-card-reconciliation/",
+          "publishedOn": "2025-12-10T20:03:58.000Z",
+          "wordCount": 7153,
+          "title": "Microsoft Dynamics BC and TrinDocs Automate Credit Card Reconciliation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-12-TrinDocs-Blog-Photo.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138355",
+          "author": "Rillion",
+          "description": "xxx\nA well-designed invoice approval workflow can completely change the pace and accuracy of your financial operations. When your AP team no longer has to hunt down missing invoices, chase approvals, […]\nThe post Invoice Approval Workflow for Dynamics 365 BC: Best Practices appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/invoice-approval-workflow-for-dynamics-365-bc-best-practices/",
+          "publishedOn": "2025-12-10T19:59:15.000Z",
+          "wordCount": 7497,
+          "title": "Invoice Approval Workflow for Dynamics 365 BC: Best Practices",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138523",
+          "author": "MetaOption LLC",
+          "description": "xxx\nWhich are the top inventory management software in 2026 you need to look forward to? Whether you are trying to simplify the inventory management process or looking to get more […]\nThe post Top 10 Inventory Management Software in 2026 to Watch Out  appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/top-10-inventory-management-software-in-2026-to-watch-out/",
+          "publishedOn": "2025-12-10T19:21:29.000Z",
+          "wordCount": 8670,
+          "title": "Top 10 Inventory Management Software in 2026 to Watch Out",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GOIS-Feature-14.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138558",
+          "author": "Jason Ochipa, Tensoft Inc.",
+          "description": "xxx\nExporting data from Tensoft Revenue Lens is a straightforward process, and there are several ways to do it. As discussed in the previous video, you can export data directly from […]\nThe post How to Export Revenue Reports to Excel Using CSV and Power Query appeared first on ERP Software Blog.\nService Level Agreements For Accounting Software Users\nFuel Your Organization's Operational Efficiency and Productivity with Integrated Accounting Software\nThe 3 Main Benefits of Purchasing All of Your Software Requirements from One Microsoft Dynamics Reseller",
+          "link": "https://erpsoftwareblog.com/2025/12/how-to-export-revenue-reports-to-excel-using-csv-and-power-query/",
+          "publishedOn": "2025-12-10T19:13:53.000Z",
+          "wordCount": 6886,
+          "title": "How to Export Revenue Reports to Excel Using CSV and Power Query",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Generate-Report.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138538",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "xxx\nHow Microsoft Business Central Manages Sustainability :  Microsoft Dynamics 365 Business Central is a business management solution for small and mid-sized organizations that automate and streamlines business processes and helps […]\nThe post How Microsoft Business Central Manages Sustainability appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/how-microsoft-business-central-manages-sustainability/",
+          "publishedOn": "2025-12-10T18:36:45.000Z",
+          "wordCount": 7660,
+          "title": "How Microsoft Business Central Manages Sustainability",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Sustainability-Management-with-Microsoft-Business-Central.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138515",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nArtificial intelligence is no longer a futuristic concept that businesses experiment with on the side. It has become a core operational capability, changing how teams plan, execute, analyze, and collaborate. […]\nThe post How Microsoft Copilot is Transforming ERP and CRM Workflows appeared first on ERP Software Blog.\nImportant Business Management Lessons I Learned from Rally Car Racing\nMicrosoft Copilot: The Future of AI Workspaces Is Here\nAre You Ready for Microsoft Dynamics 365 Implementation?",
+          "link": "https://erpsoftwareblog.com/2025/12/how-microsoft-copilot-transforms-erp-crm-workflows/",
+          "publishedOn": "2025-12-10T07:15:02.000Z",
+          "wordCount": 7688,
+          "title": "How Microsoft Copilot is Transforming ERP and CRM Workflows",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Untitled-design-26-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138511",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nFor many organizations, the ERP that once supported daily operations has slowly become a barrier to growth. Legacy on-premise systems struggle to keep up with rising data volumes, new business […]\nThe post Why Companies Choose DAX Software Solutions to Modernize Their ERP and Move to Dynamics 365 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/why-companies-choose-dax-software-solutions-to-modernize-their-erp-and-move-to-dynamics-365/",
+          "publishedOn": "2025-12-10T06:34:59.000Z",
+          "wordCount": 7485,
+          "title": "Why Companies Choose DAX Software Solutions to Modernize Their ERP and Move to Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/why-companies-choose-dax-software-solutions-to-modernize-their-erp-and-move-to-dynamics-365.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=138502",
           "author": "Insight Works",
           "description": "xxx\nBusiness Central users continue to look for better ways to connect shipping operations with accurate, standards-based EDI workflows. Shipping and EDI often run on separate systems, which leads to duplicated […]\nThe post EDI + Business Central: Automating Shipping Document Flow and Carrier Communication appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
@@ -1760,6 +1840,16 @@
           "wordCount": 7180,
           "title": "How Dynamics 365 Contact Center solves five biggest customer service challenges",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ProMX-ERPSoftwareBlog-Image.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138526",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nBank reconciliation is one of the most essential accounting processes for any business—but it’s also one of the most misunderstood. Whether you’re running a growing SME or managing a multi-entity […]\nThe post Bank Reconciliation: Everything You Need to Know appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/bank-reconciliation-everything-you-need-to-know/",
+          "publishedOn": "2025-12-07T14:18:07.000Z",
+          "wordCount": 7387,
+          "title": "Bank Reconciliation: Everything You Need to Know",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Bank-Reconciliations-625x417.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=138051",
@@ -34775,36 +34865,6 @@
           "wordCount": 7248,
           "title": "Salient Features of Inventory Management System",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-30-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102536",
-          "author": "CAL Business Solutions, Inc.",
-          "description": "Thinking about a new ERP solution?  It’s always a difficult decision.  Here are 7 reasons you should consider Microsoft Dynamics 365 Business Central, a cloud-based enterprise resource planning (ERP) system …  7 Reasons Why Microsoft Dynamics 365 Business Central is the Best Choice for Your Business Read More »\nThe post 7 Reasons Why Microsoft Dynamics 365 Business Central is the Best Choice for Your Business appeared first on ERP Software Blog.\nMicrosoft Dynamics Reporting can lead the way with your accounting team today!\nUpgrade Checklist: 5 Steps to Take Before Upgrading from Dynamics NAV to Dynamics 365 Business Central\nTop Takeaways from Microsoft Inspire 2020 (Global Partner Conference)",
-          "link": "https://erpsoftwareblog.com/2023/12/7-reasons-why-microsoft-dynamics-365-business-central-is-the-best-choice-for-your-business/",
-          "publishedOn": "2023-12-11T20:46:59.000Z",
-          "wordCount": 7690,
-          "title": "7 Reasons Why Microsoft Dynamics 365 Business Central is the Best Choice for Your Business",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/7-Reasons-Why-Microsoft-Dynamics-365-Business-Central-is-the-Best-Choice-for-Your-Business-1.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102349",
-          "author": "Binary Stream",
-          "description": "Binary Stream is proud to announce that we have been certified as a Great Place to Work® after a thorough, independent analysis conducted by Great Place to Work Institute® Canada. …  Binary Stream celebrates 4 years of certification as a Great Place to Work® Read More »\nThe post Binary Stream celebrates 4 years of certification as a Great Place to Work® appeared first on ERP Software Blog.\nWork Gets Easier With the New Email Features in Microsoft Dynamics GP 2010\n5 Sales Tax Tips for Microsoft Dynamics GP Users\nEffectively Track Employee Leave for Upcoming Summer Vacations",
-          "link": "https://erpsoftwareblog.com/2023/12/binary-stream-celebrates-4-years-of-certification-as-a-great-place-to-work/",
-          "publishedOn": "2023-12-11T20:16:48.000Z",
-          "wordCount": 7301,
-          "title": "Binary Stream celebrates 4 years of certification as a Great Place to Work®",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MicrosoftTeams-image-58-625x540.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102531",
-          "author": "Insight Works",
-          "description": "Quality Inspector v7.14: a pivotal moment in Inspection Processes with AI-driven technology.\nThe post Quality Inspector v7.14: Elevating Warehouse Efficiency appeared first on ERP Software Blog.\nEnd to End Optimization of Supply Chain Management for the Future\nEverything you need to know about Warehouse Order Picking Methods\nImportant steps to modify your Warehouse Layout",
-          "link": "https://erpsoftwareblog.com/2023/12/quality-inspector-v7-14-elevating-warehouse-efficiency/",
-          "publishedOn": "2023-12-11T19:27:26.000Z",
-          "wordCount": 7483,
-          "title": "Quality Inspector v7.14: Elevating Warehouse Efficiency",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Quality-Inspector.png"
         }
       ]
     },
@@ -34813,6 +34873,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=72001",
+          "author": "Kailey Acuña",
+          "description": "Product BOMs vs Production Order BOMs in Dynamics 365 Finance & Operations\nThere’s an important but rarely explained detail about BOMs in Dynamics 365 Finance & Operations that often leads to confusion for manufacturers. This issue may show up when people on the factory floor wonder why the BOM they use to make an item isn’t the same as the one on the Product record in the...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/product-boms-vs-production-order-boms-d365-finance-operations/",
+          "publishedOn": "2025-12-10T12:13:42.000Z",
+          "wordCount": 2411,
+          "title": "Product BOMs vs Production Order BOMs in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2025/12/Making-Sense-of-Production-BOMs-LI.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=49236",
           "author": "Scott Murn",
@@ -36392,16 +36462,6 @@
           "wordCount": 1704,
           "title": "How to Back Up Data in Microsoft Dynamics 365 and Power Platform",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/12/Own-Company.jpg"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=59206",
-          "author": "Debra Huntly",
-          "description": "Changes to Canadian Payroll for Dynamics GP\nThe year end tax update for Dynamics GP hasn’t been released yet, but this article covers what we know at this time. We will continue to update this blog as more information becomes available. Information from Microsoft about the 2023 Canadian Payroll Year-End Update for Dynamics GP includes the following changes: ROE Serial Numbers Can...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/changes-to-canadian-payroll-for-dynamics-gp/",
-          "publishedOn": "2023-12-11T16:25:26.000Z",
-          "wordCount": 1629,
-          "title": "Changes to Canadian Payroll for Dynamics GP",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
         }
       ]
     },
@@ -36410,6 +36470,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/building-multi-agent-systems-with-azure-foundry-semantic-kernel-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,880You know, chatbot’s talk agents act and multi-agent systems actually get stuff done. 200:00:03,880 –> 00:00:08,000If you’ve begged a bot to fix Intune and it replied with a poem, this is for you. 300:00:08,000 –> 00:00:11,600Here’s the deal. Netflix hands on. You watch. You eat snacks. 400:00:11,600 –> 00:00:13,800I do the dangerous service […]\nThe post Building Multi-Agent Systems with Azure Foundry + Semantic Kernel appeared first on 365 Community Online.",
+          "link": "https://365community.online/building-multi-agent-systems-with-azure-foundry-semantic-kernel-2",
+          "publishedOn": "2025-12-11T00:55:08.000Z",
+          "wordCount": 6837,
+          "title": "Building Multi-Agent Systems with Azure Foundry + Semantic Kernel",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/powershell-graph-api-the-modern-way-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,880If your script is still lean on MS Online or Azure AD, they’re already legacy. 200:00:03,880 –> 00:00:05,800And if you think that doesn’t apply to you, 300:00:05,800 –> 00:00:08,080oh boy, you’re exactly who I’m talking to. 400:00:08,080 –> 00:00:09,080The cloud moved on. 500:00:09,080 –> 00:00:10,040Your modules didn’t. 600:00:10,040 –> 00:00:12,640Modules break on Linux […]\nThe post PowerShell + Graph API the Modern Way appeared first on 365 Community Online.",
+          "link": "https://365community.online/powershell-graph-api-the-modern-way-2",
+          "publishedOn": "2025-12-10T21:14:01.000Z",
+          "wordCount": 7129,
+          "title": "PowerShell + Graph API the Modern Way",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-sales-is-not-crm-its-your-membership-hub",
+          "author": "Mirko Peters",
+          "description": "🔥 What This Episode Is About Most people think Dynamics 365 Sales is only for leads, pipelines, and opportunities.The truth? It’s a relationship engine wearing a sales costume. In this episode, we strip off that costume and repurpose the platform for: Membership management Committee & governance structures Partner & association networks All without custom software. […]\nThe post Dynamics 365 Sales Is Not CRM (It’s Your Membership Hub) appeared first on 365 Community Online.",
+          "link": "https://365community.online/dynamics-365-sales-is-not-crm-its-your-membership-hub",
+          "publishedOn": "2025-12-10T17:38:04.000Z",
+          "wordCount": 2686,
+          "title": "Dynamics 365 Sales Is Not CRM (It’s Your Membership Hub)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/what-is-power-automate-and-what-is-it-used-for",
+          "author": "Malin Martnes",
+          "description": "Copilot answer Power Automate is Microsoft’s low-code automation platform for creating workflows called flows that connect apps, services, and data. It supports cloud flows, desktop (RPA) flows, and business process flows to automate repetitive tasks, approvals, notifications, data synchronization, and legacy desktop actions. Organizations and individuals use it to save time, reduce errors, integrate systems […]\nThe post What is Power Automate and what is it used for? appeared first on 365 Community Online.",
+          "link": "https://365community.online/what-is-power-automate-and-what-is-it-used-for",
+          "publishedOn": "2025-12-10T17:12:00.000Z",
+          "wordCount": 3511,
+          "title": "What is Power Automate and what is it used for?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/What-is-Power-Automate-and-what-is-it-used-for.png"
+        },
+        {
+          "id": "https://365community.online/10-best-wordpress-holiday-plugins-for-a-little-holiday-cheer",
+          "author": "Belinda Allen",
+          "description": "The holidays are here, and your website deserves a glow-up to celebrate the season.  Whether you run an online store or a blog, plugins can transform your site into a festive experience that delights visitors and boosts engagement. From falling snowflakes to advent calendar giveaways, we’ve rounded up 10 holiday plugins that add seasonal charm […]\nThe post 10 Best WordPress Holiday Plugins for a Little Holiday Cheer appeared first on 365 Community Online.",
+          "link": "https://365community.online/10-best-wordpress-holiday-plugins-for-a-little-holiday-cheer",
+          "publishedOn": "2025-12-10T15:00:00.000Z",
+          "wordCount": 4122,
+          "title": "10 Best WordPress Holiday Plugins for a Little Holiday Cheer",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/10-Best-WordPress-Holiday-Plugins-for-a-Little-Holiday-Cheer.jpg"
+        },
+        {
+          "id": "https://365community.online/the-azure-quantum-hybrid-fix-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,160if it started with a warning, then silence. 200:00:03,160 –> 00:00:07,640Your classical optimization pipeline didn’t get murdered. 300:00:07,640 –> 00:00:09,900It bled out from combinatoric wounds 400:00:09,900 –> 00:00:12,160while everyone argued about budget. 500:00:12,160 –> 00:00:13,800You’re asking me to manage cubits. 600:00:13,800 –> 00:00:16,760I barely trust my VM agents to reboot on schedule. 700:00:16,760 […]\nThe post The Azure Quantum Hybrid Fix appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-azure-quantum-hybrid-fix-2",
+          "publishedOn": "2025-12-10T13:50:40.000Z",
+          "wordCount": 7012,
+          "title": "The Azure Quantum Hybrid Fix",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-dynamics-365-ai-fix-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:05,000You feel the chaos, inbox overflow, tickets vanish, customers rage. 200:00:05,000 –> 00:00:07,000It was never about the password. 300:00:07,000 –> 00:00:11,000It’s the access path, email to case without control. 400:00:11,000 –> 00:00:12,000Here’s the fix. 500:00:12,000 –> 00:00:16,000Autonomous agents inside Dynamics 365 600:00:16,000 –> 00:00:19,000that read, classify, create, route, respond. 700:00:19,000 –> 00:00:21,000No hype, […]\nThe post The Dynamics 365 AI Fix appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-dynamics-365-ai-fix-2",
+          "publishedOn": "2025-12-10T10:14:32.000Z",
+          "wordCount": 7326,
+          "title": "The Dynamics 365 AI Fix",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/my-mcp-server-for-dynamics-365-business-central-administration-now-supports-handling-ptes",
+          "author": "Stefano Demiliani",
+          "description": "One of the top requests that many users of my MCP server for Dynamics 365 Business Central Administration (code named YAMPI) raised to me in the past weeks was the following: is it possible to also support handling per-tenant extensions (PTEs)? I promised a Christmas present to some of you, and here it is… With […]\nThe post My MCP server for Dynamics 365 Business Central Administration now supports handling PTEs. appeared first on 365 Community Online.",
+          "link": "https://365community.online/my-mcp-server-for-dynamics-365-business-central-administration-now-supports-handling-ptes",
+          "publishedOn": "2025-12-10T08:23:00.000Z",
+          "wordCount": 2371,
+          "title": "My MCP server for Dynamics 365 Business Central Administration now supports handling PTEs.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/My-MCP-server-for-Dynamics-365-Business-Central-Administration-now.png"
+        },
+        {
+          "id": "https://365community.online/the-dynamics-365-ai-fix",
+          "author": "Mirko Peters",
+          "description": "🔧 What You’ll Learn in This Episode Your inbox isn’t broken — your access path is.In this episode, we break down how autonomous agents inside Dynamics 365 fix the chaos of email-to-case by standardizing intake, eliminating misroutes, and turning every message into clean, governed, SLA-accurate tickets. You’ll see the real mechanics behind: Email parsing & […]\nThe post The Dynamics 365 AI Fix appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-dynamics-365-ai-fix",
+          "publishedOn": "2025-12-10T06:33:34.000Z",
+          "wordCount": 2720,
+          "title": "The Dynamics 365 AI Fix",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/stop-building-cloud-flows-use-agent-flows-instead",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,560You keep building cloud flows like it’s still 2019. 200:00:02,560 –> 00:00:04,740Everyone does its muscle memory at this point. 300:00:04,740 –> 00:00:07,280Open Power Automate, select Automated Cloudflow, 400:00:07,280 –> 00:00:09,080pick your trigger, chain a few connectors, 500:00:09,080 –> 00:00:11,120hit save and feel productive. 600:00:11,120 –> 00:00:14,000Unfortunately, you’ve just constructed a very expensive habit. […]\nThe post STOP Building Cloud Flows! Use Agent Flows Instead appeared first on 365 Community Online.",
+          "link": "https://365community.online/stop-building-cloud-flows-use-agent-flows-instead",
+          "publishedOn": "2025-12-10T02:50:02.000Z",
+          "wordCount": 6692,
+          "title": "STOP Building Cloud Flows! Use Agent Flows Instead",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/how-to-really-add-mcp-to-copilot-studio",
           "author": "Mirko Peters",
@@ -75109,76 +75269,6 @@
           "wordCount": 3081,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use Copilot with French language",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-dynamics-365-business-central-table-reference-website-updated-to-include-pages",
-          "author": "Ian Grieve",
-          "description": "I have been building a azurecurve | Dynamics 365 BC Table Reference website which I started a while ago. After recently updating it to Microsoft Dynamics 365 Business Central 2023 […]",
-          "link": "https://365community.online/microsoft-dynamics-365-business-central-table-reference-website-updated-to-include-pages",
-          "publishedOn": "2023-12-12T13:00:00.000Z",
-          "wordCount": 3076,
-          "title": "Microsoft Dynamics 365 Business Central Table Reference Website Updated to Include Pages",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-in-project-operations",
-          "author": "Inogic",
-          "description": "Dynamics 365 Project Operations serves as a comprehensive platform tailored for efficient project planning, expense tracking, and time management. It facilitates resource booking and allocation while providing tools to identify […]",
-          "link": "https://365community.online/copilot-in-project-operations",
-          "publishedOn": "2023-12-12T11:49:05.000Z",
-          "wordCount": 3297,
-          "title": "Copilot in Project Operations",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Copilot-in-Project-Operations.jpeg?fit=800%2C587&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-channel-entry-point-for-teams-workflows",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-channel-entry-point-for-teams-workflows",
-          "publishedOn": "2023-12-12T11:00:00.000Z",
-          "wordCount": 3083,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Channel Entry Point for Teams Workflows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/resolved-pcf-field-control-not-showing-anything-in-the-pcf-test-environment",
-          "author": "Arun Potti",
-          "description": "While I was working on a field control in the Visual Studio code, it was not showing anything in the PowerApps components framework Test Environment. And below is the simple […]",
-          "link": "https://365community.online/resolved-pcf-field-control-not-showing-anything-in-the-pcf-test-environment",
-          "publishedOn": "2023-12-12T04:17:32.000Z",
-          "wordCount": 3106,
-          "title": "[Resolved] PCF Field Control not showing anything in the PCF Test Environment?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/02/power-apps-logo.jpg?fit=900%2C900&ssl=1"
-        },
-        {
-          "id": "https://365community.online/building-better-tables-a-patterned-approach-to-using-autonumber-columns-and-alternate-keys-to-drive-efficiency-in-dataflows",
-          "author": "Richard Wilson",
-          "description": "Introduction Navigating the complexities of dataflows in Microsoft’s Power Platform, especially when dealing with Dataverse, can present unique challenges. One significant hurdle is efficiently setting up and using lookup values. […]",
-          "link": "https://365community.online/building-better-tables-a-patterned-approach-to-using-autonumber-columns-and-alternate-keys-to-drive-efficiency-in-dataflows",
-          "publishedOn": "2023-12-11T16:44:00.000Z",
-          "wordCount": 3064,
-          "title": "Building Better Tables – A patterned approach to using autonumber columns and alternate keys to drive efficiency in Dataflows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702317159_Building-Better-Tables-A-patterned-approach-to-using-autonumber.png?fit=1200%2C630&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-manage-unpublished-solution-aware-cloud-flows-using-admin-apis",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-manage-unpublished-solution-aware-cloud-flows-using-admin-apis",
-          "publishedOn": "2023-12-11T15:00:00.000Z",
-          "wordCount": 3101,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Manage Unpublished Solution-aware Cloud Flows Using Admin APIs",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/multithreading-in-d365-batch-jobs",
-          "author": "Peter Ramer",
-          "description": "There are times when you need Microsoft Dynamics 365 for Finance and Operations to process records as a background process. SysOperation Framework batch jobs were created for this. However, sometimes […]",
-          "link": "https://365community.online/multithreading-in-d365-batch-jobs",
-          "publishedOn": "2023-12-11T14:00:00.000Z",
-          "wordCount": 3009,
-          "title": "Multithreading in D365 Batch Jobs",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -76436,6 +76526,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=19820",
+          "author": "André Arnaud de Calavon",
+          "description": "Another door unlocked for the Licensing Advent Calendar. Today, a post about the Dynamics 365 F&O security architecture. It is important to know about this to understand how the securable elements that are part of the calculation are linked to the security roles and the users. It will be the basis for knowing what to […]\nThe post Licensing Advent Calendar – Day 11 – Security architecture appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-11-security-architecture/",
+          "publishedOn": "2025-12-10T23:00:00.000Z",
+          "wordCount": 4617,
+          "title": "Licensing Advent Calendar – Day 11 – Security architecture",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-11.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=19797",
           "author": "André Arnaud de Calavon",
           "description": "Day 10! So far, I’ve gotten a lot of questions and feedback. Thanks for all the interactions. Even from experienced people, I get messages saying that most of the content is familiar, but still, there are some things mentioned in the blogs that they were not aware of. The post today will be like that. […]\nThe post Licensing Advent Calendar – Day 10 – Licenses usage summary appeared first on Dynamicspedia.",
@@ -76957,16 +77057,6 @@
           "wordCount": 4054,
           "title": "D365FO ER (GER): Error while evaluating expression…",
           "imageUrl": "https://fernitudela.files.wordpress.com/2024/01/featured-image.png?w=1200"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1219",
-          "author": "Fernando Tudela Desantes",
-          "description": "Be careful when you use methods in an Electronic Reporting model mapping, because if you don't use them properly you can be calling the logic too many times. Read the article to know how. … More D365FO Electronic Reporting (GER): Properly use table methods",
-          "link": "https://fernitudela.dev/2023/12/12/d365fo-electronic-reporting-ger-properly-use-table-methods/",
-          "publishedOn": "2023-12-12T09:30:00.000Z",
-          "wordCount": 3372,
-          "title": "D365FO Electronic Reporting (GER): Properly use table methods",
-          "imageUrl": "https://fernitudela.files.wordpress.com/2023/12/featured-image.png?w=1200"
         }
       ]
     },
@@ -78323,16 +78413,6 @@
           "wordCount": 4847,
           "title": "How To Use D365 Try Catch Statements",
           "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/12/How-To-Use-D365-Try-Catch-Statements.png"
-        },
-        {
-          "id": "https://dynamics365musings.com/?p=3140",
-          "author": "peter.ramer",
-          "description": "There are times when you need Microsoft Dynamics 365 for Finance and Operations to process records as a background process. SysOperation Framework batch jobs were created for this. However, sometimes even one instance of these jobs do not process records fast enough. Learn how to create multithreading in D365 batch jobs and process records in... Continue Reading →\nThe post Multithreading in D365 Batch Jobs appeared first on Dynamics 365 Musings.",
-          "link": "https://dynamics365musings.com/multithreading-in-d365-batch-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=multithreading-in-d365-batch-jobs",
-          "publishedOn": "2023-12-11T14:00:00.000Z",
-          "wordCount": 4729,
-          "title": "Multithreading in D365 Batch Jobs",
-          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/11/Multithreading-In-D365-Batch-Jobs.png"
         }
       ]
     },
@@ -79012,16 +79092,6 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=197438",
-          "author": "Ishani Parikh and Nitish Jain",
-          "description": "Whether you’re using Copilot in Dynamics 365 Sales, Power Apps customized through Microsoft Copilot Studio or Microsoft 365 Copilot for Sales, under the hood, these experiences leverage one common engine: AI-powered Dataverse (DV) Search, which seamlessly connects business users to the underlying database schema, translating intent into action without requiring technical expertise. Thousands of enterprise customers already rely on this capability to power their business workflows.\nThe post Beyond Retrieval: How an Agentic Approach Transforms Microsoft Dataverse Search  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/12/08/agentic-ai-dataverse-search/",
-          "publishedOn": "2025-12-08T17:54:10.000Z",
-          "wordCount": 6633,
-          "title": "Beyond Retrieval: How an Agentic Approach Transforms Microsoft Dataverse Search",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/12/AdobeStock_1771250752-scaled.jpeg"
-        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=196476",
           "author": "Sameer Verma",
@@ -86367,16 +86437,6 @@
           "wordCount": 1965,
           "title": "Environment Variables are now Always Visible and Editable during Solution Import and Pipeline Deployments",
           "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2023/11/Screenshot-2023-11-09-134119.png"
-        },
-        {
-          "id": "announcing-seamless-dataverse-image-and-file-support-in-canvas-offline-apps",
-          "author": null,
-          "description": "Announcing Files and Images offline in Public Preview",
-          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-seamless-dataverse-image-and-file-support-in-canvas-offline-apps/",
-          "publishedOn": "2023-12-12T08:43:17.000Z",
-          "wordCount": 1955,
-          "title": "Announcing seamless Dataverse image and file support in canvas offline apps",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         }
       ]
     },
