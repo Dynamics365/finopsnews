@@ -2,10 +2,298 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-11T01:55:50.490Z</updated>
+    <updated>2025-12-12T01:54:58.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Security Intern Is Now A Terminator]]></title>
+        <id>https://365community.online/the-security-intern-is-now-a-terminator</id>
+        <link href="https://365community.online/the-security-intern-is-now-a-terminator"/>
+        <updated>2025-12-12T00:02:41.000Z</updated>
+        <summary type="html"><![CDATA[WEBVTT 100:00:00.080 –> 00:00:03.279Meet your new intern, doesn’t sleep, doesn’t complain, doesn’t spill 200:00:03.279 –> 00:00:06.440coffee into the server rack, and just casually replaced half 300:00:06.480 –> 00:00:09.439your security operations center’s workload in a week. This intern 400:00:09.519 –> 00:00:11.759isn’t a person, of course, It’s a synthetic analyst, an 500:00:11.759 –> 00:00:16.120autonomous agent from Microsoft’s […]
+The post The Security Intern Is Now A Terminator appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 12 – Find privileges for not entitled objects]]></title>
+        <id>https://dynamicspedia.com/?p=19853</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-12-find-privileges-for-not-entitled-objects/"/>
+        <updated>2025-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With Day 12, I posted half of the promised blogs as part of the Licensing Advent Calendar. When you read all other posts, you now know to find which users require what license(s), what roles are assigned, what causes the requirement for particular license SKUs, which application elements are not entitled to particular licenses per […]
+The post Licensing Advent Calendar – Day 12 – Find privileges for not entitled objects appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 11 – SQL Server 2025 – External REST endpoint invocation using LLM]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10803</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/11/advent-of-2025-day-11-sql-server-2025-external-rest-endpoint-invocation-using-llm/"/>
+        <updated>2025-12-11T22:43:25.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: After short introduction into the  sp_invoke_external_rest_endpoint we will look into creating a REST endpoint for using LLM. Deploy LLM model In your Azure tenant, go to Azure AI Foundry and deploy a model…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Labeling Works Better When It’s Connected to Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=138648</id>
+        <link href="https://erpsoftwareblog.com/2025/12/why-labeling-works-better-when-its-connected-to-business-central/"/>
+        <updated>2025-12-11T20:49:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When teams think about improving operations in Microsoft Dynamics 365 Business Central, label printing isn’t always the first place they look. But it’s one of the areas where small improvements […]
+The post Why Labeling Works Better When It’s Connected to Business Central appeared first on ERP Software Blog.
+Tips for Site and Bin Set Up for Dynamics GP
+The Evolution of Scheduling for Process Manufacturers
+Inventory Tracking Features in Microsoft Dynamics® GP]]></summary>
+        <author>
+            <name>NIC Systems Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Night the Emails Died]]></title>
+        <id>https://365community.online/the-night-the-emails-died</id>
+        <link href="https://365community.online/the-night-the-emails-died"/>
+        <updated>2025-12-11T20:15:41.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:05,200The night the emails died, the city got quiet, too quiet. 200:00:05,200 –> 00:00:10,340Cases used to rot in shared mailboxes like forgotten bodies. 300:00:10,340 –> 00:00:15,540Customers screaming into the void, then the autonomous agents moved in. 400:00:15,540 –> 00:00:20,560Cold, precise, tireless, no inbox mercy. 500:00:20,560 –> 00:00:24,680If your inbox still runs the city, […]
+The post The Night the Emails Died appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clover Payments Brings Integrated Credit Card Processing to Business Central via Counter Sales App]]></title>
+        <id>https://erpsoftwareblog.com/?p=138585</id>
+        <link href="https://erpsoftwareblog.com/2025/12/clover-payments-brings-integrated-credit-card-processing-to-business-central-via-counter-sales-app/"/>
+        <updated>2025-12-11T19:58:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works introduces Clover payment integration for Business Central via their Counter Sales app, delivering secure, streamlined, and fully connected checkout experiences within Microsoft Dynamics 365 Business Central. Insight Works, […]
+The post Clover Payments Brings Integrated Credit Card Processing to Business Central via Counter Sales App appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+How Manufacturers Automate Preventive Maintenance with Business Central
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Document Management System Software for 2026 for Enterprises]]></title>
+        <id>https://erpsoftwareblog.com/?p=138634</id>
+        <link href="https://erpsoftwareblog.com/2025/12/top-10-document-management-system-software-for-2026-for-enterprises/"/>
+        <updated>2025-12-11T18:35:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Quick Summary: Top document management systems for 2026 are MetaDoc, DocuWare, M-files, DropBox, E-FileCabinet, SharePoint, Box and more. Choosing the best document management system in 2026 has become an essential […]
+The post Top 10 Document Management System Software for 2026 for Enterprises appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom label Print option not appearing – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4173</id>
+        <link href="https://anithasantosh.wordpress.com/2025/12/11/custom-label-print-option-not-appearing-d365fo/"/>
+        <updated>2025-12-11T18:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Custom labels let you generate labels for any data you configure. Examples include product, location, or customer labels. Once you create one or more custom label layouts, the system automatically displays a Print button on the corresponding pages. I haven’t … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom label Print option not appearing – D365FO]]></title>
+        <id>https://365community.online/custom-label-print-option-not-appearing-d365fo</id>
+        <link href="https://365community.online/custom-label-print-option-not-appearing-d365fo"/>
+        <updated>2025-12-11T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Custom labels let you generate labels for any data you configure. Examples include product, location, or customer labels. Once you create one or more custom label layouts, the system automatically displays a Print button on the corresponding pages. I haven’t worked much with custom label setup, but I was eager to learn the configuration. Today […]
+The post Custom label Print option not appearing – D365FO appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot now included with Word, Excel, PowerPoint, Outlook & OneNote]]></title>
+        <id>https://365community.online/copilot-now-included-with-word-excel-powerpoint-outlook-onenote</id>
+        <link href="https://365community.online/copilot-now-included-with-word-excel-powerpoint-outlook-onenote"/>
+        <updated>2025-12-11T16:35:25.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,120Yes, co-pilot is now free inside the apps you already use. 200:00:03,120 –> 00:00:06,120But before you update your resume to include AI augmented 300:00:06,120 –> 00:00:08,200professional, let’s get something straight. 400:00:08,200 –> 00:00:10,440This isn’t new magic arriving from the cloud. 500:00:10,440 –> 00:00:12,960It’s redistributed intelligence, specifically 600:00:12,960 –> 00:00:16,000Microsoft Graph Data being made […]
+The post Copilot now included with Word, Excel, PowerPoint, Outlook & OneNote appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Write troubleshooting: missing AppID 6f7d0213-62b1-43a8-b7f4-ff2bb8b7b452]]></title>
+        <id>https://dynamicspedia.com/?p=19833</id>
+        <link href="https://dynamicspedia.com/2025/12/dual-write-troubleshooting-missing-appid-6f7d0213-62b1-43a8-b7f4-ff2bb8b7b452/"/>
+        <updated>2025-12-11T16:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Several times, at the Dynamics Community, I had seen a question with an issue where Dual Write is not working correctly, and the health check is showing an error. I tried to help, but in those days. I wasn’t aware of the possibility that an enterprise application could be missing in Entra ID until recently. […]
+The post Dual Write troubleshooting: missing AppID 6f7d0213-62b1-43a8-b7f4-ff2bb8b7b452 appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Superpower Business Central Has Been Missing]]></title>
+        <id>https://erpsoftwareblog.com/?p=138619</id>
+        <link href="https://erpsoftwareblog.com/2025/12/the-hidden-superpower-business-central-has-been-missing/"/>
+        <updated>2025-12-11T15:49:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  For most Business Central customers, data is the silent project killer. Everyone talks about process, configuration, change management, training… But the go-live catastrophes: the invoices that won’t post, the […]
+The post The Hidden Superpower Business Central Has Been Missing appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Kati Hvidtfeldt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Should Your First Dynamics 365 Conversation Be With a Solution Architect vs a Salesperson?]]></title>
+        <id>https://erpsoftwareblog.com/?p=138614</id>
+        <link href="https://erpsoftwareblog.com/2025/12/why-should-your-first-dynamics-365-conversation-be-with-a-solution-architect-vs-a-salesperson/"/>
+        <updated>2025-12-11T15:08:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Key Highlights Speaking with a solution architect from the start prevents mis-scoping and delays in Dynamics 365 Business Central projects. Dexpro Dynamics eliminates traditional sales teams so Business Central experts […]
+The post Why Should Your First Dynamics 365 Conversation Be With a Solution Architect vs a Salesperson? appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>Dexpro Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Start a Blog in 2026? 9 Solid Reasons From a Blogger]]></title>
+        <id>https://365community.online/why-start-a-blog-in-2026-9-solid-reasons-from-a-blogger</id>
+        <link href="https://365community.online/why-start-a-blog-in-2026-9-solid-reasons-from-a-blogger"/>
+        <updated>2025-12-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog is one of the best investments you can make — personally and professionally.  It can drive traffic to your website, boost your career or business, help you learn valuable skills, or simply give you a creative outlet. Even after 10 years of blogging for myself and others, I still find it enjoyable, meaningful, […]
+The post Why Start a Blog in 2026? 9 Solid Reasons From a Blogger appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Causes Cost Overruns in a Dynamics 365 Business Central Implementation and How Do You Prevent Them?]]></title>
+        <id>https://erpsoftwareblog.com/?p=138610</id>
+        <link href="https://erpsoftwareblog.com/2025/12/what-causes-cost-overruns-in-a-dynamics-365-business-central-implementation-and-how-do-you-prevent-them/"/>
+        <updated>2025-12-11T14:40:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Key Highlights Nearly half of ERP projects exceed budget due to preventable issues. Most overruns in Dynamics 365 Business Central implementations result from gaps in preparation and unclear scope. Clean […]
+The post What Causes Cost Overruns in a Dynamics 365 Business Central Implementation and How Do You Prevent Them? appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Lead Process Is Outdated. Here’s How Dynamics 365 Sales (CRM) Fixes It]]></title>
+        <id>https://erpsoftwareblog.com/?p=137613</id>
+        <link href="https://erpsoftwareblog.com/2025/12/your-lead-process-is-outdated-heres-how-dynamics-365-sales-crm-fixes-it/"/>
+        <updated>2025-12-11T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  TL;DR Dynamics 365 Sales has evolved into an AI-powered CRM that helps sales teams qualify leads faster, understand customer history in seconds, and manage opportunities with real-time insights. In […]
+The post Your Lead Process Is Outdated. Here’s How Dynamics 365 Sales (CRM) Fixes It appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is AI for you]]></title>
+        <id>https://365community.online/what-is-ai-for-you</id>
+        <link href="https://365community.online/what-is-ai-for-you"/>
+        <updated>2025-12-11T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a while since I last wrote a blog, so here I am again. What is a blog, really? To me, it’s an expression of your thoughts and your vision. Everyone has their own understanding of AI, and today I want to share mine. What is AI to me? When I was younger, I […]
+The post What is AI for you appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Swati Goel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Interpreter vs. Azure Functions: Stop The Python Misuse!]]></title>
+        <id>https://365community.online/code-interpreter-vs-azure-functions-stop-the-python-misuse</id>
+        <link href="https://365community.online/code-interpreter-vs-azure-functions-stop-the-python-misuse"/>
+        <updated>2025-12-11T12:58:14.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,640Everyone’s using Python in Power Platform wrong. 200:00:02,640 –> 00:00:03,720Yes, wrong. 300:00:03,720 –> 00:00:05,360Microsoft hands people a chef’s knife 400:00:05,360 –> 00:00:07,600and half of them are using it to spread butter. 500:00:07,600 –> 00:00:08,680You’ve probably seen it. 600:00:08,680 –> 00:00:12,080Someone here’s Python now runs natively in Power Platform 700:00:12,080 –> 00:00:14,960and immediately tries […]
+The post Code Interpreter vs. Azure Functions: Stop The Python Misuse! appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 red flags in Business Central demos that make controllers walk away]]></title>
+        <id>https://erpsoftwareblog.com/?p=138451</id>
+        <link href="https://erpsoftwareblog.com/2025/12/business-central-demo-excel-reporting/"/>
+        <updated>2025-12-11T10:45:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You are in the demo. The prospect nods, but you can already feel it. Almost immediately the controller is checking out. Not because Business Central is bad, but rather because […]
+The post 5 red flags in Business Central demos that make controllers walk away appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Thomas Werkhoven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Dynamics 365 Migration Approaches, Re-Implementation vs Upgrade vs Lift & Shift]]></title>
+        <id>https://erpsoftwareblog.com/?p=138518</id>
+        <link href="https://erpsoftwareblog.com/2025/12/dynamics-365-migration-reimplementation-vs-upgrade-vs-lift-and-shift/"/>
+        <updated>2025-12-11T10:28:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For organizations running older versions of Microsoft ERP platforms like AX 2009, AX 2012, or early Dynamics CRM, the shift to the cloud is no longer optional. As systems age, […]
+The post Comparing Dynamics 365 Migration Approaches, Re-Implementation vs Upgrade vs Lift & Shift appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holidays Greetings from Simplanova #christmas #shorts #trendingshorts – YouTube]]></title>
+        <id>https://365community.online/holidays-greetings-from-simplanova-christmas-shorts-trendingshorts-youtube</id>
+        <link href="https://365community.online/holidays-greetings-from-simplanova-christmas-shorts-trendingshorts-youtube"/>
+        <updated>2025-12-11T09:39:23.000Z</updated>
+        <summary type="html"><![CDATA[A little holiday cheer from our office! Sending smiles, warmth, and the happiest holiday wishes your way. #team #greetingvideo #fyp source
+The post Holidays Greetings from Simplanova #christmas #shorts #trendingshorts – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Justina Žiūraitė</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Pipelines oAuth Configuration App]]></title>
+        <id>https://365community.online/power-platform-pipelines-oauth-configuration-app</id>
+        <link href="https://365community.online/power-platform-pipelines-oauth-configuration-app"/>
+        <updated>2025-12-11T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written before about my architectural pattern for oAuth connection delegated deployments and I’ve even provided a step by step guide and template flow to help people with the process but it’s still quite complicated. Today I am releasing a solution that organisations can use to make connection management easier for delegated deployments where they […]
+The post Power Platform Pipelines oAuth Configuration App appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dynamics 365 Lie That Kills Your Business Impact]]></title>
+        <id>https://365community.online/the-dynamics-365-lie-that-kills-your-business-impact-2</id>
+        <link href="https://365community.online/the-dynamics-365-lie-that-kills-your-business-impact-2"/>
+        <updated>2025-12-11T09:12:27.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,720Dynamics can be a filing cabinet or a growth engine. 200:00:02,720 –> 00:00:04,800Most teams build filing cabinets. 300:00:04,800 –> 00:00:06,000Here’s the test. 400:00:06,000 –> 00:00:08,640Does your system turn work into progress? 500:00:08,640 –> 00:00:10,640Or does it just store activity? 600:00:10,640 –> 00:00:13,440In the next few minutes, I’ll show you how to reduce friction […]
+The post The Dynamics 365 Lie That Kills Your Business Impact appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Multi-Agent Systems with Azure Foundry + Semantic Kernel]]></title>
         <id>https://365community.online/building-multi-agent-systems-with-azure-foundry-semantic-kernel-2</id>
@@ -78,6 +366,21 @@ Dynamics 365 Business Central and Industry-Tailored Functionality
 Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
         <author>
             <name>Rillion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Inventory Management Software in 2026 to Watch Out]]></title>
+        <id>https://erpsoftwareblog.com/?p=138523</id>
+        <link href="https://erpsoftwareblog.com/2025/12/top-inventory-management-software/"/>
+        <updated>2025-12-10T19:21:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Which are the top inventory management software in 2026 you need to look forward to? Whether you are trying to simplify the inventory management process or looking to get more […]
+The post Top 10 Inventory Management Software in 2026 to Watch Out  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
         </author>
     </entry>
     <entry>
@@ -106732,151 +107035,6 @@ Plan Offer Can Simplify ACA Reporting in Dynamics GP
 What Is a 1095-C?]]></summary>
         <author>
             <name>FYIsoft, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delving into ERP Development: Steve Endow's Decade-Long MVP Experience and the Emerging Role of Business Central]]></title>
-        <id>https://365community.online/delving-into-erp-development-steve-endows-decade-long-mvp-experience-and-the-emerging-role-of-business-central</id>
-        <link href="https://365community.online/delving-into-erp-development-steve-endows-decade-long-mvp-experience-and-the-emerging-role-of-business-central"/>
-        <updated>2023-12-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/508 What if you could peek into the dynamic world of ERP development and understand the evolution of Business Central from NAV? That's exactly what we're offering […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customising Your Compliance Profile Preference Centres]]></title>
-        <id>https://365community.online/customising-your-compliance-profile-preference-centres</id>
-        <link href="https://365community.online/customising-your-compliance-profile-preference-centres"/>
-        <updated>2023-12-13T11:22:24.000Z</updated>
-        <summary type="html"><![CDATA[I’ve written a series of blogs all about Compliance Profiles which walk through a series of steps for getting up and running with Realtime Marketing compliance. Part one shows how […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Understand Warehouse Picks and Shipments in Advanced Warehousing]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-warehouse-picks-and-shipments-in-advanced-warehousing</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-warehouse-picks-and-shipments-in-advanced-warehousing"/>
-        <updated>2023-12-13T11:00:47.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: Microsoft standard AI features and prompts.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-microsoft-standard-ai-features-and-prompts</id>
-        <link href="https://365community.online/dynamics-365-business-central-microsoft-standard-ai-features-and-prompts"/>
-        <updated>2023-12-13T09:21:34.000Z</updated>
-        <summary type="html"><![CDATA[The new Dynamics 365 Business Central 23.2 release unlocks the new Copilot Developer Toolkit (more info here) for creating generative-AI experiences inside the ERP on online sandboxes. The advantages of […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Environment Variables are now Always Visible and Editable during Solution Import and Pipeline Deployments]]></title>
-        <id>environment-variables-are-now-always-visible-and-editable-during-solution-import-and-pipeline-deployments</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/environment-variables-are-now-always-visible-and-editable-during-solution-import-and-pipeline-deployments/"/>
-        <updated>2023-12-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Makers, who are using pipelines and solution import, will now always be able view and change the values of a solution’s environment variables. Makers will be able to validate the values that are going to be used in their components (such as their apps) in the target environment.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are entities in Copilot Studio? #CopilotStudio #Copilot #MCS #DieHardCopilot #PowerPlatform – YouTube]]></title>
-        <id>https://365community.online/what-are-entities-in-copilot-studio-copilotstudio-copilot-mcs-diehardcopilot-powerplatform-youtube</id>
-        <link href="https://365community.online/what-are-entities-in-copilot-studio-copilotstudio-copilot-mcs-diehardcopilot-powerplatform-youtube"/>
-        <updated>2023-12-12T21:19:32.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Plugin Actions(preview) with Power Automate in Copilot Studio]]></title>
-        <id>https://365community.online/create-plugin-actionspreview-with-power-automate-in-copilot-studio</id>
-        <link href="https://365community.online/create-plugin-actionspreview-with-power-automate-in-copilot-studio"/>
-        <updated>2023-12-12T18:53:31.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago I wrote an article about a new preview feature for Copilot Studio called ‘Plugin Actions’. (You can read the article here if you haven’t read it […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issues Faced by Supply Chain Managers]]></title>
-        <id>https://erpsoftwareblog.com/?p=102561</id>
-        <link href="https://erpsoftwareblog.com/2023/12/issues-faced-by-supply-chain-managers/"/>
-        <updated>2023-12-12T18:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Supply chain management is the process of planning, coordinating, and executing the flow of goods and services from the source to the destination. It involves a network of suppliers, manufacturers, …  Issues Faced by Supply Chain Managers Read More »
-The post Issues Faced by Supply Chain Managers appeared first on ERP Software Blog.
-A Proactive Approach To Stock Outs
-7 Common Problems to Avoid in Demand Forecasting
-6 Strategies to Cut Costs Across Your Supply Chain]]></summary>
-        <author>
-            <name>StockIQ Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Back Up Data in Microsoft Dynamics 365 and Power Platform]]></title>
-        <id>https://www.encorebusiness.com/?p=60633</id>
-        <link href="https://www.encorebusiness.com/blog/how-to-back-up-data-in-d365-and-power-platform/"/>
-        <updated>2023-12-12T16:32:55.000Z</updated>
-        <summary type="html"><![CDATA[How to Back Up Data in Microsoft Dynamics 365 and Power Platform
-This blog originally appeared here on Own Company’s blog page. Microsoft Dynamics 365 and Power Platform give businesses the confidence to use data in a structured, consolidated way to engage customers in a meaningful manner — all while optimizing business metrics through AI generated algorithms. While this is great for increasing the rate of business innovation,...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Own Company</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics SL Vs Business Central: Which Is Right for Your Business?]]></title>
-        <id>https://erpsoftwareblog.com/?p=102554</id>
-        <link href="https://erpsoftwareblog.com/2023/12/dynamics-sl-vs-business-central-which-is-right-for-your-business/"/>
-        <updated>2023-12-12T16:25:57.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of enterprise resource planning (ERP) solutions, businesses are faced with the crucial decision of selecting the right platform to meet their unique needs. Two prominent players …  Dynamics SL Vs Business Central: Which Is Right for Your Business? Read More »
-The post Dynamics SL Vs Business Central: Which Is Right for Your Business? appeared first on ERP Software Blog.
-Transitioning from Dynamics SL to Business Central: Streamlining Your Business Operations
-Optimize the Picking Process with the right methodology in your Warehouse
-Everything you need to know about Warehouse Order Picking Methods]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volume 6: New Power Automate Designer – YouTube]]></title>
-        <id>https://365community.online/volume-6-new-power-automate-designer-youtube</id>
-        <link href="https://365community.online/volume-6-new-power-automate-designer-youtube"/>
-        <updated>2023-12-12T15:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Volume 6: New Power Automate Designer source]]></summary>
-        <author>
-            <name>Deepesh Somani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Use Copilot with French language]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-copilot-with-french-language</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-copilot-with-french-language"/>
-        <updated>2023-12-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salient Features of Inventory Management System]]></title>
-        <id>https://erpsoftwareblog.com/?p=102544</id>
-        <link href="https://erpsoftwareblog.com/2023/12/salient-features-of-inventory-management-system/"/>
-        <updated>2023-12-12T14:01:49.000Z</updated>
-        <summary type="html"><![CDATA[An inventory management system is crucial for businesses to efficiently track, manage, and control inventory levels. Salient Features of an Inventory Management System and functionalities commonly found in an inventory …  Salient Features of Inventory Management System Read More »
-The post Salient Features of Inventory Management System appeared first on ERP Software Blog.
-Inventory Valuation Methods for a Dynamics GP Dummy
-Optimize Your Rental Operations in Dynamics 365 with Analytics
-Essential accounts payable software features for efficient financial management]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
         </author>
     </entry>
     <entry>
