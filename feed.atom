@@ -2,10 +2,236 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-12T01:54:58.102Z</updated>
+    <updated>2025-12-13T01:48:30.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Entra ID Attack Nobody Audits]]></title>
+        <id>https://365community.online/the-entra-id-attack-nobody-audits-2</id>
+        <link href="https://365community.online/the-entra-id-attack-nobody-audits-2"/>
+        <updated>2025-12-13T01:46:11.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,500Recruit, you think MFA makes you bulletproof? 200:00:02,500 –> 00:00:03,340Wrong. 300:00:03,340 –> 00:00:06,180An attacker can read your mail, raid your files, 400:00:06,180 –> 00:00:09,260and live in your tenant without ever touching your password. 500:00:09,260 –> 00:00:14,420No prompts, no push fatigue, just quiet theft. 600:00:14,420 –> 00:00:17,220The trick is OUTH consent. 700:00:17,220 –> 00:00:19,460Apps […]
+The post The Entra ID Attack Nobody Audits appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 13 – Errors in standard security objects]]></title>
+        <id>https://dynamicspedia.com/?p=19867</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-13-errors-in-standard-security-objects/"/>
+        <updated>2025-12-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Day 13. Number 13 is associated with bad luck. While reviewing the security roles to check for lower licenses, you might come across standard security elements with an incorrect implementation of permissions, causing a higher license requirement. What are your options here? Standard security objects In yesterday’s post, I talked about finding privileges for not […]
+The post Licensing Advent Calendar – Day 13 – Errors in standard security objects appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building AI Agents That Take Action, Not Just Chat]]></title>
+        <id>https://365community.online/building-ai-agents-that-take-action-not-just-chat-2</id>
+        <link href="https://365community.online/building-ai-agents-that-take-action-not-just-chat-2"/>
+        <updated>2025-12-12T22:03:30.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:07,160Ah, you’re wasting AI on small talk, pure, undiluted power trapped in chit chat. 200:00:07,160 –> 00:00:12,080Today I’ll show you how to turn AI from a talker into a worker. 300:00:12,080 –> 00:00:19,800Agents that plan, call Microsoft Graph via MCP, use Azure OpenAI tool calling with managed 400:00:19,800 –> 00:00:23,520identity and auto-remediate incidents. […]
+The post Building AI Agents That Take Action, Not Just Chat appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Maintenance Schedulable in Business Central (without derailing production)]]></title>
+        <id>https://erpsoftwareblog.com/?p=138591</id>
+        <link href="https://erpsoftwareblog.com/2025/12/make-maintenance-schedulable-in-business-central-without-derailing-production/"/>
+        <updated>2025-12-12T20:24:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+At a glance What this does: Turns maintenance into orders that block real machine capacity, so PMs don’t collide with production. How you plan: Build tasks + intervals, then create […]
+The post Make Maintenance Schedulable in Business Central (without derailing production) appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 12 – SQL Server 2025 – New vector data type and Vector functions]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10819</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/12/advent-of-2025-day-12-sql-server-2025-new-vector-data-type-and-vector-functions/"/>
+        <updated>2025-12-12T19:40:56.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: The vector data type is designed to store vector data optimized for operations such as similarity search and machine learning applications. Vectors are stored in an optimized binary format but are exposed as…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate as the Orchestrator: What Actually Works… and What Never Comes Back.]]></title>
+        <id>https://365community.online/power-automate-as-the-orchestrator-what-actually-works-and-what-never-comes-back</id>
+        <link href="https://365community.online/power-automate-as-the-orchestrator-what-actually-works-and-what-never-comes-back"/>
+        <updated>2025-12-12T18:24:23.000Z</updated>
+        <summary type="html"><![CDATA[In this reflective and metaphor-rich episode, the host explores the unseen architecture of modern systems, the resilience required to build them, and the emotional realities of working with technology that outlives its creators. Through stories, analogies, and hard-won lessons, this episode blends engineering insight with poetic narrative. 💡 Key Themes & Insights 1. The Nature […]
+The post Power Automate as the Orchestrator: What Actually Works… and What Never Comes Back. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotlight on BankSync & ProcureFlow from Logan LaunchPad for Microsoft D365 F&SCM]]></title>
+        <id>https://erpsoftwareblog.com/?p=138693</id>
+        <link href="https://erpsoftwareblog.com/2025/12/spotlight-on-banksync-procureflow-from-logan-launchpad-for-microsoft-d365-fscm/"/>
+        <updated>2025-12-12T16:50:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-moving business environment, organizations using Microsoft Dynamics 365 Finance & Supply Chain Management (D365 F&SCM) need more than a successful go-live. They require scalable processes, governed workflows, and […]
+The post Spotlight on BankSync & ProcureFlow from Logan LaunchPad for Microsoft D365 F&SCM appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Sales Is Not CRM (It’s Your Membership Hub)]]></title>
+        <id>https://365community.online/dynamics-365-sales-is-not-crm-its-your-membership-hub-2</id>
+        <link href="https://365community.online/dynamics-365-sales-is-not-crm-its-your-membership-hub-2"/>
+        <updated>2025-12-12T14:45:36.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:06,320Most people think Dynamics 365 sales is only for leads, pipelines and opportunities to 200:00:06,320 –> 00:00:10,240deal in the truth it’s a relationship engine with a sales costume. 300:00:10,240 –> 00:00:14,560We’re going to strip the costume, keep the engine and run a completely different machine, 400:00:14,560 –> 00:00:17,000membership and committee management. 500:00:17,000 –> […]
+The post Dynamics 365 Sales Is Not CRM (It’s Your Membership Hub) appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Dynamics 365 Business Central with Dynamics 365 CRM]]></title>
+        <id>https://www.encorebusiness.com/?p=56196</id>
+        <link href="https://www.encorebusiness.com/blog/integrating-d365-business-central-crm/"/>
+        <updated>2025-12-12T12:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Integrating Dynamics 365 Business Central with Dynamics 365 CRM
+When Dynamics 365 Business Central is integrated with Dynamics 365 CRM applications like Dynamics 365 Sales, your business will benefit from having a single, reliable source of truth. However, it’s also essential to understand the key business decisions and best practices required to ensure your ERP-CRM integration delivers the results you need, such as faster...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Alfred Selvarajah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the CCMS project.]]></title>
+        <id>https://365community.online/welcome-to-the-ccms-project</id>
+        <link href="https://365community.online/welcome-to-the-ccms-project"/>
+        <updated>2025-12-12T11:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Less than two months ago we was here: During this session in Poznan, me and Duilio presented two tools that we use for managing Business Central online customers at scale: a Dynamics 365 Business Central’s customer management app an MCP server (code-named YAMPI) for managing customer tenants with AI directly from your favourite developer tools […]
+The post Welcome to the CCMS project. appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Purview Shield Wall]]></title>
+        <id>https://365community.online/build-your-purview-shield-wall</id>
+        <link href="https://365community.online/build-your-purview-shield-wall"/>
+        <updated>2025-12-12T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,620Red alert, audits inbound, internal leak detected, 200:00:03,620 –> 00:00:06,040archive pressure rising across the grid. 300:00:06,040 –> 00:00:08,520Command deck alarms flare as systems lose pressure 400:00:08,520 –> 00:00:09,880in records bay three. 500:00:09,880 –> 00:00:12,240Listen up, armies die from lasers. 600:00:12,240 –> 00:00:13,980Organizations die from loss documents. 700:00:13,980 –> 00:00:16,320Per view is not a […]
+The post Build Your Purview Shield Wall appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Workflow Approvals App]]></title>
+        <id>https://paragchapre.com/?p=16799</id>
+        <link href="https://paragchapre.com/dynamics-365-workflow-approvals-app/"/>
+        <updated>2025-12-12T10:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Even Though Microsoft Already Has One Why I Built a New Approvals Experience Approvals sit at the centre of every business process. Whether it’s reviewing a purchase order, validating a leave request, approving a purchase agreement, or signing off on a financial document every decision needs to flow quickly, smoothly, and confidently. Microsoft already provides…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Reasons Why Dynamics 365 is Still the best ERP Software in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=138541</id>
+        <link href="https://erpsoftwareblog.com/2025/12/reasons-why-dynamics-365-is-best-erp-software/"/>
+        <updated>2025-12-12T09:41:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft is the most sought-after software for companies today. The introduction of Microsoft Dynamics 365 brings more value to the software lineage. Dynamics 365 ERP has proved its versatility and […]
+The post 7 Reasons Why Dynamics 365 is Still the best ERP Software in 2026 appeared first on ERP Software Blog.
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+Top 4 Reasons to Choose Microsoft Dynamics GP for Your Association
+2, 4, 6, 8… What Does Dynamics GP Integrate?]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Document Chaos: Build Your Purview Shield Wall]]></title>
+        <id>https://365community.online/stop-document-chaos-build-your-purview-shield-wall</id>
+        <link href="https://365community.online/stop-document-chaos-build-your-purview-shield-wall"/>
+        <updated>2025-12-12T07:23:43.000Z</updated>
+        <summary type="html"><![CDATA[In this action-heavy episode, listeners are pulled directly into a high-stakes operational environment filled with red-alert notifications, audit surges, and escalating digital incursions. As systems light up with warnings, the team races to interpret hostile signals, secure data pathways, and execute precise compliance procedures. Through a blend of reconnaissance, cyber-forensics, and structured communication, the episode […]
+The post Stop Document Chaos: Build Your Purview Shield Wall appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Power Automate Hacks That Unlock Copilot ROI]]></title>
+        <id>https://365community.online/5-power-automate-hacks-that-unlock-copilot-roi</id>
+        <link href="https://365community.online/5-power-automate-hacks-that-unlock-copilot-roi"/>
+        <updated>2025-12-12T03:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Opening – Hook + Teaching PromiseYou think Copilot does the work by itself? Fascinating. You deploy an AI assistant and then leave it unsupervised like a toddler near a power socket. And then you complain that it doesn’t deliver ROI. Of course it doesn’t. You handed it a keyboard and no arms.Here’s the inconvenient truth: […]
+The post 5 Power Automate Hacks That Unlock Copilot ROI appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Finance Teams Are Switching from Adaptive Workday to Dynamic Budgets]]></title>
+        <id>https://erpsoftwareblog.com/?p=138653</id>
+        <link href="https://erpsoftwareblog.com/2025/12/looking-for-an-adaptive-workday-alternative-dynamic-budgets-offers-fast-setup-intuitive-design-and-payroll-insights-ready-in-hours-not-months/"/>
+        <updated>2025-12-12T01:49:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why Finance Teams Are Looking for Alternatives to their Adaptive Workday  Organizations using Adaptive/Workday often share the same frustrations: high costs, complexity, and underutilization. While these platforms promise enterprise-level functionality, […]
+The post Why Finance Teams Are Switching from Adaptive Workday to Dynamic Budgets appeared first on ERP Software Blog.
+Case Study: Embracing ClickLearn as a corporate Dynamics 365 training platform
+Automated Vendor Validation: Secure and Simplify AP Compliance
+$950/year Early Access to Mekorma Payment Hub for BC Ends in April 2025]]></summary>
+        <author>
+            <name>Dynamic Budgets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is your Firm a Frontier Firm? – YouTube]]></title>
+        <id>https://365community.online/is-your-firm-a-frontier-firm-youtube</id>
+        <link href="https://365community.online/is-your-firm-a-frontier-firm-youtube"/>
+        <updated>2025-12-12T00:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Is your Firm a Frontier Firm? source
+The post Is your Firm a Frontier Firm? – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deck the Halls with AI: Meet Your Microsoft 365 Agents]]></title>
+        <id>https://365community.online/deck-the-halls-with-ai-meet-your-microsoft-365-agents</id>
+        <link href="https://365community.online/deck-the-halls-with-ai-meet-your-microsoft-365-agents"/>
+        <updated>2025-12-12T00:29:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post is dedicated to Festive Tech Calander 2025, the #festivetechcalendar team is raising money for the Beatson Cancer Charity with the hope of raising £1000 for the charity organization. If you would like to d… Original Post https://techiejournals.com/blog/f/deck-the-halls-with-ai-meet-your-microsoft-365-agents
+The post Deck the Halls with AI: Meet Your Microsoft 365 Agents appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Onyinye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT 5.2 is in azure AI Foundry – YouTube]]></title>
+        <id>https://365community.online/gpt-5-2-is-in-azure-ai-foundry-youtube</id>
+        <link href="https://365community.online/gpt-5-2-is-in-azure-ai-foundry-youtube"/>
+        <updated>2025-12-12T00:19:00.000Z</updated>
+        <summary type="html"><![CDATA[GPT 5.2 is in azure AI Foundry source
+The post GPT 5.2 is in azure AI Foundry – YouTube appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Security Intern Is Now A Terminator]]></title>
         <id>https://365community.online/the-security-intern-is-now-a-terminator</id>
@@ -136,6 +362,28 @@ The post Copilot now included with Word, Excel, PowerPoint, Outlook & OneNote ap
 The post Dual Write troubleshooting: missing AppID 6f7d0213-62b1-43a8-b7f4-ff2bb8b7b452 appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 sets the bar for agentic sales qualification on new benchmark]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=197880</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/12/11/dynamics-365-sets-the-bar-for-agentic-sales-qualification-on-new-benchmark/"/>
+        <updated>2025-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the Microsoft Sales Bench—a new collection of benchmarks designed to assess the performance of your AI-powered sales agents. Learn more.
+The post Dynamics 365 sets the bar for agentic sales qualification on new benchmark appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Julie Strauss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sales Qualification Agent: How we evaluated and improved AI quality with benchmarks]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=197954</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/12/11/sales-qualification-agent-benchmarks/"/>
+        <updated>2025-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sales Qualification Agent (SQA) is not a simple productivity tool—it is a complex multi-step agent directly influencing revenue outcomes. The Sales Qualification Bench represents a foundational step toward enterprise-grade trust, transparency, and continuous quality improvement for agentic AI in sales.
+The post Sales Qualification Agent: How we evaluated and improved AI quality with benchmarks appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ayushman Jain</name>
         </author>
     </entry>
     <entry>
@@ -649,6 +897,18 @@ GS1 Standards Boost Efficiency in D365 Supply Chain
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Transforming how organizations run rental operations with Dynamics 365 ERP]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/12/09/transform-rental-operations-dynamics-365-erp/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/12/09/transform-rental-operations-dynamics-365-erp/"/>
+        <updated>2025-12-09T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Rental operations succeed when every handoff--from quoting to return--is coordinated and timely. The forthcoming capabilities bring structure and clarity to these moments. They are designed to help organizations accelerate deal cycles, improve asset utilization, enhance customer satisfaction, and reduce reliance on custom or manual processes. 
+By unifying these processes inside Dynamics 365, leveraging the composability of Dynamics 365 Finance & Supply Chain Management, Project Operations, and Field Service, organizations will be able to run rental as a natural extension of their operations rather than as a separate system or afterthought.
+The post Transforming how organizations run rental operations with Dynamics 365 ERP appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Georg Glantschnig</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Create and Delete Views in Microsoft Dynamics 365: Quick Tips]]></title>
         <id>https://erpsoftwareblog.com/?p=136992</id>
         <link href="https://erpsoftwareblog.com/2025/12/how-to-create-and-delete-views-in-microsoft-dynamics-365-quick-tips/"/>
@@ -661,6 +921,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The era of agentic business applications arrives at Convergence 2025]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/12/09/the-era-of-agentic-business-applications-arrives-at-convergence-2025/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/12/09/the-era-of-agentic-business-applications-arrives-at-convergence-2025/"/>
+        <updated>2025-12-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Convergence 2025, December 9–12, we’ll explore how organizations can build an AI-first autonomous enterprise powered by data, copilots, and agents working together across Microsoft Dynamics 365 and the Microsoft Cloud.
+The post The era of agentic business applications arrives at Convergence 2025 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Satish Thomas</name>
         </author>
     </entry>
     <entry>
@@ -898,6 +1169,17 @@ Transform Your Business Central Operations at Community Summit North America 202
 The post AI Website Building: Separating Hype from Reality appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Retrieval: How an Agentic Approach Transforms Microsoft Dataverse Search]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=197438</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/12/08/agentic-ai-dataverse-search/"/>
+        <updated>2025-12-08T17:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Leveraging recent breakthroughs in agentic AI, the new system delivers answers that are more relevant, contextual, and accurate to your specific business data. Think of it as an intelligent assistant that not only understands your question but figures out the best way to answer it using an adaptive reasoning process.
+The post Beyond Retrieval: How an Agentic Approach Transforms Microsoft Dataverse Search  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ishani Parikh and Nitish Jain</name>
         </author>
     </entry>
     <entry>
@@ -1897,6 +2179,17 @@ The post Licensing Advent Calendar – Day 4 – PPAC User License Consumption a
 The post Master Hub and Spoke Planning appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock More Value from Your Existing Solutions with Plans]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=132821</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/unlock-more-value-from-your-existing-solutions-with-plans/"/>
+        <updated>2025-12-03T21:05:33.000Z</updated>
+        <summary type="html"><![CDATA[You can now create a plan directly from your existing solution, giving you a clear, structured view of what you’ve built and where you can take it next.
+The post Unlock More Value from Your Existing Solutions with Plans appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Dami Alajogun</name>
         </author>
     </entry>
     <entry>
@@ -106824,217 +107117,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Copilot for Microsoft 365 – The Ultimate Webinar with Stripe OLT Our Copilot for M365 webinar offers a strategic overview of this new, innovative tool, showcasing how AI has the […]]]></summary>
         <author>
             <name>Orla Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group December 2023 Meet Up!]]></title>
-        <id>https://365community.online/welsh-azure-user-group-december-2023-meet-up</id>
-        <link href="https://365community.online/welsh-azure-user-group-december-2023-meet-up"/>
-        <updated>2023-12-14T12:49:31.000Z</updated>
-        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG December2023 meet up and we had yet another two amazing speakers join us. We were joined by Samuel Amaugo […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramp Up Holiday sales with Gamification within Microsoft Dynamics 365 CRM]]></title>
-        <id>https://365community.online/ramp-up-holiday-sales-with-gamification-within-microsoft-dynamics-365-crm</id>
-        <link href="https://365community.online/ramp-up-holiday-sales-with-gamification-within-microsoft-dynamics-365-crm"/>
-        <updated>2023-12-14T12:17:28.000Z</updated>
-        <summary type="html"><![CDATA[The holiday season is upon us, a time for twinkling lights, warm cheer, and… booming sales! But in this competitive landscape, how can you stand out and jingle all the […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing Data Visualization with Power BI: A Practical Guide]]></title>
-        <id>https://erpsoftwareblog.com/?p=102592</id>
-        <link href="https://erpsoftwareblog.com/2023/12/unleashing-data-visualization-with-power-bi-a-practical-guide/"/>
-        <updated>2023-12-14T11:26:33.000Z</updated>
-        <summary type="html"><![CDATA[Are you having trouble making sense of the deluge of information at your disposal? Do static spreadsheets and dull charts make you long for a more engaging approach to visualize …  Unleashing Data Visualization with Power BI: A Practical Guide Read More »
-The post Unleashing Data Visualization with Power BI: A Practical Guide appeared first on ERP Software Blog.
-Happy Opening Day, MLB Fans! A Look at Baseball and Business Intelligence
-Power BI: How your team can improve sales & revenue with Business Intelligence
-How Power BI help businesses to get more out of their data?]]></summary>
-        <author>
-            <name>Techcronus Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Manage Abandoned Cloud Flows]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-manage-abandoned-cloud-flows</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-manage-abandoned-cloud-flows"/>
-        <updated>2023-12-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 CRM, Mailchimp, Location Data Integration: Find Your Perfect Customers Faster]]></title>
-        <id>https://365community.online/dynamics-365-crm-mailchimp-location-data-integration-find-your-perfect-customers-faster</id>
-        <link href="https://365community.online/dynamics-365-crm-mailchimp-location-data-integration-find-your-perfect-customers-faster"/>
-        <updated>2023-12-14T10:45:52.000Z</updated>
-        <summary type="html"><![CDATA[The post Dynamics 365 CRM, Mailchimp, Location Data Integration: Find Your Perfect Customers Faster appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entities part 2: Synonyms! #PowerPlatform #mcs #CopilotStudio #DieHardCopilot – YouTube]]></title>
-        <id>https://365community.online/entities-part-2-synonyms-powerplatform-mcs-copilotstudio-diehardcopilot-youtube</id>
-        <link href="https://365community.online/entities-part-2-synonyms-powerplatform-mcs-copilotstudio-diehardcopilot-youtube"/>
-        <updated>2023-12-14T08:46:52.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dev Box y desarrollo local en Dynamics 365 F&O]]></title>
-        <id>https://ariste.info/?p=8106</id>
-        <link href="https://ariste.info/2023/12/microsoft-dev-box-dynamics-365-desarrollo/"/>
-        <updated>2023-12-14T08:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Después de mucho, mucho, mucho, mucho, mucho tiempo esperando, por fin está aquí la funcionalidad de desarrollo local de Dynamics 365 F&O… en preview pública. Es un poco diferente desde la primera vez que oímos hablar de esto en el MBAS de 2019… pero abre un nuevo escenario para los desarrolladores. No voy a entrar… Continue Reading Microsoft Dev Box y desarrollo local en Dynamics 365 F&O]]></summary>
-        <author>
-            <name>Adrià Ariste Santacreu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dev Box and Dynamics 365 F&O local development]]></title>
-        <id>https://365community.online/microsoft-dev-box-and-dynamics-365-fo-local-development</id>
-        <link href="https://365community.online/microsoft-dev-box-and-dynamics-365-fo-local-development"/>
-        <updated>2023-12-14T07:15:19.000Z</updated>
-        <summary type="html"><![CDATA[After a long, long, long, long, long time waiting for it, the Dynamics 365 F&O local development feature is finally here… in public preview. It’s a bit different since the […]]]></summary>
-        <author>
-            <name>Adrià Ariste Santacreu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dev Box and Dynamics 365 F&O local development]]></title>
-        <id>https://ariste.info/?p=8050</id>
-        <link href="https://ariste.info/2023/12/microsoft-dev-box-dynamics-365-development/"/>
-        <updated>2023-12-14T07:15:19.000Z</updated>
-        <summary type="html"><![CDATA[After a long, long, long, long, long time waiting for it, the Dynamics 365 F&O local development feature is finally here… in public preview. It’s a bit different since the first time we heard about this at the MBAS in 2019… but it opens up a new scenario for developers. I won’t go into much… Click here to continue reading Microsoft Dev Box and Dynamics 365 F&O local development]]></summary>
-        <author>
-            <name>Adrià Ariste Santacreu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consent center in Real-time marketing]]></title>
-        <id>https://365community.online/consent-center-in-real-time-marketing</id>
-        <link href="https://365community.online/consent-center-in-real-time-marketing"/>
-        <updated>2023-12-13T19:31:14.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been getting a lot of questions from people about how the new consent center in real-time marketing works in Customer Insights – Journeys. In this post, I’ll try to […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking New Features: What Business Central Brings to the Table]]></title>
-        <id>https://erpsoftwareblog.com/?p=102582</id>
-        <link href="https://erpsoftwareblog.com/2023/12/unlocking-new-features-what-business-central-brings-to-the-table/"/>
-        <updated>2023-12-13T19:04:18.000Z</updated>
-        <summary type="html"><![CDATA[In today’s dynamic business environment, staying ahead of the curve is crucial for success. Businesses constantly seek innovative solutions that streamline operations, enhance productivity, and provide valuable insights. Microsoft Dynamics 365 …  Unlocking New Features: What Business Central Brings to the Table Read More »
-The post Unlocking New Features: What Business Central Brings to the Table appeared first on ERP Software Blog.
-How to Upgrade Dynamics NAV to Business Central in 2023?
-Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central
-Types of dimensions in Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finishing the year strong! – YouTube]]></title>
-        <id>https://365community.online/finishing-the-year-strong-youtube</id>
-        <link href="https://365community.online/finishing-the-year-strong-youtube"/>
-        <updated>2023-12-13T17:16:30.000Z</updated>
-        <summary type="html"><![CDATA[Hawaii Power Platform Day : https://events.powercommunity.com/hawaii-power-platform-day/ Canadian Power Platform Summit : https://www.canadianpowerplatformsummit.com/ Optimod Improving Entrepreneurial Journey : https://optimod.net/storage/documents/pdf/OPTIMOD_brochure_vol2_improving_entrepreneurial_journey.pdf Power Community Events: https://events.powercommunity.com/ source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add Logging to SysAdmin Role Assignments in D365FO]]></title>
-        <id>https://365community.online/add-logging-to-sysadmin-role-assignments-in-d365fo</id>
-        <link href="https://365community.online/add-logging-to-sysadmin-role-assignments-in-d365fo"/>
-        <updated>2023-12-13T16:36:43.000Z</updated>
-        <summary type="html"><![CDATA[This is a follow up blog post to one I had a few weeks ago about being able to grant/revoke the SysAdmin role for testing purposes. One of the things […]]]></summary>
-        <author>
-            <name>Alex Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add Logging to SysAdmin Role Assignments in D365FO]]></title>
-        <id>https://alexdmeyer.com/?p=2992</id>
-        <link href="https://alexdmeyer.com/2023/12/13/add-logging-to-sysadmin-role-assignments-in-d365fo/"/>
-        <updated>2023-12-13T16:36:43.000Z</updated>
-        <summary type="html"><![CDATA[This is a follow up blog post to one I had a few weeks ago about being able to grant/revoke the SysAdmin role for testing purposes. One of the things I called out there was that before implementing this solution there needed to be a logging functionality to be able to audit when a user […]
-The post Add Logging to SysAdmin Role Assignments in D365FO appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storage Classes in C: Auto, Extern, Static, Register | A Guide to Storage Classes in C – YouTube]]></title>
-        <id>https://365community.online/storage-classes-in-c-auto-extern-static-register-a-guide-to-storage-classes-in-c-youtube</id>
-        <link href="https://365community.online/storage-classes-in-c-auto-extern-static-register-a-guide-to-storage-classes-in-c-youtube"/>
-        <updated>2023-12-13T16:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Storage Classes in C: Auto, Extern, Static, Register | A Guide to Storage Classes in C In this video, we’ll take a look at the Storage Classes that are available […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Use Your Own Encryption Key for Encrypting Data at-rest for Existing Environments]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-your-own-encryption-key-for-encrypting-data-at-rest-for-existing-environments</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-your-own-encryption-key-for-encrypting-data-at-rest-for-existing-environments"/>
-        <updated>2023-12-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrate Brewery Management Software From  QuickBooks to Dynamics Business Central with VicinityBrew]]></title>
-        <id>https://erpsoftwareblog.com/?p=102493</id>
-        <link href="https://erpsoftwareblog.com/2023/12/migrate-brewery-management-software-from-quickbooks-to-dynamics-business-central-with-vicinitybrew/"/>
-        <updated>2023-12-13T14:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Lawson’s Finest Liquids produces and delivers fine-crafted beer. What started as a small home operation in 2008 has grown continually and expanded to a brewery, taproom, and retail store with …  Migrate Brewery Management Software From  QuickBooks to Dynamics Business Central with VicinityBrew Read More »
-The post Migrate Brewery Management Software From  QuickBooks to Dynamics Business Central with VicinityBrew appeared first on ERP Software Blog.
-A Tool to Predict and Prevent ERP Implementation Failure
-Insight Works Welcomes 12 New Global Microsoft Partners into their Reseller Program
-How to keep businesses running smoothly with labor shortages]]></summary>
-        <author>
-            <name>Vicinity Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid a Failed ERP Implementation]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=28965</id>
-        <link href="https://erpsoftwareblog.com/2023/12/avoid-failed-erp-implementation/"/>
-        <updated>2023-12-13T14:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Anyone who has been in or around the ERP implementation business for any length of time has witnessed the aftermath of a failed project.  ERP vendors won’t stay in the …  How to Avoid a Failed ERP Implementation Read More »
-The post How to Avoid a Failed ERP Implementation appeared first on ERP Software Blog.
-Three Tips for Avoiding the Dirty Data Trap
-Five ERP Implementation Traps you Want to Avoid
-Budget for Dynamics GP 2013 Hardware and Infrastructure Requirements and Costs]]></summary>
-        <author>
-            <name>Bob Scarborough, Tensoft Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify Complex Reporting in Microsoft Dynamics ERP]]></title>
-        <id>https://erpsoftwareblog.com/?p=102495</id>
-        <link href="https://erpsoftwareblog.com/2023/12/how-to-simplify-complex-reporting-in-microsoft-dynamics-erp/"/>
-        <updated>2023-12-13T14:13:16.000Z</updated>
-        <summary type="html"><![CDATA[In the world of finance and accounting, complex reporting is a common challenge that many organizations face. With multiple entities, acquisitions, reorganizations, and ever-changing regulations, the need for sophisticated financial …  How to Simplify Complex Reporting in Microsoft Dynamics ERP Read More »
-The post How to Simplify Complex Reporting in Microsoft Dynamics ERP appeared first on ERP Software Blog.
-ACA Add-on Shields GP Users from IRS Sledgehammer, Tack Hammer
-Plan Offer Can Simplify ACA Reporting in Dynamics GP
-What Is a 1095-C?]]></summary>
-        <author>
-            <name>FYIsoft, Inc.</name>
         </author>
     </entry>
     <entry>
