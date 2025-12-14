@@ -928,6 +928,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10836",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Yesterday we looked into Vector data type and how to create table, insert the vector and read it. With SQL Server 2025, vector data type comes equipped also with couple of functions: Let’s…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/13/advent-of-2025-day-13-sql-server-2025-vector-function/",
+          "publishedOn": "2025-12-13T17:47:18.000Z",
+          "wordCount": 6484,
+          "title": "Advent of 2025, Day 13 – SQL Server 2025 – Vector functions",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-32.png?w=751"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10819",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: The vector data type is designed to store vector data optimized for operations such as similarity search and machine learning applications. Vectors are stored in an optimized binary format but are exposed as…\nRead more ›",
@@ -34920,36 +34930,6 @@
           "wordCount": 8346,
           "title": "Bank Reconciliation in Dynamics 365 Business Central",
           "imageUrl": "https://learn.microsoft.com/en-us/training/modules/bank-reconciliation-dynamics-365-business-central/media/bank-account-reconciliation-ss.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102564",
-          "author": "x2x eCommerce",
-          "description": "Automating business processes through an ERP system involves leveraging the system's capabilities to streamline and optimize various processes within an organization. Consider the following steps to effectively automate business processes …  Automating business processes through an ERP Read More »\nThe post Automating business processes through an ERP appeared first on ERP Software Blog.\nFuture trends in ERP & eCommerce Integrations\nHow will Artificial Intelligence (AI) Impact ERP Software?\nProduct Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers",
-          "link": "https://erpsoftwareblog.com/2023/12/automating-business-processes-through-an-erp/",
-          "publishedOn": "2023-12-15T12:53:30.000Z",
-          "wordCount": 7367,
-          "title": "Automating business processes through an ERP",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-31-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102596",
-          "author": "ArcherPoint",
-          "description": "ERP implementation success factors are the key elements that ensure an organization's successful deployment and adoption of an ERP system. Understanding these factors can significantly enhance the effectiveness of your …  6 ERP Implementation Success Factors Read More »\nThe post 6 ERP Implementation Success Factors appeared first on ERP Software Blog.\nWhat To Expect When You Are Expecting (To Get New Accounting/ERP Software)\n“Best of Breed” – Why Include Third Party (ISV) Products with Microsoft Dynamics GP?\nSelecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy.",
-          "link": "https://erpsoftwareblog.com/2023/12/6-erp-implementation-success-factors/",
-          "publishedOn": "2023-12-14T19:22:02.000Z",
-          "wordCount": 7245,
-          "title": "6 ERP Implementation Success Factors",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/6-ERP-Implementation-Success-Factors-625x342.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102585",
-          "author": "iCepts Technology Group, Inc.",
-          "description": "In the dynamic landscape of modern business, Supply Chain Management (SCM) plays a pivotal role in the success of organizations. To meet the demands of today's global markets, businesses are …  10 Ways Business Central Helps Supply Chain Management Read More »\nThe post 10 Ways Business Central Helps Supply Chain Management appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMicrosoft Dynamics 365 Business Central for Project Managers\nStreamline warehouse processes with MetaADCS Warehouse Management System (WMS)",
-          "link": "https://erpsoftwareblog.com/2023/12/10-ways-business-central-helps-supply-chain-management/",
-          "publishedOn": "2023-12-14T16:18:44.000Z",
-          "wordCount": 7616,
-          "title": "10 Ways Business Central Helps Supply Chain Management",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         }
       ]
     },
@@ -36517,36 +36497,6 @@
           "wordCount": 5470,
           "title": "Why Are On-Premise Customers Moving to the Cloud? (Video)",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/12/Why-On-Premise-Customers-Moving-Cloud-img.jpg"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=60713",
-          "author": "Don McNulty",
-          "description": "Maintenance of SOP Tables in Dynamics GP (Video)\nFind out what happens in SOP to cause orphan records in Dynamics GP, and why we care. Learn about removing these transactions and how that affects inventory allocations. ﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today for our Dynamics GP Coffee Break, Maintenance of SOP Tables. My name is Katie...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/maintenance-of-sop-tables-gp/",
-          "publishedOn": "2023-12-14T20:45:14.000Z",
-          "wordCount": 4917,
-          "title": "Maintenance of SOP Tables in Dynamics GP (Video)",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=60713",
-          "author": "Don McNulty",
-          "description": "Maintenance of SOP Tables (Video)\nFind out what happens in SOP to cause orphan records in Dynamics GP, and why we care. Learn about removing these transactions and how that affects inventory allocations. ﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today for our Dynamics GP Coffee Break, Maintenance of SOP Tables. My name is Katie...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/maintenance-of-sop-tables/",
-          "publishedOn": "2023-12-14T20:45:14.000Z",
-          "wordCount": 4905,
-          "title": "Maintenance of SOP Tables (Video)",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=60124",
-          "author": "Katie Lopez",
-          "description": "Key Considerations When Picking a Microsoft Dynamics 365 Business Central Partner\nSelecting a new ERP system is a big decision on its own, so you want to be confident that the partner you choose to work with is the right fit for you and your business. The expertise, communication, and support of a potential partner will play a crucial role in the overall success of your...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/key-considerations-when-picking-a-microsoft-d365-business-central-partner/",
-          "publishedOn": "2023-12-14T15:01:47.000Z",
-          "wordCount": 2641,
-          "title": "Key Considerations When Picking a Microsoft Dynamics 365 Business Central Partner",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
         }
       ]
     },
@@ -36556,12 +36506,72 @@
       "siteUrl": "https://365community.online/",
       "articles": [
         {
+          "id": "https://365community.online/master-ad-to-entra-id-migration-troubleshooting-made-easy",
+          "author": "Mirko Peters",
+          "description": "WEBVTT 100:00:00.080 –> 00:00:02.520Managing two identity systems in twenty twenty five is like 200:00:02.560 –> 00:00:06.280maintaining both a smartphone and a rotary phone, once alive, flexible, 300:00:06.320 –> 00:00:09.519and evolving. The others a museum exhibit you refuse to recycle. 400:00:09.679 –> 00:00:12.119Active directory still sits in your server room, humming along 500:00:12.160 –> 00:00:15.279like its […]\nThe post Master AD to Entra ID Migration: Troubleshooting Made Easy appeared first on 365 Community Online.",
+          "link": "https://365community.online/master-ad-to-entra-id-migration-troubleshooting-made-easy",
+          "publishedOn": "2025-12-13T23:16:36.000Z",
+          "wordCount": 6609,
+          "title": "Master AD to Entra ID Migration: Troubleshooting Made Easy",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/who-killed-the-customer-journey",
+          "author": "Mirko Peters",
+          "description": "In this episode, we treat your customer journey like a crime scene. A high-intent cart goes quiet. A churn score spikes and nobody moves. Consent says “yes,” policy says “no,” and the customer disappears into silence. This isn’t a tooling problem—it’s a control problem. We walk through the “death” of a journey step by step: […]\nThe post Who Killed the Customer Journey appeared first on 365 Community Online.",
+          "link": "https://365community.online/who-killed-the-customer-journey",
+          "publishedOn": "2025-12-13T19:40:53.000Z",
+          "wordCount": 2696,
+          "title": "Who Killed the Customer Journey",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-4-new-tools-changing-everything",
+          "author": "Mirko Peters",
+          "description": "Opening: The Problem with “Future You”Most Power Platform users still believe “AI” means Copilot writing formulas. That’s adorable—like thinking electricity is only good for lighting candles faster. The reality is Microsoft has quietly launched four tools that don’t just assist you—they redefine what “building” even means. Dataverse Prompt Columns, Form Filler, Generative Pages, and Copilot […]\nThe post The 4 New Tools Changing Everything appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-4-new-tools-changing-everything",
+          "publishedOn": "2025-12-13T16:09:01.000Z",
+          "wordCount": 8797,
+          "title": "The 4 New Tools Changing Everything",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/what-actually-works-and-what-never-comes-back",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:07,000Every flow begins with hope, a small click, a bright promise. 200:00:07,000 –> 00:00:11,520An email arrives, a team’s message appears. 300:00:11,520 –> 00:00:15,760Someone claps, someone says, finally. 400:00:15,760 –> 00:00:18,720They always cheer at the beginning. 500:00:18,720 –> 00:00:25,040No owner named, no logs written, 100 actions stitched like mismatched parts, and then one night […]\nThe post What Actually Works… and What Never Comes Back. appeared first on 365 Community Online.",
+          "link": "https://365community.online/what-actually-works-and-what-never-comes-back",
+          "publishedOn": "2025-12-13T12:44:25.000Z",
+          "wordCount": 6602,
+          "title": "What Actually Works… and What Never Comes Back.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-multi-agent-lie-stop-trusting-single-ai-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:06,060It started with a confident answer, and a quiet error no one noticed, then the reports 200:00:06,060 –> 00:00:10,480aligned, the charts agreed, and the decision looked inevitable. 300:00:10,480 –> 00:00:13,680But the numbers had no chain of custody. 400:00:13,680 –> 00:00:19,160Here’s what actually happens, a single agent stretches beyond its brief, in vents evidence […]\nThe post The Multi-Agent Lie: Stop Trusting Single AI appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-multi-agent-lie-stop-trusting-single-ai-2",
+          "publishedOn": "2025-12-13T09:05:25.000Z",
+          "wordCount": 7276,
+          "title": "The Multi-Agent Lie: Stop Trusting Single AI",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-multi-agent-lie-stop-trusting-single-ai",
+          "author": "Mirko Peters",
+          "description": "It started with a confident answer—and a quiet error no one noticed. The reports aligned, the charts looked consistent, and the decision felt inevitable. But behind the polished output, the evidence had no chain of custody. In this episode, we open a forensic case file on today’s enterprise AI systems: how single agents hallucinate under […]\nThe post The Multi-Agent Lie: Stop Trusting Single AI appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-multi-agent-lie-stop-trusting-single-ai",
+          "publishedOn": "2025-12-13T05:25:00.000Z",
+          "wordCount": 2868,
+          "title": "The Multi-Agent Lie: Stop Trusting Single AI",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
           "id": "https://365community.online/the-entra-id-attack-nobody-audits-2",
           "author": "Mirko Peters",
           "description": "100:00:00,000 –> 00:00:02,500Recruit, you think MFA makes you bulletproof? 200:00:02,500 –> 00:00:03,340Wrong. 300:00:03,340 –> 00:00:06,180An attacker can read your mail, raid your files, 400:00:06,180 –> 00:00:09,260and live in your tenant without ever touching your password. 500:00:09,260 –> 00:00:14,420No prompts, no push fatigue, just quiet theft. 600:00:14,420 –> 00:00:17,220The trick is OUTH consent. 700:00:17,220 –> 00:00:19,460Apps […]\nThe post The Entra ID Attack Nobody Audits appeared first on 365 Community Online.",
           "link": "https://365community.online/the-entra-id-attack-nobody-audits-2",
           "publishedOn": "2025-12-13T01:46:11.000Z",
-          "wordCount": 6991,
+          "wordCount": 6971,
           "title": "The Entra ID Attack Nobody Audits",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
@@ -36583,6 +36593,16 @@
           "publishedOn": "2025-12-12T18:24:23.000Z",
           "wordCount": 2404,
           "title": "Power Automate as the Orchestrator: What Actually Works… and What Never Comes Back.",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/foundry-iq-on-azure-the-ultimate-multi-source-ai-knowledge-solution-youtube",
+          "author": "John Lunn",
+          "description": "Foundry IQ on Azure: The Ultimate Multi-Source AI Knowledge Solution! Unlock the future of AI on Azure with Foundry IQ! In this episode of AzBytes, hosts John Lunn and Ty Parkin reveal how Microsoft’s Foundry IQ transforms enterprise AI by delivering a unified knowledge layer for copilots, chatbots, and agents. Discover how you can connect […]\nThe post Foundry IQ on Azure: The Ultimate Multi-Source AI Knowledge Solution! – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/foundry-iq-on-azure-the-ultimate-multi-source-ai-knowledge-solution-youtube",
+          "publishedOn": "2025-12-12T15:37:26.000Z",
+          "wordCount": 2286,
+          "title": "Foundry IQ on Azure: The Ultimate Multi-Source AI Knowledge Solution! – YouTube",
           "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
         },
         {
@@ -75309,66 +75329,6 @@
           "wordCount": 3105,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use Power Automate Cloud Flows Designer with Copilot",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-picks-and-shipments-in-advanced-warehousing",
-          "author": "Ian Grieve",
-          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-picks-and-shipments-in-advanced-warehousing",
-          "publishedOn": "2023-12-15T11:00:07.000Z",
-          "wordCount": 3116,
-          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Configure Warehouse Picks and Shipments in Advanced Warehousing",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702646882_In-Microsoft-Dynamics-365-Business-Central-Inventory-and-Warehouse-Management.png?fit=1167%2C741&ssl=1"
-        },
-        {
-          "id": "https://365community.online/low-code-plug-ins-using-the-dataverse-accelerator-app-preview",
-          "author": "Inogic",
-          "description": "In today’s blog, we are talking about low-code plugins using the Dataverse Accelerator App, which means no coding is required. To perform complex actions on Dataverse table plugins are used. […]",
-          "link": "https://365community.online/low-code-plug-ins-using-the-dataverse-accelerator-app-preview",
-          "publishedOn": "2023-12-15T09:06:23.000Z",
-          "wordCount": 3313,
-          "title": "Low-code plug-ins using the Dataverse Accelerator App (Preview)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Dataverse-Accelerator-App.jpeg?fit=1200%2C516&ssl=1"
-        },
-        {
-          "id": "https://365community.online/dynamics-365-power-platform-conferences-in-2024",
-          "author": "Marco Totovic",
-          "description": "We are close to the end of this year, and we mostly have important conference dates for the following year. I would like to have all Dynamics 365 (and/or Power […]",
-          "link": "https://365community.online/dynamics-365-power-platform-conferences-in-2024",
-          "publishedOn": "2023-12-15T09:00:00.000Z",
-          "wordCount": 3026,
-          "title": "Dynamics 365 & Power Platform Conferences in 2024",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/view-in-browser-for-realtime-emails",
-          "author": "Megan V. Walker",
-          "description": "This one has been a long time coming, and was a missing feature in Realtime Marketing that could be used in Outbound Marketing long ago. That’s the simple feature of […]",
-          "link": "https://365community.online/view-in-browser-for-realtime-emails",
-          "publishedOn": "2023-12-15T08:30:00.000Z",
-          "wordCount": 3026,
-          "title": "View In Browser For Realtime Emails",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/View-In-Browser-For-Realtime-Emails.jpg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-run-a-cloud-flow-for-more-than-30-days-per-invocation",
-          "author": "Ian Grieve",
-          "description": "This post is part of the series in which I am taking a look at the new functionality introduced in Microsoft Dynamics Power Automate 2023 Wave 2. The 11th of […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-run-a-cloud-flow-for-more-than-30-days-per-invocation",
-          "publishedOn": "2023-12-14T15:00:25.000Z",
-          "wordCount": 3123,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Run a Cloud Flow for More Than 30 Days per Invocation",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-for-microsoft-365-the-ultimate-webinar-with-stripe-olt-youtube",
-          "author": "Orla Edwards",
-          "description": "Copilot for Microsoft 365 – The Ultimate Webinar with Stripe OLT Our Copilot for M365 webinar offers a strategic overview of this new, innovative tool, showcasing how AI has the […]",
-          "link": "https://365community.online/copilot-for-microsoft-365-the-ultimate-webinar-with-stripe-olt-youtube",
-          "publishedOn": "2023-12-14T14:27:51.000Z",
-          "wordCount": 3352,
-          "title": "Copilot for Microsoft 365 – The Ultimate Webinar with Stripe OLT – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702581166_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -79214,7 +79174,7 @@
         },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=197954",
-          "author": "Ayushman Jain",
+          "author": "Ayushman Jain, Nianwen Song and Sparsha Sundaresh",
           "description": "Sales Qualification Agent (SQA) is not a simple productivity tool—it is a complex multi-step agent directly influencing revenue outcomes. The Sales Qualification Bench represents a foundational step toward enterprise-grade trust, transparency, and continuous quality improvement for agentic AI in sales.\nThe post Sales Qualification Agent: How we evaluated and improved AI quality with benchmarks appeared first on Microsoft Dynamics 365 Blog.",
           "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2025/12/11/sales-qualification-agent-benchmarks/",
           "publishedOn": "2025-12-11T16:00:00.000Z",
@@ -81896,16 +81856,6 @@
           "wordCount": 2881,
           "title": "Experience the power of Copilot in Dynamics 365 Field Service in the mobile application",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/12/IMG_4538-portrait.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/14/begin-your-copilot-journey-with-summarization/",
-          "author": "Deepa Bansal",
-          "description": "How often do you find yourself spending too much time reading through long and complex customer cases, trying to figure out the main problem and the best solution? What amount of cases do you handle per day, and how do you ensure quality and consistency in your responses? How do you keep track of the\nThe post Begin your copilot journey with summarization appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/14/begin-your-copilot-journey-with-summarization/",
-          "publishedOn": "2023-12-14T18:00:00.000Z",
-          "wordCount": 2765,
-          "title": "Begin your copilot journey with summarization",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/Copilot-Image.jpg"
         }
       ]
     },
@@ -84753,26 +84703,6 @@
           "wordCount": 5585,
           "title": "Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources",
           "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/12/the-set-primary-position-.png"
-        },
-        {
-          "id": "https://paragchapre.com/?p=12306",
-          "author": "paragchapre@gmail.com",
-          "description": "Introduction In the fast-evolving landscape of business and technology, organizations are constantly seeking innovative solutions to streamline their operations and enhance employee experiences. The Human Resources app seamlessly integrates with Dynamics 365 Human Resources in an F&O environment. Developed for organizational use, it ensures a smooth process for employees to request, modify, and cancel time […]\nThe post Leave & Absence Human Resources App appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/leave-absence-human-resources-app/",
-          "publishedOn": "2023-12-15T06:24:09.000Z",
-          "wordCount": 2322,
-          "title": "Leave & Absence Human Resources App",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/12/HR-teams-app.png"
-        },
-        {
-          "id": "https://paragchapre.com/?p=12306",
-          "author": "paragchapre@gmail.com",
-          "description": "Introduction In the fast-evolving landscape of business and technology, organizations are constantly seeking innovative solutions to streamline their operations and enhance employee experiences. The Human Resources app seamlessly integrates with Dynamics 365 Human Resources in an F&O environment. Developed for organizational use, it ensures a smooth process for employees to request, modify, and cancel time […]\nThe post Leave & Absence Human Resources App appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/leave-absence-human-resources-app/?utm_source=rss&utm_medium=rss&utm_campaign=leave-absence-human-resources-app",
-          "publishedOn": "2023-12-15T06:24:09.000Z",
-          "wordCount": 5579,
-          "title": "Leave & Absence Human Resources App",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/12/HR-teams-app.png"
         }
       ]
     },
