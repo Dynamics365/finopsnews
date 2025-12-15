@@ -732,126 +732,6 @@
           "wordCount": 6201,
           "title": "How to Connect Power BI to D365 Finance and Operations",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUXDyFbqucvDYKgiMFr0lVtjkAa3vniyhQFqZGYXccNdpd2Sx8NRnLBGLuGkYV0rTkU9mDTs5Y8poCLIdey0GfKhX_Aa6EDH3J9wIfChgSfTnM=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/create-shareable-secured-urls-deep-links.html",
-          "author": null,
-          "description": "Overview\nThe URL Generator enables developers to create shareable and secured URLs (also known as deep links) to specific forms that are root navigable. An optional data context can be passed to the form to display filtered or specific data when the form is opened. The URL Generator enables scenarios such as embedding links in reports, email, and external applications, enabling users to quickly and easily locate the specified forms or data by simply navigating using the generated link.\n\nPurpose\n\nEmpower developers to generate URLs that can be used to navigate to root navigable forms in a specified instance.\nEmpower developers to optionally specify a data context that should be displayed when navigating to the specified form.\nEmpower users to share, save, and access the generated URLs from …",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/create-shareable-secured-urls-deep-links.html",
-          "publishedOn": "2023-12-16T11:50:00.000Z",
-          "wordCount": 6008,
-          "title": "Create shareable, secured URLs (deep links)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/filtering-options-in-d365-fo.html",
-          "author": null,
-          "description": "Introduction\n\nMicrosoft Dynamics AX 2012 offers the following filtering options.\n\n\nFilter optionDescription\n\nFilter by gridThe user defines filter conditions in input fields below the grid column headers.\nFilter by selection (filter by field)The user selects a field value and uses that value as a filter condition.\nAdvanced filterThe user opens a dialog box that contains advanced filtering options (filter on columns, not on the form; join additional data sources; sort by multiple columns; and so on).\n\n\nFinance and operations offers the following filtering options.\n\n\nFilter optionDescription\n\nFilter PaneAn inline pane that slides in from the left, and that contains multiple filter criteria that can be applied to the targeted content.\nQuickFilterA framework-provided filtering mechanism that c…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/filtering-options-in-d365-fo.html",
-          "publishedOn": "2023-12-16T11:38:00.000Z",
-          "wordCount": 7228,
-          "title": "Filtering options in D365 FO",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdVEgx-INxhexVMM2wLMkNwojqCABPLzdaGsW1xcS2naEfpTOqfGLRuxcS-3s8FLkgQbUYdZ9NQabgn7Z5Am1YvA0U9fX5LQVBp_iJ60_UxQ_yH70avsMEaeZR3UyACHP-CRrKNtK9epddFYF1zKOFdYJpFJaFJAGZiaauSgtdKApE6DlONKGtkXQw=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/convert-enum-value-to-str-in-electronic.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can we get enum values in Electronic report\n X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through CODE, we need to  get enum values in Electronic report\nDevelopment:\nCreate a class to get enum values into electronic report... in Electronic report system wont allow us to provide values as enum for this we required to convert our desired enum value to string and need to bind that method to our value in model mapping \nPlease find the method definition as follows.\n\n\nBelow in my requirement i want to assign TransactionType and LedgerPostingType values into may report so that i was added logic like below... here code will convert enum to str fo…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/convert-enum-value-to-str-in-electronic.html",
-          "publishedOn": "2023-12-16T11:07:00.000Z",
-          "wordCount": 5737,
-          "title": "Convert enum value to STR  in Electronic report D365 FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/export-vendor-gstn-details-to-excel-x.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can Export Vendor GSTN details to excel X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through CODE, we need to Export Vendor GSTN details to excel\nDevelopment:\nCreate a class to export Vendor  gstn details to excel\nPlease find the method definition as follows.\n\n\nusing System.IO;\nusing OfficeOpenXml;\nusing OfficeOpenXml.Style;\nusing OfficeOpenXml.Table;\nclass VendorGSTExportToExcel\n{\n    public static void main(Args _args)\n    {\n        VendTable vendTable;\n        DirPartyTable   dirparty;\n        LogisticsLocation   location;\n        TaxInformation_IN   taxInfo_IN;\n        VendName        vendName;\n        str isprimary;\n        TaxRegist…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/export-vendor-gstn-details-to-excel-x.html",
-          "publishedOn": "2023-12-16T10:40:00.000Z",
-          "wordCount": 5718,
-          "title": "Export Vendor GSTN details to excel X++ D365 FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/export-customer-gstn-details-to-excel-x.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can Export Customer GSTN details to excel X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through CODE, we need to Export Customer GSTN details to excel\nDevelopment:\nCreate a class to export customer gstn details to excel\nPlease find the method definition as follows.\n\n\nusing System.IO;\nusing OfficeOpenXml;\nusing OfficeOpenXml.Style;\nusing OfficeOpenXml.Table;\nclass CustomerGSTExportToExcel\n{\n    public static void main(Args _args)\n    {\n        CustTable custTable;\n        DirPartyTable   dirparty;\n        LogisticsLocation   location;\n        TaxInformation_IN   taxInfo_IN;\n        CustName        custName;\n        str isprimary;\n        Ta…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/export-customer-gstn-details-to-excel-x.html",
-          "publishedOn": "2023-12-16T10:31:00.000Z",
-          "wordCount": 5720,
-          "title": "Export Customer GSTN details to excel X++ D365 FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/split-dimension-valuesledger-account.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can Split ledger account into separate field values using ledger dimension field from general journal account entry X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through Table COC , we need to Split ledger account into separate field values using ledger dimension field from general journal account entry\nDevelopment:\nCreate a Class and added main method to get dim value based on dimension and attribute name to identify values from ledger dimension field from general journal account entry table.\n\n\nPlease find the method definition as follows.\n\n\n\n\nPublic class testclass\n{\n    generaljournalentry accountEntry;\n    \n   select firstonly accountE…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/split-dimension-valuesledger-account.html",
-          "publishedOn": "2023-12-16T09:53:00.000Z",
-          "wordCount": 5704,
-          "title": "Split Dimension values(Ledger Account field) into separate fields x++ D365FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/send-ssrs-report-to-email-with-excel.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can send ssrs report to mail through attachment Excel X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through code, to send report in excel format to email\nDevelopment:\nCreate class, and get control setting and SMTP config details, to users get email of report as attachment .\nPlease find the method definition as follows.\n\n\nclass testTransReportService\n{\n    /// <summary>\n    /// Send email with excel attachment\n    /// </summary>\n    [SysEntryPointAttribute(false)]\n    public void processRecords()\n    {\n        date integationDate;\n        SysEmailParameters sysEmailParameters;\n        integationDate = DateTimeUtil::getToday(DateTimeUtil::ge…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/send-ssrs-report-to-email-with-excel.html",
-          "publishedOn": "2023-12-16T09:40:00.000Z",
-          "wordCount": 5752,
-          "title": "Send ssrs report to email with excel attachment in D365FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/how-to-take-control-of-ssrs-report.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can we defualt and not allowing to edit ssrs report parameter  X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through code , we need make value default and it should be non editable and \nDevelopment:\nCreated 4 parameters in my case, from to dates, banaccount and exchangeratetype, we need to non editable of  exchangeratetype parameter\nPlease find the method definition as follows.\nclass testTransUIBuilder extends SysOperationAutomaticUIBuilder\n{\n    private DialogField dialogBankID, dialogExrateType, dialogfromdate, dialogtodate;\n    public void getFromDialog()\n    {\n        super();\n\n\n        testTransContract contract = this.dataContractObj…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/how-to-take-control-of-ssrs-report.html",
-          "publishedOn": "2023-12-16T09:29:00.000Z",
-          "wordCount": 5695,
-          "title": "How to take control of SSRS Report parameters through UI Builder class in D365FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/download-ssrs-report-directly-through-x.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can download report directly through X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through code, we need to directly download report \nDevelopment:\nCreate a Controller class and using print destination helper class to download report\nPlease find the method definition as follows.\n\n\nclass  testTransController extends SrsReportRunController implements BatchRetryable\n{\n    SRSPrintDestinationSettings printDestinationSetting;\n\n\n    public static void main(Args _args)\n    {\n         testTransController controller = new  testTransController();\n        controller.parmReportName(ssrsReportStr(testTransReport, testTransOrig));\n        controller.parmDialogCaption(\"test Bank Book Data Report\");\n        controller.startOperation();\n    }\n\n\n    // method to call print settings to download our generated report directly to downloads\n    protected void preRunModifyContract()\n    {\n        testTransContract contract = this.parmReportContract().parmRdpContract() as testTransContract;\n        \n        \n        this.parmReportContract().parmReportName(ssrsReportStr(testTransReport, BankBookTransOrig));\n        printDestinationSetting = new SRSPrintDestinationSettings();\n        printDestinationSetting.printMediumType(SRSPrintMediumType::File);\n        printDestinationSetting.fileName(System.IO.Path::GetTempPath() +'test data report.XLSX');\n        printDestinationSetting.fileFormat(SRSReportFileFormat::Excel);\n        printDestinationSetting.overwriteFile(true);\n       \n        this.parmReportContract().parmPrintSettings(printDestinationSetting);\n    }\n\n\n\n}",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/download-ssrs-report-directly-through-x.html",
-          "publishedOn": "2023-12-16T09:19:00.000Z",
-          "wordCount": 5581,
-          "title": "Download SSRS Report directly through X++",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/get-lable-of-enum-valuemain-account.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can get value in view through computed column X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through View , we need to show Enum values  lable in view based on DimensionLedgerAccountType  from voucher transactions\nDevelopment:\nCreate a view and added GneralJournalEntry and GneralJournalAccountEntry data sources. added computed column for this added method to bring dimension values based on dim name. in our case bring value of \"Business Unit\"\nPlease find the method definition as follows.\npublic class Dimensionview extends common\n{\n\n\n    private static str mainaccounttypelable()\n    {\n        tableName leaveBankTransactionView = identifierStr(Dimensionview );\n        DictEnum dictEnum = new DictEnum(enumNum(DimensionLedgerAccountType));\n        Map enumValues = new Map(Types::String, Types::String);\n        int counter;\n\n\n        for (counter = 0; counter < dictEnum.values(); counter++)\n        {\n            enumValues.insert(int2str(dictEnum.index2Value(counter)), SysComputedColumn::returnLiteral(dictEnum.index2Symbol(counter)));\n        }\n\n\n        return SysComputedColumn::switch(SysComputedColumn::returnField(leaveBankTransactionView, identifierStr(MainAccount), fieldStr(MainAccount, Type )), enumValues, SysComputedColumn::returnLiteral(dictEnum.index2Symbol(counter)));\n    }\n\n\n}",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/get-lable-of-enum-valuemain-account.html",
-          "publishedOn": "2023-12-16T08:49:00.000Z",
-          "wordCount": 5648,
-          "title": "Get lable of enum value(Main Account Type) through computed column in view D365FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/get-dim-values-into-form-through.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can get value in view through computed column X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through View , we need to show dimension values in view based on ledger dimension from voucher transactions\nDevelopment:\nCreate a view and added GneralJournalEntry and GneralJournalAccountEntry data sources. added computed column for this added method to bring dimension values based on dim name. in our case bring value of \"Business Unit\"\nPlease find the method definition as follows.\npublic class Dimensionview extends common\n{\n\n\n    /// <summary>\n    ///\n    /// </summary>\n    private static  str businessUnit()\n    {\n\n\n        return strFmt(\n            @\"select dimvalue \n                from %1 as prosessedtrans\n                where prosessedtrans.GENERALJOURNALACCOUNTENTRY = %2\n                AND prosessedtrans.DIMNAME = %3\",\n            (new SysDictTable(tableNum(LedgerSIEGeneralJournalEntryDimensionsView))).name(DbBackend::Sql),\n            SysComputedColumn::returnField(\n            viewstr(Dimensionview ),\n            tableStr(GeneralJournalAccountEntry),\n            fieldStr(GeneralJournalAccountEntry, RecId)),\n            SysComputedColumn::returnLiteral(\"BusinessUnit\"));\n        \n    }\n}",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/get-dim-values-into-form-through.html",
-          "publishedOn": "2023-12-16T08:45:00.000Z",
-          "wordCount": 5619,
-          "title": "Get Dim Values into view through Computed Column in D365FO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2023/12/enabledisable-form-control-coc-in-x.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can enable/disable a workflow fields based on workflow toggle on header .form control in X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through extension. we need to show workflow related fields in VendInvoiceJournal   list page when a transaction enabled with workflow toggle.\nDevelopment:\n\nCreate a COC of a standard form method enabling/disabling the form controls. In this case, we are creating a COC of a standard method  VendInvoiceJournal  form.\nPlease find the COC method definition as follows.\n\nI had four custom controls already added in my form through extension and enabled Auto declaration = YES for all controls\n\n\n\n\n\n[ExtensionOf(form…",
-          "link": "https://d365fotechexpert.blogspot.com/2023/12/enabledisable-form-control-coc-in-x.html",
-          "publishedOn": "2023-12-16T08:32:00.000Z",
-          "wordCount": 5696,
-          "title": "Enable/Disable form control (COC) in X++",
-          "imageUrl": null
         }
       ]
     },
@@ -927,6 +807,16 @@
       "feedUrl": "https://tomaztsql.wordpress.com/feed/",
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=10871",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Yesterday we looked into functions for working with vector data type and started also tinkering with VECTOR_SEARCH. With AI there are couple of T-SQL functionalities, that we will also cover. AI_GENERATE_EMBEDDINGS AI_GENERATE_EMBEDDINGS is…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/14/advent-of-2025-day-14-sql-server-2025-vector-arrays-or-embeddings-with-function-ai_generate_embeddings/",
+          "publishedOn": "2025-12-14T15:16:08.000Z",
+          "wordCount": 5499,
+          "title": "Advent of 2025, Day 14 – SQL Server 2025 – Vector arrays or embeddings with function AI_GENERATE_EMBEDDINGS",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-42.png"
+        },
         {
           "id": "http://tomaztsql.wordpress.com/?p=10836",
           "author": "tomaztsql",
@@ -36505,6 +36395,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/why-power-apps-charts-are-broken-and-how-ai-fixes-it",
+          "author": "Mirko Peters",
+          "description": "Opening: The Data Visualization Problem Power Apps charts look like they escaped from a 199s Excel demo—clunky blocks, random colors, and fonts that could make a design intern weep. You drag one onto the canvas, tweak a few properties, and there it sits: a relic. It’s like Microsoft kept the idea of “charting” but amputated […]\nThe post Why Power Apps Charts Are Broken (and How AI Fixes It) appeared first on 365 Community Online.",
+          "link": "https://365community.online/why-power-apps-charts-are-broken-and-how-ai-fixes-it",
+          "publishedOn": "2025-12-15T00:05:48.000Z",
+          "wordCount": 5738,
+          "title": "Why Power Apps Charts Are Broken (and How AI Fixes It)",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/installation-guide-d365-hr-power-apps-recruitment-add-on-within-d365-finance-and-ppac",
+          "author": "Ana Inés Urrutia",
+          "description": "In this article I will guide you through the installation of the Recruitment add-on that Microsoft introduced a while back. This article will walk you through the installation through Dynamics 365 Finance and Operations , Power Platform admin center and, Power Apps studio . First thing we will go into Dynamics 365 Finance and Operations […]\nThe post Installation guide: D365 HR Power Apps Recruitment add-on within D365 Finance and PPAC appeared first on 365 Community Online.",
+          "link": "https://365community.online/installation-guide-d365-hr-power-apps-recruitment-add-on-within-d365-finance-and-ppac",
+          "publishedOn": "2025-12-14T20:56:00.000Z",
+          "wordCount": 2133,
+          "title": "Installation guide: D365 HR Power Apps Recruitment add-on within D365 Finance and PPAC",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/Installation-guide-D365-HR-Power-Apps-Recruitment-add-on-within-D365.png"
+        },
+        {
+          "id": "https://365community.online/the-knot-in-the-cloud-document-management-in-dynamics-with-m365-part-1",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:05,680In every company and every timeline, the story begins the same, a contract misplaced, 200:00:05,680 –> 00:00:11,760a version overwritten, a folder named Final V7 that was never final, never version 7, and 300:00:11,760 –> 00:00:14,380never truly found again. 400:00:14,380 –> 00:00:18,520People think chaos is accidental, but it isn’t. 500:00:18,520 –> 00:00:25,240It’s a loop, […]\nThe post The Knot in the Cloud – Document Management in Dynamics with M365 (Part 1 appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-knot-in-the-cloud-document-management-in-dynamics-with-m365-part-1",
+          "publishedOn": "2025-12-14T20:26:40.000Z",
+          "wordCount": 27417,
+          "title": "The Knot in the Cloud – Document Management in Dynamics with M365 (Part 1",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/d365-sysobsolete-and-flighting",
+          "author": "Kurt Hatlevik",
+          "description": "SysObsolete is an X++ attribute used to mark classes, methods, fields, or enums as deprecated. It signals to developers that an element should no longer be used and may be removed or replaced in a future release. When applied, the compiler emits warnings (or errors, depending on severity) whenever the obsolete element is referenced, guiding […]\nThe post D365 : SysObsolete and flighting appeared first on 365 Community Online.",
+          "link": "https://365community.online/d365-sysobsolete-and-flighting",
+          "publishedOn": "2025-12-14T17:34:00.000Z",
+          "wordCount": 2043,
+          "title": "D365 : SysObsolete and flighting",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/D365-SysObsolete-and-flighting.png"
+        },
+        {
+          "id": "https://365community.online/the-knot-in-the-cloud-document-management-in-dynamics-with-m365-part-2-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:11,360A auto labeling that sees people think classification is a meeting it isn’t it’s a sense a system that notices patterns long after people stop paying attention 200:00:11,360 –> 00:00:14,720Auto labeling is that sense quiet 300:00:14,720 –> 00:00:24,160Constant unimpressed by wishes. It does not beg users to remember it remembers for them begin […]\nThe post The Knot in the Cloud – Document Management in Dynamics with M365 (Part 2 appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-knot-in-the-cloud-document-management-in-dynamics-with-m365-part-2-2",
+          "publishedOn": "2025-12-14T16:55:48.000Z",
+          "wordCount": 27994,
+          "title": "The Knot in the Cloud – Document Management in Dynamics with M365 (Part 2",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-knot-in-the-cloud-document-management-in-dynamics-with-m365-part-2",
+          "author": "Mirko Peters",
+          "description": "In Part 1 of our Dark-inspired tech-universe journey, we descend into the shadows where data, memory, and digital architecture begin to blur. This episode sets the stage for an unfolding narrative across timelines—past configurations, present misalignments, and future consequences that loop back on themselves in unexpected ways. We explore how systems behave like the interconnected […]\nThe post The Knot in the Cloud – Document Management in Dynamics with M365 (Part 2 appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-knot-in-the-cloud-document-management-in-dynamics-with-m365-part-2",
+          "publishedOn": "2025-12-14T13:21:08.000Z",
+          "wordCount": 2290,
+          "title": "The Knot in the Cloud – Document Management in Dynamics with M365 (Part 2",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/who-killed-the-customer-journey-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:06,960The cursor freezes the event stream flatlines silence thick electric deafening 200:00:06,960 –> 00:00:17,520intent is present systems look away journeys don’t scream they go quiet here’s what actually 300:00:17,520 –> 00:00:23,200happened and what you’ll learn how to reconstruct a journey’s death how to prevent the next one 400:00:23,840 –> 00:00:33,600how to read silent […]\nThe post Who Killed the Customer Journey appeared first on 365 Community Online.",
+          "link": "https://365community.online/who-killed-the-customer-journey-2",
+          "publishedOn": "2025-12-14T09:53:51.000Z",
+          "wordCount": 18663,
+          "title": "Who Killed the Customer Journey",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/sharepoint-is-not-a-database-the-power-apps-lie",
+          "author": "Mirko Peters",
+          "description": "Opening: The False Comfort of “Free Databases”You’ve heard this phrase before—casually dropped into Microsoft Teams calls with frightening confidence—“Oh, we’ll just use SharePoint as the database for our Power App.”And there it is. The modern cry of the overconfident citizen developer.This, right here, is the problem. People hear “data stored somewhere” and immediately conclude “database.” […]\nThe post SharePoint Is NOT a Database: The Power Apps Lie appeared first on 365 Community Online.",
+          "link": "https://365community.online/sharepoint-is-not-a-database-the-power-apps-lie",
+          "publishedOn": "2025-12-14T06:15:53.000Z",
+          "wordCount": 8539,
+          "title": "SharePoint Is NOT a Database: The Power Apps Lie",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/control-my-power-app-with-copilot-studio",
+          "author": "Mirko Peters",
+          "description": "Nov. 8, 2025 This might be the week the bots stop “assisting”… and start working.Microsoft quietly flipped a switch — and Copilot Studio can now literally use your computer.Not API calls. Not connectors. Not cloud sandboxes.Actual mouse movement. Real keyboard input.A legit AI agent that can launch your Power App, fill the fields, and submit […]\nThe post Control My Power App with Copilot Studio appeared first on 365 Community Online.",
+          "link": "https://365community.online/control-my-power-app-with-copilot-studio",
+          "publishedOn": "2025-12-14T02:41:45.000Z",
+          "wordCount": 2194,
+          "title": "Control My Power App with Copilot Studio",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/master-ad-to-entra-id-migration-troubleshooting-made-easy",
           "author": "Mirko Peters",
@@ -75279,56 +75259,6 @@
           "wordCount": 3233,
           "title": "Binary Search in Data Structures | Binary Search Algorithm with Example – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702845796_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube",
-          "publishedOn": "2023-12-16T13:00:07.000Z",
-          "wordCount": 2942,
-          "title": "Use Gen AI to answer a question #CopilotStudio #Copilot #DieHardCopilot #MCS #PowerPlatform – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702850313_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-add-any-font-to-power-pages-site",
-          "author": "Andrew Grischenko",
-          "description": "The Power Pages Design Studio makes it easier for users to change out-of-the-box colours and fonts and even manage custom CSS files. However, if you work with specific customer requirements, […]",
-          "link": "https://365community.online/how-to-add-any-font-to-power-pages-site",
-          "publishedOn": "2023-12-16T01:39:43.000Z",
-          "wordCount": 3044,
-          "title": "How to add any font to Power Pages site",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/How-to-add-any-font-to-Power-Pages-site.png?fit=960%2C656&ssl=1"
-        },
-        {
-          "id": "https://365community.online/entities-part-3-categorise-data-in-topics-copilotstudio-mcs-pva-techtok-diehardcopilot-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/entities-part-3-categorise-data-in-topics-copilotstudio-mcs-pva-techtok-diehardcopilot-youtube",
-          "publishedOn": "2023-12-15T19:47:54.000Z",
-          "wordCount": 2939,
-          "title": "Entities part 3: categorise data in topics #CopilotStudio #MCS #PVA #TechTok #DieHardCopilot – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702718631_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/can-microsoft-ever-catch-salesforce",
-          "author": "Steve Mordue",
-          "description": "I was reading the Salesforce Economic Impact whitepaper by IDC (sponsored by Salesforce). It struck me that much of the potential economic and social gains outlined in that report were […]",
-          "link": "https://365community.online/can-microsoft-ever-catch-salesforce",
-          "publishedOn": "2023-12-15T17:02:10.000Z",
-          "wordCount": 2967,
-          "title": "Can Microsoft Ever Catch Salesforce?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Can-Microsoft-Ever-Catch-Salesforce.jpg?fit=1200%2C814&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-power-automate-cloud-flows-designer-with-copilot",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-power-automate-cloud-flows-designer-with-copilot",
-          "publishedOn": "2023-12-15T15:00:00.000Z",
-          "wordCount": 3105,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use Power Automate Cloud Flows Designer with Copilot",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -76585,6 +76515,26 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19884",
+          "author": "André Arnaud de Calavon",
+          "description": "Welcome to the post of day 15. Another door got unlocked. In the post today. I will talk about when to start with the security implementation and some thoughts on keeping track of required licenses as part of the implementation and rollouts. Security implementation When an organization starts with the implementation of the application, the […]\nThe post Licensing Advent Calendar – Day 15 – Security implementation appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-15-security-implementation/",
+          "publishedOn": "2025-12-14T23:00:00.000Z",
+          "wordCount": 4479,
+          "title": "Licensing Advent Calendar – Day 15 – Security implementation",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-15.jpg"
+        },
+        {
+          "id": "https://dynamicspedia.com/?p=19881",
+          "author": "André Arnaud de Calavon",
+          "description": "Two weeks a post a day. It is incredible how much detail you can write about this topic. Today, I will talk about scenarios I have seen at clients over the past year and before. Security implementation The number of clients is almost equal to the number of different implementation scenarios I have seen. The […]\nThe post Licensing Advent Calendar – Day 14 – Custom security appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-14-custom-security/",
+          "publishedOn": "2025-12-13T23:00:00.000Z",
+          "wordCount": 4735,
+          "title": "Licensing Advent Calendar – Day 14 – Custom security",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-14.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19867",
           "author": "André Arnaud de Calavon",
@@ -78798,6 +78748,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4892",
+          "author": "Kurt Hatlevik",
+          "description": "SysObsolete is an X++ attribute used to mark classes, methods, fields, or enums as deprecated. It signals to developers that an element should no longer be used and may be removed or replaced in a future release. When applied, the compiler emits warnings (or errors, depending on severity) whenever the obsolete element is referenced, guiding … Continue reading D365 : SysObsolete and flighting",
+          "link": "https://kurthatlevik.com/2025/12/14/d365-sysobsolete-and-flighting/",
+          "publishedOn": "2025-12-14T17:34:23.000Z",
+          "wordCount": 4390,
+          "title": "D365 : SysObsolete and flighting",
+          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2025/12/image-3.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4874",
           "author": "Kurt Hatlevik",
