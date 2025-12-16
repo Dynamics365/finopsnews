@@ -2,10 +2,298 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-15T01:58:42.351Z</updated>
+    <updated>2025-12-16T01:55:29.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Copilot Studio for Fabric Data]]></title>
+        <id>https://365community.online/use-copilot-studio-for-fabric-data</id>
+        <link href="https://365community.online/use-copilot-studio-for-fabric-data"/>
+        <updated>2025-12-16T00:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Opening — The Real Bottleneck Isn’t Data, It’s Language Everyone swears their company is “data‑driven.” Then they open SQL Management Studio and freeze. The dashboard may as well start speaking Klingon. Every “business‑driven” initiative collapses the moment someone realizes the data is trapped behind the wall of semicolons and brackets. You’ve probably seen this: oceans […]
+The post Use Copilot Studio for Fabric Data appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 16 – Correct and Invoke permissions]]></title>
+        <id>https://dynamicspedia.com/?p=19889</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-16-correct-and-invoke-permissions/"/>
+        <updated>2025-12-15T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the past days, I wrote several times about the difference between Read and Write license access levels for the entitled and not entitled securable objects. In this post, I will elaborate on deprecated access levels still responsible for Write access: Correct and Invoke. Permissions On day 11 of the Licensing Advent Calendar, I wrote […]
+The post Licensing Advent Calendar – Day 16 – Correct and Invoke permissions appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Fabric Data Warehouse Is Still Just a CSV Graveyard]]></title>
+        <id>https://365community.online/why-your-fabric-data-warehouse-is-still-just-a-csv-graveyard</id>
+        <link href="https://365community.online/why-your-fabric-data-warehouse-is-still-just-a-csv-graveyard"/>
+        <updated>2025-12-15T21:09:37.000Z</updated>
+        <summary type="html"><![CDATA[WEBVTT 100:00:00.040 –> 00:00:02.520Your fabric data warehouse is just a CSV graveyard. I 200:00:02.560 –> 00:00:04.120know that stings, but look at how you’re using it. 300:00:04.480 –> 00:00:08.400Endless CSV dumps, cold tables, scheduled ETL jobs lumbering along 400:00:08.480 –> 00:00:11.480like it’s twenty fifteen. You bought Fabric to launch your 500:00:11.519 –> 00:00:13.759data into the age […]
+The post Why Your Fabric Data Warehouse Is Still Just a CSV Graveyard appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Routing Analysis in Business Central: Stop Guessing, Start Knowing]]></title>
+        <id>https://erpsoftwareblog.com/?p=138622</id>
+        <link href="https://erpsoftwareblog.com/2025/12/routing-analysis-in-business-central-stop-guessing-start-knowing-2/"/>
+        <updated>2025-12-15T19:50:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Pain of Bad Estimates It’s Monday morning, and the production schedule looks perfect — on paper. By noon, you’re already behind. That “two-hour” welding step is creeping into hour […]
+The post Routing Analysis in Business Central: Stop Guessing, Start Knowing appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative Pages on top of Recruitment add-on]]></title>
+        <id>https://365community.online/generative-pages-on-top-of-recruitment-add-on</id>
+        <link href="https://365community.online/generative-pages-on-top-of-recruitment-add-on"/>
+        <updated>2025-12-15T19:22:00.000Z</updated>
+        <summary type="html"><![CDATA[My friends Mats and Sara have been talking about Custom pages for a while, and they recently started delivering some cool sessions about Generative pages . Beyond the content they share I honestly had no idea how that worked so decided to give it a try with an existing model-driven app that Microsoft has been […]
+The post Generative Pages on top of Recruitment add-on appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Business Central with Dataverse: Your Go-To Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=138764</id>
+        <link href="https://erpsoftwareblog.com/2025/12/integrate-business-central-with-dataverse/"/>
+        <updated>2025-12-15T19:09:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You know that feeling when you merge onto the freeway during rush hour and suddenly wish you’d taken the alternate route your GPS suggested? The chaos—every lane backed up, drivers […]
+The post How to Integrate Business Central with Dataverse: Your Go-To Guide appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Matt Keyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 15 – SQL Server 2025 – T-SQL functions for AI External_Models, Chunks and Embeddings]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10885</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/15/advent-of-2025-day-15-sql-server-2025-t-sql-functions-for-ai-external_models-chunks-and-embeddings/"/>
+        <updated>2025-12-15T18:59:55.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: Besides embeddings, the new AI functionalities in T-SQL with new SQL Server 2025 are also creating external models, calculating embeddings and chunks. CREATING EXTERNAL MODELS It creates an external model object that is…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Power App Is A Lie]]></title>
+        <id>https://365community.online/your-power-app-is-a-lie</id>
+        <link href="https://365community.online/your-power-app-is-a-lie"/>
+        <updated>2025-12-15T17:41:31.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,600You see it too, your power app works, until it doesn’t. 200:00:02,600 –> 00:00:04,500No error, just silence. 300:00:04,500 –> 00:00:07,140Most power apps are fragile because you copy-paste formulas 400:00:07,140 –> 00:00:09,460built without environments and hide dependencies 500:00:09,460 –> 00:00:10,740where no one will ever find them. 600:00:10,740 –> 00:00:13,060They told you low-code means safe, […]
+The post Your Power App Is A Lie appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Best Microsoft Dynamics 365 Partners and Consultants in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=138709</id>
+        <link href="https://erpsoftwareblog.com/2025/12/best-dynamics-365-partners-and-consultants/"/>
+        <updated>2025-12-15T17:14:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Talking about the best Microsoft Dynamics Partner does not just mean they have a series of certifications or awards; it depends on many factors, including whether they deliver measurable business […]
+The post 15 Best Microsoft Dynamics 365 Partners and Consultants in 2026 appeared first on ERP Software Blog.
+Microsoft makes training options available for Dynamics GP easy and convenient.
+Choosing an ERP System - So Many Things to Think About!
+Take time to stop and smell the...software exibitors?]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Bank Reconciliation Issues: Subledger and Posting]]></title>
+        <id>https://erpsoftwareblog.com/?p=138347</id>
+        <link href="https://erpsoftwareblog.com/2025/12/business-central-bank-reconciliation-issues-subledger-and-posting/"/>
+        <updated>2025-12-15T16:39:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Bank reconciliation is the process of confirming that the cash balance in your company’s accounting records matches the balance shown on your bank statement. When something is off in Business […]
+The post Business Central Bank Reconciliation Issues: Subledger and Posting appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?
+Are repetitive customer service tasks impeding productivity?]]></summary>
+        <author>
+            <name>ArcherPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handling Empty SQL Query Results in Azure Logic Apps]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4193</id>
+        <link href="https://anithasantosh.wordpress.com/2025/12/15/handling-empty-sql-query-results-in-azure-logic-apps/"/>
+        <updated>2025-12-15T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[When working with Azure Logic Apps, integrating SQL queries is a common way to automate workflows and connect data-driven processes. However, simply running a query isn’t enough—you need to evaluate its output to ensure the workflow behaves correctly. Whether you’re … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handling Empty SQL Query Results in Azure Logic Apps]]></title>
+        <id>https://365community.online/handling-empty-sql-query-results-in-azure-logic-apps</id>
+        <link href="https://365community.online/handling-empty-sql-query-results-in-azure-logic-apps"/>
+        <updated>2025-12-15T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[When working with Azure Logic Apps, integrating SQL queries is a common way to automate workflows and connect data-driven processes. However, simply running a query isn’t enough—you need to evaluate its output to ensure the workflow behaves correctly. Whether you’re checking for empty results, validating data types, or handling exceptions, proper evaluation helps maintain reliability, […]
+The post Handling Empty SQL Query Results in Azure Logic Apps appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grow Your Website’s Audience with Our New Free Course]]></title>
+        <id>https://365community.online/grow-your-websites-audience-with-our-new-free-course</id>
+        <link href="https://365community.online/grow-your-websites-audience-with-our-new-free-course"/>
+        <updated>2025-12-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want more people to actually find and follow your website? Our new course — Grow Your Website’s Audience — is here to guide you through the strategies and tools that help you attract visitors, build trust, and turn casual readers into loyal followers.  It’s fully self-paced, so you can jump into any lesson at any […]
+The post Grow Your Website’s Audience with Our New Free Course appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy Over Scramble: A Nonprofit Food Bank’s Journey from Fragmented Systems to Real Time Impact]]></title>
+        <id>https://erpsoftwareblog.com/?p=138729</id>
+        <link href="https://erpsoftwareblog.com/2025/12/strategy-over-scramble-a-nonprofit-food-banks-journey-from-fragmented-systems-to-real-time-impact/"/>
+        <updated>2025-12-15T14:52:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Every day, thousands of families across Georgia rely on the Atlanta Community Food Bank for their next meal. The need is urgent and growing, and the organization’s ability to respond […]
+The post Strategy Over Scramble: A Nonprofit Food Bank’s Journey from Fragmented Systems to Real Time Impact appeared first on ERP Software Blog.
+Going Paperless Made Easy with Document Management Software!
+How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP
+Why Are Microsoft Dynamics GP Customers Moving Their Solution to the Cloud?]]></summary>
+        <author>
+            <name>JourneyTeam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Implementation Issues: When Nothing Is “Wrong” — But Nothing Feels Right]]></title>
+        <id>https://erpsoftwareblog.com/?p=138725</id>
+        <link href="https://erpsoftwareblog.com/2025/12/business-central-implementation-issues/"/>
+        <updated>2025-12-15T14:49:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Quick Answer Many Business Central implementation issues appear before or shortly after go-live—not because the software is wrong, but because the business processes weren’t fully examined. When ERP projects focus […]
+The post Business Central Implementation Issues: When Nothing Is “Wrong” — But Nothing Feels Right appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>Stephanie E. Clark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SharePoint List Mistake That Breaks Your Power App]]></title>
+        <id>https://365community.online/the-sharepoint-list-mistake-that-breaks-your-power-app</id>
+        <link href="https://365community.online/the-sharepoint-list-mistake-that-breaks-your-power-app"/>
+        <updated>2025-12-15T14:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Opening: The One Mistake That Dooms Most Power Apps Everyone loves a shortcut—especially when it’s already baked into your Microsoft 365 license. You’ve got a business problem, a SharePoint list full of data, and Power Apps sitting there teasing you with that beautiful button: Create an app. Click it, and thirty seconds later, voilà—an interactive […]
+The post The SharePoint List Mistake That Breaks Your Power App appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Delete_From In D365]]></title>
+        <id>https://365community.online/how-to-use-delete_from-in-d365</id>
+        <link href="https://365community.online/how-to-use-delete_from-in-d365"/>
+        <updated>2025-12-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, learn how to use delete_from in D365. The delete_from keyword in x++ is used to delete specified records from a table as efficiently as possible. This command is extremely fast because it generates a single SQL statement that is sent to the server once. In contrast, other times developers will write a… […]
+The post How To Use Delete_From In D365 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Delete_From In D365]]></title>
+        <id>https://dynamics365musings.com/?p=4462</id>
+        <link href="https://dynamics365musings.com/delete_from-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=delete_from-in-d365"/>
+        <updated>2025-12-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, learn how to use delete_from in D365. The delete_from keyword in x++ is used to delete specified records from a table as efficiently as possible. This command is extremely fast because it generates a single SQL statement that is sent to the server once. In contrast, other times developers will write a... Continue Reading →
+The post How To Use Delete_From In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize Spare Parts Inventory with Dynamics 365 for Manufacturing and CMMS+]]></title>
+        <id>https://erpsoftwareblog.com/?p=138699</id>
+        <link href="https://erpsoftwareblog.com/2025/12/optimize-spare-parts-inventory-with-dynamics-365-for-manufacturing-and-cmms/"/>
+        <updated>2025-12-15T13:28:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Key Takeaways Spare parts inventory is closely tied to how maintenance is planned and executed Reactive maintenance makes parts usage unpredictable and expensive Preventive maintenance creates more predictable demand and […]
+The post Optimize Spare Parts Inventory with Dynamics 365 for Manufacturing and CMMS+ appeared first on ERP Software Blog.
+Sycor.Rental for Equipment Rental Industries
+How Microsoft Dynamics 365 ERP and Sycor.Rental Helped a Rental Company Break Down Silos
+Top 10 Ways Microsoft D365 ERP Empowers Rental Leaders]]></summary>
+        <author>
+            <name>Ed Garibian, LLumin, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your ERP Project Needs a Dynamics Implementation Partner]]></title>
+        <id>https://erpsoftwareblog.com/?p=138717</id>
+        <link href="https://erpsoftwareblog.com/2025/12/why-your-erp-project-needs-a-dynamics-implementation-partner/"/>
+        <updated>2025-12-15T12:57:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP projects rarely fail because of the software itself. More often, they fail quietly—through small decisions that compound over time. A rushed configuration here. A misunderstood process there. Eventually, the […]
+The post Why Your ERP Project Needs a Dynamics Implementation Partner appeared first on ERP Software Blog.
+Hassle Free Upgrades with Dynamics GP Resellers!
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
+        <author>
+            <name>Beyond Key (Dynamics CRM Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Best eCommerce Inventory Management Software in 2026 to Pay Attention]]></title>
+        <id>https://erpsoftwareblog.com/?p=138715</id>
+        <link href="https://erpsoftwareblog.com/2025/12/best-ecommerce-inventory-management-software/"/>
+        <updated>2025-12-15T12:43:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When it comes to choosing the best eCommerce inventory management software in 2026, make sure you’re relying on the one that helps calculate margins, improve order fulfillment, and prediction accuracy, […]
+The post 12 Best eCommerce Inventory Management Software in 2026 to Pay Attention appeared first on ERP Software Blog.
+Improving Online E-Commerce through SEO
+More Distributors Looking Towards E-Commerce to Grow Business
+Cloud Integration Helps You Sell More, Save Money]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A week at Workplace Ninjas US 2025]]></title>
+        <id>https://365community.online/a-week-at-workplace-ninjas-us-2025</id>
+        <link href="https://365community.online/a-week-at-workplace-ninjas-us-2025"/>
+        <updated>2025-12-15T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week was the very first Workplace Ninjas US event in Dallas, TX, USA. I was invited to come and speak with my good friends Oktay, Joery and Maxime. More on that later. The trip started on Saturday, December 6 with the flight from Amsterdam to New York and then to Dallas. Eventually I was […]
+The post A week at Workplace Ninjas US 2025 appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Jeroen Burgerhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STOP Using Power BI Themes That Lie]]></title>
+        <id>https://365community.online/stop-using-power-bi-themes-that-lie-2</id>
+        <link href="https://365community.online/stop-using-power-bi-themes-that-lie-2"/>
+        <updated>2025-12-15T10:32:52.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,960Ah, your power BI theme isn’t a color palette, it’s the containment field. 200:00:03,960 –> 00:00:05,960If it leaks, your visuals lie. 300:00:05,960 –> 00:00:10,640Pure, undiluted power turned into a blur of false calm. 400:00:10,640 –> 00:00:16,180Most people think brand colors are harmless, but those hues can erase alerts, hide subtotals, 500:00:16,180 –> 00:00:17,460and […]
+The post STOP Using Power BI Themes That Lie appeared first on 365 Community Online.]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Power Apps Charts Are Broken (and How AI Fixes It)]]></title>
         <id>https://365community.online/why-power-apps-charts-are-broken-and-how-ai-fixes-it</id>
@@ -534,6 +822,21 @@ How Manufacturers Automate Preventive Maintenance with Business Central
 The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Document Management System Software for 2026 for Enterprises]]></title>
+        <id>https://erpsoftwareblog.com/?p=138634</id>
+        <link href="https://erpsoftwareblog.com/2025/12/top-10-document-management-system-software-for-enterprises/"/>
+        <updated>2025-12-11T18:35:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Quick Summary: Top document management systems for 2026 are MetaDoc, DocuWare, M-files, DropBox, E-FileCabinet, SharePoint, Box and more. Choosing the best document management system software in 2026 has become an […]
+The post Top 10 Document Management System Software for 2026 for Enterprises appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
         </author>
     </entry>
     <entry>
@@ -106664,77 +106967,6 @@ Read more ›]]></summary>
         <summary type="html"><![CDATA[I'm pleased to announce a new and improved website (for the second time this year)! Yes, it's a little embarrassing to admit that my earlier migration to Hugo & Azure […]]]></summary>
         <author>
             <name>Jen Kuntz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ep.15: Daryl LaBar on The DevConnect Show – YouTube]]></title>
-        <id>https://365community.online/ep-15-daryl-labar-on-the-devconnect-show-youtube</id>
-        <link href="https://365community.online/ep-15-daryl-labar-on-the-devconnect-show-youtube"/>
-        <updated>2023-12-16T20:41:32.000Z</updated>
-        <summary type="html"><![CDATA[In this video we chat with Daryl LaBar about his tool “Early Bound Generator v2”, his journey in Power Platform and how he came up with idea for this tool […]]]></summary>
-        <author>
-            <name>Danish Naglekar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack in Data Structure | Stack Implementation | Data Structures and Algorithms Tutorial – YouTube]]></title>
-        <id>https://365community.online/stack-in-data-structure-stack-implementation-data-structures-and-algorithms-tutorial-youtube</id>
-        <link href="https://365community.online/stack-in-data-structure-stack-implementation-data-structures-and-algorithms-tutorial-youtube"/>
-        <updated>2023-12-16T17:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Stack in Data Structure | Stack Implementation | Data Structures and Algorithms Tutorial In DSA, stacks are ordered collections with a Last In, First Out (LIFO) structure. They support efficient […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashTable/HashMap in Data Structures | Hash Table with Example – YouTube]]></title>
-        <id>https://365community.online/hashtable-hashmap-in-data-structures-hash-table-with-example-youtube</id>
-        <link href="https://365community.online/hashtable-hashmap-in-data-structures-hash-table-with-example-youtube"/>
-        <updated>2023-12-16T17:57:42.000Z</updated>
-        <summary type="html"><![CDATA[HashTable/HashMap in Data Structures | Hash Table with Example A Hash Table in DSA is a data structure that uses hash functions to map keys to indices, facilitating quick retrieval […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hashing in Data Structures | What is Hashing with Example – YouTube]]></title>
-        <id>https://365community.online/hashing-in-data-structures-what-is-hashing-with-example-youtube</id>
-        <link href="https://365community.online/hashing-in-data-structures-what-is-hashing-with-example-youtube"/>
-        <updated>2023-12-16T17:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Hashing in Data Structures | What is Hashing with Example Hashing is a technique in data structures that maps data to a fixed-size array using a hash function, enabling quick […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Data Structures? | Types of Data Structures Explained – YouTube]]></title>
-        <id>https://365community.online/what-are-data-structures-types-of-data-structures-explained-youtube</id>
-        <link href="https://365community.online/what-are-data-structures-types-of-data-structures-explained-youtube"/>
-        <updated>2023-12-16T17:57:15.000Z</updated>
-        <summary type="html"><![CDATA[What are Data Structures? | Types of Data Structures Explained Ever wondered how computers efficiently manage and organize vast amounts of information? Welcome to the world of Data Structures! What […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Search in Data Structures | Binary Search Algorithm with Example – YouTube]]></title>
-        <id>https://365community.online/binary-search-in-data-structures-binary-search-algorithm-with-example-youtube</id>
-        <link href="https://365community.online/binary-search-in-data-structures-binary-search-algorithm-with-example-youtube"/>
-        <updated>2023-12-16T17:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Binary Search in Data Structures | Binary Search Algorithm with Example In this comprehensive guide, we unravel the efficiency and elegance of the Binary Search algorithm, a fundamental method for […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent of 2023, Day 16 – Creating data pipelines for Fabric data warehouse]]></title>
-        <id>http://tomaztsql.wordpress.com/?p=9722</id>
-        <link href="https://tomaztsql.wordpress.com/2023/12/16/advent-of-2023-day-16-creating-data-pipelines-for-fabric-data-warehouse/"/>
-        <updated>2023-12-16T16:38:46.000Z</updated>
-        <summary type="html"><![CDATA[In this Microsoft Fabric series: With the Fabric warehouse created and explored, let’s see, how we can use pipelines to get the data into Fabric warehouse. In the existing data warehouse, we will introduce new data. By clicking “new data”, two…
-Read more ›]]></summary>
-        <author>
-            <name>tomaztsql</name>
         </author>
     </entry>
     <entry>
