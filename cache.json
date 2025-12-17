@@ -808,6 +808,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10902",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Part of new features in IQP (Intelligent query processing) is also OPPO – Optional parameter plan optimization – which refers to a specific variation of the parameter-sensitive plan (PSP) or Parameter Sensitive Plan…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/16/advent-of-2025-day-16-sql-server-2025-optional-parameter-plan-optimization-oppo/",
+          "publishedOn": "2025-12-16T18:54:21.000Z",
+          "wordCount": 6260,
+          "title": "Advent of 2025, Day 16 – SQL Server 2025 – Optional parameter plan optimization (OPPO)",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-52.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10885",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: Besides embeddings, the new AI functionalities in T-SQL with new SQL Server 2025 are also creating external models, calculating embeddings and chunks. CREATING EXTERNAL MODELS It creates an external model object that is…\nRead more ›",
@@ -1471,16 +1481,6 @@
           "wordCount": 4500,
           "title": "Advent of 2023, Day 18 – Exploring Power BI in Microsoft Fabric",
           "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-97.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9757",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: Within the Power BI in Fabric, you will find many of the components, that can be used to create a final report. And here are the components: Let’s create a report online within the workspace.…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/17/advent-of-2023-day-17-exploring-power-bi-in-microsoft-fabric/",
-          "publishedOn": "2023-12-17T18:23:10.000Z",
-          "wordCount": 4300,
-          "title": "Advent of 2023, Day 17 – Exploring Power BI in Microsoft Fabric",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-87.png"
         }
       ]
     },
@@ -1506,6 +1506,71 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=135778",
+          "author": "EFOQUS",
+          "description": "xxx\nIf you're planning a move to Microsoft Dynamics 365 Business Central, you're likely starting to evaluate what the migration process involves. One of the most important parts of any ERP […]\nThe post How to Overcome Data Migration Challenges in Business Central appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/how-to-overcome-data-migration-challenges-in-business-central/",
+          "publishedOn": "2025-12-17T00:48:28.000Z",
+          "wordCount": 7022,
+          "title": "How to Overcome Data Migration Challenges in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Data-Migration-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138629",
+          "author": "Insight Works",
+          "description": "xxx\nIn this most recent webinar “Improve and Simplify Shop Floor Time Tracking in Business Central”, Mark walks through what you need in your shop operations, how to capture labour, consumption, […]\nThe post Simplify Shop Floor Time Tracking in Business Central appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/12/simplify-shop-floor-time-tracking-in-business-central/",
+          "publishedOn": "2025-12-16T20:40:02.000Z",
+          "wordCount": 6934,
+          "title": "Simplify Shop Floor Time Tracking in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/SFI-Dec-2025-Video-Thumb.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138804",
+          "author": "ACE Micro, LLC",
+          "description": "xxx\nThe post Payroll, Compliance & the Move Beyond GP appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/12/payroll-compliance-the-move-beyond-gp/",
+          "publishedOn": "2025-12-16T19:30:45.000Z",
+          "wordCount": 6828,
+          "title": "Payroll, Compliance & the Move Beyond GP",
+          "enclosure": {
+            "url": "https://erpsoftwareblog.com/wp-content/uploads/Short-Term-Cut-Greenshades-ACE-Planning-Your-Move-Beyond-GP.mp4",
+            "length": "28774493",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137344",
+          "author": "Qixas Group",
+          "description": "xxx\nIn this article, we'll walk you through the steps on how to enable Power BI in Microsoft Dynamics 365. Power BI is a powerful business analytics service from Microsoft that […]\nThe post How to Enable Power BI in Microsoft Dynamics 365 appeared first on ERP Software Blog.\nASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey\nA Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge\nJoin JourneyTEAM's Tech Insider Update Webinar on 8/6",
+          "link": "https://erpsoftwareblog.com/2025/12/how-to-enable-power-bi-in-microsoft-dynamics-365/",
+          "publishedOn": "2025-12-16T15:00:54.000Z",
+          "wordCount": 7026,
+          "title": "How to Enable Power BI in Microsoft Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/YouTube-Thumbnails-4.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138783",
+          "author": "MetaOption LLC",
+          "description": "xxx\nWondering why ecommerce businesses need the best order management software in 2026?   The global ecommerce market is massively growing and generated $29-30 trillion in 2024, which is forecasted to hit […]\nThe post 10 Best Order Management Software and Systems in 2026 for Ecommerce Businesses appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/best-order-management-software-and-systems/",
+          "publishedOn": "2025-12-16T14:43:29.000Z",
+          "wordCount": 9112,
+          "title": "10 Best Order Management Software and Systems in 2026 for Ecommerce Businesses",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/shutterstock_2600352185-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138778",
+          "author": "Volt Technologies",
+          "description": "xxx\nMicrosoft Ignite 2025 brought a wave of innovation, reinforcing Microsoft’s vision for connected, AI-driven enterprise technology. From breakthroughs in AI automation to deeper integrations across cloud, productivity, and business applications, […]\nThe post Microsoft Ignite 2025: Key Announcements and What They Mean for Business Tech appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/microsoft-ignite-2025-key-announcements/",
+          "publishedOn": "2025-12-16T08:15:55.000Z",
+          "wordCount": 7132,
+          "title": "Microsoft Ignite 2025: Key Announcements and What They Mean for Business Tech",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Ignite.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=138622",
           "author": "Insight Works",
@@ -34900,26 +34965,6 @@
           "wordCount": 8379,
           "title": "7 Reasons You Need a Cloud ERP Solution",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Erp-Software-Blog-Post-3.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102486",
-          "author": "Netstock",
-          "description": "In How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 1, we discussed the importance of inventory reduction and how it can benefit your operation and your bottom …  How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 2 Read More »\nThe post How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 2 appeared first on ERP Software Blog.\nInfographie: Gestion de projets - Comblez le fossé entre vos finances et vos opérations\nPreview of the 2SEE Application coming to KEY2ACT’s MobileTech\nComment un nouveau système financier peut-il améliorer vos capacités de rapports? – Liste d’évaluation d’un nouveau système ERP #2",
-          "link": "https://erpsoftwareblog.com/2023/12/how-to-reduce-inventory-bloat-with-netstock-and-dynamics-365-part-2/",
-          "publishedOn": "2023-12-18T12:41:47.000Z",
-          "wordCount": 7874,
-          "title": "How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 2",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-How-to-Reduce-Inventory-Bloat-with-Netstock-and-Dynamics-365-Part-2_1200-x-628.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102614",
-          "author": "Dynamics Square USA",
-          "description": "Bank reconciliation is a critical process for every company that wants to maintain the accuracy and integrity of its financial records. However, without the correct software, this process can be …  Bank Reconciliation in Dynamics 365 Business Central Read More »\nThe post Bank Reconciliation in Dynamics 365 Business Central appeared first on ERP Software Blog.\nStreamline Purchase & Sales Orders with Free App for Business Central\nProduct Configurators for Microsoft Dynamics 365 Business Central\nDon't Miss These Microsoft Dynamics Year-End Prep Webinars",
-          "link": "https://erpsoftwareblog.com/2023/12/bank-reconciliation-in-dynamics-365-business-central/",
-          "publishedOn": "2023-12-18T10:02:02.000Z",
-          "wordCount": 8346,
-          "title": "Bank Reconciliation in Dynamics 365 Business Central",
-          "imageUrl": "https://learn.microsoft.com/en-us/training/modules/bank-reconciliation-dynamics-365-business-central/media/bank-account-reconciliation-ss.png"
         }
       ]
     },
@@ -36495,6 +36540,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online/",
       "articles": [
+        {
+          "id": "https://365community.online/the-secret-to-power-bi-project-success-3-non-negotiable-steps",
+          "author": "Mirko Peters",
+          "description": "Opening: The Cost of Power BI Project FailureLet’s discuss one of the great modern illusions of corporate analytics—what I like to call the “successful failure.” You’ve seen it before. A shiny Power BI rollout: dozens of dashboards, colorful charts everywhere, and executives proudly saying, “We’re a data‑driven organization now.” Then you ask a simple question—what […]\nThe post The Secret to Power BI Project Success: 3 Non-Negotiable Steps appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-secret-to-power-bi-project-success-3-non-negotiable-steps",
+          "publishedOn": "2025-12-16T22:16:16.000Z",
+          "wordCount": 3463,
+          "title": "The Secret to Power BI Project Success: 3 Non-Negotiable Steps",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/practical-use-of-power-pages-ai-summarization-api-more-youtube",
+          "author": "Victor Dantas",
+          "description": "In the video, I walk through how we’re using the Power Pages AI Summarization API inside our customer portal built on Pages365 Customer Service. Would you like me to break down how to implement AI powered search experiences using the AI Summarization API step by step in Power Pages? If you’d like to know more […]\nThe post Practical use of Power Pages AI Summarization API + more – YouTube appeared first on 365 Community Online.",
+          "link": "https://365community.online/practical-use-of-power-pages-ai-summarization-api-more-youtube",
+          "publishedOn": "2025-12-16T18:44:42.000Z",
+          "wordCount": 2106,
+          "title": "Practical use of Power Pages AI Summarization API + more – YouTube",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/its-the-sharepoint-graveyard-all-over-again",
+          "author": "Mirko Peters",
+          "description": "Stop building apps in Teams.You already feel it: Teams is becoming the new SharePoint graveyard — same chaos, better emojis. “Quick” Adaptive Card Extensions (ACEs) seem harmless, but they quietly create a compliance landfill while leaving your Viva dashboard full of orphaned cards. In this episode, you’ll learn: Why SPFx ACEs rot fast even when […]\nThe post It’s the SharePoint Graveyard All Over Again appeared first on 365 Community Online.",
+          "link": "https://365community.online/its-the-sharepoint-graveyard-all-over-again",
+          "publishedOn": "2025-12-16T18:42:31.000Z",
+          "wordCount": 2675,
+          "title": "It’s the SharePoint Graveyard All Over Again",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/your-fabric-data-model-is-lying-to-copilot",
+          "author": "Mirko Peters",
+          "description": "Opening: The AI That Hallucinates Because You Taught It ToCopilot isn’t confused. It’s obedient. That cheerful paragraph it just wrote about your company’s nonexistent “stellar Q4 surge”? That wasn’t a glitch—it’s gospel according to your own badly wired data.This is the “garbage in, confident out” effect—Microsoft Fabric’s polite way of saying, you trained your liar […]\nThe post Your Fabric Data Model Is Lying To Copilot appeared first on 365 Community Online.",
+          "link": "https://365community.online/your-fabric-data-model-is-lying-to-copilot",
+          "publishedOn": "2025-12-16T15:02:01.000Z",
+          "wordCount": 3451,
+          "title": "Your Fabric Data Model Is Lying To Copilot",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/convergence-2025-wrap-up-key-takeaways",
+          "author": "Alex Meyer",
+          "description": "Convergence 2025 is now in the books and it was awesome to have this conference back after over a decade hiatus. It’s always great to be able to connect with clients, peers, and friends and I was very impressed with the Microsoft presence at the event. With that I wanted to provide some quick technical […]\nThe post Convergence 2025 Wrap Up & Key Takeaways appeared first on 365 Community Online.",
+          "link": "https://365community.online/convergence-2025-wrap-up-key-takeaways",
+          "publishedOn": "2025-12-16T14:56:00.000Z",
+          "wordCount": 2756,
+          "title": "Convergence 2025 Wrap Up & Key Takeaways",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/Convergence-2025-Wrap-Up-amp-Key-Takeaways.jpg"
+        },
+        {
+          "id": "https://365community.online/locate-the-tables-for-database-log-d365fo",
+          "author": "Anitha Santosh",
+          "description": "In Microsoft Dynamics 365 Finance and Operations (D365FO), the Database Log is a powerful tool for tracking changes to critical data. It allows administrators to monitor insert, update, and delete operations on selected tables and fields—providing visibility into who changed what, when, and how. This capability is essential for compliance, auditing, and troubleshooting.I`ve posted the […]\nThe post Locate the Tables for Database log – D365FO appeared first on 365 Community Online.",
+          "link": "https://365community.online/locate-the-tables-for-database-log-d365fo",
+          "publishedOn": "2025-12-16T11:48:00.000Z",
+          "wordCount": 2447,
+          "title": "Locate the Tables for Database log – D365FO",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/Locate-the-Tables-for-Database-log-–-D365FO.png"
+        },
+        {
+          "id": "https://365community.online/ai-agents-are-the-new-shadow-it-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,000Shadow it didn’t die, it learned to automate. 200:00:02,000 –> 00:00:04,500Your helpful agents are quietly moving data 300:00:04,500 –> 00:00:06,200like interns with keys to the vault. 400:00:06,200 –> 00:00:08,920You think Pervue, Entra and Copilot Studio have you covered? 500:00:08,920 –> 00:00:11,240Sure, so is Wet Cardboard in the Rain. 600:00:11,240 –> 00:00:12,400I’m going to […]\nThe post AI Agents Are The New Shadow IT appeared first on 365 Community Online.",
+          "link": "https://365community.online/ai-agents-are-the-new-shadow-it-2",
+          "publishedOn": "2025-12-16T11:31:29.000Z",
+          "wordCount": 7969,
+          "title": "AI Agents Are The New Shadow IT",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/ai-agents-are-the-new-shadow-it",
+          "author": "Mirko Peters",
+          "description": "Shadow IT didn’t die — it automated.Your “helpful” agents are quietly moving data like interns with keys to the vault, while you assume Purview, Entra, and Copilot Studio have you covered. Spoiler: they don’t. In this episode, we expose how agents become Shadow IT 2.0, why delegated Graph permissions blow open your attack surface, and […]\nThe post AI Agents Are The New Shadow IT appeared first on 365 Community Online.",
+          "link": "https://365community.online/ai-agents-are-the-new-shadow-it",
+          "publishedOn": "2025-12-16T07:57:27.000Z",
+          "wordCount": 2580,
+          "title": "AI Agents Are The New Shadow IT",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
+        {
+          "id": "https://365community.online/the-hidden-order-of-operations",
+          "author": "Mirko Peters",
+          "description": "Opening: The Lie Your Power BI Query Tells YouYou think Power BI runs your query exactly as you wrote it. It doesn’t. It quietly reorders your steps like a bureaucrat with a clipboard—efficient, humorless, and entirely convinced it knows better than you. You ask it to filter first, then merge, then expand a column. Power […]\nThe post The Hidden Order of Operations appeared first on 365 Community Online.",
+          "link": "https://365community.online/the-hidden-order-of-operations",
+          "publishedOn": "2025-12-16T04:28:26.000Z",
+          "wordCount": 3531,
+          "title": "The Hidden Order of Operations",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/01/365CommOnl.png"
+        },
         {
           "id": "https://365community.online/use-copilot-studio-for-fabric-data",
           "author": "Mirko Peters",
@@ -75344,66 +75479,6 @@
           "wordCount": 3116,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Create Desktop Flows Using Natural Language with Copilot",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/happy-holiday-season-from-simplanova-team-youtube",
-          "author": "Ieva Kukeviciene",
-          "description": "Wishing you a Joyful Holiday Season from Simplanova! As the year comes to a close, we extend our heartfelt gratitude to dedicated partners, and amazing employees. Wishing you a joyous […]",
-          "link": "https://365community.online/happy-holiday-season-from-simplanova-team-youtube",
-          "publishedOn": "2023-12-18T12:35:27.000Z",
-          "wordCount": 2985,
-          "title": "Happy Holiday Season from Simplanova Team! – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702912927_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-pick-from-a-warehouse-pick-document-and-post-shipment-from-a-warehouse-shipment-document",
-          "author": "Ian Grieve",
-          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-pick-from-a-warehouse-pick-document-and-post-shipment-from-a-warehouse-shipment-document",
-          "publishedOn": "2023-12-18T11:00:33.000Z",
-          "wordCount": 3158,
-          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Post Pick From a Warehouse Pick Document and Post Shipment From a Warehouse Shipment Document",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702898055_In-Microsoft-Dynamics-365-Business-Central-Inventory-and-Warehouse-Management.png?fit=1078%2C582&ssl=1"
-        },
-        {
-          "id": "https://365community.online/design-canvas-app-using-the-figma-ui-kit",
-          "author": "Inogic",
-          "description": "In today’s digital age, user experience is of utmost importance, and design plays a crucial role in creating compelling and user-friendly applications. Figma has emerged as a powerful design tool […]",
-          "link": "https://365community.online/design-canvas-app-using-the-figma-ui-kit",
-          "publishedOn": "2023-12-18T09:55:46.000Z",
-          "wordCount": 3306,
-          "title": "Design Canvas App using the Figma UI kit",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Figma-UI-kit.jpeg?fit=1200%2C507&ssl=1"
-        },
-        {
-          "id": "https://365community.online/glasgow-azure-user-group-2023-wrap-up-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Glasgow Azure User Group 2023 Wrap Up A look back at the Glasgow Azure User Group in 2023! A look back at the Glasgow Azure User Group in 2023! source",
-          "link": "https://365community.online/glasgow-azure-user-group-2023-wrap-up-youtube",
-          "publishedOn": "2023-12-18T09:30:41.000Z",
-          "wordCount": 2935,
-          "title": "Glasgow Azure User Group 2023 Wrap Up – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702939913_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/elevating-housing-association-customer-service-a-comprehensive-guide-to-microsoft-powered-modernisation",
-          "author": "Chris Roberts",
-          "description": "Housing associations nationwide are looking for ways to modernise their customer service operations. Most are dealing with legacy systems, and there is a growing need for an upgrade. This blog […]",
-          "link": "https://365community.online/elevating-housing-association-customer-service-a-comprehensive-guide-to-microsoft-powered-modernisation",
-          "publishedOn": "2023-12-18T07:14:52.000Z",
-          "wordCount": 3053,
-          "title": "Elevating Housing Association Customer Service: A Comprehensive Guide to Microsoft-Powered Modernisation",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Elevating-Housing-Association-Customer-Service-A-Comprehensive-Guide-to-Microsoft-Powered.jpg?fit=1200%2C1200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-website-again",
-          "author": "Jen Kuntz",
-          "description": "I'm pleased to announce a new and improved website (for the second time this year)! Yes, it's a little embarrassing to admit that my earlier migration to Hugo & Azure […]",
-          "link": "https://365community.online/new-website-again",
-          "publishedOn": "2023-12-17T15:59:24.000Z",
-          "wordCount": 3039,
-          "title": "New website (again)!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
         }
       ]
     },
@@ -76642,16 +76717,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-14_picturelonewithtext.png"
-        },
-        {
-          "id": "http://dynamicsax-fico.com/?p=5470",
-          "author": "Ludwig Reinhard",
-          "description": "Visit the post for more.",
-          "link": "https://dynamicsax-fico.com/2023/12/18/onboarding-new-employees-with-minecraft-power-platform/",
-          "publishedOn": "2023-12-18T05:18:39.000Z",
-          "wordCount": 3121,
-          "title": "Onboarding new employees with Minecraft & Power Platform",
-          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/11/introen.jpg"
         }
       ]
     },
@@ -76660,6 +76725,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19898",
+          "author": "André Arnaud de Calavon",
+          "description": "We are getting closer to Christmas and the license enforcement. The first clients of Dynamics 365 have experienced the in-app warnings. In the post for day 17, I will explain a new selection option that got introduced by Microsoft, where you can choose what license SKU should remain after duplicating a security role or duty. […]\nThe post Licensing Advent Calendar – Day 17 – Licensing SKU on Duplicate Roles and Duties appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-17-licensing-sku-on-duplicate-roles-and-duties/",
+          "publishedOn": "2025-12-16T23:00:00.000Z",
+          "wordCount": 4841,
+          "title": "Licensing Advent Calendar – Day 17 – Licensing SKU on Duplicate Roles and Duties",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/11/Advent-calendar-01.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19889",
           "author": "André Arnaud de Calavon",
@@ -77267,6 +77342,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=3812",
+          "author": "Alex",
+          "description": "Convergence 2025 is now in the books and it was awesome to have this conference back after over a decade hiatus. It’s always great to be able to connect with clients, peers, and friends and I was very impressed with the Microsoft presence at the event. With that I wanted to provide some quick technical […]\nThe post Convergence 2025 Wrap Up & Key Takeaways appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2025/12/16/convergence-2025-wrap-up-key-takeaways/",
+          "publishedOn": "2025-12-16T14:56:09.000Z",
+          "wordCount": 4613,
+          "title": "Convergence 2025 Wrap Up & Key Takeaways",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2025/12/mvps-scaled.jpg"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=3785",
           "author": "Alex",
           "description": "Microsoft’s validation of Dynamics 365 for Finance & Supply Chain licenses is on it’s way. As many customers are in the process of ensuring they are compliant, Microsoft is adding new features to help with this process. One that I first noticed in the 10.0.45 (10.0.2345.117) is a new feature surrounding the duplication of security […]\nThe post New Security Duplication Feature in D365FSC appeared first on Alex Meyer.",
@@ -77837,6 +77922,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=4205",
+          "author": "AnithaEswaran",
+          "description": "In Microsoft Dynamics 365 Finance and Operations (D365FO), the Database Log is a powerful tool for tracking changes to critical data. It allows administrators to monitor insert, update, and delete operations on selected tables and fields—providing visibility into who changed … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2025/12/16/locate-the-tables-in-d365fos-long-list/",
+          "publishedOn": "2025-12-16T11:48:01.000Z",
+          "wordCount": 3657,
+          "title": "Locate the Tables for Database log – D365FO",
+          "imageUrl": "https://i0.wp.com/anithasantosh.wordpress.com/wp-content/uploads/2025/12/blog.png?fit=1200%2C639&ssl=1"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=4193",
           "author": "AnithaEswaran",
@@ -83673,6 +83768,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=33177",
+          "author": "Adria Ariste Santacreu",
+          "description": "Imagine this: your procurement team creates and confirms a purchase order (PO) in Dynamics 365 F&O (D365FO). As soon as it goes out, the clock starts: the supplier won’t reserve inventory until they’ve acknowledged the PO. Today that often means a PDF is emailed, printed, […]\nThe post From Print to Signed: Docentric and Docusign Flow in Action appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/from-print-to-signed-docentric-and-docusign-flow-in-action/",
+          "publishedOn": "2025-12-16T13:48:24.000Z",
+          "wordCount": 11979,
+          "title": "From Print to Signed: Docentric and Docusign Flow in Action",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2025/12/D365Blog_DocuSignIntegration_TitleImage-1.jpeg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=33059",
           "author": "Marjeta Dimnik",
           "description": "After receiving the Golden Gazelle award, Ana Gligorijević and Jure Leskovec, Docentric founders and co-CEOs, sat down with Dnevnik journalist Urška Rus. They spoke about Docentric’s journey, culture, values, and leadership. Among other things, Ana and Jure emphasized that the company’s success comes from a […]\nThe post Ana Gligorijević, Jure Leskovec: We Don’t Hire Toxic People (Dnevnik Interview) appeared first on Docentric AX.",
@@ -84818,26 +84923,6 @@
           "wordCount": 5563,
           "title": "Simplifying Dynamics 365 Finance and Operations for HR Users",
           "imageUrl": "http://paragchapre.com/wp-content/uploads/2024/01/HR-Core-product-name-change.png"
-        },
-        {
-          "id": "http://paragchapre.com/?p=12318",
-          "author": "paragchapre@gmail.com",
-          "description": "Introduction In the ever-evolving landscape of Human Resources management, it becomes imperative for organizations to leverage cutting-edge technologies that enhance efficiency and simplify complex processes. One such noteworthy feature in Dynamics 365 Human Resources is the ability to set a primary position for a new hire, a functionality designed to bring more clarity and structure […]\nThe post Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/setting-primary-positions-in-d365-human-resources/",
-          "publishedOn": "2023-12-18T05:30:42.000Z",
-          "wordCount": 2252,
-          "title": "Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/12/the-set-primary-position-.png"
-        },
-        {
-          "id": "http://paragchapre.com/?p=12318",
-          "author": "paragchapre@gmail.com",
-          "description": "Introduction In the ever-evolving landscape of Human Resources management, it becomes imperative for organizations to leverage cutting-edge technologies that enhance efficiency and simplify complex processes. One such noteworthy feature in Dynamics 365 Human Resources is the ability to set a primary position for a new hire, a functionality designed to bring more clarity and structure […]\nThe post Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/setting-primary-positions-in-d365-human-resources/?utm_source=rss&utm_medium=rss&utm_campaign=setting-primary-positions-in-d365-human-resources",
-          "publishedOn": "2023-12-18T05:30:42.000Z",
-          "wordCount": 5585,
-          "title": "Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources",
-          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/12/the-set-primary-position-.png"
         }
       ]
     },
@@ -85283,6 +85368,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133029",
+          "author": "Dami Alajogun",
+          "description": "Process Maps in Power Apps Plans are now generally available, bringing a new level of clarity and collaboration to solution design. This feature allows makers and stakeholders to visualize workflows directly within their plans, ensuring alignment before development begins. By turning complex processes into clear, interactive diagrams, teams can make smarter decisions, reduce risk, and accelerate delivery.\nThe post Process Maps as Part of Your Plan: Now Generally Available appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/process-maps-as-part-of-your-plan-now-generally-available/",
+          "publishedOn": "2025-12-12T14:00:00.000Z",
+          "wordCount": 5085,
+          "title": "Process Maps as Part of Your Plan: Now Generally Available",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2025/12/Designer.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=132821",
           "author": "Dami Alajogun",
