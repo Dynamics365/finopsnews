@@ -2,10 +2,207 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-17T01:51:15.703Z</updated>
+    <updated>2025-12-18T01:51:23.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot’s Data Blindness: The Custom Agent Fix]]></title>
+        <id>https://365community.online/copilots-data-blindness-the-custom-agent-fix-2</id>
+        <link href="https://365community.online/copilots-data-blindness-the-custom-agent-fix-2"/>
+        <updated>2025-12-18T00:09:54.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,680You think Copilot knows your business. 200:00:01,680 –> 00:00:02,600It doesn’t. It’s blind. 300:00:02,600 –> 00:00:04,600It sees SharePoint headlines a few emailed 400:00:04,600 –> 00:00:07,360stale teams chat, not the pipeline in Salesforce, 500:00:07,360 –> 00:00:08,640not the outage in ServiceNow, 600:00:08,640 –> 00:00:10,000not your proprietary API. 700:00:10,000 –> 00:00:11,120That’s the fracture. 800:00:11,120 –> 00:00:11,960Here’s the […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 18 – Microsoft motivation]]></title>
+        <id>https://dynamicspedia.com/?p=19913</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-18-microsoft-motivation/"/>
+        <updated>2025-12-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While providing a lot of content related to the Dynamics 365 user license enforcement, I didn’t elaborate on the motivation from Microsoft to go for enforcement on assigned licenses. Curious? Continue reading. License enforcement On March 28, 2025, Microsoft announced in a blog that it would start enforcing licenses soon. The blog is still available […]
+The post Licensing Advent Calendar – Day 18 – Microsoft motivation appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Production Flow with Smart Scheduling in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=138812</id>
+        <link href="https://erpsoftwareblog.com/2025/12/improve-production-flow-with-smart-scheduling-in-business-central/"/>
+        <updated>2025-12-17T21:07:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For years, production scheduling in Microsoft Dynamics 365 Business Central has largely depended on visual tools and user intuition. Schedulers drag orders around on a screen, attempting to balance competing […]
+The post Improve Production Flow with Smart Scheduling in Business Central appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot’s Data Blindness: The Custom Agent Fix]]></title>
+        <id>https://365community.online/copilots-data-blindness-the-custom-agent-fix</id>
+        <link href="https://365community.online/copilots-data-blindness-the-custom-agent-fix"/>
+        <updated>2025-12-17T20:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 Copilot doesn’t know your business—it only knows the tiny slice of your work graph it can see. Outlook threads. Teams chats. SharePoint files. That’s it.No Salesforce. No ServiceNow. No proprietary APIs. No pipeline. No incidents. No truth. In this episode, you’ll learn why Copilot is blind by default—and how to give it sight […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 17 – SQL Server 2025 – Query hint ABORT_QUERY_EXECUTION]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10936</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/17/advent-of-2025-day-17-sql-server-2025-query-hint-abort_query_execution/"/>
+        <updated>2025-12-17T18:57:19.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: New query hint, ABORT_QUERY_EXECUTION is intended to be used as a Query Store hint to letadministrators block future execution of known problematic queries, for example non-essential queries causing high resource consumption and affecting…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 SCM Masters Labeling Complexity and Compliance]]></title>
+        <id>https://erpsoftwareblog.com/?p=138678</id>
+        <link href="https://erpsoftwareblog.com/2025/12/dynamics-365-scm-masters-labeling-complexity-and-compliance/"/>
+        <updated>2025-12-17T18:29:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ Labeling complexity and compliance pose a challenge for distributors. What was once straightforward (printing a label, sticking it on a box and shipping it out) is now rarely that simple. […]
+The post Dynamics 365 SCM Masters Labeling Complexity and Compliance appeared first on ERP Software Blog.
+Validation in Life Sciences with Dynamics ERP F&SCM
+Solver at Community Summit North America 2025: Unleashing the x Factor
+Mastering Model Creation in Dynamics 365 F&O – A Developer’s Toolkit]]></summary>
+        <author>
+            <name>enVista</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buying a Third-Party App for Dynamics 365 Business Central: Partner vs. Direct]]></title>
+        <id>https://erpsoftwareblog.com/?p=138858</id>
+        <link href="https://erpsoftwareblog.com/2025/12/buying-an-app-for-business-central/"/>
+        <updated>2025-12-17T17:29:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics 365 Business Central users frequently ask us what the difference is between buying direct from an ISV like iSolutions or through a Microsoft partner. While that can vary by […]
+The post Buying a Third-Party App for Dynamics 365 Business Central: Partner vs. Direct appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Canadian Payroll for Dynamics NAV and 365 Business Central]]></summary>
+        <author>
+            <name>Sabrina Zimara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s the SharePoint Graveyard All Over Again]]></title>
+        <id>https://365community.online/its-the-sharepoint-graveyard-all-over-again-2</id>
+        <link href="https://365community.online/its-the-sharepoint-graveyard-all-over-again-2"/>
+        <updated>2025-12-17T16:44:54.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,680Stop building apps in Teams. 200:00:01,680 –> 00:00:03,540You know it, I know it. 300:00:03,540 –> 00:00:06,000Teams is becoming the SharePoint graveyard 400:00:06,000 –> 00:00:09,560with better emojis, custom ACs feel quick 500:00:09,560 –> 00:00:12,440while quietly building a compliance landfill. 600:00:12,440 –> 00:00:15,760Today I’ll show you why SPFX Adaptive Card extensions 700:00:15,760 –> 00:00:18,560rot fast […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Multiple Client Sites with WordPress Studio]]></title>
+        <id>https://365community.online/how-to-manage-multiple-client-sites-with-wordpress-studio</id>
+        <link href="https://365community.online/how-to-manage-multiple-client-sites-with-wordpress-studio"/>
+        <updated>2025-12-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Managing multiple client sites often means juggling local setups, updates, and changes across different environments. It works — until the workflow starts getting in your way. Small issues, like inconsistent configurations, overwritten files, and repetitive setup tasks, can all add up and slow you down.  WordPress Studio simplifies all of that.  The free, open-source tool […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find the right tool in XrmToolBox]]></title>
+        <id>https://365community.online/find-the-right-tool-in-xrmtoolbox</id>
+        <link href="https://365community.online/find-the-right-tool-in-xrmtoolbox"/>
+        <updated>2025-12-17T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[A modern site to browse and discover community tools for the Power Platform and Dynamics 365: XrmToolBox Plugin Catalog. Continue reading Find the right tool in XrmToolBox at Jukka Niiranen blog. Original Post https://jukkaniiranen.com/2025/12/find-the-right-tool-in-xrmtoolbox/]]></summary>
+        <author>
+            <name>Jukka Niiranen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Integration Services: Benefits, Use Cases & Implementation for US Businesses]]></title>
+        <id>https://erpsoftwareblog.com/?p=138841</id>
+        <link href="https://erpsoftwareblog.com/2025/12/business-central-integration-services-benefits-use-cases-implementation/"/>
+        <updated>2025-12-17T13:42:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central integration services help US businesses connect Microsoft Dynamics 365 Business Central with CRM systems, eCommerce platforms, payment gateways, analytics tools, and third-party SaaS applications. These integrations use APIs, […]
+The post Business Central Integration Services: Benefits, Use Cases & Implementation for US Businesses appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Cannot Fix Your SharePoint Sprawl]]></title>
+        <id>https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl-2</id>
+        <link href="https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl-2"/>
+        <updated>2025-12-17T12:58:48.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:05,520Administrator, do you hear that? Your internet is too quiet, but the quiet is busy. It crawls. 200:00:05,520 –> 00:00:12,880You think co-pilot will fix it. It won’t. It reads the house as it is. Not as you wish it to be. 300:00:12,880 –> 00:00:18,320In a minute, I’ll show you why AI echoes your […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP vs Cloud ERP: What Business Owners Prefer in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=138844</id>
+        <link href="https://erpsoftwareblog.com/2025/12/erp-vs-cloud-erp-what-business-owners-prefer-in-2026/"/>
+        <updated>2025-12-17T10:03:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+By 2026, most business owners are no longer asking whether they need an ERP system. That debate ended years ago. The real conversation has shifted to something more practical—and, at […]
+The post ERP vs Cloud ERP: What Business Owners Prefer in 2026 appeared first on ERP Software Blog.
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective
+Beyond The Brochure – What Really Matters To Dynamics Users?]]></summary>
+        <author>
+            <name>Beyond Key (Dynamics CRM Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Copilot Studio and what is it used for?]]></title>
+        <id>https://365community.online/what-is-copilot-studio-and-what-is-it-used-for</id>
+        <link href="https://365community.online/what-is-copilot-studio-and-what-is-it-used-for"/>
+        <updated>2025-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog is part of the series: What is <this tech> and what is it used for? Copilot answer Copilot Studio is Microsoft’s graphical low-code platform for building, training, and managing custom AI agents that combine language models, knowledge sources, connectors, and automation. Teams use it to create conversational copilots that answer questions, automate workflows, […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Power Apps Project Is Too Expensive]]></title>
+        <id>https://365community.online/why-your-power-apps-project-is-too-expensive</id>
+        <link href="https://365community.online/why-your-power-apps-project-is-too-expensive"/>
+        <updated>2025-12-17T09:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Opening: The Cost Ambush You thought Dataverse was included, didn’t you? You installed Power Apps, connected your SharePoint list, and then—surprise!—a message popped up asking for premium licensing. Congratulations. You’ve just discovered the subtle art of Microsoft’s “not technically a hidden fee.” Your Power Apps project, born innocent as a digital form replacement, is suddenly […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Cannot Fix Your SharePoint Sprawl]]></title>
+        <id>https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl</id>
+        <link href="https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl"/>
+        <updated>2025-12-17T05:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Your intranet’s silence is not peace—it’s warning.In this episode, we uncover why AI tools like Microsoft 365 Copilot, search, and enterprise agents don’t read your intentions… they read your residue: broken permissions, ROT data, orphaned Teams, shadow sites, and a sprawl that’s been quietly expanding for years. You’ll learn the five governance binds—Information Architecture, Lifecycle, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Migration You Can’t Skip]]></title>
+        <id>https://365community.online/the-migration-you-cant-skip</id>
+        <link href="https://365community.online/the-migration-you-cant-skip"/>
+        <updated>2025-12-17T01:59:07.000Z</updated>
+        <summary type="html"><![CDATA[WEBVTT 100:00:00.080 –> 00:00:02.799You thought your power bimps were safe. They aren’t. Those 200:00:02.799 –> 00:00:05.679colorful dashboards full of Bing Maps visuals they’re on borrowed time. 300:00:05.799 –> 00:00:09.519Microsoft isn’t issuing a warning, it’s delivering an eviction notice. 400:00:09.919 –> 00:00:13.039Map visuals not supported isn’t a glitch. It’s the corporate 500:00:13.039 –> 00:00:16.079equivalent of a […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Overcome Data Migration Challenges in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=135778</id>
@@ -106917,178 +107114,6 @@ Avoid Unintentional Consequences at All Costs
 Full Service Management for Construction Equipment Dealers: DynaRent for Microsoft Dynamics]]></summary>
         <author>
             <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Modify Desktop Flows Using Natural Language with Copilot]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot"/>
-        <updated>2023-12-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissecting the Warehouse Management app layout]]></title>
-        <id>https://erconsult.eu/?p=8000</id>
-        <link href="https://erconsult.eu/blog/dissecting-the-warehouse-management-app-layout/"/>
-        <updated>2023-12-19T10:02:20.000Z</updated>
-        <summary type="html"><![CDATA[The Dynamics 365 Warehouse Management app utilizes a container-based system for control layout, incorporating heuristics and customizable rules. Controls without default values prompt user input in the Primary Input Area, creating a seamless experience. Strategic management of controls and rule customization ensures efficient workflow and user-friendly interaction within the app.
-The post Dissecting the Warehouse Management app layout appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calculation Groups in Power BI]]></title>
-        <id>https://365community.online/calculation-groups-in-power-bi</id>
-        <link href="https://365community.online/calculation-groups-in-power-bi"/>
-        <updated>2023-12-19T09:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Power BI, Microsoft’s Data Analytical tool works with data and provides an enhanced view of data to take further actions for customer business improvement. Microsoft has provided lots of features […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lookup Fields With Default Option in Realtime Marketing Forms]]></title>
-        <id>https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms</id>
-        <link href="https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms"/>
-        <updated>2023-12-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are number of different types of fields that can be added to a marketing form in Customer Insights – Journeys (D365 Marketing). Most commonly used are text fields such […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maker uses Power Platform to help his daughter manage diabetes]]></title>
-        <id>maker-uses-power-platform-to-help-his-daughter-manage-diabetes</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platform-to-help-his-daughter-manage-diabetes/"/>
-        <updated>2023-12-19T07:53:25.000Z</updated>
-        <summary type="html"><![CDATA[An application built using Power Apps and Power Automate helps log and calculate data for managing diabetes.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Santa’s “Ho Ho Ho” message to welcome  good 😀 Makers (Managed Environments)]]></title>
-        <id>https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments</id>
-        <link href="https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments"/>
-        <updated>2023-12-18T23:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Extending a warm welcome to the Makers starting on the environment is a wonderful idea, especially as Christmas is approaching. We won’t miss the opportunity to send them some heartfelt […]]]></summary>
-        <author>
-            <name>Olena Grischenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating Supply Chain Resilience]]></title>
-        <id>https://erpsoftwareblog.com/?p=102634</id>
-        <link href="https://erpsoftwareblog.com/2023/12/evaluating-supply-chain-resilience/"/>
-        <updated>2023-12-18T21:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Supply chain resilience (SCR) is the ability of a supply chain to withstand and recover from various disruptions, such as natural disasters, pandemics, trade wars, cyberattacks, and economic instability. SCR …  Evaluating Supply Chain Resilience Read More »
-The post Evaluating Supply Chain Resilience appeared first on ERP Software Blog.
-A Proactive Approach To Stock Outs
-7 Common Problems to Avoid in Demand Forecasting
-6 Strategies to Cut Costs Across Your Supply Chain]]></summary>
-        <author>
-            <name>StockIQ Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners]]></title>
-        <id>https://erpsoftwareblog.com/?p=102631</id>
-        <link href="https://erpsoftwareblog.com/2023/12/red-flags-or-green-lights-questions-to-ask-when-evaluating-microsoft-dynamics-partners/"/>
-        <updated>2023-12-18T20:54:27.000Z</updated>
-        <summary type="html"><![CDATA[This blog post delves into the crucial topic of evaluating Microsoft Dynamics partners. This discussion was part of our Dynamics Virtual Launchpad, a virtual conference held in November 2023. If …  Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners Read More »
-The post Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners appeared first on ERP Software Blog.
-5 Reasons Why Outsourcing Your ERP Needs is the Best Choice
-3 Sure Steps to a Smooth Microsoft Dynamics Implementation
-How Dynamics 365 Business Central meet the Manufacturer’s expectations?]]></summary>
-        <author>
-            <name>Andrew King, WebSan Solutions, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to – Change the base URL of a website (Power Pages)]]></title>
-        <id>https://365community.online/how-to-change-the-base-url-of-a-website-power-pages</id>
-        <link href="https://365community.online/how-to-change-the-base-url-of-a-website-power-pages"/>
-        <updated>2023-12-18T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To change the base URL of a website, navigate to Power Platform Admin Center >> Resources >> Power Pages sites, select the site, and click on Manage. https://admin.powerplatform.microsoft.com/resources/portals Select the […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent of 2023, Day 18 – Exploring Power BI in Microsoft Fabric]]></title>
-        <id>http://tomaztsql.wordpress.com/?p=9774</id>
-        <link href="https://tomaztsql.wordpress.com/2023/12/18/advent-of-2023-day-18-exploring-power-bi-in-microsoft-fabric/"/>
-        <updated>2023-12-18T18:56:09.000Z</updated>
-        <summary type="html"><![CDATA[In this Microsoft Fabric series: We have created a Power BI report directly from the datalake and today we will check how to do same with dashboard and paginated reports. Select new “Paginated report”. Select a data we want to…
-Read more ›]]></summary>
-        <author>
-            <name>tomaztsql</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experience the power of Copilot in Dynamics 365 Field Service in the mobile application]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/"/>
-        <updated>2023-12-18T18:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Field Service mobile is a powerful application that helps frontline workers manage their tasks, access information, and communicate updates with the back office. 
-The post Experience the power of Copilot in Dynamics 365 Field Service in the mobile application appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jonathan Baker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth]]></title>
-        <id>https://erpsoftwareblog.com/?p=102590</id>
-        <link href="https://erpsoftwareblog.com/2023/12/automating-cash-application-in-dynamics-365-business-central-streamlining-your-back-office-for-efficiency-and-growth/"/>
-        <updated>2023-12-18T18:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Cash flow management is critical to the success and sustainability of any business. Accurate and timely payment posting is an essential aspect of this process and a challenge for businesses …  Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth Read More »
-The post Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth appeared first on ERP Software Blog.
-Recorded webinar: Enhance your production schedule in BC with Gantt charts
-Protect Your Business from Data Loss with Microsoft’s Data Loss Prevention Software
-Importance of Quality Management System in Pharmaceutical Industry: QMS]]></summary>
-        <author>
-            <name>Unified A/R</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are On-Premise Customers Moving to the Cloud? (Video)]]></title>
-        <id>https://www.encorebusiness.com/?p=60744</id>
-        <link href="https://www.encorebusiness.com/blog/why-are-on-premise-customers-moving-to-the-cloud/"/>
-        <updated>2023-12-18T15:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Why Are On-Premise Customers Moving to the Cloud? (Video)
-Many on-premise Dynamics GP, NAV, and AX customers are moving to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations. Every company’s situation and needs are different, therefore there are different factors to consider when moving to the cloud. During this recorded webinar, we discuss the core reasons clients are...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Jim Slinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Create Desktop Flows Using Natural Language with Copilot]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-create-desktop-flows-using-natural-language-with-copilot</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-create-desktop-flows-using-natural-language-with-copilot"/>
-        <updated>2023-12-18T15:00:48.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Reasons You Need a Cloud ERP Solution]]></title>
-        <id>https://erpsoftwareblog.com/?p=102600</id>
-        <link href="https://erpsoftwareblog.com/2023/12/7-reasons-you-need-a-cloud-erp-solution/"/>
-        <updated>2023-12-18T15:00:34.000Z</updated>
-        <summary type="html"><![CDATA[In an era where agility and efficiency drive business success, the significance of adopting cloud ERP solutions cannot be overstated. Cloud ERP is reshaping the way organizations like yours manage …  7 Reasons You Need a Cloud ERP Solution Read More »
-The post 7 Reasons You Need a Cloud ERP Solution appeared first on ERP Software Blog.
-How Microsoft Dynamics 365 Business Central Can Help You Keep Pace
-How an Industry-Specific Solution Can Change Your Life
-How Cloud ERP Benefits Your Manufacturing Business]]></summary>
-        <author>
-            <name>Kwixand Solutions Inc.</name>
         </author>
     </entry>
     <entry>

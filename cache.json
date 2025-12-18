@@ -808,6 +808,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10936",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: New query hint, ABORT_QUERY_EXECUTION is intended to be used as a Query Store hint to letadministrators block future execution of known problematic queries, for example non-essential queries causing high resource consumption and affecting…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/17/advent-of-2025-day-17-sql-server-2025-query-hint-abort_query_execution/",
+          "publishedOn": "2025-12-17T18:57:19.000Z",
+          "wordCount": 5752,
+          "title": "Advent of 2025, Day 17 – SQL Server 2025 – Query hint ABORT_QUERY_EXECUTION",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-56.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10902",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: Part of new features in IQP (Intelligent query processing) is also OPPO – Optional parameter plan optimization – which refers to a specific variation of the parameter-sensitive plan (PSP) or Parameter Sensitive Plan…\nRead more ›",
@@ -1471,16 +1481,6 @@
           "wordCount": 4130,
           "title": "Advent of 2023, Day 19 – Event streaming with Fabric",
           "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-101.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9774",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: We have created a Power BI report directly from the datalake and today we will check how to do same with dashboard and paginated reports. Select new “Paginated report”. Select a data we want to…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/18/advent-of-2023-day-18-exploring-power-bi-in-microsoft-fabric/",
-          "publishedOn": "2023-12-18T18:56:09.000Z",
-          "wordCount": 4500,
-          "title": "Advent of 2023, Day 18 – Exploring Power BI in Microsoft Fabric",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-97.png"
         }
       ]
     },
@@ -1506,6 +1506,56 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=138812",
+          "author": "Insight Works",
+          "description": "xxx\nFor years, production scheduling in Microsoft Dynamics 365 Business Central has largely depended on visual tools and user intuition. Schedulers drag orders around on a screen, attempting to balance competing […]\nThe post Improve Production Flow with Smart Scheduling in Business Central appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/12/improve-production-flow-with-smart-scheduling-in-business-central/",
+          "publishedOn": "2025-12-17T21:07:19.000Z",
+          "wordCount": 7472,
+          "title": "Improve Production Flow with Smart Scheduling in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Mxaps-Dec-17-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138678",
+          "author": "enVista",
+          "description": "xxx\n Labeling complexity and compliance pose a challenge for distributors. What was once straightforward (printing a label, sticking it on a box and shipping it out) is now rarely that simple. […]\nThe post Dynamics 365 SCM Masters Labeling Complexity and Compliance appeared first on ERP Software Blog.\nValidation in Life Sciences with Dynamics ERP F&SCM\nSolver at Community Summit North America 2025: Unleashing the x Factor\nMastering Model Creation in Dynamics 365 F&O – A Developer’s Toolkit",
+          "link": "https://erpsoftwareblog.com/2025/12/dynamics-365-scm-masters-labeling-complexity-and-compliance/",
+          "publishedOn": "2025-12-17T18:29:00.000Z",
+          "wordCount": 7420,
+          "title": "Dynamics 365 SCM Masters Labeling Complexity and Compliance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138858",
+          "author": "Sabrina Zimara",
+          "description": "xxx\nDynamics 365 Business Central users frequently ask us what the difference is between buying direct from an ISV like iSolutions or through a Microsoft partner. While that can vary by […]\nThe post Buying a Third-Party App for Dynamics 365 Business Central: Partner vs. Direct appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nCanadian Payroll for Dynamics NAV and 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/12/buying-an-app-for-business-central/",
+          "publishedOn": "2025-12-17T17:29:45.000Z",
+          "wordCount": 7260,
+          "title": "Buying a Third-Party App for Dynamics 365 Business Central: Partner vs. Direct",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/do-i-buy-through-an-isv-or-directly-through-my-microsoft-partner.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138841",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nBusiness Central integration services help US businesses connect Microsoft Dynamics 365 Business Central with CRM systems, eCommerce platforms, payment gateways, analytics tools, and third-party SaaS applications. These integrations use APIs, […]\nThe post Business Central Integration Services: Benefits, Use Cases & Implementation for US Businesses appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/business-central-integration-services-benefits-use-cases-implementation/",
+          "publishedOn": "2025-12-17T13:42:01.000Z",
+          "wordCount": 7635,
+          "title": "Business Central Integration Services: Benefits, Use Cases & Implementation for US Businesses",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/business-central-integration-services.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138844",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nBy 2026, most business owners are no longer asking whether they need an ERP system. That debate ended years ago. The real conversation has shifted to something more practical—and, at […]\nThe post ERP vs Cloud ERP: What Business Owners Prefer in 2026 appeared first on ERP Software Blog.\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?\nWeb Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective\nBeyond The Brochure – What Really Matters To Dynamics Users?",
+          "link": "https://erpsoftwareblog.com/2025/12/erp-vs-cloud-erp-what-business-owners-prefer-in-2026/",
+          "publishedOn": "2025-12-17T10:03:33.000Z",
+          "wordCount": 7630,
+          "title": "ERP vs Cloud ERP: What Business Owners Prefer in 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=135778",
           "author": "EFOQUS",
@@ -34925,46 +34975,6 @@
           "wordCount": 7362,
           "title": "Automate Sales Order Processing using ERP Integration",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-32-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102634",
-          "author": "StockIQ Technologies",
-          "description": "Supply chain resilience (SCR) is the ability of a supply chain to withstand and recover from various disruptions, such as natural disasters, pandemics, trade wars, cyberattacks, and economic instability. SCR …  Evaluating Supply Chain Resilience Read More »\nThe post Evaluating Supply Chain Resilience appeared first on ERP Software Blog.\nA Proactive Approach To Stock Outs\n7 Common Problems to Avoid in Demand Forecasting\n6 Strategies to Cut Costs Across Your Supply Chain",
-          "link": "https://erpsoftwareblog.com/2023/12/evaluating-supply-chain-resilience/",
-          "publishedOn": "2023-12-18T21:53:26.000Z",
-          "wordCount": 7750,
-          "title": "Evaluating Supply Chain Resilience",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102631",
-          "author": "Andrew King, WebSan Solutions, Inc.",
-          "description": "This blog post delves into the crucial topic of evaluating Microsoft Dynamics partners. This discussion was part of our Dynamics Virtual Launchpad, a virtual conference held in November 2023. If …  Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners Read More »\nThe post Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners appeared first on ERP Software Blog.\n5 Reasons Why Outsourcing Your ERP Needs is the Best Choice\n3 Sure Steps to a Smooth Microsoft Dynamics Implementation\nHow Dynamics 365 Business Central meet the Manufacturer’s expectations?",
-          "link": "https://erpsoftwareblog.com/2023/12/red-flags-or-green-lights-questions-to-ask-when-evaluating-microsoft-dynamics-partners/",
-          "publishedOn": "2023-12-18T20:54:27.000Z",
-          "wordCount": 7561,
-          "title": "Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102590",
-          "author": "Unified A/R",
-          "description": "Cash flow management is critical to the success and sustainability of any business. Accurate and timely payment posting is an essential aspect of this process and a challenge for businesses …  Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth Read More »\nThe post Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth appeared first on ERP Software Blog.\nRecorded webinar: Enhance your production schedule in BC with Gantt charts\nProtect Your Business from Data Loss with Microsoft’s Data Loss Prevention Software\nImportance of Quality Management System in Pharmaceutical Industry: QMS",
-          "link": "https://erpsoftwareblog.com/2023/12/automating-cash-application-in-dynamics-365-business-central-streamlining-your-back-office-for-efficiency-and-growth/",
-          "publishedOn": "2023-12-18T18:12:09.000Z",
-          "wordCount": 7578,
-          "title": "Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102600",
-          "author": "Kwixand Solutions Inc.",
-          "description": "In an era where agility and efficiency drive business success, the significance of adopting cloud ERP solutions cannot be overstated. Cloud ERP is reshaping the way organizations like yours manage …  7 Reasons You Need a Cloud ERP Solution Read More »\nThe post 7 Reasons You Need a Cloud ERP Solution appeared first on ERP Software Blog.\nHow Microsoft Dynamics 365 Business Central Can Help You Keep Pace\nHow an Industry-Specific Solution Can Change Your Life\nHow Cloud ERP Benefits Your Manufacturing Business",
-          "link": "https://erpsoftwareblog.com/2023/12/7-reasons-you-need-a-cloud-erp-solution/",
-          "publishedOn": "2023-12-18T15:00:34.000Z",
-          "wordCount": 8379,
-          "title": "7 Reasons You Need a Cloud ERP Solution",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Erp-Software-Blog-Post-3.png"
         }
       ]
     },
@@ -36522,24 +36532,114 @@
           "wordCount": 1752,
           "title": "Going from a Paper-Based to a Digital Warehouse: Top 5 Benefits",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/12/Tasklet-img.jpg"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=60744",
-          "author": "Jim Slinn",
-          "description": "Why Are On-Premise Customers Moving to the Cloud? (Video)\nMany on-premise Dynamics GP, NAV, and AX customers are moving to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations. Every company’s situation and needs are different, therefore there are different factors to consider when moving to the cloud. During this recorded webinar, we discuss the core reasons clients are...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/why-are-on-premise-customers-moving-to-the-cloud/",
-          "publishedOn": "2023-12-18T15:33:32.000Z",
-          "wordCount": 5470,
-          "title": "Why Are On-Premise Customers Moving to the Cloud? (Video)",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/12/Why-On-Premise-Customers-Moving-Cloud-img.jpg"
         }
       ]
     },
     {
       "title": "365 Community Online",
       "feedUrl": "https://365community.online/feed",
-      "siteUrl": "https://365community.online/",
+      "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/copilots-data-blindness-the-custom-agent-fix-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,680You think Copilot knows your business. 200:00:01,680 –> 00:00:02,600It doesn’t. It’s blind. 300:00:02,600 –> 00:00:04,600It sees SharePoint headlines a few emailed 400:00:04,600 –> 00:00:07,360stale teams chat, not the pipeline in Salesforce, 500:00:07,360 –> 00:00:08,640not the outage in ServiceNow, 600:00:08,640 –> 00:00:10,000not your proprietary API. 700:00:10,000 –> 00:00:11,120That’s the fracture. 800:00:11,120 –> 00:00:11,960Here’s the […]",
+          "link": "https://365community.online/copilots-data-blindness-the-custom-agent-fix-2",
+          "publishedOn": "2025-12-18T00:09:54.000Z",
+          "wordCount": 7941,
+          "title": "Copilot’s Data Blindness: The Custom Agent Fix",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766016595_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilots-data-blindness-the-custom-agent-fix",
+          "author": "Mirko Peters",
+          "description": "Microsoft 365 Copilot doesn’t know your business—it only knows the tiny slice of your work graph it can see. Outlook threads. Teams chats. SharePoint files. That’s it.No Salesforce. No ServiceNow. No proprietary APIs. No pipeline. No incidents. No truth. In this episode, you’ll learn why Copilot is blind by default—and how to give it sight […]",
+          "link": "https://365community.online/copilots-data-blindness-the-custom-agent-fix",
+          "publishedOn": "2025-12-17T20:25:27.000Z",
+          "wordCount": 2557,
+          "title": "Copilot’s Data Blindness: The Custom Agent Fix",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/e6923422ac4f0b116becf097b81b5250.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/its-the-sharepoint-graveyard-all-over-again-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,680Stop building apps in Teams. 200:00:01,680 –> 00:00:03,540You know it, I know it. 300:00:03,540 –> 00:00:06,000Teams is becoming the SharePoint graveyard 400:00:06,000 –> 00:00:09,560with better emojis, custom ACs feel quick 500:00:09,560 –> 00:00:12,440while quietly building a compliance landfill. 600:00:12,440 –> 00:00:15,760Today I’ll show you why SPFX Adaptive Card extensions 700:00:15,760 –> 00:00:18,560rot fast […]",
+          "link": "https://365community.online/its-the-sharepoint-graveyard-all-over-again-2",
+          "publishedOn": "2025-12-17T16:44:54.000Z",
+          "wordCount": 6782,
+          "title": "It’s the SharePoint Graveyard All Over Again",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1765989894_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-manage-multiple-client-sites-with-wordpress-studio",
+          "author": "Belinda Allen",
+          "description": "Managing multiple client sites often means juggling local setups, updates, and changes across different environments. It works — until the workflow starts getting in your way. Small issues, like inconsistent configurations, overwritten files, and repetitive setup tasks, can all add up and slow you down.  WordPress Studio simplifies all of that.  The free, open-source tool […]",
+          "link": "https://365community.online/how-to-manage-multiple-client-sites-with-wordpress-studio",
+          "publishedOn": "2025-12-17T15:00:00.000Z",
+          "wordCount": 4100,
+          "title": "How to Manage Multiple Client Sites with WordPress Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/How-to-Manage-Multiple-Client-Sites-with-WordPress-Studio.jpg?fit=1175%2C740&ssl=1"
+        },
+        {
+          "id": "https://365community.online/find-the-right-tool-in-xrmtoolbox",
+          "author": "Jukka Niiranen",
+          "description": "A modern site to browse and discover community tools for the Power Platform and Dynamics 365: XrmToolBox Plugin Catalog. Continue reading Find the right tool in XrmToolBox at Jukka Niiranen blog. Original Post https://jukkaniiranen.com/2025/12/find-the-right-tool-in-xrmtoolbox/",
+          "link": "https://365community.online/find-the-right-tool-in-xrmtoolbox",
+          "publishedOn": "2025-12-17T14:13:00.000Z",
+          "wordCount": 2014,
+          "title": "Find the right tool in XrmToolBox",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Find-the-right-tool-in-XrmToolBox.png?fit=2065%2C1181&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:05,520Administrator, do you hear that? Your internet is too quiet, but the quiet is busy. It crawls. 200:00:05,520 –> 00:00:12,880You think co-pilot will fix it. It won’t. It reads the house as it is. Not as you wish it to be. 300:00:12,880 –> 00:00:18,320In a minute, I’ll show you why AI echoes your […]",
+          "link": "https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl-2",
+          "publishedOn": "2025-12-17T12:58:48.000Z",
+          "wordCount": 7715,
+          "title": "Why AI Cannot Fix Your SharePoint Sprawl",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1765976328_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-is-copilot-studio-and-what-is-it-used-for",
+          "author": "Malin Martnes",
+          "description": "This blog is part of the series: What is <this tech> and what is it used for? Copilot answer Copilot Studio is Microsoft’s graphical low-code platform for building, training, and managing custom AI agents that combine language models, knowledge sources, connectors, and automation. Teams use it to create conversational copilots that answer questions, automate workflows, […]",
+          "link": "https://365community.online/what-is-copilot-studio-and-what-is-it-used-for",
+          "publishedOn": "2025-12-17T10:00:00.000Z",
+          "wordCount": 3561,
+          "title": "What is Copilot Studio and what is it used for?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/What-is-Copilot-Studio-and-what-is-it-used-for.png?fit=400%2C358&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-your-power-apps-project-is-too-expensive",
+          "author": "Mirko Peters",
+          "description": "Opening: The Cost Ambush You thought Dataverse was included, didn’t you? You installed Power Apps, connected your SharePoint list, and then—surprise!—a message popped up asking for premium licensing. Congratulations. You’ve just discovered the subtle art of Microsoft’s “not technically a hidden fee.” Your Power Apps project, born innocent as a digital form replacement, is suddenly […]",
+          "link": "https://365community.online/why-your-power-apps-project-is-too-expensive",
+          "publishedOn": "2025-12-17T09:24:15.000Z",
+          "wordCount": 6020,
+          "title": "Why Your Power Apps Project Is Too Expensive",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1765963455_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl",
+          "author": "Mirko Peters",
+          "description": "Your intranet’s silence is not peace—it’s warning.In this episode, we uncover why AI tools like Microsoft 365 Copilot, search, and enterprise agents don’t read your intentions… they read your residue: broken permissions, ROT data, orphaned Teams, shadow sites, and a sprawl that’s been quietly expanding for years. You’ll learn the five governance binds—Information Architecture, Lifecycle, […]",
+          "link": "https://365community.online/why-ai-cannot-fix-your-sharepoint-sprawl",
+          "publishedOn": "2025-12-17T05:38:02.000Z",
+          "wordCount": 2615,
+          "title": "Why AI Cannot Fix Your SharePoint Sprawl",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/b13a64c9e9f57a15470ae34154e4c5e9.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-migration-you-cant-skip",
+          "author": "Mirko Peters",
+          "description": "WEBVTT 100:00:00.080 –> 00:00:02.799You thought your power bimps were safe. They aren’t. Those 200:00:02.799 –> 00:00:05.679colorful dashboards full of Bing Maps visuals they’re on borrowed time. 300:00:05.799 –> 00:00:09.519Microsoft isn’t issuing a warning, it’s delivering an eviction notice. 400:00:09.919 –> 00:00:13.039Map visuals not supported isn’t a glitch. It’s the corporate 500:00:13.039 –> 00:00:16.079equivalent of a […]",
+          "link": "https://365community.online/the-migration-you-cant-skip",
+          "publishedOn": "2025-12-17T01:59:07.000Z",
+          "wordCount": 6525,
+          "title": "The Migration You Can’t Skip",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1765936747_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/the-secret-to-power-bi-project-success-3-non-negotiable-steps",
           "author": "Mirko Peters",
@@ -75419,66 +75519,6 @@
           "wordCount": 3099,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: UI Automation – Simulate Actions",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot",
-          "publishedOn": "2023-12-19T11:00:00.000Z",
-          "wordCount": 3109,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Modify Desktop Flows Using Natural Language with Copilot",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/calculation-groups-in-power-bi",
-          "author": "Inogic",
-          "description": "Power BI, Microsoft’s Data Analytical tool works with data and provides an enhanced view of data to take further actions for customer business improvement. Microsoft has provided lots of features […]",
-          "link": "https://365community.online/calculation-groups-in-power-bi",
-          "publishedOn": "2023-12-19T09:24:43.000Z",
-          "wordCount": 3296,
-          "title": "Calculation Groups in Power BI",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Calculation-Groups-in-Power-BI.jpeg?fit=1200%2C638&ssl=1"
-        },
-        {
-          "id": "https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms",
-          "author": "Megan V. Walker",
-          "description": "There are number of different types of fields that can be added to a marketing form in Customer Insights – Journeys (D365 Marketing). Most commonly used are text fields such […]",
-          "link": "https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms",
-          "publishedOn": "2023-12-19T08:30:00.000Z",
-          "wordCount": 3030,
-          "title": "Lookup Fields With Default Option in Realtime Marketing Forms",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Lookup-Fields-With-Default-Option-in-Realtime-Marketing-Forms.jpg?fit=1200%2C869&ssl=1"
-        },
-        {
-          "id": "https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments",
-          "author": "Olena Grischenko",
-          "description": "Extending a warm welcome to the Makers starting on the environment is a wonderful idea, especially as Christmas is approaching. We won’t miss the opportunity to send them some heartfelt […]",
-          "link": "https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments",
-          "publishedOn": "2023-12-18T23:57:42.000Z",
-          "wordCount": 3083,
-          "title": "Santa’s “Ho Ho Ho” message to welcome  good 😀 Makers (Managed Environments)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Santas-Ho-Ho-Ho-message-to-welcome-good-Makers-Managed.png?fit=1200%2C853&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-change-the-base-url-of-a-website-power-pages",
-          "author": "Nishant Rana",
-          "description": "To change the base URL of a website, navigate to Power Platform Admin Center >> Resources >> Power Pages sites, select the site, and click on Manage. https://admin.powerplatform.microsoft.com/resources/portals Select the […]",
-          "link": "https://365community.online/how-to-change-the-base-url-of-a-website-power-pages",
-          "publishedOn": "2023-12-18T19:00:00.000Z",
-          "wordCount": 3074,
-          "title": "How to – Change the base URL of a website (Power Pages)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/How-to-–-Change-the-base-URL-of-a-website.jpeg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-create-desktop-flows-using-natural-language-with-copilot",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-create-desktop-flows-using-natural-language-with-copilot",
-          "publishedOn": "2023-12-18T15:00:48.000Z",
-          "wordCount": 3116,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Create Desktop Flows Using Natural Language with Copilot",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -76725,6 +76765,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19913",
+          "author": "André Arnaud de Calavon",
+          "description": "While providing a lot of content related to the Dynamics 365 user license enforcement, I didn’t elaborate on the motivation from Microsoft to go for enforcement on assigned licenses. Curious? Continue reading. License enforcement On March 28, 2025, Microsoft announced in a blog that it would start enforcing licenses soon. The blog is still available […]\nThe post Licensing Advent Calendar – Day 18 – Microsoft motivation appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-18-microsoft-motivation/",
+          "publishedOn": "2025-12-17T23:00:00.000Z",
+          "wordCount": 4635,
+          "title": "Licensing Advent Calendar – Day 18 – Microsoft motivation",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-18.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19898",
           "author": "André Arnaud de Calavon",
@@ -82076,16 +82126,6 @@
           "wordCount": 2999,
           "title": "What’s new in Dynamics 365 Field Service Mobile app in 2023 Wave 2",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/M365CO20_BusinessVoice_008-scaled.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/",
-          "author": "Jonathan Baker",
-          "description": "Field Service mobile is a powerful application that helps frontline workers manage their tasks, access information, and communicate updates with the back office. \nThe post Experience the power of Copilot in Dynamics 365 Field Service in the mobile application appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/",
-          "publishedOn": "2023-12-18T18:27:24.000Z",
-          "wordCount": 2881,
-          "title": "Experience the power of Copilot in Dynamics 365 Field Service in the mobile application",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/12/IMG_4538-portrait.png"
         }
       ]
     },
@@ -85332,16 +85372,6 @@
           "wordCount": 2275,
           "title": "D365 Petty cash review",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/05/geldkassette-1.jpg"
-        },
-        {
-          "id": "https://erconsult.eu/?p=8000",
-          "author": "Eugen Glasow",
-          "description": "The Dynamics 365 Warehouse Management app utilizes a container-based system for control layout, incorporating heuristics and customizable rules. Controls without default values prompt user input in the Primary Input Area, creating a seamless experience. Strategic management of controls and rule customization ensures efficient workflow and user-friendly interaction within the app.\nThe post Dissecting the Warehouse Management app layout appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/dissecting-the-warehouse-management-app-layout/",
-          "publishedOn": "2023-12-19T10:02:20.000Z",
-          "wordCount": 2061,
-          "title": "Dissecting the Warehouse Management app layout",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/12/PrimaryInputArea.png"
         }
       ]
     },
@@ -86756,16 +86786,6 @@
           "publishedOn": "2023-12-21T11:00:54.000Z",
           "wordCount": 2164,
           "title": "Reflecting on a year of empowerment: Microsoft Power Up Programs first-year recap",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
-        },
-        {
-          "id": "maker-uses-power-platform-to-help-his-daughter-manage-diabetes",
-          "author": null,
-          "description": "An application built using Power Apps and Power Automate helps log and calculate data for managing diabetes.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platform-to-help-his-daughter-manage-diabetes/",
-          "publishedOn": "2023-12-19T07:53:25.000Z",
-          "wordCount": 2740,
-          "title": "Maker uses Power Platform to help his daughter manage diabetes",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         }
       ]
