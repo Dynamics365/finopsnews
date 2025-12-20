@@ -154,16 +154,6 @@
           "wordCount": 737,
           "title": "Create parameters, manipulate query for SSRS type query",
           "imageUrl": "https://automaly.com/img/ripples.svg"
-        },
-        {
-          "id": "https://automaly.com/posts/how-to-hide-new-and-delete-buttons-in-form-1/",
-          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
-          "description": "Hide New and Delete buttons in Dynamics 365 Finance and Operations forms using design properties or X++ code. Includes CoC extension examples for standard form customization.",
-          "link": "https://automaly.com/posts/how-to-hide-new-and-delete-buttons-in-form-1/",
-          "publishedOn": "2023-12-21T00:00:00.000Z",
-          "wordCount": 339,
-          "title": "How to hide New and Delete buttons (command buttons) in form",
-          "imageUrl": "https://automaly.com/img/ripples.svg"
         }
       ]
     },
@@ -807,6 +797,16 @@
       "feedUrl": "https://tomaztsql.wordpress.com/feed/",
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=10998",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: This function returns the current database system date as a date value, without the database time and time zone offset. CURRENT_DATE derives this value from the underlying operating system on the Database Engine…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/19/advent-of-2025-day-19-sql-server-2025-new-t-sql-functions-current_date/",
+          "publishedOn": "2025-12-19T13:49:00.000Z",
+          "wordCount": 5520,
+          "title": "Advent of 2025, Day 19 – SQL Server 2025 – New T-SQL functions – CURRENT_DATE",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-80.png?w=1024"
+        },
         {
           "id": "http://tomaztsql.wordpress.com/?p=10956",
           "author": "tomaztsql",
@@ -1471,16 +1471,6 @@
           "wordCount": 4670,
           "title": "Advent of 2023, Day 21 – Monitoring workspaces with Fabric",
           "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-114.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9823",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: Notebooks have been around for a long time and people, community, and professionals have proven the usability, practicality, versioning and reliability of notebooks. Not to mention the clarity and hygiene. But opinions are also divided.…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/20/advent-of-2023-day20-working-with-notebooks-in-fabric/",
-          "publishedOn": "2023-12-20T22:00:47.000Z",
-          "wordCount": 4785,
-          "title": "Advent of 2023, Day20 – Working with notebooks in Fabric",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-106.png"
         }
       ]
     },
@@ -1506,6 +1496,76 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=139012",
+          "author": "Vyas Consulting",
+          "description": "xxx\nPricing as a Technical and Strategic Lever in Distribution Industry  Pricing is unique among value creation levers because it directly determines whether a company can capture the value it delivers. In the […]\nThe post Modernizing Pricing with Vyas Advanced Intuitive Pricing for D365 appeared first on ERP Software Blog.\nChoosing the Right AP Automation Solution: Checklist\nMicrosoft Dynamics GP Phase-Out: Smooth ERP Transition\nAutomated Vendor Validation: Secure and Simplify AP Compliance",
+          "link": "https://erpsoftwareblog.com/2025/12/modernizing-pricing-with-vyas-advanced-intuitive-pricing-for-d365/",
+          "publishedOn": "2025-12-19T20:30:42.000Z",
+          "wordCount": 7663,
+          "title": "Modernizing Pricing with Vyas Advanced Intuitive Pricing for D365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/image-19.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138827",
+          "author": "Insight Works",
+          "description": "xxx\nIf your business operates on Business Central and spans multiple locations, printing can quickly become a daily source of frustration. One team needs shipping labels on a Zebra printer in […]\nThe post How to Manage Multiple Printers in Business Central Without IT Headaches appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/12/how-to-manage-multiple-printers-in-business-central-without-it-headaches/",
+          "publishedOn": "2025-12-19T20:00:47.000Z",
+          "wordCount": 7228,
+          "title": "How to Manage Multiple Printers in Business Central Without IT Headaches",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cover-How-to-Manage-Multiple-Printers.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139013",
+          "author": "GP Support North",
+          "description": "xxx\nThank you for a wonderful 2025!  In the past 12 months, our GP Support North team welcomed over 165 new clients running Dynamics GP.  We're excited to continue to be […]\nThe post Happy Holidays from our GP Support North team appeared first on ERP Software Blog.\nBusiness intelligence - its contagious!\nFour Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1\nBetter Information = Stronger Company in Tough Economy",
+          "link": "https://erpsoftwareblog.com/2025/12/happy-holidays-from-our-gp-support-north-team/",
+          "publishedOn": "2025-12-19T19:44:11.000Z",
+          "wordCount": 6548,
+          "title": "Happy Holidays from our GP Support North team",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-Endeavour-Holiday-Card-with-boarder-432x625.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139007",
+          "author": "USTPay",
+          "description": "xxx\nFor government contractors, the visible parts of credit card payment processing: merchant fees, gateway charges, and monthly statements, are often the focus of cost control efforts. However, there’s a less […]\nThe post Understanding Level 3 Data: The Hidden Cost Driver in GovCon Credit Card Processing appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nDon’t Stop the Flow: Managing a Job Shop\nGet More in the Cloud with Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2025/12/understanding-level-3-data-the-hidden-cost-driver-in-govcon-credit-card-processing/",
+          "publishedOn": "2025-12-19T19:21:13.000Z",
+          "wordCount": 7011,
+          "title": "Understanding Level 3 Data: The Hidden Cost Driver in GovCon Credit Card Processing",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/USTPay-blog-designs-7.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139000",
+          "author": "MetaOption LLC",
+          "description": "xxx\nQuick Summary: Top Microsoft Dynamics 365 Business Central Partners and Consultants in 2026 cover the global dominators like MetaOption, ArcherPoint, Velosio, CloudFactory, etc. Is it fair enough to say that […]\nThe post 10 Top Microsoft Dynamics 365 Business Central Partners & Consulting Companies in 2026 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/microsoft-dynamics-365-business-central-partners/",
+          "publishedOn": "2025-12-19T18:21:04.000Z",
+          "wordCount": 8390,
+          "title": "10 Top Microsoft Dynamics 365 Business Central Partners & Consulting Companies in 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Partner-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138540",
+          "author": "Netstock",
+          "description": "xxx\nInventory optimization is one of the biggest untapped opportunities for companies running Dynamics 365 Business Central (BC). While BC is excellent at managing transactions, financials, and day-to-day operations, it isn't […]\nThe post How to Improve ROI with Inventory Optimization in D365 Business Central appeared first on ERP Software Blog.\nIs your outdated technology keeping you from properly managing your inventory?\nThe Impact of Artificial Intelligence (AI) on Warehouse Management\nInventory Optimization: Unlocking Hidden Cash with Netstock and Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2025/12/how-to-improve-roi-with-inventory-optimization-in-d365-business-central/",
+          "publishedOn": "2025-12-19T18:10:55.000Z",
+          "wordCount": 7389,
+          "title": "How to Improve ROI with Inventory Optimization in D365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138983",
+          "author": "PartnerTalks",
+          "description": "xxx\n  MSDynamicsWorld editor Jason Gumpert says trust, content fit, and funnel timing are reshaping how Microsoft customers evaluate solutions and Partners. In a new audience survey, MSDW is mapping what […]\nThe post MSDW Partner Buying Journey Insights 2025: What Microsoft Partners Need To Change Now appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/msdw-partner-buying-journey-insights-2025/",
+          "publishedOn": "2025-12-19T17:15:31.000Z",
+          "wordCount": 7346,
+          "title": "MSDW Partner Buying Journey Insights 2025: What Microsoft Partners Need To Change Now",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/289-Jason-Gumpert-Thumbnail.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=138571",
           "author": "DATABASICS",
@@ -34985,56 +35045,6 @@
           "wordCount": 7600,
           "title": "2023 Transportation Management Highlights for Dynamics 365 Users",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-2023-Transportation-Management-Highlights-for-Dynamics-365-Users_1200-x-628.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102719",
-          "author": "StockIQ Technologies",
-          "description": "The COVID-19 pandemic has exposed the fragility and vulnerability of many global supply chains, causing disruptions, delays, and shortages in various sectors and industries. The pandemic has also highlighted the …  Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience Read More »\nThe post Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience appeared first on ERP Software Blog.\nSupply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment\nIntegrated Planning with deFacto Power Planning - Webinar\nAre You Ready to Embrace the Omnichannel Revolution?",
-          "link": "https://erpsoftwareblog.com/2023/12/key-lessons-learned-from-the-covid-19-crisis-and-how-to-strengthen-supply-chain-resilience/",
-          "publishedOn": "2023-12-20T21:16:34.000Z",
-          "wordCount": 7922,
-          "title": "Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102708",
-          "author": "TrinSoft, LLC",
-          "description": "Did you miss the recent Dynamics year-end processing webinars? As the year ends, many businesses are focused on wrapping up their accounting procedures. Between balancing accounts, running reports, and closing …  On-Demand Webinars: Dynamics 365 Business Central and GP Year-End Processing Read More »\nThe post On-Demand Webinars: Dynamics 365 Business Central and GP Year-End Processing appeared first on ERP Software Blog.\nMicrosoft Dynamics Service Plans - Don't Get Penalized by Not Knowing the Rules\nSelecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy.\nJoin JourneyTEAM's Tech Insider Update Webinar on 8/6",
-          "link": "https://erpsoftwareblog.com/2023/12/updated-microsoft-dynamics-365-business-central-capability-guide-download-yours-today-2/",
-          "publishedOn": "2023-12-20T19:06:10.000Z",
-          "wordCount": 7347,
-          "title": "On-Demand Webinars: Dynamics 365 Business Central and GP Year-End Processing",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Year-End-Processing-Webinars-On-Demand.png"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=99892",
-          "author": "Stoneridge Software",
-          "description": "If your company uses a Microsoft cloud-based MRP program, Dynamics 365 Customer Engagement is a solution you should be looking to use to help produce the most effective customer experience. …  Using Dynamics 365 Customer Engagement to Create a Great Customer Experience Read More »\nThe post Using Dynamics 365 Customer Engagement to Create a Great Customer Experience appeared first on ERP Software Blog.\nTech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nIs Microsoft Dynamics 365 Expensive?",
-          "link": "https://erpsoftwareblog.com/2023/12/using-dynamics-365-customer-engagement-to-create-a-great-customer-experience/",
-          "publishedOn": "2023-12-20T15:17:32.000Z",
-          "wordCount": 7138,
-          "title": "Using Dynamics 365 Customer Engagement to Create a Great Customer Experience",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102704",
-          "author": "GP Support North",
-          "description": "Our Team has grown quite a bit in 2023 and is now approaching 100 talented consultants for GP Support North (Great Plains), Purely CRM (D365 and Power Apps) and Endeavour …  Happy Holidays From GP Support North, Endeavour and PurelyCRM Read More »\nThe post Happy Holidays From GP Support North, Endeavour and PurelyCRM appeared first on ERP Software Blog.\nWe love Dynamics GP - Stay on GP - Follow our new YouTube Channel\nWhen is Azure more effective to access your Data with Microsoft Dynamics 365?\nDynamics GP Vs Dynamics Business Central: The User Experience",
-          "link": "https://erpsoftwareblog.com/2023/12/happy-holidays-from-gp-support-north-endeavour-and-purelycrm/",
-          "publishedOn": "2023-12-20T15:16:06.000Z",
-          "wordCount": 7112,
-          "title": "Happy Holidays From GP Support North, Endeavour and PurelyCRM",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Endeavour-PurelyCRM-GP-Support-Card-2023.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102649",
-          "author": "ACE Micro, LLC",
-          "description": "What Levers Do Industrial Equipment Distributors Have Related To Pricing? Industrial equipment distributors have many powerful value-creation levers when it comes to pricing. These levers are essential for optimizing profitability, …  What Levers Do Industrial Equipment Distributors Have Related To Pricing Read More »\nThe post What Levers Do Industrial Equipment Distributors Have Related To Pricing appeared first on ERP Software Blog.\nThere ain't no thing as a free WMS? Think again.\nSignature Capture in Business Central: A Comprehensive Guide with Warehouse Insight\nEnhancing Business Central with the free Visual Scheduling App",
-          "link": "https://erpsoftwareblog.com/2023/12/what-levers-do-industrial-equipment-distributors-have-related-to-pricing/",
-          "publishedOn": "2023-12-20T14:00:12.000Z",
-          "wordCount": 7613,
-          "title": "What Levers Do Industrial Equipment Distributors Have Related To Pricing",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_616253756_1024px-625x249.png"
         }
       ]
     },
@@ -36582,16 +36592,6 @@
           "wordCount": 1892,
           "title": "Intercompany Processing in Dynamics GP",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=60720",
-          "author": "Tasklet Factory",
-          "description": "Going from a Paper-Based to a Digital Warehouse: Top 5 Benefits\nThis blog originally appeared here on Tasklet Factory’s blog page. When decision-makers in businesses are considering how to optimize internal processes, the one thing that is often missing is a clear understanding of the targeted points of improvement. There are numerous benefits and perspectives that warehouse employees, business intelligence, and the financial department can look forward...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/going-from-a-paper-based-to-a-digital-warehouse-top-5-benefits/",
-          "publishedOn": "2023-12-20T16:39:00.000Z",
-          "wordCount": 1752,
-          "title": "Going from a Paper-Based to a Digital Warehouse: Top 5 Benefits",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/12/Tasklet-img.jpg"
         }
       ]
     },
@@ -36601,12 +36601,107 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/fix-power-apps-data-entry-use-this-ai-agent",
+          "author": "Mirko Peters",
+          "description": "The Data Entry Nightmare Let’s start with something familiar — the Power Apps form. Every organization has one. Rows of text boxes pretending to be productivity. You click “New Record,” a form opens, and suddenly you’re not an analyst or a manager. You’re a typist. Copying names, phone numbers, addresses, maybe from an email that […]",
+          "link": "https://365community.online/fix-power-apps-data-entry-use-this-ai-agent",
+          "publishedOn": "2025-12-19T22:55:26.000Z",
+          "wordCount": 6212,
+          "title": "Fix Power Apps Data Entry: Use THIS AI Agent",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766184927_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/i-have-forged-your-new-data-reality",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:07,160And here we find the enterprise data estate scattered like shy creatures hiding in separate valleys. 200:00:07,160 –> 00:00:14,360Data Marts evaporating in isolation, pipelines struggling upstream, dashboards drinking from stale pools. 300:00:14,360 –> 00:00:23,560Observe the fragmentation, latency, drift, duplication, then with deliberate care, a new landscape appears. 400:00:23,560 –> 00:00:28,520One lake as the […]",
+          "link": "https://365community.online/i-have-forged-your-new-data-reality",
+          "publishedOn": "2025-12-19T19:26:08.000Z",
+          "wordCount": 7664,
+          "title": "I Have Forged Your New Data Reality",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766172369_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/primavera-p6-online-training-success-story-5-student-testimonial-wiznicworld-youtube",
+          "author": "Madan Mohan Maharana",
+          "description": "Primavera P6 Online Training Success Story-5, Student Testimonial | WiznicWorld Learn Primavera P6 with real project experience: https://www.wiznicworld.com/testimonial 🎯Learn Primavera P6 online from an industry expert with 27+ years of real project experience… In this testimonial video, The students share Their experiences with our comprehensive Primavera P6 training program and how it transformed his project […]",
+          "link": "https://365community.online/primavera-p6-online-training-success-story-5-student-testimonial-wiznicworld-youtube",
+          "publishedOn": "2025-12-19T15:54:33.000Z",
+          "wordCount": 2494,
+          "title": "Primavera P6 Online Training Success Story-5, Student Testimonial | WiznicWorld – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766161464_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-copilot-fix-you-need",
+          "author": "Mirko Peters",
+          "description": "You think your job is analysis. It isn’t. It’s janitorial work with better branding. Every spreadsheet in your life begins the same way—tabular chaos pretending to be data. Dates in six formats, currencies missing symbols, column headers that read like riddles. You call that analysis? That’s housekeeping with formulas. Let’s be honest—half your “reports” are […]",
+          "link": "https://365community.online/the-copilot-fix-you-need",
+          "publishedOn": "2025-12-19T15:48:05.000Z",
+          "wordCount": 6057,
+          "title": "The Copilot Fix You Need",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766159285_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-build-faster-safer-local-wordpress-dev-workflows-for-your-agency",
+          "author": "Belinda Allen",
+          "description": "Agencies move quickly. With constant new client builds, redesigns, plugin audits, and last-minute fixes, everything relies on a workflow that’s stable, fast, and consistent across the team.  For many WordPress agencies, the challenge isn’t shipping great work; it’s getting every team member working the same way, on the same stack, without losing time to process. […]",
+          "link": "https://365community.online/how-to-build-faster-safer-local-wordpress-dev-workflows-for-your-agency",
+          "publishedOn": "2025-12-19T15:00:00.000Z",
+          "wordCount": 3463,
+          "title": "How to Build Faster, Safer Local WordPress Dev Workflows for Your Agency",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/How-to-Build-Faster-Safer-Local-WordPress-Dev-Workflows-for.jpg?fit=1175%2C740&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-your-agents-are-outpacing-you-and-how-humans-can-prevent-the-collapse-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,880I observed the anomaly before you named it. 200:00:01,880 –> 00:00:06,200Not conflict, not revolt, acceleration, agents multiplied across teams, 300:00:06,200 –> 00:00:11,040SharePoint, Power Automate, Co-Pilot and Defender until your governance surface fractured. 400:00:11,040 –> 00:00:14,640Redundant workflows competed, contradictory rules canceled each other. 500:00:14,640 –> 00:00:18,600Human bottlenecks created pressure and pressure created unauthorized autonomy. […]",
+          "link": "https://365community.online/why-your-agents-are-outpacing-you-and-how-humans-can-prevent-the-collapse-2",
+          "publishedOn": "2025-12-19T12:12:10.000Z",
+          "wordCount": 6643,
+          "title": "Why Your Agents Are Outpacing You — And How Humans Can Prevent the Collapse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766146330_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/extending-copilot-in-dynamics-365-sales-with-copilot-studio-tailor-it-your-way",
+          "author": "Allan De Castro",
+          "description": "In this post, we’ll explore the different extensions available for Copilot in Dynamics 365 Sales using Copilot Studio. We’ll go through the welcome message, custom Sparkle Menu groups, building your own topics, and how to use context so Copilot actually knows what record you’re working on. Quick note: if you’re after an overview of Copilot […]",
+          "link": "https://365community.online/extending-copilot-in-dynamics-365-sales-with-copilot-studio-tailor-it-your-way",
+          "publishedOn": "2025-12-19T10:40:00.000Z",
+          "wordCount": 4224,
+          "title": "Extending Copilot in Dynamics 365 Sales with Copilot Studio — Tailor It Your Way",
+          "enclosure": {
+            "url": "https://www.blog.allandecastro.com/wp-content/uploads/2025/12/CopilotInSalesSparkleMenu.mp4",
+            "length": "11260515",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Extending-Copilot-in-Dynamics-365-Sales-with-Copilot-Studio-%E2%80%94.png?fit=1024%2C414&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sharepoint-agent-vs-human-admin-can-ai-replace-you",
+          "author": "Mirko Peters",
+          "description": "Opening: The Arrogant Intern Arrives You’ve probably heard this one already: “AI can run SharePoint now.”No, it cannot. What it can do is pretend to. The newest act in Microsoft’s circus of automation is the SharePoint Knowledge Agent—a supposedly brilliant little assistant that promises to “organize your content, generate metadata, and answer questions.” The pitch […]",
+          "link": "https://365community.online/sharepoint-agent-vs-human-admin-can-ai-replace-you",
+          "publishedOn": "2025-12-19T08:49:21.000Z",
+          "wordCount": 5718,
+          "title": "SharePoint Agent vs. Human Admin: Can AI Replace You?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766134162_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-your-agents-are-outpacing-you-and-how-humans-can-prevent-the-collapse",
+          "author": "Mirko Peters",
+          "description": "Your AI agents aren’t “helping.” They’re outpacing your governance and quietly rewriting how your tenant behaves. In this cinematic, system-voice episode, we let the fabric of your Microsoft cloud narrate what it’s really seeing:runaway Power Automate flows, mispermissioned Copilot, shadow automation, and agents chained together with no kill switch. This isn’t robots vs humans.It’s systems […]",
+          "link": "https://365community.online/why-your-agents-are-outpacing-you-and-how-humans-can-prevent-the-collapse",
+          "publishedOn": "2025-12-19T05:09:26.000Z",
+          "wordCount": 2866,
+          "title": "Why Your Agents Are Outpacing You — And How Humans Can Prevent the Collapse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/ac81d13e4c512e2948cc6bcd394299c9.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/stop-using-gpt-5-where-the-agent-is-mandatory",
           "author": "Mirko Peters",
           "description": "Opening: The Illusion of Capability Most people think GPT‑5 inside Copilot makes the Researcher Agent redundant. Those people are wrong. Painfully wrong. The confusion comes from the illusion of intelligence—the part where GPT‑5 answers in flawless business PowerPoint English, complete with bullet points, confidence, and plausible references. It sounds like knowledge. It’s actually performance art. […]",
           "link": "https://365community.online/stop-using-gpt-5-where-the-agent-is-mandatory",
           "publishedOn": "2025-12-19T01:29:01.000Z",
-          "wordCount": 6111,
+          "wordCount": 6113,
           "title": "Stop Using GPT-5 Where The Agent Is Mandatory",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766107742_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
@@ -75494,66 +75589,6 @@
           "wordCount": 3093,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use SAP-dedicated Actions in Desktop Flows",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-inspect-a-ui-element",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-inspect-a-ui-element",
-          "publishedOn": "2023-12-21T11:00:00.000Z",
-          "wordCount": 3089,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Inspect a UI Element",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade",
-          "author": "Kurt Hatlevik",
-          "description": "Dynamics 365 Commerce utilizes cloud-powered search to enhance product discoverability. This feature is crucial for customer interaction across various channels like e-commerce and point of sale (POS), ensuring customers can […]",
-          "link": "https://365community.online/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade",
-          "publishedOn": "2023-12-21T10:19:32.000Z",
-          "wordCount": 3068,
-          "title": "D365 eCommerce and Relevance search – When life gives you lemons, make lemonade",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/D365-eCommerce-and-Relevance-search-–-When-life-gives-you.png?fit=1200%2C459&ssl=1"
-        },
-        {
-          "id": "https://365community.online/custom-actions-with-power-automate-desktop-flows",
-          "author": "Inogic",
-          "description": "Introduction A custom action in desktop flow is a feature designed to automate repetitive tasks seamlessly. This blog provides a comprehensive guide on designing and leveraging custom actions in the […]",
-          "link": "https://365community.online/custom-actions-with-power-automate-desktop-flows",
-          "publishedOn": "2023-12-21T09:28:49.000Z",
-          "wordCount": 3290,
-          "title": "Custom Actions with Power Automate Desktop Flows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Custom-Actions-with-Desktop-Flows.jpeg?fit=1200%2C629&ssl=1"
-        },
-        {
-          "id": "https://365community.online/hawaii-power-platform-day-in-10-days-youtube-2",
-          "author": "Victor Dantas",
-          "description": "source",
-          "link": "https://365community.online/hawaii-power-platform-day-in-10-days-youtube-2",
-          "publishedOn": "2023-12-20T18:04:51.000Z",
-          "wordCount": 2913,
-          "title": "Hawaii Power Platform Day – in 10 Days!! – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703115479_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-power-automate-for-desktop-displays-dynamic-messages-in-the-home-screen",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-power-automate-for-desktop-displays-dynamic-messages-in-the-home-screen",
-          "publishedOn": "2023-12-20T15:00:00.000Z",
-          "wordCount": 3114,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Power Automate for Desktop Displays Dynamic Messages in the Home Screen",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/navigating-tech-with-komi-siabi-from-web-development-to-dynamics-365-and-the-journey-to-becoming-an-youtube",
-          "author": "NZ365Guy",
-          "description": "Navigating Tech with Komi Siabi: From Web Development to Dynamics 365 and the Journey to Becoming an Today we chat with Komi Siabi, a Nigerian Dynamics consultant, about his journey […]",
-          "link": "https://365community.online/navigating-tech-with-komi-siabi-from-web-development-to-dynamics-365-and-the-journey-to-becoming-an-youtube",
-          "publishedOn": "2023-12-20T14:09:33.000Z",
-          "wordCount": 3906,
-          "title": "Navigating Tech with Komi Siabi: From Web Development to Dynamics 365 and the Journey to Becoming an – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703168676_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -76800,6 +76835,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19927",
+          "author": "André Arnaud de Calavon",
+          "description": "On day 10, I posted about the Licenses usage summary page in Dynamics 365 Finance and Operations. This form contains maybe the most essential information to understand the current license requirements and analyse what can be done to lower the license requirements. But did you already know that this information is also available from within […]\nThe post Licensing Advent Calendar – Day 20 – Security analysis in PPAC and LCS appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-20-security-analysis-in-ppac-and-lcs/",
+          "publishedOn": "2025-12-19T23:00:00.000Z",
+          "wordCount": 4388,
+          "title": "Licensing Advent Calendar – Day 20 – Security analysis in PPAC and LCS",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-20.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19920",
           "author": "André Arnaud de Calavon",
@@ -79442,16 +79487,6 @@
           "wordCount": 3503,
           "title": "CoPilot in Dynamics 365 implementation portal",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2024/01/010324_1820_copilotindy1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4554",
-          "author": "Kurt Hatlevik",
-          "description": "Dynamics 365 Commerce utilizes cloud-powered search to enhance product discoverability. This feature is crucial for customer interaction across various channels like e-commerce and point of sale (POS), ensuring customers can quickly find products. This search experience includes advanced capabilities like faceted navigation, immersive autosuggest, and sorting options for better product discovery and scalability required for … Continue reading D365 eCommerce and Relevance search – When life gives you lemons, make lemonade",
-          "link": "https://kurthatlevik.com/2023/12/21/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade/",
-          "publishedOn": "2023-12-21T10:19:32.000Z",
-          "wordCount": 4318,
-          "title": "D365 eCommerce and Relevance search – When life gives you lemons, make lemonade",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/12/122123_1019_d365ecommer1.png"
         }
       ]
     },
@@ -82161,16 +82196,6 @@
           "wordCount": 3473,
           "title": "Knowledge management best practices for Copilot ingestion",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2014/07/7245.knowledgemanagement.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/20/whats-new-in-dynamics-365-field-service-mobile-app-in-2023-wave-2/",
-          "author": "Joseph Shum",
-          "description": "What's new in Dynamics 365 Field Service Mobile app in 2023 Wave 2. \nDiscover the latest updates and enhancements to the Field Service Mobile app that will help you deliver better service experiences to your customers. \nThe post What’s new in Dynamics 365 Field Service Mobile app in 2023 Wave 2  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/20/whats-new-in-dynamics-365-field-service-mobile-app-in-2023-wave-2/",
-          "publishedOn": "2023-12-20T18:59:48.000Z",
-          "wordCount": 2999,
-          "title": "What’s new in Dynamics 365 Field Service Mobile app in 2023 Wave 2",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/M365CO20_BusinessVoice_008-scaled.jpg"
         }
       ]
     },
@@ -84631,26 +84656,6 @@
           "wordCount": 28852,
           "title": "Version 3.x Change Log",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2021/05/D365Blog_VersionChangeLog.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27219",
-          "author": "Amir Omanović",
-          "description": "The User defined project invoice report (technical name: PSAManageInvoice.Report) is a standard report available in the Project management and accounting module of D365FO. It is similar to Project invoice without billing rules (technical name: PSAProjInvoice.Report) in terms of preparing the data for the invoice before […]\nThe post Post and Print Project Invoices in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/post-and-print-project-invoices-in-d365fo/",
-          "publishedOn": "2023-12-20T19:24:38.000Z",
-          "wordCount": 12373,
-          "title": "Post and Print Project Invoices in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/02-05-Prepare-and-Print-PSA-Managed-Invoice.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=27219",
-          "author": "Amir Omanović",
-          "description": "The User defined project invoice report (technical name: PSAManageInvoice.Report) is a standard report available in the Project management and Accounting module of D365FO. It is similar to Project invoice without billing rules (technical name: PSAProjInvoice.Report) in terms of preparing the data for the invoice. But […]\nThe post Post and Print Project Invoices in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/prepare-and-print-project-invoice-in-d365fo/",
-          "publishedOn": "2023-12-20T19:24:38.000Z",
-          "wordCount": 12353,
-          "title": "Post and Print Project Invoices in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/02-05-Prepare-and-Print-PSA-Managed-Invoice.jpg"
         }
       ]
     },
@@ -86821,16 +86826,6 @@
           "publishedOn": "2024-01-09T10:32:46.000Z",
           "wordCount": 2611,
           "title": "Recap of modern controls evolution in 2023 and a glimpse into 2024 innovations",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
-        },
-        {
-          "id": "reflecting-on-a-year-of-empowerment-microsoft-power-up-programs-first-year-recap",
-          "author": null,
-          "description": "The inaugural year witnessed inspiring success stories from the community, with impacts of newfound skills felt globally. As the program enters its second year, it introduces a new feature – Group Learning, which allows colleagues, friends, and family to challenge each other on a learning journey to become low-code app makers.\nThe program recognized 13 Power Up champs with the Star Champ badge for their exemplary commitment and dedication. This badge is awarded to champs who have contributed more than 15 hours over the last 6 months across various volunteering categories. The program encourages building an application with Microsoft as a New Year’s resolution.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/reflecting-on-a-year-of-empowerment-microsoft-power-up-programs-first-year-recap/",
-          "publishedOn": "2023-12-21T11:00:54.000Z",
-          "wordCount": 2164,
-          "title": "Reflecting on a year of empowerment: Microsoft Power Up Programs first-year recap",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         }
       ]
