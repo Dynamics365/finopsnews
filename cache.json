@@ -798,6 +798,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=11013",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Change event streaming (CES) is data integration capability that streams SQL Server data changes directly into Azure Event hubs. It captures and publishes incremental changes of data to an Azure Event Hubs destination…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/20/advent-of-2025-day-20-sql-server-2025-change-event-streaming/",
+          "publishedOn": "2025-12-20T18:57:03.000Z",
+          "wordCount": 6086,
+          "title": "Advent of 2025, Day 20 – SQL Server 2025 – Change Event Streaming",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-82.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10998",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: This function returns the current database system date as a date value, without the database time and time zone offset. CURRENT_DATE derives this value from the underlying operating system on the Database Engine…\nRead more ›",
@@ -1461,16 +1471,6 @@
           "wordCount": 4096,
           "title": "Advent of 2023, Day 22 – Apps in Fabric",
           "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-118.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9850",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: Monitoring workspaces, executions and checking logs is so quintessential, that one should get familiarized with this in the first place. Monitoring Hub The easy way to check, view and track your activities and execution and…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/21/advent-of-2023-day-21-monitoring-workspaces-with-fabric/",
-          "publishedOn": "2023-12-21T21:35:50.000Z",
-          "wordCount": 4670,
-          "title": "Advent of 2023, Day 21 – Monitoring workspaces with Fabric",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-114.png"
         }
       ]
     },
@@ -35015,36 +35015,6 @@
           "wordCount": 9860,
           "title": "Microsoft Dynamics 365 Implementation: Best Practices to Consider",
           "imageUrl": "https://www.dynamicssquare.com/img/Dynamics-365-overview.svg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102753",
-          "author": "Dynamics Square USA",
-          "description": "When it comes to implementing or upgrading your ERP software, the decision between Dynamics 365 Business Central Cloud and On-premises can be a challenging one. Each option offers unique advantages …  Dynamics 365 Business Central Cloud Vs On-premises Read More »\nThe post Dynamics 365 Business Central Cloud Vs On-premises appeared first on ERP Software Blog.\nUpcoming Webcast: \"Structuring Software Sales Transactions for Optimal Revenue Recognition\"\nDynamics GP 2013’s New Licensing Structure Offers Additional Modules and Users at No Extra Charge\nKey Steps for Selecting the Right ERP Software",
-          "link": "https://erpsoftwareblog.com/2023/12/business-central-cloud-vs-on-premises/",
-          "publishedOn": "2023-12-22T14:00:22.000Z",
-          "wordCount": 7851,
-          "title": "Dynamics 365 Business Central Cloud Vs On-premises",
-          "imageUrl": "https://www.dynamicssquare.com/_next/image/?url=%2Fimg%2Fclod-vs-premies.png&w=1920&q=75"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102702",
-          "author": "x2x eCommerce",
-          "description": "Integration of the B2B Portal with Different Systems involves connecting multiple applications or platforms with each other to rationalize processes and enable consistent data exchange. The integration process varies depending …  Integration of the B2B Portal with Different Systems Read More »\nThe post Integration of the B2B Portal with Different Systems appeared first on ERP Software Blog.\nGive Customers Everything They Want This Year with Integrated ERP and CRM\nStrengthen Your Technology by Integrating ERP With CRM\nCloud-Based ERP Offers More Options to Manufacturers",
-          "link": "https://erpsoftwareblog.com/2023/12/integration-of-the-b2b-portal-with-different-systems/",
-          "publishedOn": "2023-12-22T11:37:50.000Z",
-          "wordCount": 7421,
-          "title": "Integration of the B2B Portal with Different Systems",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-33-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102643",
-          "author": "Next Generation Logistics",
-          "description": "2023 has been a significant year for the transportation management industry. The field has seen notable growth and advancements, particularly in the wake of rebalancing post-COVID-19 disruptions. In this article, …  2023 Transportation Management Highlights for Dynamics 365 Users Read More »\nThe post 2023 Transportation Management Highlights for Dynamics 365 Users appeared first on ERP Software Blog.\nTime to Upgrade Your TMS or Maybe Move to a New Provider ?\nDynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System\nComparing Customized Dynamics 365 TMS Solutions with Off-the-Shelf Transportation Management Solutions",
-          "link": "https://erpsoftwareblog.com/2023/12/2023-transportation-management-highlights-for-dynamics-365-users/",
-          "publishedOn": "2023-12-21T19:00:49.000Z",
-          "wordCount": 7600,
-          "title": "2023 Transportation Management Highlights for Dynamics 365 Users",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-2023-Transportation-Management-Highlights-for-Dynamics-365-Users_1200-x-628.png"
         }
       ]
     },
@@ -36601,6 +36571,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/is-vibe-coding-worth-it-in-2025",
+          "author": "Mirko Peters",
+          "description": "The UI Paradox You’re still dragging rectangles around in Power Apps? Fascinating. It’s 2025, and half of you are still nudging buttons pixel by pixel like it’s 2019. The rest have discovered something far more sophisticated—describing their pages in plain English and letting AI build the layout. One group babysits pixels. The other supervises intelligence. […]",
+          "link": "https://365community.online/is-vibe-coding-worth-it-in-2025",
+          "publishedOn": "2025-12-21T00:03:49.000Z",
+          "wordCount": 5961,
+          "title": "Is Vibe Coding Worth It in 2025?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766275429_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sharepoint-is-broken-the-ai-governance-fix",
+          "author": "Mirko Peters",
+          "description": "Is SharePoint really broken in the age of artificial intelligence? Or is the real problem missing AI governance and data strategy? In this episode, I explain why traditional SharePoint architectures fail in modern AI-driven environments—and how a structured AI governance framework can fix data chaos, security risks, and compliance issues before they destroy trust in […]",
+          "link": "https://365community.online/sharepoint-is-broken-the-ai-governance-fix",
+          "publishedOn": "2025-12-20T20:20:00.000Z",
+          "wordCount": 2285,
+          "title": "SharePoint Is Broken: The AI Governance Fix",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/105bb63ff88e03427aa4f16b3f1d7a27.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stop-using-generative-pages-wrong-the-licensing-trap",
+          "author": "Mirko Peters",
+          "description": "The “Free Lunch” Illusion Everyone’s mesmerized by that shiny button in Power Apps that says, “Describe your page, and we’ll build it.” You type a sentence like, “Create a calendar showing upcoming product launches,” and a few seconds later, AI conjures a functional interface, styled neatly, connected to data you didn’t even bother wiring up. […]",
+          "link": "https://365community.online/stop-using-generative-pages-wrong-the-licensing-trap",
+          "publishedOn": "2025-12-20T16:37:25.000Z",
+          "wordCount": 5767,
+          "title": "Stop Using Generative Pages Wrong! The Licensing Trap",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766248645_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/cloud-crime-scene-the-microsoft-forensics-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:04,600The hum of the SOC dies, the cursor stops, then. 200:00:04,600 –> 00:00:06,100Nothing. 300:00:06,100 –> 00:00:08,760A trillion dollar crime scene. 400:00:08,760 –> 00:00:10,560Too quiet. 500:00:10,560 –> 00:00:12,360Too clean. 600:00:12,360 –> 00:00:14,320I don’t solve breaches. 700:00:14,320 –> 00:00:15,880I dissect them. 800:00:15,880 –> 00:00:17,680Two cases on the slab. 900:00:17,680 –> 00:00:22,480First, a click at 1/12, […]",
+          "link": "https://365community.online/cloud-crime-scene-the-microsoft-forensics-2",
+          "publishedOn": "2025-12-20T12:49:03.000Z",
+          "wordCount": 6024,
+          "title": "Cloud Crime Scene: The Microsoft Forensics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766234943_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/canvas-apps-are-dead-why-generative-pages-win",
+          "author": "Mirko Peters",
+          "description": "Opening: The Canvas App Lie You still build Canvas Apps? Fascinating. That’s like hand‑coding a macro in 2024. Once upon a time that gave you bragging rights; now it just means you volunteered for unnecessary suffering. Canvas Apps promised liberation—the power to design any interface you could imagine. Freedom, they said. Drag‑and‑drop creativity without code, […]",
+          "link": "https://365community.online/canvas-apps-are-dead-why-generative-pages-win",
+          "publishedOn": "2025-12-20T09:12:47.000Z",
+          "wordCount": 5247,
+          "title": "Canvas Apps Are Dead: Why Generative Pages Win",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766221967_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/cloud-crime-scene-the-microsoft-forensics",
+          "author": "Mirko Peters",
+          "description": "What really happens inside a Security Operations Center when a cloud breach unfolds? In this gripping episode of Cloud Crime Scene: The Microsoft Forensics, we take you deep inside the digital investigation process as Microsoft security experts unravel a real-world style cloud incident. From silent alerts to hidden attacker movement, you’ll experience how modern cyber […]",
+          "link": "https://365community.online/cloud-crime-scene-the-microsoft-forensics",
+          "publishedOn": "2025-12-20T05:43:12.000Z",
+          "wordCount": 2464,
+          "title": "Cloud Crime Scene: The Microsoft Forensics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/d4bf7179ff88e242780e655221a35e6e.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-lists-as-copilot-knowledge",
+          "author": "Mirko Peters",
+          "description": "The Myth of Mandatory Migration Why is it that in every digital transformation meeting, someone insists the first step is to migrate everything? As if physical relocation somehow increases intelligence. A file sits peacefully in SharePoint, minding its own business, and then a consultant declares it must be “upgraded” to Dataverse for “future compatibility.” Translation: […]",
+          "link": "https://365community.online/use-lists-as-copilot-knowledge",
+          "publishedOn": "2025-12-20T02:26:21.000Z",
+          "wordCount": 5621,
+          "title": "Use Lists as Copilot Knowledge",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766197581_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/fix-power-apps-data-entry-use-this-ai-agent",
           "author": "Mirko Peters",
           "description": "The Data Entry Nightmare Let’s start with something familiar — the Power Apps form. Every organization has one. Rows of text boxes pretending to be productivity. You click “New Record,” a form opens, and suddenly you’re not an analyst or a manager. You’re a typist. Copying names, phone numbers, addresses, maybe from an email that […]",
@@ -36609,6 +36649,16 @@
           "wordCount": 6212,
           "title": "Fix Power Apps Data Entry: Use THIS AI Agent",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766184927_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/welcome-from-jonnychipz-youtube",
+          "author": "John Lunn",
+          "description": "Welcome from Jonnychipz! source",
+          "link": "https://365community.online/welcome-from-jonnychipz-youtube",
+          "publishedOn": "2025-12-19T22:41:28.000Z",
+          "wordCount": 2070,
+          "title": "Welcome from Jonnychipz! – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766200214_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
         {
           "id": "https://365community.online/i-have-forged-your-new-data-reality",
@@ -75489,106 +75539,6 @@
           "wordCount": 3125,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Support Scalar Type Variables when Invoking from Protocol Handler in Power Automate for Desktop",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/publish-copilot-to-microsoft-teams-part-2-copilotstudio-diehardcopilot-copilot-mcs-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/publish-copilot-to-microsoft-teams-part-2-copilotstudio-diehardcopilot-copilot-mcs-youtube",
-          "publishedOn": "2023-12-22T14:00:23.000Z",
-          "wordCount": 2942,
-          "title": "Publish Copilot to Microsoft Teams Part 2 #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703262340_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/dynamics-365-sales-alerts-native-notifications-vs-alerts4dynamics-which-one-is-right-for-you",
-          "author": "Inogic",
-          "description": "For an effective sales process, it is crucial to be up-to-date with important sales events. By staying abreast of these crucial moments, you gain a vital edge, allowing you to […]",
-          "link": "https://365community.online/dynamics-365-sales-alerts-native-notifications-vs-alerts4dynamics-which-one-is-right-for-you",
-          "publishedOn": "2023-12-22T11:51:39.000Z",
-          "wordCount": 3331,
-          "title": "Dynamics 365 Sales Alerts: Native Notifications vs. Alerts4Dynamics – Which one is Right for You?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Alerts4Dynamics.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-prevent-negative-stock-levels",
-          "author": "Ian Grieve",
-          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-prevent-negative-stock-levels",
-          "publishedOn": "2023-12-22T11:00:07.000Z",
-          "wordCount": 3097,
-          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Prevent Negative Stock Levels",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703248717_In-Microsoft-Dynamics-365-Business-Central-Inventory-and-Warehouse-Management.png?fit=1078%2C349&ssl=1"
-        },
-        {
-          "id": "https://365community.online/unwrap-culinary-confidence-and-the-potential-of-maplytics-in-festive-feast",
-          "author": "Inogic",
-          "description": "The post Unwrap Culinary Confidence and the Potential of Maplytics in Festive Feast appeared first on Blog | Maplytics. Source link",
-          "link": "https://365community.online/unwrap-culinary-confidence-and-the-potential-of-maplytics-in-festive-feast",
-          "publishedOn": "2023-12-22T09:11:07.000Z",
-          "wordCount": 3185,
-          "title": "Unwrap Culinary Confidence and the Potential of Maplytics in Festive Feast",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/129.png?fit=700%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows",
-          "author": "Pieter Veenstra",
-          "description": "Enabling a SharePoint feature from a flow in Power Automate is easy, but how do you deactivate features? Activate a feature in SharePoint I’ve got a SharePoint site and I […]",
-          "link": "https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows",
-          "publishedOn": "2023-12-21T19:17:15.000Z",
-          "wordCount": 3026,
-          "title": "Activate and Deactivate Features in SharePoint form Power Automate Flows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-use-templates-in-sharepoint-libraries",
-          "author": "Marcin Siewnicki",
-          "description": "Microsoft introduced long-awaited templates for SharePoint libraries. It’s available for everyone so you can use it to jump-start the creation process. Is it good? What’s inside? What’s missing? Let’s check […]",
-          "link": "https://365community.online/how-to-use-templates-in-sharepoint-libraries",
-          "publishedOn": "2023-12-21T16:54:12.000Z",
-          "wordCount": 3032,
-          "title": "How to use Templates in SharePoint libraries",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow",
-          "author": "michelcarlo",
-          "description": "We know that in order to use OAuth2 implicit flow in Power Pages, we need to have a certificate in the proper format as specified by Microsoft here: Manage custom […]",
-          "link": "https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow",
-          "publishedOn": "2023-12-21T15:38:54.000Z",
-          "wordCount": 3215,
-          "title": "Converting a certificate from .cert to .pfx to use with Power Pages OAuth2 implicit flow",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/certppages.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/want-to-track-your-fitness-goals-using-an-app",
-          "author": "harditbhatia",
-          "description": "Learn how I created a data model and built a fitness tracker app to track my workouts and weight, that’s responsive and supports dark mode! The post Want to track […]",
-          "link": "https://365community.online/want-to-track-your-fitness-goals-using-an-app",
-          "publishedOn": "2023-12-21T15:11:12.000Z",
-          "wordCount": 3008,
-          "title": "Want to track your fitness goals using an app?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Want-to-track-your-fitness-goals-using-an-app.jpg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://365community.online/publish-copilot-to-microsoft-teams-part-1-copilotstudio-diehardcopilot-copilot-mcs-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/publish-copilot-to-microsoft-teams-part-1-copilotstudio-diehardcopilot-copilot-mcs-youtube",
-          "publishedOn": "2023-12-21T15:00:09.000Z",
-          "wordCount": 2942,
-          "title": "Publish Copilot to Microsoft Teams Part 1 #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703276799_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows",
-          "publishedOn": "2023-12-21T15:00:00.000Z",
-          "wordCount": 3093,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use SAP-dedicated Actions in Desktop Flows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -76835,6 +76785,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19946",
+          "author": "André Arnaud de Calavon",
+          "description": "We are reaching Christmas. A few more days for the Advent Calendar. Still, I have a lot to share. In this post, I will talk about user license recognition for users inheriting security role permissions via Microsoft Entra ID groups. Entra ID groups When the license enforcement was announced, a lot of questions were around […]\nThe post Licensing Advent Calendar – Day 21 – Entra ID groups appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-21-entra-id-groups/",
+          "publishedOn": "2025-12-20T23:00:00.000Z",
+          "wordCount": 4607,
+          "title": "Licensing Advent Calendar – Day 21 – Entra ID groups",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-21.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19927",
           "author": "André Arnaud de Calavon",

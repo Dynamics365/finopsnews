@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-20T01:48:26.421Z</updated>
+    <updated>2025-12-21T02:01:01.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Vibe Coding Worth It in 2025?]]></title>
+        <id>https://365community.online/is-vibe-coding-worth-it-in-2025</id>
+        <link href="https://365community.online/is-vibe-coding-worth-it-in-2025"/>
+        <updated>2025-12-21T00:03:49.000Z</updated>
+        <summary type="html"><![CDATA[The UI Paradox You’re still dragging rectangles around in Power Apps? Fascinating. It’s 2025, and half of you are still nudging buttons pixel by pixel like it’s 2019. The rest have discovered something far more sophisticated—describing their pages in plain English and letting AI build the layout. One group babysits pixels. The other supervises intelligence. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 21 – Entra ID groups]]></title>
+        <id>https://dynamicspedia.com/?p=19946</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-21-entra-id-groups/"/>
+        <updated>2025-12-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are reaching Christmas. A few more days for the Advent Calendar. Still, I have a lot to share. In this post, I will talk about user license recognition for users inheriting security role permissions via Microsoft Entra ID groups. Entra ID groups When the license enforcement was announced, a lot of questions were around […]
+The post Licensing Advent Calendar – Day 21 – Entra ID groups appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint Is Broken: The AI Governance Fix]]></title>
+        <id>https://365community.online/sharepoint-is-broken-the-ai-governance-fix</id>
+        <link href="https://365community.online/sharepoint-is-broken-the-ai-governance-fix"/>
+        <updated>2025-12-20T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Is SharePoint really broken in the age of artificial intelligence? Or is the real problem missing AI governance and data strategy? In this episode, I explain why traditional SharePoint architectures fail in modern AI-driven environments—and how a structured AI governance framework can fix data chaos, security risks, and compliance issues before they destroy trust in […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 20 – SQL Server 2025 – Change Event Streaming]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=11013</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/20/advent-of-2025-day-20-sql-server-2025-change-event-streaming/"/>
+        <updated>2025-12-20T18:57:03.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: Change event streaming (CES) is data integration capability that streams SQL Server data changes directly into Azure Event hubs. It captures and publishes incremental changes of data to an Azure Event Hubs destination…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Generative Pages Wrong! The Licensing Trap]]></title>
+        <id>https://365community.online/stop-using-generative-pages-wrong-the-licensing-trap</id>
+        <link href="https://365community.online/stop-using-generative-pages-wrong-the-licensing-trap"/>
+        <updated>2025-12-20T16:37:25.000Z</updated>
+        <summary type="html"><![CDATA[The “Free Lunch” Illusion Everyone’s mesmerized by that shiny button in Power Apps that says, “Describe your page, and we’ll build it.” You type a sentence like, “Create a calendar showing upcoming product launches,” and a few seconds later, AI conjures a functional interface, styled neatly, connected to data you didn’t even bother wiring up. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Crime Scene: The Microsoft Forensics]]></title>
+        <id>https://365community.online/cloud-crime-scene-the-microsoft-forensics-2</id>
+        <link href="https://365community.online/cloud-crime-scene-the-microsoft-forensics-2"/>
+        <updated>2025-12-20T12:49:03.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,600The hum of the SOC dies, the cursor stops, then. 200:00:04,600 –> 00:00:06,100Nothing. 300:00:06,100 –> 00:00:08,760A trillion dollar crime scene. 400:00:08,760 –> 00:00:10,560Too quiet. 500:00:10,560 –> 00:00:12,360Too clean. 600:00:12,360 –> 00:00:14,320I don’t solve breaches. 700:00:14,320 –> 00:00:15,880I dissect them. 800:00:15,880 –> 00:00:17,680Two cases on the slab. 900:00:17,680 –> 00:00:22,480First, a click at 1/12, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canvas Apps Are Dead: Why Generative Pages Win]]></title>
+        <id>https://365community.online/canvas-apps-are-dead-why-generative-pages-win</id>
+        <link href="https://365community.online/canvas-apps-are-dead-why-generative-pages-win"/>
+        <updated>2025-12-20T09:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Opening: The Canvas App Lie You still build Canvas Apps? Fascinating. That’s like hand‑coding a macro in 2024. Once upon a time that gave you bragging rights; now it just means you volunteered for unnecessary suffering. Canvas Apps promised liberation—the power to design any interface you could imagine. Freedom, they said. Drag‑and‑drop creativity without code, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Crime Scene: The Microsoft Forensics]]></title>
+        <id>https://365community.online/cloud-crime-scene-the-microsoft-forensics</id>
+        <link href="https://365community.online/cloud-crime-scene-the-microsoft-forensics"/>
+        <updated>2025-12-20T05:43:12.000Z</updated>
+        <summary type="html"><![CDATA[What really happens inside a Security Operations Center when a cloud breach unfolds? In this gripping episode of Cloud Crime Scene: The Microsoft Forensics, we take you deep inside the digital investigation process as Microsoft security experts unravel a real-world style cloud incident. From silent alerts to hidden attacker movement, you’ll experience how modern cyber […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Lists as Copilot Knowledge]]></title>
+        <id>https://365community.online/use-lists-as-copilot-knowledge</id>
+        <link href="https://365community.online/use-lists-as-copilot-knowledge"/>
+        <updated>2025-12-20T02:26:21.000Z</updated>
+        <summary type="html"><![CDATA[The Myth of Mandatory Migration Why is it that in every digital transformation meeting, someone insists the first step is to migrate everything? As if physical relocation somehow increases intelligence. A file sits peacefully in SharePoint, minding its own business, and then a consultant declares it must be “upgraded” to Dataverse for “future compatibility.” Translation: […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Licensing Advent Calendar – Day 20 – Security analysis in PPAC and LCS]]></title>
         <id>https://dynamicspedia.com/?p=19927</id>
@@ -25,6 +117,16 @@ The post Licensing Advent Calendar – Day 20 – Security analysis in PPAC and 
         <summary type="html"><![CDATA[The Data Entry Nightmare Let’s start with something familiar — the Power Apps form. Every organization has one. Rows of text boxes pretending to be productivity. You click “New Record,” a form opens, and suddenly you’re not an analyst or a manager. You’re a typist. Copying names, phone numbers, addresses, maybe from an email that […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome from Jonnychipz! – YouTube]]></title>
+        <id>https://365community.online/welcome-from-jonnychipz-youtube</id>
+        <link href="https://365community.online/welcome-from-jonnychipz-youtube"/>
+        <updated>2025-12-19T22:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Welcome from Jonnychipz! source]]></summary>
+        <author>
+            <name>John Lunn</name>
         </author>
     </entry>
     <entry>
@@ -107033,159 +107135,6 @@ Are We Ready for ERP Software To Integrate with Social Media?
 What's New in Microsoft Dynamics NAV 2015: User Experience Enhancements]]></summary>
         <author>
             <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publish Copilot to Microsoft Teams Part 2 #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube]]></title>
-        <id>https://365community.online/publish-copilot-to-microsoft-teams-part-2-copilotstudio-diehardcopilot-copilot-mcs-youtube</id>
-        <link href="https://365community.online/publish-copilot-to-microsoft-teams-part-2-copilotstudio-diehardcopilot-copilot-mcs-youtube"/>
-        <updated>2023-12-22T14:00:23.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central Cloud Vs On-premises]]></title>
-        <id>https://erpsoftwareblog.com/?p=102753</id>
-        <link href="https://erpsoftwareblog.com/2023/12/business-central-cloud-vs-on-premises/"/>
-        <updated>2023-12-22T14:00:22.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to implementing or upgrading your ERP software, the decision between Dynamics 365 Business Central Cloud and On-premises can be a challenging one. Each option offers unique advantages …  Dynamics 365 Business Central Cloud Vs On-premises Read More »
-The post Dynamics 365 Business Central Cloud Vs On-premises appeared first on ERP Software Blog.
-Upcoming Webcast: "Structuring Software Sales Transactions for Optimal Revenue Recognition"
-Dynamics GP 2013’s New Licensing Structure Offers Additional Modules and Users at No Extra Charge
-Key Steps for Selecting the Right ERP Software]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Sales Alerts: Native Notifications vs. Alerts4Dynamics – Which one is Right for You?]]></title>
-        <id>https://365community.online/dynamics-365-sales-alerts-native-notifications-vs-alerts4dynamics-which-one-is-right-for-you</id>
-        <link href="https://365community.online/dynamics-365-sales-alerts-native-notifications-vs-alerts4dynamics-which-one-is-right-for-you"/>
-        <updated>2023-12-22T11:51:39.000Z</updated>
-        <summary type="html"><![CDATA[For an effective sales process, it is crucial to be up-to-date with important sales events. By staying abreast of these crucial moments, you gain a vital edge, allowing you to […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integration of the B2B Portal with Different Systems]]></title>
-        <id>https://erpsoftwareblog.com/?p=102702</id>
-        <link href="https://erpsoftwareblog.com/2023/12/integration-of-the-b2b-portal-with-different-systems/"/>
-        <updated>2023-12-22T11:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Integration of the B2B Portal with Different Systems involves connecting multiple applications or platforms with each other to rationalize processes and enable consistent data exchange. The integration process varies depending …  Integration of the B2B Portal with Different Systems Read More »
-The post Integration of the B2B Portal with Different Systems appeared first on ERP Software Blog.
-Give Customers Everything They Want This Year with Integrated ERP and CRM
-Strengthen Your Technology by Integrating ERP With CRM
-Cloud-Based ERP Offers More Options to Manufacturers]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Prevent Negative Stock Levels]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-prevent-negative-stock-levels</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-prevent-negative-stock-levels"/>
-        <updated>2023-12-22T11:00:07.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unwrap Culinary Confidence and the Potential of Maplytics in Festive Feast]]></title>
-        <id>https://365community.online/unwrap-culinary-confidence-and-the-potential-of-maplytics-in-festive-feast</id>
-        <link href="https://365community.online/unwrap-culinary-confidence-and-the-potential-of-maplytics-in-festive-feast"/>
-        <updated>2023-12-22T09:11:07.000Z</updated>
-        <summary type="html"><![CDATA[The post Unwrap Culinary Confidence and the Potential of Maplytics in Festive Feast appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent of 2023, Day 21 – Monitoring workspaces with Fabric]]></title>
-        <id>http://tomaztsql.wordpress.com/?p=9850</id>
-        <link href="https://tomaztsql.wordpress.com/2023/12/21/advent-of-2023-day-21-monitoring-workspaces-with-fabric/"/>
-        <updated>2023-12-21T21:35:50.000Z</updated>
-        <summary type="html"><![CDATA[In this Microsoft Fabric series: Monitoring workspaces, executions and checking logs is so quintessential, that one should get familiarized with this in the first place. Monitoring Hub The easy way to check, view and track your activities and execution and…
-Read more ›]]></summary>
-        <author>
-            <name>tomaztsql</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Activate and Deactivate Features in SharePoint form Power Automate Flows]]></title>
-        <id>https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows</id>
-        <link href="https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows"/>
-        <updated>2023-12-21T19:17:15.000Z</updated>
-        <summary type="html"><![CDATA[Enabling a SharePoint feature from a flow in Power Automate is easy, but how do you deactivate features? Activate a feature in SharePoint I’ve got a SharePoint site and I […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Transportation Management Highlights for Dynamics 365 Users]]></title>
-        <id>https://erpsoftwareblog.com/?p=102643</id>
-        <link href="https://erpsoftwareblog.com/2023/12/2023-transportation-management-highlights-for-dynamics-365-users/"/>
-        <updated>2023-12-21T19:00:49.000Z</updated>
-        <summary type="html"><![CDATA[2023 has been a significant year for the transportation management industry. The field has seen notable growth and advancements, particularly in the wake of rebalancing post-COVID-19 disruptions. In this article, …  2023 Transportation Management Highlights for Dynamics 365 Users Read More »
-The post 2023 Transportation Management Highlights for Dynamics 365 Users appeared first on ERP Software Blog.
-Time to Upgrade Your TMS or Maybe Move to a New Provider ?
-Dynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System
-Comparing Customized Dynamics 365 TMS Solutions with Off-the-Shelf Transportation Management Solutions]]></summary>
-        <author>
-            <name>Next Generation Logistics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Templates in SharePoint libraries]]></title>
-        <id>https://365community.online/how-to-use-templates-in-sharepoint-libraries</id>
-        <link href="https://365community.online/how-to-use-templates-in-sharepoint-libraries"/>
-        <updated>2023-12-21T16:54:12.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft introduced long-awaited templates for SharePoint libraries. It’s available for everyone so you can use it to jump-start the creation process. Is it good? What’s inside? What’s missing? Let’s check […]]]></summary>
-        <author>
-            <name>Marcin Siewnicki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting a certificate from .cert to .pfx to use with Power Pages OAuth2 implicit flow]]></title>
-        <id>https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow</id>
-        <link href="https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow"/>
-        <updated>2023-12-21T15:38:54.000Z</updated>
-        <summary type="html"><![CDATA[We know that in order to use OAuth2 implicit flow in Power Pages, we need to have a certificate in the proper format as specified by Microsoft here: Manage custom […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to track your fitness goals using an app?]]></title>
-        <id>https://365community.online/want-to-track-your-fitness-goals-using-an-app</id>
-        <link href="https://365community.online/want-to-track-your-fitness-goals-using-an-app"/>
-        <updated>2023-12-21T15:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Learn how I created a data model and built a fitness tracker app to track my workouts and weight, that’s responsive and supports dark mode! The post Want to track […]]]></summary>
-        <author>
-            <name>harditbhatia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publish Copilot to Microsoft Teams Part 1 #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube]]></title>
-        <id>https://365community.online/publish-copilot-to-microsoft-teams-part-1-copilotstudio-diehardcopilot-copilot-mcs-youtube</id>
-        <link href="https://365community.online/publish-copilot-to-microsoft-teams-part-1-copilotstudio-diehardcopilot-copilot-mcs-youtube"/>
-        <updated>2023-12-21T15:00:09.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Use SAP-dedicated Actions in Desktop Flows]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows"/>
-        <updated>2023-12-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>
