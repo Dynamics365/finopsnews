@@ -798,6 +798,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=11031",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: We have looked into the settings of SQL server and generating SAS token. And now we will need to set the needed Azure services. Create Event Hub in Azure Portal In Portal create…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/21/advent-of-2025-day-21-sql-server-2025-change-event-streaming-part-2/",
+          "publishedOn": "2025-12-21T18:59:55.000Z",
+          "wordCount": 5875,
+          "title": "Advent of 2025, Day 21 – SQL Server 2025 – Change Event Streaming – part 2",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-94.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=11013",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: Change event streaming (CES) is data integration capability that streams SQL Server data changes directly into Azure Event hubs. It captures and publishes incremental changes of data to an Azure Event Hubs destination…\nRead more ›",
@@ -1461,16 +1471,6 @@
           "wordCount": 5102,
           "title": "Advent of 2023, Day 23 – Admin Portal in Fabric",
           "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-122.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9881",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: Apps are collections of dashboards and reports in one easy-to-find place. Go to Apps and click on “Get Apps”. Click the Microsoft Fabric Capacity Metrics tile, click on “get it” and later click on “install…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/22/advent-of-2023-day-22-apps-in-fabric/",
-          "publishedOn": "2023-12-22T18:19:04.000Z",
-          "wordCount": 4096,
-          "title": "Advent of 2023, Day 22 – Apps in Fabric",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-118.png"
         }
       ]
     },
@@ -34995,26 +34995,6 @@
           "wordCount": 7571,
           "title": "Enhancing Order Accuracy with LS Central in Your Restaurants",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-111.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102760",
-          "author": "Fidesic AP",
-          "description": "Over the last 10 years, businesses have shown more interest in the ability to outsource the accounts payable process, and that interest has only grown among small businesses during the …  Outsource Accounts Payable Processes? Pros and Cons Read More »\nThe post Outsource Accounts Payable Processes? Pros and Cons appeared first on ERP Software Blog.\nThe Struggle to Hire an Accounts Payable Clerk\nDynamics GP to Business Central Migration? Consider these Differences\nHow to Convince Vendors to Accept Electronic Payments",
-          "link": "https://erpsoftwareblog.com/2023/12/outsource-accounts-payable-processes-pros-and-cons/",
-          "publishedOn": "2023-12-22T16:59:01.000Z",
-          "wordCount": 7991,
-          "title": "Outsource Accounts Payable Processes? Pros and Cons",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/outsource-accounts-payable-1.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102545",
-          "author": "Dynamics Square USA",
-          "description": "Microsoft Dynamics 365 Implementation Guide:  Microsoft Dynamics 365 is a suite of ERP and CRM business applications. It's designed to provide businesses with integrated, end-to-end solutions that streamline various business …  Microsoft Dynamics 365 Implementation: Best Practices to Consider Read More »\nThe post Microsoft Dynamics 365 Implementation: Best Practices to Consider appeared first on ERP Software Blog.\nAre We Ready for ERP Software To Integrate with Social Media?\n6 Must-Ask Questions When Interviewing ERP Implementation Firms\nWhat's New in Microsoft Dynamics NAV 2015: User Experience Enhancements",
-          "link": "https://erpsoftwareblog.com/2023/12/microsoft-dynamics-365-implementation-guide/",
-          "publishedOn": "2023-12-22T14:13:08.000Z",
-          "wordCount": 9860,
-          "title": "Microsoft Dynamics 365 Implementation: Best Practices to Consider",
-          "imageUrl": "https://www.dynamicssquare.com/img/Dynamics-365-overview.svg"
         }
       ]
     },
@@ -36570,6 +36550,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/automate-multi-stage-approvals-with-copilot-studio",
+          "author": "Mirko Peters",
+          "description": "You spend half your day waiting for approvals. Someone’s on vacation, someone else “didn’t see the email,” and by the time a decision finally arrives, the context that justified the request has expired. Corporate purgatory: progress paused by people who swear they’re busy. Now, picture a system that simply doesn’t wait. A workflow that moves […]",
+          "link": "https://365community.online/automate-multi-stage-approvals-with-copilot-studio",
+          "publishedOn": "2025-12-22T01:04:56.000Z",
+          "wordCount": 5526,
+          "title": "Automate Multi-Stage Approvals with Copilot Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766365496_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-your-ai-flows-fail-the-rfi-fix-explained",
+          "author": "Mirko Peters",
+          "description": "The Hidden Killer of Your “Smart” Flows Your AI flow didn’t fail because of AI. It failed because it trusted you.That’s the part nobody wants to hear. You built an automation, called it “smart,” and then fed it half-baked data from a form someone filled out on a Friday afternoon. You assumed automation meant reliability—when […]",
+          "link": "https://365community.online/why-your-ai-flows-fail-the-rfi-fix-explained",
+          "publishedOn": "2025-12-21T21:26:09.000Z",
+          "wordCount": 5635,
+          "title": "Why Your AI Flows Fail: The RFI Fix Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766352369_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-physics-of-security-drift-part-1",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,400At the edge of your network, time moves differently. 200:00:02,400 –> 00:00:07,560Patches drift like red-shifted signals, passwords orbit forever, 300:00:07,560 –> 00:00:11,760a domain controller from another era hums as if alone. 400:00:11,760 –> 00:00:15,400Inside, threads of services trade secrets like starlight, 500:00:15,400 –> 00:00:18,800tickets, trusts, shares. We call it normal operations. 600:00:18,800 –> […]",
+          "link": "https://365community.online/the-physics-of-security-drift-part-1",
+          "publishedOn": "2025-12-21T17:52:43.000Z",
+          "wordCount": 24903,
+          "title": "The Physics of Security Drift (Part 1)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766339563_image_urlhttps3A2F2Fd3wo5wojvuv7l.cloudfront.net2Ft_rss_itunes_square_14002Fimages.spreaker.c.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-physics-of-security-drift-part-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:05,360Unconstrained delegation, TGT extraction, there is a furnace on the application tier. 200:00:05,360 –> 00:00:06,360No one calls it that. 300:00:06,360 –> 00:00:12,080They call it App Invoice, EUR2, a legacy web server that prints, receipts, and talks to 400:00:12,080 –> 00:00:13,080SQL. 500:00:13,080 –> 00:00:19,640A decade ago, to make single sign on painless, someone enabled […]",
+          "link": "https://365community.online/the-physics-of-security-drift-part-2",
+          "publishedOn": "2025-12-21T14:21:17.000Z",
+          "wordCount": 28086,
+          "title": "The Physics of Security Drift (Part 2)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/image_urlhttps3A2F2Fd3wo5wojvuv7l.cloudfront.net2Ft_rss_itunes_square_14002Fimages.spreaker.c.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-difference-between-agents-and-workflows-in-copilot",
+          "author": "Mirko Peters",
+          "description": "People keep calling these “AI automations” like that phrase means anything. It doesn’t. You can’t lump a Copilot Studio agent and a Power Automate workflow into the same conceptual bucket any more than you can call a Roomba and a human housekeeper “similar cleaning devices.” One follows strict routines; the other interprets messy instructions and […]",
+          "link": "https://365community.online/the-difference-between-agents-and-workflows-in-copilot",
+          "publishedOn": "2025-12-21T10:43:23.000Z",
+          "wordCount": 6182,
+          "title": "The Difference Between Agents and Workflows in Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766313803_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sharepoint-is-broken-the-ai-governance-fix-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:07,760At 0347 UTC, I detected a pattern, concurrent flow failures, permission edits without tickets, 200:00:07,760 –> 00:00:12,160and three new SharePoint lists named “Test” created within 4 minutes. 300:00:12,160 –> 00:00:15,360Not an outage, entropy, intervention, authorized. 400:00:15,360 –> 00:00:18,800I will show you the exact controls to restore alignment. 500:00:18,800 –> 00:00:24,160Disciplined SharePoint schemas, predictable […]",
+          "link": "https://365community.online/sharepoint-is-broken-the-ai-governance-fix-2",
+          "publishedOn": "2025-12-21T07:13:57.000Z",
+          "wordCount": 7788,
+          "title": "SharePoint Is Broken: The AI Governance Fix",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766301237_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/vibe-code-vs-low-code",
+          "author": "Mirko Peters",
+          "description": "The Myth of “Low-Code for Everyone” Most people think Power Apps is about dragging buttons onto screens until something vaguely resembling an app appears. Click, drag, publish—done. Wrong. That’s the fairy tale version Microsoft marketed to “empower everyone,” and it worked—too well. Because now, there’s a new species loose in the ecosystem: Vibe Code. That’s […]",
+          "link": "https://365community.online/vibe-code-vs-low-code",
+          "publishedOn": "2025-12-21T03:37:59.000Z",
+          "wordCount": 5722,
+          "title": "Vibe Code vs. Low Code",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766288279_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/is-vibe-coding-worth-it-in-2025",
           "author": "Mirko Peters",
@@ -75519,26 +75569,6 @@
           "wordCount": 3058,
           "title": "Last Christmas…",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703445147_Last-Christmas….jpeg?fit=1200%2C573&ssl=1"
-        },
-        {
-          "id": "https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube",
-          "author": "Matt Collins",
-          "description": "source",
-          "link": "https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube",
-          "publishedOn": "2023-12-23T13:01:00.000Z",
-          "wordCount": 2937,
-          "title": "Publish Copilot to a demo website #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703411352_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-support-scalar-type-variables-when-invoking-from-protocol-handler-in-power-automate-for-desktop",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-support-scalar-type-variables-when-invoking-from-protocol-handler-in-power-automate-for-desktop",
-          "publishedOn": "2023-12-22T15:00:08.000Z",
-          "wordCount": 3125,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Support Scalar Type Variables when Invoking from Protocol Handler in Power Automate for Desktop",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -76785,6 +76815,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19965",
+          "author": "André Arnaud de Calavon",
+          "description": "On the licensing reports in Power Platform Admin Center (PPAC) and Lifecycle Services (LCS), you might see users appearing with a GUID instead of an email. Who are these users, and what will be your next step to clean up the GUID users? GUID When looking at users requiring a license, overall or for a […]\nThe post Licensing Advent Calendar – Day 22 – Invalid users appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-22-invalid-users/",
+          "publishedOn": "2025-12-21T23:00:00.000Z",
+          "wordCount": 4342,
+          "title": "Licensing Advent Calendar – Day 22 – Invalid users",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-22.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19946",
           "author": "André Arnaud de Calavon",
