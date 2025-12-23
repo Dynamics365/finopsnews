@@ -2,10 +2,192 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-22T02:00:29.646Z</updated>
+    <updated>2025-12-23T01:56:24.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 23 – Assign licenses]]></title>
+        <id>https://dynamicspedia.com/?p=19968</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-23-assign-licenses/"/>
+        <updated>2025-12-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the past 22 days, I shared a lot about understanding the license reports, cleaning up users and security roles to save on excessive license costs, together with some tips and background information. Now reaching the end of the Advent Calendar, I realize that I still have a lot to write about. Today, let’s talk […]
+The post Licensing Advent Calendar – Day 23 – Assign licenses appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Azure File Sync Is A Time Bomb]]></title>
+        <id>https://365community.online/your-azure-file-sync-is-a-time-bomb</id>
+        <link href="https://365community.online/your-azure-file-sync-is-a-time-bomb"/>
+        <updated>2025-12-22T22:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Opening: The Hidden Time Bomb in Your Azure File Sync Most Azure File Sync environments today are quietly rotting under the surface—still running on expired security models and nobody’s talking about it. The reason? It still syncs. The files move, the dashboards stay green, and the admins congratulate themselves for maintaining “stability.” Meanwhile, the authentication […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Bottleneck in Your Business Central Production Plan]]></title>
+        <id>https://erpsoftwareblog.com/?p=138947</id>
+        <link href="https://erpsoftwareblog.com/2025/12/the-hidden-bottleneck-in-your-business-central-production-plan-2/"/>
+        <updated>2025-12-22T20:59:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You’ve optimized your routings. Your BOMs are clean. Your planners are working overtime to keep production flowing. So why are delivery dates still slipping? The answer might not be your […]
+The post The Hidden Bottleneck in Your Business Central Production Plan appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Planning for 2026, Why Planning Maturity Matters More Than Technology]]></title>
+        <id>https://erpsoftwareblog.com/?p=139073</id>
+        <link href="https://erpsoftwareblog.com/2025/12/supply-chain-planning-for-2026-why-planning-maturity-matters-more-than-technology/"/>
+        <updated>2025-12-22T20:34:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Supply Chain Planning for 2026, From Incremental Fixes to Structural Reinvention As organizations head into 2026 planning cycles, supply chain leaders are facing a sharper version of a familiar mandate. […]
+The post Supply Chain Planning for 2026, Why Planning Maturity Matters More Than Technology appeared first on ERP Software Blog.
+Supply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment
+Your guide to choosing the best eCommerce solution: breaking down the ROI
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Case of the Perfect Execution]]></title>
+        <id>https://365community.online/the-case-of-the-perfect-execution-2</id>
+        <link href="https://365community.online/the-case-of-the-perfect-execution-2"/>
+        <updated>2025-12-22T19:14:54.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,080What we know now, the logs were clean, the agent didn’t crash, 200:00:03,080 –> 00:00:05,920no exceptions, no governance violations, 300:00:05,920 –> 00:00:08,560the execution trace looked like a brochure. 400:00:08,560 –> 00:00:11,720At the time, no one noticed the silence between steps. 500:00:11,720 –> 00:00:13,840The model router took a path nobody specified, 600:00:13,840 –> 00:00:17,600latency […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 22 – SQL Server 2025 – T-SQL Features – UNISTR()]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=11062</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/22/advent-of-2025-day-22-sql-server-2025-t-sql-features-unistr/"/>
+        <updated>2025-12-22T16:44:43.000Z</updated>
+        <summary type="html"><![CDATA[n this Microsoft SQL Server 2025 series: UNISTR() function is a new T-SQL function in SQL Server 2025. It will help you with unicode string literals (e.g.: special characters, emoji, special language alphabets and others) by letting you specify the…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is WordPress Hosting? A Simple Breakdown]]></title>
+        <id>https://365community.online/what-is-wordpress-hosting-a-simple-breakdown</id>
+        <link href="https://365community.online/what-is-wordpress-hosting-a-simple-breakdown"/>
+        <updated>2025-12-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress hosting helps you get a WordPress site online faster and keep it running smoothly by reducing setup and configuration work. This guide explains what WordPress hosting is, how it differs from other hosting options, and what to look for in a provider. What is WordPress hosting? WordPress hosting is a specialized type of web […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Case of the Perfect Execution]]></title>
+        <id>https://365community.online/the-case-of-the-perfect-execution</id>
+        <link href="https://365community.online/the-case-of-the-perfect-execution"/>
+        <updated>2025-12-22T15:29:08.000Z</updated>
+        <summary type="html"><![CDATA[What happens when AI systems don’t fail — but still move architecture in ways no one explicitly approved? In this episode, we investigate a quiet but profound shift happening inside modern AI-driven platforms: architecture is no longer only designed at build time — it is increasingly shaped at runtime. Everything works.Nothing crashes.Policies pass.Costs go down.Latency […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The OMZY Greatest Hits of 2025: Trends on What Service Firm Wanted to Learn About]]></title>
+        <id>https://erpsoftwareblog.com/?p=138675</id>
+        <link href="https://erpsoftwareblog.com/2025/12/discover-the-top-trends-and-insights-for-service-firms-in-2025/"/>
+        <updated>2025-12-22T14:27:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Wonder what professional service firms were most interested in learning about over last year? We’ve rounded up the five most-read OMZY posts from 2025. Spoiler alert: they all focus on […]
+The post The OMZY Greatest Hits of 2025: Trends on What Service Firm Wanted to Learn About appeared first on ERP Software Blog.
+Resource Usage in OMZY and why it is important for the Microsoft Dynamics 365 Business Central community
+What are Typical Profit Margins in the Services Industry?
+Timely Invoicing: A Guide for Service Companies]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 11 Enterprise Supply Chain Management Software in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=138915</id>
+        <link href="https://erpsoftwareblog.com/2025/12/top-11-enterprise-supply-chain-management-software/"/>
+        <updated>2025-12-22T14:14:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As global supply chains grow more complex, enterprises can no longer rely on disconnected systems, spreadsheets, or basic ERP tools to manage planning, production, inventory, and logistics. Volatile demand, rising […]
+The post Top 11 Enterprise Supply Chain Management Software in 2026 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank you for being part of this journey 🙏]]></title>
+        <id>http://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/</id>
+        <link href="https://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/"/>
+        <updated>2025-12-22T09:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone 👋As we approach Christmas 🎄 and the New Year ✨, I just want to say a big THANK YOU to this amazing community. Your support and engagement truly motivate me to keep sharing and learning together 🙏 I’ve also recently launched YouTube Channel Memberships, where I’ll be sharing exclusive members-only videos, including a […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank you for being part of this journey 🙏]]></title>
+        <id>http://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/</id>
+        <link href="https://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/"/>
+        <updated>2025-12-22T09:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone 👋As we approach Christmas 🎄 and the New Year ✨, I just want to say a big THANK YOU to this amazing community. Your support and engagement truly motivate me to keep sharing and learning together 🙏 I’ve also recently launched YouTube Channel Memberships, where I’ll be sharing exclusive members-only videos, including a […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing your Azure Storage Account: a guide to enabling Business Central-only access using Network Security Perimeter.]]></title>
+        <id>https://365community.online/securing-your-azure-storage-account-a-guide-to-enabling-business-central-only-access-using-network-security-perimeter</id>
+        <link href="https://365community.online/securing-your-azure-storage-account-a-guide-to-enabling-business-central-only-access-using-network-security-perimeter"/>
+        <updated>2025-12-22T08:36:00.000Z</updated>
+        <summary type="html"><![CDATA[I think that everyone of you know that you can access an Azure Storage Account for managing blobs and files directly from Dynamics 365 Business Central (via AL code). This provides a nice (and often recommended) way of managing blobs and files in a cloud environment (and in many scenario it also permits you to […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Teams and SharePoint Instead]]></title>
+        <id>https://365community.online/use-teams-and-sharepoint-instead</id>
+        <link href="https://365community.online/use-teams-and-sharepoint-instead"/>
+        <updated>2025-12-22T08:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Opening: The Great Model-Driven Mirage Model-Driven Power Apps. They sound impressive, don’t they? “Enterprise-grade automation,” “secure data modeling,” “governance-ready.” It’s the kind of pitch that gets managers nodding before asking a single question, because it sounds responsible. Serious. Adult. The words alone give off a whiff of engineering gravitas—like wearing a lab coat for clicking […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigCommerce vs. Shopify vs. WooCommerce: The Ultimate B2C E-commerce Platform Comparison for 2025]]></title>
+        <id>https://365community.online/bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025</id>
+        <link href="https://365community.online/bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025"/>
+        <updated>2025-12-22T04:56:00.000Z</updated>
+        <summary type="html"><![CDATA[BigCommerce vs. Shopify vs. WooCommerce: The Ultimate B2C E-commerce Platform Comparison for 2025 Original Post https://geodatatek.com/blog/bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025#utm_source=rss&utm_medium=rss&utm_campaign=bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025]]></summary>
+        <author>
+            <name>Vikash Perumal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative Pages Just Killed Low Code Safety]]></title>
+        <id>https://365community.online/generative-pages-just-killed-low-code-safety</id>
+        <link href="https://365community.online/generative-pages-just-killed-low-code-safety"/>
+        <updated>2025-12-22T04:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Opening: The Generative Trap Microsoft’s Generative Pages look like the final, glorious victory for low‑code—the moment the spreadsheet crowd finally caught up to the coders. You type a sentence, press enter, and GPT‑5 obediently assembles a working React page that talks to Dataverse, decorates itself with orange flair, and politely runs on first try. Cue […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate Multi-Stage Approvals with Copilot Studio]]></title>
         <id>https://365community.online/automate-multi-stage-approvals-with-copilot-studio</id>
@@ -107146,28 +107328,6 @@ Read more ›]]></summary>
         <summary type="html"><![CDATA[The title for this post is stolen from a post I read recently on LinkedIn, by Thomas LaRock, a fellow Microsoft MVP though one I’ve never met. The post gave […]]]></summary>
         <author>
             <name>Jen Kuntz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent of 2023, Day 24 – OneLake in Fabric]]></title>
-        <id>http://tomaztsql.wordpress.com/?p=9934</id>
-        <link href="https://tomaztsql.wordpress.com/2023/12/24/advent-of-2023-day-24-onelake-in-fabric/"/>
-        <updated>2023-12-24T12:44:15.000Z</updated>
-        <summary type="html"><![CDATA[In this Microsoft Fabric series: OneLake comes automatically with every Microsoft Fabric tenant and represents a single, logical data lake. Its main features are its unification and one copy of data across the organization and multiple analytical engines. OneLake is…
-Read more ›]]></summary>
-        <author>
-            <name>tomaztsql</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent of 2023, Day 23 – Admin Portal in Fabric]]></title>
-        <id>http://tomaztsql.wordpress.com/?p=9897</id>
-        <link href="https://tomaztsql.wordpress.com/2023/12/23/advent-of-2023-day-23-admin-portal-in-fabric/"/>
-        <updated>2023-12-23T14:27:55.000Z</updated>
-        <summary type="html"><![CDATA[In this Microsoft Fabric series: Admin portal serves purpose for governing and setting the Microsoft Fabric, where you can make  tenant settings, also access the Microsoft 365 admin portal, and control how users interact with Microsoft Fabric. To access the…
-Read more ›]]></summary>
-        <author>
-            <name>tomaztsql</name>
         </author>
     </entry>
     <entry>

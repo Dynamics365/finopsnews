@@ -798,6 +798,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=11062",
+          "author": "tomaztsql",
+          "description": "n this Microsoft SQL Server 2025 series: UNISTR() function is a new T-SQL function in SQL Server 2025. It will help you with unicode string literals (e.g.: special characters, emoji, special language alphabets and others) by letting you specify the…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/22/advent-of-2025-day-22-sql-server-2025-t-sql-features-unistr/",
+          "publishedOn": "2025-12-22T16:44:43.000Z",
+          "wordCount": 5699,
+          "title": "Advent of 2025, Day 22 – SQL Server 2025 – T-SQL Features – UNISTR()",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-97.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=11031",
           "author": "tomaztsql",
           "description": "In this Microsoft SQL Server 2025 series: We have looked into the settings of SQL server and generating SAS token. And now we will need to set the needed Azure services. Create Event Hub in Azure Portal In Portal create…\nRead more ›",
@@ -1451,26 +1461,6 @@
           "wordCount": 4007,
           "title": "Advent of 2023, Day 25 – Learning paths, materials, and documentation on Microsoft Fabric",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9934",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: OneLake comes automatically with every Microsoft Fabric tenant and represents a single, logical data lake. Its main features are its unification and one copy of data across the organization and multiple analytical engines. OneLake is…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/24/advent-of-2023-day-24-onelake-in-fabric/",
-          "publishedOn": "2023-12-24T12:44:15.000Z",
-          "wordCount": 4387,
-          "title": "Advent of 2023, Day 24 – OneLake in Fabric",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-124.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9897",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: Admin portal serves purpose for governing and setting the Microsoft Fabric, where you can make  tenant settings, also access the Microsoft 365 admin portal, and control how users interact with Microsoft Fabric. To access the…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/23/advent-of-2023-day-23-admin-portal-in-fabric/",
-          "publishedOn": "2023-12-23T14:27:55.000Z",
-          "wordCount": 5102,
-          "title": "Advent of 2023, Day 23 – Admin Portal in Fabric",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-122.png"
         }
       ]
     },
@@ -1496,6 +1486,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=138947",
+          "author": "Insight Works",
+          "description": "xxx\nYou’ve optimized your routings. Your BOMs are clean. Your planners are working overtime to keep production flowing. So why are delivery dates still slipping? The answer might not be your […]\nThe post The Hidden Bottleneck in Your Business Central Production Plan appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central\nFrom GP to Business Central: Production Scheduling with MxAPS",
+          "link": "https://erpsoftwareblog.com/2025/12/the-hidden-bottleneck-in-your-business-central-production-plan-2/",
+          "publishedOn": "2025-12-22T20:59:38.000Z",
+          "wordCount": 6989,
+          "title": "The Hidden Bottleneck in Your Business Central Production Plan",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/The-Hidden-Bottleneck-in-Your-Business-Central-Production-Plan-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139073",
+          "author": "StockIQ Technologies",
+          "description": "xxx\nSupply Chain Planning for 2026, From Incremental Fixes to Structural Reinvention As organizations head into 2026 planning cycles, supply chain leaders are facing a sharper version of a familiar mandate. […]\nThe post Supply Chain Planning for 2026, Why Planning Maturity Matters More Than Technology appeared first on ERP Software Blog.\nSupply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment\nYour guide to choosing the best eCommerce solution: breaking down the ROI\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers",
+          "link": "https://erpsoftwareblog.com/2025/12/supply-chain-planning-for-2026-why-planning-maturity-matters-more-than-technology/",
+          "publishedOn": "2025-12-22T20:34:59.000Z",
+          "wordCount": 7852,
+          "title": "Supply Chain Planning for 2026, Why Planning Maturity Matters More Than Technology",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138675",
+          "author": "OMZY",
+          "description": "xxx\nWonder what professional service firms were most interested in learning about over last year? We’ve rounded up the five most-read OMZY posts from 2025. Spoiler alert: they all focus on […]\nThe post The OMZY Greatest Hits of 2025: Trends on What Service Firm Wanted to Learn About appeared first on ERP Software Blog.\nResource Usage in OMZY and why it is important for the Microsoft Dynamics 365 Business Central community\nWhat are Typical Profit Margins in the Services Industry?\nTimely Invoicing: A Guide for Service Companies",
+          "link": "https://erpsoftwareblog.com/2025/12/discover-the-top-trends-and-insights-for-service-firms-in-2025/",
+          "publishedOn": "2025-12-22T14:27:57.000Z",
+          "wordCount": 7656,
+          "title": "The OMZY Greatest Hits of 2025: Trends on What Service Firm Wanted to Learn About",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dec2025_toptrends_feature.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138915",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nAs global supply chains grow more complex, enterprises can no longer rely on disconnected systems, spreadsheets, or basic ERP tools to manage planning, production, inventory, and logistics. Volatile demand, rising […]\nThe post Top 11 Enterprise Supply Chain Management Software in 2026 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/top-11-enterprise-supply-chain-management-software/",
+          "publishedOn": "2025-12-22T14:14:26.000Z",
+          "wordCount": 7640,
+          "title": "Top 11 Enterprise Supply Chain Management Software in 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Supply-Chain-Management-Software-625x417.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=139012",
           "author": "Vyas Consulting",
@@ -36550,6 +36580,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/your-azure-file-sync-is-a-time-bomb",
+          "author": "Mirko Peters",
+          "description": "Opening: The Hidden Time Bomb in Your Azure File Sync Most Azure File Sync environments today are quietly rotting under the surface—still running on expired security models and nobody’s talking about it. The reason? It still syncs. The files move, the dashboards stay green, and the admins congratulate themselves for maintaining “stability.” Meanwhile, the authentication […]",
+          "link": "https://365community.online/your-azure-file-sync-is-a-time-bomb",
+          "publishedOn": "2025-12-22T22:42:43.000Z",
+          "wordCount": 6095,
+          "title": "Your Azure File Sync Is A Time Bomb",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766443363_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-case-of-the-perfect-execution-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,080What we know now, the logs were clean, the agent didn’t crash, 200:00:03,080 –> 00:00:05,920no exceptions, no governance violations, 300:00:05,920 –> 00:00:08,560the execution trace looked like a brochure. 400:00:08,560 –> 00:00:11,720At the time, no one noticed the silence between steps. 500:00:11,720 –> 00:00:13,840The model router took a path nobody specified, 600:00:13,840 –> 00:00:17,600latency […]",
+          "link": "https://365community.online/the-case-of-the-perfect-execution-2",
+          "publishedOn": "2025-12-22T19:14:54.000Z",
+          "wordCount": 18295,
+          "title": "The Case of the Perfect Execution",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766430894_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-is-wordpress-hosting-a-simple-breakdown",
+          "author": "Belinda Allen",
+          "description": "WordPress hosting helps you get a WordPress site online faster and keep it running smoothly by reducing setup and configuration work. This guide explains what WordPress hosting is, how it differs from other hosting options, and what to look for in a provider. What is WordPress hosting? WordPress hosting is a specialized type of web […]",
+          "link": "https://365community.online/what-is-wordpress-hosting-a-simple-breakdown",
+          "publishedOn": "2025-12-22T16:00:00.000Z",
+          "wordCount": 3113,
+          "title": "What Is WordPress Hosting? A Simple Breakdown",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/What-Is-WordPress-Hosting-A-Simple-Breakdown.jpg?fit=1175%2C740&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-case-of-the-perfect-execution",
+          "author": "Mirko Peters",
+          "description": "What happens when AI systems don’t fail — but still move architecture in ways no one explicitly approved? In this episode, we investigate a quiet but profound shift happening inside modern AI-driven platforms: architecture is no longer only designed at build time — it is increasingly shaped at runtime. Everything works.Nothing crashes.Policies pass.Costs go down.Latency […]",
+          "link": "https://365community.online/the-case-of-the-perfect-execution",
+          "publishedOn": "2025-12-22T15:29:08.000Z",
+          "wordCount": 2775,
+          "title": "The Case of the Perfect Execution",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/ff29f3c72f1a206a2064008f8f6fa3e4.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/securing-your-azure-storage-account-a-guide-to-enabling-business-central-only-access-using-network-security-perimeter",
+          "author": "Stefano Demiliani",
+          "description": "I think that everyone of you know that you can access an Azure Storage Account for managing blobs and files directly from Dynamics 365 Business Central (via AL code). This provides a nice (and often recommended) way of managing blobs and files in a cloud environment (and in many scenario it also permits you to […]",
+          "link": "https://365community.online/securing-your-azure-storage-account-a-guide-to-enabling-business-central-only-access-using-network-security-perimeter",
+          "publishedOn": "2025-12-22T08:36:00.000Z",
+          "wordCount": 3479,
+          "title": "Securing your Azure Storage Account: a guide to enabling Business Central-only access using Network Security Perimeter.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Securing-your-Azure-Storage-Account-a-guide-to-enabling-Business.png?fit=1034%2C534&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-teams-and-sharepoint-instead",
+          "author": "Mirko Peters",
+          "description": "Opening: The Great Model-Driven Mirage Model-Driven Power Apps. They sound impressive, don’t they? “Enterprise-grade automation,” “secure data modeling,” “governance-ready.” It’s the kind of pitch that gets managers nodding before asking a single question, because it sounds responsible. Serious. Adult. The words alone give off a whiff of engineering gravitas—like wearing a lab coat for clicking […]",
+          "link": "https://365community.online/use-teams-and-sharepoint-instead",
+          "publishedOn": "2025-12-22T08:15:35.000Z",
+          "wordCount": 5590,
+          "title": "Use Teams and SharePoint Instead",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766391335_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025",
+          "author": "Vikash Perumal",
+          "description": "BigCommerce vs. Shopify vs. WooCommerce: The Ultimate B2C E-commerce Platform Comparison for 2025 Original Post https://geodatatek.com/blog/bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025#utm_source=rss&utm_medium=rss&utm_campaign=bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025",
+          "link": "https://365community.online/bigcommerce-vs-shopify-vs-woocommerce-the-ultimate-b2c-e-commerce-platform-comparison-for-2025",
+          "publishedOn": "2025-12-22T04:56:00.000Z",
+          "wordCount": 2132,
+          "title": "BigCommerce vs. Shopify vs. WooCommerce: The Ultimate B2C E-commerce Platform Comparison for 2025",
+          "imageUrl": "https://365community.online/wp-content/uploads/2023/09/Unlocking-Multi-Store-Growth-Managing-Multiple-E-commerce-Stores-with-BigCommerce.svg.svg+xml"
+        },
+        {
+          "id": "https://365community.online/generative-pages-just-killed-low-code-safety",
+          "author": "Mirko Peters",
+          "description": "Opening: The Generative Trap Microsoft’s Generative Pages look like the final, glorious victory for low‑code—the moment the spreadsheet crowd finally caught up to the coders. You type a sentence, press enter, and GPT‑5 obediently assembles a working React page that talks to Dataverse, decorates itself with orange flair, and politely runs on first try. Cue […]",
+          "link": "https://365community.online/generative-pages-just-killed-low-code-safety",
+          "publishedOn": "2025-12-22T04:43:51.000Z",
+          "wordCount": 5615,
+          "title": "Generative Pages Just Killed Low Code Safety",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766378631_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/automate-multi-stage-approvals-with-copilot-studio",
           "author": "Mirko Peters",
@@ -76816,6 +76926,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=19968",
+          "author": "André Arnaud de Calavon",
+          "description": "In the past 22 days, I shared a lot about understanding the license reports, cleaning up users and security roles to save on excessive license costs, together with some tips and background information. Now reaching the end of the Advent Calendar, I realize that I still have a lot to write about. Today, let’s talk […]\nThe post Licensing Advent Calendar – Day 23 – Assign licenses appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-23-assign-licenses/",
+          "publishedOn": "2025-12-22T23:00:00.000Z",
+          "wordCount": 4568,
+          "title": "Licensing Advent Calendar – Day 23 – Assign licenses",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-23.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=19965",
           "author": "André Arnaud de Calavon",
           "description": "On the licensing reports in Power Platform Admin Center (PPAC) and Lifecycle Services (LCS), you might see users appearing with a GUID instead of an email. Who are these users, and what will be your next step to clean up the GUID users? GUID When looking at users requiring a license, overall or for a […]\nThe post Licensing Advent Calendar – Day 22 – Invalid users appeared first on Dynamicspedia.",
@@ -82382,6 +82502,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/",
+          "author": "Saurabh Bharti",
+          "description": "Hello everyone 👋As we approach Christmas 🎄 and the New Year ✨, I just want to say a big THANK YOU to this amazing community. Your support and engagement truly motivate me to keep sharing and learning together 🙏 I’ve also recently launched YouTube Channel Memberships, where I’ll be sharing exclusive members-only videos, including a […]",
+          "link": "https://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/",
+          "publishedOn": "2025-12-22T09:28:39.000Z",
+          "wordCount": 3549,
+          "title": "Thank you for being part of this journey 🙏",
+          "imageUrl": "https://exploredynamics365.home.blog/wp-content/uploads/2025/12/file_00000000093c722fb449c5618d881a0d2072994343484169947.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=3051",
           "author": "Saurabh Bharti",
           "description": "Hi Everyone!For the last 5 years, I’ve been sharing practical knowledge with all of you through 250+ published blogs (1.3M+ views) and 120+ videos on YouTube with over 1M minutes watched. The response, support, and engagement from this community have been incredible — and now it’s time to elevate your learning experience! Today, I’m thrilled […]",
@@ -82998,6 +83128,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/",
+          "author": "Saurabh Bharti",
+          "description": "Hello everyone 👋As we approach Christmas 🎄 and the New Year ✨, I just want to say a big THANK YOU to this amazing community. Your support and engagement truly motivate me to keep sharing and learning together 🙏 I’ve also recently launched YouTube Channel Memberships, where I’ll be sharing exclusive members-only videos, including a […]",
+          "link": "https://exploredynamics365.home.blog/2025/12/22/thank-you-for-being-part-of-this-journey-%f0%9f%99%8f/",
+          "publishedOn": "2025-12-22T09:28:39.000Z",
+          "wordCount": 3549,
+          "title": "Thank you for being part of this journey 🙏",
+          "imageUrl": "https://exploredynamics365.home.blog/wp-content/uploads/2025/12/file_00000000093c722fb449c5618d881a0d2072994343484169947.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3051",
           "author": "Saurabh Bharti",
