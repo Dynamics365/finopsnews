@@ -144,16 +144,6 @@
           "wordCount": 316,
           "title": "Set default model for Dynamics 365 Finance Operations project",
           "imageUrl": "https://automaly.com/img/ripples.svg"
-        },
-        {
-          "id": "https://automaly.com/posts/create-parameters-manipulate-query-for-ssrs-type-query/",
-          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
-          "description": "Build custom SSRS query-based reports in Dynamics 365 Finance and Operations with parameters and query manipulation. Complete guide with contract, UIBuilder, and controller classes.",
-          "link": "https://automaly.com/posts/create-parameters-manipulate-query-for-ssrs-type-query/",
-          "publishedOn": "2023-12-25T00:00:00.000Z",
-          "wordCount": 737,
-          "title": "Create parameters, manipulate query for SSRS type query",
-          "imageUrl": "https://automaly.com/img/ripples.svg"
         }
       ]
     },
@@ -797,6 +787,16 @@
       "feedUrl": "https://tomaztsql.wordpress.com/feed/",
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=11078",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Two new features are available in SQL Server 2025 for string operations; both for string concatenation. || Operator The string operator || concatenates two (or more) strings into a single expression. This operator…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/23/advent-of-2025-day-23-sql-server-2025-t-sql-features-string-concatenation-with-and-compound-assignment/",
+          "publishedOn": "2025-12-23T11:15:44.000Z",
+          "wordCount": 5735,
+          "title": "Advent of 2025, Day 23 – SQL Server 2025 – T-SQL Features – String concatenation with || and compound assignment ||=",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2025/12/image-99.png?w=270"
+        },
         {
           "id": "http://tomaztsql.wordpress.com/?p=11062",
           "author": "tomaztsql",
@@ -1451,16 +1451,6 @@
           "wordCount": 4022,
           "title": "Little useless-useful R functions – Reverse Hello World",
           "imageUrl": "https://tomaztsql.files.wordpress.com/2024/03/image.png?w=342"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9956",
-          "author": "tomaztsql",
-          "description": "In this Microsoft Fabric series: To wrap up the series, let’s check the material available online, for you to continue learning, exploring and enjoying Microsoft Fabric. The official website: https://www.microsoft.com/en-us/microsoft-fabricMicrosoft Learn: https://learn.microsoft.com/en-us/fabric/Training path: https://learn.microsoft.com/en-us/training/Github: https://github.com/MicrosoftDocs/fabric-docs/tree/mainFabric Community: https://community.fabric.microsoft.com/ Youtube channel –…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2023/12/25/advent-of-2023-day-25-learning-paths-materials-and-documentation-on-microsoft-fabric/",
-          "publishedOn": "2023-12-25T09:49:39.000Z",
-          "wordCount": 4007,
-          "title": "Advent of 2023, Day 25 – Learning paths, materials, and documentation on Microsoft Fabric",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -1486,6 +1476,36 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=138953",
+          "author": "Insight Works",
+          "description": "xxx\nWhen production stalls, it rarely starts with a catastrophic failure. It begins with a delay. A missed overlap. A resource booked twice. And by the time someone notices, it’s already […]\nThe post The Secret to Reducing Production Bottlenecks with Visual Scheduling in Business Central appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2025/12/the-secret-to-reducing-production-bottlenecks-with-visual-scheduling-in-business-central-2/",
+          "publishedOn": "2025-12-23T20:31:41.000Z",
+          "wordCount": 7162,
+          "title": "The Secret to Reducing Production Bottlenecks with Visual Scheduling in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/The-Secret-to-Reducing-Production-Bottlenecks-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138864",
+          "author": "Rob Hansen, Managing Partner - CentralPath Solutions",
+          "description": "xxx\nMicrosoft D365 Business Central Multi-Entity Management Key Points:  Out of the box management of multiple companies in Microsoft Dynamics 365 Business Central can be challenging for users with limitations  Multi-entity management apps, such as DimensionPath, provide a way to define multiple […]\nThe post Multiple Companies in Business Central…the Better, Easier Way appeared first on ERP Software Blog.\nThe secret to delivering projects on time, on budget, and within scope: a project-based ERP for professional services\nLe secret pour livrer vos projets dans les délais et budgets entendus : un ERP de gestion par projet pour les services professionnels\nWhy Human Resources Should Ask Accounting About AP Clerks",
+          "link": "https://erpsoftwareblog.com/2025/12/multiple-companies-in-business-centralthe-better-easier-way/",
+          "publishedOn": "2025-12-23T14:09:39.000Z",
+          "wordCount": 7609,
+          "title": "Multiple Companies in Business Central…the Better, Easier Way",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BC.ChatGPTImage.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139080",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nModern organizations rely on a growing list of applications to run their business. ERP, CRM, e-commerce, POS, HR, payroll, WMS, financial tools, partner systems, analytics platforms, and custom applications all play a […]\nThe post Building Connected Operations with Dynamics 365: How DAX Software Solutions Designs Integration That Actually Works appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/building-connected-operations-with-dynamics-365-how-dax-software-solutions-designs-integration-that-actually-works/",
+          "publishedOn": "2025-12-23T11:46:42.000Z",
+          "wordCount": 7558,
+          "title": "Building Connected Operations with Dynamics 365: How DAX Software Solutions Designs Integration That Actually Works",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/building-connected-operations-with-dynamics-365-how-dax-software-solutions-designs-integration-that-actually-works.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=138947",
           "author": "Insight Works",
@@ -36580,6 +36600,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/ai-contract-management-in-microsoft-365",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,780A plain question went in. Natural language, no keywords. 200:00:03,780 –> 00:00:07,820It answered, with clauses, with dates, with sources. 300:00:07,820 –> 00:00:09,540Nothing flashy happened. 400:00:09,540 –> 00:00:14,340This isn’t a demo, it’s an investigation into a capability that was already there. 500:00:14,340 –> 00:00:17,660Inside your tenant, governed by your rules. 600:00:17,660 –> 00:00:20,780Contracts stopped […]",
+          "link": "https://365community.online/ai-contract-management-in-microsoft-365",
+          "publishedOn": "2025-12-23T23:50:27.000Z",
+          "wordCount": 15717,
+          "title": "AI Contract Management in Microsoft 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766533827_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stop-paying-the-multi-cloud-network-tax",
+          "author": "Mirko Peters",
+          "description": "Everyone says they love multi‑cloud—until the invoice arrives. The marketing slides promised agility and freedom. The billing portal delivered despair. You thought connecting Azure, AWS, and GCP would make your environment “resilient.” Instead, you’ve built a networking matryoshka doll—three layers of identical pipes, each pretending to be mission‑critical. The truth is, your so‑called freedom is […]",
+          "link": "https://365community.online/stop-paying-the-multi-cloud-network-tax",
+          "publishedOn": "2025-12-23T20:14:36.000Z",
+          "wordCount": 6152,
+          "title": "Stop Paying the Multi-Cloud Network Tax",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766520876_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/your-fabric-data-lake-is-too-slow-the-nvme-fix",
+          "author": "Mirko Peters",
+          "description": "Opening: “Your Data Lake Has a Weight Problem” Most Fabric deployments today are dragging their own anchors. Everyone blames the query, the spark pool, the data engineers—never the storage. But the real culprit? You’re shoveling petabytes through something that behaves like a shared drive from 2003. What’s that? Your trillion-row dataset refreshes slower than your […]",
+          "link": "https://365community.online/your-fabric-data-lake-is-too-slow-the-nvme-fix",
+          "publishedOn": "2025-12-23T16:42:16.000Z",
+          "wordCount": 5742,
+          "title": "Your Fabric Data Lake Is Too Slow: The NVMe Fix",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766508136_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/is-wordpress-free-yes-and-no-heres-why",
+          "author": "Belinda Allen",
+          "description": "WordPress itself is free and open source, but getting a site online always involves costs like a domain and hosting. In this guide, you’ll learn what WordPress includes for free and what you should realistically expect to pay for when running a full website. Is WordPress really free? Yes, but with a caveat WordPress core […]",
+          "link": "https://365community.online/is-wordpress-free-yes-and-no-heres-why",
+          "publishedOn": "2025-12-23T16:00:00.000Z",
+          "wordCount": 3253,
+          "title": "Is WordPress Free? Yes and No — Here’s Why",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Is-WordPress-Free-Yes-and-No-%E2%80%94-Heres-Why.jpg?fit=1200%2C756&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-10-best-nme-features-scripted-actions-youtube",
+          "author": "shabaz darr",
+          "description": "⚡ NME Top 10 Features – Episode 9: Scripted Actions That Supercharge Automation! ⚡ Managing Azure Virtual Desktop (AVD) and Windows 365 environments can be time-consuming—unless you automate! In this episode of Nerdio Wednesday, I dive into one of the most powerful features in Nerdio Manager for Enterprise (NME): Scripted Actions. ✅ Why are Scripted […]",
+          "link": "https://365community.online/the-10-best-nme-features-scripted-actions-youtube",
+          "publishedOn": "2025-12-23T14:00:14.000Z",
+          "wordCount": 2271,
+          "title": "The 10 Best NME Features | Scripted Actions – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766523797_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-security-fix-you-missed",
+          "author": "Mirko Peters",
+          "description": "Opening – The Hidden Security Hole You Didn’t Know You Had You probably thought your Azure Application Gateway was safely tucked away inside a private network—no public exposure, perfectly secure. Incorrect. For years, even a so‑called private App Gateway couldn’t exist without a public IP address. That’s like insisting every vault has to keep a […]",
+          "link": "https://365community.online/the-security-fix-you-missed",
+          "publishedOn": "2025-12-23T13:06:38.000Z",
+          "wordCount": 5960,
+          "title": "The Security Fix You Missed",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766495198_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/miguel-llorca-nos-dajaba-esta-reflexion-business-central-deja-de-ser-el-hermano-pequeno-youtube",
+          "author": "jarmesto",
+          "description": "Miguel LLorca nos dajaba esta reflexion : Business Central deja de ser el ‘hermano pequeño’",
+          "link": "https://365community.online/miguel-llorca-nos-dajaba-esta-reflexion-business-central-deja-de-ser-el-hermano-pequeno-youtube",
+          "publishedOn": "2025-12-23T12:55:14.000Z",
+          "wordCount": 2145,
+          "title": "Miguel LLorca nos dajaba esta reflexion : Business Central deja de ser el ‘hermano pequeño’ – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766509538_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/exam-ab-900-microsoft-365-copilot-and-agent-administration-fundamentals",
+          "author": "thecrmninja",
+          "description": "Following on the steps of the other AB exams I’ve been writing about my experience with (see Exam AB-730: AI Business Professional & Exam AB-100: Agentic AI Business Solutions Architect), this article will cover the AB-900 exam. This exam is focusing on the Microsoft 365 Copilot capabilities from a user & administration perspective, and doesn’t […]",
+          "link": "https://365community.online/exam-ab-900-microsoft-365-copilot-and-agent-administration-fundamentals",
+          "publishedOn": "2025-12-23T11:23:00.000Z",
+          "wordCount": 2845,
+          "title": "Exam AB-900: Microsoft 365 Copilot and Agent Administration Fundamentals",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Exam-AB-900-Microsoft-365-Copilot-and-Agent-Administration-Fundamentals.jpg?fit=1279%2C719&ssl=1"
+        },
+        {
+          "id": "https://365community.online/al-development-collection-first-skill-available-bc-diagnostics",
+          "author": "jarmesto",
+          "description": "Introduction I am finishing (it will be released shortly with the new version of AL Development Collection – Visual Studio Marketplace) the conversion of its first primitive into the Agent Skill format, coinciding with GitHub’s December 18 announcement about official support for Agent Skills in Copilot. Why? Well, the collection itself is a reflection of […]",
+          "link": "https://365community.online/al-development-collection-first-skill-available-bc-diagnostics",
+          "publishedOn": "2025-12-23T11:01:00.000Z",
+          "wordCount": 3711,
+          "title": "AL Development Collection: First Skill Available- BC Diagnostics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/AL-Development-Collection-First-Skill-Available-BC-Diagnostics.png?fit=1200%2C572&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-postgresql-is-costing-you-thousands",
+          "author": "Mirko Peters",
+          "description": "Opening – The Hidden Azure Tax Your Azure PostgreSQL bill isn’t high because of traffic. It’s high because of you. Specifically, because you clicked “Next” one too many times in the deployment wizard and trusted the defaults like they were commandments. Most admins treat Flexible Server as a set-it-and-forget-it managed database. It isn’t. It’s a […]",
+          "link": "https://365community.online/azure-postgresql-is-costing-you-thousands",
+          "publishedOn": "2025-12-23T09:37:32.000Z",
+          "wordCount": 5621,
+          "title": "Azure PostgreSQL Is Costing You THOUSANDS",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766482652_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/your-azure-file-sync-is-a-time-bomb",
           "author": "Mirko Peters",
@@ -75649,36 +75769,6 @@
           "wordCount": 3112,
           "title": "The user cannot write data to this table, only the integration users may write data to this table – Dynamics 365 Project Operations",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/The-user-cannot-write-data-to-this-table-only-the.jpeg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/merry-christmas-2",
-          "author": "Ian Grieve",
-          "description": "Merry Christmas to everyone in the Microsoft Dynamics 365 Business Central and ClassicPress communities; I look forward to working with you all again next year. Image by Markéta Klimešová from […]",
-          "link": "https://365community.online/merry-christmas-2",
-          "publishedOn": "2023-12-25T11:00:50.000Z",
-          "wordCount": 3016,
-          "title": "Merry Christmas!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Merry-Christmas.png?fit=452%2C640&ssl=1"
-        },
-        {
-          "id": "https://365community.online/merry-christmas-2023-powerapps-style-youtube",
-          "author": "Deepesh Somani",
-          "description": "Merry Christmas 2023 PowerApps Style source",
-          "link": "https://365community.online/merry-christmas-2023-powerapps-style-youtube",
-          "publishedOn": "2023-12-25T08:43:07.000Z",
-          "wordCount": 2917,
-          "title": "Merry Christmas 2023 PowerApps Style – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703496881_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/last-christmas",
-          "author": "Jen Kuntz",
-          "description": "The title for this post is stolen from a post I read recently on LinkedIn, by Thomas LaRock, a fellow Microsoft MVP though one I’ve never met. The post gave […]",
-          "link": "https://365community.online/last-christmas",
-          "publishedOn": "2023-12-24T15:48:45.000Z",
-          "wordCount": 3058,
-          "title": "Last Christmas…",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703445147_Last-Christmas….jpeg?fit=1200%2C573&ssl=1"
         }
       ]
     },
@@ -76925,6 +77015,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19970",
+          "author": "André Arnaud de Calavon",
+          "description": "We reached the last day of the Advent Calendar, but I have more to share after Christmas. Come back to the Advent Calendar as I will add more days with more content. In this post, I will talk about the available tables in Dynamics 365 F&O that is used for the License Usage Summary page. […]\nThe post Licensing Advent Calendar – Day 24 – Licensing tables appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-24-licensing-tables/",
+          "publishedOn": "2025-12-23T23:00:00.000Z",
+          "wordCount": 4835,
+          "title": "Licensing Advent Calendar – Day 24 – Licensing tables",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2025/12/Advent-calendar-24.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19968",
           "author": "André Arnaud de Calavon",
