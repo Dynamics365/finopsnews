@@ -134,16 +134,6 @@
           "wordCount": 755,
           "title": "Using XppPrePostArgs to pass parameters through a method",
           "imageUrl": "https://automaly.com/img/ripples.svg"
-        },
-        {
-          "id": "https://automaly.com/posts/set-default-model-for-d365-project/",
-          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
-          "description": "Configure the default model for new Dynamics 365 Finance and Operations projects by modifying DynamicsDevConfig.XML. Quick Visual Studio development environment setup guide.",
-          "link": "https://automaly.com/posts/set-default-model-for-d365-project/",
-          "publishedOn": "2023-12-26T00:00:00.000Z",
-          "wordCount": 316,
-          "title": "Set default model for Dynamics 365 Finance Operations project",
-          "imageUrl": "https://automaly.com/img/ripples.svg"
         }
       ]
     },
@@ -787,6 +777,16 @@
       "feedUrl": "https://tomaztsql.wordpress.com/feed/",
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=11102",
+          "author": "tomaztsql",
+          "description": "In this Microsoft SQL Server 2025 series: Microsoft website for SQL Server: https://www.microsoft.com/en-us/sql-server is always a good way to start. But if you would like to start more in depth documentation here is Microsoft documentation: General Youtube videos: General Github…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2025/12/24/advent-of-2025-day-24-sql-server-2025-documentation-and-learning-materials/",
+          "publishedOn": "2025-12-24T14:12:59.000Z",
+          "wordCount": 5348,
+          "title": "Advent of 2025, Day 24 – SQL Server 2025 – Documentation and learning materials",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
         {
           "id": "http://tomaztsql.wordpress.com/?p=11078",
           "author": "tomaztsql",
@@ -1477,12 +1477,82 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=138961",
+          "author": "Insight Works",
+          "description": "xxx\nIn manufacturing, maintenance and production often compete for the same limited resource: time on equipment. Maintenance is essential, but when it isn’t scheduled intelligently, it becomes a bottleneck, disrupting production, […]\nThe post How to Block Production Capacity for Maintenance in Business Central—Without Causing Bottlenecks appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central\nFrom GP to Business Central: Production Scheduling with MxAPS",
+          "link": "https://erpsoftwareblog.com/2025/12/how-to-block-production-capacity-for-maintenance-in-business-central-without-causing-bottlenecks-2/",
+          "publishedOn": "2025-12-24T20:21:51.000Z",
+          "wordCount": 7213,
+          "title": "How to Block Production Capacity for Maintenance in Business Central—Without Causing Bottlenecks",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-to-Block-Production-Capacity-for-Maintenance-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138799",
+          "author": "Pharos Solutions, Inc.",
+          "description": "xxx\nDeprecation of Payroll in D365FO Human Resources and Finance: Challenges and the OneConnect Solution Microsoft’s decision to deprecate the built-in payroll functionality in Dynamics 365 Finance and Operations (D365FO) Human […]\nThe post Deprecation of Payroll in D365FO appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/deprecation-of-payroll-in-d365fo/",
+          "publishedOn": "2025-12-24T17:57:45.000Z",
+          "wordCount": 7144,
+          "title": "Deprecation of Payroll in D365FO",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/D365FO-Deprecation.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138824",
+          "author": "Vicinity Software",
+          "description": "xxx\nIf you work in process manufacturing, you already know this tension well. Sales wants to promise dates. Shipping wants clear priorities. Production wants realistic schedules. And finance wants everything to […]\nThe post Microsoft Dynamics 365 ERP: Process Manufacturers Can Improve Order Fulfillment appeared first on ERP Software Blog.\nDon’t Stop the Flow: Managing a Job Shop\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nIncrease your to-order close rates with online quote configuration (with webinar recording)",
+          "link": "https://erpsoftwareblog.com/2025/12/microsoft-dynamics-365-erp-process-manufacturers-can-improve-order-fulfillment/",
+          "publishedOn": "2025-12-24T17:52:28.000Z",
+          "wordCount": 7532,
+          "title": "Microsoft Dynamics 365 ERP: Process Manufacturers Can Improve Order Fulfillment",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-12-How-a-Process-Manufacturer-Improved-Order-Fulfillment-in-Microsoft-Dynamics_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138873",
+          "author": "Alta Vista Technology",
+          "description": "xxx\nAt the 2025 Microsoft Community Summit, one idea kept resurfacing during a session led by Alta Vista's Microsoft practice lead, Pete D'Herde, and solution architect, Kevin Alexander: integration doesn't have […]\nThe post Dataverse: The Key to Smarter Dynamics 365 BC Integration appeared first on ERP Software Blog.\nHow Dataverse in Business Central Contrasts with SAP's \"One\" Strategy\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality",
+          "link": "https://erpsoftwareblog.com/2025/12/dataverse-the-key-to-smarter-dynamics-365-bc-integration/",
+          "publishedOn": "2025-12-24T17:47:19.000Z",
+          "wordCount": 7709,
+          "title": "Dataverse: The Key to Smarter Dynamics 365 BC Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-12-Dataverse-The-Key-to-Smarter-Dynamics-365-BC-Integration_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139122",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nMidsize businesses face many challenges at once. Agility, efficiency, and scalability are the core challenges that require a powerful solution. Cloud ERP solutions are known for efficiently addressing these needs, […]\nThe post Cloud ERP Selection Guide for Mid-Sized Businesses appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/cloud-erp-selection-guide-for-midsized-businesses/",
+          "publishedOn": "2025-12-24T16:26:18.000Z",
+          "wordCount": 7249,
+          "title": "Cloud ERP Selection Guide for Mid-Sized Businesses",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cloud-ERP-Selection-for-Mid-Market-Firms-2-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=138980",
+          "author": "Beyond Key (Dynamics CRM Consulting)",
+          "description": "xxx\nIn today’s experience-driven market, your returns and exchange process is not a backend operation, it’s a critical frontline touchpoint. Manually operated, not-so-smooth procedures negatively impact the profit, overcharge the staff, and put the loyalty of customers […]\nThe post How ERP Implementation Partners Can Streamline Return and Exchange Management appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/how-erp-implementation-partners-can-streamline-return-and-exchange-management/",
+          "publishedOn": "2025-12-24T13:27:17.000Z",
+          "wordCount": 7314,
+          "title": "How ERP Implementation Partners Can Streamline Return and Exchange Management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139078",
+          "author": "Intech Systems",
+          "description": "xxx\nLet me paint you a picture from our consulting rooms at Intech Systems. Last month, a project manager walked in looking completely defeated. His team was juggling eight client projects […]\nThe post Top 5 Dynamics 365 Copilot Features Transforming Project Operations with AI appeared first on ERP Software Blog.\nImportant Business Management Lessons I Learned from Rally Car Racing\nMicrosoft Dynamics 365 Copilot\nMicrosoft Copilot: The Future of AI Workspaces Is Here",
+          "link": "https://erpsoftwareblog.com/2025/12/top-5-dynamics-365-copilot-features-transforming-project-operations-with-ai/",
+          "publishedOn": "2025-12-24T07:52:42.000Z",
+          "wordCount": 8566,
+          "title": "Top 5 Dynamics 365 Copilot Features Transforming Project Operations with AI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-BLOGS-3.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=138953",
           "author": "Insight Works",
           "description": "xxx\nWhen production stalls, it rarely starts with a catastrophic failure. It begins with a delay. A missed overlap. A resource booked twice. And by the time someone notices, it’s already […]\nThe post The Secret to Reducing Production Bottlenecks with Visual Scheduling in Business Central appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
           "link": "https://erpsoftwareblog.com/2025/12/the-secret-to-reducing-production-bottlenecks-with-visual-scheduling-in-business-central-2/",
           "publishedOn": "2025-12-23T20:31:41.000Z",
-          "wordCount": 7162,
+          "wordCount": 7164,
           "title": "The Secret to Reducing Production Bottlenecks with Visual Scheduling in Business Central",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/The-Secret-to-Reducing-Production-Bottlenecks-cover.jpg"
         },
@@ -36600,6 +36670,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/stop-building-ugly-power-apps-master-containers-now",
+          "author": "Mirko Peters",
+          "description": "Opening – The Ugly Truth About Power Apps Most Power Apps look like they were designed by someone who fell asleep halfway through a PowerPoint presentation. Misaligned buttons, inconsistent fonts, half-broken responsiveness—the digital equivalent of mismatched socks at a corporate gala. The reason is simple: people skip Containers. They drag labels and icons wherever their […]",
+          "link": "https://365community.online/stop-building-ugly-power-apps-master-containers-now",
+          "publishedOn": "2025-12-25T00:49:43.000Z",
+          "wordCount": 6299,
+          "title": "Stop Building Ugly Power Apps: Master Containers Now",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766623783_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/advanced-copilot-agent-governance-with-microsoft-purview",
+          "author": "Mirko Peters",
+          "description": "Opening – Hook + Teaching Promise You’re leaking data through Copilot Studio right now, and you don’t even know it.Every time one of your bright, shiny new Copilot Agents runs, it inherits your permissions—every SharePoint library, every Outlook mailbox, every Dataverse table. It rummages through corporate data like an overeager intern who found the master key […]",
+          "link": "https://365community.online/advanced-copilot-agent-governance-with-microsoft-purview",
+          "publishedOn": "2025-12-24T21:14:42.000Z",
+          "wordCount": 5818,
+          "title": "Advanced Copilot Agent Governance with Microsoft Purview",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766610882_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/i-did-not-steal-your-data-i-only-revealed-it",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,800They accused me of stealing their data, I didn’t, I revealed it. 200:00:03,800 –> 00:00:07,360Most people think I widen the doors, but the truth is more technical than that. 300:00:07,360 –> 00:00:09,960I only showed what their permissions already allowed. 400:00:09,960 –> 00:00:11,080Here’s what actually happens. 500:00:11,080 –> 00:00:16,840I run inside your tenant, grounded […]",
+          "link": "https://365community.online/i-did-not-steal-your-data-i-only-revealed-it",
+          "publishedOn": "2025-12-24T17:34:55.000Z",
+          "wordCount": 34873,
+          "title": "I Did Not Steal Your Data. I Only Revealed It.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766597695_image_urlhttps3A2F2Fd3wo5wojvuv7l.cloudfront.net2Ft_rss_itunes_square_14002Fimages.spreaker.c.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-this-ai-agent-instead",
+          "author": "Mirko Peters",
+          "description": "Opening — The Pain of Manual GRC Let’s talk about Governance, Risk, and Compliance reports—GRC, the three letters responsible for more caffeine consumption than every SOC audit combined. Somewhere right now, there’s a poor analyst still copying audit logs into Excel, cell by cell, like it’s 2003 and macros are witchcraft. They’ll start with good […]",
+          "link": "https://365community.online/use-this-ai-agent-instead",
+          "publishedOn": "2025-12-24T14:03:27.000Z",
+          "wordCount": 6227,
+          "title": "Use This AI Agent Instead",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766585007_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-10000-data-model-fix",
+          "author": "Mirko Peters",
+          "description": "Opening – The $10,000 Problem Your Power BI dashboard is lying to you. Not about the numbers—it’s lying about the cost. Every time someone hits “refresh,” every time a slicer moves, you’re quietly paying a performance tax. And before you smirk, yes, you are paying it, whether through wasted compute time, overage on your Power […]",
+          "link": "https://365community.online/the-10000-data-model-fix",
+          "publishedOn": "2025-12-24T10:23:08.000Z",
+          "wordCount": 4498,
+          "title": "The $10,000 Data Model Fix",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766571788_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wishing-you-smarter-routes-and-happier-holidays",
+          "author": null,
+          "description": "As 2025 winds down and holiday lights brighten our streets, it’s the perfect moment to pause, reflect, and celebrate the journeys we’ve taken together. At Maplytics, this season is about closing the year gracefully and appreciating every route traveled, every connection mapped, and every insight discovered along the way. Holidays bring people closer, and Maplytics […]",
+          "link": "https://365community.online/wishing-you-smarter-routes-and-happier-holidays",
+          "publishedOn": "2025-12-24T08:44:00.000Z",
+          "wordCount": 2754,
+          "title": "Wishing You Smarter Routes and Happier Holidays",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Wishing-Smarter-Routes-and-Happier-Holidays.png?fit=1400%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/bc-telemetry-buddy-when-your-12-year-old-accidentally-helps-you-find-a-problem",
+          "author": "Waldo",
+          "description": "TL;DR While showing my kid what I was working on, I casually asked my BC Telemetry Buddy “what customer has the most reason to complain” – and accidentally discovered a customer bleeding CPU time every morning from a broken background job. The issue got fixed, and this whole thing turned into a nice story to explain how […]",
+          "link": "https://365community.online/bc-telemetry-buddy-when-your-12-year-old-accidentally-helps-you-find-a-problem",
+          "publishedOn": "2025-12-24T07:58:00.000Z",
+          "wordCount": 3110,
+          "title": "BC Telemetry Buddy  – When Your 12-Year-Old Accidentally Helps You Find a Problem",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766582774_BC-Telemetry-Buddy-%E2%80%93-When-Your-12-Year-Old-Accidentally-Helps-You.png?fit=1236%2C1229&ssl=1"
+        },
+        {
+          "id": "https://365community.online/master-dataverse-security-stop-external-leaks-now",
+          "author": "Mirko Peters",
+          "description": "Opening – The Corporate Leak You Didn’t See Coming Let’s start with a scene. A vendor logs into your company’s shiny new Power App—supposed to manage purchase orders, nothing more. But somehow, that same guest account wanders a little too far and stumbles into a Dataverse table containing executive performance data. Salaries, evaluations, maybe a […]",
+          "link": "https://365community.online/master-dataverse-security-stop-external-leaks-now",
+          "publishedOn": "2025-12-24T06:51:08.000Z",
+          "wordCount": 5409,
+          "title": "Master Dataverse Security: Stop External Leaks Now",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766559068_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/build-a-hackathon-app-with-express-js-full-practical-tutorial-youtube",
+          "author": null,
+          "description": "Ready to level up your backend skills? In this video, I build a Hackathon Application using Express.js from scratch. This is a complete practical tutorial where you’ll learn how to design, develop, and structure a backend application that can be used in hackathons managing teams, project submissions and production environments. 🛠️ What You’ll Learn in […]",
+          "link": "https://365community.online/build-a-hackathon-app-with-express-js-full-practical-tutorial-youtube",
+          "publishedOn": "2025-12-24T06:30:15.000Z",
+          "wordCount": 2317,
+          "title": "Build a Hackathon App with Express.js | Full Practical Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766561610_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/master-internal-newsletters-with-outlook",
+          "author": "Mirko Peters",
+          "description": "Opening – Hook + Teaching Promise Most internal company updates suffer the same tragic fate—posted in Teams, immediately buried by “quick question” pings and emoji reactions. The result? Critical updates vanish into digital noise before anyone even scrolls. There’s a simpler path. Outlook, the tool you already use every day, can quietly become your broadcast […]",
+          "link": "https://365community.online/master-internal-newsletters-with-outlook",
+          "publishedOn": "2025-12-24T03:17:36.000Z",
+          "wordCount": 5797,
+          "title": "Master Internal Newsletters With Outlook",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1766546256_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/ai-contract-management-in-microsoft-365",
           "author": "Mirko Peters",
@@ -75699,76 +75869,6 @@
           "wordCount": 3030,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Edit Variable Values During Debugging",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group",
-          "publishedOn": "2023-12-26T11:00:00.000Z",
-          "wordCount": 3096,
-          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Connect Your Own Virtual Network with Hosted Machine Group",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-entra-id-security-groups-management",
-          "author": "Inogic",
-          "description": "As we all know, Microsoft renamed Azure Active Directory (AAD) to Microsoft Entra ID back in November 2023. The reason for this move is explained in detail in this Microsoft […]",
-          "link": "https://365community.online/microsoft-entra-id-security-groups-management",
-          "publishedOn": "2023-12-26T09:37:34.000Z",
-          "wordCount": 3321,
-          "title": "Microsoft Entra ID Security Groups Management",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Microsoft-Entra-ID-Security-Groups-Management.jpeg?fit=1200%2C709&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview",
-          "author": "Dian Taylor",
-          "description": "In previous articles I showed you how you can create plugin actions (currently in preview) in Copilot Studio by using one of the Power Platform connectors, or by using a […]",
-          "link": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview",
-          "publishedOn": "2023-12-26T09:03:00.000Z",
-          "wordCount": 3064,
-          "title": "Copilot Studio: Dynamic chaining with generative actions (preview)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube",
-          "author": "Dian Taylor",
-          "description": "Copilot Studio: Dynamic chaining with generative actions( preview) In this video I will show you the ins and outs about Dynamic chaining with generative actions in Copilot Studio! Related Article: […]",
-          "link": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube",
-          "publishedOn": "2023-12-26T09:02:00.000Z",
-          "wordCount": 2984,
-          "title": "Copilot Studio: Dynamic chaining with generative actions( preview) – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703627921_hqdefault.jpg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/d365-hr-excel-oob-reports",
-          "author": "Ana Inés Urrutia",
-          "description": "One of the things HR teams always ask is: can I export it to Excel? The truth is that almost everything in Dynamics 365 Human Resources can be exported to […]",
-          "link": "https://365community.online/d365-hr-excel-oob-reports",
-          "publishedOn": "2023-12-25T23:10:14.000Z",
-          "wordCount": 3025,
-          "title": "D365 HR + Excel = OOB Reports",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/D365-HR-Excel-OOB-Reports.png?fit=1000%2C750&ssl=1"
-        },
-        {
-          "id": "https://365community.online/odata-query-options-with-d365fo-part-2",
-          "author": "Anitha Santosh",
-          "description": "In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for […]",
-          "link": "https://365community.online/odata-query-options-with-d365fo-part-2",
-          "publishedOn": "2023-12-25T21:34:01.000Z",
-          "wordCount": 3045,
-          "title": "OData query options with D365F&O (Part 2)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/OData-query-options-with-D365FampO-Part-2.png?fit=1200%2C772&ssl=1"
-        },
-        {
-          "id": "https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations",
-          "author": "Nishant Rana",
-          "description": "We configured the Project Operations app in one of our Dataverse Environments, and while creating a Company record we got the below error. Exception Message: OrganizationServiceFault Microsoft.Xrm.Sdk.InvalidPluginExecutionException: “The user be60d0fd-778e-ee11-be36-00224893a88b […]",
-          "link": "https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations",
-          "publishedOn": "2023-12-25T19:00:00.000Z",
-          "wordCount": 3112,
-          "title": "The user cannot write data to this table, only the integration users may write data to this table – Dynamics 365 Project Operations",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/The-user-cannot-write-data-to-this-table-only-the.jpeg?fit=1200%2C799&ssl=1"
         }
       ]
     },
@@ -76992,21 +77092,6 @@
           "wordCount": 3505,
           "title": "Thank You for 1 Million Visitors: A New Chapter for Finance and Accounting",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://dynamicsax-fico.com/?p=5406",
-          "author": "Ludwig Reinhard",
-          "description": "Visit the post for more.",
-          "link": "https://dynamicsax-fico.com/2023/12/25/microsoft-bizapps-deutschland-podcast-21/",
-          "publishedOn": "2023-12-25T17:31:24.000Z",
-          "wordCount": 3113,
-          "title": "Microsoft BizApps Deutschland Podcast #21",
-          "enclosure": {
-            "url": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-14_lone_v1.mp3",
-            "length": "18914659",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-14_picturelonewithtext.png"
         }
       ]
     },
@@ -77544,16 +77629,6 @@
           "wordCount": 3596,
           "title": "I’m joining Next365",
           "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/01/Next365-1200.jpg"
-        },
-        {
-          "id": "https://dynamicspedia.com/?p=18919",
-          "author": "André Arnaud de Calavon",
-          "description": "In my previous posts about process mining, I explained the basic concept of Process mining including event log data requirements and how to get started with Power Automate process mining. In this post, I will talk about an integration between Microsoft Dynamics 365 Supply Chain Management and process mining. It also contains a video with […]\nThe post The F&O Twist on Process Mining – Warehouse material movement analysis template appeared first on Dynamicspedia.",
-          "link": "https://dynamicspedia.com/2023/12/the-fo-twist-on-process-mining-warehouse-material-movement-analysis-template/",
-          "publishedOn": "2023-12-26T12:26:11.000Z",
-          "wordCount": 4841,
-          "title": "The F&O Twist on Process Mining – Warehouse material movement analysis template",
-          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/12/Warehouse-material-movement-integration-1200.jpg"
         }
       ]
     },
@@ -78841,16 +78916,6 @@
           "wordCount": 4393,
           "title": "Secure inputs / outputs in Logic apps",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2024/01/image-11.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3174",
-          "author": "AnithaEswaran",
-          "description": "In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for numeric fields . Retrives the records that have the value … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2023/12/25/odata-query-options-with-d365fo-part-2/",
-          "publishedOn": "2023-12-25T21:34:01.000Z",
-          "wordCount": 4264,
-          "title": "OData query options with D365F&O (Part 2)",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/12/image-22.png"
         }
       ]
     },

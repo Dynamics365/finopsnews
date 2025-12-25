@@ -2,10 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-24T01:54:06.888Z</updated>
+    <updated>2025-12-25T01:56:24.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Building Ugly Power Apps: Master Containers Now]]></title>
+        <id>https://365community.online/stop-building-ugly-power-apps-master-containers-now</id>
+        <link href="https://365community.online/stop-building-ugly-power-apps-master-containers-now"/>
+        <updated>2025-12-25T00:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Opening – The Ugly Truth About Power Apps Most Power Apps look like they were designed by someone who fell asleep halfway through a PowerPoint presentation. Misaligned buttons, inconsistent fonts, half-broken responsiveness—the digital equivalent of mismatched socks at a corporate gala. The reason is simple: people skip Containers. They drag labels and icons wherever their […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Copilot Agent Governance with Microsoft Purview]]></title>
+        <id>https://365community.online/advanced-copilot-agent-governance-with-microsoft-purview</id>
+        <link href="https://365community.online/advanced-copilot-agent-governance-with-microsoft-purview"/>
+        <updated>2025-12-24T21:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Opening – Hook + Teaching Promise You’re leaking data through Copilot Studio right now, and you don’t even know it.Every time one of your bright, shiny new Copilot Agents runs, it inherits your permissions—every SharePoint library, every Outlook mailbox, every Dataverse table. It rummages through corporate data like an overeager intern who found the master key […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Block Production Capacity for Maintenance in Business Central—Without Causing Bottlenecks]]></title>
+        <id>https://erpsoftwareblog.com/?p=138961</id>
+        <link href="https://erpsoftwareblog.com/2025/12/how-to-block-production-capacity-for-maintenance-in-business-central-without-causing-bottlenecks-2/"/>
+        <updated>2025-12-24T20:21:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In manufacturing, maintenance and production often compete for the same limited resource: time on equipment. Maintenance is essential, but when it isn’t scheduled intelligently, it becomes a bottleneck, disrupting production, […]
+The post How to Block Production Capacity for Maintenance in Business Central—Without Causing Bottlenecks appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deprecation of Payroll in D365FO]]></title>
+        <id>https://erpsoftwareblog.com/?p=138799</id>
+        <link href="https://erpsoftwareblog.com/2025/12/deprecation-of-payroll-in-d365fo/"/>
+        <updated>2025-12-24T17:57:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Deprecation of Payroll in D365FO Human Resources and Finance: Challenges and the OneConnect Solution Microsoft’s decision to deprecate the built-in payroll functionality in Dynamics 365 Finance and Operations (D365FO) Human […]
+The post Deprecation of Payroll in D365FO appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Pharos Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 ERP: Process Manufacturers Can Improve Order Fulfillment]]></title>
+        <id>https://erpsoftwareblog.com/?p=138824</id>
+        <link href="https://erpsoftwareblog.com/2025/12/microsoft-dynamics-365-erp-process-manufacturers-can-improve-order-fulfillment/"/>
+        <updated>2025-12-24T17:52:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you work in process manufacturing, you already know this tension well. Sales wants to promise dates. Shipping wants clear priorities. Production wants realistic schedules. And finance wants everything to […]
+The post Microsoft Dynamics 365 ERP: Process Manufacturers Can Improve Order Fulfillment appeared first on ERP Software Blog.
+Don’t Stop the Flow: Managing a Job Shop
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Increase your to-order close rates with online quote configuration (with webinar recording)]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse: The Key to Smarter Dynamics 365 BC Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=138873</id>
+        <link href="https://erpsoftwareblog.com/2025/12/dataverse-the-key-to-smarter-dynamics-365-bc-integration/"/>
+        <updated>2025-12-24T17:47:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+At the 2025 Microsoft Community Summit, one idea kept resurfacing during a session led by Alta Vista's Microsoft practice lead, Pete D'Herde, and solution architect, Kevin Alexander: integration doesn't have […]
+The post Dataverse: The Key to Smarter Dynamics 365 BC Integration appeared first on ERP Software Blog.
+How Dataverse in Business Central Contrasts with SAP's "One" Strategy
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
+        <author>
+            <name>Alta Vista Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Did Not Steal Your Data. I Only Revealed It.]]></title>
+        <id>https://365community.online/i-did-not-steal-your-data-i-only-revealed-it</id>
+        <link href="https://365community.online/i-did-not-steal-your-data-i-only-revealed-it"/>
+        <updated>2025-12-24T17:34:55.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,800They accused me of stealing their data, I didn’t, I revealed it. 200:00:03,800 –> 00:00:07,360Most people think I widen the doors, but the truth is more technical than that. 300:00:07,360 –> 00:00:09,960I only showed what their permissions already allowed. 400:00:09,960 –> 00:00:11,080Here’s what actually happens. 500:00:11,080 –> 00:00:16,840I run inside your tenant, grounded […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud ERP Selection Guide for Mid-Sized Businesses]]></title>
+        <id>https://erpsoftwareblog.com/?p=139122</id>
+        <link href="https://erpsoftwareblog.com/2025/12/cloud-erp-selection-guide-for-midsized-businesses/"/>
+        <updated>2025-12-24T16:26:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Midsize businesses face many challenges at once. Agility, efficiency, and scalability are the core challenges that require a powerful solution. Cloud ERP solutions are known for efficiently addressing these needs, […]
+The post Cloud ERP Selection Guide for Mid-Sized Businesses appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2025, Day 24 – SQL Server 2025 – Documentation and learning materials]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=11102</id>
+        <link href="https://tomaztsql.wordpress.com/2025/12/24/advent-of-2025-day-24-sql-server-2025-documentation-and-learning-materials/"/>
+        <updated>2025-12-24T14:12:59.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft SQL Server 2025 series: Microsoft website for SQL Server: https://www.microsoft.com/en-us/sql-server is always a good way to start. But if you would like to start more in depth documentation here is Microsoft documentation: General Youtube videos: General Github…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use This AI Agent Instead]]></title>
+        <id>https://365community.online/use-this-ai-agent-instead</id>
+        <link href="https://365community.online/use-this-ai-agent-instead"/>
+        <updated>2025-12-24T14:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Opening — The Pain of Manual GRC Let’s talk about Governance, Risk, and Compliance reports—GRC, the three letters responsible for more caffeine consumption than every SOC audit combined. Somewhere right now, there’s a poor analyst still copying audit logs into Excel, cell by cell, like it’s 2003 and macros are witchcraft. They’ll start with good […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ERP Implementation Partners Can Streamline Return and Exchange Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=138980</id>
+        <link href="https://erpsoftwareblog.com/2025/12/how-erp-implementation-partners-can-streamline-return-and-exchange-management/"/>
+        <updated>2025-12-24T13:27:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s experience-driven market, your returns and exchange process is not a backend operation, it’s a critical frontline touchpoint. Manually operated, not-so-smooth procedures negatively impact the profit, overcharge the staff, and put the loyalty of customers […]
+The post How ERP Implementation Partners Can Streamline Return and Exchange Management appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Beyond Key (Dynamics CRM Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $10,000 Data Model Fix]]></title>
+        <id>https://365community.online/the-10000-data-model-fix</id>
+        <link href="https://365community.online/the-10000-data-model-fix"/>
+        <updated>2025-12-24T10:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Opening – The $10,000 Problem Your Power BI dashboard is lying to you. Not about the numbers—it’s lying about the cost. Every time someone hits “refresh,” every time a slicer moves, you’re quietly paying a performance tax. And before you smirk, yes, you are paying it, whether through wasted compute time, overage on your Power […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wishing You Smarter Routes and Happier Holidays]]></title>
+        <id>https://365community.online/wishing-you-smarter-routes-and-happier-holidays</id>
+        <link href="https://365community.online/wishing-you-smarter-routes-and-happier-holidays"/>
+        <updated>2025-12-24T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[As 2025 winds down and holiday lights brighten our streets, it’s the perfect moment to pause, reflect, and celebrate the journeys we’ve taken together. At Maplytics, this season is about closing the year gracefully and appreciating every route traveled, every connection mapped, and every insight discovered along the way. Holidays bring people closer, and Maplytics […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC Telemetry Buddy  – When Your 12-Year-Old Accidentally Helps You Find a Problem]]></title>
+        <id>https://365community.online/bc-telemetry-buddy-when-your-12-year-old-accidentally-helps-you-find-a-problem</id>
+        <link href="https://365community.online/bc-telemetry-buddy-when-your-12-year-old-accidentally-helps-you-find-a-problem"/>
+        <updated>2025-12-24T07:58:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR While showing my kid what I was working on, I casually asked my BC Telemetry Buddy “what customer has the most reason to complain” – and accidentally discovered a customer bleeding CPU time every morning from a broken background job. The issue got fixed, and this whole thing turned into a nice story to explain how […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Dynamics 365 Copilot Features Transforming Project Operations with AI]]></title>
+        <id>https://erpsoftwareblog.com/?p=139078</id>
+        <link href="https://erpsoftwareblog.com/2025/12/top-5-dynamics-365-copilot-features-transforming-project-operations-with-ai/"/>
+        <updated>2025-12-24T07:52:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Let me paint you a picture from our consulting rooms at Intech Systems. Last month, a project manager walked in looking completely defeated. His team was juggling eight client projects […]
+The post Top 5 Dynamics 365 Copilot Features Transforming Project Operations with AI appeared first on ERP Software Blog.
+Important Business Management Lessons I Learned from Rally Car Racing
+Microsoft Dynamics 365 Copilot
+Microsoft Copilot: The Future of AI Workspaces Is Here]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Dataverse Security: Stop External Leaks Now]]></title>
+        <id>https://365community.online/master-dataverse-security-stop-external-leaks-now</id>
+        <link href="https://365community.online/master-dataverse-security-stop-external-leaks-now"/>
+        <updated>2025-12-24T06:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Opening – The Corporate Leak You Didn’t See Coming Let’s start with a scene. A vendor logs into your company’s shiny new Power App—supposed to manage purchase orders, nothing more. But somehow, that same guest account wanders a little too far and stumbles into a Dataverse table containing executive performance data. Salaries, evaluations, maybe a […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Hackathon App with Express.js | Full Practical Tutorial – YouTube]]></title>
+        <id>https://365community.online/build-a-hackathon-app-with-express-js-full-practical-tutorial-youtube</id>
+        <link href="https://365community.online/build-a-hackathon-app-with-express-js-full-practical-tutorial-youtube"/>
+        <updated>2025-12-24T06:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Ready to level up your backend skills? In this video, I build a Hackathon Application using Express.js from scratch. This is a complete practical tutorial where you’ll learn how to design, develop, and structure a backend application that can be used in hackathons managing teams, project submissions and production environments. 🛠️ What You’ll Learn in […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Internal Newsletters With Outlook]]></title>
+        <id>https://365community.online/master-internal-newsletters-with-outlook</id>
+        <link href="https://365community.online/master-internal-newsletters-with-outlook"/>
+        <updated>2025-12-24T03:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Opening – Hook + Teaching Promise Most internal company updates suffer the same tragic fate—posted in Teams, immediately buried by “quick question” pings and emoji reactions. The result? Critical updates vanish into digital noise before anyone even scrolls. There’s a simpler path. Outlook, the tool you already use every day, can quietly become your broadcast […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Contract Management in Microsoft 365]]></title>
         <id>https://365community.online/ai-contract-management-in-microsoft-365</id>
@@ -107326,67 +107542,6 @@ Simplify purchasing and manage vendors for restaurants with LS Central]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The F&O Twist on Process Mining – Warehouse material movement analysis template]]></title>
-        <id>https://dynamicspedia.com/?p=18919</id>
-        <link href="https://dynamicspedia.com/2023/12/the-fo-twist-on-process-mining-warehouse-material-movement-analysis-template/"/>
-        <updated>2023-12-26T12:26:11.000Z</updated>
-        <summary type="html"><![CDATA[In my previous posts about process mining, I explained the basic concept of Process mining including event log data requirements and how to get started with Power Automate process mining. In this post, I will talk about an integration between Microsoft Dynamics 365 Supply Chain Management and process mining. It also contains a video with […]
-The post The F&O Twist on Process Mining – Warehouse material movement analysis template appeared first on Dynamicspedia.]]></summary>
-        <author>
-            <name>André Arnaud de Calavon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Connect Your Own Virtual Network with Hosted Machine Group]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group"/>
-        <updated>2023-12-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Entra ID Security Groups Management]]></title>
-        <id>https://365community.online/microsoft-entra-id-security-groups-management</id>
-        <link href="https://365community.online/microsoft-entra-id-security-groups-management"/>
-        <updated>2023-12-26T09:37:34.000Z</updated>
-        <summary type="html"><![CDATA[As we all know, Microsoft renamed Azure Active Directory (AAD) to Microsoft Entra ID back in November 2023. The reason for this move is explained in detail in this Microsoft […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio: Dynamic chaining with generative actions (preview)]]></title>
-        <id>https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview</id>
-        <link href="https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview"/>
-        <updated>2023-12-26T09:03:00.000Z</updated>
-        <summary type="html"><![CDATA[In previous articles I showed you how you can create plugin actions (currently in preview) in Copilot Studio by using one of the Power Platform connectors, or by using a […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio: Dynamic chaining with generative actions( preview) – YouTube]]></title>
-        <id>https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube</id>
-        <link href="https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube"/>
-        <updated>2023-12-26T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Copilot Studio: Dynamic chaining with generative actions( preview) In this video I will show you the ins and outs about Dynamic chaining with generative actions in Copilot Studio! Related Article: […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set default model for Dynamics 365 Finance Operations project]]></title>
-        <id>https://automaly.com/posts/set-default-model-for-d365-project/</id>
-        <link href="https://automaly.com/posts/set-default-model-for-d365-project/"/>
-        <updated>2023-12-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Configure the default model for new Dynamics 365 Finance and Operations projects by modifying DynamicsDevConfig.XML. Quick Visual Studio development environment setup guide.]]></summary>
-        <author>
-            <name>luan52@outlook.com (Hi there, this is Max Nguyen)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Set default model for Dynamics 365 Finance Operations project]]></title>
         <id>https://automaly.github.io/blog/2023/12/26/set-default-model-for-d365-project</id>
         <link href="https://automaly.github.io/blog/2023/12/26/set-default-model-for-d365-project"/>
@@ -107394,56 +107549,6 @@ The post The F&O Twist on Process Mining – Warehouse material movement analysi
         <summary type="html"><![CDATA[Open Run]]></summary>
         <author>
             <name>Automaly Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 HR + Excel = OOB Reports]]></title>
-        <id>https://365community.online/d365-hr-excel-oob-reports</id>
-        <link href="https://365community.online/d365-hr-excel-oob-reports"/>
-        <updated>2023-12-25T23:10:14.000Z</updated>
-        <summary type="html"><![CDATA[One of the things HR teams always ask is: can I export it to Excel? The truth is that almost everything in Dynamics 365 Human Resources can be exported to […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OData query options with D365F&O (Part 2)]]></title>
-        <id>https://365community.online/odata-query-options-with-d365fo-part-2</id>
-        <link href="https://365community.online/odata-query-options-with-d365fo-part-2"/>
-        <updated>2023-12-25T21:34:01.000Z</updated>
-        <summary type="html"><![CDATA[In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OData query options with D365F&O (Part 2)]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3174</id>
-        <link href="https://anithasantosh.wordpress.com/2023/12/25/odata-query-options-with-d365fo-part-2/"/>
-        <updated>2023-12-25T21:34:01.000Z</updated>
-        <summary type="html"><![CDATA[In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for numeric fields . Retrives the records that have the value … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The user cannot write data to this table, only the integration users may write data to this table – Dynamics 365 Project Operations]]></title>
-        <id>https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations</id>
-        <link href="https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations"/>
-        <updated>2023-12-25T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We configured the Project Operations app in one of our Dataverse Environments, and while creating a Company record we got the below error. Exception Message: OrganizationServiceFault Microsoft.Xrm.Sdk.InvalidPluginExecutionException: “The user be60d0fd-778e-ee11-be36-00224893a88b […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #21]]></title>
-        <id>http://dynamicsax-fico.com/?p=5406</id>
-        <link href="https://dynamicsax-fico.com/2023/12/25/microsoft-bizapps-deutschland-podcast-21/"/>
-        <updated>2023-12-25T17:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
         </author>
     </entry>
     <entry>
