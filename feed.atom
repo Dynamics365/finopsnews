@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-25T01:56:24.533Z</updated>
+    <updated>2025-12-26T01:55:15.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Prompting: Art, Science—or Misdirection?]]></title>
+        <id>https://365community.online/microsoft-copilot-prompting-art-science-or-misdirection</id>
+        <link href="https://365community.online/microsoft-copilot-prompting-art-science-or-misdirection"/>
+        <updated>2025-12-25T23:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Everyone tells you Copilot is only as good as the prompt you feed it. That’s adorable, and also wrong. This episode is for experienced Microsoft 365 Copilot users—we’ll focus on advanced, repeatable prompting techniques that save time and actually align with your work. Because Copilot can pull from your Microsoft 365 data, structured prompts and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Isn’t Just A Sidebar—It’s The Whole Control Room]]></title>
+        <id>https://365community.online/copilot-isnt-just-a-sidebar-its-the-whole-control-room</id>
+        <link href="https://365community.online/copilot-isnt-just-a-sidebar-its-the-whole-control-room"/>
+        <updated>2025-12-25T19:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Everyone thinks Copilot in Teams is just a little sidebar that spits out summaries. Wrong. That’s like calling electricity “a new kind of candle.” Subscribe now—your future self will thank you. Copilot isn’t a window; it’s the nervous system connecting your meetings, your chats, and a central intelligence hub. That hub—M365 Copilot Chat—isn’t confined to […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your M365 Policies Are Lying]]></title>
+        <id>https://365community.online/why-your-m365-policies-are-lying</id>
+        <link href="https://365community.online/why-your-m365-policies-are-lying"/>
+        <updated>2025-12-25T15:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Everything is green. Policies are enabled. Dashboards are stable. Audit logs reconcile.So why does governance still drift? In this episode, we replay the same Microsoft 365 tenant, the same retention policies, and the same discovery queries—again and again—until we uncover the hidden truth: correct outcomes can still mask behavioral change. Creation compresses. Survival shortens. Discovery […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Power Automate Like This]]></title>
+        <id>https://365community.online/stop-using-power-automate-like-this</id>
+        <link href="https://365community.online/stop-using-power-automate-like-this"/>
+        <updated>2025-12-25T11:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Opening – The Power Automate Delusion Everyone thinks Power Automate is an integration engine. It isn’t. It’s a convenient factory of automated mediocrity—fine for reminders, terrible for revenue-grade systems. Yet, somehow, professionals keep building mission-critical workflows inside it like it’s Azure Logic Apps with a fresh coat of blue paint. Spoiler alert: it’s not. People […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Governance: Policy or Pipe Dream?]]></title>
+        <id>https://365community.online/copilot-governance-policy-or-pipe-dream</id>
+        <link href="https://365community.online/copilot-governance-policy-or-pipe-dream"/>
+        <updated>2025-12-25T08:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Everyone thinks Microsoft Copilot is just “turn it on and magic happens.” Wrong. What you’re actually doing is plugging a large language model straight into the bloodstream of your company data. Enter Copilot: it combines large language models with your Microsoft Graph content and the Microsoft 365 apps you use every day. Emails, chats, documents—all […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Move From Legacy ERP to Microsoft Dynamics 365 in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=139126</id>
+        <link href="https://erpsoftwareblog.com/2025/12/move-from-legacy-erp-to-microsoft-dynamics-365/"/>
+        <updated>2025-12-25T06:35:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Moving from a legacy ERP to Microsoft Dynamics 365 is a significant step towards digital transformation. It is a smart move that requires careful planning as you are reinventing how […]
+The post How to Move From Legacy ERP to Microsoft Dynamics 365 in 2026 appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerShell Is The Only Copilot Admin Tool You Need]]></title>
+        <id>https://365community.online/powershell-is-the-only-copilot-admin-tool-you-need</id>
+        <link href="https://365community.online/powershell-is-the-only-copilot-admin-tool-you-need"/>
+        <updated>2025-12-25T04:26:28.000Z</updated>
+        <summary type="html"><![CDATA[Opening: The Admin Center Illusion If you’re still clicking through the Admin Center, you’re already behind. Because while you’re busy waiting for the spinning wheel of configuration to finish saving, someone else just automated the same process across ten thousand users—with PowerShell—and went for lunch. The truth is, that glossy Microsoft 365 dashboard is not […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Building Ugly Power Apps: Master Containers Now]]></title>
         <id>https://365community.online/stop-building-ugly-power-apps-master-containers-now</id>
@@ -107413,132 +107488,6 @@ The post Version 3.x Change Log appeared first on Docentric AX.]]></summary>
         <summary type="html"><![CDATA[Shaping the Future of Technology: Stuart Baxter’s Pioneering Work in Microsoft Dynamics and Powe Stuart Baxter started his tech career in 2015 at a contact centre and works on projects […]]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shaping the Future of Technology: Stuart Baxter's Pioneering Work in Microsoft Dynamics and Power Platform]]></title>
-        <id>https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform</id>
-        <link href="https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform"/>
-        <updated>2023-12-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/512 Ready to embark on a technological journey unlike any other? Sit down with us as we catch up with Stuart Baxter, a recognized MVP in Microsoft […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Series Index]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index"/>
-        <updated>2023-12-27T11:00:29.000Z</updated>
-        <summary type="html"><![CDATA[I have recently started working with Microsoft Dynamics 365 Business Central and have decided to blog about it as I learn; I’ve started a In Microsoft Dynamics 365 Business Central, […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate]]></title>
-        <id>https://erpsoftwareblog.com/?p=102792</id>
-        <link href="https://erpsoftwareblog.com/2023/12/unlock-the-future-of-automation-with-copilot-and-ai-builder-in-microsoft-power-automate/"/>
-        <updated>2023-12-27T10:44:30.000Z</updated>
-        <summary type="html"><![CDATA[The digital landscape is expanding at an unprecedented pace and organizations are constantly seeking ways to optimize their workflows and efficiency. Microsoft Power Automate is quite a dominant platform for …  Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate Read More »
-The post Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate appeared first on ERP Software Blog.
-Automate Repetitive Desktop Tasks with Power Automate Desktop
-A Power Platform Success Story: Western Computer Delivers New Automations and Insights
-Upgrade Your Business with the Intelligence of AI Builder and Microsoft Power Automate]]></summary>
-        <author>
-            <name>DynaTech Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Introduction – YouTube]]></title>
-        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube</id>
-        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube"/>
-        <updated>2023-12-27T09:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: new additions in Excel Layouts reporting.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting</id>
-        <link href="https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting"/>
-        <updated>2023-12-27T09:29:50.000Z</updated>
-        <summary type="html"><![CDATA[One of the reporting features I like the most in Dynamics 365 Business Central is the possibility to create Excel Layout reports. Excel Layout reports are essentially reports based on […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison)]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=99391</id>
-        <link href="https://erpsoftwareblog.com/2023/12/hubspot-vs-microsoft-dynamics-365-crm/"/>
-        <updated>2023-12-27T09:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Are you on the hunt for the perfect CRM software? Deciding that your business could use a CRM solution is just the first step. The real challenge lies in navigating …  HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) Read More »
-The post HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) appeared first on ERP Software Blog.
-No Fooling - 3 Dynamics GP Users For $1!
-Business Intelligence in Microsoft Dynamics GP 2010
-Video: Ramada Hotel and Hampton Inn Use Microsoft Dynamics GP for their Back Office Financials]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get working days and holidays of the CRM Service calendar in Power Automate Flow]]></title>
-        <id>https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow</id>
-        <link href="https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow"/>
-        <updated>2023-12-27T07:58:50.000Z</updated>
-        <summary type="html"><![CDATA[With Microsoft providing us more flexibility with Power Automate (MS Flow), we can now retrieve working days and holiday details of the CRM Service Calendar directly within Power Automate flows. […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The webhook call failed because the Http request timed out at client side. Please check your webhook request handler – Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365</id>
-        <link href="https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365"/>
-        <updated>2023-12-26T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we were getting the below for one of our webhooks registered on Update of lead. Exception Message: The webhook call failed because the Http request timed out at client […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How ERP Solves Top Manufacturing Problems]]></title>
-        <id>https://erpsoftwareblog.com/?p=102777</id>
-        <link href="https://erpsoftwareblog.com/2023/12/how-erp-solves-top-manufacturing-problems/"/>
-        <updated>2023-12-26T17:33:37.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) plays a vital role in transforming various business processes and addressing different challenges faced by companies. Manufacturing is one such domain where ERP plays a significant …  How ERP Solves Top Manufacturing Problems Read More »
-The post How ERP Solves Top Manufacturing Problems appeared first on ERP Software Blog.
-End to End Optimization of Supply Chain Management for the Future
-Mastering Quality Control: A Deep Dive into Dynamics 365 Business Central
-Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Edit Variable Values During Debugging]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-edit-variable-values-during-debugging</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-edit-variable-values-during-debugging"/>
-        <updated>2023-12-26T15:00:20.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Order Accuracy with LS Central in Your Restaurants]]></title>
-        <id>https://erpsoftwareblog.com/?p=102779</id>
-        <link href="https://erpsoftwareblog.com/2023/12/enhancing-order-accuracy-with-ls-central-in-your-restaurants/"/>
-        <updated>2023-12-26T14:53:28.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of the restaurant industry, order accuracy is paramount to customer satisfaction. A single mistake in an order can lead to customer dissatisfaction, negative reviews, and a …  Enhancing Order Accuracy with LS Central in Your Restaurants Read More »
-The post Enhancing Order Accuracy with LS Central in Your Restaurants appeared first on ERP Software Blog.
-How to improve the efficiency of your purchase requisition workflow?
-How Requisition Management System helps to track Purchase Orders?
-Simplify purchasing and manage vendors for restaurants with LS Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
         </author>
     </entry>
     <entry>
