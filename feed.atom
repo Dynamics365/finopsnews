@@ -2,10 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-26T01:55:15.289Z</updated>
+    <updated>2025-12-27T01:53:12.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Power Platform Effect: Too Fast To Ignore]]></title>
+        <id>https://365community.online/the-power-platform-effect-too-fast-to-ignore</id>
+        <link href="https://365community.online/the-power-platform-effect-too-fast-to-ignore"/>
+        <updated>2025-12-27T01:28:40.000Z</updated>
+        <summary type="html"><![CDATA[What if I told you your developers aren’t drowning in code—they’re drowning in requests? Every department wants something automated yesterday, and the bottleneck is brutal. Now, imagine a world where your business doesn’t depend on a few overwhelmed coders but instead taps into hundreds of citizen developers, creating solutions right where the work happens. That’s […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 27 – User Security Governance disabled?]]></title>
+        <id>https://dynamicspedia.com/?p=20060</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-27-user-security-governance-disabled/"/>
+        <updated>2025-12-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[December 24 was the end of the Advent period. This period is usually the time to prepare for Christmas. If we now look at the upcoming license enforcement for Dynamics 365 F&O, we still have some time, but how long depends on your renewal or anniversary date for the existing Dynamics 365 licenses. As we […]
+The post Licensing Advent Calendar – Day 27 – User Security Governance disabled? appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Defense Against AI Mayhem]]></title>
+        <id>https://365community.online/the-last-defense-against-ai-mayhem</id>
+        <link href="https://365community.online/the-last-defense-against-ai-mayhem"/>
+        <updated>2025-12-26T21:42:34.000Z</updated>
+        <summary type="html"><![CDATA[Imagine deploying a chatbot to help your staff manage daily tasks, and within minutes it starts suggesting actions that are biased, misleading, or outright unhelpful to your clients. This isn’t sci-fi paranoia—it’s what happens when Responsible AI guardrails are missing. Responsible AI focuses on fairness, transparency, privacy, and accountability—these are the seatbelts for your digital […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Maintenance Work Orders in Business Central: Best Practices for Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=138966</id>
+        <link href="https://erpsoftwareblog.com/2025/12/managing-maintenance-work-orders-in-business-central-best-practices-for-success-3/"/>
+        <updated>2025-12-26T21:37:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Whether you’re in manufacturing, distribution, or facilities management, maintenance can make or break your operational uptime. That’s where a well-integrated Computerized Maintenance Management System (CMMS) comes into play. For organizations […]
+The post Managing Maintenance Work Orders in Business Central: Best Practices for Success appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+How Manufacturers Automate Preventive Maintenance with Business Central
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Teams Manager Illusion]]></title>
+        <id>https://365community.online/the-teams-manager-illusion</id>
+        <link href="https://365community.online/the-teams-manager-illusion"/>
+        <updated>2025-12-26T18:05:52.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,560You think you called me in to help you get control of this tenant to tame the sprawl, 200:00:03,560 –> 00:00:05,760to turn red into amber and amber into green. 300:00:05,760 –> 00:00:10,160But what you actually summoned at 2am in the low humming glow of the admin center 400:00:10,160 –> 00:00:14,280was a voice that […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Memory vs. Recall: Shocking Differences Revealed]]></title>
+        <id>https://365community.online/copilot-memory-vs-recall-shocking-differences-revealed</id>
+        <link href="https://365community.online/copilot-memory-vs-recall-shocking-differences-revealed"/>
+        <updated>2025-12-26T14:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Everyone thinks Copilot Memory is just Microsoft’s sneaky way of spying on you. Wrong. If it were secretly snooping, you wouldn’t see that little “Memory updated” badge every time you give it an instruction. The reality: Memory stores facts only when there’s clear intent—like when you ask it to remember your tone preference or a […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Integration in 2026: AI Agents, Market Growth, and What IT Leaders Need to Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=139146</id>
+        <link href="https://erpsoftwareblog.com/2025/12/data-integration-trends/"/>
+        <updated>2025-12-26T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Data integration is changing fast. What started as a way to connect business systems has become the foundation for AI-powered automation. Organizations that get this right will pull ahead. Those […]
+The post Data Integration in 2026: AI Agents, Market Growth, and What IT Leaders Need to Know appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Beate Thomsen, Rapidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your M365 Policies Are Lying]]></title>
+        <id>https://365community.online/why-your-m365-policies-are-lying-2</id>
+        <link href="https://365community.online/why-your-m365-policies-are-lying-2"/>
+        <updated>2025-12-26T10:29:22.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,520Nothing failed, the same tenant, the same policy set, the same confirmations we’ve relied 200:00:04,520 –> 00:00:06,180on for months. 300:00:06,180 –> 00:00:12,560Retention labels applied, library version enabled, eDiscovery cases open, the unified audit 400:00:12,560 –> 00:00:13,960log recording. 500:00:13,960 –> 00:00:16,760Every dashboard green, every report reconciled. 600:00:16,760 –> 00:00:20,840Here’s what actually happens, we ask […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Challenges Microsoft Dynamics ERP Consultant Help Solve in Dynamics Projects]]></title>
+        <id>https://erpsoftwareblog.com/?p=139139</id>
+        <link href="https://erpsoftwareblog.com/2025/12/common-challenges-microsoft-dynamics-erp-consultant-help-solve-in-dynamics-projects/"/>
+        <updated>2025-12-26T09:01:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s experience-driven market, your returns and exchange process is not a backend operation, it’s a critical frontline touchpoint. An old-fashioned manual system slowly but surely consumes profits, adds extra work for the […]
+The post Common Challenges Microsoft Dynamics ERP Consultant Help Solve in Dynamics Projects appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Beyond Key (Dynamics CRM Consulting)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Factory vs. Chaos: Which Runs Your Enterprise?]]></title>
+        <id>https://365community.online/ai-factory-vs-chaos-which-runs-your-enterprise</id>
+        <link href="https://365community.online/ai-factory-vs-chaos-which-runs-your-enterprise"/>
+        <updated>2025-12-26T06:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Ah, here’s the riddle your CIO hasn’t solved. Is AI just another workload to shove onto the server farm, or a fire-breathing creature that insists on its own habitat—GPUs, data lakes, and strict governance temples? Most teams gamble blind, and the result is budgets consumed faster than warp drive burns antimatter. Here’s what you’ll take […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Traditional Endpoint Security Is Failing Against Modern Cyber Attacks]]></title>
+        <id>https://365community.online/why-traditional-endpoint-security-is-failing-against-modern-cyber-attacks</id>
+        <link href="https://365community.online/why-traditional-endpoint-security-is-failing-against-modern-cyber-attacks"/>
+        <updated>2025-12-26T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Traditional Endpoint Security Is Failing Against Modern Cyber Attacks Original Post https://geodatatek.com/blog/why-traditional-endpoint-security-is-failing-against-modern-cyber-attacks#utm_source=rss&utm_medium=rss&utm_campaign=why-traditional-endpoint-security-is-failing-against-modern-cyber-attacks]]></summary>
+        <author>
+            <name>Vikash Perumal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Enterprise Data Isn’t Working – A Practical Guide for Data Modeling]]></title>
+        <id>https://365community.online/why-your-enterprise-data-isnt-working-a-practical-guide-for-data-modeling</id>
+        <link href="https://365community.online/why-your-enterprise-data-isnt-working-a-practical-guide-for-data-modeling"/>
+        <updated>2025-12-26T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Your Enterprise Data Isn’t Working – A Practical Guide for Data Modeling Original Post https://geodatatek.com/blog/why-your-enterprise-data-isnt-working-a-practical-guide-for-data-modeling#utm_source=rss&utm_medium=rss&utm_campaign=why-your-enterprise-data-isnt-working-a-practical-guide-for-data-modeling]]></summary>
+        <author>
+            <name>Vikash Perumal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot’s ‘Compliant by Design’ Claim: Exposed]]></title>
+        <id>https://365community.online/copilots-compliant-by-design-claim-exposed</id>
+        <link href="https://365community.online/copilots-compliant-by-design-claim-exposed"/>
+        <updated>2025-12-26T02:50:52.000Z</updated>
+        <summary type="html"><![CDATA[Everyone thinks AI compliance is Microsoft’s problem. Wrong. The EU AI Act doesn’t stop at developers of tools like Copilot or ChatGPT—the Act allocates obligations across the AI supply chain. That means deployers like you share responsibility, whether you asked for it or not. Picture this: roll out ChatGPT in HR and suddenly you’re on […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Prompting: Art, Science—or Misdirection?]]></title>
         <id>https://365community.online/microsoft-copilot-prompting-art-science-or-misdirection</id>
@@ -9309,6 +9455,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 3.x Change Log]]></title>
+        <id>http://ax.docentric.com/?p=7347</id>
+        <link href="https://ax.docentric.com/version-3-x-change-log/"/>
+        <updated>2025-11-07T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Version 3.5.0 Change Log ▫Release date: 2025-10-02 ▫(Hotfix 3.5.0.1) Release date: 2025-11-07 NEW FEATURES Print reports from common journals - Free Edition: - Printing reports directly from common journal forms is now supported: >> Print journal: Print a single selected journal interactively, with or without […]
+The post Version 3.x Change Log appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Ana Gligorijevic</name>
         </author>
     </entry>
     <entry>
@@ -107368,126 +107525,6 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Carol Steinke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate AP Invoice Processing in Microsoft Dynamics 365 with Axtension®]]></title>
-        <id>https://erpsoftwareblog.com/?p=102636</id>
-        <link href="https://erpsoftwareblog.com/2023/12/automate-ap-invoice-processing-in-microsoft-dynamics-365-with-axtension/"/>
-        <updated>2023-12-28T12:08:26.000Z</updated>
-        <summary type="html"><![CDATA[Invoice processing is a tedious process and is often a productivity bottleneck as a business grows. Without an automation solution in place, the accounts payable team struggles to keep pace …  Automate AP Invoice Processing in Microsoft Dynamics 365 with Axtension® Read More »
-The post Automate AP Invoice Processing in Microsoft Dynamics 365 with Axtension® appeared first on ERP Software Blog.
-Manage Multiple Revenue Streams and Invoices for Rental in Dynamics 365
-Better User Experience – Better Life
-Boost Your Agent Retention Rate with a Robust Agent Self-Service Portal by Domain 6]]></summary>
-        <author>
-            <name>Axtension</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speed up your automated tests without really doing anything..]]></title>
-        <id>https://365community.online/speed-up-your-automated-tests-without-really-doing-anything</id>
-        <link href="https://365community.online/speed-up-your-automated-tests-without-really-doing-anything"/>
-        <updated>2023-12-28T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a Christmas present from me for you: a short, but may be fore some people a very liberating post on how to speed up your tests in your pipeline, […]]]></summary>
-        <author>
-            <name>Waldo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Types of Flows Are Available]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-types-of-flows-are-available</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-types-of-flows-are-available"/>
-        <updated>2023-12-28T11:00:12.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Holidays from Team Maplytics: A Throwback at the laurels of 2023!]]></title>
-        <id>https://365community.online/happy-holidays-from-team-maplytics-a-throwback-at-the-laurels-of-2023</id>
-        <link href="https://365community.online/happy-holidays-from-team-maplytics-a-throwback-at-the-laurels-of-2023"/>
-        <updated>2023-12-28T10:24:33.000Z</updated>
-        <summary type="html"><![CDATA[The post Happy Holidays from Team Maplytics: A Throwback at the laurels of 2023! appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use D365FO's jumpRef() to Open Form in a Different Legal Entity]]></title>
-        <id>https://ax.docentric.com/?p=27564</id>
-        <link href="https://ax.docentric.com/use-d365fos-jumpref-to-open-form-in-a-different-legal-entity/"/>
-        <updated>2023-12-28T09:45:43.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations, the 'View details' functionality is a user interface feature that allows users to quickly access related information directly from a field or record on any form. This feature enhances user experience by providing immediate context and deeper insights without […]
-The post Use D365FO’s jumpRef() to Open Form in a Different Legal Entity appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Jovica Zivkovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolution Revolution: Optimize Your 2024 with Inogic’s CRM-driven Fireworks Display!]]></title>
-        <id>https://365community.online/resolution-revolution-optimize-your-2024-with-inogics-crm-driven-fireworks-display</id>
-        <link href="https://365community.online/resolution-revolution-optimize-your-2024-with-inogics-crm-driven-fireworks-display"/>
-        <updated>2023-12-28T09:36:29.000Z</updated>
-        <summary type="html"><![CDATA[The crispness in the air, the clinking of glasses, the sounds of joy, and the smells of roasts are a sign that not only has the season changed but the […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 Demo Days - Microsoft Dynamics GP and 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=102826</id>
-        <link href="https://erpsoftwareblog.com/2023/12/gp-and-bc-demo-day/"/>
-        <updated>2023-12-28T09:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Here at The ISV Society, we ended the year with Demo Days. Each day, we focused on a different ERP. Microsoft Dynamics GP Demo Day First up was Dynamics GP, …  2 Demo Days - Microsoft Dynamics GP and 365 Business Central Read More »
-The post 2 Demo Days - Microsoft Dynamics GP and 365 Business Central appeared first on ERP Software Blog.
-How are AP and AR the 2 Sides of The Same Coin?
-How to keep businesses running smoothly with labor shortages
-Time to Upgrade Your TMS or Maybe Move to a New Provider ?]]></summary>
-        <author>
-            <name>The ISV Society</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Version 3.x Change Log]]></title>
-        <id>http://ax.docentric.com/?p=7347</id>
-        <link href="https://ax.docentric.com/version-3-x-change-log/"/>
-        <updated>2023-12-27T19:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Version 3.4.7 Change Log ▫Release date: 2023-09-29 ▫(Hotfix 3.4.7.1) Release date: 2023-11-02 ▫(Hotfix 3.4.7.2) Release date: 2023-12-27 NEW FEATURES Print management utilities – Free Edition: - Filter, sort and search all Print management settings including overrides for a legal entity in a single grid (tabular […]
-The post Version 3.x Change Log appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Ana Gligorijevic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages]]></title>
-        <id>https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages</id>
-        <link href="https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages"/>
-        <updated>2023-12-27T17:59:54.000Z</updated>
-        <summary type="html"><![CDATA[Even though we can now use Virtual Tables to expose SharePoint lists in a Power Pages site, the same does not apply to SharePoint Document libraries. You can use the […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Understand For What Power Automate can be Used]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used"/>
-        <updated>2023-12-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shaping the Future of Technology: Stuart Baxter’s Pioneering Work in Microsoft Dynamics and Powe – YouTube]]></title>
-        <id>https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-powe-youtube</id>
-        <link href="https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-powe-youtube"/>
-        <updated>2023-12-27T14:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Shaping the Future of Technology: Stuart Baxter’s Pioneering Work in Microsoft Dynamics and Powe Stuart Baxter started his tech career in 2015 at a contact centre and works on projects […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
