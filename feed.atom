@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-27T01:53:12.058Z</updated>
+    <updated>2025-12-28T02:06:35.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Crown Jewel Hackers Hunt]]></title>
+        <id>https://365community.online/the-crown-jewel-hackers-hunt</id>
+        <link href="https://365community.online/the-crown-jewel-hackers-hunt"/>
+        <updated>2025-12-27T23:38:55.000Z</updated>
+        <summary type="html"><![CDATA[What’s the one system in your environment that, if compromised, would let an attacker own everything—logins, files, even emails? Yep, it’s Active Directory. Before we roll initiative, hit Subscribe so these best-practices get to your team. The question is: how exposed is yours? Forget firewalls for a second. If AD is a weak link, your […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 28 – Community shout-out!]]></title>
+        <id>https://dynamicspedia.com/?p=20067</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-28-community-shout-out/"/>
+        <updated>2025-12-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While we had a journey from the end of March until now, there were many changes and questions related to the upcoming license enforcement. Not only did I try to help by blogging, answering questions, and providing feedback to Microsoft. There are some other people who deserve a shout-out for their contributions to this topic […]
+The post Licensing Advent Calendar – Day 28 – Community shout-out! appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabric’s Answer to Identity Chaos]]></title>
+        <id>https://365community.online/fabrics-answer-to-identity-chaos-2</id>
+        <link href="https://365community.online/fabrics-answer-to-identity-chaos-2"/>
+        <updated>2025-12-27T19:59:08.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,560The system did not fail you. It executed precisely what you allowed to exist. 200:00:04,560 –> 00:00:10,720You treated identity as a modeling choice, a design detail, something you could defer to later, 300:00:10,720 –> 00:00:17,040or patch in ETL, or push into a best practice document nobody reads at 2am during an incident. 400:00:17,040 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabric’s Answer to Identity Chaos]]></title>
+        <id>https://365community.online/fabrics-answer-to-identity-chaos</id>
+        <link href="https://365community.online/fabrics-answer-to-identity-chaos"/>
+        <updated>2025-12-27T16:19:34.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we dive headfirst into one of the most quietly painful problems in modern data platforms: identity chaos. As organizations scale their analytics environments, especially within lakehouse architectures, identity, access control, and governance tend to sprawl faster than anyone wants to admit. The result is entropy. Confusing permissions, brittle security models, duplicated identities, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Azure AI Foundry’s Agent Army: Why It Wins]]></title>
+        <id>https://365community.online/your-azure-ai-foundrys-agent-army-why-it-wins</id>
+        <link href="https://365community.online/your-azure-ai-foundrys-agent-army-why-it-wins"/>
+        <updated>2025-12-27T12:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Here’s the shocking part nobody tells you: when you deploy an AI in Azure Foundry, you’re not just spinning up one oversized model. You’re dropping it into a managed runtime where every relevant action—messages, tool calls, and run steps—gets logged and traced. You’ll see how Threads, Runs, and Run Steps form the paper trail that […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 6 In Demand Programming Languages in 2026 | Popular Programming Languages | MindMajix #coding – YouTube]]></title>
+        <id>https://365community.online/top-6-in-demand-programming-languages-in-2026-popular-programming-languages-mindmajix-coding-youtube</id>
+        <link href="https://365community.online/top-6-in-demand-programming-languages-in-2026-popular-programming-languages-mindmajix-coding-youtube"/>
+        <updated>2025-12-27T11:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Top Programming Languages in 2026 | Popular Programming Languages We listed out the top 6 programming languages that are in-demand in 2026. #ProgrammingLanguages #Coding #InDemandSkills source]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most Get It Wrong]]></title>
+        <id>https://365community.online/why-most-get-it-wrong</id>
+        <link href="https://365community.online/why-most-get-it-wrong"/>
+        <updated>2025-12-27T08:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Ah, automation. You push a button, it runs a script, and you get your shiny output. But here’s the twist—agents aren’t scripts. They *watch* you, plan their own steps, and act without checking in every five seconds. Automation is a vending machine. Agents are that intern who studies your quirks and starts finishing your sentences. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Microsoft 365 Copilot Pays For Itself]]></title>
+        <id>https://365community.online/why-microsoft-365-copilot-pays-for-itself</id>
+        <link href="https://365community.online/why-microsoft-365-copilot-pays-for-itself"/>
+        <updated>2025-12-27T05:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Ah, endless emails, meetings, and reports—the black hole of modern office life. What if I told you there’s a tool that pays for itself by giving you back those lost hours? According to Forrester’s Total Economic Impact model of a composite organization with 25,000 employees and $6.25 billion in revenue, risk‑adjusted returns reached 116% over […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Power Platform Effect: Too Fast To Ignore]]></title>
         <id>https://365community.online/the-power-platform-effect-too-fast-to-ignore</id>
@@ -107318,213 +107399,6 @@ Best Practices For Dispatchers
 A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge]]></summary>
         <author>
             <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformando la Conciliación Bancaria con Copilot en Microsoft Business Central (Introducción)]]></title>
-        <id>https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-introduccion</id>
-        <link href="https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-introduccion"/>
-        <updated>2023-12-29T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[En el mundo de las finanzas, la conciliación bancaria puede ser una tarea tediosa y que consume mucho tiempo. Afortunadamente, la tecnología está aquí para hacer nuestras vidas más fáciles, […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #120 – Countdown to the end of the year – YouTube]]></title>
-        <id>https://365community.online/weekly-update-120-countdown-to-the-end-of-the-year-youtube-2</id>
-        <link href="https://365community.online/weekly-update-120-countdown-to-the-end-of-the-year-youtube-2"/>
-        <updated>2023-12-29T11:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #120 – Countdown to the end of the year Join me in my latest weekly update video as I am counting down to the end of the year […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #122 – 12th May 2023 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-122-12th-may-2023-youtube</id>
-        <link href="https://365community.online/weekly-update-122-12th-may-2023-youtube"/>
-        <updated>2023-12-29T11:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #122 – 12th May 2023 Join me as I talk about the latest public preview and generally available features released for Azure this week. Check out the Azure […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #121 – Comeback! – YouTube]]></title>
-        <id>https://365community.online/weekly-update-121-comeback-youtube-2</id>
-        <link href="https://365community.online/weekly-update-121-comeback-youtube-2"/>
-        <updated>2023-12-29T11:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #121 – Comeback! I’m back with a weekly news update! This week I am talking about Azure Hybrid Benefit management, new regions in Azure, Azure Virtual Desktop features […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #125 – 2nd June 2023 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-125-2nd-june-2023-youtube-2</id>
-        <link href="https://365community.online/weekly-update-125-2nd-june-2023-youtube-2"/>
-        <updated>2023-12-29T11:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #125 – 2nd June 2023 It’s been quiet this week after Microsoft Build last week, but let’s catch up on the news. Setting Up a CI/CD Pipeline with […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo MWC23 Recap – YouTube]]></title>
-        <id>https://365community.online/lenovo-mwc23-recap-youtube-2</id>
-        <link href="https://365community.online/lenovo-mwc23-recap-youtube-2"/>
-        <updated>2023-12-29T11:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo MWC23 Recap Join me as I look back at the announcements from MWC23 and Lenovo. February 27 – March 2, 2023 Join me as I look back at the […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #123 – 19th May 2023 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-123-19th-may-2023-youtube-2</id>
-        <link href="https://365community.online/weekly-update-123-19th-may-2023-youtube-2"/>
-        <updated>2023-12-29T11:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #123 – 19th May 2023 Join me this week as I run through some of the Azure news sharing information about generally available features as well as public […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Actions Are Available with Power Automate]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-actions-are-available-with-power-automate</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-actions-are-available-with-power-automate"/>
-        <updated>2023-12-29T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Build 2023 News Highlight Reel – YouTube]]></title>
-        <id>https://365community.online/microsoft-build-2023-news-highlight-reel-youtube-2</id>
-        <link href="https://365community.online/microsoft-build-2023-news-highlight-reel-youtube-2"/>
-        <updated>2023-12-29T11:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Build 2023 News Highlight Reel This week there is a ton of announcements thanks to Microsoft Build 2023! Microsoft Build Books of News 2023: https://news.microsoft.com/build-2023-book-of-news/ GitHub Copilot X waitlist: […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoiding deadlocks and lost records when using batch jobs in D365FO]]></title>
-        <id>https://ax.docentric.com/?p=27740</id>
-        <link href="https://ax.docentric.com/avoiding-deadlocks-and-lost-records-when-using-batch-jobs-in-d365fo/"/>
-        <updated>2023-12-29T08:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Batch jobs are a major part of D365FO and are a great way to asynchronously process large amounts of data. If we are writing a batch job process that is going to use multiple batch jobs simultaneously on the same data, there are potential problems […]
-The post Avoiding deadlocks and lost records when using batch jobs in D365FO appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Nenad Krantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to push code to GitHub | 2023 Tutorial – YouTube]]></title>
-        <id>https://365community.online/how-to-push-code-to-github-2023-tutorial-youtube</id>
-        <link href="https://365community.online/how-to-push-code-to-github-2023-tutorial-youtube"/>
-        <updated>2023-12-29T07:00:03.000Z</updated>
-        <summary type="html"><![CDATA[How to push code to GitHub | 2023 Tutorial Join me in this video as I explain how to push code to your GitHub repository. 🎶 The music in my […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You for 1 Million Visitors: A New Chapter for Finance and Accounting]]></title>
-        <id>http://dynamicsax-fico.com/?p=5653</id>
-        <link href="https://dynamicsax-fico.com/2023/12/29/thank-you-for-1-million-visitors-a-new-chapter-for-finance-and-accounting/"/>
-        <updated>2023-12-29T06:00:16.000Z</updated>
-        <summary type="html"><![CDATA[A Big Thank You to All My Readers I am thrilled and humbled to announce that my blog has reached …
-Continue reading →]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Success: Unveiling the Power of Microsoft Dynamics NAV for Businesses]]></title>
-        <id>https://erpsoftwareblog.com/?p=102845</id>
-        <link href="https://erpsoftwareblog.com/2023/12/navigating-success-unveiling-the-power-of-microsoft-dynamics-nav-for-businesses/"/>
-        <updated>2023-12-28T19:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics NAV, commonly known as NAVision, stands as a robust ERP solution tailored to the specific requirements of SMEs. Developed by Microsoft, NAV incorporates features catering to several …  Navigating Success: Unveiling the Power of Microsoft Dynamics NAV for Businesses Read More »
-The post Navigating Success: Unveiling the Power of Microsoft Dynamics NAV for Businesses appeared first on ERP Software Blog.
-Agile v. Waterfall: Which is Best for Microsoft Dynamics NAV
-Understanding the New Workflow Condition Management
-What to Expect From Microsoft Dynamics 365]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀New Video:  Configuración Fácil de Importación de Movimientos Bancarios en Business Central]]></title>
-        <id>https://365community.online/%f0%9f%9a%80new-video-configuracion-facil-de-importacion-de-movimientos-bancarios-en-business-central</id>
-        <link href="https://365community.online/%f0%9f%9a%80new-video-configuracion-facil-de-importacion-de-movimientos-bancarios-en-business-central"/>
-        <updated>2023-12-28T19:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Nuevo Video en mi canal de YouTube. En mi video de hoy, te mostrare cómo configurar de manera sencilla y eficiente la importación de movimientos bancarios en Business Central. Este […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling the Synergy: Integrating MES and ERP for Manufacturing Optimization]]></title>
-        <id>https://erpsoftwareblog.com/?p=102841</id>
-        <link href="https://erpsoftwareblog.com/2023/12/unveiling-the-synergy-integrating-mes-and-erp-for-manufacturing-optimization/"/>
-        <updated>2023-12-28T19:03:20.000Z</updated>
-        <summary type="html"><![CDATA[If your manufacturing operations are rife with inefficiencies, struggling with shop floor performance, and facing challenges in demand forecasting leading to surplus inventory or delayed deliveries, the key to a …  Unveiling the Synergy: Integrating MES and ERP for Manufacturing Optimization Read More »
-The post Unveiling the Synergy: Integrating MES and ERP for Manufacturing Optimization appeared first on ERP Software Blog.
-Brilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP
-Is it Time for Your Microsoft Cloud ERP Migration?
-Choosing the Right ERP System for Your eCommerce Business]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Configuración Fácil de Importación de Movimientos Bancarios en Business Central | TechSphereDynamics – YouTube]]></title>
-        <id>https://365community.online/configuracion-facil-de-importacion-de-movimientos-bancarios-en-business-central-techspheredynamics-youtube</id>
-        <link href="https://365community.online/configuracion-facil-de-importacion-de-movimientos-bancarios-en-business-central-techspheredynamics-youtube"/>
-        <updated>2023-12-28T19:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Configuración Fácil de Importación de Movimientos Bancarios en Business Central | TechSphereDynamics 🌟 ¡Bienvenidos a TechSphereDynamics! 🌟 En mi video de hoy, te mostraré cómo configurar de manera sencilla y […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Optimal ERP Investment: Microsoft Dynamics 365 Unveiled]]></title>
-        <id>https://erpsoftwareblog.com/?p=102836</id>
-        <link href="https://erpsoftwareblog.com/2023/12/exploring-the-optimal-erp-investment-microsoft-dynamics-365-unveiled/"/>
-        <updated>2023-12-28T18:49:20.000Z</updated>
-        <summary type="html"><![CDATA[Selecting the right ERP is pivotal for automating departmental processes and achieving significant time and cost savings. The ideal ERP system ensures seamless business process synchronization, fostering the balanced and …  Exploring the Optimal ERP Investment: Microsoft Dynamics 365 Unveiled Read More »
-The post Exploring the Optimal ERP Investment: Microsoft Dynamics 365 Unveiled appeared first on ERP Software Blog.
-Dynamics GP 2013’s New Licensing Structure Offers Additional Modules and Users at No Extra Charge
-The Top Three Questions to Ask Before Selecting a Dynamics GP Manufacturing Partner
-Key Steps for Selecting the Right ERP Software]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Logic Apps: securing HTTP Triggers with Microsoft Entra ID authentication]]></title>
-        <id>https://365community.online/azure-logic-apps-securing-http-triggers-with-microsoft-entra-id-authentication</id>
-        <link href="https://365community.online/azure-logic-apps-securing-http-triggers-with-microsoft-entra-id-authentication"/>
-        <updated>2023-12-28T16:15:13.000Z</updated>
-        <summary type="html"><![CDATA[Lots of time ago I wrote a post about securing the HTTP triggered workflows created with Power Automate. You can read this post here. When you create a workflow with […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intercompany Processing in Dynamics GP]]></title>
-        <id>https://www.encorebusiness.com/?p=60747</id>
-        <link href="https://www.encorebusiness.com/blog/intercompany-processing-in-dynamics-gp/"/>
-        <updated>2023-12-28T16:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Intercompany Processing in Dynamics GP
-Intercompany Processing in Dynamics GP is a great tool to assist ­users when tracking entries in one company that must also be recorded in another company. For example, if you are creating an invoice in Company A, where the expense or a portion of the expense belongs to Company B, Intercompany Processing allows you to...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Carol Steinke</name>
         </author>
     </entry>
     <entry>
