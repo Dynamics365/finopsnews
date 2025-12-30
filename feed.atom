@@ -2,10 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2025-12-29T02:04:46.434Z</updated>
+    <updated>2025-12-30T01:56:19.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Replaced 500 Measures Instantly—Here’s How]]></title>
+        <id>https://365community.online/i-replaced-500-measures-instantly-heres-how</id>
+        <link href="https://365community.online/i-replaced-500-measures-instantly-heres-how"/>
+        <updated>2025-12-30T01:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Ever stared at a Power BI model with 500 measures, all named like a toddler smashing a keyboard? That endless scroll of “what-does-this-even-mean” is a special kind of pain. If you want fewer helpdesk tickets about broken reports, hit subscribe now—future you will thank you when it’s cleanup time. The good news? Power BI now […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licensing Advent Calendar – Day 30 – Multiple production environments]]></title>
+        <id>https://dynamicspedia.com/?p=20076</id>
+        <link href="https://dynamicspedia.com/2025/12/licensing-advent-calendar-day-30-multiple-production-environments/"/>
+        <updated>2025-12-29T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are moving towards the end of the year. On day 30, I will elaborate on the license reporting in case you have multiple production environments in your tenant. Multiple production environments In case you have a global roll-out of Dynamics 365 F&O, you might have multiple production instances. A valid reason is to reduce […]
+The post Licensing Advent Calendar – Day 30 – Multiple production environments appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditch Passwords—How Real Azure Apps Secure Everything]]></title>
+        <id>https://365community.online/ditch-passwords-how-real-azure-apps-secure-everything</id>
+        <link href="https://365community.online/ditch-passwords-how-real-azure-apps-secure-everything"/>
+        <updated>2025-12-29T21:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a fun fact: embedding credentials in your Azure apps is basically handing out house keys at a bus stop. Entra ID and managed identities let you lock every door without juggling keyrings or hoping nobody notices the Post-It note under your keyboard. The good news—you don’t need to be a cryptography wizard to do […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce Variability and Optimize Routing Accuracy in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=139028</id>
+        <link href="https://erpsoftwareblog.com/2025/12/reduce-variability-and-optimize-routing-accuracy-in-business-central-3/"/>
+        <updated>2025-12-29T20:38:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Variability in production isn’t just a scheduling headache—it’s a hidden cost driver that impacts everything from labor efficiency to product quality and financial accuracy. In a world where lean operations […]
+The post Reduce Variability and Optimize Routing Accuracy in Business Central appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Is Secure — Until Governance Disappears]]></title>
+        <id>https://365community.online/power-platform-is-secure-until-governance-disappears</id>
+        <link href="https://365community.online/power-platform-is-secure-until-governance-disappears"/>
+        <updated>2025-12-29T18:26:55.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,960Most organizations still ask the wrong question about Power Platform. 200:00:02,960 –> 00:00:06,320Is this thing secure enough for enterprise-ordered heavy use? 300:00:06,320 –> 00:00:09,400They assume the risk lives in Microsoft’s stack? It doesn’t. 400:00:09,400 –> 00:00:13,360Here’s the blunt answer, yes, the Power Platform Security architecture is enterprise-grade. 500:00:13,360 –> 00:00:15,920The weak link is […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix STATUS_ACCESS_VIOLATION Crashing Your Business Central Web Client]]></title>
+        <id>https://erpsoftwareblog.com/?p=139174</id>
+        <link href="https://erpsoftwareblog.com/2025/12/fix-status_access_violation-crashing-business-central/"/>
+        <updated>2025-12-29T17:00:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Frustrated with Business Central web client crashes halting your workflow? The STATUS_ACCESS_VIOLATION error hits users hard, especially on Edge or Bing previews, turning routine tasks into endless troubleshooting nightmares.​ Sudden […]
+The post Fix STATUS_ACCESS_VIOLATION Crashing Your Business Central Web Client appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Spot Angry Customers Before You Do]]></title>
+        <id>https://365community.online/how-ai-agents-spot-angry-customers-before-you-do</id>
+        <link href="https://365community.online/how-ai-agents-spot-angry-customers-before-you-do"/>
+        <updated>2025-12-29T14:48:39.000Z</updated>
+        <summary type="html"><![CDATA[What if your contact center could recognize a frustrated customer before they even said a word? That’s not science fiction—it’s sentiment analytics at work inside Dynamics 365 Contact Center. Before we roll initiative on today’s patch boss, hit subscribe so these briefings auto-deploy to your queue instead of waiting on hold. Here’s how it works: […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central UI performance: what about the browser and the local machine?]]></title>
+        <id>https://365community.online/dynamics-365-business-central-ui-performance-what-about-the-browser-and-the-local-machine</id>
+        <link href="https://365community.online/dynamics-365-business-central-ui-performance-what-about-the-browser-and-the-local-machine"/>
+        <updated>2025-12-29T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The last weeks of the year are quite always extremely busy days due to go -lives. The go-live of an ERP solution is always a critical moment for a company’s future software infrastructure, and every aspect requires the best attention (functionality to be activated, data recovery, code to deploy, solution performance, monitoring). Very often, an […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical AI for Business Central: What Partners Can Apply Today]]></title>
+        <id>https://erpsoftwareblog.com/?p=139164</id>
+        <link href="https://erpsoftwareblog.com/2025/12/practical-ai-for-business-central-what-partners-can-apply-today/"/>
+        <updated>2025-12-29T11:40:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+AI has moved quickly from experimentation to expectation in the Microsoft Dynamics ecosystem. For Business Central partners, the key question is no longer whether AI matters, but how to deliver […]
+The post Practical AI for Business Central: What Partners Can Apply Today appeared first on ERP Software Blog.
+Mekorma Payment Hub v0.9: New Features for Business Central
+Winning the AP Game with Mekorma Embedded Solutions
+Vendor Data in Accounts Payable: Best Management Practices]]></summary>
+        <author>
+            <name>Data Courage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio vs. Teams Toolkit: Critical Differences]]></title>
+        <id>https://365community.online/copilot-studio-vs-teams-toolkit-critical-differences</id>
+        <link href="https://365community.online/copilot-studio-vs-teams-toolkit-critical-differences"/>
+        <updated>2025-12-29T11:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Rolling out Microsoft 365 Copilot feels like unlocking a legendary item—until you realize it only comes with the starter kit. Out of the box, it draws on baseline model knowledge and the content inside your tenant. Useful, but what about your dusty SOPs, the HR playbook, or that monster ERP system lurking in the corner? […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[¡Programa en Business Central a la velocidad de la luz! ⚡️ AL-Developer – YouTube]]></title>
+        <id>https://365community.online/programa-en-business-central-a-la-velocidad-de-la-luz-%e2%9a%a1%ef%b8%8f-al-developer-youtube</id>
+        <link href="https://365community.online/programa-en-business-central-a-la-velocidad-de-la-luz-%e2%9a%a1%ef%b8%8f-al-developer-youtube"/>
+        <updated>2025-12-29T08:01:20.000Z</updated>
+        <summary type="html"><![CDATA[¡Programa en Business Central a la velocidad de la luz! ⚡️ AL-Developer]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Intranet Search Sucks (And How to Fix It)]]></title>
+        <id>https://365community.online/why-your-intranet-search-sucks-and-how-to-fix-it</id>
+        <link href="https://365community.online/why-your-intranet-search-sucks-and-how-to-fix-it"/>
+        <updated>2025-12-29T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[You know that moment when you search your intranet, type the exact title of a document, and it still vanishes into the void? That’s not bad luck—that’s bad Information Architecture. Before we start the dungeon crawl, hit subscribe so you don’t miss future best‑practice loot drops. Here’s what you’ll walk away with today: a quick […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio: Simple Build, Hidden Traps]]></title>
+        <id>https://365community.online/copilot-studio-simple-build-hidden-traps</id>
+        <link href="https://365community.online/copilot-studio-simple-build-hidden-traps"/>
+        <updated>2025-12-29T04:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Imagine rolling out your first Copilot Studio agent, and instead of impressing anyone, it blurts out something flimsy like, “I think the policy says… maybe?” That’s the natural 1 of bot building. But with a couple of fixes—clear instructions, grounding it in the actual policy doc—you can turn that blunder into a natural 20 that […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SharePoint Premium Is Not What You Think]]></title>
         <id>https://365community.online/sharepoint-premium-is-not-what-you-think</id>
@@ -107375,46 +107521,6 @@ The post I’m joining Next365 appeared first on Dynamicspedia.]]></summary>
         <summary type="html"><![CDATA[Using Microsoft Graph in Power Apps and Power Automate offers several advantages for streamlining integration with various Microsoft 365 services and applications. Additionally, securing these integrations with Azure Managed Identities […]]]></summary>
         <author>
             <name>Mohamed Ashiq Faleel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Microsoft Graph API]]></title>
-        <id>https://365community.online/getting-started-with-microsoft-graph-api</id>
-        <link href="https://365community.online/getting-started-with-microsoft-graph-api"/>
-        <updated>2023-12-31T12:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Graph API is a superb way to leverage Microsoft 365 services as a developer. Before you start to wonder where all to get started from, this post is for […]]]></summary>
-        <author>
-            <name>Priyesh Wagh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Permanently Delete users from Power Platform]]></title>
-        <id>https://365community.online/permanently-delete-users-from-power-platform</id>
-        <link href="https://365community.online/permanently-delete-users-from-power-platform"/>
-        <updated>2023-12-31T11:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Often times, as organizations have users enabled and disabled, over the course of time we see a lot of Disabled Users pile up in the system. Power Platform now lets […]]]></summary>
-        <author>
-            <name>Priyesh Wagh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Permanently Delete a User in Entra ID]]></title>
-        <id>https://365community.online/permanently-delete-a-user-in-entra-id</id>
-        <link href="https://365community.online/permanently-delete-a-user-in-entra-id"/>
-        <updated>2023-12-31T11:26:49.000Z</updated>
-        <summary type="html"><![CDATA[In case you are managing Users in Microsoft 365, a Deleted User still exists in Soft Delete state for 30 days.Here’s how you can immediately delete the user permanently!Please do […]]]></summary>
-        <author>
-            <name>Priyesh Wagh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manually Add Licensed Users in Dataverse Environment in Power Platform Admin Center]]></title>
-        <id>https://365community.online/manually-add-licensed-users-in-dataverse-environment-in-power-platform-admin-center</id>
-        <link href="https://365community.online/manually-add-licensed-users-in-dataverse-environment-in-power-platform-admin-center"/>
-        <updated>2023-12-31T06:55:35.000Z</updated>
-        <summary type="html"><![CDATA[In case you want to reflect a recently licensed user in a Dataverse environment but you don’t see it reflect immediately, here’s how you can manually add users to the […]]]></summary>
-        <author>
-            <name>Priyesh Wagh</name>
         </author>
     </entry>
     <entry>
