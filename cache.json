@@ -94,46 +94,6 @@
           "wordCount": 889,
           "title": "Throw behaviour in Xpp",
           "imageUrl": "https://automaly.com/img/ripples.svg"
-        },
-        {
-          "id": "https://automaly.com/posts/using-xppprepostargs-to-pass-parameters-through-a-method/",
-          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
-          "description": "Master XppPrePostArgs class in Dynamics 365 for passing parameters between pre- and post-event handlers. Practical example with CustGroup table extension and method wrapping.",
-          "link": "https://automaly.com/posts/using-xppprepostargs-to-pass-parameters-through-a-method/",
-          "publishedOn": "2024-01-02T00:00:00.000Z",
-          "wordCount": 752,
-          "title": "Using XppPrePostArgs to pass parameters through a method",
-          "imageUrl": "https://automaly.com/img/ripples.svg"
-        },
-        {
-          "id": "https://automaly.com/posts/nodataintmptableforpreprocessreport/",
-          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
-          "description": "Troubleshoot SSRS report preprocessing issues in Dynamics 365 Finance and Operations. Learn why takeOwnershipOfTempTable() is required for temporary table manipulation in RDP classes.",
-          "link": "https://automaly.com/posts/nodataintmptableforpreprocessreport/",
-          "publishedOn": "2024-01-02T00:00:00.000Z",
-          "wordCount": 636,
-          "title": "No data is inserted/modified in temporary table when processing an SRS report using Pre-process",
-          "imageUrl": "https://automaly.com/img/ripples.svg"
-        },
-        {
-          "id": "https://automaly.com/posts/kustovspbi/",
-          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
-          "description": "Learn how to create and use Azure Data Explorer (ADX) Kusto functions as Power BI data sources. Simplify data access and enhance reporting with parameterized functions.",
-          "link": "https://automaly.com/posts/kustovspbi/",
-          "publishedOn": "2024-01-02T00:00:00.000Z",
-          "wordCount": 814,
-          "title": "Using Kusto functions in Power BI datasource",
-          "imageUrl": "https://automaly.com/img/ripples.svg"
-        },
-        {
-          "id": "https://automaly.com/posts/trickxppprepostarg/",
-          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
-          "description": "Master XppPrePostArgs class in Dynamics 365 for passing parameters between pre- and post-event handlers. Practical example with CustGroup table extension and method wrapping.",
-          "link": "https://automaly.com/posts/trickxppprepostarg/",
-          "publishedOn": "2024-01-02T00:00:00.000Z",
-          "wordCount": 755,
-          "title": "Using XppPrePostArgs to pass parameters through a method",
-          "imageUrl": "https://automaly.com/img/ripples.svg"
         }
       ]
     },
@@ -1456,6 +1416,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=139048",
+          "author": "Insight Works",
+          "description": "xxx\nWhen working with barcode scanning in Business Central, it’s not enough to generate barcodes—they need to scan flawlessly. Whether you’re printing product labels, warehouse documents, or invoices, unreadable barcodes mean […]\nThe post Best Practices for Barcode Scanning in Business Central: How to Ensure Readability and Accuracy appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2025/12/best-practices-for-barcode-scanning-in-business-central-how-to-ensure-readability-and-accuracy-2/",
+          "publishedOn": "2025-12-31T20:00:35.000Z",
+          "wordCount": 7135,
+          "title": "Best Practices for Barcode Scanning in Business Central: How to Ensure Readability and Accuracy",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-to-Streamline-Quality-Control-in-Manufacturing-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139277",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nStaying relevant and competitive in the ever-evolving business world is significant for smooth operations. Microsoft has been a big name in the tech world, helping businesses in numerous ways with […]\nThe post 7 Practical Ways to Use Copilot and Automation in Dynamics 365 appeared first on ERP Software Blog.\nImportant Business Management Lessons I Learned from Rally Car Racing\nMicrosoft Dynamics 365 Copilot\nMicrosoft Copilot: The Future of AI Workspaces Is Here",
+          "link": "https://erpsoftwareblog.com/2025/12/7-practical-ways-to-use-copilot-and-automation-in-dynamics-365/",
+          "publishedOn": "2025-12-31T16:53:50.000Z",
+          "wordCount": 7222,
+          "title": "7 Practical Ways to Use Copilot and Automation in Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Gemini_Generated_Image_chr1a1chr1a1chr1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139212",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nA Dynamics 365 ERP program succeeds when it treats implementation as an engineering discipline (architecture, data, integration, security, quality gates, and operational readiness), not a documentation exercise. Microsoft’s Success by Design guidance used […]\nThe post 10 Best Practices for a Successful Dynamics 365 ERP Implementation appeared first on ERP Software Blog.\nFour Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1\nHow To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint\nHassle Free Upgrades with Dynamics GP Resellers!",
+          "link": "https://erpsoftwareblog.com/2025/12/dynamics-365-erp-implementation-best-practices/",
+          "publishedOn": "2025-12-31T11:21:51.000Z",
+          "wordCount": 7731,
+          "title": "10 Best Practices for a Successful Dynamics 365 ERP Implementation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-Dec-30-2025-06_41_41-PM-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139271",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nIntroduction Artificial Intelligence (AI) is reshaping how modern organizations operate, and one of the most significant advancements is its impact on enterprise resource planning (ERP) systems. Microsoft Dynamics 365 now includes Copilot, an AI-powered assistant designed […]\nThe post How AI (Copilot) is Transforming ERP User Experience appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2025/12/how-ai-copilot-is-transforming-erp-user-experience/",
+          "publishedOn": "2025-12-31T09:23:32.000Z",
+          "wordCount": 7292,
+          "title": "How AI (Copilot) is Transforming ERP User Experience",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/how-ai-copilot-is-transforming-erp-user-experience.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=139032",
           "author": "Insight Works",
@@ -35065,36 +35065,6 @@
           "wordCount": 7748,
           "title": "Looking for Great ERP Selection Advice? Avoid these 5 Common Biases",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/great-ERP-consultants.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102911",
-          "author": "ERP Software Blog Writer",
-          "description": "At the end of another year, we would like to acknowledge the contributions of our members. We appreciate each of the 1,029 informative articles written by Microsoft Dynamics ERP experts, …  Top 10 ERP Software Blog Posts of 2023 Read More »\nThe post Top 10 ERP Software Blog Posts of 2023 appeared first on ERP Software Blog.\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nHow Dynamics 365 Business Central meet the Manufacturer’s expectations?\nInsight Works Proudly Announces New Partner Acquisitions for March",
-          "link": "https://erpsoftwareblog.com/2024/01/top-10-erp-software-blog-posts-of-2023/",
-          "publishedOn": "2024-01-02T13:47:02.000Z",
-          "wordCount": 7889,
-          "title": "Top 10 ERP Software Blog Posts of 2023",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/top-10-erp-image.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102904",
-          "author": "x2x eCommerce",
-          "description": "Integrating ERP with different platforms increases efficiency? This question usually arises when businesses decide to implement integration. This article discusses how Integrating an ERP system with different platforms significantly increases …  Integrating ERP with different platforms increases efficiency? Read More »\nThe post Integrating ERP with different platforms increases efficiency? appeared first on ERP Software Blog.\nOn-premise vs Cloud-based - 10 Considerations\nUnlocking Order Fulfillment Excellence: Managing Backorders in Business Central\nBooklet | Centralized or decentralized accounts payable?",
-          "link": "https://erpsoftwareblog.com/2024/01/integrating-erp-with-different-platforms-increases-efficiency/",
-          "publishedOn": "2024-01-02T11:53:26.000Z",
-          "wordCount": 7310,
-          "title": "Integrating ERP with different platforms increases efficiency?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-36-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102902",
-          "author": "Dynamics Square USA",
-          "description": "When businesses surpass Xero's financial capabilities, they naturally progress to migrating to Microsoft Dynamics 365 Business Central. Forbes Advisor, in a recent ERP evaluation, has acclaimed Microsoft Dynamics 365 Business …  Migrating from Xero to Dynamics 365 Business Central Read More »\nThe post Migrating from Xero to Dynamics 365 Business Central appeared first on ERP Software Blog.\n17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP\nHow Will a New Financial System Impact Your Operations and Resources? – Evaluating a New ERP System Checklist Item #1\nNobody Wants to Experience an ACA Audit",
-          "link": "https://erpsoftwareblog.com/2024/01/xero-to-dynamics-365-business-central-migration/",
-          "publishedOn": "2024-01-02T09:43:01.000Z",
-          "wordCount": 8253,
-          "title": "Migrating from Xero to Dynamics 365 Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Xero-to-BC-migration.jpg"
         }
       ]
     },
@@ -36640,6 +36610,116 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-spec-kit-enforces-architectural-intent-in-microsoft-entra-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,860A team asked an AI agent to just wire up Microsoft Graph 200:00:02,860 –> 00:00:05,880in 10 minutes later they had a working app and directory, 300:00:05,880 –> 00:00:07,780read right on all approved in production, 400:00:07,780 –> 00:00:09,820the demo glowed, the audit later bled, 500:00:09,820 –> 00:00:12,740here’s the uncomfortable claim, you didn’t misconfigure Entra. […]",
+          "link": "https://365community.online/how-spec-kit-enforces-architectural-intent-in-microsoft-entra-2",
+          "publishedOn": "2026-01-01T01:41:22.000Z",
+          "wordCount": 17779,
+          "title": "How Spec Kit Enforces Architectural Intent in Microsoft Entra",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767231682_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/soc-team-vs-rogue-copilot-who-wins",
+          "author": "Mirko Peters",
+          "description": "Summary Imagine your security operations center (SOC) waking up to an alert: “Copilot accessed a confidential file.” It’s not a phishing email, not malware, not a brute force attack — it’s AI doing what it’s designed to do, but in your data space. In this episode, I explore that tense battleground: can your SOC team […]",
+          "link": "https://365community.online/soc-team-vs-rogue-copilot-who-wins",
+          "publishedOn": "2025-12-31T22:02:25.000Z",
+          "wordCount": 5835,
+          "title": "SOC Team vs. Rogue Copilot: Who Wins?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1767218545_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/solving-cs0006-metadata-file-not-found-error-in-visual-studio",
+          "author": "Nishant Rana",
+          "description": "Recently, we encountered a build error in one of our Dynamics 365 projects where Visual Studio was unable to find metadata files for NuGet packages, even though the packages were installed. CSC : error CS0006: Metadata file ‘C:UsersNishantRanasourcereposCompass OptimisationABC.Xrm.SolutionpackagesABC.Extensions.1.0.3libnetstandard2.0ABC.Extensions.dll’ could not be found On checking the packages folder, we could see that all our the […]",
+          "link": "https://365community.online/solving-cs0006-metadata-file-not-found-error-in-visual-studio",
+          "publishedOn": "2025-12-31T18:35:00.000Z",
+          "wordCount": 2157,
+          "title": "Solving CS0006: Metadata File Not Found Error in Visual Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Solving-CS0006-Metadata-File-Not-Found-Error-in-Visual-Studio.jpeg?fit=1200%2C834&ssl=1"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%9a%80-happy-new-year-2026",
+          "author": "Arun Potti",
+          "description": "As we step into 2026, I want to take a moment to thank every reader, learner, and tech enthusiast who has been part of this journey on arunpotti.com. The past year has been packed with rapid innovation across the Microsoft ecosystem – from Power Platform advancements to AI‑driven automation and evolving cloud capabilities. And if […]",
+          "link": "https://365community.online/%f0%9f%9a%80-happy-new-year-2026",
+          "publishedOn": "2025-12-31T18:31:00.000Z",
+          "wordCount": 2209,
+          "title": "🚀 Happy New Year 2026!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/image-1.png?fit=360%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-spec-kit-enforces-architectural-intent-in-microsoft-entra",
+          "author": "Mirko Peters",
+          "description": "🔍 What This Episode Covers In this episode, we explore: Why AI agents behave unpredictably in real production environments The hidden risks of connecting LLMs directly to enterprise APIs How agent autonomy can unintentionally escalate permissions Why “non-determinism” is a serious engineering problem—not just a research quirk The security implications of letting agents write or […]",
+          "link": "https://365community.online/how-spec-kit-enforces-architectural-intent-in-microsoft-entra",
+          "publishedOn": "2025-12-31T18:21:31.000Z",
+          "wordCount": 2503,
+          "title": "How Spec Kit Enforces Architectural Intent in Microsoft Entra",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1a9645ba0b1564177efdc9b1c875adbd.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/introduction-to-sharepoint-page-agent",
+          "author": "Marcin Siewnicki",
+          "description": "The latest updates to Copilot enabled a new agent that you can use to quickly create a SharePoint page directly from the chat. It can create content, aggregate information from your sources, and seamlessly create a new page. Let’s check that new feature! Introduction Microsoft released a new AI agent for Microsoft 365 Copilot – […]",
+          "link": "https://365community.online/introduction-to-sharepoint-page-agent",
+          "publishedOn": "2025-12-31T17:40:00.000Z",
+          "wordCount": 2113,
+          "title": "Introduction to SharePoint page agent",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/permissions-in-project-in-project-operations",
+          "author": "Priyesh Wagh",
+          "description": "A small tweak to curtain unwarranted access to the Projects in Project Operations. The post Permissions in Project in Project Operations appeared first on D365 Demystified. Original Post https://d365demystified.com/2025/12/31/permissions-in-project-in-project-operations/",
+          "link": "https://365community.online/permissions-in-project-in-project-operations",
+          "publishedOn": "2025-12-31T15:59:00.000Z",
+          "wordCount": 2101,
+          "title": "Permissions in Project in Project Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Permissions-in-Project-in-Project-Operations.png?fit=1491%2C867&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-copy-project-experience-in-project-operations",
+          "author": "Priyesh Wagh",
+          "description": "Here’s what you can do while copying to a new Project. An improved version from the previously direct Copy Project feature. The post New Copy Project Experience in Project Operations appeared first on D365 Demystified. Original Post https://d365demystified.com/2025/12/31/new-copy-project-experience-in-project-operations/",
+          "link": "https://365community.online/new-copy-project-experience-in-project-operations",
+          "publishedOn": "2025-12-31T15:33:00.000Z",
+          "wordCount": 2114,
+          "title": "New Copy Project Experience in Project Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/New-Copy-Project-Experience-in-Project-Operations.png?fit=1665%2C1092&ssl=1"
+        },
+        {
+          "id": "https://365community.online/breaking-power-pages-limits-with-vs-code-copilot",
+          "author": "Mirko Peters",
+          "description": "Summary You know that sinking feeling when your Power Pages form refuses to validate and the error messages feel basically useless? That’s exactly the pain we’re tackling in this episode. I walk you through how to use VS Code + GitHub Copilot (with the @powerpages context) to push past Power Pages limits, simplify validation, and […]",
+          "link": "https://365community.online/breaking-power-pages-limits-with-vs-code-copilot",
+          "publishedOn": "2025-12-31T14:42:47.000Z",
+          "wordCount": 5918,
+          "title": "Breaking Power Pages Limits With VS Code Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1767192167_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/2025-where-did-it-go",
+          "author": "Vivian Voss",
+          "description": "First of all: Blogging was so not my thing in 2025 😅 Hello to the first and last post of 2025! Just like last year, I will look back to what I promised in my last post and here it is how that went: Being active in Microsoft community and events ✅ Develop myself – […]",
+          "link": "https://365community.online/2025-where-did-it-go",
+          "publishedOn": "2025-12-31T12:19:00.000Z",
+          "wordCount": 2586,
+          "title": "2025 – Where did it go?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/Happy-New-Year-.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-your-data-model-will-drift-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,180Most organizations come to fabric with the same comforting assumption. 200:00:03,180 –> 00:00:05,760If we get the permissions right, the numbers will be right. 300:00:05,760 –> 00:00:08,760They are wrong, your real problem is not who can open a report. 400:00:08,760 –> 00:00:11,760It’s what that report thinks revenue means this week. 500:00:11,760 –> 00:00:14,680Fabric feels […]",
+          "link": "https://365community.online/why-your-data-model-will-drift-2",
+          "publishedOn": "2025-12-31T11:04:40.000Z",
+          "wordCount": 16642,
+          "title": "Why Your Data Model Will Drift",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2025/12/1767179080_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/the-true-game-changer-for-teams",
           "author": "Mirko Peters",
@@ -75809,126 +75889,6 @@
           "wordCount": 3047,
           "title": "Enable OneNote Integration for Dynamics 365 Sales environment",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-OneNote-Integration-for-Dynamics-365-Sales-environment.png?fit=1200%2C628&ssl=1"
-        },
-        {
-          "id": "https://365community.online/enable-disable-turn-on-off-multiple-business-rules-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "Within the Maker Portal, we can only turn on / turn off one business rule at a time. If we select multiple business rules, we do not see that option. […]",
-          "link": "https://365community.online/enable-disable-turn-on-off-multiple-business-rules-dataverse-dynamics-365",
-          "publishedOn": "2024-01-02T14:00:00.000Z",
-          "wordCount": 3106,
-          "title": "Enable / Disable (turn on / off) multiple business rules – Dataverse / Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-Disable-turn-on-off-multiple-business-rules.jpeg?fit=800%2C1199&ssl=1"
-        },
-        {
-          "id": "https://365community.online/use-sales-copilot-to-prepare-for-upcoming-meetings",
-          "author": "Nishant Rana",
-          "description": "Sales Copilot can help salespersons prepare for upcoming meetings using the “Prepare for upcoming meetings / Prepare me for today’s meetings” prompt. Make sure you have Sales Copilot enabled. Navigate […]",
-          "link": "https://365community.online/use-sales-copilot-to-prepare-for-upcoming-meetings",
-          "publishedOn": "2024-01-02T14:00:00.000Z",
-          "wordCount": 3069,
-          "title": "Use Sales Copilot to prepare for upcoming meetings",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Use-Sales-Copilot-to-prepare-for-upcoming-meetings.jpeg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/omnichannel-for-customer-service-store-voice-surveys",
-          "author": "Neil Parkhurst",
-          "description": "Within Microsoft’s Omnichannel for Customer Service we can enable post-call surveys. I recently published a post explaining this feature. In this second related post I will explain how I have […]",
-          "link": "https://365community.online/omnichannel-for-customer-service-store-voice-surveys",
-          "publishedOn": "2024-01-02T11:59:36.000Z",
-          "wordCount": 3028,
-          "title": "Omnichannel for Customer Service – Store Voice Surveys",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Omnichannel-for-Customer-Service-–-Store-Voice-Surveys.jpg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/ai-microsoft-copilot-and-copyright",
-          "author": "thecrmninja",
-          "description": "Firstly, a Happy New Year to everyone – I’m sure that you have amazing plans for 2024, and wish you the best of luck with them! Over the last few […]",
-          "link": "https://365community.online/ai-microsoft-copilot-and-copyright",
-          "publishedOn": "2024-01-02T11:28:47.000Z",
-          "wordCount": 3033,
-          "title": "AI, Microsoft Copilot, and Copyright",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/AI-Microsoft-Copilot-and-Copyright.jpg?fit=694%2C279&ssl=1"
-        },
-        {
-          "id": "https://365community.online/empower-frontline-workers-with-microsoft-dynamics-365-crm-teams-and-integrated-maps",
-          "author": "Inogic",
-          "description": "The post Empower Frontline Workers with Microsoft Dynamics 365 CRM, Teams, and Integrated Maps! appeared first on Blog | Maplytics. Source link",
-          "link": "https://365community.online/empower-frontline-workers-with-microsoft-dynamics-365-crm-teams-and-integrated-maps",
-          "publishedOn": "2024-01-02T11:25:07.000Z",
-          "wordCount": 3191,
-          "title": "Empower Frontline Workers with Microsoft Dynamics 365 CRM, Teams, and Integrated Maps!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Teams-Maplytics-Field-Service.jpg?fit=700%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/dynamics-365-business-central-isolated-storage-and-secrettext-support",
-          "author": "Stefano Demiliani",
-          "description": "With Dynamics 365 Business Central 2023 Wave 2 release (version 23) Microsoft introduced a new data type called SecretText. This new data type is useful to protect secrets in AL code […]",
-          "link": "https://365community.online/dynamics-365-business-central-isolated-storage-and-secrettext-support",
-          "publishedOn": "2024-01-02T11:20:51.000Z",
-          "wordCount": 3060,
-          "title": "Dynamics 365 Business Central: Isolated Storage and SecretText support.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Dynamics-365-Business-Central-Isolated-Storage-and-SecretText-support.png?fit=662%2C386&ssl=1"
-        },
-        {
-          "id": "https://365community.online/2023-a-year-in-numbers",
-          "author": "Ian Grieve",
-          "description": "I often write a lot of articles, with 2023 being very much a record year. Hopefully poeple find the articles I write useful, ad based on some comments I get […]",
-          "link": "https://365community.online/2023-a-year-in-numbers",
-          "publishedOn": "2024-01-02T11:00:12.000Z",
-          "wordCount": 3055,
-          "title": "2023, A Year in Numbers",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/european-mct-summit-2024",
-          "author": "Julian Sharp",
-          "description": "The European MCT summit is being held the the Netherlands from January 14th to 17th. All MCTs can register and learn from other MCTs on creating and delivering training. I […]",
-          "link": "https://365community.online/european-mct-summit-2024",
-          "publishedOn": "2024-01-02T09:27:14.000Z",
-          "wordCount": 3015,
-          "title": "European MCT Summit 2024",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/European-MCT-Summit-2024.png?fit=244%2C244&ssl=1"
-        },
-        {
-          "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2",
-          "author": "Mohamed Ashiq Faleel",
-          "description": "In Part 1 of the blog series on using Managed identities in Power Apps and Power Automate to access Microsoft Graph API securely, I have delved into the setup and […]",
-          "link": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2",
-          "publishedOn": "2024-01-01T19:57:02.000Z",
-          "wordCount": 3134,
-          "title": "Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 2",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Streamlining-Integration-Using-Azure-Managed-identities-in-Power-Apps-and.png?fit=945%2C584&ssl=1"
-        },
-        {
-          "id": "https://365community.online/resource-roles-and-adding-role-prices-to-cost-and-sales-price-list-in-project-operations",
-          "author": "Priyesh Wagh",
-          "description": "Now that in the previous blog posts of this series, the Organization Units, Cost Price and Sales Prices were setup – Setting Up Default Organizational Unit, Cost and Sales Price […]",
-          "link": "https://365community.online/resource-roles-and-adding-role-prices-to-cost-and-sales-price-list-in-project-operations",
-          "publishedOn": "2024-01-01T14:32:16.000Z",
-          "wordCount": 3077,
-          "title": "Resource Roles and adding Role Prices to Cost and Sales Price List in Project Operations",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Resource-Roles-and-adding-Role-Prices-to-Cost-and-Sales.png?fit=897%2C1200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/enable-copilot-for-project-operations",
-          "author": "Priyesh Wagh",
-          "description": "Recently, you must have observed Copilot being introduced in every other Microsoft Business and M365 applications. Dynamics 365 Project Operations too being no exception! Here’s how you can get the […]",
-          "link": "https://365community.online/enable-copilot-for-project-operations",
-          "publishedOn": "2024-01-01T14:00:50.000Z",
-          "wordCount": 3028,
-          "title": "Enable Copilot for Project Operations",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-Copilot-for-Project-Operations.png?fit=1200%2C573&ssl=1"
-        },
-        {
-          "id": "https://365community.online/business-rules-in-bulk-edit-and-import-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "Let us see an example of a Business Rule with scope as Table (Entity) triggering on Bulk Edit as well as Data Import. Below is our Business Rule – It […]",
-          "link": "https://365community.online/business-rules-in-bulk-edit-and-import-dataverse-dynamics-365",
-          "publishedOn": "2024-01-01T14:00:00.000Z",
-          "wordCount": 3090,
-          "title": "Business Rules in Bulk Edit and Import (Dataverse / Dynamics 365)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Business-Rules-in-Bulk-Edit-and-Import-Dataverse-Dynamics.jpeg?fit=1200%2C799&ssl=1"
         }
       ]
     },
@@ -78263,6 +78223,16 @@
       "feedUrl": "https://msdyn365fo.wordpress.com/feed/",
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
+        {
+          "id": "http://msdyn365fo.wordpress.com/?p=642",
+          "author": "Paul Heisterkamp",
+          "description": "You have probably noticed that the Microsoft Dynamics 365 MCP server is currently a hot topic. LinkedIn has been full of related posts for more than a month now. I also started experimenting with this new feature and tried to connect to the MCP server using GitHub Copilot in Visual Studio Code. The main issue … Continue reading How to the Microsoft Dynamics 365 ERP MCP server with GitHub Copilot in Visual Studio (Code) →",
+          "link": "https://msdyn365fo.wordpress.com/2025/12/31/how-to-the-microsoft-dynamics-365-erp-mcp-server-with-github-copilot-in-visual-studio-code/",
+          "publishedOn": "2025-12-31T09:13:13.000Z",
+          "wordCount": 3977,
+          "title": "How to the Microsoft Dynamics 365 ERP MCP server with GitHub Copilot in Visual Studio (Code)",
+          "imageUrl": "https://i0.wp.com/msdyn365fo.wordpress.com/wp-content/uploads/2025/12/vscodemcpbanner.png?fit=1200%2C390&ssl=1"
+        },
         {
           "id": "http://msdyn365fo.wordpress.com/?p=635",
           "author": "Paul Heisterkamp",
@@ -82737,16 +82707,6 @@
           "publishedOn": "2024-01-04T15:30:48.000Z",
           "wordCount": 1491,
           "title": "Entity collection as OData action parameter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=9935",
-          "author": "Martin Dráb",
-          "description": "Happy New Year! (To everyone who follows Gregorian calendar :)). Let me look a bit at what I did in 2023 and what I expect in 2024. I keep working for a large end-user company. I do a lot of different things there (X++, Azure Functions, code reviews, Powershell, DevOps processes and so on), but ...\nContinue reading ‘Happy New Year 2024’ »",
-          "link": "https://dev.goshoom.net/2024/01/happy-new-year-2024/",
-          "publishedOn": "2024-01-02T06:08:18.000Z",
-          "wordCount": 1412,
-          "title": "Happy New Year 2024",
           "imageUrl": null
         }
       ]
