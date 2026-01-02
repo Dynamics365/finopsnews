@@ -632,16 +632,6 @@
           "wordCount": 5752,
           "title": "How to Validate special characters in D365FO",
           "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2024/01/passing-args-from-one-form-to-another.html",
-          "author": null,
-          "description": "Args concept in dynamics ax is awesome. one can easily pass arguments from one Form to another Form with very less effort. Here, i am going to demonstrate how to pass Arguments from Form to Form. The Scenario is when I select one grid in Form A, that record will be passed to Form B and there Form B will received the whole record and filter it and will show.\nStep 1: Make one SampleTable which has three fields named (SIno, name, ID).\nStep 2: Make FormA with datasource as SampleTable and drag the datasource fields into the design Grid.\nStep 3: Drag one button and override the click method and write the following code.\nvoid clicked()\n{\nArgs args;\nFormRun formRun;\n;\nsuper();\nargs = new args(formstr(FormB)); // sending Args(record) to FormB\nargs.record(SampleTable);\nformrun = classfactory.formrunclass(args);\nformrun.init();\nformrun.run();\nformrun.wait();\nformrun.detach();\n\n}\nstep 4: Make FormB with datasource as same table for which you take for Form A i.e., SampleTable and drag the fields in to the\nGrid of design part.\nstep 5: write the following code in to the init method of FormB.\npublic void init()\n{\nSampleTable _sampleTable;\nsuper();\n_sampleTable = element.args().record();\nSampleTable_ds.query().dataSourceTable(Tablenum(SampleTable)).addRange(fieldNum(SampleTbl,RecId)).\nvalue(SysQuery::value(_sampleTable.Recid));\n}",
-          "link": "https://d365fotechexpert.blogspot.com/2024/01/passing-args-from-one-form-to-another.html",
-          "publishedOn": "2024-01-03T04:45:00.000Z",
-          "wordCount": 5681,
-          "title": "Passing Args from one Form to another Form in D365FO",
-          "imageUrl": null
         }
       ]
     },
@@ -1417,6 +1407,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=139315",
+          "author": "HandsFree ERP",
+          "description": "xxx\nLayering AI agents on top of a poorly implemented ERP doesn’t fix anything.It industrializes the chaos. In 2025, SLOP became Merriam-Webster’s Word of the Year—defined as low-quality digital content produced […]\nThe post 2026, more AI Slop? Reducing the Latest Threat to ERP Success! appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/2026-more-ai-slop-reducing-the-latest-threat-to-erp-success/",
+          "publishedOn": "2026-01-01T21:33:58.000Z",
+          "wordCount": 6769,
+          "title": "2026, more AI Slop? Reducing the Latest Threat to ERP Success!",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-Jan-1-2026-12_43_12-PM.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139173",
+          "author": "ACE Micro, LLC",
+          "description": "xxx\nBusiness Central 1099 Features Overview This document summarizes changes to Business Central 1099 functionality and provides a brief overview of the 1099 process for 2025. Microsoft has introduced several new […]\nThe post Modern 1099 Filing in Business Central appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/01/modern-1099-filing-in-busness-central/",
+          "publishedOn": "2026-01-01T19:11:30.000Z",
+          "wordCount": 7722,
+          "title": "Modern 1099 Filing in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_230664990-scaled.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139280",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nChoosing the right Dynamics 365 consulting company can significantly impact the success of your ERP or CRM investment. As organizations continue to modernize operations, Dynamics 365 has become a preferred […]\nThe post Top 10 Dynamics 365 Consulting Companies in 2026 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/top-dynamics-365-consulting-companies/",
+          "publishedOn": "2026-01-01T17:34:29.000Z",
+          "wordCount": 7864,
+          "title": "Top 10 Dynamics 365 Consulting Companies in 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/top-10-dynamics-365-consulting-companies-2-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139198",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\n2025 has been an eventful year in many ways. While many are buzzing about the rise of AI in virtually every aspect of business (including Copilot in Dynamics 365), we’re […]\nThe post Top 10 ERP Software Blog Posts of 2025 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/top-10-erp-software-blog-posts-of-2025/",
+          "publishedOn": "2026-01-01T09:45:10.000Z",
+          "wordCount": 7489,
+          "title": "Top 10 ERP Software Blog Posts of 2025",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Top-10-Posts-2025.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=139048",
           "author": "Insight Works",
           "description": "xxx\nWhen working with barcode scanning in Business Central, it’s not enough to generate barcodes—they need to scan flawlessly. Whether you’re printing product labels, warehouse documents, or invoices, unreadable barcodes mean […]\nThe post Best Practices for Barcode Scanning in Business Central: How to Ensure Readability and Accuracy appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
@@ -1435,6 +1465,16 @@
           "wordCount": 7222,
           "title": "7 Practical Ways to Use Copilot and Automation in Dynamics 365",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Gemini_Generated_Image_chr1a1chr1a1chr1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139160",
+          "author": "Leapwork",
+          "description": "xxx\nMore and more companies are depending on Dynamics 365 as the core of their sales and operations to make their processes more efficient. At the same time, Dynamics itself is […]\nThe post 8 Keys to Successful Microsoft Dynamics 365 Testing appeared first on ERP Software Blog.\nNavigating Pricing in the Dynamics Space: Why Transparency Matters\nHassle Free Upgrades with Dynamics GP Resellers!\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?",
+          "link": "https://erpsoftwareblog.com/2025/12/8-keys-to-successful-microsoft-dynamics-365-testing/",
+          "publishedOn": "2025-12-31T13:17:00.000Z",
+          "wordCount": 7477,
+          "title": "8 Keys to Successful Microsoft Dynamics 365 Testing",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2025-12-8-Keys-to-Successful-Microsoft-Dynamics-365-Testing_1200-x-628.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=139212",
@@ -35045,26 +35085,6 @@
           "wordCount": 7481,
           "title": "2023 ERP/CRM Software Blog Award Winners – ERP Software Blog",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Top-Member-2023-Large.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102924",
-          "author": "Techcronus Inc.",
-          "description": "Are you ready to take your Customer Relationship Management (CRM) strategy to new heights? Microsoft Sales Copilot AI might just be the game-changer you've been searching for. In today's fast-paced …  Benefits of Microsoft Sales Copilot AI for CRM | Techcronus Read More »\nThe post Benefits of Microsoft Sales Copilot AI for CRM | Techcronus appeared first on ERP Software Blog.\nCopilot and Dynamics 365 ERP: A Match Made for Efficiency\nDynamics 365 Business Central: Insights for Sales Managers\nDynamics 365 for Sales & Business Central Integration: Quote to Cash",
-          "link": "https://erpsoftwareblog.com/2024/01/benefits-of-microsoft-sales-copilot-ai-for-crm/",
-          "publishedOn": "2024-01-03T06:51:24.000Z",
-          "wordCount": 7426,
-          "title": "Benefits of Microsoft Sales Copilot AI for CRM | Techcronus",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102919",
-          "author": "Express Info",
-          "description": "All companies benefit from savvy, technology-forward consultants to recommend solutions. However, many companies allow common biases from consultants to affect the ERP selection and the potential impact they may have …  Looking for Great ERP Selection Advice? Avoid these 5 Common Biases Read More »\nThe post Looking for Great ERP Selection Advice? Avoid these 5 Common Biases appeared first on ERP Software Blog.\nEleven Ways to Disaster Proof Dynamics GP Data\nWhy Manufacturers are Moving Forward with ERP\nTelecommunications Engineering Firm Improves Project Accounting, Cash Flow, and Data Access",
-          "link": "https://erpsoftwareblog.com/2024/01/looking-for-great-erp-selection-advice-avoid-these-5-common-biases/",
-          "publishedOn": "2024-01-02T21:52:58.000Z",
-          "wordCount": 7748,
-          "title": "Looking for Great ERP Selection Advice? Avoid these 5 Common Biases",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/great-ERP-consultants.png"
         }
       ]
     },
@@ -36592,16 +36612,6 @@
           "wordCount": 2381,
           "title": "How to Create a New User in Microsoft Dynamics GP",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=60881",
-          "author": "The Encore Team",
-          "description": "How to Attach Notes and Documents in Dynamics 365 Business Central\nThis article will go over how to attach notes and documents inside Dynamics 365 Business Central. For this example, I will be working in a sales invoice, but this feature is available in other transactional and master record windows. Once you’re in a sales invoice, you will notice a fact box on the right-hand side...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/how-to-attach-notes-and-documents-in-business-central/",
-          "publishedOn": "2024-01-02T16:48:24.000Z",
-          "wordCount": 1302,
-          "title": "How to Attach Notes and Documents in Dynamics 365 Business Central",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
         }
       ]
     },
@@ -36611,12 +36621,72 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/is-your-dataflow-reusable-or-a-one-trick-disaster",
+          "author": "Mirko Peters",
+          "description": "Summary Running Is Your Dataflow Reusable—or a One-Trick Disaster? as a short, inflexible pipeline is risky. In this episode, I dig into how many “working” dataflows are secretly ticking time bombs—fragile against schema drift, hardcoding, and scale. I share a 60-second checklist you can run on yours right now to see if it’s durable or […]",
+          "link": "https://365community.online/is-your-dataflow-reusable-or-a-one-trick-disaster",
+          "publishedOn": "2026-01-02T01:55:49.000Z",
+          "wordCount": 5971,
+          "title": "Is Your Dataflow Reusable—or a One-Trick Disaster?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767318949_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-studio-vs-azure-ai-foundry-pick-your-poison",
+          "author": "Mirko Peters",
+          "description": "Summary Running Copilot Studio vs. Azure AI Foundry is about understanding when speed wins and when control matters. In this episode, I dig into how most bots act like parrots — they sound smart but lack grounding in your actual business data. What you need is Retrieval Augmented Generation (RAG) — combining search + LLM […]",
+          "link": "https://365community.online/copilot-studio-vs-azure-ai-foundry-pick-your-poison",
+          "publishedOn": "2026-01-01T22:15:40.000Z",
+          "wordCount": 6132,
+          "title": "Copilot Studio vs. Azure AI Foundry: Pick Your Poison",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767305740_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-fabric-data-models-drift-and-why-dax-cant-save-them",
+          "author": "Mirko Peters",
+          "description": "In this episode, we explore why many data teams mistakenly treat their data models as objective truth—and how this misconception leads to flawed decision-making. The conversation dives into modern analytics stacks, the limitations of “fabric” or centralized data models, and why context, ownership, and intent matter just as much as the data itself. Key Themes […]",
+          "link": "https://365community.online/why-fabric-data-models-drift-and-why-dax-cant-save-them",
+          "publishedOn": "2026-01-01T18:30:50.000Z",
+          "wordCount": 2419,
+          "title": "Why Fabric Data Models Drift — and Why DAX Can’t Save Them",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/c3c45302f75e1f8a5c3302398f000677.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/youre-flying-blind-without-business-central-telemetry-and-howto-fix-it-with-power-bi",
+          "author": "Mirko Peters",
+          "description": "Summary Running Business Central Telemetry without proper setup is like flying a plane with no instruments — you might stay in the air, but you’ll have no idea when something’s about to fail. In this episode, I explain why telemetry is the single most important tool you’re not using, and how it can transform troubleshooting […]",
+          "link": "https://365community.online/youre-flying-blind-without-business-central-telemetry-and-howto-fix-it-with-power-bi",
+          "publishedOn": "2026-01-01T14:49:09.000Z",
+          "wordCount": 6065,
+          "title": "You’re Flying Blind Without Business Central Telemetry and howto fix it with Power BI",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767278949_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ci-cd-with-dev-containers-flawless-victory-or-epic-fail",
+          "author": "Mirko Peters",
+          "description": "Imagine queuing up for raid night, but half your guild’s game clients are patched differently. That’s what building cloud projects feels like without Dev Containers—chaos, version drift, and way too many ‘works-on-my-machine’ tickets. If you work with Azure and teams, you care about one thing: consistent developer environments. Before we roll initiative on this boss […]",
+          "link": "https://365community.online/ci-cd-with-dev-containers-flawless-victory-or-epic-fail",
+          "publishedOn": "2026-01-01T11:06:13.000Z",
+          "wordCount": 3680,
+          "title": "CI/CD With Dev Containers: Flawless Victory Or Epic Fail?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767265574_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/r-or-t-sql-one-button-changes-everything",
+          "author": "Mirko Peters",
+          "description": "Summary Here’s a story: a team trained a model, and everything worked fine — until their dataset doubled. Suddenly, their R pipeline crawled to a halt. The culprit? Compute context. By default they were running R in local compute, which meant every row had to cross the network. But when they switched to SQL compute […]",
+          "link": "https://365community.online/r-or-t-sql-one-button-changes-everything",
+          "publishedOn": "2026-01-01T07:08:14.000Z",
+          "wordCount": 6129,
+          "title": "R or T-SQL? One Button Changes Everything",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767251294_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/how-spec-kit-enforces-architectural-intent-in-microsoft-entra-2",
           "author": "Mirko Peters",
           "description": "100:00:00,000 –> 00:00:02,860A team asked an AI agent to just wire up Microsoft Graph 200:00:02,860 –> 00:00:05,880in 10 minutes later they had a working app and directory, 300:00:05,880 –> 00:00:07,780read right on all approved in production, 400:00:07,780 –> 00:00:09,820the demo glowed, the audit later bled, 500:00:09,820 –> 00:00:12,740here’s the uncomfortable claim, you didn’t misconfigure Entra. […]",
           "link": "https://365community.online/how-spec-kit-enforces-architectural-intent-in-microsoft-entra-2",
           "publishedOn": "2026-01-01T01:41:22.000Z",
-          "wordCount": 17779,
+          "wordCount": 17802,
           "title": "How Spec Kit Enforces Architectural Intent in Microsoft Entra",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767231682_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
@@ -75814,81 +75884,6 @@
           "wordCount": 3023,
           "title": "A new approach to error handling in Power Automate",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/from-paraguay-to-tarragona-cristhian-fernandezs-tech-journey-through-software-development-microsoft-business-applications-and-the-power-platform",
-          "author": "NZ365Guy",
-          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/514  Ever wondered about the transformative journey from a software developer to a Microsoft business applications whizz? Our guest, Microsoft MVP Cristhian Fernandez, founder of Creativity Spark, […]",
-          "link": "https://365community.online/from-paraguay-to-tarragona-cristhian-fernandezs-tech-journey-through-software-development-microsoft-business-applications-and-the-power-platform",
-          "publishedOn": "2024-01-03T13:00:00.000Z",
-          "wordCount": 3108,
-          "title": "From Paraguay to Tarragona: Cristhian Fernandez's Tech Journey through Software Development, Microsoft Business Applications, and the Power Platform",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1796418/14044647-from-paraguay-to-tarragona-cristhian-fernandez-s-tech-journey-through-software-development-microsoft-business-applications-and-the-power-platform.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/my-review-of-2023",
-          "author": "Jeroen Burgerhout",
-          "description": "So…. 2023. That was 3 days ago. 2023 was a special year for me. In this blog post, I will mention all the highlights, on a personal level, community and […]",
-          "link": "https://365community.online/my-review-of-2023",
-          "publishedOn": "2024-01-03T11:44:05.000Z",
-          "wordCount": 3030,
-          "title": "My review of 2023",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/My-review-of-2023-scaled.jpeg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-triggers-are-available-with-power-automate",
-          "author": "Ian Grieve",
-          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-triggers-are-available-with-power-automate",
-          "publishedOn": "2024-01-03T11:00:40.000Z",
-          "wordCount": 3104,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Triggers Are Available with Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-2-topic-1-part-2-youtube",
-          "author": "shabaz darr",
-          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
-          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-2-topic-1-part-2-youtube",
-          "publishedOn": "2024-01-03T10:00:16.000Z",
-          "wordCount": 3098,
-          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 2 – Topic 1: Part 2 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704323534_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/generate-customer-voice-survey-invitations-using-canvas-power-apps",
-          "author": "Inogic",
-          "description": "Microsoft has provided Customer Voice Surveys which help an organization to design the Survey where users can provide feedback by answering the questions within the Survey. Customer Voice allows Survey […]",
-          "link": "https://365community.online/generate-customer-voice-survey-invitations-using-canvas-power-apps",
-          "publishedOn": "2024-01-03T09:22:39.000Z",
-          "wordCount": 3322,
-          "title": "Generate Customer Voice Survey Invitations using Canvas Power Apps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Canvas-Power-Apps.jpeg?fit=1200%2C511&ssl=1"
-        },
-        {
-          "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3",
-          "author": "Mohamed Ashiq Faleel",
-          "description": "In both Part 1  and Part 2 of the blog series, I’ve covered the utilization of Managed Identities in Power Apps and Power Automate for secure access to Microsoft Graph […]",
-          "link": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3",
-          "publishedOn": "2024-01-02T18:36:20.000Z",
-          "wordCount": 3151,
-          "title": "Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 3",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704221482_Streamlining-Integration-Using-Azure-Managed-identities-in-Power-Apps-and.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/enable-onenote-integration-for-dynamics-365-sales-environment",
-          "author": "Priyesh Wagh",
-          "description": "Since collaboration tools like Teams, SharePoints are a norm, so is OneNote. Here’s how you can enable OneNote Integration in your Dynamics 365 CRM Instance – Settings Given that you […]",
-          "link": "https://365community.online/enable-onenote-integration-for-dynamics-365-sales-environment",
-          "publishedOn": "2024-01-02T18:04:35.000Z",
-          "wordCount": 3047,
-          "title": "Enable OneNote Integration for Dynamics 365 Sales environment",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-OneNote-Integration-for-Dynamics-365-Sales-environment.png?fit=1200%2C628&ssl=1"
         }
       ]
     },
@@ -77092,16 +77087,6 @@
           "wordCount": 3259,
           "title": "Copilot Studio bots an alternative to workflows or the better workflow engine?",
           "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/01/pictureenglish.jpg"
-        },
-        {
-          "id": "http://dynamicsax-fico.com/?p=5017",
-          "author": "Ludwig Reinhard",
-          "description": "Visit the post for more.",
-          "link": "https://dynamicsax-fico.com/2024/01/03/do-you-know-how-to-create-a-project-hierarchy-of-the-project-team-members-in-d365projectoperations/",
-          "publishedOn": "2024-01-03T06:05:32.000Z",
-          "wordCount": 3262,
-          "title": "DO YOU KNOW … How to create a project hierarchy of the project team members in D365ProjectOperations?",
-          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/03/en_text.jpg"
         }
       ]
     },
