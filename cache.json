@@ -622,16 +622,6 @@
           "wordCount": 5699,
           "title": "Make any field mandatory on the form level with X++ in D365 Finance and Operations",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUN2rIsmrAXqugokVK1mIpCEHA-yFvGmfv--UW-6VHXSZvbLdC2pYZv7xXeCPQzly5k0To_D-9Sf7S1y_EJuSNiie6s27gUNuh_lsRQ3REhI0Ms1RkypvovU5r5X3YtU6FFW0Ki3svX8zFO-5QXyKWGL_Yk6ud2tB9l_lfOxiQVaHe9PIQDQCijAw8AJPnN6jzXSFbEzERzTm5G1xmANvrvMBonAegU2RUfDRxLGBbapge6WAXEBhvgHUlPYNOrAn_PnDB4QOXUMrX9o5KncOM=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2024/01/how-to-validate-special-characters-in.html",
-          "author": null,
-          "description": "Overriding the method ValidateField() from table.\n\nThis is how it works on ValidateField():\n\npublic boolean validateField(FieldId _fieldIdToCheck)\n{\n    boolean ret;\n\n    ret = super(_fieldIdToCheck);\n\n    if(ret)\n    {\n        switch(_fieldIdToCheck)\n        {\n\n            case fieldNum (LogisticsEletronicAddress, Locator):\n                    ret = ValidateCharacter::validateCharacter(this.Locator) ;\n\n                    if(!ret)\n                        error( \"The eletronic address has invalid characters\" );\n                    break;\n        }\n    }\n    return ret;\n}\n\nFor example, I have used the Table LogisticsEletronicAddress which is responsible to save contact information like e-mail and telephone. I will check if I am validating the field Locator and then call my class. Suppose I …",
-          "link": "https://d365fotechexpert.blogspot.com/2024/01/how-to-validate-special-characters-in.html",
-          "publishedOn": "2024-01-03T15:38:00.000Z",
-          "wordCount": 5752,
-          "title": "How to Validate special characters in D365FO",
-          "imageUrl": null
         }
       ]
     },
@@ -1407,6 +1397,76 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=139390",
+          "author": "TrinSoft",
+          "description": "xxx\nExpanded AI Model Options in Copilot Microsoft 365 Copilot recently got even smarter. Microsoft announced that Copilot will now let users choose Anthropic’s Claude AI models in addition to the […]\nThe post Claude Joins Microsoft 365 Copilot​ appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Copilot\nWhat's New in Microsoft Dynamics 365 Business Central 2023 Release Wave 2\nTop 5 Takeaways from Microsoft Inspire 2023",
+          "link": "https://erpsoftwareblog.com/2026/01/claude-joins-microsoft-365-copilot/",
+          "publishedOn": "2026-01-03T00:13:13.000Z",
+          "wordCount": 7257,
+          "title": "Claude Joins Microsoft 365 Copilot​",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Claude.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139062",
+          "author": "Insight Works",
+          "description": "xxx\nAdapting to changing business conditions requires tools that deliver planning flexibility in Business Central. While Microsoft Dynamics 365 Business Central offers a strong foundation, adding advanced apps enables businesses to […]\nThe post Unlocking Planning Flexibility in Business Central appeared first on ERP Software Blog.\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2026/01/unlocking-planning-flexibility-in-business-central-2/",
+          "publishedOn": "2026-01-02T20:36:53.000Z",
+          "wordCount": 7469,
+          "title": "Unlocking Planning Flexibility in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Unlocking-Planning-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139132",
+          "author": "Michael Kulik, Digital Vantage Point",
+          "description": "xxx\nNew strategic priorities leaders must focus on to stay relevant, resilient and ready for the future. In just a few short years, B2B buying has gone through a seismic shift. […]\nThe post Dynamics BC eCommerce:  2026 C-Level Guide to Staying Ahead appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nDynamics 365 Business Central Webinar - The New Dynamics NAV",
+          "link": "https://erpsoftwareblog.com/2026/01/dynamics-bc-ecommerce-2026-c-level-guide-to-staying-ahead/",
+          "publishedOn": "2026-01-02T14:59:33.000Z",
+          "wordCount": 7771,
+          "title": "Dynamics BC eCommerce:  2026 C-Level Guide to Staying Ahead",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/JAN-blog-image-e1767114319253.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139310",
+          "author": "Stephanie Clark, Elliott Clark Consulting",
+          "description": "xxx\nManufacturing operations don’t usually fail all at once. Instead, growth exposes cracks—inventory discrepancies, unclear production priorities, delayed financial visibility, and an increasing dependence on spreadsheets or paper-based processes to explain […]\nThe post Business Central for Manufacturers: A Practical Overview for Scaling Operations appeared first on ERP Software Blog.\nGetting in Tune with the Shop Floor with Microsoft Dynamics 365 for Manufacturing\nTransform the Manufacturing Industry with Microsoft Dynamics 365\nWorking on a vertical solution for Business Central? Learn how to integrate Gantt charts",
+          "link": "https://erpsoftwareblog.com/2026/01/business-central-for-manufacturers-2/",
+          "publishedOn": "2026-01-02T13:24:59.000Z",
+          "wordCount": 8390,
+          "title": "Business Central for Manufacturers: A Practical Overview for Scaling Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Picture1-49.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139322",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nAccounts Payable (AP) automation has become a priority for finance teams using Microsoft Dynamics 365 Business Central. As invoice volumes grow, manual processing leads to delays, errors, and limited cash-flow […]\nThe post Yavrio Integration with Business Central: Features, Setup & Benefits appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/yavrio-integration-with-business-central/",
+          "publishedOn": "2026-01-02T09:51:35.000Z",
+          "wordCount": 7265,
+          "title": "Yavrio Integration with Business Central: Features, Setup & Benefits",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Yavrio-Integration-with-Business-Central-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139290",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nStoring all your Microsoft Dynamics 365 and Power Platform admin URLs in one place can save minutes every day and prevent mistakes when managing environments, security, and licenses, especially when […]\nThe post Microsoft Dynamics 365 Admin Center URL(s) - Quick Access Cheatsheet appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/microsoft-dynamics-365-admin-center-urls-cheatsheet/",
+          "publishedOn": "2026-01-02T08:01:55.000Z",
+          "wordCount": 7593,
+          "title": "Microsoft Dynamics 365 Admin Center URL(s) - Quick Access Cheatsheet",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Dynamics-365-Admin-Center-URLs.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139319",
+          "author": "Solver Inc",
+          "description": "xxx\nModern extended financial planning and analysis (xFP&A) platforms accelerate decision-making velocity throughout organizations by centralizing critical financial information from every business unit. For enterprises managing multiple subsidiaries, divisions, or operating […]\nThe post How Extended FP&A Platforms Enable Smarter Business Decisions Through Financial Consolidation appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/how-extended-fpa-platforms-enable-smarter-business-decisions-through-financial-consolidation/",
+          "publishedOn": "2026-01-02T03:52:26.000Z",
+          "wordCount": 7126,
+          "title": "How Extended FP&A Platforms Enable Smarter Business Decisions Through Financial Consolidation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Softwareblog-Feature-Images.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=139315",
           "author": "HandsFree ERP",
           "description": "xxx\nLayering AI agents on top of a poorly implemented ERP doesn’t fix anything.It industrializes the chaos. In 2025, SLOP became Merriam-Webster’s Word of the Year—defined as low-quality digital content produced […]\nThe post 2026, more AI Slop? Reducing the Latest Threat to ERP Success! appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -2022,6 +2082,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/shutterstock_2600352185-scaled.jpg"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=139331",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nAs warehouse complexity grows, manual inventory handling and basic ERP setups quickly become bottlenecks. Delayed shipments, stock mismatches, and rising operational costs are common signs that your business needs a […]\nThe post Implementing WMS in Dynamics 365 Business Central: Cost, Timeline & Best Practices appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/implementing-wms-in-dynamics-365-business-central-cost-timeline-best-practices/",
+          "publishedOn": "2025-12-16T09:43:10.000Z",
+          "wordCount": 7212,
+          "title": "Implementing WMS in Dynamics 365 Business Central: Cost, Timeline & Best Practices",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Implementing-WMS.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=138778",
           "author": "Volt Technologies",
           "description": "xxx\nMicrosoft Ignite 2025 brought a wave of innovation, reinforcing Microsoft’s vision for connected, AI-driven enterprise technology. From breakthroughs in AI automation to deeper integrations across cloud, productivity, and business applications, […]\nThe post Microsoft Ignite 2025: Key Announcements and What They Mean for Business Tech appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
@@ -2122,6 +2192,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/shutterstock_2595501307-scaled.jpg"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=139328",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nWarehouse inefficiencies are one of the fastest ways to lose money—misplaced inventory, delayed picking, inaccurate stock levels, and frustrated customers. If your business is scaling and spreadsheets or basic inventory […]\nThe post Bin Management, Pick & Put-Away in Business Central: A Complete WMS Guide appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/bin-management-pick-put-away-in-business-central-a-complete-wms-guide/",
+          "publishedOn": "2025-12-14T09:36:58.000Z",
+          "wordCount": 7336,
+          "title": "Bin Management, Pick & Put-Away in Business Central: A Complete WMS Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Bin-Management.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=138591",
           "author": "Insight Works",
           "description": "xxx\nAt a glance What this does: Turns maintenance into orders that block real machine capacity, so PMs don’t collide with production. How you plan: Build tasks + intervals, then create […]\nThe post Make Maintenance Schedulable in Business Central (without derailing production) appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025\nTransform Your Business Central Operations at Community Summit North America 2025",
@@ -2150,6 +2230,16 @@
           "wordCount": 8003,
           "title": "7 Reasons Why Dynamics 365 is Still the best ERP Software in 2026",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/7-reasons-why-d365-is-usa-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139323",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nHow Dynamics 365 Business Central Transforms High-Volume Warehousing In the FMCG and retail sectors, warehouse speed is not a competitive advantage anymore—it’s a survival requirement. With razor-thin margins, high SKU […]\nThe post Warehouse Automation with Business Central for FMCG & Retail appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2025/12/warehouse-automation-with-business-central-for-fmcg-retail/",
+          "publishedOn": "2025-12-12T09:33:44.000Z",
+          "wordCount": 7396,
+          "title": "Warehouse Automation with Business Central for FMCG & Retail",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-for-FMCG-Retail-625x417.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=138653",
@@ -35065,26 +35155,6 @@
           "wordCount": 7626,
           "title": "Elevating your Microsoft Dynamics 365 Project Management & Accounting experience with standardized business solutions tailored to your organizations needs",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102940",
-          "author": "GP Support North",
-          "description": "2024 Year-End Close Tips With Dynamics GP 18.6 from our GP Support North consulting team.  Dynamics GP (Great Plains) 18.6 (AKA GP 2024) has some updates to help your year-end run smoother.  Be sure to stay up to date with annual upgrades.\nThe post 2024 Year-End Close Tips With Dynamics GP 18.6 appeared first on ERP Software Blog.\nMicrosoft Dynamics GP Timecard Entry - Overview\nMicrosoft Dynamics GP Workflow 2.0 Configuration Tutorial\nBank Deposit, Bank Transactions, & Reconcile Bank Statement Windows in Microsoft Dynamics GP",
-          "link": "https://erpsoftwareblog.com/2024/01/2024-year-end-close-tips-with-dynamics-gp-18-6/",
-          "publishedOn": "2024-01-03T21:55:58.000Z",
-          "wordCount": 7667,
-          "title": "2024 Year-End Close Tips With Dynamics GP 18.6",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-Year-End-2024.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102929",
-          "author": "ERP Software Blog Writer",
-          "description": "Which Microsoft Dynamics Partners deserve the award for Top Blogger and Top Member on ERP Software Blog in 2023? We love to give credit where credit is due. We are …  2023 ERP/CRM Software Blog Award Winners – ERP Software Blog Read More »\nThe post 2023 ERP/CRM Software Blog Award Winners – ERP Software Blog appeared first on ERP Software Blog.\nERP Software Blog Members Recognized as Microsoft US Partner of the Year Award Winners\n20 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2020\nBAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.",
-          "link": "https://erpsoftwareblog.com/2024/01/2023-erp-crm-software-blog-award-winners-erp-software-blog/",
-          "publishedOn": "2024-01-03T21:15:05.000Z",
-          "wordCount": 7481,
-          "title": "2023 ERP/CRM Software Blog Award Winners – ERP Software Blog",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Top-Member-2023-Large.png"
         }
       ]
     },
@@ -36621,12 +36691,92 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/stop-wasting-time-automate-everything-with-syntex",
+          "author": "Mirko Peters",
+          "description": "Summary Running Stop Wasting Time — Automate Everything With Syntex is about more than “AI labels your files” — it’s about rethinking how your content lifecycle works. In this episode, I show how Syntex (now folded into SharePoint Premium) brings together document processing, governance, and Copilot readiness under one roof. You’ll get a peek into […]",
+          "link": "https://365community.online/stop-wasting-time-automate-everything-with-syntex",
+          "publishedOn": "2026-01-03T01:04:22.000Z",
+          "wordCount": 6027,
+          "title": "Stop Wasting Time—Automate Everything With Syntex",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767402262_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/herding-cats-or-github-fix",
+          "author": "Mirko Peters",
+          "description": "Summary Trying to tame collaboration in Power BI often feels like herding cats — multiple team members editing the same model, merging conflicts, and unclear histories. In this episode, I dig into how Power BI Collaboration: Herding Cats or GitHub Fix? can move your team from chaos to control. We’ll walk through how PBIP (Power […]",
+          "link": "https://365community.online/herding-cats-or-github-fix",
+          "publishedOn": "2026-01-02T21:27:22.000Z",
+          "wordCount": 5892,
+          "title": "Herding Cats or GitHub Fix?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767389242_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-bring-your-own-code-tutorial",
+          "author": "Nick Doelman",
+          "description": "Introduction At the Power Platform Community Conference in Las Vegas, low-code (as we know it) was declared dead. In Power Apps, we’ve seen Generative Pages, Code Apps, and now vibe.powerapps.com as new ways to take the ultimate form of “low code” (that being natural language) to generate pro-code (usually being TypeScript or JavaScript with the […]",
+          "link": "https://365community.online/power-pages-bring-your-own-code-tutorial",
+          "publishedOn": "2026-01-02T19:43:00.000Z",
+          "wordCount": 5255,
+          "title": "Power Pages: Bring your own code! (Tutorial)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/Power-Pages-Bring-your-own-code-Tutorial.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/entra-id-the-conditional-chaos-engine",
+          "author": "Mirko Peters",
+          "description": "Most organizations believe they have identity security under control — but in reality, they’re operating with ambiguity, over-permissioned access, and fragile policies that only work on paper. In this episode, we break down how to move from identity sprawl and “heroic” incident response to a boring, disciplined, and effective security loop. You’ll learn how to […]",
+          "link": "https://365community.online/entra-id-the-conditional-chaos-engine",
+          "publishedOn": "2026-01-02T17:46:27.000Z",
+          "wordCount": 2402,
+          "title": "Entra ID – The Conditional Chaos Engine",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/07fab928fc1e9870d73efb800aa77ea1.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/productivity-hack-or-admin-nightmare",
+          "author": "Mirko Peters",
+          "description": "Summary Running Autonomous Agents: Productivity Hack or Admin Nightmare? is about deciding whether giving AI more autonomy helps your team — or gives you a new headache. In this episode, I explore how agents cross the line from assisting to acting: when they retain memory, move beyond suggestions, and begin executing workflows. You’ll learn how […]",
+          "link": "https://365community.online/productivity-hack-or-admin-nightmare",
+          "publishedOn": "2026-01-02T14:08:02.000Z",
+          "wordCount": 6355,
+          "title": "Productivity Hack or Admin Nightmare?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767362882_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-azure-ai-foundry-trap-why-most-fail-fast",
+          "author": "Mirko Peters",
+          "description": "Summary Working with The Azure AI Foundry Trap — Why Most Fail Fast is about navigating the sweet line between demo magic and production disaster. In this episode, I expose the places where Foundry rollouts collapse — not because the tech is flawed, but because teams skip essential grounding, observability, and governance. We dive into […]",
+          "link": "https://365community.online/the-azure-ai-foundry-trap-why-most-fail-fast",
+          "publishedOn": "2026-01-02T09:05:52.000Z",
+          "wordCount": 6003,
+          "title": "The Azure AI Foundry Trap—Why Most Fail Fast",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767344753_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-it-matters",
+          "author": "Jukka Niiranen",
+          "description": "We don’t write just to deliver a payload of importance. We write to think. The sudden flood of “why it matters” formula in written content is not a positive sign for this. Continue reading Why it matters at Jukka Niiranen blog. Original Post https://jukkaniiranen.com/2026/01/why-it-matters/",
+          "link": "https://365community.online/why-it-matters",
+          "publishedOn": "2026-01-02T08:24:00.000Z",
+          "wordCount": 1991,
+          "title": "Why it matters",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/Why-it-matters.jpg?fit=2400%2C1600&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-fix-for-messy-data-or-another-headache",
+          "author": "Mirko Peters",
+          "description": "Summary Exploring Microsoft Fabric’s Digital Twin means asking: is it finally the tool that tames messy data — or just another layer of complexity? In this episode, I walk through what the Digital Twin Builder (in Fabric’s Real-Time Intelligence) promises, how it plugs into OneLake, and whether it truly simplifies modeling, mapping, and dashboards — […]",
+          "link": "https://365community.online/the-fix-for-messy-data-or-another-headache",
+          "publishedOn": "2026-01-02T05:32:36.000Z",
+          "wordCount": 5747,
+          "title": "The Fix for Messy Data… or Another Headache?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767331956_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/is-your-dataflow-reusable-or-a-one-trick-disaster",
           "author": "Mirko Peters",
           "description": "Summary Running Is Your Dataflow Reusable—or a One-Trick Disaster? as a short, inflexible pipeline is risky. In this episode, I dig into how many “working” dataflows are secretly ticking time bombs—fragile against schema drift, hardcoding, and scale. I share a 60-second checklist you can run on yours right now to see if it’s durable or […]",
           "link": "https://365community.online/is-your-dataflow-reusable-or-a-one-trick-disaster",
           "publishedOn": "2026-01-02T01:55:49.000Z",
-          "wordCount": 5971,
+          "wordCount": 5833,
           "title": "Is Your Dataflow Reusable—or a One-Trick Disaster?",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767318949_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
@@ -75794,96 +75944,6 @@
           "wordCount": 3064,
           "title": "Dynamics 365 Business Central: how the BCApps repo is moving?",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Dynamics-365-Business-Central-how-the-BCApps-repo-is-moving.jpeg?fit=1200%2C780&ssl=1"
-        },
-        {
-          "id": "https://365community.online/upgrade-your-dynamic-365-crm-call-transfers-protect-data-boost-efficiency-impress-clients",
-          "author": "Inogic",
-          "description": "Introduction Imagine you are working in a company that keeps records and transcription of phone calls for various reasons, like quality assurance or improvement purposes. Now, let’s say you need […]",
-          "link": "https://365community.online/upgrade-your-dynamic-365-crm-call-transfers-protect-data-boost-efficiency-impress-clients",
-          "publishedOn": "2024-01-04T12:36:39.000Z",
-          "wordCount": 3339,
-          "title": "Upgrade Your Dynamic 365 CRM Call Transfers: Protect Data, Boost Efficiency, Impress Clients",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Enhancements-in-call-transfers-to-external-numbers.jpeg?fit=1200%2C543&ssl=1"
-        },
-        {
-          "id": "https://365community.online/remove-the-dev-home-app-with-intune",
-          "author": "Jeroen Burgerhout",
-          "description": "Today another short blog post about the removal of the Dev Home app, which comes with the new Windows 11 23H2 update. Dev Home…. What on earth should you use […]",
-          "link": "https://365community.online/remove-the-dev-home-app-with-intune",
-          "publishedOn": "2024-01-04T11:33:53.000Z",
-          "wordCount": 3044,
-          "title": "Remove the Dev Home app with Intune",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Remove-the-Dev-Home-app-with-Intune.png?fit=393%2C328&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-flow-templates-are-available-from-microsoft",
-          "author": "Ian Grieve",
-          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-flow-templates-are-available-from-microsoft",
-          "publishedOn": "2024-01-04T11:00:39.000Z",
-          "wordCount": 3102,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Flow Templates Are Available from Microsoft",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/In-Microsoft-Dynamics-365-Business-Central-Power-Automate-how-do.png?fit=1168%2C803&ssl=1"
-        },
-        {
-          "id": "https://365community.online/for-dummies-creating-an-internal-microsoft-power-platform-hub-from-the-template",
-          "author": "Olena Grischenko",
-          "description": "In my world being an expert in something and being a dummy in something else is pretty normal. No one knows everything. I am an expert in the Power Platform […]",
-          "link": "https://365community.online/for-dummies-creating-an-internal-microsoft-power-platform-hub-from-the-template",
-          "publishedOn": "2024-01-04T08:17:11.000Z",
-          "wordCount": 3082,
-          "title": "For Dummies: creating an internal Microsoft Power Platform hub (from the template)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/For-Dummies-creating-an-internal-Microsoft-Power-Platform-hub-from.png?fit=1200%2C876&ssl=1"
-        },
-        {
-          "id": "https://365community.online/secure-inputs-outputs-in-logic-apps",
-          "author": "Anitha Santosh",
-          "description": "Logic apps is best in orchestrating the workflow integrations and it has close to 200+ connectors .With its simple UI designer , it has become the favourite middleware for any […]",
-          "link": "https://365community.online/secure-inputs-outputs-in-logic-apps",
-          "publishedOn": "2024-01-03T22:09:40.000Z",
-          "wordCount": 3041,
-          "title": "Secure inputs / outputs in Logic apps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Secure-inputs-outputs-in-Logic-apps.png?fit=1089%2C731&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-in-dynamics-365-implementation-portal",
-          "author": "Kurt Hatlevik",
-          "description": "Have you explored the Dynamics 365 implementation portal (https://experience.dynamics.com/FTimplementationportal )? You should! Lot’s of value and checklists available there. The Dynamics 365 Implementation Portal is designed to assist both customers […]",
-          "link": "https://365community.online/copilot-in-dynamics-365-implementation-portal",
-          "publishedOn": "2024-01-03T18:20:22.000Z",
-          "wordCount": 3037,
-          "title": "CoPilot in Dynamics 365 implementation portal",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/CoPilot-in-Dynamics-365-implementation-portal.png?fit=481%2C861&ssl=1"
-        },
-        {
-          "id": "https://365community.online/create-project-plan-using-copilot-in-project-operations",
-          "author": "Priyesh Wagh",
-          "description": "Now that you must have enabled Copilot for Project Operations [If not, you can refer this post to learn how you can enable Copilot for Project Operations – ] Note: […]",
-          "link": "https://365community.online/create-project-plan-using-copilot-in-project-operations",
-          "publishedOn": "2024-01-03T18:11:28.000Z",
-          "wordCount": 3049,
-          "title": "Create Project Plan using Copilot in Project Operations",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Create-Project-Plan-using-Copilot-in-Project-Operations.png?fit=1200%2C734&ssl=1"
-        },
-        {
-          "id": "https://365community.online/d365ppug-birmingham-jan-2024-event",
-          "author": "Neil Parkhurst",
-          "description": "The first in-person meeting of the Dynamics 365 and Power Platform User Group for Birmingham will take place on Thursday 25th Jan from 18:00. I can’t believe we are entering […]",
-          "link": "https://365community.online/d365ppug-birmingham-jan-2024-event",
-          "publishedOn": "2024-01-03T15:15:34.000Z",
-          "wordCount": 3022,
-          "title": "D365PPUG Birmingham – Jan 2024 Event",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/D365PPUG-Birmingham-–-Jan-2024-Event.webp.jpeg?fit=600%2C338&ssl=1"
-        },
-        {
-          "id": "https://365community.online/a-new-approach-to-error-handling-in-power-automate",
-          "author": "Pieter Veenstra",
-          "description": "For quite a few years now I’ve promoted the Try-Catch error handling pattern. But there is a new approach on its way. The Flow Run Table Within Dataverse you can […]",
-          "link": "https://365community.online/a-new-approach-to-error-handling-in-power-automate",
-          "publishedOn": "2024-01-03T15:12:53.000Z",
-          "wordCount": 3023,
-          "title": "A new approach to error handling in Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -78951,16 +79011,6 @@
           "wordCount": 4237,
           "title": "D365FO bacpac import – Unable to connect to target server localhost – Error occurred during the login process",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2024/01/image-12.png?w=1024"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3213",
-          "author": "AnithaEswaran",
-          "description": "Logic apps is best in orchestrating the workflow integrations and it has close to 200+ connectors .With its simple UI designer , it has become the favourite middleware for any integration scenarios. Data plays a major role in today`s transactions … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2024/01/03/secure-inputs-outputs-in-logic-apps/",
-          "publishedOn": "2024-01-03T22:09:40.000Z",
-          "wordCount": 4393,
-          "title": "Secure inputs / outputs in Logic apps",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2024/01/image-11.png"
         }
       ]
     },
@@ -79807,16 +79857,6 @@
           "wordCount": 3754,
           "title": "D365 new year.  Let’s take the trash out.",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2024/01/blogpost2.jpg"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4557",
-          "author": "Kurt Hatlevik",
-          "description": "Have you explored the Dynamics 365 implementation portal (https://experience.dynamics.com/FTimplementationportal )? You should! Lot’s of value and checklists available there. The Dynamics 365 Implementation Portal is designed to assist both customers and partners in guiding their Dynamics 365 projects to a successful completion. This portal offers detailed implementation advice and strategies to mitigate risks, tailored to … Continue reading CoPilot in Dynamics 365 implementation portal",
-          "link": "https://kurthatlevik.com/2024/01/03/copilot-in-dynamics-365-implementation-portal/",
-          "publishedOn": "2024-01-03T18:20:22.000Z",
-          "wordCount": 3503,
-          "title": "CoPilot in Dynamics 365 implementation portal",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2024/01/010324_1820_copilotindy1.png"
         }
       ]
     },
