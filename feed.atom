@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-03T01:52:04.819Z</updated>
+    <updated>2026-01-04T02:08:38.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entra ID – The Conditional Chaos Engine]]></title>
+        <id>https://365community.online/entra-id-the-conditional-chaos-engine-2</id>
+        <link href="https://365community.online/entra-id-the-conditional-chaos-engine-2"/>
+        <updated>2026-01-03T23:03:08.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,960Most organizations think their Azure problems 200:00:01,960 –> 00:00:04,320are cost network or VM configuration. 300:00:04,320 –> 00:00:05,160They are not. 400:00:05,160 –> 00:00:06,600Your failures start in identity 500:00:06,600 –> 00:00:09,240because identity is Azure’s control plane. 600:00:09,240 –> 00:00:12,160And when conditional access fails during an MFA outage, 700:00:12,160 –> 00:00:15,080responders discover the break glass path […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Agent Has A Face. The Lie Is Worse]]></title>
+        <id>https://365community.online/the-agent-has-a-face-the-lie-is-worse-2</id>
+        <link href="https://365community.online/the-agent-has-a-face-the-lie-is-worse-2"/>
+        <updated>2026-01-03T19:23:39.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,640Most organizations will soon give their agent a face and a voice. 200:00:02,640 –> 00:00:03,440It feels natural. 300:00:03,440 –> 00:00:04,680It signals confidence. 400:00:04,680 –> 00:00:06,560It also hides what the system actually is. 500:00:06,560 –> 00:00:10,680It distributed probabilistic decision engine wire to your most sensitive tools. 600:00:10,680 –> 00:00:12,840This is not a tutorial on […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Agent Has A Face. The Lie Is Worse]]></title>
+        <id>https://365community.online/the-agent-has-a-face-the-lie-is-worse</id>
+        <link href="https://365community.online/the-agent-has-a-face-the-lie-is-worse"/>
+        <updated>2026-01-03T15:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is rapidly evolving from simple assistive tools into autonomous AI agents capable of acting on behalf of users. Unlike traditional AI systems that only generate responses, modern AI agents can take real actions such as accessing data, executing workflows, sending communications, and making operational decisions. This shift introduces new opportunities—but also significant risks. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy Power BI Like a Pro—No More Guesswork]]></title>
+        <id>https://365community.online/deploy-power-bi-like-a-pro-no-more-guesswork</id>
+        <link href="https://365community.online/deploy-power-bi-like-a-pro-no-more-guesswork"/>
+        <updated>2026-01-03T12:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a brutal truth: managing BI without ALM is like building a skyscraper with Jenga blocks. It all looks fine—until someone breathes on it. Here’s what this video will give you: first, how to treat Power BI models as code, second, how Git actually fits BI work, and third, how pipelines save you from late-night […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabric Data Activator vs Power BI Alerts: No Contest]]></title>
+        <id>https://365community.online/fabric-data-activator-vs-power-bi-alerts-no-contest</id>
+        <link href="https://365community.online/fabric-data-activator-vs-power-bi-alerts-no-contest"/>
+        <updated>2026-01-03T08:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Let’s be real—Power BI alerts are like Clippy: “It looks like you’re trying to stay informed… but let me waste your time first!” Who decided restricting alerts to dashboards was a smart move anyway? Probably the same squad that thought Cortana was going to beat Siri. Follow the M365.Show LinkedIn page for livestreams with MVPs—because […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Star Schema Trick All Pros Use (But Won’t Say)]]></title>
+        <id>https://365community.online/the-star-schema-trick-all-pros-use-but-wont-say</id>
+        <link href="https://365community.online/the-star-schema-trick-all-pros-use-but-wont-say"/>
+        <updated>2026-01-03T04:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running The Star Schema Trick All Pros Use means giving your Power BI / data model the structure that performance engines expect — instead of letting it devolve into “digital spaghetti.” In this episode, I explain why flattening everything into a giant table feels easy at first, but drags your reports into slowness and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Wasting Time—Automate Everything With Syntex]]></title>
         <id>https://365community.online/stop-wasting-time-automate-everything-with-syntex</id>
@@ -107393,16 +107453,6 @@ Professional services firms: solve your pain points with a project management so
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is TypeScript, pros and cons and how it helps in Model Driven Apps]]></title>
-        <id>https://365community.online/what-is-typescript-pros-and-cons-and-how-it-helps-in-model-driven-apps</id>
-        <link href="https://365community.online/what-is-typescript-pros-and-cons-and-how-it-helps-in-model-driven-apps"/>
-        <updated>2024-01-05T13:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com In the quest for a fresh start this year, I’m going to create a series of blogposts that is a guide about TypeScript applied to Model Driven […]]]></summary>
-        <author>
-            <name>Wilmer Alcivar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dynamics NAV to Business Central Upgrade [Insider Tips]]]></title>
         <id>https://erpsoftwareblog.com/?p=102970</id>
         <link href="https://erpsoftwareblog.com/2024/01/dynamics-nav-to-business-central-upgrade/"/>
@@ -107414,193 +107464,6 @@ What Does a 1095-C Delay Mean for 1040 Filings?
 Power BI Quick Tip: Export of Data]]></summary>
         <author>
             <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top ERP Trends to Look for in 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=102961</id>
-        <link href="https://erpsoftwareblog.com/2024/01/top-erp-trends-to-look-for-in-2024/"/>
-        <updated>2024-01-05T12:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Top ERP Trends to Look for in 2024 mostly depend on the specific need of a business but still, certain shifts in ERP trends are gaining traction and continue to …  Top ERP Trends to Look for in 2024 Read More »
-The post Top ERP Trends to Look for in 2024 appeared first on ERP Software Blog.
-Take Advantage of Microsoft Dynamics 365 Business Central’s Intuitive, User-Friendly Platform
-Profitez de la plateforme intuitive et conviviale de Microsoft Dynamics 365 Business Central
-Dynamics ERP On-Premise to Cloud Top Benefits]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undo changes or Restore Deleted Dynamics 365 CRM Records in Bulk with the new Undo2Restore Tool!]]></title>
-        <id>https://365community.online/undo-changes-or-restore-deleted-dynamics-365-crm-records-in-bulk-with-the-new-undo2restore-tool</id>
-        <link href="https://365community.online/undo-changes-or-restore-deleted-dynamics-365-crm-records-in-bulk-with-the-new-undo2restore-tool"/>
-        <updated>2024-01-05T11:58:29.000Z</updated>
-        <summary type="html"><![CDATA[As we stand on the threshold of a new year, Team Inogic is delighted to share some exciting updates to your trusted Undo2Restore app—an indispensable solution for safeguarding your CRM […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Power Automate: Series Index]]></title>
-        <id>https://365community.online/working-with-power-automate-series-index</id>
-        <link href="https://365community.online/working-with-power-automate-series-index"/>
-        <updated>2024-01-05T11:00:48.000Z</updated>
-        <summary type="html"><![CDATA[I recently wrote a few articles on Power Automate as part of my In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series. Since then I have started […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volume 7: Co-Pilot in Power Automate – YouTube]]></title>
-        <id>https://365community.online/volume-7-co-pilot-in-power-automate-youtube</id>
-        <link href="https://365community.online/volume-7-co-pilot-in-power-automate-youtube"/>
-        <updated>2024-01-05T10:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Volume 7: Co-Pilot in Power Automate source]]></summary>
-        <author>
-            <name>Deepesh Somani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolving Landscape of Location Analytics for Dynamics 365 with Generative AI]]></title>
-        <id>https://365community.online/the-evolving-landscape-of-location-analytics-for-dynamics-365-with-generative-ai</id>
-        <link href="https://365community.online/the-evolving-landscape-of-location-analytics-for-dynamics-365-with-generative-ai"/>
-        <updated>2024-01-05T10:47:59.000Z</updated>
-        <summary type="html"><![CDATA[The post The Evolving Landscape of Location Analytics for Dynamics 365 with Generative AI appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Automate: retrieving the first item of a recordset avoiding a loop.]]></title>
-        <id>https://365community.online/power-automate-retrieving-the-first-item-of-a-recordset-avoiding-a-loop</id>
-        <link href="https://365community.online/power-automate-retrieving-the-first-item-of-a-recordset-avoiding-a-loop"/>
-        <updated>2024-01-05T10:46:42.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Business Central it’s quite common to do operations in AL code for filtering a set of records and then retrieving a value of the first record of […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you want to run “Real Async Operations” in MsDyn365FO?]]></title>
-        <id>http://msdyn365fo.wordpress.com/?p=598</id>
-        <link href="https://msdyn365fo.wordpress.com/2024/01/05/do-you-want-to-run-real-async-operations-in-msdyn365fo/"/>
-        <updated>2024-01-05T10:24:59.000Z</updated>
-        <summary type="html"><![CDATA[In version 10.0.38 PU62 of Microsoft Dynamics 365 for Finance and Operations I found a new feature called “Real Async Operations”. The official documentation is leaking some information so I decided to add more details with this blog: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/real-async As also documented in the official documentation you first have to enable the feature via feature … Continue reading Do you want to run “Real Async Operations” in MsDyn365FO? →]]></summary>
-        <author>
-            <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 3 – Topic 2: Part 1 – YouTube]]></title>
-        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-3-topic-2-part-1-youtube</id>
-        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-3-topic-2-part-1-youtube"/>
-        <updated>2024-01-05T10:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 HR: Compare benefits plans]]></title>
-        <id>https://365community.online/d365-hr-compare-benefits-plans</id>
-        <link href="https://365community.online/d365-hr-compare-benefits-plans"/>
-        <updated>2024-01-05T07:35:10.000Z</updated>
-        <summary type="html"><![CDATA[Deploying a new Dynamics environment means that our first stop is Feature Management. I was doing this earlier today and realized that some new features have been released and it […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform First Aid sessions]]></title>
-        <id>https://365community.online/power-platform-first-aid-sessions</id>
-        <link href="https://365community.online/power-platform-first-aid-sessions"/>
-        <updated>2024-01-04T19:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for help with your Power Platform. And you had enough of looking for help by searching on the internet? Power Platform First Aid ⛑️Join us in January […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge management best practices for Copilot ingestion]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/"/>
-        <updated>2024-01-04T19:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI capabilities are rapidly changing the customer service space. You can use Copilot in Dynamics 365 Customer Service today to help agents save time on case and conversation summarization as these features do not require your organization’s support knowledge. However, before agents can use Copilot to answer questions and draft emails, you need to
-The post Knowledge management best practices for Copilot ingestion appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Deepa Bansal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I spent my holidays… for you!]]></title>
-        <id>https://365community.online/how-i-spent-my-holidays-for-you</id>
-        <link href="https://365community.online/how-i-spent-my-holidays-for-you"/>
-        <updated>2024-01-04T17:17:52.000Z</updated>
-        <summary type="html"><![CDATA[I have been prepared to start a pet project many times but never had a long enough block of uninterrupted quiet time to get started. Then, along came the holidays! […]]]></summary>
-        <author>
-            <name>Steve Mordue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOW ROCKTON SOFTWARE CAN CUSTOMIZE DYNAMICS GP TO FIT YOUR NEEDS]]></title>
-        <id>https://erpsoftwareblog.com/?p=102958</id>
-        <link href="https://erpsoftwareblog.com/2024/01/how-rockton-software-can-customize-dynamics-gp-to-fit-your-needs/"/>
-        <updated>2024-01-04T16:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Have you been a loyal Dynamics GP user? Looking for improvements to fit your needs? Rockton has created custom add-on products to help you Work Simpler & Easier® in Dynamics GP. In …  HOW ROCKTON SOFTWARE CAN CUSTOMIZE DYNAMICS GP TO FIT YOUR NEEDS Read More »
-The post HOW ROCKTON SOFTWARE CAN CUSTOMIZE DYNAMICS GP TO FIT YOUR NEEDS appeared first on ERP Software Blog.
-Dynamics GP - Love at First Sight!
-No Fooling - 3 Dynamics GP Users For $1!
-Business Intelligence in Microsoft Dynamics GP 2010]]></summary>
-        <author>
-            <name>Mark Rockwell, Rockton Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a New User in Microsoft Dynamics GP]]></title>
-        <id>https://www.encorebusiness.com/?p=34105</id>
-        <link href="https://www.encorebusiness.com/blog/create-new-user-microsoft-dynamics-gp/"/>
-        <updated>2024-01-04T15:47:56.000Z</updated>
-        <summary type="html"><![CDATA[How to Create a New User in Microsoft Dynamics GP
-When creating a new user in Dynamics GP, there are a few things you must know. Before a new user can access Dynamics GP, they will need to be set up with a User ID that has access to at least one company with at least one security role. By default, only the ‘sa’ (system...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Ryan Fiorini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entity collection as OData action parameter]]></title>
-        <id>https://dev.goshoom.net/?p=9957</id>
-        <link href="https://dev.goshoom.net/2024/01/entity-collection-as-odata-action-parameter/"/>
-        <updated>2024-01-04T15:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Data entities in F&O can be exposed through OData protocol. You can also add OData actions by creating methods in X++ and decorating them with SysODataCollectionAttribute. You can see an example in MssLeaveRequestDateEntity.getDirects(): [ SysODataActionAttribute('getDirects', false), SysODataCollectionAttribute('return', Types::Record, 'MssLeaveRequestDateEntity') ] public static List getDirects( str reportingPersonnelNumber, date fromDate, date toDate, LeaveRequestApprovalStatus leaveRequestStatus) { List list ...
-Continue reading ‘Entity collection as OData action parameter’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elevating your Microsoft Dynamics 365 Project Management & Accounting experience with standardized business solutions tailored to your organizations needs]]></title>
-        <id>https://erpsoftwareblog.com/?p=102949</id>
-        <link href="https://erpsoftwareblog.com/2024/01/elevating-your-microsoft-dynamics-365-project-management-accounting-experience-with-standardized-business-solutions-tailored-to-your-organizations-needs/"/>
-        <updated>2024-01-04T15:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Project Management is constantly transforming and with trends as AI, Machine Learning and an increased emphasis on data-driven decision-making, 2024 will be an inspiring year for organizations looking to optimize …  Elevating your Microsoft Dynamics 365 Project Management & Accounting experience with standardized business solutions tailored to your organizations needs Read More »
-The post Elevating your Microsoft Dynamics 365 Project Management & Accounting experience with standardized business solutions tailored to your organizations needs appeared first on ERP Software Blog.
-Microsoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances
-Is Your “Cloud ERP” Really Cloud Based?
-Avastone Technologies to Merge with Heartland Business Systems]]></summary>
-        <author>
-            <name>Axtension</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: how the BCApps repo is moving?]]></title>
-        <id>https://365community.online/dynamics-365-business-central-how-the-bcapps-repo-is-moving</id>
-        <link href="https://365community.online/dynamics-365-business-central-how-the-bcapps-repo-is-moving"/>
-        <updated>2024-01-04T14:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Can you see the image on top of this post? They’re not fireworks of the new year 2024 but instead something different… I think that you already know that Microsoft […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
         </author>
     </entry>
     <entry>
