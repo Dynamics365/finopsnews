@@ -612,16 +612,6 @@
           "wordCount": 5677,
           "title": "Get selected records in a grid on a form in D365FO",
           "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html",
-          "author": null,
-          "description": "Microsoft provides an feature to make any field mandatory from the front end, but what if we want to make a \"field\" mandatory in Dynamics 365 for Finance and Operations with customization?\nIt is often a requirement from the customer side to make the field mandatory on the forms for some users, user groups, and sometimes for all the users of the organization.\nLet's take an example if we want to make Main Category field mandatory on the main account page. \n\n\n[extensionof(formdatasourceStr(MainAccount, MainAccount))]\ninternal final class COMPMainAccount_Extension\npublic boolean validateWrite()\n {\n boolean ret = next validateWrite();\n FormStringControl LedgerCategory = this.formRun().design().controlName(\"Ledger_Category\") as FormStringControl;\n if (!LedgerCategory.valueStr())\n {\n ret = checkFailed(\"Ledger Category must be filled in\");\n }\n return ret;\n }",
-          "link": "https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html",
-          "publishedOn": "2024-01-06T02:39:00.000Z",
-          "wordCount": 5699,
-          "title": "Make any field mandatory on the form level with X++ in D365 Finance and Operations",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUN2rIsmrAXqugokVK1mIpCEHA-yFvGmfv--UW-6VHXSZvbLdC2pYZv7xXeCPQzly5k0To_D-9Sf7S1y_EJuSNiie6s27gUNuh_lsRQ3REhI0Ms1RkypvovU5r5X3YtU6FFW0Ki3svX8zFO-5QXyKWGL_Yk6ud2tB9l_lfOxiQVaHe9PIQDQCijAw8AJPnN6jzXSFbEzERzTm5G1xmANvrvMBonAegU2RUfDRxLGBbapge6WAXEBhvgHUlPYNOrAn_PnDB4QOXUMrX9o5KncOM=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -1396,6 +1386,16 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=137900",
+          "author": "Boyer &#38; Associates",
+          "description": "xxx\nMicrosoft Dynamics GP vs F&SCM: The Complete Guide to Making the Move  No doubt, your Microsoft Dynamics GP system has served your business well over the years. It's been the […]\nThe post Microsoft Dynamics GP vs F&SCM: The Complete Guide to Making the Move appeared first on ERP Software Blog.\nHow ChatGPT and Microsoft Copilot Boost Productivity\nDynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations\nTop 5 Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental",
+          "link": "https://erpsoftwareblog.com/2026/01/microsoft-dynamics-gp-vs-fscm-the-complete-guide-to-making-the-move/",
+          "publishedOn": "2026-01-04T16:50:26.000Z",
+          "wordCount": 8353,
+          "title": "Microsoft Dynamics GP vs F&SCM: The Complete Guide to Making the Move",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Boyer-FA-GP-vs-FSCM.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=139390",
           "author": "TrinSoft",
@@ -35095,36 +35095,6 @@
           "wordCount": 7353,
           "title": "16 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2023",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-Bob-Scotts-Top-100.jpeg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102994",
-          "author": "Mekorma",
-          "description": "Microsoft Dynamics 365 Business Central (BC) offers essential financial management features, including standard MICR check printing with signatures. However, Mekorma Electronic Signatures significantly enhances the process, providing more flexibility and …  Enhance Microsoft D365 Business Central with Electronic Signatures for Check Payments Read More »\nThe post Enhance Microsoft D365 Business Central with Electronic Signatures for Check Payments appeared first on ERP Software Blog.\nThe Top Three Questions to Ask Before Selecting a Dynamics GP Manufacturing Partner\nSurviving Disruption and Amazon-Like Expectations in Food and Beverage E-Commerce\nUsing Technology to Track Non-Profit Fundraising for Better Engagement",
-          "link": "https://erpsoftwareblog.com/2024/01/enhance-microsoft-d365-business-central-with-electronic-signatures-for-check-payments/",
-          "publishedOn": "2024-01-05T19:14:48.000Z",
-          "wordCount": 7131,
-          "title": "Enhance Microsoft D365 Business Central with Electronic Signatures for Check Payments",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_285714179-scaled.jpeg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102952",
-          "author": "ArcherPoint",
-          "description": "Migrating Historical Dynamics GP Data to Business Central Microsoft has been encouraging Dynamics GP users to migrate to Dynamics 365 Business Central. One of the areas of concern for GP …  Migrating Historical Dynamics GP Data to Business Central Read More »\nThe post Migrating Historical Dynamics GP Data to Business Central appeared first on ERP Software Blog.\nWhen is Azure more effective to access your Data with Microsoft Dynamics 365?\nMicrosoft Dynamics Reporting can lead the way with your accounting team today!\nProfessional services firms: solve your pain points with a project management solution",
-          "link": "https://erpsoftwareblog.com/2024/01/migrating-historical-dynamics-gp-data-to-business-central/",
-          "publishedOn": "2024-01-05T15:30:53.000Z",
-          "wordCount": 7332,
-          "title": "Migrating Historical Dynamics GP Data to Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-software-Popdocks-300x164.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102970",
-          "author": "Dynamics Square USA",
-          "description": "Are you contemplating deploying Business Central on-premises or migrating your solution online? The decision to upgrade from Microsoft Dynamics NAV to Dynamics 365 Business Central will depend on to what …  Dynamics NAV to Business Central Upgrade [Insider Tips] Read More »\nThe post Dynamics NAV to Business Central Upgrade [Insider Tips] appeared first on ERP Software Blog.\nVideo: 3 Customers Tell You Why They Love Microsoft Dynamics GP\nWhat Does a 1095-C Delay Mean for 1040 Filings?\nPower BI Quick Tip: Export of Data",
-          "link": "https://erpsoftwareblog.com/2024/01/dynamics-nav-to-business-central-upgrade/",
-          "publishedOn": "2024-01-05T13:39:32.000Z",
-          "wordCount": 8472,
-          "title": "Dynamics NAV to Business Central Upgrade [Insider Tips]",
-          "imageUrl": "https://www.dynamicssquare.com/_next/image/?url=%2Fimg%2Fright-time-to-upgrade.png&w=1920&q=75"
         }
       ]
     },
@@ -36632,16 +36602,6 @@
           "wordCount": 1553,
           "title": "1099 Changes for Tax Year 2023 (Info for Dynamics GP Users)",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=60908",
-          "author": "The Encore Team",
-          "description": "How to Modify Columns in Dynamics 365 Business Central\nThis blog will demonstrate how to modify columns and personalize a Customer Card in Dynamics 365 Business Central. Begin by navigating to the Customer Page in your Business Central environment. Once in the Customer window, you can click on a customer to view detailed information, including Customer Statistics: Remove Sections From a Page To remove...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/how-to-modify-columns-in-d365-business-central/",
-          "publishedOn": "2024-01-05T17:26:52.000Z",
-          "wordCount": 1358,
-          "title": "How to Modify Columns in Dynamics 365 Business Central",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
         }
       ]
     },
@@ -36650,6 +36610,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-data-goblins-wreck-copilot-for-everyone",
+          "author": "Mirko Peters",
+          "description": "Summary Deploying How Data Goblins Wreck Copilot For Everyone into an environment full of messy, outdated, and poorly labeled data is a recipe for disaster—“garbage in, polished garbage out.” In this episode, I break down how sloppy data practices turn Copilot into a hallucination engine rather than a helpful assistant. We talk about how mis-labeled […]",
+          "link": "https://365community.online/how-data-goblins-wreck-copilot-for-everyone",
+          "publishedOn": "2026-01-05T01:20:57.000Z",
+          "wordCount": 5800,
+          "title": "How Data Goblins Wreck Copilot For Everyone",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767576057_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-the-speaking-agent-obscures-architectural-entropy-2",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,200At 0902, the agent signs in. 200:00:02,200 –> 00:00:06,880Conditional access evaluates once, passes, and a token gets issued. 300:00:06,880 –> 00:00:11,000At 0904, the meeting changes, and external guest joins a channel gets renamed 400:00:11,000 –> 00:00:13,200a document link, shifts, whatever. 500:00:13,200 –> 00:00:14,360Context moves. 600:00:14,360 –> 00:00:20,920At 0907, the agent executes a destructive […]",
+          "link": "https://365community.online/how-the-speaking-agent-obscures-architectural-entropy-2",
+          "publishedOn": "2026-01-04T21:34:59.000Z",
+          "wordCount": 14860,
+          "title": "How the Speaking Agent Obscures Architectural Entropy",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767562499_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-expense-management-app-overview",
+          "author": "Ana Inés Urrutia",
+          "description": "In this article, we’re going to look at the Dynamics 365 Expense Management mobile app , which is an out-of-the-box app built by Microsoft . No custom build, no fancy setup — it comes ready to use as part of Dynamics 365 and is built as a Power Apps canvas app , accessed through the […]",
+          "link": "https://365community.online/dynamics-365-expense-management-app-overview",
+          "publishedOn": "2026-01-04T20:39:00.000Z",
+          "wordCount": 2064,
+          "title": "Dynamics 365 Expense Management App Overview",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/Dynamics-365-Expense-Management-App-Overview.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-the-speaking-agent-obscures-architectural-entropy",
+          "author": "Mirko Peters",
+          "description": "Modern AI agents don’t just act — they speak. And that voice changes how we perceive risk, control, and system integrity. In this episode, we unpack “the embodied lie”: how giving AI agents a conversational interface masks architectural drift, hides decision entropy, and creates a dangerous illusion of coherence. When systems talk fluently, we stop […]",
+          "link": "https://365community.online/how-the-speaking-agent-obscures-architectural-entropy",
+          "publishedOn": "2026-01-04T17:59:19.000Z",
+          "wordCount": 2310,
+          "title": "How the Speaking Agent Obscures Architectural Entropy",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/c667287c14182ca9bdfb3ef0cd36e6ba.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-dataverse-migration-nobody-wants-but-needs",
+          "author": "Mirko Peters",
+          "description": "Summary Planning The Dataverse Migration Nobody Wants is more than a tech effort — it’s an organizational shift. In this episode, I walk through why teams procrastinate moving to Dataverse, and how to turn the migration from a dreaded burden into a strategic win. We’ll talk about what to audit first, how to map old […]",
+          "link": "https://365community.online/the-dataverse-migration-nobody-wants-but-needs",
+          "publishedOn": "2026-01-04T14:09:51.000Z",
+          "wordCount": 5804,
+          "title": "The Dataverse Migration Nobody Wants (But Needs)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767535791_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-unsung-power-platform-hero",
+          "author": "Mirko Peters",
+          "description": "Summary Running Model-Driven Apps: The Unsung Power Platform Hero isn’t about flashy UI — it’s about building secure, stable, production-ready apps that stand the test of change. In this episode, I show you how I take a blank Dataverse table and convert it into a themed, role-aware application with custom forms, views, relationships, security, and […]",
+          "link": "https://365community.online/the-unsung-power-platform-hero",
+          "publishedOn": "2026-01-04T10:17:56.000Z",
+          "wordCount": 5816,
+          "title": "The Unsung Power Platform Hero",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767521876_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-new-2026-microsoft-roadmap-to-get-you-hired-preview-youtube",
+          "author": "shabaz darr",
+          "description": "The New 2026 Microsoft Roadmap to Get You Hired Video dropping 5th Jan: – 00:30 AEDT – 13:30 UK time (4th) – 08:30 US EST (4th) – 19:00 IST (4th) – 06:30 PDT (4th) source",
+          "link": "https://365community.online/the-new-2026-microsoft-roadmap-to-get-you-hired-preview-youtube",
+          "publishedOn": "2026-01-04T08:58:54.000Z",
+          "wordCount": 2050,
+          "title": "The New 2026 Microsoft Roadmap to Get You Hired – PREVIEW – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767524902_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-power-bi-turns-sharepoint-chaos-into-clarity",
+          "author": "Mirko Peters",
+          "description": "Summary Running How Power BI Turns SharePoint Chaos Into Clarity is about transforming your messy SharePoint lists into dashboards people actually use. In this episode, I walk through how to connect SharePoint lists in Power BI, clean up the mess with Power Query, and embed the results back into SharePoint so insights live where your […]",
+          "link": "https://365community.online/how-power-bi-turns-sharepoint-chaos-into-clarity",
+          "publishedOn": "2026-01-04T06:11:36.000Z",
+          "wordCount": 5943,
+          "title": "How Power BI Turns SharePoint Chaos Into Clarity",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767507096_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-t-sql-saves-you-from-begging-it",
+          "author": "Mirko Peters",
+          "description": "Summary Don’t wait on IT for every report — learn how How T-SQL Saves You From Begging IT gives you the power to ask your own data questions. In this episode, I strip away the mystique around SQL and T-SQL, show you that SELECT is safe and non-destructive, and teach you how to move from […]",
+          "link": "https://365community.online/how-t-sql-saves-you-from-begging-it",
+          "publishedOn": "2026-01-04T02:37:57.000Z",
+          "wordCount": 6087,
+          "title": "How T-SQL Saves You From Begging IT",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767494277_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/entra-id-the-conditional-chaos-engine-2",
           "author": "Mirko Peters",
@@ -75834,26 +75884,6 @@
           "wordCount": 3082,
           "title": "Deploy Web Resources and Plugin directly from Visual Studio using Kupp Code Analytics",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Analytics-capabilities-of-Kupp-Code-Analytics.png?fit=1199%2C671&ssl=1"
-        },
-        {
-          "id": "https://365community.online/%f0%9f%98%82-youtube",
-          "author": "Sourav Raj",
-          "description": "😂 source",
-          "link": "https://365community.online/%f0%9f%98%82-youtube",
-          "publishedOn": "2024-01-06T13:34:35.000Z",
-          "wordCount": 2876,
-          "title": "😂 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704652984_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/system-updates-in-sharepoint-from-power-automate-using-the-validateupdatelistitem-endpoint",
-          "author": "Pieter Veenstra",
-          "description": "Today I wanted to update Documents/Items without triggering other flows. The ValidateUpdateListItem endpoint in the REST API made this System Update possible. System Updates vs Updates Normally when an item […]",
-          "link": "https://365community.online/system-updates-in-sharepoint-from-power-automate-using-the-validateupdatelistitem-endpoint",
-          "publishedOn": "2024-01-05T16:36:40.000Z",
-          "wordCount": 3029,
-          "title": "System Updates in SharePoint from Power Automate using the ValidateUpdateListItem endpoint",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -82446,16 +82476,6 @@
           "wordCount": 3510,
           "title": "Transition to real time journeys – the time is now",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/09/WIN23_PRO_HP_Elite_Folio_Office_006.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/05/orchestrate-your-wfm-solution-with-dynamics-365-customer-service/",
-          "author": "Gopal Yuvaraj",
-          "description": "WFM holds together the intricate machinery of customer support, ensuring operational efficiency and exceptional customer experiences.\nThe post Orchestrate your WFM solution with Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/05/orchestrate-your-wfm-solution-with-dynamics-365-customer-service/",
-          "publishedOn": "2024-01-05T18:41:15.000Z",
-          "wordCount": 2955,
-          "title": "Orchestrate your WFM solution with Dynamics 365 Customer Service",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/MicrosoftTeams-image-D365.png"
         }
       ]
     },
@@ -83980,16 +84000,6 @@
           "wordCount": 2371,
           "title": "Project intercompany invoice sales tax calculation bug in 10.0.37",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjH1sCb4LjiUgZkq9cb5NtaWYLGg0D0UgQ0yVCibImRo6UHbE6ZxQgWf287kjgOBLPCsuMLV3O1u4Bq6tbill1FzgSgL4_7LdQZ6iXml-Rfg_wnOKkpINnuknaw-KVMcw8lLvspRpBVb9bEMXE-_WM3QVba705wBg7s6BkhyHIggHzwey48JbfUHjcttuY=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2024/01/check-your-data-via-sql.html",
-          "author": null,
-          "description": "Sometimes we need to check or validate some data in a dev box. The fastest way to do that is to run a query directly in MS SQL management studio.\nFor example, I have hundreds legal entities and want to know in which of them I have some Purchase orders. Voila:\n\n\n\n\n\n\n\nselect\ndataareaid as Company, count(RECID) as 'Number of PO'\nfrom PURCHTABLE\ngroup by DATAAREAID\nhaving count(RECID) > 1",
-          "link": "https://alexvoy.blogspot.com/2024/01/check-your-data-via-sql.html",
-          "publishedOn": "2024-01-05T23:30:00.007Z",
-          "wordCount": 2045,
-          "title": "Check your data via SQL",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjbA3YVJID1XfJrdMS4PmE_arKuJD-IijG4XmcVhRw9ux8ZdS5E30B2FB-Yqazg01JFTKserZx7nLqXVDv06zuAteScJb6ZZup_HwbAPsDIDg-ksJ83VPvaW34YIIEQNWXKMIGiSGAnuKh0jyZOu8EgZoviVibwzmfPpr-ocHxCjHhrkE85VMU1uZo3Sqc=w1200-h630-p-k-no-nu"
         }
       ]
     },
