@@ -2,18 +2,224 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-05T02:08:17.917Z</updated>
+    <updated>2026-01-06T01:58:45.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How Data Goblins Wreck Copilot For Everyone]]></title>
-        <id>https://365community.online/how-data-goblins-wreck-copilot-for-everyone</id>
-        <link href="https://365community.online/how-data-goblins-wreck-copilot-for-everyone"/>
-        <updated>2026-01-05T01:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Summary Deploying How Data Goblins Wreck Copilot For Everyone into an environment full of messy, outdated, and poorly labeled data is a recipe for disaster—“garbage in, polished garbage out.” In this episode, I break down how sloppy data practices turn Copilot into a hallucination engine rather than a helpful assistant. We talk about how mis-labeled […]]]></summary>
+        <title type="html"><![CDATA[The Power BI Gateway Horror Story No One Warned You About]]></title>
+        <id>https://365community.online/the-power-bi-gateway-horror-story-no-one-warned-you-about</id>
+        <link href="https://365community.online/the-power-bi-gateway-horror-story-no-one-warned-you-about"/>
+        <updated>2026-01-05T22:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Script 10: The Power BI Gateway Horror Story No One Warned You About 1. Introduction You know what’s horrifying? A gateway that works beautifully in your test tenant but collapses in production because one firewall rule was missed. That nightmare cost me a full weekend and two gallons of coffee. In this episode, I’m breaking […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Import Data into Business Central with Free Import Export PowerTool]]></title>
+        <id>https://erpsoftwareblog.com/?p=139068</id>
+        <link href="https://erpsoftwareblog.com/2026/01/import-data-into-business-central-with-free-import-export-powertool-2/"/>
+        <updated>2026-01-05T19:59:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Import Export PowerTool app from Insight Works streamlines your data migration process. This free app, designed for Microsoft Dynamics 365 Business Central, turbocharges your data migration and management tasks […]
+The post Import Data into Business Central with Free Import Export PowerTool appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+How Manufacturers Automate Preventive Maintenance with Business Central
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Mode Shipping Strategy is Essential for B2B Companies in 2026 - CloudLeap]]></title>
+        <id>https://erpsoftwareblog.com/?p=139447</id>
+        <link href="https://erpsoftwareblog.com/2026/01/multi-mode-shipping-strategy-is-essential-for-b2b-companies-in-2026-cloudleap/"/>
+        <updated>2026-01-05T19:35:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The logistics industry is experiencing unprecedented transformation. Between substantial carrier rate hikes averaging nearly 6% and significant market restructuring like FedEx's upcoming freight division separation, businesses must rethink their shipping […]
+The post Multi-Mode Shipping Strategy is Essential for B2B Companies in 2026 - CloudLeap appeared first on ERP Software Blog.
+18 Reasons to use Dynamics ERP Software for Formula Manufacturers
+Choosing the right Inventory Management WMS Supply Chain Platform
+Vyas Inside Sales & Counter Sales for D365: The key to provide acceleration to Wholesale Distributors]]></summary>
+        <author>
+            <name>Pranav Kode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Top Business Central Consultants in 2026: Features, Services & Expertise]]></title>
+        <id>https://erpsoftwareblog.com/?p=139435</id>
+        <link href="https://erpsoftwareblog.com/2026/01/top-business-central-consultants/"/>
+        <updated>2026-01-05T19:07:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Quick Blog Summary: The breakdown of top business central consultants in 2026 includes MetaOption, ArcherPoint, Velosio, Western Computer, Encore Business Solution, Synergy IT, and more. Collaborating with top Business […]
+The post 11 Top Business Central Consultants in 2026: Features, Services & Expertise appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Not Acceleration, It’s Architectural Erosion]]></title>
+        <id>https://365community.online/its-not-acceleration-its-architectural-erosion</id>
+        <link href="https://365community.online/its-not-acceleration-its-architectural-erosion"/>
+        <updated>2026-01-05T19:04:18.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics AI Agent Lie: It’s Not Acceleration, It’s Architectural Erosion This episode isn’t about whether Dynamics 365 Copilot works—it does. It’s about what it quietly dissolves. We explore how agentic assistance accelerates throughput while eroding the architectural joints that carry governance, accountability, and intent. Not through failures or breaches, but through drift: controls still […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Is Only as Smart as Your Data]]></title>
+        <id>https://erpsoftwareblog.com/?p=139437</id>
+        <link href="https://erpsoftwareblog.com/2026/01/ai-is-only-as-smart-as-your-data/"/>
+        <updated>2026-01-05T18:57:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Data Diagnosis Get Your Data Health Check and Plan Correct Data And Most Companies Are Teaching AI the Wrong Things Early in my consulting career, I worked on a large […]
+The post AI Is Only as Smart as Your Data appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Kati Hvidtfeldt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Business Central Reporting and Analytics Tools]]></title>
+        <id>https://erpsoftwareblog.com/?p=139087</id>
+        <link href="https://erpsoftwareblog.com/2026/01/choosing-the-right-business-central-reporting-and-analytics-tools/"/>
+        <updated>2026-01-05T18:35:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Month-end takes too long. Your “quick” Excel fixes now include formulas that feel impossible to maintain. Teams pull the same report and get different answers. And when leadership asks for […]
+The post A Practical Guide to Choosing the Right Business Central Reporting and Analytics Tools appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge
+How can Microsoft Dynamics help you move forward in 2019?]]></summary>
+        <author>
+            <name>Tigunia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a Plugin to Generate Auto-Number Values for Legacy and Reopened Records in Dynamics 365 / Dataverse]]></title>
+        <id>https://365community.online/using-a-plugin-to-generate-auto-number-values-for-legacy-and-reopened-records-in-dynamics-365-dataverse</id>
+        <link href="https://365community.online/using-a-plugin-to-generate-auto-number-values-for-legacy-and-reopened-records-in-dynamics-365-dataverse"/>
+        <updated>2026-01-05T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[In one of our recent Dynamics 365 / Dataverse projects, we ran into one issue with auto-number fields. We had configured an auto-number for the custom_id field on the Opportunity table. The format used a prefix of QU- followed by eight digits, resulting in IDs such as QU-00000133. Everything functioned correctly for newly created records, […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 ERP/CRM Software Blog Award Winners]]></title>
+        <id>https://erpsoftwareblog.com/?p=139415</id>
+        <link href="https://erpsoftwareblog.com/2026/01/2025-erp-crm-software-blog-award-winners/"/>
+        <updated>2026-01-05T16:38:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Each year, we recognize the VAR and ISV partners who do exactly that across ERP Software Blog, CRM Software Blog, and ERP Cloud Blog. These awards highlight the members whose content truly […]
+The post 2025 ERP/CRM Software Blog Award Winners appeared first on ERP Software Blog.
+Crestwood Makes Bob Scott’s VAR Stars List for a 5th Year
+Top Takeaways from Microsoft Inspire 2020 (Global Partner Conference)
+DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exam AB-731: AI Transformation Leader]]></title>
+        <id>https://365community.online/exam-ab-731-ai-transformation-leader</id>
+        <link href="https://365community.online/exam-ab-731-ai-transformation-leader"/>
+        <updated>2026-01-05T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[What better way to start 2026 then to talk about a Microsoft certification, especially one for a totally NEW type of user! Following on the steps of the other AB exams I’ve been writing about my experience with (see Exam AB-730: AI Business Professional, Exam AB-100: Agentic AI Business Solutions Architect and Exam AB-900: Microsoft […]]]></summary>
+        <author>
+            <name>thecrmninja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Interactive WordPress Theme Demo with Playground Blueprints]]></title>
+        <id>https://365community.online/how-to-build-an-interactive-wordpress-theme-demo-with-playground-blueprints</id>
+        <link href="https://365community.online/how-to-build-an-interactive-wordpress-theme-demo-with-playground-blueprints"/>
+        <updated>2026-01-05T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress Playground lets anyone launch a live WordPress site instantly — no hosting or installation required. It’s a quick, hands-on way to explore how a theme looks and behaves. You can open a fresh WordPress instance with a single link and start experimenting right away. If a theme is available in the WordPress repository, you […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Workflows Frontier Agent]]></title>
+        <id>https://365community.online/understanding-the-workflows-frontier-agent</id>
+        <link href="https://365community.online/understanding-the-workflows-frontier-agent"/>
+        <updated>2026-01-05T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Often, I hear that Copilot is not worth it or that there is not the business justification. Enter the Workflows Agent. The challenge is that Microsoft 365 brings powerful tools, but keeping up with everything still requires hours of swivel‑chair work. This can be manual work checking inboxes, reviewing Message Center posts, updating planners, and […]]]></summary>
+        <author>
+            <name>Peter Petersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use D365 SkipDataMethods]]></title>
+        <id>https://365community.online/how-to-use-d365-skipdatamethods</id>
+        <link href="https://365community.online/how-to-use-d365-skipdatamethods"/>
+        <updated>2026-01-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers in Microsoft Dynamics 365 for Finance and Operations can use the D365 skipDataMethods method to skip the record-specific code and allow the system to perform database operations in bulk. To execute database operations as quickly as possible, developers often use x++ SQL recordset operations such as insert_recordset, update_recordset, and delete_from. However, the system may… […]]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use D365 SkipDataMethods]]></title>
+        <id>https://dynamics365musings.com/?p=4457</id>
+        <link href="https://dynamics365musings.com/d365-skipdatamethods/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-skipdatamethods"/>
+        <updated>2026-01-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers in Microsoft Dynamics 365 for Finance and Operations can use the D365 skipDataMethods method to skip the record-specific code and allow the system to perform database operations in bulk. To execute database operations as quickly as possible, developers often use x++ SQL recordset operations such as insert_recordset, update_recordset, and delete_from. However, the system may... Continue Reading →
+The post How To Use D365 SkipDataMethods appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Certified Trainer for 2026]]></title>
+        <id>https://365community.online/microsoft-certified-trainer-for-2026</id>
+        <link href="https://365community.online/microsoft-certified-trainer-for-2026"/>
+        <updated>2026-01-05T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[I am pleased to announce the renewal of my Microsoft Certified Trainer for 2026 and as an MCT Community Lead for 2026. If you need training in Power Platform, Dynamics 365, AI and Agents then please get in touch. Original Post https://ukcrm.wordpress.com/2026/01/05/microsoft-certified-trainer-for-2026/]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 Microsoft exams passed]]></title>
+        <id>https://365community.online/100-microsoft-exams-passed</id>
+        <link href="https://365community.online/100-microsoft-exams-passed"/>
+        <updated>2026-01-05T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently passed the GitHub Foundations GH-900 exam and that was my 100th successful exam! This has been a target of mine as I said on a previous post, MB-820 exam experience. It has been a long journey since my first exam 70-300 in 2003 and I have seen many changes since I started with […]]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Leadership Thinks Copilot Is Useless (And Where the Numbers Back Them Up)]]></title>
+        <id>https://365community.online/why-leadership-thinks-copilot-is-useless-and-where-the-numbers-back-them-up</id>
+        <link href="https://365community.online/why-leadership-thinks-copilot-is-useless-and-where-the-numbers-back-them-up"/>
+        <updated>2026-01-05T12:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Why Leadership Thinks Copilot Is Useless (And Where the Numbers Back Them Up) feels like standing between two worlds: the marketing hype about AI changing everything, and leadership asking, “So where are the results?” In this episode, I tackle the harsh reality behind adoption dashboards: many leaders judge Copilot’s value by sign-in metrics […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Your Warehouse Ready for Automation? A Dynamics 365 Checklist]]></title>
+        <id>https://erpsoftwareblog.com/?p=139409</id>
+        <link href="https://erpsoftwareblog.com/2026/01/is-your-warehouse-ready-for-automation-a-dynamics-365-checklist/"/>
+        <updated>2026-01-05T10:40:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Warehouse automation is no longer a “nice-to-have.” For growing businesses, it has become a competitive necessity. Rising order volumes, shrinking delivery windows, labour shortages, and increasing customer expectations are forcing […]
+The post Is Your Warehouse Ready for Automation? A Dynamics 365 Checklist appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
@@ -69,6 +275,21 @@ Top 5 Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipm
         <summary type="html"><![CDATA[Summary Planning The Dataverse Migration Nobody Wants is more than a tech effort — it’s an organizational shift. In this episode, I walk through why teams procrastinate moving to Dataverse, and how to turn the migration from a dreaded burden into a strategic win. We’ll talk about what to audit first, how to map old […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse Automation Solutions for Manufacturing Using Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=139412</id>
+        <link href="https://erpsoftwareblog.com/2026/01/warehouse-automation-solutions-for-manufacturing-using-dynamics-365/"/>
+        <updated>2026-01-04T10:52:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manufacturing warehouses face immense pressure to deliver products faster, reduce errors, and maintain real-time inventory visibility. Manual processes, spreadsheets, and outdated systems can no longer keep up with the pace […]
+The post Warehouse Automation Solutions for Manufacturing Using Dynamics 365 appeared first on ERP Software Blog.
+Process, Discrete and Mixed Mode Manufacturing; 3 Business Issues - 3 Dynamic Solutions!
+Real Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP
+Stila Cosmetics Selects Dynamics ERP Over Oracle And Sage]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
@@ -107350,80 +107571,6 @@ Continue reading ‘OfflineAuthenticationAdminEmail overwritten’ »]]></summar
         <summary type="html"><![CDATA[In the previous posts, we covered the Overview and Key Features of Kupp Code Analytics, the installation and setup process of the extension, its Intellisense capabilities, and the analytics capabilities. In this blog post, we will […]]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get selected records in a grid on a form in D365FO]]></title>
-        <id>https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html</id>
-        <link href="https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html"/>
-        <updated>2024-01-07T06:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Purpose:
-The purpose of this document is to demonstrate how we can we Get selected records in a grid on a form  X++ based on a business logic.
-Product:
-Dynamics 365 for Finance and Operations.
-Development approach:
-Customization through CODE, we need to  get selected records in a grid on a form on clicked method to update values
-Development:
-Create a on clicked or clicked method to Get selected records in a grid on a form .
-
-
-
-
-
-
-
-To get selected record(s) in a grid in AX, we use the MultiSelectionHelper class. To achieve that, follow the steps below:
-1.  Create a command button on the form and override the clicked method.
-2.  Insert the code below:
-
-
-
-
-
-void clicked()
-{
-    MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();//Create instance of class
-    Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record
-    MyLinesTable                  tableLines; //Your table buffer
-    super();
-
-
-    selectionHelper.parmDataSource(MyLinesTable_DS); //Set the datasource
-    tableLines  = selectionHelper.getFirst(); //assign to table buffer the reference to selected record(s)
-
-
-    if (tableLines.RecId)
-    {
-        while (tableLines)
-        {
-            selectedRecords.add(tableLines);
-            ttsbegin;
-
-            tableLines.reason = "My Reason";
-            tableLines.update();
-            ttscommit;
-
-            tableLines = selectionHelper.getNext();
-
-            info(strFmt('Selected record.. %1',tableLines.myField));//Display selected record
-        }
-        MyLinesTable_DS.research();
-        MyLinesTable_DS.refresh();
-
-    }
-}]]></summary>
-        <author>
-            <name>D365 F&amp;O TechExpert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Throw behaviour in Xpp]]></title>
-        <id>https://automaly.com/posts/throw-behaviour-in-xpp/</id>
-        <link href="https://automaly.com/posts/throw-behaviour-in-xpp/"/>
-        <updated>2024-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Master X++ exception handling with practical examples showing the difference between error() and throw error() statements. Learn how throw affects transaction control and loop execution in Dynamics 365.]]></summary>
-        <author>
-            <name>luan52@outlook.com (Hi there, this is Max Nguyen)</name>
         </author>
     </entry>
     <entry>
