@@ -2,10 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-07T01:57:50.290Z</updated>
+    <updated>2026-01-08T01:58:20.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your SharePoint Content Map Is Lying to You]]></title>
+        <id>https://365community.online/your-sharepoint-content-map-is-lying-to-you</id>
+        <link href="https://365community.online/your-sharepoint-content-map-is-lying-to-you"/>
+        <updated>2026-01-08T01:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Quick question: if someone new joined your organization tomorrow, how long would it take them to find the files they need in SharePoint or Teams? Ten seconds? Ten minutes? Or never? The truth is, most businesses don’t actually know the answer. In this podcast, we’ll break down the three layers of content assessment most teams […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden AI Engine Inside .NET 10]]></title>
+        <id>https://365community.online/the-hidden-ai-engine-inside-net-10</id>
+        <link href="https://365community.online/the-hidden-ai-engine-inside-net-10"/>
+        <updated>2026-01-07T21:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Most people still think of ASP.NET Core as just another web framework… but what if I told you that inside .NET 10, there’s now an AI engine quietly shaping the way your apps think, react, and secure themselves? I’ll explain what I mean by “AI engine” in concrete terms, and which capabilities are conditional or […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Smarter Approach to Microsoft Licensing Optimization]]></title>
+        <id>https://erpsoftwareblog.com/?p=139587</id>
+        <link href="https://erpsoftwareblog.com/2026/01/a-smarter-approach-to-microsoft-licensing-optimization/"/>
+        <updated>2026-01-07T21:13:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Are You Paying Too Much for Microsoft Licensing? Microsoft licensing is one of those areas that rarely gets attention—until costs start to feel higher than expected. And by then, many […]
+The post A Smarter Approach to Microsoft Licensing Optimization appeared first on ERP Software Blog.
+Hassle Free Upgrades with Dynamics GP Resellers!
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
+        <author>
+            <name>Admiral Consulting Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Business Central Planning: Optimize Forecasting, Inventory, and Production Decisions]]></title>
+        <id>https://erpsoftwareblog.com/?p=139544</id>
+        <link href="https://erpsoftwareblog.com/2026/01/webinar-business-central-planning-optimize-forecasting-inventory-and-production-decisions/"/>
+        <updated>2026-01-07T19:44:41.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many Business Central users struggle to keep planning aligned with reality. Forecasts often miss actual usage, inventory levels drift, and planners spend hours digging through cards and worksheets to decide […]
+The post Webinar: Business Central Planning: Optimize Forecasting, Inventory, and Production Decisions appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Service Company Growth Strategies 2026: Resolutions to Power Up Your Firm]]></title>
+        <id>https://erpsoftwareblog.com/?p=139170</id>
+        <link href="https://erpsoftwareblog.com/2026/01/service-company-growth-strategies-2026-resolutions-to-power-up-your-firm/"/>
+        <updated>2026-01-07T19:31:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As we step into 2026, service firms everywhere are setting goals that go beyond “drink more water” and “hit the gym.” Instead, let’s talk about resolutions that will actually make […]
+The post Service Company Growth Strategies 2026: Resolutions to Power Up Your Firm appeared first on ERP Software Blog.
+Can the web client be your answer to a portal?
+Resource Usage in OMZY and why it is important for the Microsoft Dynamics 365 Business Central community
+What are Typical Profit Margins in the Services Industry?]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Foundational Lie of ‘Hire-to-Retire’]]></title>
+        <id>https://365community.online/the-foundational-lie-of-hire-to-retire</id>
+        <link href="https://365community.online/the-foundational-lie-of-hire-to-retire"/>
+        <updated>2026-01-07T18:26:53.000Z</updated>
+        <summary type="html"><![CDATA[The Foundational Lie of “Hire-to-Retire”Deconstructing the Architectural Debt of Modern HR Systems 🧠 Episode Summary Most organizations believe hire-to-retire is a lifecycle. It isn’t. It’s a story layered on top of fragmented systems making independent decisions at different speeds, with different definitions of truth. In this episode, we dismantle the hire-to-retire myth and expose what’s […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limit the Records in Sales order list page- D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4240</id>
+        <link href="https://anithasantosh.wordpress.com/2026/01/07/limit-the-records-in-sales-order-list-page-d365fo/"/>
+        <updated>2026-01-07T18:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to limit the number of sales orders in SO List Page? You can enable using the below parameter. Navigate to Accounts Receivable Parameter ->General -> Sales Setup Default value 0 disables the limit. As per the help … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limit the Records in Sales order list page- D365FO]]></title>
+        <id>https://365community.online/limit-the-records-in-sales-order-list-page-d365fo</id>
+        <link href="https://365community.online/limit-the-records-in-sales-order-list-page-d365fo"/>
+        <updated>2026-01-07T18:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to limit the number of sales orders in SO List Page? You can enable using the below parameter. Navigate to Accounts Receivable Parameter ->General -> Sales Setup Default value 0 disables the limit. As per the help text given , a recommended value of 1 to 200 can be given for optimal […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Beyond Tasks: Build Agentic Workflows – YouTube]]></title>
+        <id>https://365community.online/copilot-beyond-tasks-build-agentic-workflows-youtube</id>
+        <link href="https://365community.online/copilot-beyond-tasks-build-agentic-workflows-youtube"/>
+        <updated>2026-01-07T17:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Copilot Beyond Tasks: Build Agentic Workflows Get featured on the show by leaving us a Voice Mail: https://bit.ly/MIPVM    This episode explores practical ways to lift the quality of hybrid work through better tools, clearer communication, and smarter use of AI. Neil Fluester shares insights from years in unified communications, including how Copilot is evolving […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 Overcomes Manufacturing’s Raw Material Picking Challenges]]></title>
+        <id>https://erpsoftwareblog.com/?p=139571</id>
+        <link href="https://erpsoftwareblog.com/2026/01/how-dynamics-365-overcomes-manufacturings-raw-material-picking-challenges/"/>
+        <updated>2026-01-07T15:41:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Raw material picking fails quietly while you go about your business. A late pick here. A wrong lot there. Over time, those small issues slow production, disrupt schedules, and erode […]
+The post How Dynamics 365 Overcomes Manufacturing’s Raw Material Picking Challenges appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+GS1 Standards Boost Efficiency in D365 Supply Chain
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary]]></summary>
+        <author>
+            <name>enVista</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much does EDI cost for Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=139455</id>
+        <link href="https://erpsoftwareblog.com/2026/01/how-much-does-edi-cost-for-business-central/"/>
+        <updated>2026-01-07T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ When businesses begin evaluating electronic data interchange (EDI) for Dynamics 365 Business Central, the first question is almost always the same: How much does it cost? At first glance, EDI […]
+The post How much does EDI cost for Business Central? appeared first on ERP Software Blog.
+Start with a Small Investment to Add Barcode Technology to GP
+“Readers Digest” Version of the LEAN Enterprise
+Everything is Taxable until Proven Otherwise]]></summary>
+        <author>
+            <name>Rand Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Sales Table: 2 new performance improvements in 10.0.46]]></title>
+        <id>http://kurthatlevik.com/?p=4912</id>
+        <link href="https://kurthatlevik.com/2026/01/07/d365-sales-table-2-new-performance-improvements-in-10-0-46/"/>
+        <updated>2026-01-07T14:40:02.000Z</updated>
+        <summary type="html"><![CDATA[I see 2 new parameters in 10.0.46, that I think can improve the usability when searching for sales orders. The “Max. number of sales orders in list” is maximum number of sales orders that can be displayed in the All sales orders and Sales order details pages. A value of zero disables the limit. Microsoft … Continue reading D365 Sales Table: 2 new performance improvements in 10.0.46]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Sales Table: 2 new performance improvements in 10.0.46]]></title>
+        <id>https://365community.online/d365-sales-table-2-new-performance-improvements-in-10-0-46</id>
+        <link href="https://365community.online/d365-sales-table-2-new-performance-improvements-in-10-0-46"/>
+        <updated>2026-01-07T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[I see 2 new parameters in 10.0.46, that I think can improve the usability when searching for sales orders. The “Max. number of sales orders in list” is maximum number of sales orders that can be displayed in the All sales orders and Sales order details pages. A value of zero disables the limit. Microsoft […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No-Code vs. Pro-Code: Security Showdown]]></title>
+        <id>https://365community.online/no-code-vs-pro-code-security-showdown</id>
+        <link href="https://365community.online/no-code-vs-pro-code-security-showdown"/>
+        <updated>2026-01-07T14:37:23.000Z</updated>
+        <summary type="html"><![CDATA[If your Power App suddenly exposed sensitive data tomorrow, would you know why it happened—or how to shut it down? No-code feels faster, but hidden governance gaps can quietly stack risks. Pro-code offers more control, but with heavier responsibility. We’ll compare how each model handles security, governance, and operational risk so you can decide which […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Dirty Code Always Wins (Until It Doesn’t)]]></title>
+        <id>https://365community.online/why-dirty-code-always-wins-until-it-doesnt</id>
+        <link href="https://365community.online/why-dirty-code-always-wins-until-it-doesnt"/>
+        <updated>2026-01-07T11:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Ever notice how the fastest way to ship code is usually the messiest? Logging scattered across controllers, validation stuffed into random methods, and authentication bolted on wherever it happens to work. It feels fast in the moment, but before long the codebase becomes something no one wants to touch. Dirty code wins the short-term race, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINQ to SQL: Magic or Mayhem?]]></title>
+        <id>https://365community.online/linq-to-sql-magic-or-mayhem</id>
+        <link href="https://365community.online/linq-to-sql-magic-or-mayhem"/>
+        <updated>2026-01-07T07:34:02.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever written a LINQ query that worked perfectly in C#, but when you checked the SQL it generated, you wondered—how on earth did it get to *that*? In this session, you’ll learn three things in particular: how expression trees control translation, how caching shapes performance and memory use, and what to watch for […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easier Than It Looks? (Spoiler: No)]]></title>
+        <id>https://365community.online/easier-than-it-looks-spoiler-no</id>
+        <link href="https://365community.online/easier-than-it-looks-spoiler-no"/>
+        <updated>2026-01-07T03:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Admins, remember when Power BI Premium felt like your biggest headache? Overnight, you’re suddenly a Fabric Administrator, staring at domains, capacities, and tenant configs like a set of IKEA instructions written in Klingon. Microsoft says this makes things “simpler.” Our experience shows it just means fifty new moving parts you didn’t ask for. By the […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 10 Architectural Mandates That Stop Copilot Chaos]]></title>
         <id>https://365community.online/the-10-architectural-mandates-that-stop-copilot-chaos-2</id>
@@ -107481,288 +107676,6 @@ Top 5 ways Service Management Companies Are Losing Money - How You Can Fix It]]>
         <summary type="html"><![CDATA[Using Solution Health Hub we can validate the environment’s configuration, which might get modified over time, to get an idea about the state of that environment and detect and resolve […]]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Power Automate: What Type of Flow Are Available?]]></title>
-        <id>https://365community.online/working-with-power-automate-what-type-of-flow-are-available</id>
-        <link href="https://365community.online/working-with-power-automate-what-type-of-flow-are-available"/>
-        <updated>2024-01-09T11:00:04.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Slicer Visual in Power BI Report within Microsoft Dynamics 365 CRM]]></title>
-        <id>https://365community.online/new-slicer-visual-in-power-bi-report-within-microsoft-dynamics-365-crm</id>
-        <link href="https://365community.online/new-slicer-visual-in-power-bi-report-within-microsoft-dynamics-365-crm"/>
-        <updated>2024-01-09T10:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Power BI is an analytical tool to design interactive Reports, and dashboards using Visuals, which allows information to be collected from different types of Sources such as Dataverse, SQL, Excel […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recap of modern controls evolution in 2023 and a glimpse into 2024 innovations]]></title>
-        <id>recap-of-modern-controls-evolution-in-2023-and-a-glimpse-into-2024-innovations</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/recap-of-modern-controls-evolution-in-2023-and-a-glimpse-into-2024-innovations/"/>
-        <updated>2024-01-09T10:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Recap of modern controls evolution in 2023 and a glimpse into 2024 innovations]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to improve Stripe payments in Power Pages (CloudMinded)]]></title>
-        <id>https://365community.online/how-to-improve-stripe-payments-in-power-pages-cloudminded</id>
-        <link href="https://365community.online/how-to-improve-stripe-payments-in-power-pages-cloudminded"/>
-        <updated>2024-01-09T09:40:06.000Z</updated>
-        <summary type="html"><![CDATA[How to improve Stripe payments in Power Pages Continue Reading Olena Grischenko (she/her)’s Article on their blog How to improve Stripe payments in Power Pages (CloudMinded) Visit the post for more. […]]]></summary>
-        <author>
-            <name>Olena Grischenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 F&O Performance Optimization Tips & Tricks]]></title>
-        <id>https://erpsoftwareblog.com/?p=103012</id>
-        <link href="https://erpsoftwareblog.com/2024/01/microsoft-dynamics-365-fo-performance-optimization/"/>
-        <updated>2024-01-09T08:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Tips and tricks for faster D365 F&O performance Today, we're taking a closer look at the performance of Microsoft's Dynamics 365 F&O, an enterprise-grade ERP system that has evolved significantly. […]
-The post Dynamics 365 F&O Performance Optimization Tips & Tricks appeared first on ERP Software Blog.
-Let’s Play Follow the Leader! IT Leaders Adopt Software as a Service (SaaS) Offerings
-ACA Add-on Shields GP Users from IRS Sledgehammer, Tack Hammer
-Plan Offer Can Simplify ACA Reporting in Dynamics GP]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redirect After Preference Centre Submission]]></title>
-        <id>https://365community.online/redirect-after-preference-centre-submission</id>
-        <link href="https://365community.online/redirect-after-preference-centre-submission"/>
-        <updated>2024-01-09T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[I wrote about how to make your Preference Centre page look more in line with your organisations branding by adjusting the CSS and adding a few extra items to the […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleash a Startup’s Potential with Maps Integrated within Dynamics 365 CRM]]></title>
-        <id>https://365community.online/unleash-a-startups-potential-with-maps-integrated-within-dynamics-365-crm</id>
-        <link href="https://365community.online/unleash-a-startups-potential-with-maps-integrated-within-dynamics-365-crm"/>
-        <updated>2024-01-09T07:13:48.000Z</updated>
-        <summary type="html"><![CDATA[The post Unleash a Startup’s Potential with Maps Integrated within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Me trying to avoid ChatGPT while fixing the code – YouTube]]></title>
-        <id>https://365community.online/me-trying-to-avoid-chatgpt-while-fixing-the-code-youtube</id>
-        <link href="https://365community.online/me-trying-to-avoid-chatgpt-while-fixing-the-code-youtube"/>
-        <updated>2024-01-09T06:03:53.000Z</updated>
-        <summary type="html"><![CDATA[Me trying to avoid ChatGPT while fixing the code source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Dynamics 365 Finance and Operations for HR Users]]></title>
-        <id>https://paragchapre.com/?p=12328</id>
-        <link href="https://paragchapre.com/simplifying-dynamics-365-finance-and-operations-for-hr-users/"/>
-        <updated>2024-01-09T04:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Explore the option of changing the core product name and disabling irrelevant modules, creating a tailored experience focused solely on Human Resources functionality.
-The post Simplifying Dynamics 365 Finance and Operations for HR Users appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Dynamics 365 Finance and Operations for HR Users]]></title>
-        <id>https://paragchapre.com/?p=12328</id>
-        <link href="https://paragchapre.com/simplifying-dynamics-365-finance-and-operations-for-hr-users/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=simplifying-dynamics-365-finance-and-operations-for-hr-users"/>
-        <updated>2024-01-09T04:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Explore the option of changing the core product name and disabling irrelevant modules, creating a tailored experience focused solely on Human Resources functionality.
-The post Simplifying Dynamics 365 Finance and Operations for HR Users appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update purchparmline quantity field  from PurchEditLines Form through X++]]></title>
-        <id>https://d365fotechexpert.blogspot.com/2024/01/update-purchparmline-quantity-field.html</id>
-        <link href="https://d365fotechexpert.blogspot.com/2024/01/update-purchparmline-quantity-field.html"/>
-        <updated>2024-01-09T03:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Purpose: The purpose of this document is to demonstrate how we can we Update purchparmline quantity field through code
-Product:
-Dynamics 365 for Finance and Operations.
-Development approach:
-Customization through CODE, we need to  update receive now with remain after field from purch edit line form . user wants to update set of lines at a time insted of changing all lines individually.
-Development:
-Create a button , when user click on button with selected all line will update recive now quantity with remainafter values.
-
-
-
-
-[Extensionof(FormDataSourcestr(PurchEditLines, PurchParmTable))] 
-internal final class PurchEditLinesForm_Extension
-{
-  
-    [FormControlEventHandler(formControlStr(PurchEditLines, DefaultRemainderQuantity), FormControlEventType::Clicked)]
-    public static void DefaultRemainderQuantity_OnClicked(FormControl sender, FormControlEventArgs e)
-    {
-        FormRun fr = sender.formRun();
-        FormDataSource purchparmline_ds = fr.dataSource(formDataSourceStr(PurchEditLines, PurchParmLine)) as FormDataSource;
-
-
-        MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();
-        Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record
-        PurchParmLine                  tableLines;
-
-
-        selectionHelper.parmDataSource(PurchParmLine_DS); 
-        tableLines  = selectionHelper.getFirst(); 
-
-
-        if (tableLines.RecId)
-        {
-            while (tableLines)
-            {
-                selectedRecords.add(tableLines);
-                ttsbegin;
-                tableLines.ReceiveNow = tableLines.RemainAfter;
-                tableLines.RemainAfter = tableLines.RemainBefore - tableLines.ReceiveNow;
-                tableLines.doUpdate();
-                ttscommit;
-                tableLines = selectionHelper.getNext();
-            }
-            PurchParmLine_DS.research();
-            PurchParmLine_DS.refresh();
-        }
-
-
-    }
-
-
-
-}
-Form:Purch edit lines]]></summary>
-        <author>
-            <name>D365 F&amp;O TechExpert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Right Microsoft Dynamics Partner for Dynamics ERP Implementation]]></title>
-        <id>https://erpsoftwareblog.com/?p=102893</id>
-        <link href="https://erpsoftwareblog.com/2024/01/the-right-microsoft-dynamics-partner-for-dynamics-erp-implementation/"/>
-        <updated>2024-01-09T00:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Choosing an ERP solution is a significant business decision. It will be expensive, and you'll want it to operate optimally for a very long time to recoup your investment. Arguably, …  The Right Microsoft Dynamics Partner for Dynamics ERP Implementation Read More »
-The post The Right Microsoft Dynamics Partner for Dynamics ERP Implementation appeared first on ERP Software Blog.
-Insight Works Welcomes Interactive Interfaces into Partner Program Fold
-Insight Works Announces New Partner Acquisitions for September 2021
-Insight Works Kicks Off New Year with 10 New Partner Acquisitions for December ‘21]]></summary>
-        <author>
-            <name>Western Computer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to improve Stripe payments in Power Pages]]></title>
-        <id>https://365community.online/how-to-improve-stripe-payments-in-power-pages</id>
-        <link href="https://365community.online/how-to-improve-stripe-payments-in-power-pages"/>
-        <updated>2024-01-08T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA[My recent post, Anatomy of the Stripe payments in Power Pages, got some interest. I looked under the hood of this out-of-the-box integration and raised a few points on the […]]]></summary>
-        <author>
-            <name>Andrew Grischenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Reasons to Choose Microsoft Business Central in 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=103034</id>
-        <link href="https://erpsoftwareblog.com/2024/01/top-5-reasons-to-choose-microsoft-business-central-in-2024/"/>
-        <updated>2024-01-08T21:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Your legacy, on-premises solution helped you run your business for many years. However, in the era of digital transformation, modern cloud-based business solutions can help take your company to new …  Top 5 Reasons to Choose Microsoft Business Central in 2024 Read More »
-The post Top 5 Reasons to Choose Microsoft Business Central in 2024 appeared first on ERP Software Blog.
-Best Free Microsoft Business Central Apps
-Upgrade to Dynamics 365: What Version is Best for My Business?
-Why Upgrade to Dynamics 365 Business Central?]]></summary>
-        <author>
-            <name>iCepts Technology Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should .NET Developers Stick or Switch to Power Platform? – YouTube]]></title>
-        <id>https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube</id>
-        <link href="https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube"/>
-        <updated>2024-01-08T21:00:33.000Z</updated>
-        <summary type="html"><![CDATA[#153. Neil Benson is joined by Keith Atherton, a proper pro developer. Keith shares his journey from developing custom apps using .NET, C# and SQL Server to embracing and mastering […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should .NET Developers Stick or Switch to Power Platform?]]></title>
-        <id>https://365community.online/should-net-developers-stick-or-switch-to-power-platform</id>
-        <link href="https://365community.online/should-net-developers-stick-or-switch-to-power-platform"/>
-        <updated>2024-01-08T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#153.  Neil Benson is joined by Keith Atherton, a proper pro developer. Keith shares his journey from developing custom apps using .NET, C# and SQL Server to embracing and mastering […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2023]]></title>
-        <id>https://erpsoftwareblog.com/?p=103003</id>
-        <link href="https://erpsoftwareblog.com/2024/01/16-erp-software-blog-members-honored-as-bob-scotts-insights-var-stars-2023/"/>
-        <updated>2024-01-08T16:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Bob Scott has been covering the mid-market financial software community for nearly 30 years and is recognized as an expert in his field. Each year since 2009, he has published …  16 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2023 Read More »
-The post 16 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2023 appeared first on ERP Software Blog.
-Recurring Reports in Microsoft Dynamics 365 Business Central
-How to move from Microsoft Dynamics GP to Business Central in a few easy steps
-Microsoft Dynamics 365 Business Central vs QuickBooks]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO bacpac import – Unable to connect to target server localhost – Error occurred during the login process]]></title>
-        <id>https://365community.online/d365fo-bacpac-import-unable-to-connect-to-target-server-localhost-error-occurred-during-the-login-process</id>
-        <link href="https://365community.online/d365fo-bacpac-import-unable-to-connect-to-target-server-localhost-error-occurred-during-the-login-process"/>
-        <updated>2024-01-08T15:41:23.000Z</updated>
-        <summary type="html"><![CDATA[My team had an issue today when importing the bacpac in their devVM. Though the first issue was resolved with this fix , the import again ended up in the […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO bacpac import – Unable to connect to target server localhost – Error occurred during the login process]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3248</id>
-        <link href="https://anithasantosh.wordpress.com/2024/01/08/d365fo-bacpac-import-unable-to-connect-to-target-server-localhost-error-occurred-during-the-login-process/"/>
-        <updated>2024-01-08T15:41:23.000Z</updated>
-        <summary type="html"><![CDATA[My team had an issue today when importing the bacpac in their devVM. Though the first issue was resolved with this fix , the import again ended up in the error . What is the fix here : Pretty simple… … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use D365 Try Catch Statements]]></title>
-        <id>https://365community.online/how-to-use-d365-try-catch-statements</id>
-        <link href="https://365community.online/how-to-use-d365-try-catch-statements"/>
-        <updated>2024-01-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, learn how to add exception handling by using D365 try catch statements. Unexpected errors and exceptions can occur in any program. Without exception handling, when an error […]]]></summary>
-        <author>
-            <name>Peter Ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use D365 Try Catch Statements]]></title>
-        <id>https://dynamics365musings.com/?p=3349</id>
-        <link href="https://dynamics365musings.com/d365-try-catch-statements/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-try-catch-statements"/>
-        <updated>2024-01-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, learn how to add exception handling by using D365 try catch statements. Unexpected errors and exceptions can occur in any program. Without exception handling, when an error occurs the system will stop the process entirely. However, with the right code, you can ensure the system skips past invalid records and continues to... Continue Reading →
-The post How To Use D365 Try Catch Statements appeared first on Dynamics 365 Musings.]]></summary>
-        <author>
-            <name>peter.ramer</name>
         </author>
     </entry>
     <entry>
