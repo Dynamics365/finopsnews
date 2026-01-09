@@ -1367,6 +1367,66 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=139550",
+          "author": "Insight Works",
+          "description": "xxx\nFor manufacturers and assemble-to-order (ATO) businesses using Microsoft Dynamics 365 Business Central, managing product configurations and generating accurate BOMs and routings can be a manual, error-prone, and time-intensive process. As […]\nThe post EU Webinar: Simplify BOM Creation & Configuration Management in Dynamics 365 Business Central appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2026/01/eu-webinar-simplify-bom-creation-configuration-management-in-dynamics-365-business-central/",
+          "publishedOn": "2026-01-08T19:58:28.000Z",
+          "wordCount": null,
+          "title": "EU Webinar: Simplify BOM Creation & Configuration Management in Dynamics 365 Business Central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139620",
+          "author": "Chris Boling",
+          "description": "xxx\nChaos in field service doesn’t just create headaches - it costs real money. Missed appointments. Extra truck rolls. Overtime hours. Delayed invoices. Frustrated customers. I’ve watched as organizations work harder […]\nThe post AI Field Service Automation: From Chaos to Clarity appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/01/ai-field-service-automation/",
+          "publishedOn": "2026-01-08T19:56:53.000Z",
+          "wordCount": null,
+          "title": "AI Field Service Automation: From Chaos to Clarity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139610",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nGmail SMTP with OAuth 2.0 often fails in Business Central when Google or Microsoft silently blocks the sign‑in, even though basic SMTP or app passwords previously worked, creating real friction […]\nThe post Gmail SMTP OAuth 2.0 Fails in Business Central? 5-Step Fix for Seamless Emails appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/01/fix-gmail-smtp-oauth-2-0-fails-in-business-central/",
+          "publishedOn": "2026-01-08T12:28:25.000Z",
+          "wordCount": null,
+          "title": "Gmail SMTP OAuth 2.0 Fails in Business Central? 5-Step Fix for Seamless Emails",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139603",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nChoosing the right ERP for manufacturing isn’t about ticking software boxes—it’s about ensuring your factory can scale, control costs, and respond faster to market demand. Many manufacturers rush into ERP […]\nThe post Manufacturing ERP Checklist: Is Business Central Right for Your Factory? appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nCreate a Closed-Loop Analysis, Planning, and Reporting Process\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights",
+          "link": "https://erpsoftwareblog.com/2026/01/manufacturing-erp-checklist-is-business-central-right-for-your-factory/",
+          "publishedOn": "2026-01-08T10:03:27.000Z",
+          "wordCount": null,
+          "title": "Manufacturing ERP Checklist: Is Business Central Right for Your Factory?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139597",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nEnterprise Resource Planning systems are often positioned as the backbone of modern business operations. Microsoft Dynamics 365, in particular, provides a broad and flexible platform that supports finance, supply chain, sales, […]\nThe post Why ERP Integrations Fail and How to Design Them Right in Dynamics 365 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/why-erp-integrations-fail-and-how-to-design-them-right-in-dynamics-365/",
+          "publishedOn": "2026-01-08T09:22:43.000Z",
+          "wordCount": null,
+          "title": "Why ERP Integrations Fail and How to Design Them Right in Dynamics 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139594",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nEnterprise field service programs are won or lost on execution: first-time fix, schedule adherence, travel efficiency, parts availability, and the ability to close the loop between asset behavior and service […]\nThe post Top AI Features in Dynamics 365 Field Service That Matter for Enterprise Field Operations appeared first on ERP Software Blog.\nHow does proMX 365 Absence Management drive productivity across industries?\nTop 5 Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental\nHow to Improve Pricing Strategy: Stop Letting Spreadsheets & Your Ego Wreck Your Pricing Strategy",
+          "link": "https://erpsoftwareblog.com/2026/01/ai-features-dynamics-365-field-service/",
+          "publishedOn": "2026-01-08T08:20:51.000Z",
+          "wordCount": null,
+          "title": "Top AI Features in Dynamics 365 Field Service That Matter for Enterprise Field Operations",
+          "imageUrl": null
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=139587",
           "author": "Admiral Consulting Group",
           "description": "xxx\nAre You Paying Too Much for Microsoft Licensing? Microsoft licensing is one of those areas that rarely gets attention—until costs start to feel higher than expected. And by then, many […]\nThe post A Smarter Approach to Microsoft Licensing Optimization appeared first on ERP Software Blog.\nHassle Free Upgrades with Dynamics GP Resellers!\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?\n5 Benefits of Having a Certified Microsoft Dynamics GP Partner",
@@ -1515,6 +1575,16 @@
           "wordCount": 7705,
           "title": "Automate Reports with Fast Reporting in Business Central",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139607",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nYour sales team lives in Outlook.Emails, meetings, follow-ups, customer conversations—everything starts and ends there. Yet most sales teams still treat Outlook and CRM as two separate worlds. The result?Manual data […]\nThe post Is Your Sales Team Wasting Time in Outlook? Fix It with Dynamics 365 Integration appeared first on ERP Software Blog.\nThe Consumerization of Online B2B Sales\nMicrosoft Dynamics 365 for Sales Management\nHow Dynamics 365 Makes the Job of an Accountant Easier",
+          "link": "https://erpsoftwareblog.com/2026/01/is-your-sales-team-wasting-time-in-outlook-fix-it-with-dynamics-365-integration/",
+          "publishedOn": "2026-01-06T10:12:43.000Z",
+          "wordCount": null,
+          "title": "Is Your Sales Team Wasting Time in Outlook? Fix It with Dynamics 365 Integration",
+          "imageUrl": null
         },
         {
           "id": "https://erpsoftwareblog.com/?p=139501",
@@ -35225,56 +35295,6 @@
           "wordCount": 7540,
           "title": "Analyzing the Cost of Moving Microsoft Dynamics GP to Azure",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Maximizing-GP.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103074",
-          "author": "Dynamics Square USA",
-          "description": "Microsoft currently presents a duo of ERP-centric solutions: Dynamics 365 Business Central and Dynamics 365 for Finance and Operations, each tailored to meet diverse business needs. In this blog, we'll […]\nThe post Microsoft Business Central vs Dynamics 365 for Finance and Operations appeared first on ERP Software Blog.\nDevelop your Microsoft Dynamics GP Solution with the Developer Toolkit\nTop 5 Factors for Successful ERP Implementations from a Microsoft Partner Perspective\nAvoiding a Business Disaster After a Disaster Strikes: Recovery with the Cloud",
-          "link": "https://erpsoftwareblog.com/2024/01/business-central-vs-dynamics-365-finance-and-operations/",
-          "publishedOn": "2024-01-10T11:49:11.000Z",
-          "wordCount": 7443,
-          "title": "Microsoft Business Central vs Dynamics 365 for Finance and Operations",
-          "imageUrl": "https://www.dynamicssquare.com/_next/image/?url=%2Fimg%2Fmicrosoft-dynamics-365-business-central.png&w=3840&q=75"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=102947",
-          "author": "HSO",
-          "description": "Veranova, a globally recognized leader in active pharmaceutical ingredients (API) development and manufacturing, underwent a significant transformation with the consolidation of its seven Contract Development and Manufacturing Organization (CDMO) facilities […]\nThe post Veranova Achieves Seamless Integration of Seven CDMO Facilities in the US and UK onto a Unified Microsoft Dynamics 365 Platform within Nine Months appeared first on ERP Software Blog.\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\n4 Big Benefits of a Lead-to-Cash Solution for Rental Companies\n10 Reasons to Implement Dynamics 365 Commerce Now",
-          "link": "https://erpsoftwareblog.com/2024/01/veranova-achieves-seamless-integration-of-seven-cdmo-facilities-in-the-us-and-uk-onto-a-unified-microsoft-dynamics-365-platform-within-nine-months/",
-          "publishedOn": "2024-01-09T16:30:14.000Z",
-          "wordCount": 7495,
-          "title": "Veranova Achieves Seamless Integration of Seven CDMO Facilities in the US and UK onto a Unified Microsoft Dynamics 365 Platform within Nine Months",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103056",
-          "author": "StockIQ Technologies",
-          "description": "Demand management is a process that helps you forecast, plan, and meet customer demand for your products or services. It involves analyzing past data, current market trends, and future projections […]\nThe post Demand Management: Are You Getting the Best Demand Outcomes for Your Company? appeared first on ERP Software Blog.\nDemand forecasting: Find out how to do it the right way\nYour guide to choosing the best eCommerce solution: breaking down the ROI\nAllocation, Reservation and Ownership thru Mobility",
-          "link": "https://erpsoftwareblog.com/2024/01/demand-management-are-you-getting-the-best-demand-outcomes-for-your-company/",
-          "publishedOn": "2024-01-09T16:27:59.000Z",
-          "wordCount": 7654,
-          "title": "Demand Management: Are You Getting the Best Demand Outcomes for Your Company?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103050",
-          "author": "x2x eCommerce",
-          "description": "ERP systems have been evolving rapidly due to the extensive shift toward remote teams/work environments. The Evolving Role of ERP in Remote Work Environments is significant as the adaptation to […]\nThe post Evolving Role of ERP in Remote Work Environments appeared first on ERP Software Blog.\nWhy cloud-based solutions are increasingly popular?\nTop ERP Trends to Look for in 2024\nImportance of Historical ERP Data",
-          "link": "https://erpsoftwareblog.com/2024/01/evolving-role-of-erp-in-remote-work-environments/",
-          "publishedOn": "2024-01-09T14:31:45.000Z",
-          "wordCount": 7490,
-          "title": "Evolving Role of ERP in Remote Work Environments",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-38-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103037",
-          "author": "Vicinity Software",
-          "description": "In batch and process manufacturing, one of the most significant challenges is production scheduling. This process involves meticulously planning and organizing resources to ensure that products are manufactured on time […]\nThe post Vicinity’s New Microsoft Dynamics BC Batch and Process Manufacturing Features appeared first on ERP Software Blog.\nTracking Quality in the Manufacturing Process\nWarehouse Insight Now Available for Dynamics 365 Business Central\nTop 5 ways Service Management Companies Are Losing Money - How You Can Fix It",
-          "link": "https://erpsoftwareblog.com/2024/01/vicinitys-new-microsoft-dynamics-bc-batch-and-process-manufacturing-features/",
-          "publishedOn": "2024-01-09T14:29:35.000Z",
-          "wordCount": 7960,
-          "title": "Vicinity’s New Microsoft Dynamics BC Batch and Process Manufacturing Features",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-01-Vicinitys-New-Business-Central-Features-Help-Manufacturers-See-Production-Data-and-Deliver-On-Time_1200-x-628.png"
         }
       ]
     },
@@ -35283,6 +35303,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=72255",
+          "author": "Aran Cameron",
+          "description": "Copilot vs Agents: What’s the Difference and How They Work Together to Transform Your Business\nIf you’re planning your organization’s AI strategy, you’ve likely heard of Microsoft Copilot and Agents. Both are powerful AI tools designed to increase productivity and automate business processes; however, they serve different purposes and offer distinct benefits. Organizations are investing heavily in AI, and Microsoft is leading the way with Copilot and Agents. Yet with...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/copilot-vs-agents/",
+          "publishedOn": "2026-01-08T21:33:45.000Z",
+          "wordCount": 2370,
+          "title": "Copilot vs Agents: What’s the Difference and How They Work Together to Transform Your Business",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2026/01/Copilot-vs-Agents-LI-1024x761.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=56196",
           "author": "Alfred Selvarajah",
@@ -36781,12 +36811,102 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/automate-testing-with-automation-tools",
+          "author": "Mirko Peters",
+          "description": "Ever fix a single line of code, deploy it, and suddenly two other features break that had nothing to do with your change? It happens more often than teams admit. Quick question before we get started—drop a comment below and tell me which layer of testing you actually trust the most. I’m curious to see […]",
+          "link": "https://365community.online/automate-testing-with-automation-tools",
+          "publishedOn": "2026-01-08T23:39:34.000Z",
+          "wordCount": 5751,
+          "title": "Automate Testing with Automation Tools",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767915574_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stop-using-entity-framework-like-this",
+          "author": "Mirko Peters",
+          "description": "If you’re using Entity Framework only to mirror your database tables into DTOs, you’re missing most of what it can actually do. That’s like buying an electric car and never driving it—just plugging your phone into the charger. No wonder so many developers end up frustrated, or decide EF is too heavy and switch to […]",
+          "link": "https://365community.online/stop-using-entity-framework-like-this",
+          "publishedOn": "2026-01-08T19:57:17.000Z",
+          "wordCount": 5507,
+          "title": "Stop Using Entity Framework Like This",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767902237_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-choose-wordpress-hosting-a-guide-for-any-skill-level",
+          "author": "Belinda Allen",
+          "description": "If you want a website, you need hosting — a place to store your site files so people can access your pages.  Even though WordPress can run on almost any server, the hosting environment you choose affects performance, stability, security, and how much technical work you’re responsible for. This guide gives you a simple framework […]",
+          "link": "https://365community.online/how-to-choose-wordpress-hosting-a-guide-for-any-skill-level",
+          "publishedOn": "2026-01-08T16:36:00.000Z",
+          "wordCount": 4141,
+          "title": "How to Choose WordPress Hosting: A Guide for Any Skill Level",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/How-to-Choose-WordPress-Hosting-A-Guide-for-Any-Skill.jpg?fit=1175%2C740&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-every-company-needs-an-ai-stewardship-program-and-how-to-build-one",
+          "author": "Mirko Peters",
+          "description": "Most organizations believe AI governance is about policies and controls. It’s not. AI governance fails because policies don’t make decisions—people do. In this episode, we argue that winning organizations move beyond governance theater and adopt AI Stewardship: continuous human ownership of AI intent, behavior, and outcomes. Using Microsoft’s AI ecosystem—Entra, Purview, Copilot, and Responsible AI—as […]",
+          "link": "https://365community.online/why-every-company-needs-an-ai-stewardship-program-and-how-to-build-one",
+          "publishedOn": "2026-01-08T16:15:07.000Z",
+          "wordCount": 2587,
+          "title": "Why Every Company Needs an AI Stewardship Program — and How to Build One",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/b63b4f4588e707fdc00dd9a1bd494d43.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/5-sales-strategies-built-for-real-world-results",
+          "author": null,
+          "description": "Confessions of a Sales Rep Who’s Been There Hi, I’m Zack, a senior Sales Rep, and let me start with a confession. I’ve driven 40 minutes for a meeting that got canceled. I’ve visited two prospects five minutes apart… on different days. I’ve lost deals not because the product wasn’t good, but because I was […]",
+          "link": "https://365community.online/5-sales-strategies-built-for-real-world-results",
+          "publishedOn": "2026-01-08T12:53:00.000Z",
+          "wordCount": 3462,
+          "title": "5 Sales Strategies Built for Real-World Results",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/5-Sales-Strategies-Built-for-Real-World-Results.png?fit=1400%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-cloud-promise-is-broken",
+          "author": "Mirko Peters",
+          "description": "You’ve probably heard the promise: move to the cloud and you’ll get speed, savings, and security in one neat package. But here’s the truth—many organizations don’t see all those benefits at the same time. Why? Because the cloud isn’t a destination. It’s a moving target. Services change, pricing shifts, and new features roll out faster […]",
+          "link": "https://365community.online/the-cloud-promise-is-broken",
+          "publishedOn": "2026-01-08T12:34:38.000Z",
+          "wordCount": 5813,
+          "title": "The Cloud Promise Is Broken",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767875678_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-ai-is-transforming-business-decision-making",
+          "author": "Vikash Perumal",
+          "description": "Artificial Intelligence is helping businesses make faster, smarter decisions by analyzing large datasets, predicting trends, and automating insights. From marketing to operations, AI is becoming a key driver of efficiency and growth. The post How AI Is Transforming Business Decision-Making first appeared on GeoDataTek. Original Post https://geodatatek.com/blog/how-ai-is-transforming-business-decision-making#utm_source=rss&utm_medium=rss&utm_campaign=how-ai-is-transforming-business-decision-making",
+          "link": "https://365community.online/how-ai-is-transforming-business-decision-making",
+          "publishedOn": "2026-01-08T08:59:00.000Z",
+          "wordCount": 2051,
+          "title": "How AI Is Transforming Business Decision-Making",
+          "imageUrl": "https://365community.online/wp-content/uploads/2023/09/Unlocking-Multi-Store-Growth-Managing-Multiple-E-commerce-Stores-with-BigCommerce.svg.svg+xml"
+        },
+        {
+          "id": "https://365community.online/quantum-code-isnt-magic-its-debuggable",
+          "author": "Mirko Peters",
+          "description": "Quantum computing feels like something only physicists in lab coats deal with, right? But what if I told you that today, from your own laptop, you can actually write code in Q# and send it to a physical quantum computer in the cloud? By the end of this session, you’ll run a simple Q# program […]",
+          "link": "https://365community.online/quantum-code-isnt-magic-its-debuggable",
+          "publishedOn": "2026-01-08T08:53:36.000Z",
+          "wordCount": 5983,
+          "title": "Quantum Code Isn’t Magic—It’s Debuggable",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767862417_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/build-azure-apps-without-writing-boilerplate",
+          "author": "Mirko Peters",
+          "description": "How many hours have you lost wrestling with boilerplate code just to get an Azure app running? Most developers can point to days spent setting up configs, wiring authentication, or fighting with deployment scripts before writing a single useful line of code. Now, imagine starting with a prompt instead. In this session, I’ll show a […]",
+          "link": "https://365community.online/build-azure-apps-without-writing-boilerplate",
+          "publishedOn": "2026-01-08T05:10:52.000Z",
+          "wordCount": 5530,
+          "title": "Build Azure Apps WITHOUT Writing Boilerplate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767849052_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/your-sharepoint-content-map-is-lying-to-you",
           "author": "Mirko Peters",
           "description": "Quick question: if someone new joined your organization tomorrow, how long would it take them to find the files they need in SharePoint or Teams? Ten seconds? Ten minutes? Or never? The truth is, most businesses don’t actually know the answer. In this podcast, we’ll break down the three layers of content assessment most teams […]",
           "link": "https://365community.online/your-sharepoint-content-map-is-lying-to-you",
           "publishedOn": "2026-01-08T01:36:57.000Z",
-          "wordCount": 5927,
+          "wordCount": 5952,
           "title": "Your SharePoint Content Map Is Lying to You",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1767836217_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
@@ -76124,36 +76244,6 @@
           "wordCount": 3066,
           "title": "Overview of Third-Party Form Builder (Voice of Customer) Applications that Integrate with Dynamics 365/Power Platform",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/06/Migration-of-SLAs-in-Dynamics-365.png?fit=512%2C512&ssl=1"
-        },
-        {
-          "id": "https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json",
-          "author": "michelcarlo",
-          "description": "This post is based on a recent question that I got from a blog reader in a blog post related to List Formatting and setting field values: I am trying […]",
-          "link": "https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json",
-          "publishedOn": "2024-01-09T23:16:00.000Z",
-          "wordCount": 3215,
-          "title": "Setting a SharePoint Date only field value to the current date using List Formatting JSON",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/SetDate.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/enhanced-mobile-experiencepreview-for-d365-field-service-youtube",
-          "author": "Dian Taylor",
-          "description": "Enhanced mobile experience(preview) for D365 Field Service There is a new preview feature in Dynamics 365 Field Service, which allows you to take the new mobile experience for a test […]",
-          "link": "https://365community.online/enhanced-mobile-experiencepreview-for-d365-field-service-youtube",
-          "publishedOn": "2024-01-09T16:37:14.000Z",
-          "wordCount": 3010,
-          "title": "Enhanced mobile experience(preview) for D365 Field Service – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704831688_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/use-solution-health-hub-to-troubleshoot-issues-in-dynamics-365-apps-sales-marketing-field-service-customer-service",
-          "author": "Nishant Rana",
-          "description": "Using Solution Health Hub we can validate the environment’s configuration, which might get modified over time, to get an idea about the state of that environment and detect and resolve […]",
-          "link": "https://365community.online/use-solution-health-hub-to-troubleshoot-issues-in-dynamics-365-apps-sales-marketing-field-service-customer-service",
-          "publishedOn": "2024-01-09T14:00:00.000Z",
-          "wordCount": 3096,
-          "title": "Use Solution Health Hub to troubleshoot issues in Dynamics 365 Apps (Sales, Marketing, Field Service, Customer Service..)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Use-Solution-Health-Hub-to-troubleshoot-issues-in-Dynamics-365.jpeg?fit=1200%2C797&ssl=1"
         }
       ]
     },
@@ -77347,16 +77437,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/10/collagev2.jpg"
-        },
-        {
-          "id": "http://dynamicsax-fico.com/?p=5673",
-          "author": "Ludwig Reinhard",
-          "description": "Visit the post for more.",
-          "link": "https://dynamicsax-fico.com/2024/01/09/copilot-studio-bots-an-alternative-to-workflows-or-the-better-workflow-engine/",
-          "publishedOn": "2024-01-09T17:16:52.000Z",
-          "wordCount": 3259,
-          "title": "Copilot Studio bots an alternative to workflows or the better workflow engine?",
-          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/01/pictureenglish.jpg"
         }
       ]
     },
@@ -80067,16 +80147,6 @@
           "wordCount": 4145,
           "title": "D365 eCommerce : Let’s talk about WEBP",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2024/02/image-4.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4559",
-          "author": "Kurt Hatlevik",
-          "description": "Exciting news from Microsoft has just landed a new preview feature, and it’s all about making our Dynamics 365 environment cleaner, more efficient, and compliant. In a recent Yammer post, Microsoft announced a significant upgrade to the storage capacity experience in the Power Platform Admin Center (PPAC) for Finance and Operations. This new (preview) feature … Continue reading D365 new year.  Let’s take the trash out.",
-          "link": "https://kurthatlevik.com/2024/01/10/d365-new-year-lets-take-the-trash-out/",
-          "publishedOn": "2024-01-10T12:09:15.000Z",
-          "wordCount": 3754,
-          "title": "D365 new year.  Let’s take the trash out.",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2024/01/blogpost2.jpg"
         }
       ]
     },
@@ -82756,16 +82826,6 @@
           "wordCount": 4181,
           "title": "Shaping the future of retail with AI and Dynamics 365",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/Social.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/09/transition-to-real-time-journeys-the-time-is-now/",
-          "author": "Vinay Deo",
-          "description": "Dynamics 365 Customer Insights and Dynamics 365 Marketing are coming together as one offering named Dynamics 365 Customer Insights, an AI driven solution which revolutionizes your customers’ experiences. \nThe post Transition to real time journeys – the time is now  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/09/transition-to-real-time-journeys-the-time-is-now/",
-          "publishedOn": "2024-01-09T17:22:41.000Z",
-          "wordCount": 3510,
-          "title": "Transition to real time journeys – the time is now",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/09/WIN23_PRO_HP_Elite_Folio_Office_006.png"
         }
       ]
     },
@@ -83480,66 +83540,6 @@
           "wordCount": 3174,
           "title": "Azure DevOps for Functional consultant: Part-2: Learning Path to Become Functional Consultant:FC-004",
           "imageUrl": "http://img.youtube.com/vi/hqq4yHy6qIM/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2798",
-          "author": "Saurabh Bharti",
-          "description": "Let’s kick off the year by exploring a noteworthy feature with potential significance from a taxation standpoint. Now, you have the capability to specify item sales tax information at the variant level. Prior to this enhancement, the option to default item sales tax groups was available only at the product master level. Imagine a scenario […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/new-feature-item-sales-tax-group-at-product-variant-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2024-01-10T04:35:14.000Z",
-          "wordCount": 3173,
-          "title": "[New Feature] Item Sales tax group at Product variant in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/kBsLVGwzw0s/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2795",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. Business requirements form the fundamental cornerstone for solution design, and it falls within the purview of a functional consultant to oversee the end-to-end process of gathering these requirements. In light of this responsibility, I’ve segmented this comprehensive activity into multiple parts for […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/requirement-gathering-part-1-learning-path-to-become-functional-consultantfc-003/",
-          "publishedOn": "2024-01-10T04:33:18.000Z",
-          "wordCount": 3156,
-          "title": "Requirement Gathering: Part-1: Learning Path to Become Functional Consultant:FC-003",
-          "imageUrl": "http://img.youtube.com/vi/gYZJy4h5lrI/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2792",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In our previous discussion, we delved into the significance of project phases and methodology for a functional consultant. Now, let’s narrow our focus to specific phases. In this video, I will explore the “Initiate” phase, a pivotal component for functional consultants, with […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/solution-design-pillars-learning-path-to-become-functional-consultantfc-002/",
-          "publishedOn": "2024-01-10T04:31:10.000Z",
-          "wordCount": 3134,
-          "title": "Solution Design Pillars: Learning Path to Become Functional Consultant:FC-002",
-          "imageUrl": "http://img.youtube.com/vi/lc3DdEc42rc/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2786",
-          "author": "Saurabh Bharti",
-          "description": "After receiving positive feedback on the initial video, “Path to Become a Functional Consultant,” I’ve been contemplating starting this series for quite some time. I firmly believe that for a functional consultant, the ratio is 30:70 – 30% product knowledge and 70% other essential skills. This series is dedicated to exploring that crucial 70%. This […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/learning-path-to-become-functional-consultant-project-phases-and-methodology-overviewfc-001/",
-          "publishedOn": "2024-01-10T04:28:51.000Z",
-          "wordCount": 3140,
-          "title": "Learning Path To Become Functional Consultant: Project Phases and Methodology overview:FC-001",
-          "imageUrl": "http://img.youtube.com/vi/77yeMCkxAoA/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2783",
-          "author": "Saurabh Bharti",
-          "description": "Did you observe the item number dropdown on Purchase order, Sales order or purchase requisition line, how the search works on that dropdown by entering any keyword? Dynamics 365 Finance and Operations offers a robust item search criteria functionality, empowering users to streamline their product exploration process. #d365 #dynamics #d365fo #d365 #microsoft #microsoftdynamics #microsoftdynamics365 #d365bc",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/search-criteria-item-customer-search-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2024-01-10T04:24:47.000Z",
-          "wordCount": 3049,
-          "title": "Search criteria [Item/Customer Search] in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/IQPnMaLu_f0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2779",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the subsequent segment of the inventory valuation series. Up to this point, I’ve delved into three valuation methods: Weighted Average, FIFO, and LIFO. In today’s video, I will explore value adjustment without affecting quantity. Often, discrepancies arise in the valuation of received inventory. Such discrepancies can stem from data entry errors or other […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/inventory-value-adjustments-in-microsoft-dynamics-365-finance-and-operations-part-4/",
-          "publishedOn": "2024-01-10T04:22:25.000Z",
-          "wordCount": 3125,
-          "title": "Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4",
-          "imageUrl": "http://img.youtube.com/vi/TZX7NM7Wh94/0.jpg"
         }
       ]
     },
@@ -84107,66 +84107,6 @@
           "wordCount": 3174,
           "title": "Azure DevOps for Functional consultant: Part-2: Learning Path to Become Functional Consultant:FC-004",
           "imageUrl": "http://img.youtube.com/vi/hqq4yHy6qIM/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2798",
-          "author": "Saurabh Bharti",
-          "description": "Let’s kick off the year by exploring a noteworthy feature with potential significance from a taxation standpoint. Now, you have the capability to specify item sales tax information at the variant level. Prior to this enhancement, the option to default item sales tax groups was available only at the product master level. Imagine a scenario […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/new-feature-item-sales-tax-group-at-product-variant-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2024-01-10T04:35:14.000Z",
-          "wordCount": 3173,
-          "title": "[New Feature] Item Sales tax group at Product variant in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/kBsLVGwzw0s/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2795",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. Business requirements form the fundamental cornerstone for solution design, and it falls within the purview of a functional consultant to oversee the end-to-end process of gathering these requirements. In light of this responsibility, I’ve segmented this comprehensive activity into multiple parts for […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/requirement-gathering-part-1-learning-path-to-become-functional-consultantfc-003/",
-          "publishedOn": "2024-01-10T04:33:18.000Z",
-          "wordCount": 3156,
-          "title": "Requirement Gathering: Part-1: Learning Path to Become Functional Consultant:FC-003",
-          "imageUrl": "http://img.youtube.com/vi/gYZJy4h5lrI/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2792",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In our previous discussion, we delved into the significance of project phases and methodology for a functional consultant. Now, let’s narrow our focus to specific phases. In this video, I will explore the “Initiate” phase, a pivotal component for functional consultants, with […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/solution-design-pillars-learning-path-to-become-functional-consultantfc-002/",
-          "publishedOn": "2024-01-10T04:31:10.000Z",
-          "wordCount": 3134,
-          "title": "Solution Design Pillars: Learning Path to Become Functional Consultant:FC-002",
-          "imageUrl": "http://img.youtube.com/vi/lc3DdEc42rc/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2786",
-          "author": "Saurabh Bharti",
-          "description": "After receiving positive feedback on the initial video, “Path to Become a Functional Consultant,” I’ve been contemplating starting this series for quite some time. I firmly believe that for a functional consultant, the ratio is 30:70 – 30% product knowledge and 70% other essential skills. This series is dedicated to exploring that crucial 70%. This […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/learning-path-to-become-functional-consultant-project-phases-and-methodology-overviewfc-001/",
-          "publishedOn": "2024-01-10T04:28:51.000Z",
-          "wordCount": 3140,
-          "title": "Learning Path To Become Functional Consultant: Project Phases and Methodology overview:FC-001",
-          "imageUrl": "http://img.youtube.com/vi/77yeMCkxAoA/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2783",
-          "author": "Saurabh Bharti",
-          "description": "Did you observe the item number dropdown on Purchase order, Sales order or purchase requisition line, how the search works on that dropdown by entering any keyword? Dynamics 365 Finance and Operations offers a robust item search criteria functionality, empowering users to streamline their product exploration process. #d365 #dynamics #d365fo #d365 #microsoft #microsoftdynamics #microsoftdynamics365 #d365bc",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/search-criteria-item-customer-search-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2024-01-10T04:24:47.000Z",
-          "wordCount": 3049,
-          "title": "Search criteria [Item/Customer Search] in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/IQPnMaLu_f0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2779",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the subsequent segment of the inventory valuation series. Up to this point, I’ve delved into three valuation methods: Weighted Average, FIFO, and LIFO. In today’s video, I will explore value adjustment without affecting quantity. Often, discrepancies arise in the valuation of received inventory. Such discrepancies can stem from data entry errors or other […]",
-          "link": "https://exploredynamics365.home.blog/2024/01/10/inventory-value-adjustments-in-microsoft-dynamics-365-finance-and-operations-part-4/",
-          "publishedOn": "2024-01-10T04:22:25.000Z",
-          "wordCount": 3125,
-          "title": "Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4",
-          "imageUrl": "http://img.youtube.com/vi/TZX7NM7Wh94/0.jpg"
         }
       ]
     },
