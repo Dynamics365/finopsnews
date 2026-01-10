@@ -2,10 +2,187 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-09T02:00:02.129Z</updated>
+    <updated>2026-01-10T01:55:44.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Debunking the Hire-to-Retire Myth in HR Systems]]></title>
+        <id>https://365community.online/debunking-the-hire-to-retire-myth-in-hr-systems</id>
+        <link href="https://365community.online/debunking-the-hire-to-retire-myth-in-hr-systems"/>
+        <updated>2026-01-10T01:24:58.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,560Most believe, higher to retire is a smooth life cycle. 200:00:02,560 –> 00:00:03,400It is not. 300:00:03,400 –> 00:00:08,160Architecturally, it’s a transactional relic trying to govern dynamic cross-system reality. 400:00:08,160 –> 00:00:12,480If your HR team debugs power automate flows more than they design policy, this episode 500:00:12,480 –> 00:00:13,480is about you. 600:00:13,480 –> 00:00:16,480Today, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Multi-Agent Orchestration: Enforce Determinism, Unlock ROI]]></title>
+        <id>https://365community.online/microsoft-copilot-multi-agent-orchestration-enforce-determinism-unlock-roi</id>
+        <link href="https://365community.online/microsoft-copilot-multi-agent-orchestration-enforce-determinism-unlock-roi"/>
+        <updated>2026-01-09T21:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Enforce Determinism. Unlock ROI. Agent sprawl isn’t innovation. It’s unmanaged entropy. Most organizations believe that shipping more Copilot agents equals more automation. In reality, uncontrolled multi-agent systems create ambiguity, governance debt, and irreproducible behavior—making ROI impossible to prove and compliance impossible to defend. In this episode, we break the comforting myth of “AI assistants” and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Operational Planning: Streamlining Forecasting, Purchasing, and Production]]></title>
+        <id>https://erpsoftwareblog.com/?p=139557</id>
+        <link href="https://erpsoftwareblog.com/2026/01/business-central-operational-planning-streamlining-forecasting-purchasing-and-production/"/>
+        <updated>2026-01-09T20:18:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Operational planning in Microsoft Dynamics 365 Business Central often requires teams to move between several tools to understand demand, evaluate stocking levels, review purchasing needs, and assess production readiness. This […]
+The post Business Central Operational Planning: Streamlining Forecasting, Purchasing, and Production appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How EFOQUS Solves AP Inefficiencies Using Document Capture in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=138485</id>
+        <link href="https://erpsoftwareblog.com/2026/01/how-efoqus-solves-ap-inefficiencies-using-document-capture-in-business-central/"/>
+        <updated>2026-01-09T18:56:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For finance teams juggling growing volumes of invoices, manual data entry can feel like a never-ending task. It’s not just time-consuming, it also opens the door to errors and delays. […]
+The post How EFOQUS Solves AP Inefficiencies Using Document Capture in Business Central appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Don’t Stop the Flow: Managing a Job Shop]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Strategic Path to Digital Transformation: Leveraging Microsoft Dynamics 365 with DAX Software Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=139626</id>
+        <link href="https://erpsoftwareblog.com/2026/01/the-strategic-path-to-digital-transformation-leveraging-microsoft-dynamics-365-with-dax-software-solutions/"/>
+        <updated>2026-01-09T18:23:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the modern corporate landscape, the efficiency of an organization is often dictated by the strength of its digital foundation. Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) systems are no longer just […]
+The post The Strategic Path to Digital Transformation: Leveraging Microsoft Dynamics 365 with DAX Software Solutions  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Platform is Rotting from the Inside]]></title>
+        <id>https://365community.online/why-your-platform-is-rotting-from-the-inside</id>
+        <link href="https://365community.online/why-your-platform-is-rotting-from-the-inside"/>
+        <updated>2026-01-09T18:05:41.000Z</updated>
+        <summary type="html"><![CDATA[It’s 03:47 UTC. The IT team is asleep—but the platform isn’t. In this episode, we explore a familiar late-night mystery in modern IT: unexplained SharePoint lists, silent permission changes, failing Power Automate flows, and the slow accumulation of governance debt. What starts as a few harmless “test” artifacts quickly reveals deeper structural issues hiding inside […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tax changes in 2026: What you need to know]]></title>
+        <id>https://erpsoftwareblog.com/?p=139637</id>
+        <link href="https://erpsoftwareblog.com/2026/01/tax-changes-in-2026-what-you-need-to-know/"/>
+        <updated>2026-01-09T17:13:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+There were oodles of tax changes in 2025, and 2026 promises more of the same. In the United States, many states facing budget gaps will be looking for ways to […]
+The post Tax changes in 2026: What you need to know appeared first on ERP Software Blog.
+The Top 3 Reasons Financing Your Microsoft Accounting Software Can Benefit Your Organization
+6 Important Guidelines on Selecting the Best Accounting Software and Reseller
+Service Level Agreements For Accounting Software Users]]></summary>
+        <author>
+            <name>Avalara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Won't Connect to Business Central V27+? Reconnect Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=139625</id>
+        <link href="https://erpsoftwareblog.com/2026/01/power-bi-wont-connect-to-business-central-v27-reconnect-guide/"/>
+        <updated>2026-01-09T16:25:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Struggling with Power BI failing to connect to Dynamics 365 Business Central version 27 or later, even after working with a trusted Business Central partner? This comprehensive guide provides step-by-step […]
+The post Power BI Won't Connect to Business Central V27+? Reconnect Guide appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attachments in D365FO Made Easier]]></title>
+        <id>https://ax.docentric.com/?p=33314</id>
+        <link href="https://ax.docentric.com/attachments-in-d365fo-made-easier/"/>
+        <updated>2026-01-09T14:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Attachments in Dynamics 365 Finance and Operations (D365FO) are a simple but powerful way to add context to records - images, documents, URLs, or notes. Everything that helps users understand what’s really going on. You might attach a scanned invoice to a purchase order, or […]
+The post Attachments in D365FO Made Easier appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Night Emails Died: AI Cleanup Incident Explained]]></title>
+        <id>https://365community.online/the-night-emails-died-ai-cleanup-incident-explained</id>
+        <link href="https://365community.online/the-night-emails-died-ai-cleanup-incident-explained"/>
+        <updated>2026-01-09T14:26:16.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,000The city got quiet. 200:00:02,000 –> 00:00:03,720Too quiet. 300:00:03,720 –> 00:00:06,680You know that feeling when you walk into an office on a Monday morning, 400:00:06,680 –> 00:00:09,640expecting the usual chaos, the phones ringing off the hook, 500:00:09,640 –> 00:00:11,680the inbox screaming at you. 600:00:11,680 –> 00:00:15,240But instead, it’s just silence. 700:00:15,240 –> 00:00:18,400I […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combined capacity reporting for Dataverse and Operations]]></title>
+        <id>https://dynamicspedia.com/?p=20110</id>
+        <link href="https://dynamicspedia.com/2026/01/combined-capacity-reporting-for-dataverse-and-operations/"/>
+        <updated>2026-01-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As of December 1, 2025, Microsoft applied new storage capacity rules for Dynamics 365 apps, resulting in an increase in entitlements and the consolidation of capacity for Dataverse and the Dynamics 365 F&O. In this post, I will share how Microsoft is now also including the Operations consumption in the capacity reports on the Power […]
+The post Combined capacity reporting for Dataverse and Operations appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Effective Programs That Work]]></title>
+        <id>https://365community.online/build-effective-programs-that-work</id>
+        <link href="https://365community.online/build-effective-programs-that-work"/>
+        <updated>2026-01-09T10:41:12.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,140Most leaders think governance controls AI. 200:00:02,140 –> 00:00:02,940It doesn’t. 300:00:02,940 –> 00:00:05,900People do policies don’t make decisions at 4 p.m. 400:00:05,900 –> 00:00:08,940when a model drifts or a copilot surfaces salary data 500:00:08,940 –> 00:00:09,820in a board deck. 600:00:09,820 –> 00:00:10,560You do. 700:00:10,560 –> 00:00:13,380The organizations that wind define intent, decision rights, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is AI builder and what is it used for?]]></title>
+        <id>https://365community.online/what-is-ai-builder-and-what-is-it-used-for</id>
+        <link href="https://365community.online/what-is-ai-builder-and-what-is-it-used-for"/>
+        <updated>2026-01-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog is part of the series: What is <this tech> and what is it used for? Copilot answer AI Builder is a low-code AI capability in Microsoft Power Platform that lets business users build, train, and deploy AI models without writing code. It provides prebuilt models such as form processing, object detection, text recognition, […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top OWASP 2025 .NET Vulnerabilities You Must Address]]></title>
+        <id>https://365community.online/top-owasp-2025-net-vulnerabilities-you-must-address</id>
+        <link href="https://365community.online/top-owasp-2025-net-vulnerabilities-you-must-address"/>
+        <updated>2026-01-09T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[WEBVTT 100:00:00.080 –> 00:00:02.160If you’ve ever thought your net app is safe just 200:00:02.200 –> 00:00:04.519because you’re running the latest framework, this might be the 300:00:04.559 –> 00:00:07.919wake up call you didn’t expect. O wasp’s upcoming update 400:00:07.960 –> 00:00:11.679emphasizes changes worth rethinking in your architecture. In this video, 500:00:11.720 –> 00:00:14.439you’ll see which O […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Bicep vs. ARM Template: Code for Azure Resources]]></title>
+        <id>https://365community.online/azure-bicep-vs-arm-template-code-for-azure-resources</id>
+        <link href="https://365community.online/azure-bicep-vs-arm-template-code-for-azure-resources"/>
+        <updated>2026-01-09T03:20:10.000Z</updated>
+        <summary type="html"><![CDATA[ARM templates look powerful on paper – but have you noticed how every deployment turns into a maze of JSON and copy-pasted sections? Many teams find that what should be a straightforward rollout quickly becomes cluttered, brittle, and frustrating to manage. That’s where Bicep comes in. In this podcast, we’ll break down why ARM often […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate Testing with Automation Tools]]></title>
         <id>https://365community.online/automate-testing-with-automation-tools</id>
@@ -14,6 +191,16 @@
         <summary type="html"><![CDATA[Ever fix a single line of code, deploy it, and suddenly two other features break that had nothing to do with your change? It happens more often than teams admit. Quick question before we get started—drop a comment below and tell me which layer of testing you actually trust the most. I’m curious to see […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Agentic AI | Zero to Hero – The Rise of Agents (Lesson 1) – YouTube]]></title>
+        <id>https://365community.online/intro-to-agentic-ai-zero-to-hero-the-rise-of-agents-lesson-1-youtube</id>
+        <link href="https://365community.online/intro-to-agentic-ai-zero-to-hero-the-rise-of-agents-lesson-1-youtube"/>
+        <updated>2026-01-08T23:32:54.000Z</updated>
+        <summary type="html"><![CDATA[In this session, we explore what AI agents are, how Agentic AI differs from Generative AI, and why Microsoft is shifting away from traditional low-code app building toward intent-driven, agent-based development. We cover the main types of AI agents, how agents collaborate, and why data readiness, governance, and secure knowledge sources are critical for building […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
@@ -107535,104 +107722,6 @@ Why Microsoft Dynamics 365?
 Cloud Technology Trends]]></summary>
         <author>
             <name>NMB Solutions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnichannel for Customer Service Training – March 2023]]></title>
-        <id>https://365community.online/omnichannel-for-customer-service-training-march-2023</id>
-        <link href="https://365community.online/omnichannel-for-customer-service-training-march-2023"/>
-        <updated>2024-01-11T13:32:04.000Z</updated>
-        <summary type="html"><![CDATA[I am very pleased to announce my first Microsoft Omnichannel for Customer Service training course Omnichannel for Customer Service is part of the Microsoft Digital Contact Center Platform, a comprehensive […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Power Automate: Power Automate with Business Central]]></title>
-        <id>https://365community.online/working-with-power-automate-power-automate-with-business-central</id>
-        <link href="https://365community.online/working-with-power-automate-power-automate-with-business-central"/>
-        <updated>2024-01-11T11:00:50.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capture Lead Channel Traffic Source Without UTM Parameters]]></title>
-        <id>https://365community.online/capture-lead-channel-traffic-source-without-utm-parameters</id>
-        <link href="https://365community.online/capture-lead-channel-traffic-source-without-utm-parameters"/>
-        <updated>2024-01-11T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you use Google Analytics, you should be familiar with channels. As defined by Google, channels are rule-based definitions of your website’s traffic sources that let you monitor the performance […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to directly access Custom Action from Custom Pages in Power Apps]]></title>
-        <id>https://365community.online/how-to-directly-access-custom-action-from-custom-pages-in-power-apps</id>
-        <link href="https://365community.online/how-to-directly-access-custom-action-from-custom-pages-in-power-apps"/>
-        <updated>2024-01-11T07:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Power Apps offers versatile design experiences, including model-driven apps and Canvas apps, and the recent addition of Custom Pages. Based on the client’s recent requirements, we had to replace the […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat with external systems using plugin actions (preview) in Copilot Studio 😎 – YouTube]]></title>
-        <id>https://365community.online/chat-with-external-systems-using-plugin-actions-preview-in-copilot-studio-%f0%9f%98%8e-youtube</id>
-        <link href="https://365community.online/chat-with-external-systems-using-plugin-actions-preview-in-copilot-studio-%f0%9f%98%8e-youtube"/>
-        <updated>2024-01-11T05:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Chat with external systems using plugin actions (preview) in Copilot Studio 😎 Join me in this video as I explore the various plugins in Copilot studio and then deep dive […]]]></summary>
-        <author>
-            <name>Scott Durow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overview of Third-Party Form Builder (Voice of Customer) Applications that Integrate with Dynamics 365/Power Platform]]></title>
-        <id>https://365community.online/overview-of-third-party-form-builder-voice-of-customer-applications-that-integrate-with-dynamics-365-power-platform</id>
-        <link href="https://365community.online/overview-of-third-party-form-builder-voice-of-customer-applications-that-integrate-with-dynamics-365-power-platform"/>
-        <updated>2024-01-10T23:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Clients often ask me if it is possible to integrate third-party form builder applications with Microsoft Dynamics 365 and the broader Power Platform. The short answer to that question is […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing the Cost of Moving Microsoft Dynamics GP to Azure]]></title>
-        <id>https://erpsoftwareblog.com/?p=103092</id>
-        <link href="https://erpsoftwareblog.com/2024/01/analyzing-the-cost-of-moving-microsoft-dynamics-gp-to-azure/"/>
-        <updated>2024-01-10T20:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Many businesses are evaluating the transition from on-premises servers to the cloud, and a common question arises: "How much does it cost to move Dynamics GP to Microsoft Azure?" In […]
-The post Analyzing the Cost of Moving Microsoft Dynamics GP to Azure appeared first on ERP Software Blog.
-Implementing BC PST & PEI HST in Dynamics GP
-Compare SaaS Against On-Premise Software Cost Calculator
-Mobile ERP Technology Benefits]]></summary>
-        <author>
-            <name>Dexpro Dynamics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public Release of the D365FO Admin Toolkit]]></title>
-        <id>https://alexdmeyer.com/?p=3012</id>
-        <link href="https://alexdmeyer.com/2024/01/10/public-release-of-the-d365fo-admin-toolkit/"/>
-        <updated>2024-01-10T15:48:22.000Z</updated>
-        <summary type="html"><![CDATA[I’m excited today to release something I’ve been working on, the D365FO Admin Toolkit. The idea of this solution is that toolkit created for the Dynamics 365 FinOps community by the community itself. It is my hope and goal that this will be a platform that myself and others can add to going forward to […]
-The post Public Release of the D365FO Admin Toolkit appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reporting Tools for Dynamics 365 Business Central]]></title>
-        <id>https://www.encorebusiness.com/?p=60882</id>
-        <link href="https://www.encorebusiness.com/blog/reporting-tools-for-dynamics-365-business-central/"/>
-        <updated>2024-01-10T15:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Reporting Tools for Dynamics 365 Business Central
-In Dynamics 365 Business Central, there are quite a few different reporting tools, and each one is best for a particular set of use cases. Below are brief descriptions of each of the most common reporting tools available for Business Central, to help you select the right one for your specific need. Business Central Financials...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Mike Harris</name>
         </author>
     </entry>
     <entry>
