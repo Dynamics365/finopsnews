@@ -639,16 +639,6 @@
           "wordCount": 3986,
           "title": "Deploying Azure Logic Apps: PaaS vs. App Service Environment (ASE)",
           "imageUrl": "https://azureintegrations.com/wp-content/uploads/2019/10/cropped-pic.png?w=200"
-        },
-        {
-          "id": "http://azureintegrations.com/?p=1576",
-          "author": "Poojith Jain",
-          "description": "In modern CI/CD workflows, it’s common to have interconnected pipelines where the successful completion of one pipeline triggers the execution of another. Azure DevOps makes this seamless with YAML pipelines. This guide explains how to set up automatic pipeline triggering in Azure DevOps using YAML.",
-          "link": "https://azureintegrations.com/2024/01/14/triggering-a-yaml-pipeline-in-azure-devops-automatically-after-another-pipeline-completes/",
-          "publishedOn": "2024-01-14T09:01:00.000Z",
-          "wordCount": 3965,
-          "title": "Triggering a YAML Pipeline in Azure DevOps Automatically After Another Pipeline Completes",
-          "imageUrl": "https://azureintegrations.com/wp-content/uploads/2019/10/cropped-pic.png?w=200"
         }
       ]
     },
@@ -1366,6 +1356,76 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=139568",
+          "author": "Insight Works",
+          "description": "xxx\nAs manufacturers and distributors work to stabilize planning amid ongoing data and supply variability, Insight Works’ Enhanced Planning Pack delivers structured forecasting, inventory review, BOM visibility, and routing analysis directly […]\nThe post Global Supply Chain Variability Increases the Need for Accurate Planning in Business Central appeared first on ERP Software Blog.\nHow to Automate Warehouse Shipments and Picks in Business Central\nBenefits of Automatic Collection Efforts in Business Central\nVendor Data in Accounts Payable: Best Management Practices",
+          "link": "https://erpsoftwareblog.com/2026/01/global-supply-chain-variability-increases-the-need-for-accurate-planning-in-business-central/",
+          "publishedOn": "2026-01-12T20:00:24.000Z",
+          "wordCount": 7234,
+          "title": "Global Supply Chain Variability Increases the Need for Accurate Planning in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/EPP-PR-COVER.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139713",
+          "author": "Michael Kulik, Digital Vantage Point",
+          "description": "xxx\nFor years, enterprise technology strategy rewarded expansion. More systems promised more capability. More integrations promised flexibility. Best-of-breed became the default answer to almost every new requirement. But many organizations are […]\nThe post When the ERP Stops Being the Backbone – And How to Restore It appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/when-the-erp-stops-being-the-backbone-and-how-to-restore-it/",
+          "publishedOn": "2026-01-12T19:32:16.000Z",
+          "wordCount": 7541,
+          "title": "When the ERP Stops Being the Backbone – And How to Restore It",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/JAN-ERP-article-promotion-ChatGPT-Image-Jan-12-2026-12_15_09-PM-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137577",
+          "author": "Technology Management Concepts",
+          "description": "xxx\nTL;DR If you are evaluating a Microsoft business solution in 2026, you are choosing from one of the most complete cloud ecosystems available today. Microsoft 365, Dynamics 365, Power Platform, […]\nThe post Thinking About a Microsoft app in 2026? Read This Before You Buy Anything appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/thinking-about-a-microsoft-app-in-2026-read-this-before-you-buy-anything/",
+          "publishedOn": "2026-01-12T19:27:25.000Z",
+          "wordCount": 7945,
+          "title": "Thinking About a Microsoft app in 2026? Read This Before You Buy Anything",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Thinking-About-a-Microsoft-app-in-2026-Read-This-Before-You-Buy-Anything.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139695",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "xxx\nMicrosoft Business Central Reporting Capabilities:  Microsoft Dynamics 365 Business Central is a business management solution for small and mid-sized organizations that automate and streamlines processes and helps you manage your business. […]\nThe post Microsoft Business Central Reporting Capabilities appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/01/microsoft-business-central-reporting-capabilities/",
+          "publishedOn": "2026-01-12T19:07:51.000Z",
+          "wordCount": 7415,
+          "title": "Microsoft Business Central Reporting Capabilities",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139697",
+          "author": "360 Visibility",
+          "description": "xxx\nAfter implementing Microsoft Dynamics 365 Business Central, the reality for many finance and operations teams is underwhelming after the go-live. Or worse, more complex than the legacy system it replaced. […]\nThe post Common Business Central Implementation Mistakes to Avoid appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/01/business-central-implementation-mistakes/",
+          "publishedOn": "2026-01-12T19:00:22.000Z",
+          "wordCount": 7383,
+          "title": "Common Business Central Implementation Mistakes to Avoid",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/22-2.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137517",
+          "author": "Qixas Group",
+          "description": "xxx\nDo you want to harness the power of workflow automation in Microsoft Dynamics 365 Business Central? Workflow automation has emerged as a game-changing solution, enabling organizations to streamline processes and […]\nThe post Power of Workflow Automation in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nEmbedded AP Solutions vs Integrated: What’s Right for Your Team?\nStart Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central\n2 Demo Days - Microsoft Dynamics GP and 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2026/01/power-of-workflow-automation-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2026-01-12T18:01:47.000Z",
+          "wordCount": 7215,
+          "title": "Power of Workflow Automation in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/YouTube-Thumbnails-5.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139685",
+          "author": "eOne Solutions",
+          "description": "xxx\nSome employees waste almost ten hours a week looking for information. Thankfully, virtual integration can solve this problem by granting employees access to the right data whenever they need it. […]\nThe post Have You Heard About Virtual Integration? appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/have-you-heard-about-virtual-integration/",
+          "publishedOn": "2026-01-12T15:27:43.000Z",
+          "wordCount": 7109,
+          "title": "Have You Heard About Virtual Integration?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Virtual-Integration.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=139398",
           "author": "Western Computer",
@@ -36760,6 +36820,116 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/why-copilot-fails-most-businesses",
+          "author": "Mirko Peters",
+          "description": "If you’re wondering why Copilot hasn’t magically boosted productivity in your company, you’re not alone. Many teams expect instant results, but instead they hit roadblocks and confusion. The problem isn’t Copilot itself—it’s the way organizations roll it out. We’ll show why so many deployments stall, and more importantly, what to change to get real ROI. […]",
+          "link": "https://365community.online/why-copilot-fails-most-businesses",
+          "publishedOn": "2026-01-13T01:34:54.000Z",
+          "wordCount": 5333,
+          "title": "Why Copilot Fails Most Businesses",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768268094_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/hide-or-show-a-channel-in-microsoft-teams-security-tips",
+          "author": "Mirko Peters",
+          "description": "Most Teams admins think they’re just managing channels and permissions. But here’s the hidden layer: creating a Team usually triggers the provisioning of Microsoft 365 resources in the background—things like a connected group object, a SharePoint site, and other linked services you may not even notice at first. If you’ve ever wondered why changing a […]",
+          "link": "https://365community.online/hide-or-show-a-channel-in-microsoft-teams-security-tips",
+          "publishedOn": "2026-01-12T21:52:54.000Z",
+          "wordCount": 5957,
+          "title": "Hide or Show a Channel in Microsoft Teams: Security Tips",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768254774_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/finishing-deactivating-and-reopening-a-business-process-flow-using-c-console-app-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "In the previous post, we explored how to move a Business Process Flow (BPF) to the next stage using a console application, with the Phone to Case Process as a working example. Advancing the BPF stage, however, is only part of the lifecycle. Even after the flow reaches its final stage, it remains active until […]",
+          "link": "https://365community.online/finishing-deactivating-and-reopening-a-business-process-flow-using-c-console-app-dataverse-dynamics-365",
+          "publishedOn": "2026-01-12T18:35:00.000Z",
+          "wordCount": 2125,
+          "title": "Finishing (Deactivating) and Reopening a Business Process Flow Using C# Console App (Dataverse / Dynamics 365)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/Finishing-Deactivating-and-Reopening-a-Business-Process-Flow-Using-C.jpeg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dashboards-are-dead-long-live-the-question",
+          "author": "Mirko Peters",
+          "description": "1. Why Dashboards Expired (Not Failed) Dashboards optimized for visibility in a world with: Stable cadences Predictable questions Tolerable latency That world is gone. The business now runs on interrupts, not review sessions. Dashboards became artifacts in a workflow that leaders no longer have time to follow. 2. Visibility ≠ Decisions Dashboards expose metrics, but […]",
+          "link": "https://365community.online/dashboards-are-dead-long-live-the-question",
+          "publishedOn": "2026-01-12T18:20:50.000Z",
+          "wordCount": 2558,
+          "title": "Dashboards Are Dead. Long Live the Question",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/29e50cf1b06659437256fcd84557af84.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/salt-tool-overview-live-demo-youtube",
+          "author": "Justina Žiūraitė",
+          "description": "Discover SALT, Simplanova’s innovative AL tool that simplifies complex workflows and improves efficiency. In this video, Dominykas Milius introduces the SALT concept and walks through a SALT demo, showing how the tool works in practice and how it helps teams turn complexity into clarity. Whether you’re exploring SALT for the first time or want a […]",
+          "link": "https://365community.online/salt-tool-overview-live-demo-youtube",
+          "publishedOn": "2026-01-12T14:53:41.000Z",
+          "wordCount": 2132,
+          "title": "SALT Tool Overview & Live Demo – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768232388_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-purview-information-protection",
+          "author": "Mirko Peters",
+          "description": "You rolled out Microsoft Information Protection, but here’s the uncomfortable truth: too many rollouts only look secure on paper. By the end of this Podcast, you’ll have five quick checks to know whether your MIP rollout will fail or fly. The labels might exist, the policies might be set—but without strategy, training, and realistic expectations, […]",
+          "link": "https://365community.online/microsoft-purview-information-protection",
+          "publishedOn": "2026-01-12T14:45:13.000Z",
+          "wordCount": 5633,
+          "title": "Microsoft Purview Information Protection",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768229113_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-ai-agent-data-control",
+          "author": "Mirko Peters",
+          "description": "Imagine deploying Copilot across your entire workforce—only to realize later that employees could use it to surface highly sensitive contracts in seconds. That’s not science fiction—it’s one of the most common Copilot risks organizations face right now. The shocking part? Most companies don’t even know it’s happening. Today, we’re unpacking how Microsoft Purview provides oversight, […]",
+          "link": "https://365community.online/microsoft-ai-agent-data-control",
+          "publishedOn": "2026-01-12T11:00:21.000Z",
+          "wordCount": 5796,
+          "title": "Microsoft AI Agent Data Control?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768215622_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/vibe-coding-an-xrmtoolbox-tool-part-2-now-we-vibing",
+          "author": "Matt Collins",
+          "description": "In my previous post, I wrote about how I tried to build a XrmToolBox tool with no C# or plugin experience by Vibe coding with GitHub Copilot and the results were, quite frankly, amazing! Within a few evenings of a couple of hours each, I managed to use it to not just teach me about […]",
+          "link": "https://365community.online/vibe-coding-an-xrmtoolbox-tool-part-2-now-we-vibing",
+          "publishedOn": "2026-01-12T09:00:00.000Z",
+          "wordCount": 2132,
+          "title": "Vibe coding an XrmToolBox Tool part 2 – Now we vibing!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/Vibe-coding-an-XrmToolBox-Tool-part-2-Now-we.png?fit=1000%2C517&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-disabling-power-platform-backfires-every-time",
+          "author": "Mirko Peters",
+          "description": "If your first instinct when you hear ‘Power Platform’ is to hit the disable switch in your admin portal, you’re not alone. A lot of IT leaders think that locking it down is the safest move. But here’s the twist: that quick fix usually creates bigger risks—shadow IT, uncontrolled data flows, and compliance blind spots. […]",
+          "link": "https://365community.online/why-disabling-power-platform-backfires-every-time",
+          "publishedOn": "2026-01-12T07:19:36.000Z",
+          "wordCount": 5281,
+          "title": "Why Disabling Power Platform Backfires Every Time",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768202377_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/primavera-project-management-consultant-planning-training-youtube-2",
+          "author": "Madan Mohan Maharana",
+          "description": "Primavera Project Management Consultant, Planning & Training Most Trusted Oracle Primavera Project Planning Management & Consultant in India. Wiznic World provides an extensive training in latest version of Primavera in PPM and EPPM as well. We are specialized in Oracle Primavera Project Management software with an expertise in provision of certified Oracle Primavera Training and […]",
+          "link": "https://365community.online/primavera-project-management-consultant-planning-training-youtube-2",
+          "publishedOn": "2026-01-12T05:52:12.000Z",
+          "wordCount": 2222,
+          "title": "Primavera Project Management Consultant, Planning & Training – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768204218_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/build-a-microsoft-teams-app-web-app-integration",
+          "author": "Mirko Peters",
+          "description": "You’ve been building full-stack web apps for years—but here’s a question: why aren’t those same skills powering your workflow inside Microsoft Teams? You’ll be surprised how little you need to change to make a web app feel native in Teams. In this podcast you’ll see the dev environment you need, scaffold a personal tab from […]",
+          "link": "https://365community.online/build-a-microsoft-teams-app-web-app-integration",
+          "publishedOn": "2026-01-12T03:37:04.000Z",
+          "wordCount": 5764,
+          "title": "Build a Microsoft Teams App: Web App Integration",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768189024_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/build-reliable-resilient-cloud-systems",
           "author": "Mirko Peters",
@@ -85184,6 +85354,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=16823",
+          "author": "Parag Chapre",
+          "description": "In my previous article, I demonstrated how the Dynamics 365 Workflow Approvals App transforms the Purchase Order approval experience in Dynamics 365 Finance & Operations (D365 F&O). Continuing that journey, this article focuses on another critical procurement process that often gets overlooked: Purchase Agreement approvals. Purchase Agreements are long-term commitments that define how organizations buy…",
+          "link": "https://paragchapre.com/purchase-agreement-workflow-approvals-in-dynamics-365-fo-with-power-platform/",
+          "publishedOn": "2026-01-12T13:55:00.000Z",
+          "wordCount": 4330,
+          "title": "Purchase Agreement Workflow Approvals in Dynamics 365 F&O with Power Platform",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2025/12/Purchase-agreement-approval-app.png"
+        },
         {
           "id": "https://paragchapre.com/?p=16808",
           "author": "Parag Chapre",
