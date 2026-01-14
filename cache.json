@@ -629,16 +629,6 @@
           "wordCount": 4572,
           "title": "Advanced Logging and Monitoring for Azure Integration Components using OpenAI",
           "imageUrl": "https://poojithjain.files.wordpress.com/2024/04/image-1.png"
-        },
-        {
-          "id": "http://azureintegrations.com/?p=1594",
-          "author": "Poojith Jain",
-          "description": "Deploying Azure Logic Apps Azure Logic Apps provide a powerful way to automate workflows, integrate services, and orchestrate business processes. But where and how you deploy them can make a significant impact on performance, security, and cost. Should you go with Azure’s standard Platform as a Service (PaaS) deployment, or should you leverage an AppContinue reading \"Deploying Azure Logic Apps: PaaS vs. App Service Environment (ASE)\"",
-          "link": "https://azureintegrations.com/2024/01/14/deploying-azure-logic-apps-paas-vs-app-service-environment-ase/",
-          "publishedOn": "2024-01-14T17:29:00.000Z",
-          "wordCount": 3986,
-          "title": "Deploying Azure Logic Apps: PaaS vs. App Service Environment (ASE)",
-          "imageUrl": "https://azureintegrations.com/wp-content/uploads/2019/10/cropped-pic.png?w=200"
         }
       ]
     },
@@ -1356,6 +1346,66 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=139776",
+          "author": "ArcherPoint by Cherry Bekaert",
+          "description": "xxx\nIn Microsoft Dynamics 365 Business Central, Unit Cost represents the cost of a single item in inventory. This value plays an important role in understanding inventory value, setting pricing, and […]\nThe post Business Central Unit Cost: How It’s Calculated on the Item Card appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/business-central-unit-cost-how-its-calculated-on-the-item-card/",
+          "publishedOn": "2026-01-13T21:40:07.000Z",
+          "wordCount": 7088,
+          "title": "Business Central Unit Cost: How It’s Calculated on the Item Card",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-Unit-Cost-is-Calculated-.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139770",
+          "author": "Insight Works",
+          "description": "xxx\nMany organizations rely on Microsoft Dynamics 365 Business Central to manage quality inspections, compliance, and traceability. The Quality Inspector app from Insight Works streamlines your quality control process, reducing rework […]\nThe post Why Adaptive Cards in Microsoft Teams Improve Quality Inspections in Business Central appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2026/01/why-adaptive-cards-in-microsoft-teams-improve-quality-inspections-in-business-central/",
+          "publishedOn": "2026-01-13T20:00:17.000Z",
+          "wordCount": 7322,
+          "title": "Why Adaptive Cards in Microsoft Teams Improve Quality Inspections in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Why-Adaptive-Cards-COVER.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139755",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nConnecting Power BI with SharePoint Online is one of the most effective ways to bring interactive analytics into the collaboration hub your teams use every day—especially when supported by expert Power […]\nThe post How to integrate Power BI with SharePoint (Step-by-Step Guide) appeared first on ERP Software Blog.\nShould Profit Margins or Cash-Flow Drive Business Decisions?\nFind Mismatches in Less than 5 Minutes - Microsoft Dynamics GP and The Closer for Quick and Easy Reconciliation\nSpreadsheets are Helpful, But You Can’t Rely on Them Forever",
+          "link": "https://erpsoftwareblog.com/2026/01/how-to-integrate-power-bi-with-sharepoint/",
+          "publishedOn": "2026-01-13T14:10:16.000Z",
+          "wordCount": 7416,
+          "title": "How to integrate Power BI with SharePoint (Step-by-Step Guide)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/connect-power-bi-with-sharepoint-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139759",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nFor many UK small and mid-sized businesses, growth doesn’t stall because of a lack of opportunity—it stalls because of outdated systems. Legacy ERPs, disconnected tools, and spreadsheet-heavy processes often slow […]\nThe post Real Business Central Success Stories: UK SMBs Crushing Growth Post-ERP Migration appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/01/real-business-central-success-stories-uk-smbs-crushing-growth-post-erp-migration/",
+          "publishedOn": "2026-01-13T13:30:18.000Z",
+          "wordCount": 7375,
+          "title": "Real Business Central Success Stories: UK SMBs Crushing Growth Post-ERP Migration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Real-Business-Central-Success-Stories.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139754",
+          "author": "Anya Ciecierski",
+          "description": "xxx\n  3 Key Highlights How process manufacturers know when base Dynamics manufacturing is no longer enough Why formulas, recipes, and batch processing push teams beyond discrete manufacturing tools How Vicinity […]\nThe post Why Process Manufacturers Add Vicinity Software to Dynamics GP and Business Central appeared first on ERP Software Blog.\nNavigating Success in Supply Chain Planning: A Conversation with Netstock at Community Summit 2023\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App",
+          "link": "https://erpsoftwareblog.com/2026/01/why-process-manufacturers-add-vicinity-software-to-dynamics-gp-and-business-central/",
+          "publishedOn": "2026-01-13T09:46:51.000Z",
+          "wordCount": 8214,
+          "title": "Why Process Manufacturers Add Vicinity Software to Dynamics GP and Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/vicinity-thumbail.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139745",
+          "author": "Maris Drone, SkyBill",
+          "description": "xxx\nPayments. Modern utility and service providers don’t want to be payment companies, but they must handle payments flawlessly. Direct debits, cards, wallets, local payment methods, compliance, reconciliation, all of this […]\nThe post Stripe extension for Microsoft Dynamics 365 BC. appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/stripe-extension-for-microsoft-dynamics-365-bc/",
+          "publishedOn": "2026-01-13T07:17:46.000Z",
+          "wordCount": 7074,
+          "title": "Stripe extension for Microsoft Dynamics 365 BC.",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/SEPA-Direct-Debit-on-Stripe_-Bank-debits-for-European-customers-1.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=139568",
           "author": "Insight Works",
@@ -35295,36 +35345,6 @@
           "wordCount": 7656,
           "title": "Best Microsoft Dynamics Manufacturing Partners (For 2024)",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Business-Central-Manufacturing.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103209",
-          "author": "Dynamics Square UK",
-          "description": "Dynamics Square, a trusted Microsoft Dynamics 365 Certified Solutions Partner, is excited to announce its role as a dependable ally for retailers aiming to boost their business using Microsoft Dynamics […]\nThe post Dynamics Square: Trusted Microsoft Dynamics 365 Partner for your Retail Business appeared first on ERP Software Blog.\nIn the Field with Microsoft Dynamics ERP RapidStart Services – First Impressions\nHow To Take Those Necessary Steps Toward Paperless Document Management\nHow to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP",
-          "link": "https://erpsoftwareblog.com/2024/01/dynamics-square-microsoft-dynamics-365-for-retail/",
-          "publishedOn": "2024-01-15T13:32:37.000Z",
-          "wordCount": 7216,
-          "title": "Dynamics Square: Trusted Microsoft Dynamics 365 Partner for your Retail Business",
-          "imageUrl": "https://www.dynamicssquare.co.uk/_next/image/?url=%2Fimg%2Fbanner-head-image.png&w=2048&q=70"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103152",
-          "author": "Insight Works",
-          "description": "In the Dynamics 365 Business Central community, Insight Works' DocXtender has become a notable addition since its release in 2017. DocXtender is a completely free app that provides a streamlined […]\nThe post Navigating Document Storage in Business Central appeared first on ERP Software Blog.\nGraphical Scheduler v1.8: Elevating Production Scheduling\nQuality Control in Inventory and Manufacturing Using Dynamics 365 Business Central\nInsight Works Launches Quality Inspector App for Business Central Users",
-          "link": "https://erpsoftwareblog.com/2024/01/navigating-document-storage-in-business-central/",
-          "publishedOn": "2024-01-15T13:02:14.000Z",
-          "wordCount": 7621,
-          "title": "Navigating Document Storage in Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DocXtender-250.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103071",
-          "author": "Netstock",
-          "description": "Mastering Inventory management is essential to balancing supply and demand and freeing working capital for your business. In 2024, inventory management continues to evolve as new and better tools become […]\nThe post Master Inventory Management with Dynamics 365 BC and Netstock appeared first on ERP Software Blog.\nImportance of ERP Software in Manufacturing Industries\nNew levels of productivity with Advanced WMS\nYear-End Advice - Upgrade Dynamics GP to Business Central",
-          "link": "https://erpsoftwareblog.com/2024/01/master-inventory-management-with-dynamics-365-bc-and-netstock/",
-          "publishedOn": "2024-01-15T07:59:54.000Z",
-          "wordCount": 7938,
-          "title": "Master Inventory Management with Dynamics 365 BC and Netstock",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-01-Inventory-Management-Mastery-in-2024-with-Dynamics-365-BC-and-Netstock_1200-x-628.png"
         }
       ]
     },
@@ -36821,14 +36841,124 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
-          "id": "https://365community.online/why-copilot-fails-most-businesses",
+          "id": "https://365community.online/top-microsoft-365-copilot-prompts-to-boost-productivity",
           "author": "Mirko Peters",
-          "description": "If you’re wondering why Copilot hasn’t magically boosted productivity in your company, you’re not alone. Many teams expect instant results, but instead they hit roadblocks and confusion. The problem isn’t Copilot itself—it’s the way organizations roll it out. We’ll show why so many deployments stall, and more importantly, what to change to get real ROI. […]",
-          "link": "https://365community.online/why-copilot-fails-most-businesses",
-          "publishedOn": "2026-01-13T01:34:54.000Z",
-          "wordCount": 5333,
-          "title": "Why Copilot Fails Most Businesses",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768268094_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+          "description": "Here’s the shocking truth: most professionals using Microsoft 365 Copilot are barely scratching 10% of its potential. And that wasted value? It’s the difference between covering your license cost or throwing money into the wind. Today, I’m exposing the exact 10 prompts I rely on daily that make Copilot not just a cool add-on, but […]",
+          "link": "https://365community.online/top-microsoft-365-copilot-prompts-to-boost-productivity",
+          "publishedOn": "2026-01-14T01:55:13.000Z",
+          "wordCount": 6093,
+          "title": "Top Microsoft 365 Copilot Prompts to Boost Productivity",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768355713_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mastering-copilot-studio-governance-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/mastering-copilot-studio-governance-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-14T01:50:07.000Z",
+          "wordCount": 2321,
+          "title": "Mastering Copilot Studio Governance by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1749890702318-4e344f00800ff.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/m365-is-not-ready-for-kritis-exploring-challenges",
+          "author": "Mirko Peters",
+          "description": "Here’s the shocking truth: moving to Microsoft 365 in KRITIS or government isn’t a technical problem — it’s an organizational survival challenge. One overlooked misstep with identity or governance doesn’t just slow you down; it can undermine your compliance with BSI before you even get started. This isn’t theory — it’s happened in real projects. […]",
+          "link": "https://365community.online/m365-is-not-ready-for-kritis-exploring-challenges",
+          "publishedOn": "2026-01-13T22:13:16.000Z",
+          "wordCount": 6227,
+          "title": "M365 Is Not Ready for KRITIS? Exploring Challenges",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768342396_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-excitement-to-enforcement-governing-copilot-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/from-excitement-to-enforcement-governing-copilot-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-13T22:08:11.000Z",
+          "wordCount": 2341,
+          "title": "From Excitement to Enforcement: Governing Copilot by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1750403277456-b7984511937ab.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enterprise-cloud-strategy-on-microsoft-azure-from-vision-to-execution",
+          "author": "Mirko Peters",
+          "description": "Most enterprises tell themselves a comforting story: we moved to Azure, therefore we’re modern.This episode explains why that story collapses the moment budgets are reviewed, audits arrive, or outages force uncomfortable questions. Cloud strategy is not a technology choice. It is an operating model choice. Azure doesn’t execute vision decks, steering committee language, or leadership […]",
+          "link": "https://365community.online/enterprise-cloud-strategy-on-microsoft-azure-from-vision-to-execution",
+          "publishedOn": "2026-01-13T18:36:14.000Z",
+          "wordCount": 2629,
+          "title": "Enterprise Cloud Strategy on Microsoft Azure: From Vision to Execution",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/c26446058541066e5a16637ad74d2e53.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/advancing-and-finishing-a-bpf-using-retrieveprocessinstancesrequest-and-retrieveactivepathrequest-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "In earlier posts, we looked at how to move a Business Process Flow (BPF) stage and finish the process by directly updating the BPF entity instance. In this post, we’ll use RetrieveProcessInstancesRequest and RetrieveActivePathRequest to move a Business Process Flow to its final stage and finish it, using the Phone to Case Process as a […]",
+          "link": "https://365community.online/advancing-and-finishing-a-bpf-using-retrieveprocessinstancesrequest-and-retrieveactivepathrequest-dataverse-dynamics-365",
+          "publishedOn": "2026-01-13T18:35:00.000Z",
+          "wordCount": 2124,
+          "title": "Advancing and Finishing a BPF Using RetrieveProcessInstancesRequest and RetrieveActivePathRequest (Dataverse / Dynamics 365)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/Advancing-and-Finishing-a-BPF-Using-RetrieveProcessInstancesRequest-and-RetrieveActivePathRequest-Dataverse.jpeg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-platform-governance-why-your-organization-needs-traffic-rules-for-citizen-development-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/power-platform-governance-why-your-organization-needs-traffic-rules-for-citizen-development-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-13T18:32:11.000Z",
+          "wordCount": 2365,
+          "title": "Power Platform Governance: Why Your Organization Needs Traffic Rules for Citizen Development by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1753450442892-026a50d2e9e7d.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-platform-vagas-de-emprego-cases-das-empresas-e-licenciamento-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Link dos cases das empresas: https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-stories/ ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Hotmart. https://go.hotmart.com/S74000868Y ♐ Adquira meu curso Avançado de PowerApps na Hotmart. https://go.hotmart.com/U98457324E ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 🚀 Let’s connect: Linkedin: https://www.linkedin.com/in/saulosoaresoliveira Seja […]",
+          "link": "https://365community.online/power-platform-vagas-de-emprego-cases-das-empresas-e-licenciamento-youtube",
+          "publishedOn": "2026-01-13T15:06:07.000Z",
+          "wordCount": 2113,
+          "title": "Power Platform – Vagas de emprego, cases das empresas e licenciamento – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768321773_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-is-managed-hosting-a-practical-guide",
+          "author": "Belinda Allen",
+          "description": "Managed hosting means your hosting provider takes care of the technical maintenance of your website, including updates, security, and performance. I didn’t realize how much that mattered until I built my first site. I thought my job was just to write and publish — then the updates, security alerts, and performance issues started piling up. […]",
+          "link": "https://365community.online/what-is-managed-hosting-a-practical-guide",
+          "publishedOn": "2026-01-13T15:00:00.000Z",
+          "wordCount": 3313,
+          "title": "What is Managed Hosting? A Practical Guide",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/What-is-Managed-Hosting-A-Practical-Guide.jpg?fit=1175%2C740&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-defender-vs-microsoft-sentinel-azure-security-options",
+          "author": "Mirko Peters",
+          "description": "Here’s the truth many IT teams don’t realize until after a breach: Microsoft Defender covers more than you think, but much less than you assume. And the costliest mistakes happen in the blind spots you didn’t even know were there. The question isn’t Defender versus Sentinel—the question is whether your current monitoring strategy is quietly […]",
+          "link": "https://365community.online/microsoft-defender-vs-microsoft-sentinel-azure-security-options",
+          "publishedOn": "2026-01-13T14:54:25.000Z",
+          "wordCount": 6175,
+          "title": "Microsoft Defender vs Microsoft Sentinel: Azure Security Options",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768316066_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dspm-for-ai-copilot-agents-deep-dive-with-microsofts-erica-toelle-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/dspm-for-ai-copilot-agents-deep-dive-with-microsofts-erica-toelle-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-13T14:49:49.000Z",
+          "wordCount": 2355,
+          "title": "DSPM for AI Copilot Agents-Deep Dive with Microsoft’s Erica Toelle by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1756475126697-e3f8f590f30e1.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/intro-to-agentic-ai-zero-to-hero-the-rise-of-agents-lesson-01-replay-youtube",
+          "author": "Victor Dantas",
+          "description": "Replay of Lesson 01 Access Program infor for full schedule: https://www.fromzerotoheroes.com/rise-of-agents Follow Us Instagram: https://www.instagram.com/fromzerotoheroacademy source",
+          "link": "https://365community.online/intro-to-agentic-ai-zero-to-hero-the-rise-of-agents-lesson-01-replay-youtube",
+          "publishedOn": "2026-01-13T14:17:08.000Z",
+          "wordCount": 2085,
+          "title": "Intro to Agentic AI (Zero to Hero – The Rise of Agents) – Lesson 01 Replay – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/maxresdefault_live.jpg?fit=1280%2C720&ssl=1"
         },
         {
           "id": "https://365community.online/hide-or-show-a-channel-in-microsoft-teams-security-tips",
@@ -76364,101 +76494,6 @@
           "wordCount": 3535,
           "title": "Harnessing Codeless AI: Gwenael Bego’s Journey from Hong Kong to Paris and Revolutionizing Workf – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705350628_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workflows-with-microsoft-ai-builder-and-power-automate",
-          "author": "NZ365Guy",
-          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/517  Discover the transformative power of AI as Gwenael Bego, Microsoft's Group Product Manager, takes us on a journey through the innovative landscapes of AI Builder and […]",
-          "link": "https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workflows-with-microsoft-ai-builder-and-power-automate",
-          "publishedOn": "2024-01-15T13:00:00.000Z",
-          "wordCount": 3129,
-          "title": "Harnessing Codeless AI: Gwenael Bego's Journey from Hong Kong to Paris and Revolutionizing Workflows with Microsoft AI Builder and Power Automate",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1796418/14233141-harnessing-codeless-ai-gwenael-bego-s-journey-from-hong-kong-to-paris-and-revolutionizing-workflows-with-microsoft-ai-builder-and-power-automate.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/monitoring-your-azure-openai-usage-part-2",
-          "author": "Stefano Demiliani",
-          "description": "In a previous post I wrote about how you can monitor your Azure OpenAI usage with Azure Monitor and Application Insights. Monitoring Azure OpenAI usage is an important practice to […]",
-          "link": "https://365community.online/monitoring-your-azure-openai-usage-part-2",
-          "publishedOn": "2024-01-15T11:21:24.000Z",
-          "wordCount": 3048,
-          "title": "Monitoring your Azure OpenAI usage (part 2)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Monitoring-your-Azure-OpenAI-usage-part-2.png?fit=1198%2C326&ssl=1"
-        },
-        {
-          "id": "https://365community.online/working-with-power-automate-solutions-what-types-of-solution-are-there",
-          "author": "Ian Grieve",
-          "description": "This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]",
-          "link": "https://365community.online/working-with-power-automate-solutions-what-types-of-solution-are-there",
-          "publishedOn": "2024-01-15T11:00:19.000Z",
-          "wordCount": 3044,
-          "title": "Working with Power Automate Solutions: What Types of Solution Are There?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/offline-capabilities-in-the-canvas-app-within-dynamics-365-part-1",
-          "author": "Inogic",
-          "description": "Canvas Apps, a pillar of Power Platform, allows users to design apps with a focus on user experience and functionality. The “Mobile Offline” feature extends the capabilities of Canvas Apps […]",
-          "link": "https://365community.online/offline-capabilities-in-the-canvas-app-within-dynamics-365-part-1",
-          "publishedOn": "2024-01-15T10:35:07.000Z",
-          "wordCount": 3321,
-          "title": "Offline Capabilities in the Canvas app within Dynamics 365 – Part 1",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Offline-Capabilities-in-the-Canvas-app-within-Dynamics-365.jpeg?fit=1200%2C525&ssl=1"
-        },
-        {
-          "id": "https://365community.online/hierarchy-settings-in-dynamics-365-ce-power-platform-admin-center",
-          "author": "Priyesh Wagh",
-          "description": "You must have seen Security Roles, Field Level Security, Access Teams etc. as a way to access records in Dynamics 365 CE (or CRM). Here’s what Hierarchy Security is all […]",
-          "link": "https://365community.online/hierarchy-settings-in-dynamics-365-ce-power-platform-admin-center",
-          "publishedOn": "2024-01-15T10:16:18.000Z",
-          "wordCount": 3060,
-          "title": "Hierarchy Settings in Dynamics 365 CE | Power Platform Admin Center",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Hierarchy-Settings-in-Dynamics-365-CE-Power-Platform-Admin.png?fit=949%2C750&ssl=1"
-        },
-        {
-          "id": "https://365community.online/position-hierarchy-settings-in-dynamics-365-ce",
-          "author": "Priyesh Wagh",
-          "description": "In this post, you’ll learn how to configure Position Hierarchy for Dynamics 365 CE environment – Let’s first look at the scenario which we want to look at and then […]",
-          "link": "https://365community.online/position-hierarchy-settings-in-dynamics-365-ce",
-          "publishedOn": "2024-01-15T10:15:18.000Z",
-          "wordCount": 3033,
-          "title": "Position Hierarchy Settings in Dynamics 365 CE",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Position-Hierarchy-Settings-in-Dynamics-365-CE.png?fit=1085%2C619&ssl=1"
-        },
-        {
-          "id": "https://365community.online/manager-hierarchy-settings-in-dynamics-365-ce",
-          "author": "Priyesh Wagh",
-          "description": "In this post, you’ll learn how to configure Manager Hierarchy for Dynamics 365 CE environment – Let’s first look at the scenario which we want to look at and then […]",
-          "link": "https://365community.online/manager-hierarchy-settings-in-dynamics-365-ce",
-          "publishedOn": "2024-01-15T10:14:20.000Z",
-          "wordCount": 3040,
-          "title": "Manager Hierarchy Settings in Dynamics 365 CE",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Manager-Hierarchy-Settings-in-Dynamics-365-CE.png?fit=912%2C713&ssl=1"
-        },
-        {
-          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-7-topic-3-part-3-youtube",
-          "author": "shabaz darr",
-          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
-          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-7-topic-3-part-3-youtube",
-          "publishedOn": "2024-01-15T10:00:52.000Z",
-          "wordCount": 3110,
-          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 7 – Topic 3: Part 3 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705322758_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/using-ai-to-provide-help-for-users",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 01/14/24. Last modified:  01/14/24 Tags:  AI Help Using ChatGPT to improve the help experience for your end users This article is about using ChatGPT to […]",
-          "link": "https://365community.online/using-ai-to-provide-help-for-users",
-          "publishedOn": "2024-01-14T20:41:48.000Z",
-          "wordCount": 3036,
-          "title": "Using AI To Provide Help For Users",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -78372,16 +78407,6 @@
           "wordCount": 3411,
           "title": "D365FO Electronic reporting Excel templates for Business Documents guide; All you need to know from 0. (ER from scratch part 5)",
           "imageUrl": "https://fernitudela.files.wordpress.com/2024/01/featured-image-1.png?w=1200"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1241",
-          "author": "Fernando Tudela Desantes",
-          "description": "In this post (and you have the video version of it in YouTube), we are going to understand why this pretty common error happens, giving us the tools to see what is wrong, and troubleshooting the error. We are going to see 2 different examples, first didactic one, made out by me to force the error and help us understand it, and second one, a real ER error from the OOB BAI2 Bank statements, that I had to face lately in a project. … More D365FO ER (GER): Error while evaluating expression…",
-          "link": "https://fernitudela.dev/2024/01/15/d365fo-ger-error-while-evaluating-expression/",
-          "publishedOn": "2024-01-15T13:38:52.000Z",
-          "wordCount": 4054,
-          "title": "D365FO ER (GER): Error while evaluating expression…",
-          "imageUrl": "https://fernitudela.files.wordpress.com/2024/01/featured-image.png?w=1200"
         }
       ]
     },
@@ -78929,26 +78954,6 @@
           "wordCount": 4110,
           "title": "Azure Key Vault support in ISVLicenseGenerator v0.7",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2024/02/KV.png"
-        },
-        {
-          "id": "https://ariste.info/?p=8218",
-          "author": "Adrià Ariste Santacreu",
-          "description": "I guess that most of my readers will already be aware of this, as I’ve been spamming LinkedIn with the news: I wrote a book! The book is called like this post’s title: “Extending Dynamics 365 Finance and Operations Apps with Power Platform”. It covers some practical scenarios where I show how to use Power… Click here to continue reading I wrote a book! Extending Dynamics 365 Finance and Operations Apps with Power Platform",
-          "link": "https://ariste.info/2024/01/book-dynamics-365-finance-power-platform/",
-          "publishedOn": "2024-01-15T08:29:07.000Z",
-          "wordCount": 3820,
-          "title": "I wrote a book! Extending Dynamics 365 Finance and Operations Apps with Power Platform",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2024/01/I-wrote-a-book-1024x1024.png"
-        },
-        {
-          "id": "https://ariste.info/?p=8264",
-          "author": "Adrià Ariste Santacreu",
-          "description": "Supongo que la mayoría de mis lectores ya estarán al tanto de esto, ya que he estado spameando un poco LinkedIn con la noticia: ¡He escrito un libro! El libro, escrito en inglés, se titula como el título de este post: «Extending Dynamics 365 Finance and Operations Apps with Power Platform». Cubre algunos escenarios prácticos… Continue Reading ¡He escrito un libro! Extending Dynamics 365 Finance and Operations Apps with Power Platform",
-          "link": "https://ariste.info/2024/01/he-escrito-un-libro-extending-dynamics-365-finance-and-operations-apps-with-power-platform/",
-          "publishedOn": "2024-01-15T08:28:45.000Z",
-          "wordCount": 3586,
-          "title": "¡He escrito un libro! Extending Dynamics 365 Finance and Operations Apps with Power Platform",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2024/01/I-wrote-a-book-1024x1024.png"
         }
       ]
     },
@@ -80014,16 +80019,6 @@
           "publishedOn": "2024-01-27T15:31:58.000Z",
           "wordCount": 2898,
           "title": "Using an AI Assistant to Provide Dynamic Help",
-          "imageUrl": null
-        },
-        {
-          "id": "1685 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 01/14/24.\n\n\nLast modified: \n\n01/14/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nAI      \nHelp      \n\nUsing ChatGPT to improve the help experience for your end users\nThis article is about using ChatGPT to help provide contextual help to an end user of Finance and Operations. This is simply an example of how to do it with some extra features to illustrate how AI can be used and also mis-used. I don't expect that this specific use case would be provided in the manner this article shows and for a real solution, you would have a much larger set of training data available for an AI large language model to ingest and provide even better help. With that out the way, let's dig in.\nNew users of Finance and Operations can sometimes face issues getting the training or documentation they …",
-          "link": "https://www.atomicax.com/article/using-ai-provide-help-users",
-          "publishedOn": "2024-01-14T20:41:48.000Z",
-          "wordCount": 1721,
-          "title": "Using AI To Provide Help For Users",
           "imageUrl": null
         }
       ]
