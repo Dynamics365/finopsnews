@@ -2,28 +2,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-14T02:03:23.208Z</updated>
+    <updated>2026-01-15T01:58:28.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Top Microsoft 365 Copilot Prompts to Boost Productivity]]></title>
-        <id>https://365community.online/top-microsoft-365-copilot-prompts-to-boost-productivity</id>
-        <link href="https://365community.online/top-microsoft-365-copilot-prompts-to-boost-productivity"/>
-        <updated>2026-01-14T01:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Here’s the shocking truth: most professionals using Microsoft 365 Copilot are barely scratching 10% of its potential. And that wasted value? It’s the difference between covering your license cost or throwing money into the wind. Today, I’m exposing the exact 10 prompts I rely on daily that make Copilot not just a cool add-on, but […]]]></summary>
+        <title type="html"><![CDATA[Fabric Data Agent in Microsoft Copilot Studio]]></title>
+        <id>https://365community.online/fabric-data-agent-in-microsoft-copilot-studio</id>
+        <link href="https://365community.online/fabric-data-agent-in-microsoft-copilot-studio"/>
+        <updated>2026-01-14T23:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Script 221: The AI Chatbot That Knows All Your Data 1. Introduction Right now, your CRM, ERP, and databases all hold critical insights—but how often do you feel like they’re locked away in silos, impossible to search together? Imagine asking a single chatbot one simple question and instantly getting answers that combine them all. That’s […]]]></summary>
         <author>
             <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Copilot Studio Governance by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
-        <id>https://365community.online/mastering-copilot-studio-governance-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
-        <link href="https://365community.online/mastering-copilot-studio-governance-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
-        <updated>2026-01-14T01:50:07.000Z</updated>
+        <title type="html"><![CDATA[Smart Storage Solutions in Microsoft 365: Guardians of M365 Governance by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/smart-storage-solutions-in-microsoft-365-guardians-of-m365-governance-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/smart-storage-solutions-in-microsoft-365-guardians-of-m365-governance-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-14T23:42:22.000Z</updated>
         <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
         <author>
             <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping in Business Central Without External Systems: How Dynamic Ship Centralizes Carrier Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=139861</id>
+        <link href="https://erpsoftwareblog.com/2026/01/139861/"/>
+        <updated>2026-01-14T23:09:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many Business Central teams still manage shipping in separate systems. Staff members rate shops on carrier websites. They print labels from external tools. They then copy tracking numbers back into […]
+The post Shipping in Business Central Without External Systems: How Dynamic Ship Centralizes Carrier Management appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anatomy of Effective Prompts | Zero to Hero – The Rise of Agents (Lesson 2) – Geetha Sivasailam – YouTube]]></title>
+        <id>https://365community.online/the-anatomy-of-effective-prompts-zero-to-hero-the-rise-of-agents-lesson-2-geetha-sivasailam-youtube</id>
+        <link href="https://365community.online/the-anatomy-of-effective-prompts-zero-to-hero-the-rise-of-agents-lesson-2-geetha-sivasailam-youtube"/>
+        <updated>2026-01-14T20:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Why Most Prompts Fail — And How Builders Get Them Right Zero to Hero – The Rise of Agents | Lesson 02 In Lesson 02 of Zero to Hero – The Rise of Agents, we go deep into one of the most misunderstood (and most critical) skills in the AI-first world: prompt design. This session […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Right Azure Architecture — Public, Hybrid, or Multi-Cloud]]></title>
+        <id>https://365community.online/choosing-the-right-azure-architecture-public-hybrid-or-multi-cloud</id>
+        <link href="https://365community.online/choosing-the-right-azure-architecture-public-hybrid-or-multi-cloud"/>
+        <updated>2026-01-14T20:03:50.000Z</updated>
+        <summary type="html"><![CDATA[You Didn’t Choose This Architecture — It Happened Most organizations believe they chose their architecture. Public cloud. Hybrid. Multi-cloud. They didn’t. What they’re actually living with is the accumulated outcome of exceptions, acquisitions, latency realities, regulatory pressure, and unowned decisions that stacked up over years. One “temporary” workaround at a time. One undocumented dependency at […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Audits & Compliance at Munich Airport by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/enhancing-audits-compliance-at-munich-airport-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/enhancing-audits-compliance-at-munich-airport-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-14T19:58:24.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Dynamics 365 F&SCM is the Best ERP for Medical Device Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=139788</id>
+        <link href="https://erpsoftwareblog.com/2026/01/why-microsoft-dynamics-365-fscm-is-the-best-erp-for-medical-device-manufacturers/"/>
+        <updated>2026-01-14T16:57:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Read Part 1 of our 3-part series to find out how Microsoft Dynamics 365 for MedTech Manufacturers helped a medical device manufacturing company move from chaos to control... Key Takeaways: […]
+The post Why Dynamics 365 F&SCM is the Best ERP for Medical Device Manufacturers appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+Top 5 Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental
+Sycor.Rental for Equipment Rental Industries]]></summary>
+        <author>
+            <name>Joanne, Sycor Americas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Governance as a Blueprint for AI Readiness by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/microsoft-365-governance-as-a-blueprint-for-ai-readiness-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/microsoft-365-governance-as-a-blueprint-for-ai-readiness-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-14T16:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sales and Inventory Forecast in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=46142</id>
+        <link href="https://www.encorebusiness.com/blog/sales-and-inventory-forecast-in-dynamics-365-business-central/"/>
+        <updated>2026-01-14T14:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Sales and Inventory Forecast in Dynamics 365 Business Central
+Manual forecasting often leads to costly mistakes and missed opportunities. The Sales and Inventory Forecast feature in Dynamics 365 Business Central leverages Microsoft Azure AI to help businesses predict future demand and plan replenishment more accurately, helping you move from reactive ordering to a proactive strategy. At Encore, we’ve helped businesses unlock this feature to...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Malone Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Translations]]></title>
+        <id>http://kurthatlevik.com/?p=4925</id>
+        <link href="https://kurthatlevik.com/2026/01/14/d365-translations/"/>
+        <updated>2026-01-14T13:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever been in a D365 implementation project, where translations of data are needed ?  Do you actually know the scope of such a task ?  Spoiler;  It can be a big task when many legal entities and data elements are in need of translation. This list covers all data-level translation surfaces in standard … Continue reading D365 Translations]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Translations]]></title>
+        <id>https://365community.online/d365-translations</id>
+        <link href="https://365community.online/d365-translations"/>
+        <updated>2026-01-14T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever been in a D365 implementation project, where translations of data are needed ?  Do you actually know the scope of such a task ?  Spoiler;  It can be a big task when many legal entities and data elements are in need of translation. This list covers all data-level translation surfaces in standard […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Developer Future? Microsoft Fabric]]></title>
+        <id>https://365community.online/power-bi-developer-future-microsoft-fabric</id>
+        <link href="https://365community.online/power-bi-developer-future-microsoft-fabric"/>
+        <updated>2026-01-14T12:37:23.000Z</updated>
+        <summary type="html"><![CDATA[If Microsoft Copilot can build a Power BI dashboard faster than a trained developer, what does that mean for the future of your job? In this video, we put that exact question to the test with a head-to-head competition between AI and human expertise. One side relies on years of experience, the other on machine […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Dive Into the Microsoft 365 Maturity Model by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/deep-dive-into-the-microsoft-365-maturity-model-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/deep-dive-into-the-microsoft-365-maturity-model-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-14T12:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DataTalk – Conversational AI for Enterprise Intelligence]]></title>
+        <id>https://365community.online/datatalk-conversational-ai-for-enterprise-intelligence</id>
+        <link href="https://365community.online/datatalk-conversational-ai-for-enterprise-intelligence"/>
+        <updated>2026-01-14T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprises today are drowning in data but starving for insight. Dashboards are static, SQL is scarce, and decision-makers are forced to wait while opportunities pass by. DataTalk changes that equation. The post DataTalk – Conversational AI for Enterprise Intelligence first appeared on GeoDataTek. Original Post https://geodatatek.com/blog/datatalk-conversational-ai-for-enterprise-intelligence#utm_source=rss&utm_medium=rss&utm_campaign=datatalk-conversational-ai-for-enterprise-intelligence]]></summary>
+        <author>
+            <name>Vikash Perumal</name>
         </author>
     </entry>
     <entry>
@@ -107671,197 +107804,6 @@ Advanced Picking With Microsoft Dynamics GP]]></summary>
         <summary type="html"><![CDATA[We might see some of the custom actions not appearing in the Actions list inside the Perform Action step of the workflow. This is because the Custom Action would be […]]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian Payroll Incomplete Paycodes message]]></title>
-        <id>https://365community.online/canadian-payroll-incomplete-paycodes-message</id>
-        <link href="https://365community.online/canadian-payroll-incomplete-paycodes-message"/>
-        <updated>2024-01-16T13:45:56.000Z</updated>
-        <summary type="html"><![CDATA[A client ran into this last week and I thought it would be a good topic for a #TipTuesday blog post. The scenario is specific to users with both the […]]]></summary>
-        <author>
-            <name>Jen Kuntz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Webinar: Mobile Barcoding for Warehousing in Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103218</id>
-        <link href="https://erpsoftwareblog.com/2024/01/european-webinar-mobile-barcoding-for-warehousing-in-business-central/"/>
-        <updated>2024-01-16T13:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Explore the Warehouse Insight app for Business Central, offering seamless integration with Business Central for mobile warehouse management. Learn about Warehouse Insight's quick deployment, customisation capabilities, and more in our upcoming webinar.
-The post European Webinar: Mobile Barcoding for Warehousing in Business Central appeared first on ERP Software Blog.
-Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central
-Signature Capture in Business Central: A Comprehensive Guide with Warehouse Insight
-Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionizing Demand Planning: Unleashing Cutting-Edge Features in Dynamics 365 Supply Chain Management’s January Update]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/revolutionizing-demand-planning-unleashing-cutting-edge-features-in-dynamics-365-supply-chain-managements-january-update/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/revolutionizing-demand-planning-unleashing-cutting-edge-features-in-dynamics-365-supply-chain-managements-january-update/"/>
-        <updated>2024-01-16T12:31:45.000Z</updated>
-        <summary type="html"><![CDATA[In conclusion, the recent January release of Dynamics 365 Supply Chain Management Demand Planning has brought forth a wave of transformative features, including "Edit on Total Level," "Filter in Transformation," and "Comments," redefining the landscape for planners with tools that enhance efficiency and collaboration. The incorporation of the System Administrator role, Role Level Access for Contributors, Row Level Access Rules, and advanced security features positions the platform as a robust and secure solution for demand planning needs. With increased flexibility in editing demand plans and promising additions in the upcoming February release, Dynamics 365 is shaping a future of more streamlined and user-friendly demand planning experiences. This release marks a substantial leap forward, promising organizations worldwide a future characterized by smarter and more precise demand planning. As we embrace this evolution in demand planning, Dynamics 365 Supply Chain Management stands as a pioneer, leading the way with innovative features. Stay tuned for ongoing updates and enhancements that will continuously elevate your planning processes to unprecedented heights!
-The post Revolutionizing Demand Planning: Unleashing Cutting-Edge Features in Dynamics 365 Supply Chain Management’s January Update appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Denis Conway</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High CRM Adoption Rates – Importance, challenges, and strategies]]></title>
-        <id>https://365community.online/high-crm-adoption-rates-importance-challenges-and-strategies</id>
-        <link href="https://365community.online/high-crm-adoption-rates-importance-challenges-and-strategies"/>
-        <updated>2024-01-16T11:47:09.000Z</updated>
-        <summary type="html"><![CDATA[In a world driven by customer relationships, the stakes are high, and relying on scattered information in spreadsheets, bundles of files, and desktop folders just won’t cut it. You understood […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Power Automate Solutions: What is a Solution Publisher?]]></title>
-        <id>https://365community.online/working-with-power-automate-solutions-what-is-a-solution-publisher</id>
-        <link href="https://365community.online/working-with-power-automate-solutions-what-is-a-solution-publisher"/>
-        <updated>2024-01-16T11:00:48.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organize smart Marketing Campaigns in 2024 with Maplytics]]></title>
-        <id>https://365community.online/organize-smart-marketing-campaigns-in-2024-with-maplytics</id>
-        <link href="https://365community.online/organize-smart-marketing-campaigns-in-2024-with-maplytics"/>
-        <updated>2024-01-16T10:29:19.000Z</updated>
-        <summary type="html"><![CDATA[The post Organize smart Marketing Campaigns in 2024 with Maplytics appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot in the enhanced mobile experience for D365 Field Service – YouTube]]></title>
-        <id>https://365community.online/copilot-in-the-enhanced-mobile-experience-for-d365-field-service-youtube</id>
-        <link href="https://365community.online/copilot-in-the-enhanced-mobile-experience-for-d365-field-service-youtube"/>
-        <updated>2024-01-16T09:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Copilot in the enhanced mobile experience for D365 Field Service In my last video I showed you the new mobile experience for Dynamics 365 Field Service. Part of the new […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤖New Video:  Business Central Digital Voucher , Configuracion y uso.]]></title>
-        <id>https://365community.online/%f0%9f%a4%96new-video-business-central-digital-voucher-configuracion-y-uso</id>
-        <link href="https://365community.online/%f0%9f%a4%96new-video-business-central-digital-voucher-configuracion-y-uso"/>
-        <updated>2024-01-16T08:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Nuevo Video en mi canal de YouTube. ¿Sabes configurar fácil los comprobantes digitales? En el siguiente video te cuento en cinco minutos como hacerlo. Te leo en los comentarios. Mantente […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📣Comprobantes digitales en Business Central : ⚙️Configuración FÁCIL y Como usarlos🗂️ – YouTube]]></title>
-        <id>https://365community.online/%f0%9f%93%a3comprobantes-digitales-en-business-central-%e2%9a%99%ef%b8%8fconfiguracion-facil-y-como-usarlos%f0%9f%97%82%ef%b8%8f-youtube</id>
-        <link href="https://365community.online/%f0%9f%93%a3comprobantes-digitales-en-business-central-%e2%9a%99%ef%b8%8fconfiguracion-facil-y-como-usarlos%f0%9f%97%82%ef%b8%8f-youtube"/>
-        <updated>2024-01-16T08:00:31.000Z</updated>
-        <summary type="html"><![CDATA[📣Comprobantes digitales en Business Central : ⚙️Configuración FÁCIL y Como usarlos🗂️ 🔹 ¡Bienvenidos a una guía rápida y sencilla para configurar comprobantes digitales en Microsoft Dynamics 365 Business Central! En […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power platform integration for D365F&O VM]]></title>
-        <id>https://365community.online/power-platform-integration-for-d365fo-vm</id>
-        <link href="https://365community.online/power-platform-integration-for-d365fo-vm"/>
-        <updated>2024-01-15T18:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Are you unable to find the Power platform add-ins in the LCS ? It might be because your user id doesn`t have advanced privilege to view or the VM might […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power platform integration for D365F&O VM]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3259</id>
-        <link href="https://anithasantosh.wordpress.com/2024/01/15/power-platform-integration-for-d365fo-vm/"/>
-        <updated>2024-01-15T18:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Are you unable to find the Power platform add-ins in the LCS ? It might be because your user id doesn`t have advanced privilege to view or the VM might not be configured with Power Platform Integration. I can read … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing automatic Copilot enablement in Customer Service]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/01/15/announcing-automatic-copilot-enablement-in-customer-service/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/15/announcing-automatic-copilot-enablement-in-customer-service/"/>
-        <updated>2024-01-15T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Starting January 19, 2024, Microsoft Copilot in Dynamics 365 Customer Service will be automatically installed and enabled in your Dynamics 365 Customer Service environment. 
-The post Announcing automatic Copilot enablement in Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Rushil Vora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Signs You Need to Improve Financial Reporting in Your Dynamics ERP]]></title>
-        <id>https://erpsoftwareblog.com/?p=103099</id>
-        <link href="https://erpsoftwareblog.com/2024/01/7-signs-you-need-to-improve-financial-reporting-in-your-dynamics-erp/"/>
-        <updated>2024-01-15T15:49:54.000Z</updated>
-        <summary type="html"><![CDATA[Effective financial reporting is vital for any business utilizing Dynamics ERP. It's not just about having data; it's about how quickly and accurately you can process and utilize that information, […]
-The post 7 Signs You Need to Improve Financial Reporting in Your Dynamics ERP appeared first on ERP Software Blog.
-Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
-Find New Life for Your Dead-End BPC System with deFacto Planning
-2024 Top Trends in Microsoft Dynamics Financial Reporting]]></summary>
-        <author>
-            <name>FYIsoft, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide on How to Use the Warehouse Item Journal]]></title>
-        <id>https://erpsoftwareblog.com/?p=103215</id>
-        <link href="https://erpsoftwareblog.com/2024/01/a-comprehensive-guide-on-how-to-use-the-warehouse-item-journal/"/>
-        <updated>2024-01-15T15:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Efficient inventory management is crucial for the success of any business, ensuring that products are readily available for customers while minimizing holding costs. The Warehouse Item Journal is a powerful […]
-The post A Comprehensive Guide on How to Use the Warehouse Item Journal appeared first on ERP Software Blog.
-Everything you need to know about Warehouse Order Picking Methods
-How much time does a Business Central implementation take?
-Customizing Workflows in Business Central: Streamline your Business Processes]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inventory and Warehouse Management in Dynamics 365 Finance & Operations]]></title>
-        <id>https://www.encorebusiness.com/?p=59852</id>
-        <link href="https://www.encorebusiness.com/blog/inventory-and-warehouse-management-in-d365-finance-operations/"/>
-        <updated>2024-01-15T15:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Inventory and Warehouse Management in Dynamics 365 Finance & Operations
-You may be curious about the functionality of warehouse management systems (WMS) in Dynamics 365 Finance & Operations and how it can benefit your existing inventory management processes. This article will cover the importance of having a well organized inventory management system, as well as some common drawbacks. It will also introduce the benefits and...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Allen Shannon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Microsoft Dynamics Manufacturing Partners (For 2024)]]></title>
-        <id>https://erpsoftwareblog.com/?p=103212</id>
-        <link href="https://erpsoftwareblog.com/2024/01/best-microsoft-dynamics-manufacturing-partners/"/>
-        <updated>2024-01-15T14:35:32.000Z</updated>
-        <summary type="html"><![CDATA[You’re a small to medium-sized manufacturing company and you want to know the best way to implement an ERP for your business. Well, you’re going to need a partner for […]
-The post Best Microsoft Dynamics Manufacturing Partners (For 2024) appeared first on ERP Software Blog.
-How to Migrate Data to Business Central During Your Upgrade Transition
-Signature Capture in Business Central: A Comprehensive Guide with Warehouse Insight
-Lot Traceability for Chemical Manufacturers in VicinityChem and Microsoft Dynamics ERP]]></summary>
-        <author>
-            <name>Sabre Limited</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing Codeless AI: Gwenael Bego’s Journey from Hong Kong to Paris and Revolutionizing Workf – YouTube]]></title>
-        <id>https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workf-youtube</id>
-        <link href="https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workf-youtube"/>
-        <updated>2024-01-15T14:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Harnessing Codeless AI: Gwenael Bego’s Journey from Hong Kong to Paris and Revolutionizing Workf FULL SHOW NOTES https://podcast.nz365guy.com/517   • Discover the transformative power of AI as Gwenael Bego, Microsoft’s […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
