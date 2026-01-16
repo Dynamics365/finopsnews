@@ -437,6 +437,16 @@
       "siteUrl": "https://denistrunin.com",
       "articles": [
         {
+          "id": "https://denistrunin.com/d365tools-dbsync/",
+          "author": null,
+          "description": "A new utility to synchronize data from D365FO cloud environments to local AxDB, featuring incremental sync and smart strategies.",
+          "link": "https://denistrunin.com/d365tools-dbsync/",
+          "publishedOn": "2026-01-15T12:00:00.000Z",
+          "wordCount": 1684,
+          "title": "Sync data from Dynamics 365 Finance & Operations Azure SQL Database (Tier2) to local SQL Server (AxDB)",
+          "imageUrl": "https://denistrunin.com/static/0bb31c1572f9d001163fb6e130325feb/db955/logo.png"
+        },
+        {
           "id": "https://denistrunin.com/integration-importpurchpdf/",
           "author": null,
           "description": "Learn how to use AI to import purchase orders into Dynamics 365 Finance from complex PDF files. This post covers integration design, sample prompts, and practical code examples.",
@@ -1346,6 +1356,86 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=137574",
+          "author": "Technology Management Concepts",
+          "description": "xxx\n  TL;DR Legacy ERPs like Dynamics GP and NAV are approaching end-of-life, with GP mainstream support ending December 31, 2029 and all NAV versions now past mainstream support. Companies that […]\nThe post What You Lose by Not Moving to Business Central (According to Microsoft’s Latest Roadmap) appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/what-you-lose-by-not-moving-to-business-central-according-to-microsofts-latest-roadmap/",
+          "publishedOn": "2026-01-16T00:55:16.000Z",
+          "wordCount": 7472,
+          "title": "What You Lose by Not Moving to Business Central (According to Microsoft’s Latest Roadmap)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/What-You-Lose-by-Not-Moving-to-Business-Central-625x416.gif"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=137504",
+          "author": "Technology Management Concepts",
+          "description": "xxx\nTL;DR Finance teams rely on Dynamics 365 Business Central because it centralizes accounting, automates manual work, improves reporting, and connects seamlessly with tools like Excel, Power BI, and Microsoft 365. […]\nThe post How Dynamics 365 Business Central Helps Modern Accounting Teams Work Faster, Improve Accuracy, and Prepare for AI appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/how-dynamics-365-business-central-helps-modern-accounting-teams-work-faster-improve-accuracy-and-prepare-for-ai/",
+          "publishedOn": "2026-01-16T00:20:38.000Z",
+          "wordCount": 7988,
+          "title": "How Dynamics 365 Business Central Helps Modern Accounting Teams Work Faster, Improve Accuracy, and Prepare for AI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-Dynamics-365-Business-Central-Helps-Modern-Accounting-Teams-Work-Faster-Improve-Accuracy-and-Prepare-for-AI.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139871",
+          "author": "Insight Works",
+          "description": "xxx\nMany organizations struggle to control shipping costs in Microsoft Dynamics 365 Business Central. Sales teams often estimate freight during order entry. Warehouse teams confirm actual costs later in separate carrier […]\nThe post How Real-Time Rate Shopping in Business Central Improves Shipping Cost Control appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2026/01/how-real-time-rate-shopping-in-business-central-improves-shipping-cost-control/",
+          "publishedOn": "2026-01-15T20:44:50.000Z",
+          "wordCount": 7252,
+          "title": "How Real-Time Rate Shopping in Business Central Improves Shipping Cost Control",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/COVER-How-Real-Time-Rate-Shopping-in-Business-Central-Improves-Shipping-Cost-Control.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139838",
+          "author": "Tigunia",
+          "description": "xxx\nYou've chosen Microsoft Dynamics 365 Business Central (previously Dynamics NAV) to transform your operations. Smart choice. However, here's the uncomfortable truth: choosing the right ERP system is only the first step. Nearly […]\nThe post Your Dynamics 365 Business Central Partner Can Make or Break Your ERP Success appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/your-dynamics-365-business-central-partner-can-make-or-break-your-erp-success/",
+          "publishedOn": "2026-01-15T20:19:14.000Z",
+          "wordCount": 7156,
+          "title": "Your Dynamics 365 Business Central Partner Can Make or Break Your ERP Success",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/choosing-the-wrong-dynamics-partner-linkedin.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139937",
+          "author": "Mary Miller, PayTrace",
+          "description": "xxx\n  PayTrace is a Silver Sponsor again at this year's Acumatica Summit in Seattle, Washington. Last year's event was nothing short of amazing, and we can’t wait to meet with […]\nThe post Visit PayTrace at Acumatica Summit to learn how embedded payments accelerate cash flow appeared first on ERP Software Blog.\nDynamics GP 2010 and Convergence 2011\nMicrosoft Convergence 2011 – Tips and Tricks\nSecrets for Microsoft's Customer Conference Convergence 2011",
+          "link": "https://erpsoftwareblog.com/2026/01/join-paytrace-at-acumatica-summit-and-learn-about-embedded-payments/",
+          "publishedOn": "2026-01-15T19:10:21.000Z",
+          "wordCount": 6807,
+          "title": "Visit PayTrace at Acumatica Summit to learn how embedded payments accelerate cash flow",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AcumaticaSummit26-blog@2x.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139935",
+          "author": "Dynamic Budgets",
+          "description": "xxx\nERP Upgrades Without the Headache: Keep Your Budgeting Process Intact Upgrading your ERP system is a major milestone. It promises modernization, efficiency, and scalability. But for many organizations, ERP transitions […]\nThe post Seamless ERP Transition from Legacy Systems to Modern Platforms: The Right Budgeting Solution Streamlines Your Migration appeared first on ERP Software Blog.\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nCase Study: Embracing ClickLearn as a corporate Dynamics 365 training platform\nAutomated Vendor Validation: Secure and Simplify AP Compliance",
+          "link": "https://erpsoftwareblog.com/2026/01/seamless-erp-transition-from-legacy-systems-to-modern-platforms-the-right-budgeting-solution-streamlines-your-migration/",
+          "publishedOn": "2026-01-15T18:50:46.000Z",
+          "wordCount": 6963,
+          "title": "Seamless ERP Transition from Legacy Systems to Modern Platforms: The Right Budgeting Solution Streamlines Your Migration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dynamic-budgets-llc-logo.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139796",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nInbound container handling is a critical process for manufacturers and distributors in the United States. It involves managing containers arriving from suppliers, ensuring accurate documentation, and streamlining the movement of […]\nThe post Inbound Container Handling in Microsoft Dynamics 365: A Complete Guide for US Manufacturers  appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/inbound-container-handling-in-microsoft-dynamics-365/",
+          "publishedOn": "2026-01-15T12:09:03.000Z",
+          "wordCount": 7314,
+          "title": "Inbound Container Handling in Microsoft Dynamics 365: A Complete Guide for US Manufacturers",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Inbound-Container-Handling.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=139878",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nEnterprise Resource Planning programs are often evaluated by how quickly the system goes live or how closely the implementation follows the original scope. However, long-term success is rarely determined by […]\nThe post The Role of Integration Architecture in Successful ERP Programs appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/01/the-role-of-integration-architecture-in-successful-erp-programs/",
+          "publishedOn": "2026-01-15T03:40:23.000Z",
+          "wordCount": 7425,
+          "title": "The Role of Integration Architecture in Successful ERP Programs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/role-of-integration-architecture-in-successful-erp-programs.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=139861",
           "author": "Insight Works",
@@ -35245,86 +35335,6 @@
           "wordCount": 7678,
           "title": "How to Automate Your Ordering Process with StockIQ's Supply Chain Planning Solution",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103158",
-          "author": "Insight Works",
-          "description": "Document Storage in Dynamics 365 Business Central gets a significant boost with Insight Works' DocXtender. Since 2017, this free app has offered a comprehensive solution, simplifying document management with features like drag-and-drop, SharePoint integration, and support for various document types.\nThe post Enhanced Document Storage in Dynamics 365 Business Central appeared first on ERP Software Blog.\nNavigating Document Storage in Business Central\nGraphical Scheduler v1.8: Elevating Production Scheduling\nFree Business Central Apps to Fill the Gaps",
-          "link": "https://erpsoftwareblog.com/2024/01/enhanced-document-storage-in-dynamics-365-business-central/",
-          "publishedOn": "2024-01-17T13:05:18.000Z",
-          "wordCount": 7548,
-          "title": "Enhanced Document Storage in Dynamics 365 Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DocXtender-250.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103264",
-          "author": "Western Computer",
-          "description": "Are you thinking of upgrading your Dynamics system but feel overwhelmed by potential costs and operational disruptions? You are not alone. In the evolving business tech world, the journey to […]\nThe post Video: Options for Migrating Your Legacy ERP to the Cloud appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nGet More in the Cloud with Dynamics 365 Business Central\nOutgrowing Legacy Finance Software and the Bad Consequences for Your Business",
-          "link": "https://erpsoftwareblog.com/2024/01/video-options-for-migrating-your-legacy-erp-to-the-cloud/",
-          "publishedOn": "2024-01-16T17:37:05.000Z",
-          "wordCount": 7521,
-          "title": "Video: Options for Migrating Your Legacy ERP to the Cloud",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2024-01-16-at-12.35.53 PM.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103186",
-          "author": "ERP Software Blog Writer",
-          "description": "First a failed migration. Then, a cyberattack. This mid-sized manufacturing/distribution company was unable to access its data, and operations stopped. No ability to invoice, ship, or pay vendors for weeks, […]\nThe post ERP Horror Story Interview January 30: Ransomware Attack Cripples Manufacturer’s On-Premise ERP System appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nTo Be, or Not to Be in the Cloud…That is the Question: Pros and Cons of Cloud Computing\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix",
-          "link": "https://erpsoftwareblog.com/2024/01/erp-horror-story-interview-january-30-ransomware-attack-cripples-manufacturers-on-premise-erp-system/",
-          "publishedOn": "2024-01-16T17:36:42.000Z",
-          "wordCount": 7742,
-          "title": "ERP Horror Story Interview January 30: Ransomware Attack Cripples Manufacturer’s On-Premise ERP System",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Banner-ERP-Horror-Story-Western2.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103007",
-          "author": "CAL Business Solutions, Inc.",
-          "description": "Microsoft Dynamics 365 Business Central is a cloud-based ERP solution that helps businesses manage their operations, finances, and resources in a unified and efficient way. Business Central is not just […]\nThe post 7 Reasons Businesses Choose Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nHow Can Microsoft Dynamics enable better data access with powerful Financial Reporting?\nMicrosoft Dynamics 365 Business Central: Essentials vs. Premium",
-          "link": "https://erpsoftwareblog.com/2024/01/7-reasons-businesses-choose-microsoft-dynamics-365-business-central/",
-          "publishedOn": "2024-01-16T17:35:42.000Z",
-          "wordCount": 7729,
-          "title": "7 Reasons Businesses Choose Microsoft Dynamics 365 Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/7-Reasons-Businesses-Choose-Microsoft-Dynamics-365-Business-Central.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103205",
-          "author": "x2x eCommerce",
-          "description": "The importance of Data mapping in Integration is critical, ensuring that information from one system aligns with the structure and requirements of another. While integrating different applications, databases, or systems, […]\nThe post Importance of Data Mapping in Integration appeared first on ERP Software Blog.\nEvolving Role of ERP in Remote Work Environments\nMaking the Move to Mobile\nOn-premise vs Cloud-based - 10 Considerations",
-          "link": "https://erpsoftwareblog.com/2024/01/importance-of-data-mapping-in-integration/",
-          "publishedOn": "2024-01-16T17:16:44.000Z",
-          "wordCount": 7416,
-          "title": "Importance of Data Mapping in Integration",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-40-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103126",
-          "author": "HSO",
-          "description": "Introduction In the challenging landscape of regulated industry manufacturing, the integration of robust Enterprise Resource Planning (ERP) systems is not just beneficial—it's essential. These industries face unique challenges where efficiency, […]\nThe post Empowering Regulated Manufacturing with Advanced ERP Solutions: The HSO Edge appeared first on ERP Software Blog.\nHow construction equipment rental businesses can add dealership to their portfolio\nRent, Service, Repeat - Microsoft Dynamics 365 for Equipment Rental Management\nCustomize Your Microsoft Dynamics AX…?? Learn from Travel Industry",
-          "link": "https://erpsoftwareblog.com/2024/01/empowering-regulated-manufacturing-with-advanced-erp-solutions-the-hso-edge/",
-          "publishedOn": "2024-01-16T17:00:05.000Z",
-          "wordCount": 7445,
-          "title": "Empowering Regulated Manufacturing with Advanced ERP Solutions: The HSO Edge",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103251",
-          "author": "iCepts Technology Group, Inc.",
-          "description": "More and more companies today rely on ECommerce solutions to help grow their business.  One powerful solution that has gained prominence is the integration between Shopify, a leading e-commerce platform, […]\nThe post 3 Benefits of Shopify to Microsoft Business Central Integration appeared first on ERP Software Blog.\nExploring ERP: Fixed Assets in Microsoft Business Central\nMicrosoft Dynamics ERP: Get a Price Quote Instantly\nWebinar | How to Navigate Supply Chain Disruptions & Stay Productive",
-          "link": "https://erpsoftwareblog.com/2024/01/3-benefits-of-shopify-to-microsoft-business-central-integration/",
-          "publishedOn": "2024-01-16T16:50:26.000Z",
-          "wordCount": 7553,
-          "title": "3 Benefits of Shopify to Microsoft Business Central Integration",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103248",
-          "author": "Dynamics Square USA",
-          "description": "AI-powered experiences Redefining Dynamics 365 Business Central The ever-growing evolution of AI is transforming the business management scenario. According to a recent survey, 73% of US companies have adopted Generative […]\nThe post Artificial Intelligence in Dynamics 365 Business Central appeared first on ERP Software Blog.\nERP Software Trends for 2011: Social Media Integration and Facebook-ization of ERP\nERP Software Proves To Be a Smart Investment\nAdvanced Picking With Microsoft Dynamics GP",
-          "link": "https://erpsoftwareblog.com/2024/01/artificial-intelligence-in-dynamics-365-business-central/",
-          "publishedOn": "2024-01-16T14:59:49.000Z",
-          "wordCount": 7904,
-          "title": "Artificial Intelligence in Dynamics 365 Business Central",
-          "imageUrl": "https://www.activebs.com/Files/Filer/news/2023/dynamics-365-copilot/dynamics-365-copilot-business-central.webp"
         }
       ]
     },
@@ -36820,6 +36830,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/top-microsoft-365-security-settings-to-protect-your-m365-data",
+          "author": "Mirko Peters",
+          "description": "Have you ever turned on a new security policy in M365… only to get a flood of Monday morning tickets from unhappy users? If that sounds familiar, you’re not alone. Today, we’re going to cover 10 critical settings that lock down your tenant, but won’t lock out your users. The trick is balancing ironclad security […]",
+          "link": "https://365community.online/top-microsoft-365-security-settings-to-protect-your-m365-data",
+          "publishedOn": "2026-01-16T00:39:59.000Z",
+          "wordCount": 6054,
+          "title": "Top Microsoft 365 Security Settings to Protect Your M365 Data",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768524000_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/governance-ai-with-mvps-joanne-klein-david-drever-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/governance-ai-with-mvps-joanne-klein-david-drever-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-16T00:34:37.000Z",
+          "wordCount": 2355,
+          "title": "Governance AI with MVPs Joanne Klein & David Drever by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1717530353656-763346cc26e5b.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/introducing-microsoft-places-ai-powered-workplace-coordination",
+          "author": "Mirko Peters",
+          "description": "You show up at the office tomorrow and realize—you’re the only one there. No coworkers, no energy, just empty desks. Or worse, you planned to stay home, only to discover you had an in-person meeting scheduled. Hybrid work promised flexibility, but it often feels like chaos. The bigger question is—why are we still managing […]",
+          "link": "https://365community.online/introducing-microsoft-places-ai-powered-workplace-coordination",
+          "publishedOn": "2026-01-15T20:47:11.000Z",
+          "wordCount": 6289,
+          "title": "Introducing Microsoft Places: AI-Powered Workplace Coordination",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768510032_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-microsoft-loop-will-impact-your-governance-strategy-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/how-microsoft-loop-will-impact-your-governance-strategy-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-15T20:41:59.000Z",
+          "wordCount": 2349,
+          "title": "How Microsoft Loop will impact your Governance Strategy by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1717831239674-eda91f364d29a.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/moving-legacy-systems-to-azure-without-breaking-the-business",
+          "author": "Mirko Peters",
+          "description": "The Uncomfortable Truth About Cloud Migrations — And the Promise Most organizations think cloud migrations fail because of a bad technical choice: the wrong service, the wrong network model, the wrong SKU. That’s comforting—and wrong. Migrations fail because leadership frames them as IT projects: move the servers, hit the date, don’t disrupt the business. That […]",
+          "link": "https://365community.online/moving-legacy-systems-to-azure-without-breaking-the-business",
+          "publishedOn": "2026-01-15T17:11:47.000Z",
+          "wordCount": 3302,
+          "title": "Moving Legacy Systems to Azure Without Breaking the Business",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/94eb5e4fd05def6764891d2143a7b30a.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/successful-planning-for-governance-microsoft-copilot-with-susan-hanley-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/successful-planning-for-governance-microsoft-copilot-with-susan-hanley-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-15T17:06:42.000Z",
+          "wordCount": 2360,
+          "title": "Successful Planning for Governance & Microsoft Copilot with Susan Hanley by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1718268256063-68bfbaccb7092.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-anatomy-of-effective-prompts-zero-to-hero-the-rise-of-agents-lesson-2-geetha-sivasailam-youtube-2",
+          "author": "Victor Dantas",
+          "description": "Why Most Prompts Fail — And How Builders Get Them Right Zero to Hero – The Rise of Agents | Lesson 02 In Lesson 02 of Zero to Hero – The Rise of Agents, we go deep into one of the most misunderstood (and most critical) skills in the AI-first world: prompt design. This session […]",
+          "link": "https://365community.online/the-anatomy-of-effective-prompts-zero-to-hero-the-rise-of-agents-lesson-2-geetha-sivasailam-youtube-2",
+          "publishedOn": "2026-01-15T16:20:32.000Z",
+          "wordCount": 2185,
+          "title": "The Anatomy of Effective Prompts | Zero to Hero – The Rise of Agents (Lesson 2) – Geetha Sivasailam – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768514425_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-copilot-measuring-ai-productivity",
+          "author": "Mirko Peters",
+          "description": "Copilot isn’t just about typing less—it can literally change how decisions are made. Companies that thought they were just saving hours suddenly realized they were uncovering completely new business insights. 30 euros a month suddenly feels small compared to the decisions that drove revenue growth. In this session, we’ll pull back the curtain on actual […]",
+          "link": "https://365community.online/microsoft-365-copilot-measuring-ai-productivity",
+          "publishedOn": "2026-01-15T13:23:23.000Z",
+          "wordCount": 6211,
+          "title": "Microsoft 365 Copilot: Measuring AI Productivity",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768483403_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-ins-and-outs-of-data-governance-with-m365-purview-records-management-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/the-ins-and-outs-of-data-governance-with-m365-purview-records-management-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace",
+          "publishedOn": "2026-01-15T13:18:15.000Z",
+          "wordCount": 2370,
+          "title": "The Ins and Outs of Data Governance with M365 Purview Records Management by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1719143554125-0441df97178d6.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-apps-form-fails-to-submit-to-sharepoint-list-error-help",
+          "author": "Mirko Peters",
+          "description": "Your SharePoint form looks amazing in PowerApps… until it doesn’t. Suddenly, the button isn’t saving correctly. The field validation behaves oddly. And performance feels like it’s walking through mud. Here’s the truth: PowerApps forms often look deceptively simple but contain pitfalls that catch most professionals off guard. Today you’ll see exactly where those pitfalls emerge […]",
+          "link": "https://365community.online/power-apps-form-fails-to-submit-to-sharepoint-list-error-help",
+          "publishedOn": "2026-01-15T09:36:48.000Z",
+          "wordCount": 6151,
+          "title": "Power Apps Form Fails to Submit to SharePoint List: Error Help",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/1768469808_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/fabric-data-agent-in-microsoft-copilot-studio",
           "author": "Mirko Peters",
@@ -76369,101 +76479,6 @@
           "wordCount": 3132,
           "title": "Fix – Cannot write more bytes to the buffer than the configured maximum buffer size: 104857600 (Power Automate / Dataverse)",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Fix-–-Cannot-write-more-bytes-to-the-buffer-than.jpeg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/journey-of-a-microsoft-mvp-nanddeep-nachans-evolution-from-java-developer-to-office-365-expert-and-community-luminary",
-          "author": "NZ365Guy",
-          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/518  Embark on a captivating journey with Nanddeep Nachan, an esteemed Office 365 consultant from Pune and a Microsoft MVP since 2019. His tale is one of […]",
-          "link": "https://365community.online/journey-of-a-microsoft-mvp-nanddeep-nachans-evolution-from-java-developer-to-office-365-expert-and-community-luminary",
-          "publishedOn": "2024-01-17T13:00:00.000Z",
-          "wordCount": 3119,
-          "title": "Journey of a Microsoft MVP: Nanddeep Nachan's Evolution from Java Developer to Office 365 Expert and Community Luminary",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1796418/14238369-journey-of-a-microsoft-mvp-nanddeep-nachan-s-evolution-from-java-developer-to-office-365-expert-and-community-luminary.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/novidades-do-microsoft-copilot-pro-gpt-4-licencas-e-muito-mais-youtube",
-          "author": "Renato Romao de Souza",
-          "description": "Olá pessoal, tudo bem? 📱 Objetivo do vídeo Entender o lançamento do Microsoft Copilot Pro, uma novidade da Microsoft com o intuito de melhorar o seu dia-a-dia com a Inteligência […]",
-          "link": "https://365community.online/novidades-do-microsoft-copilot-pro-gpt-4-licencas-e-muito-mais-youtube",
-          "publishedOn": "2024-01-17T12:01:18.000Z",
-          "wordCount": 3077,
-          "title": "NOVIDADES DO MICROSOFT COPILOT PRO | GPT-4, Licenças e muito mais – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705525561_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/working-with-power-automate-solutions-create-a-solution-publisher",
-          "author": "Ian Grieve",
-          "description": "This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]",
-          "link": "https://365community.online/working-with-power-automate-solutions-create-a-solution-publisher",
-          "publishedOn": "2024-01-17T11:00:12.000Z",
-          "wordCount": 3043,
-          "title": "Working with Power Automate Solutions: Create a Solution Publisher",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/understanding-your-unassigned-data-in-ga4-with-custom-channels",
-          "author": "Megan V. Walker",
-          "description": "If you are using Google Analytics (GA4), and are reviewing any of the acquisition reports, you’ll likely have seen some of that traffic showing up as unassigned. If Google doesn’t […]",
-          "link": "https://365community.online/understanding-your-unassigned-data-in-ga4-with-custom-channels",
-          "publishedOn": "2024-01-17T08:30:00.000Z",
-          "wordCount": 3022,
-          "title": "Understanding Your Unassigned Data In GA4 With Custom Channels",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Understanding-Your-Unassigned-Data-In-GA4-With-Custom-Channels.jpg?fit=1200%2C900&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mobilise-your-team-with-power-apps-mobile",
-          "author": "Chris Roberts",
-          "description": "Did you know that if you are you currently using Microsoft Dynamics 365 or #MicrosoftPowerApps you have access to a FREE app that can help you mobilise your teams? Here’s […]",
-          "link": "https://365community.online/mobilise-your-team-with-power-apps-mobile",
-          "publishedOn": "2024-01-17T08:00:00.000Z",
-          "wordCount": 3060,
-          "title": "Mobilise your Team with Power Apps Mobile",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Mobilise-your-Team-with-Power-Apps-Mobile.jpg?fit=1200%2C1200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/visual-formatting-using-on-object-preview-feature-in-power-bi",
-          "author": "Inogic",
-          "description": "Microsoft Power BI is an interactive tool to visualize the data. Using Power BI, users can interact with the data in order to develop business reports and make business-level decisions. […]",
-          "link": "https://365community.online/visual-formatting-using-on-object-preview-feature-in-power-bi",
-          "publishedOn": "2024-01-17T04:56:50.000Z",
-          "wordCount": 3313,
-          "title": "Visual Formatting Using On-Object (Preview) Feature in Power BI",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Visual-Formatting-using-On-object-Feature-in-Power-BI.jpeg?fit=1110%2C656&ssl=1"
-        },
-        {
-          "id": "https://365community.online/enable-copilot-for-dynamics-365-sales-environment",
-          "author": "Priyesh Wagh",
-          "description": "Copilot for Dynamics 365 Sales is in Preview at the point of writing this post. Hence, I’ll start by showing how you can turn Copilot for Dynamics 365 Sales on […]",
-          "link": "https://365community.online/enable-copilot-for-dynamics-365-sales-environment",
-          "publishedOn": "2024-01-16T17:11:19.000Z",
-          "wordCount": 3040,
-          "title": "Enable Copilot for Dynamics 365 Sales environment",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-Copilot-for-Dynamics-365-Sales-environment.png?fit=1200%2C880&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-feature-release-of-the-d365fo-admin-toolkit-v1-1",
-          "author": "Alex Meyer",
-          "description": "There has been some fantastic feedback already about the D365FO Admin Toolkit! I appreciate everyone that reached out with feature requests, bugs they found, and overall encouragement! Based on all […]",
-          "link": "https://365community.online/new-feature-release-of-the-d365fo-admin-toolkit-v1-1",
-          "publishedOn": "2024-01-16T15:56:53.000Z",
-          "wordCount": 3031,
-          "title": "New Feature Release of the D365FO Admin Toolkit (v1.1)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/New-Feature-Release-of-the-D365FO-Admin-Toolkit-v11.png?fit=590%2C268&ssl=1"
-        },
-        {
-          "id": "https://365community.online/custom-actions-missing-in-the-perform-action-step-of-the-workflow-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "We might see some of the custom actions not appearing in the Actions list inside the Perform Action step of the workflow. This is because the Custom Action would be […]",
-          "link": "https://365community.online/custom-actions-missing-in-the-perform-action-step-of-the-workflow-dataverse-dynamics-365",
-          "publishedOn": "2024-01-16T14:00:00.000Z",
-          "wordCount": 3101,
-          "title": "Custom Actions missing in the “Perform Action” step of the workflow (Dataverse / Dynamics 365)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Custom-Actions-missing-in-the-Perform-Action-step-of-the.jpeg?fit=1200%2C900&ssl=1"
         }
       ]
     },
@@ -78725,16 +78740,6 @@
           "wordCount": 4087,
           "title": "New Release of D365FO Admin Toolkit v1.2",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/01/1-2.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=3022",
-          "author": "Alex",
-          "description": "There has been some fantastic feedback already about the D365FO Admin Toolkit! I appreciate everyone that reached out with feature requests, bugs they found, and overall encouragement! Based on all of the feedback we already have a new release with some new features, bug fixes, and functionality changes. See below for details! Version 1.1 Release […]\nThe post New Feature Release of the D365FO Admin Toolkit (v1.1) appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2024/01/16/new-feature-release-of-the-d365fo-admin-toolkit-v1-1/",
-          "publishedOn": "2024-01-16T15:56:53.000Z",
-          "wordCount": 4245,
-          "title": "New Feature Release of the D365FO Admin Toolkit (v1.1)",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/01/1-1.png"
         }
       ]
     },
@@ -82971,16 +82976,6 @@
           "wordCount": 4061,
           "title": "Microsoft named as a worldwide Leader in four IDC MarketScapes for Field Service Management & Service Life-Cycle",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/MSFT_Dynamics365_Jan_10_Blog_240110_Final_1200.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/prepare-your-organization-for-conversation-intelligence-data-migration-into-dataverse/",
-          "author": "Asaf Tzuk",
-          "description": "During the 1st quarter of 2024, sales conversation intelligence data will migrate from its current storage location (Microsoft provided storage) across to each customer’s Dataverse organization\nThe post Prepare your organization for conversation intelligence data migration into Dataverse appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/prepare-your-organization-for-conversation-intelligence-data-migration-into-dataverse/",
-          "publishedOn": "2024-01-16T17:26:48.000Z",
-          "wordCount": 3635,
-          "title": "Prepare your organization for conversation intelligence data migration into Dataverse",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/MDC22_ServerBlade_006-scaled.jpg"
         }
       ]
     },
@@ -84412,6 +84407,16 @@
       "feedUrl": "https://sandeepchaudhuryd365.com/feed/",
       "siteUrl": "https://sandeepchaudhuryd365.com",
       "articles": [
+        {
+          "id": "http://sandeepchaudhuryd365.com/?p=9147",
+          "author": "Sandeep Chaudhury",
+          "description": "In the era AI‑powered business applications, project‑based organizations need more than accurate accounting. They need agility, end‑to‑end visibility, and connected processes to deliver profitable and predictable outcomes. Many organizations still rely on the legacy Project Management and Accounting (PMA) module in Dynamics 365 Finance & Operations. While PMA has served businesses well for project financial […]",
+          "link": "https://sandeepchaudhuryd365.com/2026/01/15/modernizing-your-project-management-accounting-pma-why-its-time-to-upgrade-to-the-dynamics-365-project-operations-modern-architecture/",
+          "publishedOn": "2026-01-15T03:24:53.000Z",
+          "wordCount": 6173,
+          "title": "Modernizing Your Project Management & Accounting (PMA): Why It’s Time to Upgrade to the Dynamics 365 Project Operations Modern Architecture",
+          "imageUrl": "https://i0.wp.com/sandeepchaudhuryd365.com/wp-content/uploads/2026/01/pexels-photo-416405.jpeg?fit=1200%2C750&ssl=1"
+        },
         {
           "id": "http://sandeepchaudhuryd365.com/?p=8754",
           "author": "Sandeep Chaudhury",
