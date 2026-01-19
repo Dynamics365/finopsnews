@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-18T02:07:02.758Z</updated>
+    <updated>2026-01-19T02:05:15.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot Agent or Copilot Hype? The Hard Choice]]></title>
+        <id>https://365community.online/copilot-agent-or-copilot-hype-the-hard-choice</id>
+        <link href="https://365community.online/copilot-agent-or-copilot-hype-the-hard-choice"/>
+        <updated>2026-01-19T00:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Do you really need your own Copilot Studio Agent—or is that just the AI hype talking? This is the decision almost every business runs into right now. Start too fast with the wrong Copilot, and you waste months. Start too slow, and you fall behind competitors already automating smarter. In this session, I’ll walk you […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#34 Outlook Spaces AKA Project Moca: Interview with Luise Freese by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/34-outlook-spaces-aka-project-moca-interview-with-luise-freese-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/34-outlook-spaces-aka-project-moca-interview-with-luise-freese-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-19T00:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Access in M365: Brilliant or Broken?]]></title>
+        <id>https://365community.online/guest-access-in-m365-brilliant-or-broken</id>
+        <link href="https://365community.online/guest-access-in-m365-brilliant-or-broken"/>
+        <updated>2026-01-18T21:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a brutal truth: every time you invite a guest into Microsoft 365, you might be exposing your data in ways your compliance team never signed off on. It’s not obvious, and that’s exactly the problem. Most organizations think they’ve got it locked down—until an audit proves otherwise. In this workshop, we’ll break down the […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#35 Microsoft Stream News der Ignite zu mit Tomislav Karafilov by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/35-microsoft-stream-news-der-ignite-zu-mit-tomislav-karafilov-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/35-microsoft-stream-news-der-ignite-zu-mit-tomislav-karafilov-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-18T21:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Tooling Is The Architectural Lie]]></title>
+        <id>https://365community.online/why-tooling-is-the-architectural-lie</id>
+        <link href="https://365community.online/why-tooling-is-the-architectural-lie"/>
+        <updated>2026-01-18T17:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations believe Azure scale is a tooling problem. If they buy the right CI/CD suite, the right monitoring stack, the right infrastructure-as-code framework, the chaos will stop. They are wrong. Scale fails as drift, queues, and “just this once” exceptions that quietly turn into permanent backchannels. Tooling does not prevent entropy. It accelerates it. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#36 Why we don’t use Microsoft Teams for our Teams News Show by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/36-why-we-dont-use-microsoft-teams-for-our-teams-news-show-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/36-why-we-dont-use-microsoft-teams-for-our-teams-news-show-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-18T17:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing Inventory Problems Are a Margin Problem — Not a Warehouse Problem]]></title>
+        <id>https://erpsoftwareblog.com/?p=140017</id>
+        <link href="https://erpsoftwareblog.com/2026/01/manufacturing-inventory-problems-are-a-margin-problem-not-a-warehouse-problem/"/>
+        <updated>2026-01-18T17:18:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Quick Answer Manufacturing inventory problems reduce margin because inaccurate inventory data leads to poor planning, excess purchasing, expediting, scrap, and distorted financial reporting. These issues are often blamed on the […]
+The post Manufacturing Inventory Problems Are a Margin Problem — Not a Warehouse Problem appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Stephanie Clark, Elliott Clark Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing Third-Party Apps into D365HR]]></title>
+        <id>https://365community.online/bringing-third-party-apps-into-d365hr</id>
+        <link href="https://365community.online/bringing-third-party-apps-into-d365hr"/>
+        <updated>2026-01-18T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[One of my favorite things about Dynamics 365 Human Resources – or any D365 AI ERP app – has always been how extensible it is. Being able to add small, purposeful functionalities exactly where users already work makes a huge  difference to the overall experience. Not big transformations or massive redesigns: just smart additions, in […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Tasks: Why You’re Drowning]]></title>
+        <id>https://365community.online/microsoft-365-tasks-why-youre-drowning</id>
+        <link href="https://365community.online/microsoft-365-tasks-why-youre-drowning"/>
+        <updated>2026-01-18T14:13:40.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever opened Microsoft 365 and thought, “Why do I have five different apps telling me about the same task?”—you’re not alone. Planner says one thing, To Do says another, and Outlook is pinging you in the middle. The real problem isn’t that the tools don’t work—it’s figuring out when to use which one. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#37 Microsoft Teams Shifts (Schichten Management) mit Andreas Schlüter by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/37-microsoft-teams-shifts-schichten-management-mit-andreas-schluter-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/37-microsoft-teams-shifts-schichten-management-mit-andreas-schluter-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-18T14:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why SharePoint Fails at Knowledge Management]]></title>
+        <id>https://365community.online/why-sharepoint-fails-at-knowledge-management</id>
+        <link href="https://365community.online/why-sharepoint-fails-at-knowledge-management"/>
+        <updated>2026-01-18T10:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever opened SharePoint, searched for a document, and ended up finding five different versions of the same thing—none of which were current? You’re not alone. Most companies treat SharePoint like a dumping ground, and it becomes chaos fast. But here’s the thing: it doesn’t have to work like this. There are very specific […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Your M365 Rollout Quietly Failing?]]></title>
         <id>https://365community.online/is-your-m365-rollout-quietly-failing</id>
@@ -107578,292 +107693,6 @@ The post The F&O Twist on Process Mining – Use a data entity to connect a proc
         <summary type="html"><![CDATA[#149. Andrew Welch is the Chief Technology Officer at HSO. Andrew is an expert in IT strategy and has a wealth of experience advising customers on their big strategic technology […]]]></summary>
         <author>
             <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set up Online VM for Dynamics 365 FO for Learning Purpose]]></title>
-        <id>https://d365fotechexpert.blogspot.com/2024/01/set-up-online-vm-for-dynamics-365-fo.html</id>
-        <link href="https://d365fotechexpert.blogspot.com/2024/01/set-up-online-vm-for-dynamics-365-fo.html"/>
-        <updated>2024-01-20T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog, I will discuss how we set up an online VM for D365F&O for Technical and Functional learning purposes for free.
-
-Step: 1 Click this link to set up a free Azure VM. 
-
-
-
-
-
-
-
-
-
-
-
-Step: 2 Sign-in with your email (outlook, live, or Hotmail). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Step: 3 Provide your details. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Step: 4 Select roles. (I have selected roles as per technical requirement)
-
-
-
-Step: 5 Select your level.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Step: 6 Select products you have interested in.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Step: 7 Complete the setup.
-
-
-
-
-
-
-
-
-
-
-
-When you completed the setup, launch VM mode as shown in the image.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-When VM started Type Password as shown in the image.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-After you type the password basic admin provisioning command will run as shown in the below image.
-
-
-
-
-
-
-
-
-
-
-
-
-As you select the password, now select sign-in email and password as shown in the images.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-That is all. You can now use this VM for technical and functional learning as you like.
-
-
-
-
-
-
-
-
-
-Note: VM has a time limit for 2 hours. Also, there is no need to create another account after the VM is expired simply re-login with your existing account and you are good to go.]]></summary>
-        <author>
-            <name>D365 F&amp;O TechExpert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So what’s in a name?… Apparently a lot if you’re Microsoft.]]></title>
-        <id>https://erpsoftwareblog.com/?p=103327</id>
-        <link href="https://erpsoftwareblog.com/2024/01/so-whats-in-a-name-apparently-a-lot-if-youre-microsoft/"/>
-        <updated>2024-01-19T21:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has the tendency to change the names of products on a regular basis, and in most cases, not because of any major change in the product (although major advancements […]
-The post So what’s in a name?… Apparently a lot if you’re Microsoft. appeared first on ERP Software Blog.
-17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP
-Nobody Wants to Experience an ACA Audit
-Do All Manufacturers Need the Extended Pack in Dynamics GP?]]></summary>
-        <author>
-            <name>ACE Micro, LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Correct a Dimension in Microsoft Dynamics 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103313</id>
-        <link href="https://erpsoftwareblog.com/2024/01/how-to-correct-a-dimension-in-microsoft-dynamics-365-business-central/"/>
-        <updated>2024-01-19T17:22:16.000Z</updated>
-        <summary type="html"><![CDATA[With the Correct Dimensions feature in Dynamics 365 Business Central, you can correct a dimension easily if needed. To correct a dimension, go to General Ledger Entries > Process > […]
-The post How to Correct a Dimension in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
-How to Create a Test Company Within the Production and Sandbox Environment
-Overcoming Challenges to Integration
-Top 10 Benefits of Migrating from Microsoft Dynamics GP to Microsoft Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Jason Ochipa, Tensoft Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: introducing the Azure File Share module]]></title>
-        <id>https://365community.online/dynamics-365-business-central-introducing-the-azure-file-share-module</id>
-        <link href="https://365community.online/dynamics-365-business-central-introducing-the-azure-file-share-module"/>
-        <updated>2024-01-19T16:23:26.000Z</updated>
-        <summary type="html"><![CDATA[I wrote in the past some articles about how it’s important to use Azure Storage for storing files in a Dynamics 365 Business Central project (avoid using blobs and media […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create a TypeScript project for Model Driven Apps]]></title>
-        <id>https://365community.online/how-to-create-a-typescript-project-for-model-driven-apps</id>
-        <link href="https://365community.online/how-to-create-a-typescript-project-for-model-driven-apps"/>
-        <updated>2024-01-19T15:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com This is the continuation of a series on how to apply TypeScript in Model Driven Apps, In my previous blog post I’ve explained what TypeScript is, pros […]]]></summary>
-        <author>
-            <name>Wilmer Alcivar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 ERP Security Best Practices to Protect Your Data]]></title>
-        <id>https://erpsoftwareblog.com/?p=103064</id>
-        <link href="https://erpsoftwareblog.com/2024/01/12-erp-security-best-practices-to-protect-your-data/"/>
-        <updated>2024-01-19T15:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring the security of your ERP data is absolutely crucial in today's digital era. Safeguarding sensitive information from potential cyber threats, breaches, and unauthorized access is not just about protecting […]
-The post 12 ERP Security Best Practices to Protect Your Data appeared first on ERP Software Blog.
-5 ERP Security Risks to Be Aware Of
-Cloud solution, how do you know what you need?
-Blockchain for EDI: How Secure is it?]]></summary>
-        <author>
-            <name>Kwixand Solutions Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing Dynamics 365 for Multi Academy Trusts: Key Benefits]]></title>
-        <id>https://erpsoftwareblog.com/?p=103298</id>
-        <link href="https://erpsoftwareblog.com/2024/01/dynamics-365-for-multi-academy-trusts/"/>
-        <updated>2024-01-19T15:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics 365's Role in Modernizing UK Education Microsoft Dynamics 365 stands out as a true end-to-end solution for Multi Academy Trusts (MATs) in the UK, skillfully meeting their distinct challenges. […]
-The post Choosing Dynamics 365 for Multi Academy Trusts: Key Benefits appeared first on ERP Software Blog.
-Service Based Architecture: A True Game Changer for Dynamics GP 2015
-Management Reporter 2012 CU 13 - NOW AVAILABLE!
-How to integrate Dynamics CRM with Dynamics NAV?]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
