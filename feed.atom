@@ -2,10 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-19T02:05:15.852Z</updated>
+    <updated>2026-01-20T02:00:23.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure at Scale: The Tooling Lie]]></title>
+        <id>https://365community.online/azure-at-scale-the-tooling-lie-2</id>
+        <link href="https://365community.online/azure-at-scale-the-tooling-lie-2"/>
+        <updated>2026-01-19T23:18:03.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,860Azure at scale, why tooling is the architectural lie? 200:00:02,860 –> 00:00:06,100Most organizations believe Azure scale is a tooling problem. 300:00:06,100 –> 00:00:08,420If they buy the right CICD suite, 400:00:08,420 –> 00:00:10,740the right monitoring stack, the right IAC framework, 500:00:10,740 –> 00:00:11,880the chaos will stop. 600:00:11,880 –> 00:00:13,240They are wrong. 700:00:13,240 –> 00:00:15,600Scale […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure at Scale: The Tooling Lie]]></title>
+        <id>https://365community.online/azure-at-scale-the-tooling-lie</id>
+        <link href="https://365community.online/azure-at-scale-the-tooling-lie"/>
+        <updated>2026-01-19T23:18:02.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,860Azure at scale, why tooling is the architectural lie? 200:00:02,860 –> 00:00:06,100Most organizations believe Azure scale is a tooling problem. 300:00:06,100 –> 00:00:08,420If they buy the right CICD suite, 400:00:08,420 –> 00:00:10,740the right monitoring stack, the right IAC framework, 500:00:10,740 –> 00:00:11,880the chaos will stop. 600:00:11,880 –> 00:00:13,240They are wrong. 700:00:13,240 –> 00:00:15,600Scale […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#28 new Microsoft Teams Display Devices announced by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/28-new-microsoft-teams-display-devices-announced-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/28-new-microsoft-teams-display-devices-announced-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-19T23:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 BC Implementation: The Value of Customer Participation]]></title>
+        <id>https://erpsoftwareblog.com/?p=139962</id>
+        <link href="https://erpsoftwareblog.com/2026/01/d365-bc-implementation-the-value-of-customer-participation/"/>
+        <updated>2026-01-19T21:00:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When organizations prepare for a D365 BC implementation, most of the attention goes to timelines, integrations, and technical requirements. Those elements matter, but they're not what ultimately determines success. One […]
+The post D365 BC Implementation: The Value of Customer Participation appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Innovia Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Business Central Shipping: Real-Time Rates, Labels, and Tracking in One Workspace]]></title>
+        <id>https://erpsoftwareblog.com/?p=140126</id>
+        <link href="https://erpsoftwareblog.com/2026/01/webinar-business-central-shipping-real-time-rates-labels-and-tracking-in-one-workspace/"/>
+        <updated>2026-01-19T20:25:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For organizations shipping from Business Central, switching between carrier websites, retyping data, and fixing address or documentation errors slows everything down. Inconsistent rates, manual package entry, and limited visibility make […]
+The post Webinar: Business Central Shipping: Real-Time Rates, Labels, and Tracking in One Workspace appeared first on ERP Software Blog.
+How to Automate Warehouse Shipments and Picks in Business Central
+Global Supply Chain Variability Increases the Need for Accurate Planning in Business Central
+Benefits of Automatic Collection Efforts in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Productivity-Boosting Techniques for Microsoft Dynamics 365 Business Central Users]]></title>
+        <id>https://erpsoftwareblog.com/?p=140116</id>
+        <link href="https://erpsoftwareblog.com/2026/01/productivity-boosting-techniques-for-microsoft-dynamics-365-business-central-users/"/>
+        <updated>2026-01-19T19:58:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft D365 Business Central offers extensive capabilities but navigating its full feature set can feel overwhelming. Rather than spending hours combing through documentation, wouldn't you prefer a curated collection of […]
+The post Productivity-Boosting Techniques for Microsoft Dynamics 365 Business Central Users appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge
+10 Time Saving Business Central Keyboard Shortcuts You Need Today]]></summary>
+        <author>
+            <name>CAL Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Operating Model Insights]]></title>
+        <id>https://365community.online/ai-operating-model-insights</id>
+        <link href="https://365community.online/ai-operating-model-insights"/>
+        <updated>2026-01-19T19:31:40.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,480Everyone is racing to adopt AI. 200:00:01,480 –> 00:00:03,040Very few are ready to operate it. 300:00:03,040 –> 00:00:04,840That’s why the same pattern keeps repeating. 400:00:04,840 –> 00:00:07,280Impressive demos, then untrusted outputs, 500:00:07,280 –> 00:00:09,960then a sudden cost spike, then security and compliance panic, 600:00:09,960 –> 00:00:12,920and finally a pilot that pauses and never […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#29 Microsoft Inspire Keynote Live Streaming (incl Satya Nadella) by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/29-microsoft-inspire-keynote-live-streaming-incl-satya-nadella-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/29-microsoft-inspire-keynote-live-streaming-incl-satya-nadella-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-19T19:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Restore Message to Recover Deleted Records in Dataverse]]></title>
+        <id>https://365community.online/using-the-restore-message-to-recover-deleted-records-in-dataverse</id>
+        <link href="https://365community.online/using-the-restore-message-to-recover-deleted-records-in-dataverse"/>
+        <updated>2026-01-19T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Accidental data deletion in Dataverse happens more often than we expect. A bulk delete job, an incorrect Power Automate flow, or incorrect manual delete can remove important records in seconds. Instead of restoring the environment, Dataverse provides a much better alternative: the Restore message, which allows us to recover deleted records programmatically. Prerequisite: Recycle Bin […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do Dimensions in Dynamics 365 Business Central Closing Entries Matter?]]></title>
+        <id>https://erpsoftwareblog.com/?p=140092</id>
+        <link href="https://erpsoftwareblog.com/2026/01/why-do-dimensions-in-dynamics-365-business-central-closing-entries-matter/"/>
+        <updated>2026-01-19T17:34:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+It may seem like a small year-end decision but it has a big impact. Dimensions in closing entries in Microsoft Dynamics 365 Business Central matter because they control how balances […]
+The post Why Do Dimensions in Dynamics 365 Business Central Closing Entries Matter? appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge
+How a Bookkeeper Can Use Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>ERP Software Blog Guest Blogger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elementor #108942]]></title>
+        <id>https://365community.online/?p=108942</id>
+        <link href="https://365community.online/elementor-108942"/>
+        <updated>2026-01-19T17:28:10.000Z</updated>
+        <author>
+            <name>Mark Christie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Enhanced Code Block: Syntax Highlighting and More]]></title>
+        <id>https://365community.online/introducing-the-enhanced-code-block-syntax-highlighting-and-more</id>
+        <link href="https://365community.online/introducing-the-enhanced-code-block-syntax-highlighting-and-more"/>
+        <updated>2026-01-19T16:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Last year, WordPress.com introduced new code editors for the block editor and the Additional CSS input box in the WordPress admin. This was the first stage of a larger effort to make editing code a more enjoyable experience. Today, I’m happy to announce the launch of the second stage of that effort: introducing the new […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Platform Is Not Innovation. It Is Your Operating Model]]></title>
+        <id>https://365community.online/the-ai-platform-is-not-innovation-it-is-your-operating-model</id>
+        <link href="https://365community.online/the-ai-platform-is-not-innovation-it-is-your-operating-model"/>
+        <updated>2026-01-19T15:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is racing to adopt AI—but most enterprises are structurally unprepared to operate it. The result is a familiar failure pattern: impressive pilots, followed by mistrust, cost spikes, security panic, and quiet shutdowns. In this episode, we unpack why AI doesn’t fail because models are weak—but because operating models are. You’ll learn why AI is […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30 Microsoft Dataflex announced at Microsoft Inspire by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/30-microsoft-dataflex-announced-at-microsoft-inspire-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/30-microsoft-dataflex-announced-at-microsoft-inspire-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-19T15:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Production Efficiency with Dynamics 365 F&SCM for Medical Device Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=139818</id>
+        <link href="https://erpsoftwareblog.com/2026/01/maximizing-production-efficiency-with-dynamics-365-fscm-for-medical-device-manufacturers/"/>
+        <updated>2026-01-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Part 2 of our 4-part series demonstrating how Microsoft Dynamics 365 improved production planning and inventory management for MedTech manufacturers... Key Takeaways Real-time sales data now drives production, procurement, and […]
+The post Maximizing Production Efficiency with Dynamics 365 F&SCM for Medical Device Manufacturers appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+GS1 Standards Boost Efficiency in D365 Supply Chain
+Build a Microsoft Copilot AI-First Go-to-Market Strategy for FY26]]></summary>
+        <author>
+            <name>Joanne, Sycor Americas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Configure Email In D365]]></title>
+        <id>https://dynamics365musings.com/?p=4595</id>
+        <link href="https://dynamics365musings.com/configure-email-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=configure-email-in-d365"/>
+        <updated>2026-01-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are several different ways to configure email in D365. Microsoft Graph is now the recommended email provider, replacing the deprecated Exchange email provider. Additionally, you can set up a connection to an SMTP email server. Lastly, the system can generate an .eml file that the user can download. Then the user can use an... Continue Reading →
+The post How To Configure Email In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 and Purchase unified pricing tips]]></title>
+        <id>http://kurthatlevik.com/?p=4938</id>
+        <link href="https://kurthatlevik.com/2026/01/19/d365-and-purchase-unified-pricing-tips/"/>
+        <updated>2026-01-19T10:49:55.000Z</updated>
+        <summary type="html"><![CDATA[In Unified pricing you can define the base price both for sales, inventory and for purchase. If you choose to use purchase price as the base price, you will probably activate a base purchase price like this: For the system to use this purchase price in your purchase orders you need to specify this on … Continue reading D365 and Purchase unified pricing tips]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overstock, Stockouts & Wastage: How Dynamics 365 ERP Transforms Manufacturing Inventory]]></title>
+        <id>https://erpsoftwareblog.com/?p=140030</id>
+        <link href="https://erpsoftwareblog.com/2026/01/overstock-stockouts-wastage-how-dynamics-365-erp-transforms-manufacturing-inventory/"/>
+        <updated>2026-01-19T10:48:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Inventory is the backbone of manufacturing operations. Yet for many UK manufacturers, it’s also the biggest source of inefficiency. Overstock ties up working capital, stockouts delay production, and wastage eats […]
+The post Overstock, Stockouts & Wastage: How Dynamics 365 ERP Transforms Manufacturing Inventory appeared first on ERP Software Blog.
+Microsoft Dynamics GP Helps Cut Through J-SOX Red Tape for Automotive Distributor
+AUTOMOTIVE ERP SOFTWARE LIKE BUYING A HAT OR GLOVES - IT’S NOT A ONE SIZE FITS ALL
+Did You Get the Memo?  Automotive Production Part Suppliers Face Challenges in Getting and Interpreting Their Mail]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot Agent or Copilot Hype? The Hard Choice]]></title>
         <id>https://365community.online/copilot-agent-or-copilot-hype-the-hard-choice</id>
@@ -107622,77 +107832,6 @@ Upgrade to Dynamics 365: What Version is Best for My Business?]]></summary>
         <summary type="html"><![CDATA[The post Mastering Maplytics: Live Q&A and First Look at Exciting New Features appeared first on Blog | Maplytics. Source link]]></summary>
         <author>
             <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The F&O Twist on Process Mining – Use a data entity to connect a process]]></title>
-        <id>https://dynamicspedia.com/?p=18977</id>
-        <link href="https://dynamicspedia.com/2024/01/the-fo-twist-on-process-mining-use-a-data-entity-to-connect-a-process/"/>
-        <updated>2024-01-21T11:20:41.000Z</updated>
-        <summary type="html"><![CDATA[After writing and creating some video content about the basics of Power Automate Process Mining, in this blog, I will talk about an example of how to ingest data from Dynamics 365 F&O. I get a lot of questions, so finally here is a blog with hopefully answering a lot of your questions. Overview available […]
-The post The F&O Twist on Process Mining – Use a data entity to connect a process appeared first on Dynamicspedia.]]></summary>
-        <author>
-            <name>André Arnaud de Calavon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PL-100 Power Platform App Maker is retiring]]></title>
-        <id>https://365community.online/pl-100-power-platform-app-maker-is-retiring</id>
-        <link href="https://365community.online/pl-100-power-platform-app-maker-is-retiring"/>
-        <updated>2024-01-21T10:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft will be retiring the PL-100 certification and course in June 2024. You will be able to renew the certification before the end of June, and the exam and certification […]]]></summary>
-        <author>
-            <name>Julian Sharp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should .NET Developers Stick or Switch to Power Platform? – YouTube]]></title>
-        <id>https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube-2</id>
-        <link href="https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube-2"/>
-        <updated>2024-01-21T00:23:19.000Z</updated>
-        <summary type="html"><![CDATA[#153.  Neil Benson is joined by Keith Atherton, a proper pro developer. Keith shares his journey from developing custom apps using .NET, C# and SQL Server to embracing and mastering […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpacking User Stories and Backlog Refinement with Dani Kahil – YouTube]]></title>
-        <id>https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube-2</id>
-        <link href="https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube-2"/>
-        <updated>2024-01-21T00:23:18.000Z</updated>
-        <summary type="html"><![CDATA[#152.  Host Neil Benson is joined by the talented Dani Kahil for an insightful discussion on managing backlogs and enhancing user stories in Azure DevOps and Jira. Neil shares his […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super CRM: a case study – YouTube]]></title>
-        <id>https://365community.online/super-crm-a-case-study-youtube</id>
-        <link href="https://365community.online/super-crm-a-case-study-youtube"/>
-        <updated>2024-01-21T00:23:17.000Z</updated>
-        <summary type="html"><![CDATA[#151. Amazing Apps host, Neil Benson, dives into a case study from one of his team’s own projects: “Member Super”, a financial services organisation in Australia. With over a million […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Big Bang? Going Live with Dynamics 365 or Power Platform with Andrew Bibby – YouTube]]></title>
-        <id>https://365community.online/a-big-bang-going-live-with-dynamics-365-or-power-platform-with-andrew-bibby-youtube-2</id>
-        <link href="https://365community.online/a-big-bang-going-live-with-dynamics-365-or-power-platform-with-andrew-bibby-youtube-2"/>
-        <updated>2024-01-21T00:23:16.000Z</updated>
-        <summary type="html"><![CDATA[#150. What does it take to have a successful go live event for your Dynamics 365 or Power Platform application. Neil Benson sat down with Andrew Bibby, a seasoned expert […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Free from the Tyranny of the Deliverable with Andrew Welch – YouTube]]></title>
-        <id>https://365community.online/breaking-free-from-the-tyranny-of-the-deliverable-with-andrew-welch-youtube</id>
-        <link href="https://365community.online/breaking-free-from-the-tyranny-of-the-deliverable-with-andrew-welch-youtube"/>
-        <updated>2024-01-21T00:23:14.000Z</updated>
-        <summary type="html"><![CDATA[#149. Andrew Welch is the Chief Technology Officer at HSO. Andrew is an expert in IT strategy and has a wealth of experience advising customers on their big strategic technology […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
         </author>
     </entry>
     <entry>
