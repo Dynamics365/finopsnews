@@ -2,10 +2,240 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-20T02:00:23.086Z</updated>
+    <updated>2026-01-21T02:03:07.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Makes Microsoft Entra a Comprehensive IAM Solution?]]></title>
+        <id>https://365community.online/what-makes-microsoft-entra-a-comprehensive-iam-solution</id>
+        <link href="https://365community.online/what-makes-microsoft-entra-a-comprehensive-iam-solution"/>
+        <updated>2026-01-21T00:54:30.000Z</updated>
+        <summary type="html"><![CDATA[If Active Directory was built for offices that no longer exist, what’s replacing it today? Microsoft Entra is positioning itself not just as another IAM tool, but as the framework for securing identities in a hybrid, perimeter-less world. The challenge is this: most IT admins are still juggling legacy systems with cloud-first demands. So how […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#21 News zu Microsoft Stream mit Tomislav Karafilov (Deroso) by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/21-news-zu-microsoft-stream-mit-tomislav-karafilov-deroso-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/21-news-zu-microsoft-stream-mit-tomislav-karafilov-deroso-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-21T00:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace the Power of Questions]]></title>
+        <id>https://365community.online/embrace-the-power-of-questions</id>
+        <link href="https://365community.online/embrace-the-power-of-questions"/>
+        <updated>2026-01-20T21:10:28.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,400Most organizations still think the problem is we need better dashboards. 200:00:03,400 –> 00:00:07,840They are wrong, dashboards didn’t fail, they expired, the executive decision model moved 300:00:07,840 –> 00:00:11,960but the reporting model stayed put, like a calendar invite nobody attends but everyone 400:00:11,960 –> 00:00:14,000keeps forwarding. 500:00:14,000 –> 00:00:18,320And here’s the uncomfortable truth, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#22 10 things I have learned about Video Live Streaming this week by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/22-10-things-i-have-learned-about-video-live-streaming-this-week-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/22-10-things-i-have-learned-about-video-live-streaming-this-week-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-20T21:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging Insight Works’ Order Fulfillment Worksheet for E-commerce Fulfillment]]></title>
+        <id>https://erpsoftwareblog.com/?p=140174</id>
+        <link href="https://erpsoftwareblog.com/2026/01/leveraging-insight-works-order-fulfillment-worksheet-for-e-commerce-fulfillment-2/"/>
+        <updated>2026-01-20T19:26:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast ﻿﻿ About Punt-uit Punt-uit is a leading logistics provider based in the Netherlands, specializing in tailored shipping and fulfillment solutions for e-commerce businesses. Handling over 500,000 […]
+The post Leveraging Insight Works’ Order Fulfillment Worksheet for E-commerce Fulfillment appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Switched Our Plugin from PreOperation to PreValidation – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/why-we-switched-our-plugin-from-preoperation-to-prevalidation-dataverse-dynamics-365</id>
+        <link href="https://365community.online/why-we-switched-our-plugin-from-preoperation-to-prevalidation-dataverse-dynamics-365"/>
+        <updated>2026-01-20T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[We had a business requirement to block the closing of a Quote as Lost under certain conditions. Instead of leaving the quote in an Active state, we wanted the system to explicitly move it back to Draft and show a clear error message to the user explaining why the close action was not allowed. We […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top 5 Tech Mistakes Food Manufacturers Make and How to Avoid Them]]></title>
+        <id>https://erpsoftwareblog.com/?p=140188</id>
+        <link href="https://erpsoftwareblog.com/2026/01/the-top-5-tech-mistakes-food-manufacturers-make-and-how-to-avoid-them/"/>
+        <updated>2026-01-20T18:25:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the dynamic world of food production, innovation is a requirement. To stay ahead, modern food manufacturers rely on a wide array of digital tools and solutions. While introducing new […]
+The post The Top 5 Tech Mistakes Food Manufacturers Make and How to Avoid Them appeared first on ERP Software Blog.
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Strategic Mindset for a Successful ERP implementation
+Custom Backgrounds in Microsoft Teams and How to set up Your ERP Company Images]]></summary>
+        <author>
+            <name>Ternpoint Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=35874</id>
+        <link href="https://erpsoftwareblog.com/2026/01/fabless-semiconductor-companies-rely-tensoft-fsm-3-minute-video/"/>
+        <updated>2026-01-20T18:00:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Fabless semiconductor companies have some very unique requirements, which is why Tensoft developed its Fabless Semiconductor Management solution. But one thing that they have in common with many other companies […]
+The post Why Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video appeared first on ERP Software Blog.
+What's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?
+How an Industry-Specific Solution Can Change Your Life
+FREE Microsoft Dynamics Based Software!]]></summary>
+        <author>
+            <name>Tensoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Second Opinion Approach to Business Central Projects with Elliott Clark Consulting]]></title>
+        <id>https://erpsoftwareblog.com/?p=140172</id>
+        <link href="https://erpsoftwareblog.com/2026/01/a-second-opinion-approach-to-business-central-projects-with-elliott-clark-consulting/"/>
+        <updated>2026-01-20T17:34:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  3-Second Highlights Why many Business Central projects still feel off after go-live How a second opinion helps reconnect software to real business processes Making inventory, costing, and accounting actually […]
+The post A Second Opinion Approach to Business Central Projects with Elliott Clark Consulting appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Anya Ciecierski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Distributed Decision Engine That Exposes The Data Control Plane Lie]]></title>
+        <id>https://365community.online/the-distributed-decision-engine-that-exposes-the-data-control-plane-lie</id>
+        <link href="https://365community.online/the-distributed-decision-engine-that-exposes-the-data-control-plane-lie"/>
+        <updated>2026-01-20T17:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations treat Microsoft Fabric lineage like governance. It feels like governance because it’s visual, centralized, and comforting. But lineage does not prevent anything from happening—it only explains what already happened. This episode dismantles the idea that visibility equals control and walks through why Fabric’s architecture makes that confusion inevitable. There are no demos, no […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#23 Yammer and Communication Compliance with Martina Grom and Christophe Fiessinger by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/23-yammer-and-communication-compliance-with-martina-grom-and-christophe-fiessinger-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/23-yammer-and-communication-compliance-with-martina-grom-and-christophe-fiessinger-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-20T17:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Month Microsoft Certification & Career Coaching – YouTube]]></title>
+        <id>https://365community.online/12-month-microsoft-certification-career-coaching-youtube</id>
+        <link href="https://365community.online/12-month-microsoft-certification-career-coaching-youtube"/>
+        <updated>2026-01-20T17:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Certification and Career Coaching: Join My Community – https://iamitgeek.kit.com/8754fbd53a #careerdevelopment #microsoft #Tech #certification #youtube source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Alternatives to Korber Supply Chain Software in 2026: Best WMS & SCM Solution Comparison]]></title>
+        <id>https://erpsoftwareblog.com/?p=140163</id>
+        <link href="https://erpsoftwareblog.com/2026/01/top-alternatives-to-korber-supply-chain-software/"/>
+        <updated>2026-01-20T16:42:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+korber supply chain software has powered thousands of warehouses for years, but 2026 looks different. Customer demands are becoming unpredictable, delivery expectations are higher than ever, and even well-managed operations […]
+The post Top Alternatives to Korber Supply Chain Software in 2026: Best WMS & SCM Solution Comparison appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MES ROI for Discrete Manufacturers: Why CFOs Are Investing]]></title>
+        <id>https://erpsoftwareblog.com/?p=140158</id>
+        <link href="https://erpsoftwareblog.com/2026/01/mes-roi-for-discrete-manufacturers-why-cfos-are-investing/"/>
+        <updated>2026-01-20T15:41:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+CFOs in discrete manufacturing operate in a world of competing priorities: protecting margins, improving cash flow, reducing risk, and maintaining strong controls while the business pushes for faster output, shorter […]
+The post MES ROI for Discrete Manufacturers: Why CFOs Are Investing appeared first on ERP Software Blog.
+Integrated Planning with deFacto Power Planning - Webinar
+Join Us At Dynamic Communities Summit - Booth 800
+2024 Top Trends in Microsoft Dynamics Financial Reporting]]></summary>
+        <author>
+            <name>Miranda Campagna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS ERP misconceptions: the “on-premises thinking trap”]]></title>
+        <id>https://365community.online/saas-erp-misconceptions-the-on-premises-thinking-trap</id>
+        <link href="https://365community.online/saas-erp-misconceptions-the-on-premises-thinking-trap"/>
+        <updated>2026-01-20T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[I think that probably for many of you January is the crazy month of the ERP go-lives (and probably not only restricted to the ERP). During every go-live of Dynamics 365 Business Central SaaS, I often see the same situation: lack of mentality of cloud applications from the IT department of many companies. This post […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Right Azure Architecture: Public, Hybrid, Multi-Cloud]]></title>
+        <id>https://365community.online/choosing-the-right-azure-architecture-public-hybrid-multi-cloud</id>
+        <link href="https://365community.online/choosing-the-right-azure-architecture-public-hybrid-multi-cloud"/>
+        <updated>2026-01-20T13:54:25.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,080Most organizations say they picked public cloud or hybrid or multi-cloud. 200:00:04,080 –> 00:00:07,680They didn’t. It happened. One exception, one acquisition, one latency problem, 300:00:07,680 –> 00:00:09,480one regulatory memo at a time. 400:00:09,480 –> 00:00:13,200And these architectures quietly decide who can ship, who can comply, 500:00:13,200 –> 00:00:15,200and who gets blamed when something […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#24 Covid_19, New Leadership and need for Social Technologies in Business with Isabel de Clercq by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/24-covid_19-new-leadership-and-need-for-social-technologies-in-business-with-isabel-de-clercq-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/24-covid_19-new-leadership-and-need-for-social-technologies-in-business-with-isabel-de-clercq-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-20T13:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linking SAP and Dynamics 365: a guide to seamless integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=140137</id>
+        <link href="https://erpsoftwareblog.com/2026/01/linking-sap-and-dynamics-365-a-guide-to-seamless-integration/"/>
+        <updated>2026-01-20T10:53:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+SAP continues to be a leading ERP system for handling complex operational processes, while Microsoft Dynamics 365 frequently takes the front seat for customer‑facing activities and relationship management. The good news: these […]
+The post Linking SAP and Dynamics 365: a guide to seamless integration appeared first on ERP Software Blog.
+Spreadsheets are Helpful, But You Can’t Rely on Them Forever
+No More Late Nights for Year End Reporting
+My Three, No My FOUR, Favorite New Features in Management Reporter 2012]]></summary>
+        <author>
+            <name>proMX Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outgrowing QuickBooks or Tally? Here’s When to Move to Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=140033</id>
+        <link href="https://erpsoftwareblog.com/2026/01/outgrowing-quickbooks-or-tally-heres-when-to-move-to-dynamics-365-business-central/"/>
+        <updated>2026-01-20T06:01:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+QuickBooks and Tally are popular accounting tools for small businesses. They are easy to start with, affordable, and sufficient when operations are simple. But as businesses grow, these tools often […]
+The post Outgrowing QuickBooks or Tally? Here’s When to Move to Dynamics 365 Business Central appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure at Scale: The Tooling Lie]]></title>
         <id>https://365community.online/azure-at-scale-the-tooling-lie-2</id>
@@ -594,6 +824,21 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Blue Moon Industries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 for Professional Services: Project Accounting, Billing & Resource Management Explained]]></title>
+        <id>https://erpsoftwareblog.com/?p=140146</id>
+        <link href="https://erpsoftwareblog.com/2026/01/dynamics-365-for-professional-services-project-accounting-billing-resource-management-explained/"/>
+        <updated>2026-01-16T12:16:41.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s competitive UK market, professional services firms—consultancies, IT services providers, engineering firms, legal advisors, and marketing agencies—are under constant pressure to deliver projects faster, control costs, and protect margins. […]
+The post Dynamics 365 for Professional Services: Project Accounting, Billing & Resource Management Explained appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
@@ -107750,26 +107995,6 @@ How Can Microsoft Dynamics enable better data access with powerful Financial Rep
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[O Impacto da Comunidade Técnica na Carreira de Aplicações de Negócio | EP #25 Romão’s Cast – YouTube]]></title>
-        <id>https://365community.online/o-impacto-da-comunidade-tecnica-na-carreira-de-aplicacoes-de-negocio-ep-25-romaos-cast-youtube</id>
-        <link href="https://365community.online/o-impacto-da-comunidade-tecnica-na-carreira-de-aplicacoes-de-negocio-ep-25-romaos-cast-youtube"/>
-        <updated>2024-01-22T14:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Olá pessoal, tudo bem? 📱 Objetivo do vídeo Neste episódio falamos sobre o impacto da comunidade técnica, seja através de palestras, conteúdos, comunidades, livros, ou outras formas, podem impactar na […]]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create A D365 SSRS Report]]></title>
-        <id>https://365community.online/how-to-create-a-d365-ssrs-report</id>
-        <link href="https://365community.online/how-to-create-a-d365-ssrs-report"/>
-        <updated>2024-01-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, learn how to create a basic D365 SSRS reports. “SSRS” stands for SQL Server Reporting Services. Reports are defined by Microsoft as any visualization of a structured […]]]></summary>
-        <author>
-            <name>Peter Ramer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Create A D365 SSRS Report]]></title>
         <id>https://dynamics365musings.com/?p=3387</id>
         <link href="https://dynamics365musings.com/create-a-d365-ssrs-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-a-d365-ssrs-report"/>
@@ -107778,60 +108003,6 @@ How Can Microsoft Dynamics enable better data access with powerful Financial Rep
 The post How To Create A D365 SSRS Report appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invoke webhook from a plugin – Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/invoke-webhook-from-a-plugin-dataverse-dynamics-365</id>
-        <link href="https://365community.online/invoke-webhook-from-a-plugin-dataverse-dynamics-365"/>
-        <updated>2024-01-22T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The content describes invoking a Webhook from a custom Azure-Aware Plugin, registered through a plugin registration tool. It includes code to invoke the Webhook using the IServiceEndPointNotificationService interface and a […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 ERP Trends to Watch for in 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=103391</id>
-        <link href="https://erpsoftwareblog.com/2024/01/erp-trends-2024/"/>
-        <updated>2024-01-22T13:27:26.000Z</updated>
-        <summary type="html"><![CDATA[As the ERP market expands, significant shifts in trends and the emergence of new ones are expected in 2024. These systems are crucial for businesses aiming to optimize operations and […]
-The post Top 10 ERP Trends to Watch for in 2024 appeared first on ERP Software Blog.
-The Procure to Pay Process in Dynamics 365 Business Central
-Why you should choose Microsoft Dynamics 365 Business Central for your business?
-Upgrade to Dynamics 365: What Version is Best for My Business?]]></summary>
-        <author>
-            <name>EFOQUS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Currying Favor with Tech: Jason Earnshaw's Journey Through Lotus Notes to Low-Code Revolution and Dynamics 365]]></title>
-        <id>https://365community.online/currying-favor-with-tech-jason-earnshaws-journey-through-lotus-notes-to-low-code-revolution-and-dynamics-365</id>
-        <link href="https://365community.online/currying-favor-with-tech-jason-earnshaws-journey-through-lotus-notes-to-low-code-revolution-and-dynamics-365"/>
-        <updated>2024-01-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/519  Ever wondered how spicy curry ties into the low-code revolution? Jason Earnshaw from Huddersfield, our Low Code Practice General Manager with a penchant for Dynamics 365, […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Power Automate Solutions: Version Numbering for Solutions]]></title>
-        <id>https://365community.online/working-with-power-automate-solutions-version-numbering-for-solutions</id>
-        <link href="https://365community.online/working-with-power-automate-solutions-version-numbering-for-solutions"/>
-        <updated>2024-01-22T11:00:32.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Maplytics: Live Q&A and First Look at Exciting New Features]]></title>
-        <id>https://365community.online/mastering-maplytics-live-qa-and-first-look-at-exciting-new-features</id>
-        <link href="https://365community.online/mastering-maplytics-live-qa-and-first-look-at-exciting-new-features"/>
-        <updated>2024-01-22T10:22:09.000Z</updated>
-        <summary type="html"><![CDATA[The post Mastering Maplytics: Live Q&A and First Look at Exciting New Features appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
         </author>
     </entry>
     <entry>
