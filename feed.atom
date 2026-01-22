@@ -2,10 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-21T02:03:07.750Z</updated>
+    <updated>2026-01-22T02:03:32.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide to Organizing Projects in Teams]]></title>
+        <id>https://365community.online/step-by-step-guide-to-organizing-projects-in-teams</id>
+        <link href="https://365community.online/step-by-step-guide-to-organizing-projects-in-teams"/>
+        <updated>2026-01-21T23:29:24.000Z</updated>
+        <summary type="html"><![CDATA[What’s the difference between a project that feels effortless and one that leaves everyone chasing files and status updates? It’s not the tool—it’s the system behind it. And most teams don’t realize they’re missing a few simple building blocks.Today, I’ll show you how to create an interconnected project structure in Microsoft Teams using SharePoint and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#15 mit gertrud.digital und Microsoft Teams Vorstand-und Board Meetings einfacher planen by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/15-mit-gertrud-digital-und-microsoft-teams-vorstand-und-board-meetings-einfacher-planen-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/15-mit-gertrud-digital-und-microsoft-teams-vorstand-und-board-meetings-einfacher-planen-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-21T23:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fabric Governance Explained]]></title>
+        <id>https://365community.online/microsoft-fabric-governance-explained</id>
+        <link href="https://365community.online/microsoft-fabric-governance-explained"/>
+        <updated>2026-01-21T20:10:19.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,520Most organizations treat fabric lineage like governance. 200:00:02,520 –> 00:00:03,280They are wrong. 300:00:03,280 –> 00:00:05,640Lineage is a diagram that makes people feel safe 400:00:05,640 –> 00:00:07,200because it looks like control, 500:00:07,200 –> 00:00:09,200but control requires authority, 600:00:09,200 –> 00:00:12,760and authority requires the power to refuse execution. 700:00:12,760 –> 00:00:15,360Most teams don’t discover this […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#16 Microsoft Teams Global Benchmarking Report & Home Office recommendations with Cai Kjaer (CEO SWOOP Analytics) by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/16-microsoft-teams-global-benchmarking-report-home-office-recommendations-with-cai-kjaer-ceo-swoop-analytics-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/16-microsoft-teams-global-benchmarking-report-home-office-recommendations-with-cai-kjaer-ceo-swoop-analytics-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-21T20:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Warehouse Mobility Breaks Down in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=140225</id>
+        <link href="https://erpsoftwareblog.com/2026/01/why-warehouse-mobility-breaks-down-in-business-central/"/>
+        <updated>2026-01-21T19:52:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast Real-Time Scanning Replaced by Delayed Paper Processes Warehouse staff often rely on paper forms or manual notes to record receiving, put-away, and picking activities. These records […]
+The post Why Warehouse Mobility Breaks Down in Business Central appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed: Audit History Page Not Loading (Dataverse / Dynamics 365)]]></title>
+        <id>https://365community.online/fixed-audit-history-page-not-loading-dataverse-dynamics-365</id>
+        <link href="https://365community.online/fixed-audit-history-page-not-loading-dataverse-dynamics-365"/>
+        <updated>2026-01-21T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, we ran into an issue where the Audit History page stopped loading on the form. Interestingly, the problem was limited only to the Account forms. Whenever we tried to open Audit History, we received the generic error below: An error has occurred. Try this action again. If the problem continues, check the Microsoft Dynamics […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post Go Live ERP Stabilization: What Most Companies Overlook]]></title>
+        <id>https://erpsoftwareblog.com/?p=140224</id>
+        <link href="https://erpsoftwareblog.com/2026/01/post-go-live-erp-stabilization-what-most-companies-overlook/"/>
+        <updated>2026-01-21T17:54:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP go-live is often treated as the finish line of an implementation project. In practice, it is the beginning of a new operational phase. Many organizations discover that the weeks and […]
+The post Post Go Live ERP Stabilization: What Most Companies Overlook  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling EDI to Support Growth with Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=140221</id>
+        <link href="https://erpsoftwareblog.com/2026/01/scaling-edi-to-support-growth-with-dynamics-365-business-central/"/>
+        <updated>2026-01-21T17:42:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As businesses expand, their supply chains naturally become more complex. An increase in customers, vendors, and transaction volumes creates greater demand for speed, accuracy, and reliability in data exchange. For […]
+The post Scaling EDI to Support Growth with Dynamics 365 Business Central appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalara Enhances 1099 Automation for Microsoft Dynamics Customers]]></title>
+        <id>https://erpsoftwareblog.com/?p=140217</id>
+        <link href="https://erpsoftwareblog.com/2026/01/avalara-enhances-1099-automation-for-microsoft-dynamics-customers/"/>
+        <updated>2026-01-21T17:15:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+1099 season doesn’t wait, and neither should compliance.  Avalara has released enhanced 1099 connectors for Microsoft Dynamics, including Dynamics 365 Finance, Dynamics 365 Business Central, and Dynamics GP. These updated connectors help customers automate […]
+The post Avalara Enhances 1099 Automation for Microsoft Dynamics Customers appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Avalara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benefits of Integrating eSignatures with Microsoft Dynamics 365]]></title>
+        <id>https://365community.online/benefits-of-integrating-esignatures-with-microsoft-dynamics-365</id>
+        <link href="https://365community.online/benefits-of-integrating-esignatures-with-microsoft-dynamics-365"/>
+        <updated>2026-01-21T17:08:00.000Z</updated>
+        <summary type="html"><![CDATA[You’ve sent the quote. The customer seemed keen. Then… silence. A day passes. Then another. You send a polite nudge. Nothing. You call and hear, “Ah yes, meant to sign it, could you resend?” Does this sound familiar? eSignatures should have fixed this. They’re faster than printing and posting, and customers expect them. But if […]]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Embed Power BI Reports in Business Central Role Centers]]></title>
+        <id>https://erpsoftwareblog.com/?p=140208</id>
+        <link href="https://erpsoftwareblog.com/2026/01/how-to-embed-power-bi-reports-in-business-central-role-centers/"/>
+        <updated>2026-01-21T16:00:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Embedding Power BI reports in Dynamics 365 Business Central Role Centers brings interactive analytics directly into users' daily workflows, eliminating the need to switch applications. This integration leverages the Power […]
+The post How to Embed Power BI Reports in Business Central Role Centers appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Get More in the Cloud with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architectural Questions Every C-Level Must Ask (Before It’s Too Late)]]></title>
+        <id>https://365community.online/the-architectural-questions-every-c-level-must-ask-before-its-too-late</id>
+        <link href="https://365community.online/the-architectural-questions-every-c-level-must-ask-before-its-too-late"/>
+        <updated>2026-01-21T15:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations are making the same comfortable assumption:“AI is just another workload.” It isn’t. AI is not a faster application or a smarter API. It is an autonomous, probabilistic decision engine running on deterministic infrastructure that was never designed to understand intent, authority, or acceptable outcomes. Azure will let you deploy AI quickly.Azure will let […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#17 When to use Zoom vs Microsoft Teams? with Kristof Maes (Xylos) by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/17-when-to-use-zoom-vs-microsoft-teams-with-kristof-maes-xylos-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/17-when-to-use-zoom-vs-microsoft-teams-with-kristof-maes-xylos-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-21T15:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating AI Data Analysis in D365FSC]]></title>
+        <id>https://alexdmeyer.com/?p=3847</id>
+        <link href="https://alexdmeyer.com/2026/01/21/automating-ai-data-analysis-in-d365fsc/"/>
+        <updated>2026-01-21T14:40:44.000Z</updated>
+        <summary type="html"><![CDATA[Recently I wrote about how you could utilize AI to help analyze data within D365FSC to look for areas of optimization. This was a somewhat manual process of gathering the data, then attaching the data to a prompt, having AI analyze the data having it generate a reponse. I wanted to try and take this […]
+The post Automating AI Data Analysis in D365FSC appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating AI Data Analysis in D365FSC]]></title>
+        <id>https://365community.online/automating-ai-data-analysis-in-d365fsc</id>
+        <link href="https://365community.online/automating-ai-data-analysis-in-d365fsc"/>
+        <updated>2026-01-21T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently I wrote about how you could utilize AI to help analyze data within D365FSC to look for areas of optimization. This was a somewhat manual process of gathering the data, then attaching the data to a prompt, having AI analyze the data having it generate a reponse. I wanted to try and take this […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Monitor Compliance in Microsoft Defender for Cloud]]></title>
+        <id>https://365community.online/how-to-monitor-compliance-in-microsoft-defender-for-cloud</id>
+        <link href="https://365community.online/how-to-monitor-compliance-in-microsoft-defender-for-cloud"/>
+        <updated>2026-01-21T11:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Compliance isn’t just about checking boxes—it’s about proving to your stakeholders that you can prevent issues before they ever hit production. But here’s the catch: most teams rely on manual reviews that are blind to what’s actually happening across workloads. What if Microsoft Defender for Cloud could give you continuous, system-wide assurance without you chasing […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI-Powered Insights Will Redefine Customer Loyalty for Retail Businesses in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=140034</id>
+        <link href="https://erpsoftwareblog.com/2026/01/how-ai-powered-insights-will-redefine-customer-loyalty-for-retail-businesses/"/>
+        <updated>2026-01-21T07:19:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The way retailers think about keeping customers coming will be very different soon In the year 2026, AI in retail loyalty programs will help retailers understand their customers better. This […]
+The post How AI-Powered Insights Will Redefine Customer Loyalty for Retail Businesses in 2026 appeared first on ERP Software Blog.
+4 Reasons Why Restaurants Cook with Microsoft Dynamics GP
+Microsoft Dynamics GP Reduces ERP Costs For Popular Restaurant Chain And Food Manufacturer
+‘Tis The Season …For Physical Inventory Made Easier With Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes Microsoft Entra a Comprehensive IAM Solution?]]></title>
         <id>https://365community.online/what-makes-microsoft-entra-a-comprehensive-iam-solution</id>
@@ -134,16 +335,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
         <author>
             <name>Ragnar Heil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Month Microsoft Certification & Career Coaching – YouTube]]></title>
-        <id>https://365community.online/12-month-microsoft-certification-career-coaching-youtube</id>
-        <link href="https://365community.online/12-month-microsoft-certification-career-coaching-youtube"/>
-        <updated>2026-01-20T17:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Certification and Career Coaching: Join My Community – https://iamitgeek.kit.com/8754fbd53a #careerdevelopment #microsoft #Tech #certification #youtube source]]></summary>
-        <author>
-            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -107750,259 +107941,6 @@ A Comprehensive Guide on How to Use the Warehouse Item Journal
 Top 3 benefits of digital transformation for the professional services]]></summary>
         <author>
             <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Excel from opening "Book1"]]></title>
-        <id>https://365community.online/stop-excel-from-opening-book1</id>
-        <link href="https://365community.online/stop-excel-from-opening-book1"/>
-        <updated>2024-01-23T13:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Some things irritate me that really shouldn't, and this is one of them. I often use computers provided by my clients instead of my own if I remotely access their […]]]></summary>
-        <author>
-            <name>Jen Kuntz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost your bottom line: 5 simple steps to prevent revenue leakage]]></title>
-        <id>https://erpsoftwareblog.com/?p=102352</id>
-        <link href="https://erpsoftwareblog.com/2024/01/boost-your-bottom-line-5-simple-steps-to-prevent-revenue-leakage/"/>
-        <updated>2024-01-23T13:37:43.000Z</updated>
-        <summary type="html"><![CDATA[Safeguarding your business revenue is crucial for long-term success. Dive into our latest blog on revenue leakage prevention, where we simplify the process with actionable steps. Learn how to conduct […]
-The post Boost your bottom line: 5 simple steps to prevent revenue leakage appeared first on ERP Software Blog.
-Who’s Afraid of the Big, Bad Cloud? Cloud Security Explained.
-BroadPoint Snares Top-20 Spots in Recent VAR Rankings
-Important Upgrade Notice for Mekorma MICR]]></summary>
-        <author>
-            <name>Binary Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top ERP trends in 2024 for Microsoft Dynamics 365]]></title>
-        <id>https://erpsoftwareblog.com/?p=102664</id>
-        <link href="https://erpsoftwareblog.com/2024/01/top-erp-trends-in-2024-for-microsoft-dynamics-365/"/>
-        <updated>2024-01-23T13:36:26.000Z</updated>
-        <summary type="html"><![CDATA[As we step into 2024, there are exciting changes coming to how businesses organize and plan their work, especially for those using Microsoft Dynamics 365. Imagine new tools like Microsoft […]
-The post Top ERP trends in 2024 for Microsoft Dynamics 365 appeared first on ERP Software Blog.
-MICROSOFT DYNAMICS 365 BUSINESS CENTRAL DEMO
-Tips to reduce the risk of wrong orders in your Restaurants
-Create A New Item In Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Binary Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix – Forbidden. There’s a problem with the flow’s trigger. Fix the trigger (Power Automate / Flow / Dataverse)]]></title>
-        <id>https://365community.online/fix-forbidden-theres-a-problem-with-the-flows-trigger-fix-the-trigger-power-automate-flow-dataverse</id>
-        <link href="https://365community.online/fix-forbidden-theres-a-problem-with-the-flows-trigger-fix-the-trigger-power-automate-flow-dataverse"/>
-        <updated>2024-01-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we got the below error “Forbidden” for one of our flows that was using the Dataverse connection. After some analysis, we found the root cause of the error. The […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Integrate an Accounting System with POS?]]></title>
-        <id>https://erpsoftwareblog.com/?p=103429</id>
-        <link href="https://erpsoftwareblog.com/2024/01/why-integrate-an-accounting-system-with-pos/"/>
-        <updated>2024-01-23T12:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Integrating an accounting system with a Point of Sale (POS) offers numerous benefits to business resulting in streamlining processes and improving overall process efficiency. Why Integrate an Accounting System with […]
-The post Why Integrate an Accounting System with POS? appeared first on ERP Software Blog.
-Achieving ROI with a Best-of-Breed Warehouse Management Solution (WMS)
-L’analyse de projet: une phase clé pour toute implantation de Microsoft Dynamics GP
-The Importance of the Analysis Phase during your Microsoft Dynamics ERP Implementation]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Por onde começar na comunidade em tecnologias Microsoft? | EP 25 – Romão’s Cast #carreira #shorts – YouTube]]></title>
-        <id>https://365community.online/por-onde-comecar-na-comunidade-em-tecnologias-microsoft-ep-25-romaos-cast-carreira-shorts-youtube</id>
-        <link href="https://365community.online/por-onde-comecar-na-comunidade-em-tecnologias-microsoft-ep-25-romaos-cast-carreira-shorts-youtube"/>
-        <updated>2024-01-23T11:38:44.000Z</updated>
-        <summary type="html"><![CDATA[[Vídeo completo no canal] source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Power Automate Solutions: Exporting An Unmanaged Solution]]></title>
-        <id>https://365community.online/working-with-power-automate-solutions-exporting-an-unmanaged-solution</id>
-        <link href="https://365community.online/working-with-power-automate-solutions-exporting-an-unmanaged-solution"/>
-        <updated>2024-01-23T11:00:36.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New SMS Integration arrives in Dynamics 365 CRM – Revolutionize Customer Communication!]]></title>
-        <id>https://365community.online/new-sms-integration-arrives-in-dynamics-365-crm-revolutionize-customer-communication</id>
-        <link href="https://365community.online/new-sms-integration-arrives-in-dynamics-365-crm-revolutionize-customer-communication"/>
-        <updated>2024-01-23T10:45:51.000Z</updated>
-        <summary type="html"><![CDATA[In recent times, we’ve witnessed a noticeable shift in user behaviors and strategies for capturing customer attention. This transition has moved from calls to emails and currently involves embracing social […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passing D365 Customer Service data to Copilot Studio]]></title>
-        <id>https://365community.online/passing-d365-customer-service-data-to-copilot-studio</id>
-        <link href="https://365community.online/passing-d365-customer-service-data-to-copilot-studio"/>
-        <updated>2024-01-23T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s article I will talk about Copilot Studio, but I am not discussing any new features. Instead, I am going to discuss some very important things that are happening […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passing D365 Customer Service data to Copilot Studio – YouTube]]></title>
-        <id>https://365community.online/passing-d365-customer-service-data-to-copilot-studio-youtube</id>
-        <link href="https://365community.online/passing-d365-customer-service-data-to-copilot-studio-youtube"/>
-        <updated>2024-01-23T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Passing D365 Customer Service data to Copilot Studio In this video I will discuss how Copilot Studio automatically captures data from Dynamics 365 Customer Service, after you’ve connected the two […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Display Download Button After Realtime Marketing Form Submission]]></title>
-        <id>https://365community.online/display-download-button-after-realtime-marketing-form-submission</id>
-        <link href="https://365community.online/display-download-button-after-realtime-marketing-form-submission"/>
-        <updated>2024-01-23T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[When submitting a Realtime Marketing form, there are two options available in terms of the end user experience for the submitter. You can either display a thankyou message, or redirect […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MB-260: Describe Dynamics 365 Customer Insights – Data components, including tables, relationships, enrichments, activities, measures, and segments]]></title>
-        <id>https://365community.online/mb-260-describe-dynamics-365-customer-insights-data-components-including-tables-relationships-enrichments-activities-measures-and-segments</id>
-        <link href="https://365community.online/mb-260-describe-dynamics-365-customer-insights-data-components-including-tables-relationships-enrichments-activities-measures-and-segments"/>
-        <updated>2024-01-23T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Components There are many components you need to know about in Customer Insights – Data (CI-D), these are what make your customer picture clear. Who is your customer, where do […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where does an organization begin using Azure? – YouTube]]></title>
-        <id>https://365community.online/where-does-an-organization-begin-using-azure-youtube</id>
-        <link href="https://365community.online/where-does-an-organization-begin-using-azure-youtube"/>
-        <updated>2024-01-23T07:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Where does an organization begin using Azure? Session from Ignite 2021 Azure is a global cloud platform with 200+ products and cloud services designed to help you bring new solutions […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO Electronic reporting Excel templates for Business Documents guide; All you need to know from 0. (ER from scratch part 5)]]></title>
-        <id>http://fernitudela.dev/?p=1284</id>
-        <link href="https://fernitudela.dev/2024/01/23/d365fo-electronic-reporting-excel-templates-for-business-documents-guide-all-you-need-to-know-from-0-er-from-scratch-part-5/"/>
-        <updated>2024-01-23T06:57:16.000Z</updated>
-        <summary type="html"><![CDATA[A detailed guide about how to deal with the delicate excel templates for Electronic Reporting. Very useful to understand and start working with the Business documents. 
-Many times, I've received questions about this topic, errors loading the templates and stuff like that... Here you are a good way to start modifying the Business documents Excel templates avoiding the most common mistakes, In this video, using examples like always, we show at least 4 of them and explain a good way of doing it:
-
-1.Not understanding the cells/ranges names (use the NameManager!)
-2.Changing stuff without consider the containing ranges (and so losing the existing mappings ): )
-3.Change a name outside of the Name Manager
-4.Not using labels
-
-Go for it! … More D365FO Electronic reporting Excel templates for Business Documents guide; All you need to know from 0. (ER from scratch part 5)]]></summary>
-        <author>
-            <name>Fernando Tudela Desantes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding CoPilot and Microsoft Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103450</id>
-        <link href="https://erpsoftwareblog.com/2024/01/understanding-copilot-and-microsoft-business-central/"/>
-        <updated>2024-01-22T22:32:06.000Z</updated>
-        <summary type="html"><![CDATA[The Impact of CoPilot and Microsoft Business Central on companies today using this Microsoft ERP solution can help in profitability.  Staying competitive and maximizing profits are top priorities of course […]
-The post Understanding CoPilot and Microsoft Business Central appeared first on ERP Software Blog.
-Top 5 Microsoft Business Central Features
-Exploring ERP: Fixed Assets in Microsoft Business Central
-3 Benefits of Shopify to Microsoft Business Central Integration]]></summary>
-        <author>
-            <name>iCepts Technology Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect with Solver at Acumatica Summit 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=103350</id>
-        <link href="https://erpsoftwareblog.com/2024/01/how-to-connect-with-solver-at-acumatica-summit-2024/"/>
-        <updated>2024-01-22T21:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Heading to Acumatica Summit 2024, January 28 – 31 in Vegas? Solver is too! Join us to discover how your organization can accelerate better decisions with a leading advanced reporting, […]
-The post How to Connect with Solver at Acumatica Summit 2024 appeared first on ERP Software Blog.
-Access, Align, & Accelerate Your BI Processes
-How to Select an Electronic Workflow Solution?
-What Does a 1095-C Delay Mean for 1040 Filings?]]></summary>
-        <author>
-            <name>Solver Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All things D365 CE Series – Introduction to D365 CE – Episode 1 – YouTube]]></title>
-        <id>https://365community.online/all-things-d365-ce-series-introduction-to-d365-ce-episode-1-youtube</id>
-        <link href="https://365community.online/all-things-d365-ce-series-introduction-to-d365-ce-episode-1-youtube"/>
-        <updated>2024-01-22T20:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Episode 1 of our ‘All things D365 CE’ series! Join me, Vishwas from DVMSKE, as we explore the transformative power of Microsoft Dynamics 365 Customer Engagement. 🚀 🔍 […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding AP Automation to Existing Systems]]></title>
-        <id>https://erpsoftwareblog.com/?p=103439</id>
-        <link href="https://erpsoftwareblog.com/2024/01/adding-ap-automation-to-existing-systems/"/>
-        <updated>2024-01-22T18:42:57.000Z</updated>
-        <summary type="html"><![CDATA[Adding MetaViewer’s AP automation to your existing systems can seem like complex work, but it’s not. Here we simplify the process of integrating MetaViewer with your current ERP solution, offering […]
-The post Adding AP Automation to Existing Systems appeared first on ERP Software Blog.
-AP Automation: Inside or Outside the ERP? Weighing the pros and cons
-Create a Closed-Loop Analysis, Planning, and Reporting Process
-How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?]]></summary>
-        <author>
-            <name>Lori Johnson, MetaViewer Paperless AP Automation for Microsoft Dynamics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impacto da Comunidade Técnica na Carreira de Aplicações de Negócio | Romão’s Cast #shorts #carreira – YouTube]]></title>
-        <id>https://365community.online/impacto-da-comunidade-tecnica-na-carreira-de-aplicacoes-de-negocio-romaos-cast-shorts-carreira-youtube</id>
-        <link href="https://365community.online/impacto-da-comunidade-tecnica-na-carreira-de-aplicacoes-de-negocio-romaos-cast-shorts-carreira-youtube"/>
-        <updated>2024-01-22T15:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Vídeo completo no canal source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnichannel for Customer Service – Role Persona Mapping]]></title>
-        <id>https://365community.online/omnichannel-for-customer-service-role-persona-mapping</id>
-        <link href="https://365community.online/omnichannel-for-customer-service-role-persona-mapping"/>
-        <updated>2024-01-22T14:26:50.000Z</updated>
-        <summary type="html"><![CDATA[When using Microsoft’s Omnichannel for Customer Service or Unified Routing “Role Persona Mapping” can come into play. In this post I will explain how and why. If I’m completely honest, […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Currying Favor with Tech: Jason Earnshaw’s Journey Through Lotus Notes to Low-Code Revolution an – YouTube]]></title>
-        <id>https://365community.online/currying-favor-with-tech-jason-earnshaws-journey-through-lotus-notes-to-low-code-revolution-an-youtube</id>
-        <link href="https://365community.online/currying-favor-with-tech-jason-earnshaws-journey-through-lotus-notes-to-low-code-revolution-an-youtube"/>
-        <updated>2024-01-22T14:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Currying Favor with Tech: Jason Earnshaw’s Journey Through Lotus Notes to Low-Code Revolution an FULL SHOW NOTES https://podcast.nz365guy.com/519   • Ever wondered how spicy curry ties into the low-code revolution? […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create A D365 SSRS Report]]></title>
-        <id>https://dynamics365musings.com/?p=3387</id>
-        <link href="https://dynamics365musings.com/create-a-d365-ssrs-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-a-d365-ssrs-report"/>
-        <updated>2024-01-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, learn how to create a basic D365 SSRS reports. “SSRS” stands for SQL Server Reporting Services. Reports are defined by Microsoft as any visualization of a structured data set. Learn how to display data retrieved from within Microsoft Dynamics 365 for Finance and Operations. Importantly, SSRS reports can be created to show... Continue Reading →
-The post How To Create A D365 SSRS Report appeared first on Dynamics 365 Musings.]]></summary>
-        <author>
-            <name>peter.ramer</name>
         </author>
     </entry>
     <entry>
