@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-22T02:03:32.370Z</updated>
+    <updated>2026-01-23T01:59:52.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Infrastructure Architecture]]></title>
+        <id>https://365community.online/azure-ai-infrastructure-architecture</id>
+        <link href="https://365community.online/azure-ai-infrastructure-architecture"/>
+        <updated>2026-01-23T01:57:34.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,800Most organizations are making the same comfortable assumption. 200:00:02,800 –> 00:00:05,120AI is just another workload. 300:00:05,120 –> 00:00:07,920They are wrong AI isn’t just compute with a different API, 400:00:07,920 –> 00:00:10,720it is an autonomous probabilistic decision engine running 500:00:10,720 –> 00:00:13,120on deterministic infrastructure that was never built 600:00:13,120 –> 00:00:14,280to understand intent. 700:00:14,280 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#8 Modernizing SharePoint with Oliver Wirkus by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/8-modernizing-sharepoint-with-oliver-wirkus-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/8-modernizing-sharepoint-with-oliver-wirkus-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-23T01:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Architectural Drift in Power BI]]></title>
+        <id>https://365community.online/understanding-architectural-drift-in-power-bi</id>
+        <link href="https://365community.online/understanding-architectural-drift-in-power-bi"/>
+        <updated>2026-01-22T22:06:14.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,960Most teams assume AI agents will standardize their power BI or fabric models they won’t. 200:00:04,960 –> 00:00:08,900They’ll produce something that looks consistent, compiles and even performs while the meaning 300:00:08,900 –> 00:00:10,560quietly changes underneath you. 400:00:10,560 –> 00:00:12,200That’s architectural drift. 500:00:12,200 –> 00:00:16,200The system still answers questions, but it no longer answers […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#9 Microsoft Teams Barcamp mit Magnus Rode by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/9-microsoft-teams-barcamp-mit-magnus-rode-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/9-microsoft-teams-barcamp-mit-magnus-rode-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-22T22:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 OMZY Features That Take the Business Central Projects module to the Next Level]]></title>
+        <id>https://erpsoftwareblog.com/?p=140236</id>
+        <link href="https://erpsoftwareblog.com/2026/01/5-omzy-features-that-take-business-central-projects-module-to-the-next-level/"/>
+        <updated>2026-01-22T20:53:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing complex projects in Microsoft Dynamics 365 Business Central can be challenging when you need flexibility, granular control, and real-time visibility. Your organization chose Business Central as the solution to […]
+The post 5 OMZY Features That Take the Business Central Projects module to the Next Level appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an MCP Server?]]></title>
+        <id>https://erpsoftwareblog.com/?p=140083</id>
+        <link href="https://erpsoftwareblog.com/2026/01/what-is-an-mcp-server/"/>
+        <updated>2026-01-22T20:28:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Model Context Protocols (MCPs) have changed the way AI agents access data, find information, and complete various tasks. It’s easy to play with AI models, but if you’re looking to make a real impact on your workflow, you need […]
+The post What is an MCP Server? appeared first on ERP Software Blog.
+Demand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP
+6 Ways to Use AI in Your Business
+Webinar Coming Up! Reducing Accounting Overhead for Long Term Care]]></summary>
+        <author>
+            <name>eOne Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governing Autonomous AI Models in Power BI Fabric]]></title>
+        <id>https://365community.online/governing-autonomous-ai-models-in-power-bi-fabric</id>
+        <link href="https://365community.online/governing-autonomous-ai-models-in-power-bi-fabric"/>
+        <updated>2026-01-22T18:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Most teams assume AI agents will standardize their Power BI and Fabric models. They won’t. They produce outputs that compile, render, and even perform—while the meaning quietly changes underneath. That silent shift is architectural drift: when your semantic layer keeps answering questions, but no longer answers the same question, for the same reasons, across teams […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#10 workhacks to raise Microsoft Teams adoption to a new level]]></title>
+        <id>https://365community.online/10-workhacks-to-raise-microsoft-teams-adoption-to-a-new-level</id>
+        <link href="https://365community.online/10-workhacks-to-raise-microsoft-teams-adoption-to-a-new-level"/>
+        <updated>2026-01-22T18:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect AI Agents to WordPress.com with OAuth 2.1 and MCP]]></title>
+        <id>https://365community.online/connect-ai-agents-to-wordpress-com-with-oauth-2-1-and-mcp</id>
+        <link href="https://365community.online/connect-ai-agents-to-wordpress-com-with-oauth-2-1-and-mcp"/>
+        <updated>2026-01-22T17:19:00.000Z</updated>
+        <summary type="html"><![CDATA[In October, we announced that WordPress.com now supports MCP (Model Context Protocol), enabling AI agents to interact with your sites. Today, WordPress.com supports OAuth 2.1, making MCP integrations simpler.  MCP clients work natively with OAuth 2.1, so authorizing the AI tools you already use is as straightforward as adding a URL and approving access — […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose an ERP Consultant (2026 Edition)]]></title>
+        <id>https://erpsoftwareblog.com/?p=140316</id>
+        <link href="https://erpsoftwareblog.com/2026/01/how-to-choose-an-erp-consultant/"/>
+        <updated>2026-01-22T16:56:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Selecting the right ERP consultant in 2026 means partnering with specialists who deliver seamless Microsoft Dynamics 365 Business Central implementations, migrations, and integrations. With AI-driven tools and cloud-native updates dominating […]
+The post How to Choose an ERP Consultant (2026 Edition) appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide to Automating GRC Reports with Power Automate]]></title>
+        <id>https://365community.online/step-by-step-guide-to-automating-grc-reports-with-power-automate</id>
+        <link href="https://365community.online/step-by-step-guide-to-automating-grc-reports-with-power-automate"/>
+        <updated>2026-01-22T14:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a fact you probably won’t hear in meetings: every hour you spend manually building GRC reports increases your risk of error—and compliance gaps. The truth is, those spreadsheets and copy-paste jobs might be the weakest link in your governance process. The good news? Power Automate can connect all your sources of truth and generate […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#11 How VUCA Rockers use Microsoft Teams]]></title>
+        <id>https://365community.online/11-how-vuca-rockers-use-microsoft-teams</id>
+        <link href="https://365community.online/11-how-vuca-rockers-use-microsoft-teams"/>
+        <updated>2026-01-22T14:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Reporting Challenges in Dynamics 365 Business Central and How to Solve Them in Excel]]></title>
+        <id>https://erpsoftwareblog.com/?p=140091</id>
+        <link href="https://erpsoftwareblog.com/2026/01/three-reporting-challenges-in-dynamics-365-business-central-and-how-to-solve-them-in-excel/"/>
+        <updated>2026-01-22T13:57:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’ve spent time closing the books in Microsoft Dynamics 365 Business Central, you don’t need a white paper to tell you where the pressure shows up. Reporting takes longer […]
+The post Three Reporting Challenges in Dynamics 365 Business Central and How to Solve Them in Excel appeared first on ERP Software Blog.
+See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting
+3 Finance Leaders Share Top Pick for Business Central Reporting
+Navigating 8 Common Financial Reporting Challenges (Infographic)]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Microsoft Intune Used For?]]></title>
+        <id>https://365community.online/what-is-microsoft-intune-used-for</id>
+        <link href="https://365community.online/what-is-microsoft-intune-used-for"/>
+        <updated>2026-01-22T10:42:02.000Z</updated>
+        <summary type="html"><![CDATA[If you think Intune is just another way to push policies to laptops, you’re missing the bigger picture. What if I told you the real power of Intune isn’t just about managing devices—but about controlling identity, data, and apps as part of one interconnected ecosystem? Today we’re unpacking why Microsoft Intune isn’t just an IT […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#12 Tony Redmond- how use Office 365 to write an O365 book by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/12-tony-redmond-how-use-office-365-to-write-an-o365-book-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/12-tony-redmond-how-use-office-365-to-write-an-o365-book-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-22T10:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Purview and Azure Information Protection]]></title>
+        <id>https://365community.online/microsoft-purview-and-azure-information-protection</id>
+        <link href="https://365community.online/microsoft-purview-and-azure-information-protection"/>
+        <updated>2026-01-22T06:55:21.000Z</updated>
+        <summary type="html"><![CDATA[What if I told you that the same Microsoft 365 subscription you’re already paying for might hold the keys to enterprise-grade data protection—without requiring a massive budget or team of engineers? Today, we’re tackling one of the biggest myths around Microsoft Purview and Azure Information Protection, and I’m going to show you just how accessible […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Step-by-Step Guide to Organizing Projects in Teams]]></title>
         <id>https://365community.online/step-by-step-guide-to-organizing-projects-in-teams</id>
@@ -107791,156 +107971,6 @@ Post ACH Vendor Payment Detail in Dynamics GP General Ledger the Easy Way]]></su
         <summary type="html"><![CDATA[My 100th Video: The journey itself is an award! source]]></summary>
         <author>
             <name>Deepesh Somani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformei minha primeira palestra num aprendizado | EP#25 – Romão’s Cast #shorts #ia #palestra – YouTube]]></title>
-        <id>https://365community.online/transformei-minha-primeira-palestra-num-aprendizado-ep25-romaos-cast-shorts-ia-palestra-youtube</id>
-        <link href="https://365community.online/transformei-minha-primeira-palestra-num-aprendizado-ep25-romaos-cast-shorts-ia-palestra-youtube"/>
-        <updated>2024-01-24T13:50:37.000Z</updated>
-        <summary type="html"><![CDATA[[Vídeo completo no canal] source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed – To start using cloud flows, update to the latest package in the admin center (Power Pages)]]></title>
-        <id>https://365community.online/fixed-to-start-using-cloud-flows-update-to-the-latest-package-in-the-admin-center-power-pages</id>
-        <link href="https://365community.online/fixed-to-start-using-cloud-flows-update-to-the-latest-package-in-the-admin-center-power-pages"/>
-        <updated>2024-01-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently while trying to implement the below feature – How to: Integrate Power Automate cloud flow with a Power Pages site We were getting the below error – “To start […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blending Vocation and Innovation: Paul Stork's Path from SharePoint Specialist to Power Platform Pro and Pastoral Insights]]></title>
-        <id>https://365community.online/blending-vocation-and-innovation-paul-storks-path-from-sharepoint-specialist-to-power-platform-pro-and-pastoral-insights</id>
-        <link href="https://365community.online/blending-vocation-and-innovation-paul-storks-path-from-sharepoint-specialist-to-power-platform-pro-and-pastoral-insights"/>
-        <updated>2024-01-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/520  Have you ever wondered how an expert in SharePoint evolves into a Power Platform maestro? Paul Stork's story intertwines technology and the human spirit, as he […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Essential ERP Transportation Management System Features]]></title>
-        <id>https://erpsoftwareblog.com/?p=103506</id>
-        <link href="https://erpsoftwareblog.com/2024/01/10-essential-erp-transportation-management-system-features/"/>
-        <updated>2024-01-24T11:02:47.000Z</updated>
-        <summary type="html"><![CDATA[For the manufacturing industry, managing logistics and supply chain brings new challenges every day. From meeting customer demands for efficiency and improved margins, to effectively managing your routes and carriers – […]
-The post 10 Essential ERP Transportation Management System Features appeared first on ERP Software Blog.
-Dynamics CRM Sales Invoices to D365 for Financials
-Why Distributors are Excited About Power BI
-Benefits DynaRent Adds to Dynamics 365 F&SCM as a Rental Software]]></summary>
-        <author>
-            <name>Synoptek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with Power Automate Solutions: Importing An Unmanaged Solution]]></title>
-        <id>https://365community.online/working-with-power-automate-solutions-importing-an-unmanaged-solution</id>
-        <link href="https://365community.online/working-with-power-automate-solutions-importing-an-unmanaged-solution"/>
-        <updated>2024-01-24T11:00:34.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Invasion: Will Robots Replace Your Housing Officers?]]></title>
-        <id>https://365community.online/ai-invasion-will-robots-replace-your-housing-officers</id>
-        <link href="https://365community.online/ai-invasion-will-robots-replace-your-housing-officers"/>
-        <updated>2024-01-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As we stand on the brink of a technological revolution, one question looms large: Will Artificial Intelligence (AI) replace housing officers in the next five years?  Housing officers are the […]]]></summary>
-        <author>
-            <name>Chris Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Git Version Control to develop a Canvas App in network mode]]></title>
-        <id>https://365community.online/use-git-version-control-to-develop-a-canvas-app-in-network-mode</id>
-        <link href="https://365community.online/use-git-version-control-to-develop-a-canvas-app-in-network-mode"/>
-        <updated>2024-01-24T06:26:40.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post, we’ll explore the process of allowing multiple users to collaborate on “The Canvas App” simultaneously from anywhere. By leveraging this functionality, we can connect our Canvas […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How LS Central Can Help Restaurants Cut Costs Without Sacrificing Quality?]]></title>
-        <id>https://erpsoftwareblog.com/?p=103491</id>
-        <link href="https://erpsoftwareblog.com/2024/01/how-ls-central-can-help-restaurants-cut-costs-without-sacrificing-quality/"/>
-        <updated>2024-01-23T17:36:51.000Z</updated>
-        <summary type="html"><![CDATA[Running a successful restaurant is a delicate balancing act, especially when it comes to managing costs without compromising on the quality that keeps customers coming back. LS Central, an integrated business […]
-The post How LS Central Can Help Restaurants Cut Costs Without Sacrificing Quality? appeared first on ERP Software Blog.
-Efficient Inventory Management: Unlocking Stock Levels with LS Central
-Enhancing Order Accuracy with LS Central in Your Restaurants
-How cloud migration can reduce risk of cyberattacks for Retailers?]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamlining Global Operations: TCCI's Data Transformation Odyssey]]></title>
-        <id>https://erpsoftwareblog.com/?p=103489</id>
-        <link href="https://erpsoftwareblog.com/2024/01/streamlining-global-operations-tccis-data-transformation-odyssey/"/>
-        <updated>2024-01-23T17:25:10.000Z</updated>
-        <summary type="html"><![CDATA[TCCI, a trailblazer in compressor technology, embarked on a transformative journey aimed at boosting efficiency and sustainability. Confronted with the challenge of outdated and fragmented Microsoft ERP systems across 11 […]
-The post Streamlining Global Operations: TCCI's Data Transformation Odyssey appeared first on ERP Software Blog.
-Time to Upgrade Your TMS or Maybe Move to a New Provider ?
-The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
-EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)]]></summary>
-        <author>
-            <name>HSO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Workflow in Dynamics GP]]></title>
-        <id>http://blog.encorebusiness.com/?p=9539</id>
-        <link href="https://www.encorebusiness.com/blog/using-workflow-in-microsoft-dynamics-gp/"/>
-        <updated>2024-01-23T16:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Using Workflow in Dynamics GP
-The built-in workflow functionality in Dynamics GP is a powerful tool that enables you to easily add workflows to your system, automating the approval processes and optimizing efficiency. This article will guide you through setting up workflows in accounts payable, covering how to create a new step in your workflow, view reports of items for...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Don McNulty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embrace cloud migration with Microsoft Dynamics 365]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/"/>
-        <updated>2024-01-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog, we discuss how the shift to cloud solutions empowers organizations to tackle challenges and thrive in a demanding era. Learn more about Microsoft's “Accelerate, Innovate, Move” (AIM) program for a smooth cloud transition. 
-The post Embrace cloud migration with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Stephanie Dart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesforce Field Service Lightning Training | Salesforce FSL Certification Online | MindMajix – YouTube]]></title>
-        <id>https://365community.online/salesforce-field-service-lightning-training-salesforce-fsl-certification-online-mindmajix-youtube</id>
-        <link href="https://365community.online/salesforce-field-service-lightning-training-salesforce-fsl-certification-online-mindmajix-youtube"/>
-        <updated>2024-01-23T14:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Discover the power of Salesforce Field Service Lightning with our comprehensive training video. Learn how to optimize field service operations, streamline work orders, how to install it and more. This […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering Professional Services with Microsoft Dynamics 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103484</id>
-        <link href="https://erpsoftwareblog.com/2024/01/empowering-professional-services-with-business-central/"/>
-        <updated>2024-01-23T14:07:06.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of professional services, efficiency, collaboration, and data-driven decision-making are critical for success. Microsoft Dynamics 365 Business Central emerges as a powerful solution, offering a comprehensive suite of […]
-The post Empowering Professional Services with Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
-Quality Assurance and Compliance in Manufacturing with Business Central
-A Comprehensive Guide on How to Use the Warehouse Item Journal
-Top 3 benefits of digital transformation for the professional services]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
         </author>
     </entry>
     <entry>
