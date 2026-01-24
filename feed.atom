@@ -2,28 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-23T01:59:52.512Z</updated>
+    <updated>2026-01-24T01:56:23.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Azure AI Infrastructure Architecture]]></title>
-        <id>https://365community.online/azure-ai-infrastructure-architecture</id>
-        <link href="https://365community.online/azure-ai-infrastructure-architecture"/>
-        <updated>2026-01-23T01:57:34.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,800Most organizations are making the same comfortable assumption. 200:00:02,800 –> 00:00:05,120AI is just another workload. 300:00:05,120 –> 00:00:07,920They are wrong AI isn’t just compute with a different API, 400:00:07,920 –> 00:00:10,720it is an autonomous probabilistic decision engine running 500:00:10,720 –> 00:00:13,120on deterministic infrastructure that was never built 600:00:13,120 –> 00:00:14,280to understand intent. 700:00:14,280 […]]]></summary>
+        <title type="html"><![CDATA[Dynamics 365 Embedded Analytics with Fabric & Power BI]]></title>
+        <id>https://365community.online/dynamics-365-embedded-analytics-with-fabric-power-bi</id>
+        <link href="https://365community.online/dynamics-365-embedded-analytics-with-fabric-power-bi"/>
+        <updated>2026-01-24T00:55:51.000Z</updated>
+        <summary type="html"><![CDATA[If you’re still exporting Dynamics 365 data to Excel just to make a chart, you’re losing hours you’ll never get back. What if those insights could appear live, inside the CRM or ERP screens your team already lives in? Today, we’re connecting Dynamics 365 directly to Microsoft Fabric’s analytics models — and then embedding Power […]]]></summary>
         <author>
             <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#8 Modernizing SharePoint with Oliver Wirkus by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
-        <id>https://365community.online/8-modernizing-sharepoint-with-oliver-wirkus-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
-        <link href="https://365community.online/8-modernizing-sharepoint-with-oliver-wirkus-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
-        <updated>2026-01-23T01:52:26.000Z</updated>
+        <title type="html"><![CDATA[#2 Microsoft Teams Walkie-Talkie by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/2-microsoft-teams-walkie-talkie-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/2-microsoft-teams-walkie-talkie-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-24T00:50:35.000Z</updated>
         <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
         <author>
             <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 1099 Electronic Filing Features in Microsoft Dynamics 365 Business Central: A Step-By-Step Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=140409</id>
+        <link href="https://erpsoftwareblog.com/2026/01/new-1099-electronic-filing-features-in-microsoft-dynamics-365-business-central-a-step-by-step-guide/"/>
+        <updated>2026-01-23T23:13:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+New 1099 Filing Features in Microsoft Dynamics 365 Business Central: What's New for 2025–2026 and link to Step-by-Step Guide   The U.S. 1099 reporting process has undergone significant transformation with […]
+The post New 1099 Electronic Filing Features in Microsoft Dynamics 365 Business Central: A Step-By-Step Guide appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Shannon Mullins, Microsoft MVP, CEO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev Tunnels in Visual Studio for Microsoft 365 App Testing]]></title>
+        <id>https://365community.online/dev-tunnels-in-visual-studio-for-microsoft-365-app-testing</id>
+        <link href="https://365community.online/dev-tunnels-in-visual-studio-for-microsoft-365-app-testing"/>
+        <updated>2026-01-23T21:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Ever built the perfect Teams app locally… only to realize your customer can’t test it without a painful deployment? What if you could make your laptop act like a secure cloud endpoint in under 3 minutes? Dev Tunnels in Visual Studio can do exactly that—but only if you configure them right. Today I’ll walk you […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#3 Working Out Loud with Office 365 by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/3-working-out-loud-with-office-365-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/3-working-out-loud-with-office-365-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-23T20:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Quality Controls Break Down in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=140376</id>
+        <link href="https://erpsoftwareblog.com/2026/01/when-quality-controls-break-down-in-business-central/"/>
+        <updated>2026-01-23T20:16:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Failed Material Moving Through Operations Quality management processes relying on paper checklists and disconnected workflows often result in failed or nonconforming materials making their way through receiving, production, and shipping. […]
+The post When Quality Controls Break Down in Business Central appeared first on ERP Software Blog.
+Optimize Order Fulfillment in Business Central
+Import Data into Business Central with Free Import Export PowerTool
+The Secret to Effortless Data Migration in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Integration Security and Compliance Considerations]]></title>
+        <id>https://erpsoftwareblog.com/?p=140390</id>
+        <link href="https://erpsoftwareblog.com/2026/01/erp-integration-security-and-compliance-considerations/"/>
+        <updated>2026-01-23T18:33:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP systems process some of the most sensitive data within an organization. Financial transactions, customer records, supplier information, and operational data all flow through the ERP and its connected systems. In integrated […]
+The post ERP Integration Security and Compliance Considerations appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process exceptions inside transactions]]></title>
+        <id>https://dev.goshoom.net/?p=10236</id>
+        <link href="https://dev.goshoom.net/2026/01/process-exceptions-inside-transactions/"/>
+        <updated>2026-01-23T17:29:42.000Z</updated>
+        <summary type="html"><![CDATA[D365 F&O doesn’t allow you to catch (most) exceptions inside database transactions. But there is a way how you can work with exceptions there. For example, I have some logic using Message processor and I noticed that the processor ignores CLR (.NET) exceptions. It silently handles them and they appear neither in infolog nor any ...
+Continue reading ‘Process exceptions inside transactions’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Teams Admin Center Trap]]></title>
+        <id>https://365community.online/the-teams-admin-center-trap</id>
+        <link href="https://365community.online/the-teams-admin-center-trap"/>
+        <updated>2026-01-23T17:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations treat the Teams Admin Center like it’s the control tower for Microsoft Teams. It isn’t. It’s a service console—useful, visible, and familiar—but it does not decide who gets in, who gets blocked, or what gets a token. That authority lives upstream, in identity. In this episode, we dismantle the most common Teams governance […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#4 Microsofts neuer Edge Browser – was kann er besser? mit Martin Rechsteiner]]></title>
+        <id>https://365community.online/4-microsofts-neuer-edge-browser-was-kann-er-besser-mit-martin-rechsteiner</id>
+        <link href="https://365community.online/4-microsofts-neuer-edge-browser-was-kann-er-besser-mit-martin-rechsteiner"/>
+        <updated>2026-01-23T17:14:04.000Z</updated>
+        <summary type="html"><![CDATA[Heute spreche ich mit Martin Rechsteiner, Blogger und Podcaster auf “Podkipsie” (podkipsie.ch) Wir stellen uns heute die Frage, wieso Microsoft den Edge Browser neu aufgesetzt hat und was er nun besser kann. Source link]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put your AI Agent in Production | Zero to Hero – The Rise of Agents (Lesson 3) – Chris Huntinford – YouTube]]></title>
+        <id>https://365community.online/put-your-ai-agent-in-production-zero-to-hero-the-rise-of-agents-lesson-3-chris-huntinford-youtube</id>
+        <link href="https://365community.online/put-your-ai-agent-in-production-zero-to-hero-the-rise-of-agents-lesson-3-chris-huntinford-youtube"/>
+        <updated>2026-01-23T16:55:46.000Z</updated>
+        <summary type="html"><![CDATA[From Automation to Agents: Designing the Frontier Firm with Chris Huntingford What if AI wasn’t just a tool… but a new operating system for how organizations work? In Lesson 3 of Zero to Hero – Rise of Agents, Chris Huntingford takes us deep into the real meaning of agents, frontier firms, and agentic architecture. This […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP Support North Logo Update - Continued 2026 Dynamics GP Growth]]></title>
+        <id>https://erpsoftwareblog.com/?p=140358</id>
+        <link href="https://erpsoftwareblog.com/2026/01/gp-support-north-logo-update-continued-2026-dynamics-gp-growth/"/>
+        <updated>2026-01-23T14:02:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Our Microsoft Dynamics GP Support North team has a new Logo Update for continued growth in 2026 We're excited to reveal our new GP Support North logo, as an Endeavor4 […]
+The post GP Support North Logo Update - Continued 2026 Dynamics GP Growth appeared first on ERP Software Blog.
+25 ERP Software Blog Members Honored as 2013 VAR Stars
+When is Azure more effective to access your Data with Microsoft Dynamics 365?
+Automated Vendor Validation: Secure and Simplify AP Compliance]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI in ERP - Are Your Controls Ready?]]></title>
+        <id>https://erpsoftwareblog.com/?p=140364</id>
+        <link href="https://erpsoftwareblog.com/2026/01/agentic-ai-in-erp-are-your-controls-ready/"/>
+        <updated>2026-01-23T13:58:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For the past few years, AI in business software mostly meant copilots and chat tools. They answered questions, summarized documents, helped draft emails. Useful, but incremental. That phase is ending. […]
+The post Agentic AI in ERP - Are Your Controls Ready? appeared first on ERP Software Blog.
+Demand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP
+6 Ways to Use AI in Your Business
+Webinar Coming Up! Reducing Accounting Overhead for Long Term Care]]></summary>
+        <author>
+            <name>Data Courage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Designer for Business Content Creation]]></title>
+        <id>https://365community.online/microsoft-designer-for-business-content-creation</id>
+        <link href="https://365community.online/microsoft-designer-for-business-content-creation"/>
+        <updated>2026-01-23T13:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Remember spending hours aligning a PowerPoint slide just right, only for someone to change the brand colors? What if I told you now, Microsoft Designer can do that work in seconds—without you even picking up the mouse. But here’s the thing… it’s not just faster, it’s learning your style while you work. Today, I’ll show […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#5 Hot January! Next Microsoft Teams Community Events in Germany by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/5-hot-january-next-microsoft-teams-community-events-in-germany-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/5-hot-january-next-microsoft-teams-community-events-in-germany-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-01-23T13:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of ETL in Microsoft Fabric]]></title>
+        <id>https://365community.online/the-future-of-etl-in-microsoft-fabric</id>
+        <link href="https://365community.online/the-future-of-etl-in-microsoft-fabric"/>
+        <updated>2026-01-23T09:37:24.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent hours duct-taping together Power Query scripts and manually tweaking ETL jobs, Microsoft just changed the game. Fabric Dataflows Gen2 isn’t just a facelift — it’s a complete rethink of how your data moves from source to insight.In the next few minutes, you’ll see why features like compute separation and managed staging could […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Sales Enterprise: A Complete Guide for Modern Sales Teams]]></title>
+        <id>https://erpsoftwareblog.com/?p=140354</id>
+        <link href="https://erpsoftwareblog.com/2026/01/dynamics-365-sales-enterprise-a-complete-guide-for-modern-sales-teams/"/>
+        <updated>2026-01-23T09:11:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics 365 Sales Enterprise has grown into a powerful CRM platform that supports modern, insight driven selling. It helps sales teams build stronger relationships, close deals faster, and work more […]
+The post Dynamics 365 Sales Enterprise: A Complete Guide for Modern Sales Teams  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Dynamics 365 F&O License Automation]]></title>
+        <id>https://dynamicspedia.com/?p=20208</id>
+        <link href="https://dynamicspedia.com/2026/01/introducing-dynamics-365-fo-license-automation/"/>
+        <updated>2026-01-23T07:31:56.000Z</updated>
+        <summary type="html"><![CDATA[When the license enforcement was announced at the end of March 2025, I got heavily involved in several client projects, and I participated in weekly office hours to provide feedback to Microsoft for fixing bugs and improving the new license reporting. During several talks and interactions, it became clear that there is a need for […]
+The post Introducing Dynamics 365 F&O License Automation appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
@@ -107840,137 +108032,6 @@ The post Dynamics 365 & Power Platform – 2024 release wave 1 plans appeared fi
 The post 2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Mo Osborne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an Organization Chart in Dynamics 365 Sales]]></title>
-        <id>https://www.encorebusiness.com/?p=61141</id>
-        <link href="https://www.encorebusiness.com/blog/create-an-organization-chart-in-dynamics-365-sales/"/>
-        <updated>2024-01-25T12:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Create an Organization Chart in Dynamics 365 Sales
-The Org Chart feature in Dynamics 365 Sales is a helpful tool for sales and service team users who routinely interact with a variety of contacts within large organizations. The Org Chart provides the ability to organize Contacts within an Account into a visual hierarchy that represents the organization’s structure. These easy-to-create diagrams allow you...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Erika Colson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It Time to Embrace Factory 4.0? Navigating the New Industrial Landscape]]></title>
-        <id>https://erpsoftwareblog.com/?p=103494</id>
-        <link href="https://erpsoftwareblog.com/2024/01/is-it-time-to-embrace-factory-4-0-navigating-the-new-industrial-landscape/"/>
-        <updated>2024-01-25T05:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Introduction The advent of Factory 4.0 has ushered in a new era in manufacturing, characterized by an unprecedented level of digital integration and technological sophistication. This transformation is not just […]
-The post Is It Time to Embrace Factory 4.0? Navigating the New Industrial Landscape appeared first on ERP Software Blog.
-Manufacturing Downtime Is NOT An Option
-3 Ways ERP Can Streamline Manufacturing for Small and Midsize Businesses
-Insight Works Announces MxAPS 4.7 for Dynamics 365 Business Central: Advanced Scheduling Solutions Reach New Heights]]></summary>
-        <author>
-            <name>HSO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Human Resources – 2024 release wave 1]]></title>
-        <id>http://paragchapre.com/?p=12363</id>
-        <link href="https://paragchapre.com/dynamics-365-human-resources-2024-release-wave-1/"/>
-        <updated>2024-01-25T02:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Explore the latest enhancements in the Dynamics 365 Human Resources 2024 release wave 1. Elevate your workforce management with innovative features, improved user experiences, and cutting-edge capabilities. 
-The post Dynamics 365 Human Resources – 2024 release wave 1 appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Human Resources – 2024 release wave 1]]></title>
-        <id>http://paragchapre.com/?p=12363</id>
-        <link href="https://paragchapre.com/dynamics-365-human-resources-2024-release-wave-1/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dynamics-365-human-resources-2024-release-wave-1"/>
-        <updated>2024-01-25T02:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Explore the latest enhancements in the Dynamics 365 Human Resources 2024 release wave 1. Elevate your workforce management with innovative features, improved user experiences, and cutting-edge capabilities. 
-The post Dynamics 365 Human Resources – 2024 release wave 1 appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Manufacturing Add-Ons for Business Central in 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=103518</id>
-        <link href="https://erpsoftwareblog.com/2024/01/top-5-manufacturing-add-ons-for-business-central/"/>
-        <updated>2024-01-24T22:20:41.000Z</updated>
-        <summary type="html"><![CDATA[We recently revealed our top 10 manufacturing add-ons for Business Central. In 2024, there are many incredible apps for Microsoft Business Central tailored for the manufacturing industry. In this article, […]
-The post Top 5 Manufacturing Add-Ons for Business Central in 2024 appeared first on ERP Software Blog.
-Four Reasons We’re Ready For Microsoft Dynamics GP 2010
-Dynamics GP Portals: Pros and Cons of Using an Employee Self Service Portal for Human Resource Management
-Distributors Generate Data Every Day, Yet Many Aren’t Using It]]></summary>
-        <author>
-            <name>Sabre Limited</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Ways to Protect Yourself from Phishing Emails]]></title>
-        <id>https://erpsoftwareblog.com/?p=103516</id>
-        <link href="https://erpsoftwareblog.com/2024/01/4-ways-to-protect-yourself-from-phishing-emails/"/>
-        <updated>2024-01-24T20:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Business email compromise, phishing scams and ransomware attacks are all top of mind for finance teams in the new year. A recent survey by the Association of Finance Professionals found […]
-The post 4 Ways to Protect Yourself from Phishing Emails appeared first on ERP Software Blog.
-Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?
-What Makes an Accounts Payable Software Feature Delightful?
-Document Management Solutions vs. Modern Accounts Payable Automation for Dynamics GP]]></summary>
-        <author>
-            <name>KwikTag by Paymerang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACH Payments or Virtual Cards: Which is the best option for your business?]]></title>
-        <id>https://erpsoftwareblog.com/?p=103513</id>
-        <link href="https://erpsoftwareblog.com/2024/01/ach-payments-or-virtual-cards-which-is-the-best-option-for-your-business/"/>
-        <updated>2024-01-24T20:24:11.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital world, Paymerang helps businesses with several options for paying their vendors. As checks become increasingly obsolete, two popular methods are ACH payments and virtual cards. While each […]
-The post ACH Payments or Virtual Cards: Which is the best option for your business? appeared first on ERP Software Blog.
-Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?
-How AP Invoice Automation Drives Cost Savings for Dynamics GP Customers
-Post ACH Vendor Payment Detail in Dynamics GP General Ledger the Easy Way]]></summary>
-        <author>
-            <name>KwikTag by Paymerang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supply chain management (SCM) bot with dynamic chaining in Copilot Studio]]></title>
-        <id>http://dynamicsax-fico.com/?p=5700</id>
-        <link href="https://dynamicsax-fico.com/2024/01/24/supply-chain-management-scm-bot-with-dynamic-chaining-in-copilot-studio/"/>
-        <updated>2024-01-24T16:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Basic Load Balancer: it’s time to plan the update to Standard.]]></title>
-        <id>https://365community.online/azure-basic-load-balancer-its-time-to-plan-the-update-to-standard</id>
-        <link href="https://365community.online/azure-basic-load-balancer-its-time-to-plan-the-update-to-standard"/>
-        <updated>2024-01-24T16:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Azure Load Balancer is a high-performance, ultra-low-latency Layer 4 load-balancing service (inbound and outbound) for all UDP and TCP protocols. It’s built to handle millions of requests per second while ensuring […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 January DC Chapter Meeting]]></title>
-        <id>https://365community.online/2024-january-dc-chapter-meeting</id>
-        <link href="https://365community.online/2024-january-dc-chapter-meeting"/>
-        <updated>2024-01-24T15:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s do a quick recap of the 2024 January DC Chapter Meeting featuring Charles Channon talking about Canvas Apps in Teams! Canvas Apps in Teams Meeting Charles Channon (LinkedIn) presented […]]]></summary>
-        <author>
-            <name>Kylie Kiser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My 100th Video: The journey itself is an award! – YouTube]]></title>
-        <id>https://365community.online/my-100th-video-the-journey-itself-is-an-award-youtube</id>
-        <link href="https://365community.online/my-100th-video-the-journey-itself-is-an-award-youtube"/>
-        <updated>2024-01-24T14:21:39.000Z</updated>
-        <summary type="html"><![CDATA[My 100th Video: The journey itself is an award! source]]></summary>
-        <author>
-            <name>Deepesh Somani</name>
         </author>
     </entry>
     <entry>
