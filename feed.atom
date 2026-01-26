@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-25T02:10:19.623Z</updated>
+    <updated>2026-01-26T02:09:47.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Innovation with Logic Apps and Copilot Studio]]></title>
+        <id>https://365community.online/unlocking-innovation-with-logic-apps-and-copilot-studio</id>
+        <link href="https://365community.online/unlocking-innovation-with-logic-apps-and-copilot-studio"/>
+        <updated>2026-01-25T22:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Episode OverviewMost enterprises think connectivity is a plumbing problem. It isn’t. It’s an intent problem. In this episode, we break down why integrations keep failing even when APIs and connectors exist—and how a new architecture model built on Copilot Studio, Logic Apps, and MCP changes what’s possible. This isn’t a product demo. It’s a set […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Learn Some Practical Azure Skills: Project No 9 – Implement Azure Bastion – YouTube]]></title>
+        <id>https://365community.online/lets-learn-some-practical-azure-skills-project-no-9-implement-azure-bastion-youtube</id>
+        <link href="https://365community.online/lets-learn-some-practical-azure-skills-project-no-9-implement-azure-bastion-youtube"/>
+        <updated>2026-01-25T19:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Let’s Learn Some Practical Azure Skills: Project No 9 – Implement Azure Bastion https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/remove-public-ip-address-vm https://learn.microsoft.com/en-us/azure/virtual-network/manage-network-security-group #azure #learning #careerdevelopment #microsoft #m365 #securecloud source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse Deep Dive: Designing Scalable Data Models]]></title>
+        <id>https://365community.online/dataverse-deep-dive-designing-scalable-data-models</id>
+        <link href="https://365community.online/dataverse-deep-dive-designing-scalable-data-models"/>
+        <updated>2026-01-25T14:13:13.000Z</updated>
+        <summary type="html"><![CDATA[What if the reason your Dataverse app slows to a crawl isn’t the size of your data… but the way your relationships are wired?Today, we’re going to break down the hidden connection between schema design and real-world responsiveness — and why so many Power Platform makers unknowingly lock themselves into poor performance from day one.The […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Custom Copilot Plugins for Microsoft 365]]></title>
+        <id>https://365community.online/building-custom-copilot-plugins-for-microsoft-365</id>
+        <link href="https://365community.online/building-custom-copilot-plugins-for-microsoft-365"/>
+        <updated>2026-01-25T10:32:08.000Z</updated>
+        <summary type="html"><![CDATA[If your project data lives in ten different places across Microsoft 365, how do you get a single, clear status update without wasting half your day clicking around? Imagine asking Copilot, “Where are we on Project Apollo?” and getting one accurate answer instantly—no spreadsheets, no manual reports. Today, I’ll show you exactly how to build […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Microsoft Fabric Notebooks for AI Model Training]]></title>
+        <id>https://365community.online/using-microsoft-fabric-notebooks-for-ai-model-training</id>
+        <link href="https://365community.online/using-microsoft-fabric-notebooks-for-ai-model-training"/>
+        <updated>2026-01-25T06:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Ever tried to train an AI model on your laptop only to watch it crawl for hours—or crash completely? You’re not alone. Most business datasets have outgrown our local hardware. But what if your entire multi-terabyte dataset was instantly accessible in your training notebook—no extracts, no CSV chaos?Today, we’re stepping into Microsoft Fabric’s built-in notebooks, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Dynamics 365: Extending AI for CRM & ERP]]></title>
+        <id>https://365community.online/copilot-in-dynamics-365-extending-ai-for-crm-erp</id>
+        <link href="https://365community.online/copilot-in-dynamics-365-extending-ai-for-crm-erp"/>
+        <updated>2026-01-25T03:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered why Copilot in Dynamics 365 feels generic, even when your business data is anything but? The truth is, Copilot only knows what it’s been fed—and right now, that’s a general-purpose diet. What if you could connect it to your own private, domain-specific library? In the next few minutes, we’ll walk through the exact […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fabric Data Activator for Real-Time AI Insights]]></title>
         <id>https://365community.online/fabric-data-activator-for-real-time-ai-insights</id>
@@ -107723,208 +107783,6 @@ Is it possible to train an AI to offer intelligent assistance in your Dynamics 3
 In a previous article, I showed how you could use AI to provide dynamic help to your users. This example simply allowed for a user to ask a ChatGPT generic model how to perform a task in Dynamics 365 for Finance and Operations. This was an example of how to incorporate an AI bot with some additional context and prompting info to be helpful to your users. This would include a specific prompt with context info to help with user provide a simple request and get a specifically helpful response. This was a fun and interesting demo for a use of the technology but its still fairly dumb. Rather than use AI to help provide a…]]></summary>
         <author>
             <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Security Training | Cyber Security Training For Beginners | Cybersecurity Course | MindMajix – YouTube]]></title>
-        <id>https://365community.online/cyber-security-training-cyber-security-training-for-beginners-cybersecurity-course-mindmajix-youtube</id>
-        <link href="https://365community.online/cyber-security-training-cyber-security-training-for-beginners-cybersecurity-course-mindmajix-youtube"/>
-        <updated>2024-01-27T09:00:07.000Z</updated>
-        <summary type="html"><![CDATA[This video on MindMajix Cyber Security Training Course aims to deliver quality training that covers solid fundamental knowledge on core concepts like fundamentals of networking, OSI Layers, security information and […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the Future of Finance: Microsoft Dynamics 365 Finance xP&A Solution as a Catalyst]]></title>
-        <id>https://erpsoftwareblog.com/?p=103621</id>
-        <link href="https://erpsoftwareblog.com/2024/01/navigating-the-future-of-finance-microsoft-dynamics-365-finance-xpa-solution-as-a-catalyst/"/>
-        <updated>2024-01-27T08:04:43.000Z</updated>
-        <summary type="html"><![CDATA[In the age of digital transformation, it is pivotal to empower CFOs with advanced financial planning tools and data analytics (FP&A) especially amidst increasing interest rates, high inflation and economic […]
-The post Navigating the Future of Finance: Microsoft Dynamics 365 Finance xP&A Solution as a Catalyst appeared first on ERP Software Blog.
-DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021
-To-Increase Launches 3DX Dassault PLM Integration for Dynamics 365 F&SCM Users
-Standard Business Processes in DynaRent for Dynamics 365: An Embedded Rental Software]]></summary>
-        <author>
-            <name>DynaTech Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding Microsoft Dynamics 365 Copilot: Aligning ERP and CRM Together with Next-Generation AI]]></title>
-        <id>https://erpsoftwareblog.com/?p=103616</id>
-        <link href="https://erpsoftwareblog.com/2024/01/decoding-microsoft-dynamics-365-copilot-aligning-erp-and-crm-together-with-next-generation-ai/"/>
-        <updated>2024-01-27T07:26:08.000Z</updated>
-        <summary type="html"><![CDATA[A recent study reveals 9 out of 10 employees in businesses want to use smart AI for their routine tasks. Microsoft's Copilot empowers organizations in service, marketing, sales, operations, and […]
-The post Decoding Microsoft Dynamics 365 Copilot: Aligning ERP and CRM Together with Next-Generation AI appeared first on ERP Software Blog.
-Product Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers
-Demand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP
-SimplyAP - Cloud AP Automation for Business Central]]></summary>
-        <author>
-            <name>DynaTech Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Basics to Brilliance: TypeScript Examples for Model Driven Apps]]></title>
-        <id>https://365community.online/from-basics-to-brilliance-typescript-examples-for-model-driven-apps</id>
-        <link href="https://365community.online/from-basics-to-brilliance-typescript-examples-for-model-driven-apps"/>
-        <updated>2024-01-26T20:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com Unleash the power of TypeScript in Model Driven Apps! Explore practical examples, from handling basic logic in main forms to opening Custom Pages, calling Custom APIs, and […]]]></summary>
-        <author>
-            <name>Wilmer Alcivar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic apps – Key vaults for Encryption]]></title>
-        <id>https://365community.online/logic-apps-key-vaults-for-encryption</id>
-        <link href="https://365community.online/logic-apps-key-vaults-for-encryption"/>
-        <updated>2024-01-26T18:48:23.000Z</updated>
-        <summary type="html"><![CDATA[I had to work on a task where they data has to be encrypted during automation and logic apps came to my rescue to make the job simple and easy. […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic apps – Key vaults for Encryption]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3348</id>
-        <link href="https://anithasantosh.wordpress.com/2024/01/26/logic-apps-key-vaults-for-encryption/"/>
-        <updated>2024-01-26T18:48:23.000Z</updated>
-        <summary type="html"><![CDATA[I had to work on a task where they data has to be encrypted during automation and logic apps came to my rescue to make the job simple and easy. Logic apps has a Key Vault connector to do this … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics GP Sales Order Processing Lookups: Shorten From 12 Steps Down to 1]]></title>
-        <id>https://erpsoftwareblog.com/?p=103357</id>
-        <link href="https://erpsoftwareblog.com/2024/01/dynamics-gp-sales-order-processing-lookups-shorten-from-12-steps-down-to-1/"/>
-        <updated>2024-01-26T18:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics GP Sales Order Processing As many Dynamics GP users know, the process of looking up an existing sales document involves 12 steps. YES! 12 Steps …Here’s the 12-step process you follow […]
-The post Dynamics GP Sales Order Processing Lookups: Shorten From 12 Steps Down to 1 appeared first on ERP Software Blog.
-What’s New in Microsoft Dynamics GP 2015?
-Les 7 rapports essentiels à la gestion de votre entreprise de projets avec Microsoft Dynamics GP : #4 – Rentabilité de projet
-How Can Your Organization Benefit from a Timesheet Integrated to Microsoft Dynamics GP?]]></summary>
-        <author>
-            <name>Mark Rockwell, Rockton Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFTP connector with Private key – Logic apps]]></title>
-        <id>https://365community.online/sftp-connector-with-private-key-logic-apps</id>
-        <link href="https://365community.online/sftp-connector-with-private-key-logic-apps"/>
-        <updated>2024-01-26T17:51:37.000Z</updated>
-        <summary type="html"><![CDATA[This article shows you how to connect SFTP gateway via logic apps using private key. In our instance, Standard logic apps is used. Create a new workflow. Let the trigger […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFTP connector with Private key – Logic apps]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3323</id>
-        <link href="https://anithasantosh.wordpress.com/2024/01/26/sftp-connector-with-private-key-logic-apps/"/>
-        <updated>2024-01-26T17:51:37.000Z</updated>
-        <summary type="html"><![CDATA[This article shows you how to connect SFTP gateway via logic apps using private key. In our instance, Standard logic apps is used. Create a new workflow. Let the trigger be Recurrence. Add the next step and search for ‘SFTP-SSH’ … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Things AP Departments Must Know About Virtual Cards]]></title>
-        <id>https://erpsoftwareblog.com/?p=103607</id>
-        <link href="https://erpsoftwareblog.com/2024/01/6-things-ap-departments-must-know-about-virtual-cards/"/>
-        <updated>2024-01-26T16:49:08.000Z</updated>
-        <summary type="html"><![CDATA[Paying suppliers with virtual cards is a hot topic in accounts payable. Virtual cards are particularly prevalent in the financial services industry, with 81 percent of organizations adopting the payment […]
-The post 6 Things AP Departments Must Know About Virtual Cards appeared first on ERP Software Blog.
-Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?
-ACH Payments or Virtual Cards: Which is the best option for your business?
-AP Automation: Inside or Outside the ERP? Weighing the pros and cons]]></summary>
-        <author>
-            <name>KwikTag by Paymerang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Hybrid Solution for Acumatica & POS Integration?]]></title>
-        <id>https://erpsoftwareblog.com/?p=103528</id>
-        <link href="https://erpsoftwareblog.com/2024/01/why-hybrid-solution-for-acumatica-pos-integration/"/>
-        <updated>2024-01-26T15:35:58.000Z</updated>
-        <summary type="html"><![CDATA[The dynamic nature of retail business often demands prompt, quick-witted performance of operations. Web-based ERP systems like Acumatica offer valuable comprehensive functionalities. However, their centralized architecture encounters performance limitations under […]
-The post Why Hybrid Solution for Acumatica & POS Integration? appeared first on ERP Software Blog.
-The Role of ERP & eCommerce Integration in Multi-channel eCommerce Management
-Dynamics GP & POS (RMH) Integration by x2x-eCommerce
-Don’t Let Your Product Catalog Be the Web’s Best Kept Secret]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 Business Central Case Study: Stenger & Stenger]]></title>
-        <id>https://erpsoftwareblog.com/?p=103592</id>
-        <link href="https://erpsoftwareblog.com/2024/01/d365-business-central-case-study-stenger-stenger/"/>
-        <updated>2024-01-26T15:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Stenger & Stenger, P.C., a mid-size law firm located in Grand Rapids, Michigan, represents clients in federal and state trial and appellate courts throughout the United States and in the […]
-The post D365 Business Central Case Study: Stenger & Stenger appeared first on ERP Software Blog.
-2019 Summit - Business Central Sessions for New or Migrating Users
-Take Business Central to the Next Level with these ERP Apps
-SimplyAP - Cloud AP Automation for Business Central]]></summary>
-        <author>
-            <name>KwikTag by Paymerang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #128 – 26th January 2024 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-128-26th-january-2024-youtube</id>
-        <link href="https://365community.online/weekly-update-128-26th-january-2024-youtube"/>
-        <updated>2024-01-26T15:28:09.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #128 – 26th January 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in Microsoft Dynamics 365 Business Central 2024 Release Wave 1?]]></title>
-        <id>https://erpsoftwareblog.com/?p=103587</id>
-        <link href="https://erpsoftwareblog.com/2024/01/whats-new-in-microsoft-dynamics-365-business-central-2024-release-wave-1/"/>
-        <updated>2024-01-26T15:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The Microsoft Dynamics 365 Business Central 2024 Release Wave 1 Plan is now available! Here's a brief overview of what's in store, but for more information, be sure to check […]
-The post What's New in Microsoft Dynamics 365 Business Central 2024 Release Wave 1? appeared first on ERP Software Blog.
-Join JourneyTEAM's Tech Insider Update Webinar on 8/6
-Mastering Quality Control: A Deep Dive into Dynamics 365 Business Central
-Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>TrinSoft, LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Receive Intelligent License Recommendations for Admins]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-receive-intelligent-license-recommendations-for-admins</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-receive-intelligent-license-recommendations-for-admins"/>
-        <updated>2024-01-26T15:00:22.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why CFOs Must Automate Accounts Payable in 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=103515</id>
-        <link href="https://erpsoftwareblog.com/2024/01/why-cfos-must-automate-accounts-payable-in-2024/"/>
-        <updated>2024-01-26T14:35:24.000Z</updated>
-        <summary type="html"><![CDATA[If your AP department is like most others, you spend countless hours on manual, repetitive tasks that are prone to errors, delay, and risk. On top of that, you must […]
-The post Why CFOs Must Automate Accounts Payable in 2024 appeared first on ERP Software Blog.
-Invoice Automation for Microsoft Dynamics GP
-AP Automation for Dynamics GP: Creative Solutions Case Study
-Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?]]></summary>
-        <author>
-            <name>KwikTag by Paymerang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new beta certification: MB-820: Microsoft Dynamics 365 Business Central Developer]]></title>
-        <id>https://365community.online/a-new-beta-certification-mb-820-microsoft-dynamics-365-business-central-developer</id>
-        <link href="https://365community.online/a-new-beta-certification-mb-820-microsoft-dynamics-365-business-central-developer"/>
-        <updated>2024-01-26T14:30:38.000Z</updated>
-        <summary type="html"><![CDATA[The Beta exam for the Business Central Developer certification has finally been released, it was announced some time ago. The exam is already available, discounted for the first 300 participants, […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
         </author>
     </entry>
     <entry>
