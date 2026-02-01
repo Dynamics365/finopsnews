@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-01-31T02:12:38.500Z</updated>
+    <updated>2026-02-01T02:43:33.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Copilot in Microsoft Fabric to Build Data Models]]></title>
+        <id>https://365community.online/using-copilot-in-microsoft-fabric-to-build-data-models</id>
+        <link href="https://365community.online/using-copilot-in-microsoft-fabric-to-build-data-models"/>
+        <updated>2026-02-01T02:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered why your data models feel clunky, even with the best intentions? You’re not alone. Today, I’m showing where Copilot actually accelerates your Microsoft Fabric workflow—and where it still needs a human touch. We’ll identify the pressure points in data pipelines, highlight real Copilot use cases, and answer: can an AI assistant really turn […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Marketing Automation: Real Journeys, Real ROI]]></title>
+        <id>https://365community.online/dynamics-365-marketing-automation-real-journeys-real-roi</id>
+        <link href="https://365community.online/dynamics-365-marketing-automation-real-journeys-real-roi"/>
+        <updated>2026-01-31T22:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Ever built an email campaign in Dynamics 365 and wondered why engagement just fizzles out? Today, we crack open the playbook on creating customer journeys that actually react to what your users do — not just what you hope they’ll do. Let’s turn every web visit, form submission, and in-app click into a trigger that […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triggering Personalized Emails with Power Automate + D365]]></title>
+        <id>https://365community.online/triggering-personalized-emails-with-power-automate-d365</id>
+        <link href="https://365community.online/triggering-personalized-emails-with-power-automate-d365"/>
+        <updated>2026-01-31T19:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Ever wonder why your ‘thank you’ emails rarely get a reply? You’re not alone. What if your D365 could send a perfectly timed check-in, a tailored product tip, and an honest feedback request — all triggered by real customer actions? Let’s move beyond one-off emails and start designing dynamic customer journeys that actually adapt. You’ll […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Price Override in Project Operations | Part 2 [Understanding Change Amount effect]]]></title>
+        <id>https://365community.online/price-override-in-project-operations-part-2-understanding-change-amount-effect</id>
+        <link href="https://365community.online/price-override-in-project-operations-part-2-understanding-change-amount-effect"/>
+        <updated>2026-01-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s what the Change Amount and Change Percentage mean when you are trying to do Price Overrides in Project Operations. You need to be careful and double check before proceeding. The post Price Override in Project Operations | Part 2 [Understanding Change Amount effect] appeared first on D365 Demystified. Original Post https://d365demystified.com/2026/01/31/price-override-in-project-operations-part-2-understanding-change-amount-effect/]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Price Override in Project Operations | Part 1 [Understanding Change Amount effect]]]></title>
+        <id>https://365community.online/price-override-in-project-operations-part-1-understanding-change-amount-effect</id>
+        <link href="https://365community.online/price-override-in-project-operations-part-1-understanding-change-amount-effect"/>
+        <updated>2026-01-31T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s how to fine the Overrides and why they calculate in such a way. The post Price Override in Project Operations | Part 1 [Understanding Change Amount effect] appeared first on D365 Demystified. Original Post https://d365demystified.com/2026/01/31/price-override-in-project-operations-part-1-inconsistent-price-update/]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Custom AI Glue]]></title>
+        <id>https://365community.online/the-end-of-custom-ai-glue</id>
+        <link href="https://365community.online/the-end-of-custom-ai-glue"/>
+        <updated>2026-01-31T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is suddenly talking about MCP—but most people are describing it wrong. This episode argues that MCP is not a plugin system, not an API wrapper, and not “function calling, but standardized.” Those frames miss the point and guarantee that teams will simply recreate the same brittle AI glue they’re trying to escape. MCP is […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 Business Central and Microsoft Teams Eliminate Data Silos]]></title>
+        <id>https://erpsoftwareblog.com/?p=140427</id>
+        <link href="https://erpsoftwareblog.com/2026/01/dynamics-365-business-central-microsoft-teams-integration/"/>
+        <updated>2026-01-31T14:00:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+All organizations face the same problem. What is it? You may ask. That important business data is spread across different systems and databases, while communication also happens across different platforms. […]
+The post How Dynamics 365 Business Central and Microsoft Teams Eliminate Data Silos appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Dynamics 365 Sales: Productivity or Hype?]]></title>
+        <id>https://365community.online/copilot-in-dynamics-365-sales-productivity-or-hype</id>
+        <link href="https://365community.online/copilot-in-dynamics-365-sales-productivity-or-hype"/>
+        <updated>2026-01-31T12:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered if Copilot in Dynamics 365 Sales actually boosts your team’s productivity—or is it just another overhyped AI add-on? In the next few minutes, we’ll pull back the curtain on real use cases—like automatic email drafts, AI-powered lead prioritization, and those much-touted opportunity summaries.But let’s get real: where does Copilot stumble, and where is […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Machine Learning Models in Microsoft Fabric]]></title>
+        <id>https://365community.online/building-machine-learning-models-in-microsoft-fabric</id>
+        <link href="https://365community.online/building-machine-learning-models-in-microsoft-fabric"/>
+        <updated>2026-01-31T08:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered why your machine learning models just aren’t moving fast enough from laptop to production? You’re staring at data in your Lakehouse, notebooks are everywhere, and you’re still coordinating models on spreadsheets. What if there’s a way to finally connect all those dots—inside Microsoft Fabric? Stay with me. Today, we’ll walk through how Fabric’s […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictive Lead Scoring with Dynamics 365 Insights]]></title>
+        <id>https://365community.online/predictive-lead-scoring-with-dynamics-365-insights</id>
+        <link href="https://365community.online/predictive-lead-scoring-with-dynamics-365-insights"/>
+        <updated>2026-01-31T04:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Ever wonder why some leads convert while others never call back? Dynamics 365 might already know the answer—before you do. Today, we’re unpacking how D365 reads historical patterns like digital tea leaves to predict which prospects are most likely to close, and which ones are just window shopping.Stick around to see exactly how those AI-driven […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Customer Portals with Power Pages + Dataverse]]></title>
         <id>https://365community.online/building-customer-portals-with-power-pages-dataverse</id>
@@ -107655,224 +107760,6 @@ Avastone Technologies to Merge with Heartland Business Systems]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
         <author>
             <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing Business Intelligence: Power BI Integration in Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103853</id>
-        <link href="https://erpsoftwareblog.com/2024/02/harnessing-business-intelligence-power-bi-integration/"/>
-        <updated>2024-02-02T14:42:44.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of business technology, organizations are constantly seeking ways to streamline their operations and make informed decisions. Business Central, Microsoft’s comprehensive business management solution, has emerged as […]
-The post Harnessing Business Intelligence: Power BI Integration in Business Central appeared first on ERP Software Blog.
-Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses
-Exploring Jet Reports and Power BI Reporting Solutions
-Unleashing Business Intelligence with Jet Global (formerly Jet Reports)]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Validate file input of manually triggered flow with trigger conditions]]></title>
-        <id>https://365community.online/validate-file-input-of-manually-triggered-flow-with-trigger-conditions</id>
-        <link href="https://365community.online/validate-file-input-of-manually-triggered-flow-with-trigger-conditions"/>
-        <updated>2024-02-02T14:28:34.000Z</updated>
-        <summary type="html"><![CDATA[The requirement is simple: the file input in the manual trigger should only accept PDF files. This is something that can’t be configured in the file input parameter itself, but […]]]></summary>
-        <author>
-            <name>Stefan Strube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Manage Work Orders in Field Service, Invoice Them in Business Central]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-work-orders-in-field-service-invoice-them-in-business-central</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-work-orders-in-field-service-invoice-them-in-business-central"/>
-        <updated>2024-02-02T13:00:04.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Release wave 1 2024]]></title>
-        <id>https://365community.online/power-platform-release-wave-1-2024</id>
-        <link href="https://365community.online/power-platform-release-wave-1-2024"/>
-        <updated>2024-02-02T12:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com It’s here, the release wave 1 2024 was announced. Every year Microsoft delights us twice with the wave of releases so here I come to share my […]]]></summary>
-        <author>
-            <name>Wilmer Alcivar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benefits associated with Modular Solutions]]></title>
-        <id>https://erpsoftwareblog.com/?p=103742</id>
-        <link href="https://erpsoftwareblog.com/2024/02/benefits-associated-with-modular-solutions/"/>
-        <updated>2024-02-02T12:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Modular solutions, which involve designing systems or products as a combination of independent, self-contained modules, offer several benefits in terms of flexibility and cost. There are numerous Benefits associated with […]
-The post Benefits associated with Modular Solutions appeared first on ERP Software Blog.
-5 Scalability Benefits of Microsoft Dynamics GP in the Cloud
-Why cloud-based solutions are increasingly popular?
-Essential accounts payable software features for efficient financial management]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Manage Consignment Stock at a Customer Location]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-manage-consignment-stock-at-a-customer-location</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-manage-consignment-stock-at-a-customer-location"/>
-        <updated>2024-02-02T11:00:59.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improved visualization and user experience of Organization Charts within Dynamics 365]]></title>
-        <id>https://365community.online/improved-visualization-and-user-experience-of-organization-charts-within-dynamics-365</id>
-        <link href="https://365community.online/improved-visualization-and-user-experience-of-organization-charts-within-dynamics-365"/>
-        <updated>2024-02-02T08:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Managing your customer’s organizations by using organization charts can help you visualize their hierarchy and the relationships between their departments and roles. As a result, you can tailor your […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MB 260: Describe support for enrichment]]></title>
-        <id>https://365community.online/mb-260-describe-support-for-enrichment</id>
-        <link href="https://365community.online/mb-260-describe-support-for-enrichment"/>
-        <updated>2024-02-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As we learned from the first post, enrichment is when you connect to other data sources to get more information about your customer data. It’s adding data to your existing […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#msdyn365bc – Using Different GL Accounts for Payables and Receivables.]]></title>
-        <id>https://365community.online/msdyn365bc-using-different-gl-accounts-for-payables-and-receivables</id>
-        <link href="https://365community.online/msdyn365bc-using-different-gl-accounts-for-payables-and-receivables"/>
-        <updated>2024-02-02T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, In this article we will discuss about new feature to use different G/L Account for Payables and Receivables.  This video describes how to use this feature in business […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Reasons To Start Using A Payment Processing System]]></title>
-        <id>https://erpsoftwareblog.com/?p=103843</id>
-        <link href="https://erpsoftwareblog.com/2024/02/5-reasons-to-start-using-a-payment-processing-system/"/>
-        <updated>2024-02-01T23:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Customers expect a seamless payment experience, whether they're buying online, in-store, or on the go. For businesses, offering a smooth and secure payment process is no longer just a perk, […]
-The post 5 Reasons To Start Using A Payment Processing System appeared first on ERP Software Blog.
-Unlocking Financial Agility: Demystifying Revenue and Expense Deferrals in Dynamic GP
-The Important Business Function Your ERP System CAN'T Do
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
-        <author>
-            <name>Dynamics eShop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Benefits of Portals for Microsoft Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103823</id>
-        <link href="https://erpsoftwareblog.com/2024/02/7-benefits-of-portals-for-microsoft-business-central/"/>
-        <updated>2024-02-01T19:46:33.000Z</updated>
-        <summary type="html"><![CDATA[Efficient communication and collaboration with vendors and customers are crucial for success. Microsoft Business Central, an integrated business solution, offers powerful Vendor and Customer Portals that can transform the way […]
-The post 7 Benefits of Portals for Microsoft Business Central appeared first on ERP Software Blog.
-Top 5 Microsoft Business Central Features
-MS Business Central Versions Comparison
-Best Free Microsoft Business Central Apps]]></summary>
-        <author>
-            <name>iCepts Technology Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Graph API Pagination in Power Platform Dataflows]]></title>
-        <id>https://365community.online/handling-graph-api-pagination-in-power-platform-dataflows</id>
-        <link href="https://365community.online/handling-graph-api-pagination-in-power-platform-dataflows"/>
-        <updated>2024-02-01T19:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction When managing extensive user datasets from Microsoft Graph API, a common challenge is handling the pagination of data. This blog post explores a solution for effectively looping through multiple […]]]></summary>
-        <author>
-            <name>Richard Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing Business Intelligence with Jet Global (formerly Jet Reports)]]></title>
-        <id>https://erpsoftwareblog.com/?p=103831</id>
-        <link href="https://erpsoftwareblog.com/2024/02/unleashing-business-intelligence-with-jet-global/"/>
-        <updated>2024-02-01T18:56:05.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of business, staying ahead requires more than just keeping up with the competition—it demands insightful decision-making based on accurate and timely data. Jet Global, previously known […]
-The post Unleashing Business Intelligence with Jet Global (formerly Jet Reports) appeared first on ERP Software Blog.
-Exploring Jet Reports and Power BI Reporting Solutions
-Top 5 Microsoft Power BI benefits you should know in 2023
-Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Reasons to Work with StockIQ Technologies]]></title>
-        <id>https://erpsoftwareblog.com/?p=103825</id>
-        <link href="https://erpsoftwareblog.com/2024/02/five-reasons-to-work-with-stockiq-technologies/"/>
-        <updated>2024-02-01T17:45:12.000Z</updated>
-        <summary type="html"><![CDATA[If you are looking for supply chain planning software that can help you improve your inventory efficiency, forecast accuracy, and customer service, you might want to consider working with StockIQ […]
-The post Five Reasons to Work with StockIQ Technologies appeared first on ERP Software Blog.
-Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience
-Supply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment
-3 Steps of Forecastability Analysis]]></summary>
-        <author>
-            <name>StockIQ Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: transfer environments between Microsoft Entra tenants]]></title>
-        <id>https://365community.online/dynamics-365-business-central-transfer-environments-between-microsoft-entra-tenants</id>
-        <link href="https://365community.online/dynamics-365-business-central-transfer-environments-between-microsoft-entra-tenants"/>
-        <updated>2024-02-01T17:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Starting from today, it’s possible to transfer a Dynamics 365 Business Central SaaS tenant to a different tenant without opening a support request to Microsoft. If you check the Admin […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Sales and Copilot for Service are now generally available]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/"/>
-        <updated>2024-02-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is dedicated to helping organizations transform the way people work using secure, enterprise-grade AI capabilities, no matter which business applications teams depend on. Starting today, you can seamlessly integrate role-specific Copilot capabilities into Microsoft 365 applications and popular customer relationship management (CRM) and contact center systems for sales and customer service professionals.  
-The post Microsoft Copilot for Sales and Copilot for Service are now generally available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Emily He</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Process Vendor Payments in Dynamics 365 Business Central]]></title>
-        <id>https://www.encorebusiness.com/?p=61203</id>
-        <link href="https://www.encorebusiness.com/blog/how-to-process-vendor-payments-in-d365-business-central/"/>
-        <updated>2024-02-01T15:34:38.000Z</updated>
-        <summary type="html"><![CDATA[How to Process Vendor Payments in Dynamics 365 Business Central
-Processing vendor payments in Dynamics 365 Business Central is a useful payments processing functionality for Accounting and Finance teams, but it does have some quirks and common challenges. In this article, I’ll show you how to process vendor payments and give you troubleshooting tips for issues I often see clients run into, like voiding the check...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Abhishek Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Series Index]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-series-index</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-series-index"/>
-        <updated>2024-02-01T15:00:30.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of a series on the new functionality available in Wave 1 of Microsoft Dynamics 365 Business Central 2024. There are two release waves for Business Central […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PTC Windchill Training | PTC Windchill Certification Course Demo | Windchill Tutorial | MindMajix – YouTube]]></title>
-        <id>https://365community.online/ptc-windchill-training-ptc-windchill-certification-course-demo-windchill-tutorial-mindmajix-youtube</id>
-        <link href="https://365community.online/ptc-windchill-training-ptc-windchill-certification-course-demo-windchill-tutorial-mindmajix-youtube"/>
-        <updated>2024-02-01T14:45:01.000Z</updated>
-        <summary type="html"><![CDATA[This MindMajix’s YouTube video on PTC Windchill training is designed to equip any learner to build a solid career in the software industry. MindMajix’s Windchill Course Content has been developed […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
         </author>
     </entry>
     <entry>
