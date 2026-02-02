@@ -1337,6 +1337,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=137906",
+          "author": "Boyer &#38; Associates",
+          "description": "xxx\nWhen your sales team promises a client a custom delivery timeline while your finance team is still waiting for credit approval, you know you have a silo problem. It's a […]\nThe post Breaking Silos: How Finance and Sales Integration Drives Strategic Growth appeared first on ERP Software Blog.\nHow ChatGPT and Microsoft Copilot Boost Productivity\nDynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations\nTop Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental",
+          "link": "https://erpsoftwareblog.com/2026/02/breaking-silos-how-finance-and-sales-integration-drives-strategic-growth/",
+          "publishedOn": "2026-02-01T13:03:03.000Z",
+          "wordCount": 7918,
+          "title": "Breaking Silos: How Finance and Sales Integration Drives Strategic Growth",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BoyerInt1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=140427",
           "author": "DLD Business Solutions, Inc.",
           "description": "xxx\nAll organizations face the same problem. What is it? You may ask. That important business data is spread across different systems and databases, while communication also happens across different platforms. […]\nThe post How Dynamics 365 Business Central and Microsoft Teams Eliminate Data Silos appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -35365,36 +35375,6 @@
           "wordCount": 7354,
           "title": "Process Credit Card Payments in Dynamics 365 Business Central with Counter Sales v2.5",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Counter-Sales-250-1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103864",
-          "author": "Dexpro Dynamics",
-          "description": "Business software has moved to the cloud. Clients often tell me they own Dynamics GP, but their IT department doesn’t want to maintain on-premise servers anymore. So the question is, […]\nThe post Compare Cloud Scenarios: When Should I Move Dynamics GP to Azure versus Move to Dynamics 365 BC appeared first on ERP Software Blog.\nHow Dynamics 365 can boost your Sales Cycle?\nBetter Together - Explore the Microsoft Intelligent Edge with Dynamics GP 2018R2 and Business Central!\nThe Quickest and Easiest way to Create Custom Warehouse Apps without any Programming",
-          "link": "https://erpsoftwareblog.com/2024/02/compare-cloud-scenarios-when-should-i-move-dynamics-gp-to-azure-versus-move-to-dynamics-365-bc/",
-          "publishedOn": "2024-02-02T19:37:56.000Z",
-          "wordCount": 8121,
-          "title": "Compare Cloud Scenarios: When Should I Move Dynamics GP to Azure versus Move to Dynamics 365 BC",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DEXPRO-30MIN.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103858",
-          "author": "MetaOption LLC",
-          "description": "In the fast-paced world of supply chain management, efficiency and accuracy are paramount. To meet these demands, businesses are turning to advanced warehouse management solutions, and MetaADCS for Microsoft Dynamics NAV stands […]\nThe post Optimizing Visibility: The Strategic Role of Over-Receiving in MetaADCS appeared first on ERP Software Blog.\nTake Control of Your ERP Data\nOptimizing Warehouse Operations with MetaADCS for Dynamics NAV\nExploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central",
-          "link": "https://erpsoftwareblog.com/2024/02/the-strategic-role-of-over-receiving-in-metaadcs/",
-          "publishedOn": "2024-02-02T19:02:42.000Z",
-          "wordCount": 7526,
-          "title": "Optimizing Visibility: The Strategic Role of Over-Receiving in MetaADCS",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-37.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103373",
-          "author": "Mark Rockwell, Rockton Software",
-          "description": "Dynamics GP has, from early on, built into its core system a feature called Activity Tracking.  This feature allows for lightweight auditing of certain steps or missteps inside of Dynamics […]\nThe post GP Activity Tracking Without Rockton Auditor appeared first on ERP Software Blog.\nIs Your “Cloud ERP” Really Cloud Based?\nDynamics GP and Document Management Systems\nAvastone Technologies to Merge with Heartland Business Systems",
-          "link": "https://erpsoftwareblog.com/2024/02/gp-activity-tracking-without-rockton-auditor/",
-          "publishedOn": "2024-02-02T17:49:44.000Z",
-          "wordCount": 7741,
-          "title": "GP Activity Tracking Without Rockton Auditor",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GP-Activity-Tracking_1200x800.png"
         }
       ]
     },
@@ -36871,14 +36851,114 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
-          "id": "https://365community.online/using-copilot-in-microsoft-fabric-to-build-data-models",
+          "id": "https://365community.online/supply-chain-visibility-using-fabric-and-dynamics-365-scm",
           "author": "Mirko Peters",
-          "description": "Ever wondered why your data models feel clunky, even with the best intentions? You’re not alone. Today, I’m showing where Copilot actually accelerates your Microsoft Fabric workflow—and where it still needs a human touch. We’ll identify the pressure points in data pipelines, highlight real Copilot use cases, and answer: can an AI assistant really turn […]",
-          "link": "https://365community.online/using-copilot-in-microsoft-fabric-to-build-data-models",
-          "publishedOn": "2026-02-01T02:37:38.000Z",
-          "wordCount": 3543,
-          "title": "Using Copilot in Microsoft Fabric to Build Data Models",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/477cc9fa542962853a67df520bf7a594.jpg?fit=1200%2C630&ssl=1"
+          "description": "Ever lose track of a shipment and spend hours piecing together where the breakdown happened? You’re not alone. Most supply chains are basically black boxes—one small glitch, and suddenly orders, inventory, and deliveries are scattered across different apps. But what if you could finally see every moving part in real time, all in one place? […]",
+          "link": "https://365community.online/supply-chain-visibility-using-fabric-and-dynamics-365-scm",
+          "publishedOn": "2026-02-02T02:27:48.000Z",
+          "wordCount": 3534,
+          "title": "Supply Chain Visibility Using Fabric and Dynamics 365 SCM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/16ceef90df59cc015a32a0fbfa6c1e1a.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/implementing-row-level-security-in-power-bi-with-fabric",
+          "author": "Mirko Peters",
+          "description": "Ever wondered who can actually see your data in Power BI? Spoiler alert—it’s not as private as you might think, unless you master Row-Level Security. In this episode, we don’t just check the RLS box. We break down the moving parts, from role definitions to the DAX expressions that quietly decide who sees what. Most […]",
+          "link": "https://365community.online/implementing-row-level-security-in-power-bi-with-fabric",
+          "publishedOn": "2026-02-01T22:36:41.000Z",
+          "wordCount": 3586,
+          "title": "Implementing Row-Level Security in Power BI with Fabric",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1ec44ddf1e036361e09cf057db502855.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wp-ninjas-connect-2026",
+          "author": "Jeroen Burgerhout",
+          "description": "blablabla Original Post https://www.burgerhout.org/wp-ninjas-connect-2026/",
+          "link": "https://365community.online/wp-ninjas-connect-2026",
+          "publishedOn": "2026-02-01T20:41:00.000Z",
+          "wordCount": 1896,
+          "title": "WP Ninjas Connect 2026",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/WP-Ninjas-Connect-2026.jpg?fit=1200%2C417&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fixing-pac-cli-non-recoverable-error-in-gcc-high-and-dod-by-enabling-telemetry",
+          "author": "Richard Wilson",
+          "description": "If you use the Power Platform CLI (PAC CLI) in GCC High or DoD environments, you may run into a sudden crash that looks like this: Sorry, the app encountered a non-recoverable error and will need to terminate. The exception details have been captured and will be forwarded to the development team, if telemetry has […]",
+          "link": "https://365community.online/fixing-pac-cli-non-recoverable-error-in-gcc-high-and-dod-by-enabling-telemetry",
+          "publishedOn": "2026-02-01T19:47:00.000Z",
+          "wordCount": 2456,
+          "title": "Fixing PAC CLI “non-recoverable error” in GCC High and DoD by enabling telemetry",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1769989149_Fixing-PAC-CLI-non-recoverable-error-in-GCC-High-and-DoD.png?fit=1024%2C551&ssl=1"
+        },
+        {
+          "id": "https://365community.online/setting-up-alm-for-power-platform-with-github-actions",
+          "author": "Mirko Peters",
+          "description": "Ever feel like your Power Platform deployments are a black box? You ship an update, hold your breath, and just hope it works across dev, test, and prod. What if you could actually control—and see—every stage of your ALM process using GitHub Actions, with no more guessing or manual patchwork?Let’s pull back the curtain on […]",
+          "link": "https://365community.online/setting-up-alm-for-power-platform-with-github-actions",
+          "publishedOn": "2026-02-01T18:43:20.000Z",
+          "wordCount": 3513,
+          "title": "Setting Up ALM for Power Platform with GitHub Actions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/080d5378b06a19ce325cd0e0a5fdde8c.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-i-use-copilot-to-turn-music-bingo-cards-into-playlists",
+          "author": "Peter Petersen",
+          "description": "If you’ve ever participated in a night of Music Bingo, you know the painful part isn’t the game. It is often the creation of the playlist the following day! Searching and typing every song by hand takes forever. And if your bingo cards are images? Even worse. Here comes Copilot to the rescue! Copilot Here’s […]",
+          "link": "https://365community.online/how-i-use-copilot-to-turn-music-bingo-cards-into-playlists",
+          "publishedOn": "2026-02-01T16:54:00.000Z",
+          "wordCount": 2497,
+          "title": "How I Use Copilot to Turn Music Bingo Cards Into Playlists",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/IMG_5439.png?fit=471%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-your-tenant-is-beyond-control",
+          "author": "Mirko Peters",
+          "description": "Most organizations believe Microsoft 365 governance is something they do. They are wrong. Governance isn’t a project you complete—it’s a condition that must survive every day after the project ends. Microsoft 365 is not a static system you finish configuring. It is an ecosystem that continuously creates new Teams, Sites, apps, flows, agents, and access […]",
+          "link": "https://365community.online/why-your-tenant-is-beyond-control",
+          "publishedOn": "2026-02-01T16:48:59.000Z",
+          "wordCount": 3028,
+          "title": "Why Your Tenant Is Beyond Control",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/614d1a84563ff4d15fd96358df5e2ad8.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fo-environment-creation-script",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 02/01/26. Last modified:  02/01/26 Below is an updated script for creating environments in PPAC. This will ask some basic questions for what you’d like to create and can provision development, sandbox, and production environments for F&O.   <# Interactive Power Platform environment provisioning script Goals: – Collect inputs to New-AdminPowerAppEnvironment […]",
+          "link": "https://365community.online/fo-environment-creation-script",
+          "publishedOn": "2026-02-01T15:54:00.000Z",
+          "wordCount": 3610,
+          "title": "F&O Environment Creation Script",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/FampO-Environment-Creation-Script.jpg?fit=100%2C100&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-devops-pipelines-for-power-platform-deployments",
+          "author": "Mirko Peters",
+          "description": "Ever feel like deploying Power Platform solutions is one step forward, two steps back? If you’re tired of watching your Dataverse changes break in QA or seeing dependencies tank your deployments, you’re exactly who this video is for. Today, we’ll break down the Azure DevOps pipeline component by component—so your deployments run like a well-oiled […]",
+          "link": "https://365community.online/azure-devops-pipelines-for-power-platform-deployments",
+          "publishedOn": "2026-02-01T13:08:55.000Z",
+          "wordCount": 3510,
+          "title": "Azure DevOps Pipelines for Power Platform Deployments",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/8d2b88cd3fcbc644eb6681023e262f85.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/freeballing-with-will-mclendon-iv",
+          "author": "Power Platform Podcast",
+          "description": "After a very long break, the podcast returns with an episode that sets the tone for what’s coming next: less polish, more honesty, and a lot more focus on the people behind the tech. In this episode, Mark and Malin are joined by special guest Will “Quad” McLendon for a wide-ranging, unfiltered conversation that goes […]",
+          "link": "https://365community.online/freeballing-with-will-mclendon-iv",
+          "publishedOn": "2026-02-01T13:00:00.000Z",
+          "wordCount": 2126,
+          "title": "Freeballing With Will McLendon IV",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/197640270.png?fit=250%2C250&ssl=1"
+        },
+        {
+          "id": "https://365community.online/freeballing-with-will-mclendon-iv-2",
+          "author": "Power Platform Podcast",
+          "description": "After a very long break, the podcast returns with an episode that sets the tone for what’s coming next: less polish, more honesty, and a lot more focus on the people behind the tech. In this episode, Mark and Malin are joined by special guest Will “Quad” McLendon for a wide-ranging, unfiltered conversation that goes […]",
+          "link": "https://365community.online/freeballing-with-will-mclendon-iv-2",
+          "publishedOn": "2026-02-01T13:00:00.000Z",
+          "wordCount": 2157,
+          "title": "Freeballing With Will McLendon IV",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/da356eddbe82f67a.png?fit=400%2C400&ssl=1"
         },
         {
           "id": "https://365community.online/dynamics-365-marketing-automation-real-journeys-real-roi",
@@ -76729,86 +76809,6 @@
           "wordCount": 3014,
           "title": "Dataverse Long Term Data Retention",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Dataverse-Long-Term-Data-Retention.jpeg?fit=1200%2C628&ssl=1"
-        },
-        {
-          "id": "https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model",
-          "author": "michelcarlo",
-          "description": "Sometimes when multiple developers work on the same Power Pages site using Power Platform CLI or changing WebFiles/WebTemplates via browser we might have update conflicts. One special case is when […]",
-          "link": "https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model",
-          "publishedOn": "2024-02-03T11:39:12.000Z",
-          "wordCount": 3217,
-          "title": "Trigger a Cloud Flow when CSS webs file are modified in Power Pages (Standard Data Model)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/WebFilesFlow.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/sql-query-on-matomo-database-to-calculate-the-number-of-visits-to-each-page",
-          "author": "Ian Grieve",
-          "description": "I’ve been using for just short of four years now and have been pretty happy with it. I generally consume the data it holds via the eweb portal, but I […]",
-          "link": "https://365community.online/sql-query-on-matomo-database-to-calculate-the-number-of-visits-to-each-page",
-          "publishedOn": "2024-02-03T11:00:09.000Z",
-          "wordCount": 3109,
-          "title": "SQL Query on Matomo Database to Calculate the Number of Visits to Each Page",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/what-is-planned-for-business-central-wave-1-2024-release",
-          "author": "Amol Salvi",
-          "description": "As we are gearing up for new release of business central and already the buzz is started for new version. Here listing few upcoming features which I am looking forward […]",
-          "link": "https://365community.online/what-is-planned-for-business-central-wave-1-2024-release",
-          "publishedOn": "2024-02-03T08:32:19.000Z",
-          "wordCount": 3071,
-          "title": "What is planned for Business Central Wave 1 2024 release",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1706950666_What-is-planned-for-Business-Central-Wave-1-2024-release.png?fit=780%2C440&ssl=1"
-        },
-        {
-          "id": "https://365community.online/function-overriding-in-c-c-tutorial-for-beginners-youtube",
-          "author": "Sourav Raj",
-          "description": "Function Overriding in C++ | C++ Tutorial for Beginners Today, we’re venturing into the dynamic world of Object-Oriented Programming (OOP) with a focus on a fundamental concept—Function Overriding in C++. […]",
-          "link": "https://365community.online/function-overriding-in-c-c-tutorial-for-beginners-youtube",
-          "publishedOn": "2024-02-03T07:47:08.000Z",
-          "wordCount": 3115,
-          "title": "Function Overriding in C++ | C++ Tutorial for Beginners – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707004223_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-copilot-suggests-inogics-crm-apps-for-microsoft-dynamics-365",
-          "author": "Inogic",
-          "description": "‘Copilot’, ‘Microsoft Copilot’, ‘ChatGPT’, ‘OpenAI’ These have been the trending terms of an upcoming era and have been chanted incessantly for a year now, worldwide. Google Trends vividly denotes the […]",
-          "link": "https://365community.online/microsoft-copilot-suggests-inogics-crm-apps-for-microsoft-dynamics-365",
-          "publishedOn": "2024-02-03T06:26:00.000Z",
-          "wordCount": 3314,
-          "title": "Microsoft Copilot suggests Inogic’s CRM Apps for Microsoft Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1Microsoft-Copilot-suggests-Inogics-CRM-Apps.png?fit=903%2C476&ssl=1"
-        },
-        {
-          "id": "https://365community.online/cheating-nahi-ye-coding-hai%f0%9f%98%82-youtube",
-          "author": "Sourav Raj",
-          "description": "Cheating nahi ye Coding hai😂 source",
-          "link": "https://365community.online/cheating-nahi-ye-coding-hai%f0%9f%98%82-youtube",
-          "publishedOn": "2024-02-03T03:28:25.000Z",
-          "wordCount": 2909,
-          "title": "Cheating nahi ye Coding hai😂 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707020056_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/canadian-power-platform-summit-registration-is-now-open-youtube",
-          "author": "Victor Dantas",
-          "description": "We’ve introduced a $25 registration fee to ensure committed attendees, manage capacity, and reduce food waste. This balance makes the event accessible while ensuring a positive experience for all. Register […]",
-          "link": "https://365community.online/canadian-power-platform-summit-registration-is-now-open-youtube",
-          "publishedOn": "2024-02-02T17:43:43.000Z",
-          "wordCount": 2957,
-          "title": "Canadian Power Platform Summit registration is now open@ – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1706946096_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-virtual-tables-to-expose-more-business-central-data-in-dataverse",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-virtual-tables-to-expose-more-business-central-data-in-dataverse",
-          "publishedOn": "2024-02-02T15:00:27.000Z",
-          "wordCount": 3129,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Use Virtual Tables to Expose More Business Central Data in Dataverse",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -79922,6 +79922,16 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1725 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 02/01/26.\n\n\nLast modified: \n\n02/01/26\n\n\n\n\n\n\n\n\n\n\n\n\nBelow is an updated script for creating environments in PPAC. This will ask some basic questions for what you'd like to create and can provision development, sandbox, and production environments for F&O.\n \n\n<#\nGoals:\nDocs:\nhttps://learn.microsoft.com/en-us/powershell/module/microsoft.powerapps....\nhttps://learn.microsoft.com/en-us/powershell/module/microsoft.powerapps....\nhttps://learn.microsoft.com/en-us/powershell/module/microsoft.powerapps....\nhttps://learn.microsoft.com/en-us/powershell/module/microsoft.powerapps....\nhttps://learn.microsoft.com/en-us/powershell/module/microsoft.powerapps....\nSet-StrictMode -Version Latest\n# ----------------------------\nfunction Install-RequiredModule {\n    if (-not (Get-Mod…",
+          "link": "https://www.atomicax.com/article/fo-environment-creation-script",
+          "publishedOn": "2026-02-01T15:54:01.000Z",
+          "wordCount": 2468,
+          "title": "F&O Environment Creation Script",
+          "imageUrl": null
+        },
+        {
           "id": "1713 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 12/07/25.\n\n\nLast modified: \n\n12/08/25\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nBatch      \nTop-Picking      \n\nDeep dive an top picking batch jobs\nWhat is a top picking batch job?\nA top picking batch job is a particular type of multi-threaded, high throughput batch job that has a distinct design pattern of putting then selecting staging records into a table just for use by the batch job that acknowledges there may be some database contention for records and plans for and handles that specific case. Imagine you have a list of 1,000 things to do. As a thing person, you would pick 1 time, do it, then move to the next. Now imagine it's you plus 9 other workers all grabbing tasks. First, we have to have an organized list of tasks for workers to pull from - that's the staging table…",
@@ -80592,6 +80602,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/01/28/agentic-ai-transforming-dynamics-365-sales/",
+          "author": "Paramita Chatterjee",
+          "description": "Agentic AI in Dynamics 365 Sales reduces manual CRM work by turning unstructured information into actionable insights, helping sellers capture data faster, explore pipeline trends with natural language, and focus more on meaningful selling.\nThe post From manual work to meaningful selling: How Agentic AI is transforming Dynamics 365 Sales  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/01/28/agentic-ai-transforming-dynamics-365-sales/",
+          "publishedOn": "2026-01-28T15:06:27.000Z",
+          "wordCount": 6075,
+          "title": "From manual work to meaningful selling: How Agentic AI is transforming Dynamics 365 Sales",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/11/AdobeStock_496186454-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/01/08/agentic-ai-in-retail-how-dynamics-365-powers-commerce-anywhere/",
           "author": "Raghav Jandhyala and Anupama Raju",
@@ -85944,16 +85964,6 @@
           "wordCount": 4174,
           "title": "Data migration in Project Management and accounting module in D365 Finance and Supply chain",
           "imageUrl": "https://elearnd365.files.wordpress.com/2024/03/data-migration.jpg?w=1200"
-        },
-        {
-          "id": "http://elearnd365.com/?p=812",
-          "author": "Sukrut Parab",
-          "description": "In today’s blog post we will see how to utilize Power platform integration capabilities to access data from FO and display that on power apps. To show data or build apps on top of F&O data, Dataverse and FO environments should be linked. You can find if the environments are linked using LCS or power […]",
-          "link": "https://elearnd365.com/2024/02/02/accessing-d365-fo-entities-in-dataverse-to-build-power-apps-integrations-with-dataverse/",
-          "publishedOn": "2024-02-03T04:56:00.000Z",
-          "wordCount": 4105,
-          "title": "Accessing D365 FO entities in Dataverse to build power apps/integrations with dataverse",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2024/03/picture1.png?w=1200"
         }
       ]
     },
@@ -86183,6 +86193,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133123",
+          "author": "Joe Unwin and Justin Tung",
+          "description": "Today, organizations are being measured by how quickly they can innovate. Whether it’s launching new digital experiences, streamlining operations, or responding to customer needs in real time, the ability to move fast has always been a competitive differentiator. And it only grew on importance in the agentic era. But speed alone isn’t enough.\nThe post Breaking down the facts about secure development with Power Platform appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/01/26/breaking-down-the-facts-about-secure-development-with-power-platform/",
+          "publishedOn": "2026-01-26T16:15:41.000Z",
+          "wordCount": 6351,
+          "title": "Breaking down the facts about secure development with Power Platform",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2026/01/8a639a7f-011f-4f0a-8062-3f89efa9e16d.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133029",
           "author": "Dami Alajogun",
