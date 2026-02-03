@@ -2,18 +2,435 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-02T02:33:36.590Z</updated>
+    <updated>2026-02-03T02:30:55.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Supply Chain Visibility Using Fabric and Dynamics 365 SCM]]></title>
-        <id>https://365community.online/supply-chain-visibility-using-fabric-and-dynamics-365-scm</id>
-        <link href="https://365community.online/supply-chain-visibility-using-fabric-and-dynamics-365-scm"/>
-        <updated>2026-02-02T02:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Ever lose track of a shipment and spend hours piecing together where the breakdown happened? You’re not alone. Most supply chains are basically black boxes—one small glitch, and suddenly orders, inventory, and deliveries are scattered across different apps. But what if you could finally see every moving part in real time, all in one place? […]]]></summary>
+        <title type="html"><![CDATA[Customizing Dataverse for Complex Business Apps]]></title>
+        <id>https://365community.online/customizing-dataverse-for-complex-business-apps</id>
+        <link href="https://365community.online/customizing-dataverse-for-complex-business-apps"/>
+        <updated>2026-02-03T00:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Ever built a Power App where the relationships got so tangled, you wondered if you were mapping out a business process or building a spaghetti monster? You’re in the right place. Today, we’re breaking down Dataverse beyond just tables and columns—so you can finally connect those dots and avoid the chaos of custom logic gone […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure X++ Dev in VS 2026]]></title>
+        <id>1728 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/configure-x-dev-vs-2026"/>
+        <updated>2026-02-03T00:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/02/26.
+
+
+Last modified: 
+
+02/02/26
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Visual Studio      
+
+Configure X++ dev for VS 2026
+
+Configuring X++ dev in Visual Studio 2026 is fairly easy. We'll be using this guide but leaving a few steps out.
+Install VS 2026
+Go to https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?... to download the latest.
+Run the installer selecting the defaults, or whatever you'd like, but make sure the LocalDB option is checked.
+
+Finish the installer then start up Visual Studio. Side note, Visual Studio 2026 is displayed as simply "Visual Studio" while all others have a year listed with the product name like Visual Studio 2022. Go to Extensions > Manage Extensions.
+
+Let the installer finish after a VS restart. Next, go to tools > Download Dynamics 365 assets. Connect to an environment then you should see this in the output window.
+
+Once complete, you're ready to go.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure X++ Dev in VS 2026]]></title>
+        <id>https://365community.online/configure-x-dev-in-vs-2026</id>
+        <link href="https://365community.online/configure-x-dev-in-vs-2026"/>
+        <updated>2026-02-03T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/02/26. Last modified:  02/02/26 Tags:  Visual Studio Configure X++ dev for VS 2026 Configuring X++ dev in Visual Studio 2026 is fairly easy. We’ll be using this guide but leaving a few steps out. Install VS 2026 Go to https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?… to download the latest. Run the installer selecting the defaults, or […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Month-End Close with Power Automate + Dynamics 365 Finance]]></title>
+        <id>https://365community.online/automating-month-end-close-with-power-automate-dynamics-365-finance</id>
+        <link href="https://365community.online/automating-month-end-close-with-power-automate-dynamics-365-finance"/>
+        <updated>2026-02-02T21:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Ever feel like your month-end close is stuck in quicksand, trapping your finance team in endless journal validations and email ping-pong? What if you could automate approvals, streamline postings, and get real-time notifications—all in one seamless workflow using tools you already have?Today, I’ll show you, step by step, how to connect Power Automate, Dynamics 365 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding an XrmToolbox Tool part 4 – Optimisation and destroying my entire tool]]></title>
+        <id>https://365community.online/vibe-coding-an-xrmtoolbox-tool-part-4-optimisation-and-destroying-my-entire-tool</id>
+        <link href="https://365community.online/vibe-coding-an-xrmtoolbox-tool-part-4-optimisation-and-destroying-my-entire-tool"/>
+        <updated>2026-02-02T21:11:00.000Z</updated>
+        <summary type="html"><![CDATA[There may be an elephant in the room here, but I’m going to start with the optimisation. During my testing for the tool, I noticed a bit of lag when loading different pages. The initial load of flows is fine, because this is the first load of an entire environments flows and metadata, but I […]]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Text to Outlines in PowerPoint (So It Becomes a Shape)]]></title>
+        <id>https://365community.online/how-to-convert-text-to-outlines-in-powerpoint-so-it-becomes-a-shape</id>
+        <link href="https://365community.online/how-to-convert-text-to-outlines-in-powerpoint-so-it-becomes-a-shape"/>
+        <updated>2026-02-02T21:09:07.000Z</updated>
+        <summary type="html"><![CDATA[PowerPoint can do a lot of things. Turning text into outlines — like Illustrator “Create Outlines” — is not one of them. So if you want text that becomes a design element (not editable text), you have to use a workaround. In this tutorial, I’ll show you how to convert live editable text into an […]]]></summary>
+        <author>
+            <name>Stephanie Hogan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Accurate Shop Floor Data Capture Breaks Down in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=140907</id>
+        <link href="https://erpsoftwareblog.com/2026/02/why-accurate-shop-floor-data-capture-breaks-down-in-business-central/"/>
+        <updated>2026-02-02T20:00:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast Delayed And Incomplete Shop Floor Data On many manufacturing floors, production data such as labor hours, quantities produced, scrap, and downtime are often entered late or […]
+The post Why Accurate Shop Floor Data Capture Breaks Down in Business Central appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it Time to Upgrade to Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=140469</id>
+        <link href="https://erpsoftwareblog.com/2026/02/upgrade-to-business-central/"/>
+        <updated>2026-02-02T18:57:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Slow reports. Clunky workarounds. Rising costs just to keep your ERP running. If you're still on Dynamics NAV, GP, SL, or even an early version of Business Central, these daily […]
+The post Is it Time to Upgrade to Business Central? appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
+        <author>
+            <name>Tigunia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Showback Is Not Accountability]]></title>
+        <id>https://365community.online/showback-is-not-accountability</id>
+        <link href="https://365community.online/showback-is-not-accountability"/>
+        <updated>2026-02-02T17:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations believe showback creates accountability. It doesn’t. Showback creates visibility—and visibility feels like control. Dashboards appear. Reports circulate. Cost reviews get scheduled. Everyone relaxes. But nothing in the system is forced to change. A dashboard is not a decision.A report is not an escalation path.A monthly cost review is not governance. This episode dismantles […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Dynamics GP What Real Business Central Migrations Can Teach Us (eBook)]]></title>
+        <id>https://erpsoftwareblog.com/?p=140896</id>
+        <link href="https://erpsoftwareblog.com/2026/02/beyond-dynamics-gp-what-real-business-central-migrations-can-teach-us-ebook/"/>
+        <updated>2026-02-02T17:21:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+    What is the Beyond Dynamics GP eBook about? The Beyond Dynamics GP eBook shares six real-world success stories from Microsoft Dynamics partners who helped organizations migrate from Dynamics GP to […]
+The post Beyond Dynamics GP What Real Business Central Migrations Can Teach Us (eBook)  appeared first on ERP Software Blog.
+3 Steps to Choosing Accounting Software that Supports Business Growth
+Dynamics GP Training –Why it Really is THAT important  – Part I
+Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Allocations: The Pros and Cons]]></title>
+        <id>https://erpsoftwareblog.com/?p=140645</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-allocations-the-pros-and-cons/"/>
+        <updated>2026-02-02T17:01:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For the Accounting Managers, Controllers, and even some CFOs of the world, Business Central allocations is cause for rejoice. And with good reason: the allocation process is an unavoidable fact […]
+The post Business Central Allocations: The Pros and Cons appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting
+3 Finance Leaders Share Top Pick for Business Central Reporting]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Risks of Being On-Premise | The Reality of Staying on GP]]></title>
+        <id>https://www.encorebusiness.com/?p=72612</id>
+        <link href="https://www.encorebusiness.com/blog/security-risks-of-being-on-premise/"/>
+        <updated>2026-02-02T15:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Security Risks of Being On-Premise | The Reality of Staying on GP
+Staying on Microsoft Dynamics GP may feel familiar, but on‑premise systems are facing growing security risks that many businesses underestimate. In this webinar recording, Encore experts break down the realities of remaining on GP, the vulnerabilities that come with aging infrastructure, and what organizations need to consider as support winds down. You’ll hear how attackers...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Microsoft D365 Finance and Operations 10.0.47]]></title>
+        <id>https://erpsoftwareblog.com/?p=140840</id>
+        <link href="https://erpsoftwareblog.com/2026/02/whats-new-in-microsoft-d365-finance-and-operations-10-0-47/"/>
+        <updated>2026-02-02T15:23:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Finance and Operations version 10.0.47 is a release that emphasizes platform maturity, architectural readiness, and controlled expansion of intelligent capabilities rather than large-scale functional change. For customers, […]
+The post What’s New in Microsoft D365 Finance and Operations 10.0.47 appeared first on ERP Software Blog.
+Common Challenges Testing Dynamics 365 and How Test Automation Can Help
+Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental
+Reach the Summit of your D365 Implementation with Automated Testing]]></summary>
+        <author>
+            <name>TheTestMart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21 Types of WordPress Sites You Can Build with AI]]></title>
+        <id>https://365community.online/21-types-of-wordpress-sites-you-can-build-with-ai</id>
+        <link href="https://365community.online/21-types-of-wordpress-sites-you-can-build-with-ai"/>
+        <updated>2026-02-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress has evolved far beyond its blogging roots and can now power almost any kind of site — from personal sites and portfolios to memberships, news sites, and full business websites. And with its new AI website builder, designing a website has become even easier — simple text prompts are enough to turn your ideas […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HubSpot-Dynamics 365 Sync Guide for 2026 & Beyond]]></title>
+        <id>https://erpsoftwareblog.com/?p=140861</id>
+        <link href="https://erpsoftwareblog.com/2026/02/hubspot-dynamics-365-sync-guide-2026/"/>
+        <updated>2026-02-02T14:43:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+HubSpot-Dynamics 365 integration eliminates data silos between sales and operations. Nucleus Research found that CRM integration drives 20 to 30 percent growth in business. Salesforce reports CRM systems increase sales […]
+The post HubSpot-Dynamics 365 Sync Guide for 2026 & Beyond appeared first on ERP Software Blog.
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Best strategies, insights and techniques for a successful eCommerce implementation
+Microsoft NAV 2016 Version Upgrade! Never Worry!!]]></summary>
+        <author>
+            <name>Beate Thomsen, Rapidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the GP to Business Central Move Is Different for Professional Services Firms – OMZY Interview]]></title>
+        <id>https://erpsoftwareblog.com/?p=140841</id>
+        <link href="https://erpsoftwareblog.com/2026/02/why-the-gp-to-business-central-move-is-different-for-professional-services-firms-omzy-interview/"/>
+        <updated>2026-02-02T14:29:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Key Highlights Why GP users often feel functionality gaps after moving to Business Central How ISVs play a critical role in replacing mature GP capabilities Why professional services firms need […]
+The post Why the GP to Business Central Move Is Different for Professional Services Firms – OMZY Interview appeared first on ERP Software Blog.
+VIDEO: See How Dynamics 365 Business Central Integrates with Outlook!
+Microsoft Dynamics 365 Business Central for Project Managers
+How to Reconcile Bank Accounts in Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Anya Ciecierski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sycor.MedTech365 and Microsoft D365 F&SCM are Transforming MedTech Manufacturing]]></title>
+        <id>https://erpsoftwareblog.com/?p=139934</id>
+        <link href="https://erpsoftwareblog.com/2026/02/how-sycor-medtech365-and-microsoft-d365-fscm-are-transforming-medtech-manufacturing/"/>
+        <updated>2026-02-02T14:00:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Our final and 4th article of our 4-part series: Sycor.MedTech 365 and Microsoft Dynamics 365 F&SCM ERP transforming MedTech device manufacturing. Key Takeaways Unified Platform: Combines Microsoft D365 F&SCM’s robust […]
+The post How Sycor.MedTech365 and Microsoft D365 F&SCM are Transforming MedTech Manufacturing appeared first on ERP Software Blog.
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+What You Need to Know About the E-invoice Exchange Market Pilot
+Business Central to Dataverse Integration: How it Benefits Business Teams]]></summary>
+        <author>
+            <name>Joanne B., Sycor Americas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Up A D365 Email Template]]></title>
+        <id>https://365community.online/set-up-a-d365-email-template</id>
+        <link href="https://365community.online/set-up-a-d365-email-template"/>
+        <updated>2026-02-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Communication with customers is very important. After something progresses with their order, it is helpful to send the customer an email. In this article, learn how to set up a D365 email template. Email templates allow businesses to format the emails to match their brand. Additionally, context-specific information, such as the order ID, delivery address,… […]]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Up A D365 Email Template]]></title>
+        <id>https://dynamics365musings.com/?p=4555</id>
+        <link href="https://dynamics365musings.com/d365-email-template/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-email-template"/>
+        <updated>2026-02-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Communication with customers is very important. After something progresses with their order, it is helpful to send the customer an email. In this article, learn how to set up a D365 email template. Email templates allow businesses to format the emails to match their brand. Additionally, context-specific information, such as the order ID, delivery address,... Continue Reading →
+The post Set Up A D365 Email Template appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Data Pipelines in Microsoft Fabric]]></title>
+        <id>https://365community.online/monitoring-data-pipelines-in-microsoft-fabric</id>
+        <link href="https://365community.online/monitoring-data-pipelines-in-microsoft-fabric"/>
+        <updated>2026-02-02T13:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Most data engineers only find out about pipeline failures when someone from finance asks why their dashboard is stuck on last week. But what if you could spot – and fix – issues before they cause chaos?Today, we’ll show you how to architect monitoring in Microsoft Fabric so your pipelines stay healthy, your team stays […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 for F&B: How Independent Contractors Sniff Out ERP Risk (Before It Stinks)]]></title>
+        <id>https://erpsoftwareblog.com/?p=140862</id>
+        <link href="https://erpsoftwareblog.com/2026/02/d365-contractors-food-beverage-erp-risk/"/>
+        <updated>2026-02-02T12:35:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you are a VP or Director of IT in Food and Beverage (F&B) implementing D365 ERP, chances are this thought has crossed your mind: "This ERP project will either […]
+The post D365 for F&B: How Independent Contractors Sniff Out ERP Risk (Before It Stinks) appeared first on ERP Software Blog.
+The 5 Most Often Overlooked Costs of ERP
+“Readers Digest” Version of the LEAN Enterprise
+Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined]]></summary>
+        <author>
+            <name>Ryan Carolan D365contractors.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splunk Course | Master Splunk Administration: Full Hands-on Training for Beginners – YouTube]]></title>
+        <id>https://365community.online/splunk-course-master-splunk-administration-full-hands-on-training-for-beginners-youtube</id>
+        <link href="https://365community.online/splunk-course-master-splunk-administration-full-hands-on-training-for-beginners-youtube"/>
+        <updated>2026-02-02T10:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the most comprehensive Splunk Course designed specifically to help you Master Splunk Administration. If you are looking for Full Hands-on Training for Beginners, you are in the right place. In this video, we move beyond theory to show you exactly how to manage data, configure environments, and secure your Splunk deployment from scratch. […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Winners Won’t Be the Most Customised ERP Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=140855</id>
+        <link href="https://erpsoftwareblog.com/2026/02/why-the-winners-wont-be-the-most-customised-erp-systems/"/>
+        <updated>2026-02-02T09:48:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For years, ERP success has often been measured by how closely a system could be tailored to a business’s requirements. The more customised the ERP, the thinking went, the better […]
+The post Why the Winners Won’t Be the Most Customised ERP Systems appeared first on ERP Software Blog.
+5 Reasons To Start Using A Payment Processing System
+How Sales Portals Transform Your Sales Game - Dynamics 365 Business Central
+Connecting Your eMarketplace with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Bluefort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The real power of Portfolio Resource Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=140610</id>
+        <link href="https://erpsoftwareblog.com/2026/02/the-real-power-of-portfolio-resource-management/"/>
+        <updated>2026-02-02T07:41:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As organizations grow, initiatives begin to compete for limited resources. What works at a project or team level often starts to break down once priorities overlap and when work is shared across the business.  […]
+The post The real power of Portfolio Resource Management appeared first on ERP Software Blog.
+The impact of AI Agents on today’s workplace
+The 5 biggest challenges in resource management – and how modern software solves them
+How does proMX 365 Absence Management drive productivity across industries?]]></summary>
+        <author>
+            <name>proMX Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure X++ Dev in VS 2022]]></title>
+        <id>1727 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/configure-x-dev-vs-2022"/>
+        <updated>2026-02-02T04:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/01/26.
+
+
+Last modified: 
+
+02/01/26
+
+
+
+
+
+
+
+
+
+
+
+
+Configure VS for X++ Development
+
+Configuring Visual Studio 2022 for X++ development is easy but requires a specific installer for LocalDB which can we hard to find on the first run-through.
+Download LocalDB
+Go to https://www.microsoft.com/en-us/sql-server/sql-server-downloads and download the installer for SQL Server 2025 Express - option on the right.
+Run the installer then select "download media"
+
+Next, select "LocalDB" and note the download location. Click download.
+
+Next, extract and run the installer that was download, taking all defaults.
+Visual Studio 2022
+Open Visual Studio 2022 and select "Continue Without Code"
+
+Click On "Extension" (Menu) then "Manage Extensions". Next search for "Power Platform" then click install.
+
+VS 2022 will install this on next start. Once this has installed, go to the Tools menu then options. Search for "Power". Set your options as you'd like. Here is how I have my options set. Set these however works best for you.
+
+Next, go to Tools (Menu) then select connect to dataverse. 
+
+This will launch a pop up. I typically uncheck "Sign in as currency user" and also "Display list of available organizations". This will challenge for auth on a different user and ask for a specific URL you'd like to connect to.
+
+next, select the solution.
+
+Once connected,  you may be prompted to install F&O Dev Tools. If not, go to the tools menu then select "Download Dynamics 365 FinOps Assets". If all is well, all components will be downloaded and development capabilities configured. This may take up to an hour. Review output in "FinOps Cloud Runtime" in the output window to see the current status of the install.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Development Environment in Power Platform Admin Center]]></title>
+        <id>1726 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/create-development-environment-power-platform-admin-center"/>
+        <updated>2026-02-02T00:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/01/26.
+
+
+Last modified: 
+
+02/01/26
+
+
+
+
+
+
+
+
+
+
+
+
+From PPAC, create a new environment. You will need role Global Administrator, Power Platform Administrator or Dynamics 365 Administrator to create a new environment. Select "none" for environment group and add a Dataverse data store. Click next.
+
+Select a security group and enable Dynamics 365 apps but do not select any to install. Click save.
+
+This will create an environment. After a short time, you should be able to view the environment page.
+
+Next, click on Dynamics 365 Apps under Resources. Click Install App, fine "Dynamics 365 Finance and Operations Platform Tools". Any version will work - select and click next.
+
+Check I agree then click install.
+
+Once that complete, click Install App then select "Dynamics 365 Finance and Operations Provisioning App. Any version will work - click next.
+
+You'll get a pop-up that this will take you to a new page. Click ok.
+
+On this form, you can select if you want this environment to have dev tools. If you select yes, this will create the F&O infrastructure as a UDE - Unified Developer Environment. If you select no, this will create the environment as a USE - Unified Sandbox Environment. Also indicate if you'd like Contoso data and what specific version you'd like from the the available supported versions. Accept terms of service then click Install.
+
+After this, the infrastructure for F&O will start to spin up and attach to the PPAC environment. After 2 hours, maybe 3, your environment page in PPAC will look like this to show that the F&O infra is available.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -107776,37 +108193,6 @@ From GP to Business Central: Elevate Shipping Processes]]></summary>
         <summary type="html"><![CDATA[Since the launch of Copilot, we’ve been increasingly listening to logic and nonsense. This post tries to bring light to what on earth Copilot is. As you are aware there […]]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating and removing N:N relationship between Dataverse records using JavaScript and Power Pages  Web API]]></title>
-        <id>https://365community.online/creating-and-removing-nn-relationship-between-dataverse-records-using-javascript-and-power-pages-web-api</id>
-        <link href="https://365community.online/creating-and-removing-nn-relationship-between-dataverse-records-using-javascript-and-power-pages-web-api"/>
-        <updated>2024-02-04T14:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Managing Dataverse N:N relationships between records using the Power Pages Web API can be trickier as there are few samples around and the syntax differs a little bit from handling […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataverse Long Term Data Retention]]></title>
-        <id>https://365community.online/dataverse-long-term-data-retention</id>
-        <link href="https://365community.online/dataverse-long-term-data-retention"/>
-        <updated>2024-02-04T10:10:39.000Z</updated>
-        <summary type="html"><![CDATA[What is Dataverse Long Term Data Retention? Currently in Public Preview (Q1 2024), Dataverse Long Term Data Retention allows your organisation to archive data to long term storage. But what […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #23]]></title>
-        <id>http://dynamicsax-fico.com/?p=5492</id>
-        <link href="https://dynamicsax-fico.com/2024/02/04/microsoft-bizapps-deutschland-podcast-23/"/>
-        <updated>2024-02-04T07:09:21.000Z</updated>
-        <summary type="html"><![CDATA[In diesem Podcast sprechen wir mit Monika Timm und Juergen Zinner von der Firma Dorfner, die gerade dabei sind mit …
-Continue reading →]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
         </author>
     </entry>
     <entry>
