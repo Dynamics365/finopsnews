@@ -2,18 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-04T02:24:46.582Z</updated>
+    <updated>2026-02-05T02:26:45.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The Anatomy of an Auditable ESG Stack]]></title>
-        <id>https://365community.online/the-anatomy-of-an-auditable-esg-stack-2</id>
-        <link href="https://365community.online/the-anatomy-of-an-auditable-esg-stack-2"/>
-        <updated>2026-02-04T01:29:18.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,880Most organizations treat ESG reporting like a narrative. 200:00:02,880 –> 00:00:04,800Auditors treat it like evidence. 300:00:04,800 –> 00:00:06,680An evidence has rules, origin, integrity, 400:00:06,680 –> 00:00:08,800repeatability, and access control. 500:00:08,800 –> 00:00:12,360If your number exists, because someone edited a spreadsheet, 600:00:12,360 –> 00:00:13,800your stack isn’t a stack. 700:00:13,800 –> 00:00:14,720It’s a story. 800:00:14,720 […]]]></summary>
+        <title type="html"><![CDATA[Why Retail Expertise Matters in ERP Implementations: A Client Perspective]]></title>
+        <id>https://erpsoftwareblog.com/?p=141149</id>
+        <link href="https://erpsoftwareblog.com/2026/02/why-retail-expertise-matters-in-erp-implementations-a-client-perspective/"/>
+        <updated>2026-02-04T21:40:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Retail ERP implementations come with unique challenges. Inventory accuracy, warehouse efficiency, and eCommerce alignment all need to work together seamlessly. Without retail-specific expertise, implementations often struggle with disconnected systems, inefficient […]
+The post Why Retail Expertise Matters in ERP Implementations: A Client Perspective appeared first on ERP Software Blog.
+Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry
+Case: How to effortlessly import supplier Excel files in BC without manipulation
+Growth is Great – Manage Your Multiple Company Locations with Microsoft Dynamics and Binary Stream for Streamlined Financials]]></summary>
         <author>
-            <name>Mirko Peters</name>
+            <name>ArcherPoint by Cherry Bekaert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Planning: Optimise Forecasting, Inventory, and Production Decisions]]></title>
+        <id>https://erpsoftwareblog.com/?p=141048</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-planning-optimise-forecasting-inventory-and-production-decisions/"/>
+        <updated>2026-02-04T19:43:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many Business Central users struggle to keep planning aligned with reality. Forecasts often miss actual usage, inventory levels drift, and planners spend hours digging through cards and worksheets to decide […]
+The post Business Central Planning: Optimise Forecasting, Inventory, and Production Decisions appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Accounting, Project Management, PSA and How Do They All Fit into Microsoft Dynamics 365 Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=140682</id>
+        <link href="https://erpsoftwareblog.com/2026/02/project-accounting-project-management-psa-and-how-do-they-all-fit-into-microsoft-dynamics-365-business-central/"/>
+        <updated>2026-02-04T16:46:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+TL;DR Project talk can get messy fast. Everyone uses the same words, but nobody means the same thing. Finance looks at costs. Project managers look at tasks and timelines. Service […]
+The post Project Accounting, Project Management, PSA and How Do They All Fit into Microsoft Dynamics 365 Business Central? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MES ROI for Operations Managers: How Real-Time Visibility Improves Shop Floor Performance]]></title>
+        <id>https://erpsoftwareblog.com/?p=141109</id>
+        <link href="https://erpsoftwareblog.com/2026/02/mes-roi-for-operations-managers/"/>
+        <updated>2026-02-04T16:41:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Operations Managers are responsible for keeping production moving — even when conditions on the shop floor change hour by hour. Machine issues, labor constraints, material shortages, and quality concerns don’t […]
+The post MES ROI for Operations Managers: How Real-Time Visibility Improves Shop Floor Performance appeared first on ERP Software Blog.
+Best ERP Software, or Beyond ERP?
+The Evolution of Scheduling for Process Manufacturers
+“Readers Digest” Version of the LEAN Enterprise]]></summary>
+        <author>
+            <name>ISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Financial Reporting and the Legacy of FRx]]></title>
+        <id>https://erpsoftwareblog.com/?p=140917</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-financial-reporting-and-the-legacy-of-frx/"/>
+        <updated>2026-02-04T16:33:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central financial reporting is often judged through expectations finance teams formed long before they ever logged into Business Central. Those expectations came from daily close work, audit prep, and […]
+The post Business Central Financial Reporting and the Legacy of FRx appeared first on ERP Software Blog.
+See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting
+Join Us At Dynamic Communities Summit - Booth 800
+3 Finance Leaders Share Top Pick for Business Central Reporting]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Dimension Strategy Mistakes That Hurt Reporting Accuracy]]></title>
+        <id>https://erpsoftwareblog.com/?p=141098</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-dimension-strategy-mistakes/"/>
+        <updated>2026-02-04T11:43:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In many Business Central implementations, dimension setup is treated as a configuration task — something to finalize quickly once the chart of accounts is in place. On paper, dimensions look […]
+The post Business Central Dimension Strategy Mistakes That Hurt Reporting Accuracy appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
         </author>
     </entry>
     <entry>
@@ -254,16 +334,6 @@ Saving Space by Going Paperless…]]></summary>
         <summary type="html"><![CDATA[Fixing DevOps Chaos: Turning “Out‑of‑the‑Box” Azure DevOps into a Real Delivery Engine Walk into almost any customer site today and you’ll hear a familiar story: “Yes, we use Azure DevOps… but no, we don’t really have a process.” Teams have the tool, but not the way of working.   What we typically find: Azure DevOps […]]]></summary>
         <author>
             <name>Mark Christie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Waste is Costing You Millions (And You Don’t Even Know) – YouTube]]></title>
-        <id>https://365community.online/azure-waste-is-costing-you-millions-and-you-dont-even-know-youtube</id>
-        <link href="https://365community.online/azure-waste-is-costing-you-millions-and-you-dont-even-know-youtube"/>
-        <updated>2026-02-03T13:31:02.000Z</updated>
-        <summary type="html"><![CDATA[What if I told you that up to a third of your company’s Azure spend is vanishing? Industry reports show that around 30 percent of all cloud spending is wasted. That could be hundreds of thousands or even millions of dollars evaporating from your budget. This waste often comes from silent culprits: idle virtual machines […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -108165,33 +108235,6 @@ Insight Works Proudly Announces New Partner Acquisitions for March]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost Operational Efficiency with Acumatica and RMH Integration]]></title>
-        <id>https://erpsoftwareblog.com/?p=103917</id>
-        <link href="https://erpsoftwareblog.com/2024/02/boost-operational-efficiency-with-acumatica-and-rmh-integration/"/>
-        <updated>2024-02-06T14:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Boost Operational Efficiency with Acumatica and RMH Integration by x2x. This solution eliminates the need for manual data transfer between the two platforms, unlocking significant efficiency gains. This bi-directional integration […]
-The post Boost Operational Efficiency with Acumatica and RMH Integration appeared first on ERP Software Blog.
-Syncing Master Data between Existing ERP & an Established eCommerce Store
-How Microsoft Dynamics can enable powerful Financial Reporting?
-How can Microsoft Dynamics SL Help Your Business today?]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cracking the Dynamics GP Passwords and Security System]]></title>
-        <id>https://www.encorebusiness.com/?p=35817</id>
-        <link href="https://www.encorebusiness.com/blog/cracking-dynamics-gp-passwords-security-system/"/>
-        <updated>2024-02-06T14:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Cracking the Dynamics GP Passwords and Security System
-System security, accounts and passwords can be a very broad and complex topic. I want to simplify it down a little as it relates specifically to the different kinds of Dynamics GP Application User Security Accounts and the SQL Server System Administrator account – and hopefully provide some understanding of the use, purpose and differences of...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Patrick Ceaser</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A new approach to error handling in Power Automate]]></title>
         <id>https://365community.online/a-new-approach-to-error-handling-in-power-automate-2</id>
         <link href="https://365community.online/a-new-approach-to-error-handling-in-power-automate-2"/>
@@ -108272,16 +108315,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building new apps and tables with Maker Copilot is now available in 8 languages worldwide]]></title>
-        <id>building-new-apps-and-tables-with-maker-copilot-is-now-available-in-8-languages-worldwide</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/building-new-apps-and-tables-with-maker-copilot-is-now-available-in-8-languages-worldwide/"/>
-        <updated>2024-02-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce that the Build apps through conversation capability is now available in 8 languages on make.powerapps.com: English, Dutch, French, German, Italian, Japanese, Portuguese (Brazil), Spanish. The Copilot banner and “Describe a new table” options are visible to users who have set their language to one of the supported languages.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Power Platform First Aid sessions]]></title>
         <id>https://365community.online/power-platform-first-aid-sessions-2</id>
         <link href="https://365community.online/power-platform-first-aid-sessions-2"/>
@@ -108312,20 +108345,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revolutionize Your Family Office Efficiency: The Microsoft Dynamics 365 Business Central Solution]]></title>
-        <id>https://erpsoftwareblog.com/?p=103902</id>
-        <link href="https://erpsoftwareblog.com/2024/02/revolutionize-your-family-office-efficiency-the-microsoft-dynamics-365-business-central-solution/"/>
-        <updated>2024-02-05T19:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Elevating Family Office Efficiency with Microsoft Dynamics 365 Business Central Discover how a well-established single-family office transformed its operations with Microsoft Dynamics 365 Business Central. Facing challenges with their outdated […]
-The post Revolutionize Your Family Office Efficiency: The Microsoft Dynamics 365 Business Central Solution appeared first on ERP Software Blog.
-Unified or Enterprise eCommerce Solution ; What’s your pick?
-Importance of advanced quality management in Pharmaceutical Manufacturing
-Why small firms should consider Microsoft Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>The TM Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[InvalidProtocolResponse – Logic apps]]></title>
         <id>https://365community.online/invalidprotocolresponse-logic-apps</id>
         <link href="https://365community.online/invalidprotocolresponse-logic-apps"/>
@@ -108336,52 +108355,6 @@ Why small firms should consider Microsoft Dynamics 365 Business Central]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[InvalidProtocolResponse – Logic apps]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3403</id>
-        <link href="https://anithasantosh.wordpress.com/2024/02/05/invalidprotocolresponse-logic-apps/"/>
-        <updated>2024-02-05T19:00:57.000Z</updated>
-        <summary type="html"><![CDATA[I was trying to configure composite entity for D365F&O using logic apps and faced the below error.  The response to partial content upload initiating request is not valid. The response to initiating partial content upload request must contain a valid … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced focused view in Dynamics 365 Sales helps optimize task execution!]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/05/enhanced-focused-view-in-dynamics-365-sales-helps-optimize-task-execution/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/05/enhanced-focused-view-in-dynamics-365-sales-helps-optimize-task-execution/"/>
-        <updated>2024-02-05T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of sales, sellers are now expected to be adept multitaskers.
-The post Enhanced focused view in Dynamics 365 Sales helps optimize task execution! appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Rik Roy Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forrester study finds 346% ROI when modernizing service operations with Dynamics 365 Field Service]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/05/forrester-study-finds-346-roi-when-modernizing-service-operations-with-dynamics-365-field-service/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/05/forrester-study-finds-346-roi-when-modernizing-service-operations-with-dynamics-365-field-service/"/>
-        <updated>2024-02-05T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[According to our Forrester Consulting study, software that helps organizations improve field service delivery can improve financial performance in two ways: by helping improve customer retention and expansion by exceeding service expectations, and by increasing productivity. We are pleased to share the results of a December 2023 Forrester Consulting Total Economic ImpactTM (TEI) Study commissioned by Microsoft.
-The post Forrester study finds 346% ROI when modernizing service operations with Dynamics 365 Field Service  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Safiyyah O’Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Special Pricing & Chargeback for Wholesale Distributors]]></title>
-        <id>https://erpsoftwareblog.com/?p=103880</id>
-        <link href="https://erpsoftwareblog.com/2024/02/wholesale-distributors-pricing/"/>
-        <updated>2024-02-05T15:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Boost profits and streamline Vendor cost recovery for long-term success Industry […]
-The post Simplifying Special Pricing & Chargeback for Wholesale Distributors appeared first on ERP Software Blog.
-The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
-Integrated Planning with deFacto Power Planning - Webinar
-Join Us At Dynamic Communities Summit - Booth 800]]></summary>
-        <author>
-            <name>Vyas Consulting</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Excel Filter Query in List Rows Present in a Table Action in Power Automate]]></title>
         <id>https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-2</id>
         <link href="https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-2"/>
@@ -108389,6 +108362,16 @@ Join Us At Dynamic Communities Summit - Booth 800]]></summary>
         <summary type="html"><![CDATA[Filter queries are important when you work with SharePoint Get Items actions or Dataverse Get Rows, but how about the Excel Filter Query setting? Get rows present in a Table […]]]></summary>
         <author>
             <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed  – Invalid type. Expected Integer but got Number (Power Automate)]]></title>
+        <id>https://365community.online/fixed-invalid-type-expected-integer-but-got-number-power-automate</id>
+        <link href="https://365community.online/fixed-invalid-type-expected-integer-but-got-number-power-automate"/>
+        <updated>2024-02-05T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In one of our Cloud Flows, for Parse JSON action, we got the below error – ValidationFailed. The schema validation Failed. “Invalid type. Expected Integer but got Number” The generated […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
         </author>
     </entry>
     <entry>
