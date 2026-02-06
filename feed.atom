@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-05T02:26:45.397Z</updated>
+    <updated>2026-02-06T02:27:04.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Outsourced Judgment in AI Strategies]]></title>
+        <id>https://365community.online/outsourced-judgment-in-ai-strategies</id>
+        <link href="https://365community.online/outsourced-judgment-in-ai-strategies"/>
+        <updated>2026-02-05T23:57:51.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,400Most organizations think their AI strategy is about adoption. 200:00:03,400 –> 00:00:06,080Licenses, prompts may be a champion program. 300:00:06,080 –> 00:00:06,880They are wrong. 400:00:06,880 –> 00:00:08,960The failure mode is simpler and uglier. 500:00:08,960 –> 00:00:11,560They’re outsourcing judgment to a probabilistic system 600:00:11,560 –> 00:00:13,440and calling it productivity. 700:00:13,440 –> 00:00:15,000Copilot isn’t a faster […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Tiered Pricing in Dynamics 365 with Rockton Pricing Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=141255</id>
+        <link href="https://erpsoftwareblog.com/2026/02/what-is-tiered-pricing/"/>
+        <updated>2026-02-05T22:30:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Pricing can feel like a constant balancing act for Dynamics 365 users. Charge too much, and you risk losing customers; charge too little, and you erode your margins. Tiered pricing […]
+The post Automating Tiered Pricing in Dynamics 365 with Rockton Pricing Management appeared first on ERP Software Blog.
+Comparing AP Solutions: Mekorma vs. BILL
+Stop Letting Spreadsheets & Your Ego Wreck Your Pricing Strategy
+Embedded AP Solutions vs Integrated: What’s Right for Your Team?]]></summary>
+        <author>
+            <name>Mark Rockwell, Rockton Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Business Central Purchasing Capabilities]]></title>
+        <id>https://erpsoftwareblog.com/?p=141223</id>
+        <link href="https://erpsoftwareblog.com/2026/02/microsoft-business-central-purchasing-capabilities/"/>
+        <updated>2026-02-05T20:46:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Business Central Purchasing Capabilities: Features That Streamline Procurement. Purchasing is one of the most important workflows inside any ERP system. If your organization is managing vendors, purchase orders, receipts, […]
+The post Microsoft Business Central Purchasing Capabilities appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanded Reseller Coverage Improves Access to Insight Works Apps for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=141106</id>
+        <link href="https://erpsoftwareblog.com/2026/02/expanded-reseller-coverage-improves-access-to-insight-works-apps-for-business-central/"/>
+        <updated>2026-02-05T20:17:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The January 2026 additions to the Insight Works Reseller Network reflect a continued focus on expanding regional access to Insight Works applications through qualified Microsoft partners. This expansion increases the […]
+The post Expanded Reseller Coverage Improves Access to Insight Works Apps for Business Central appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leading Security in the Age of AI]]></title>
+        <id>https://365community.online/leading-security-in-the-age-of-ai</id>
+        <link href="https://365community.online/leading-security-in-the-age-of-ai"/>
+        <updated>2026-02-05T20:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations believe they are well secured because they have deployed modern controls: phishing-resistant MFA, EDR, Conditional Access, a Zero Trust roadmap, and dashboards full of reassuring green checks. And yet breaches keep happening. Not because tools are missing—but because trust was never engineered as a system. This episode dismantles the illusion of control and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Declarative Handoffs: How GitHub Copilot Custom Agents Pass the Baton]]></title>
+        <id>https://365community.online/declarative-handoffs-how-github-copilot-custom-agents-pass-the-baton</id>
+        <link href="https://365community.online/declarative-handoffs-how-github-copilot-custom-agents-pass-the-baton"/>
+        <updated>2026-02-05T17:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that GitHub Copilot allows custom agents to transfer work to each other declaratively? In ALDC (AL Development Collection), we use this capability to create workflows where each agent knows exactly when and to whom to pass the baton. The Power of Declarative Handoffs In each agent’s YAML frontmatter, we define explicit handoffs. […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General Availability of Quality Evaluation Agent’s conversation capabilities]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=200019</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/05/quality-evaluation-agent-conversation-ga/"/>
+        <updated>2026-02-05T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Quality Evaluation Agent in in Dynamics 365 Customer Service and Dynamics 365 is an AI-led evaluation framework that empowers teams to deliver consistent, scalable quality oversight and automate quality evaluations across customer interactions.
+The post General Availability of Quality Evaluation Agent’s conversation capabilities  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Deepa Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eOne Solutions & Jonas Software: A Successful Salesforce & Dynamics GP Integration Story]]></title>
+        <id>https://erpsoftwareblog.com/?p=141220</id>
+        <link href="https://erpsoftwareblog.com/2026/02/salesforce-dynamics-gp-integration/"/>
+        <updated>2026-02-05T16:28:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For over two decades, eOne Solutions has been connecting applications to help your data communicate with each other. One Salesforce and Dynamics GP integration success story comes from Jonas Software, […]
+The post eOne Solutions & Jonas Software: A Successful Salesforce & Dynamics GP Integration Story appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+With Microsoft Dynamics GP, you really can have it all! Here's how...
+2, 4, 6, 8… What Does Dynamics GP Integrate?]]></summary>
+        <author>
+            <name>eOne Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Payment Gateways with Business Central (Stripe, PayPal & More)?]]></title>
+        <id>https://erpsoftwareblog.com/?p=141212</id>
+        <link href="https://erpsoftwareblog.com/2026/02/how-to-integrate-payment-gateways-with-business-central-stripe-paypal-more/"/>
+        <updated>2026-02-05T14:03:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Modern businesses expect fast, secure, and automated payment processing. If you are using Microsoft Dynamics 365 Business Central, integrating payment gateways like Stripe, PayPal, Authorize.Net, or Square can significantly streamline […]
+The post How to Integrate Payment Gateways with Business Central (Stripe, PayPal & More)? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s official: WordPress.com has a Claude Connector]]></title>
+        <id>https://365community.online/its-official-wordpress-com-has-a-claude-connector</id>
+        <link href="https://365community.online/its-official-wordpress-com-has-a-claude-connector"/>
+        <updated>2026-02-05T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress.com has launched an official connector for Claude — the first of its kind for a WordPress host. This means that you can now safely connect Claude to your site and know that the integration is officially supported by both Anthropic and WordPress.com. Check out the WordPress.com Claude Connector From MCP access to an official […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Excel Reporting with Dynamic Arrays]]></title>
+        <id>https://erpsoftwareblog.com/?p=140952</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-excel-reporting-with-dynamic-arrays/"/>
+        <updated>2026-02-05T13:41:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central Excel Reporting often becomes a second job for the same people running the monthly close. The same team reconciling accounts and answering audit questions also has to keep […]
+The post Business Central Excel Reporting with Dynamic Arrays appeared first on ERP Software Blog.
+See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting
+3 Finance Leaders Share Top Pick for Business Central Reporting
+Navigating 8 Common Financial Reporting Challenges (Infographic)]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find Business Central Reports Three Ways]]></title>
+        <id>https://erpsoftwareblog.com/?p=140525</id>
+        <link href="https://erpsoftwareblog.com/2026/02/find-business-central-reports-three-ways/"/>
+        <updated>2026-02-05T13:10:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Look, we've all been there. You need a specific report in Business Central right now. You know it exists somewhere in the system. But finding it means clicking through endless […]
+The post Find Business Central Reports Three Ways appeared first on ERP Software Blog.
+Business Central AI Features That Drive Real Results
+How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge]]></summary>
+        <author>
+            <name>CAL Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excellence in AI Collaboration]]></title>
+        <id>https://365community.online/excellence-in-ai-collaboration</id>
+        <link href="https://365community.online/excellence-in-ai-collaboration"/>
+        <updated>2026-02-05T12:38:15.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,520Most organizations still talk about AI like it’s a faster stapler, a productivity tool, 200:00:04,520 –> 00:00:06,680a feature you enable. 300:00:06,680 –> 00:00:08,600That story is comforting and it’s wrong. 400:00:08,600 –> 00:00:13,960Work now happens through AI, with AI, and because of AI, drafting, summarizing, prioritizing, 500:00:13,960 –> 00:00:16,560and quietly deciding what counts as […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do all my tests show up twice in the test explorer?]]></title>
+        <id>https://365community.online/why-do-all-my-tests-show-up-twice-in-the-test-explorer</id>
+        <link href="https://365community.online/why-do-all-my-tests-show-up-twice-in-the-test-explorer"/>
+        <updated>2026-02-05T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Long story, short Because you are using the pre-release of AL Language and you also have AL Test Runner installed. If you are using AL Test Runner then you probably want to switch to the release version of the AL Language extension for now. Short story, made unnecessarily long Microsoft are adding testing capability to […]]]></summary>
+        <author>
+            <name>James Pearson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Hospitality Industry Can Polish Its Operations with Smarter Maps]]></title>
+        <id>https://365community.online/how-the-hospitality-industry-can-polish-its-operations-with-smarter-maps</id>
+        <link href="https://365community.online/how-the-hospitality-industry-can-polish-its-operations-with-smarter-maps"/>
+        <updated>2026-02-05T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The day trouble checked into the Grand Serendipity Hotel, it did not bother with a reservation. It arrived early, dumped its bags in the lobby, and made itself extremely comfortable. The staff could feel it before they could name it. Bookings were slipping, guests were confused, managers were stressed, and everyone agreed that something was […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purchase Requisition Automation for Business Central with Nolan eRequest]]></title>
+        <id>https://erpsoftwareblog.com/?p=136765</id>
+        <link href="https://erpsoftwareblog.com/2026/02/purchase-requisition-automation-for-business-central-with-nolan-erequest/"/>
+        <updated>2026-02-05T03:02:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why Purchase Requisition Automation Matters - and How to Begin The Hidden Cost of Manual Purchase Requisition Processes Purchase Requisition Automation matters because organizations that still rely on spreadsheets, email […]
+The post Purchase Requisition Automation for Business Central with Nolan eRequest appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix]]></summary>
+        <author>
+            <name>Nolan Business Applications</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Page Numbers and Footers in PowerPoint (And Fix Them When They Don’t Show Up)]]></title>
+        <id>https://365community.online/how-to-add-page-numbers-and-footers-in-powerpoint-and-fix-them-when-they-dont-show-up</id>
+        <link href="https://365community.online/how-to-add-page-numbers-and-footers-in-powerpoint-and-fix-them-when-they-dont-show-up"/>
+        <updated>2026-02-05T00:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Ever added page numbers in PowerPoint, clicked Apply to All, and then… nothing happened? Congrats. You’ve just encountered one of PowerPoint’s most common (and most annoying) “features.” In this tutorial, you’ll learn how to: Add slide numbers (page numbers) and footers Fix missing page numbers/footers Customize the footer formatting (size, alignment, position) Prevent chaos when […]]]></summary>
+        <author>
+            <name>Stephanie Hogan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Retail Expertise Matters in ERP Implementations: A Client Perspective]]></title>
         <id>https://erpsoftwareblog.com/?p=141149</id>
@@ -34,6 +245,39 @@ Vendor Data in Accounts Payable: Best Management Practices
 Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Key Facets of AI Evaluation in the Contact Center]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/04/ai-evaluation-contact-center/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/04/ai-evaluation-contact-center/"/>
+        <updated>2026-02-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations must think about when, how, by whom, and on what data AI systems are evaluated. This blog explores the key facets of AI evaluation and how they apply specifically to contact center environments.
+The post The Key Facets of AI Evaluation in the Contact Center  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Raimondas Lencevicius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring What Matters: Redefining Excellence for AI Agents in the Contact Center]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/04/ai-agent-performance-measurement/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/04/ai-agent-performance-measurement/"/>
+        <updated>2026-02-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The contact center industry is at an inflection point. AI agent performance measurement is becoming essential as contact centers shift toward autonomous resolution. Gartner predicts that by 2029, AI agents will autonomously resolve 80% of common customer service issues.
+The post Measuring What Matters: Redefining Excellence for AI Agents in the Contact Center  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aleksey Sinyagin and Joe Weeden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating AI Agents in Contact Centers: Introducing the Multi-modal Agents Score]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=200008</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/04/multimodal-agent-score/"/>
+        <updated>2026-02-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the Multimodal Agent Score (MAS)—a unified, absolute measure of end‑to‑end conversational quality designed for AI agents operating across modalities. MAS is grounded in a simple observation: every service interaction, whether handled by a human or an AI agent, progresses through three fundamental stages. First, the agent must understand the input, accurately interpreting content, intent, and contextual signals. Next, it must reason over that input, determining the correct actions, maintaining conversational continuity, and resolving ambiguity responsibly. Finally, the agent must respond effectively, delivering clear, natural, and confident communication in the appropriate tone and format.
+The post Evaluating AI Agents in Contact Centers: Introducing the Multi-modal Agents Score  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aleksey Sinyagin, Eslam Kamal, Pratichi Dash and Rajesh Kumar Singh</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +323,26 @@ Join Us At Dynamic Communities Summit - Booth 800
 3 Finance Leaders Share Top Pick for Business Central Reporting]]></summary>
         <author>
             <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Makes Humans Irreplaceable]]></title>
+        <id>https://365community.online/why-ai-makes-humans-irreplaceable</id>
+        <link href="https://365community.online/why-ai-makes-humans-irreplaceable"/>
+        <updated>2026-02-04T15:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations still talk about AI like it’s a faster stapler: a productivity feature you turn on. That framing is comforting—and wrong. Work now happens through AI, with AI, and increasingly because of AI. Drafts appear before debate. Summaries replace discussion. Outputs begin to masquerade as decisions. This episode argues that none of this makes […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Writing Deserves a Spotlight: Freshly Pressed Is Back]]></title>
+        <id>https://365community.online/great-writing-deserves-a-spotlight-freshly-pressed-is-back</id>
+        <link href="https://365community.online/great-writing-deserves-a-spotlight-freshly-pressed-is-back"/>
+        <updated>2026-02-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finding your next favorite blog shouldn’t feel like scrolling through an endless feed, hoping something good appears. And for creators, getting discovered shouldn’t require figuring out an algorithm. Back in 2009, WordPress.com launched Freshly Pressed, a curated collection of posts that entertained, enlightened, and inspired. It was our way of saying “we like you, we […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +518,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Technology Management Concepts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability of Proactive Voice Enhancements in Dynamics 365 Contact Center]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=199966</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/03/proactive-voice-engagements-dynamics-365-contact-center/"/>
+        <updated>2026-02-03T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Answering machine detection, SIP call outcomes, and predictive dialing are now available for proactive voice scenarios.
+The post Announcing General Availability of Proactive Voice Enhancements in Dynamics 365 Contact Center  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Venkat Anantharaman</name>
         </author>
     </entry>
     <entry>
@@ -547,6 +822,17 @@ See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Cent
 3 Finance Leaders Share Top Pick for Business Central Reporting]]></summary>
         <author>
             <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI for inventory to deliver: From procurement to fulfillment]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=199930</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/02/02/agentic-ai-for-inventory-to-deliver-from-procurement-to-fulfillment/"/>
+        <updated>2026-02-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From procurement and production to fulfillment and customer satisfaction, inventory-to-deliver impacts every aspect of the supply chain.
+The post Agentic AI for inventory to deliver: From procurement to fulfillment appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Alexis Goodrich</name>
         </author>
     </entry>
     <entry>
@@ -108032,344 +108318,6 @@ Transition Your Team to Work Remotely with Microsoft 365 ERP]]></summary>
         <link href="https://365community.online/use-the-theme-assistant-copilot-to-style-emails-dynamics-365-customer-insights-journey-marketing"/>
         <updated>2024-02-07T13:30:00.000Z</updated>
         <summary type="html"><![CDATA[Using Copilot’s theme assistant we can fetch the styles from a website and apply it to our email. Microsoft strongly recommends using Theme Assistant only on websites owned and not […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charting a Unique Course in Tech: Fernando Tudela’s Insightful Dive into Freelance Consulting]]></title>
-        <id>https://365community.online/charting-a-unique-course-in-tech-fernando-tudelas-insightful-dive-into-freelance-consulting</id>
-        <link href="https://365community.online/charting-a-unique-course-in-tech-fernando-tudelas-insightful-dive-into-freelance-consulting"/>
-        <updated>2024-02-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/524 Have you ever wondered if the road less travelled leads to unexpected success? Fernando Tudela, Spain's premier D365 FNO expert and senior technical consultant with Aluma […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saviynt Training | Saviynt Tutorial For Beginners | IAM Saviynt Course Demo | MindMajix – YouTube]]></title>
-        <id>https://365community.online/saviynt-training-saviynt-tutorial-for-beginners-iam-saviynt-course-demo-mindmajix-youtube</id>
-        <link href="https://365community.online/saviynt-training-saviynt-tutorial-for-beginners-iam-saviynt-course-demo-mindmajix-youtube"/>
-        <updated>2024-02-07T12:00:28.000Z</updated>
-        <summary type="html"><![CDATA[This MindMajix’s YouTube video on Saviynt tutorial dives deep into all the fundamentals of Saviynt and its products with practical examples. This MindMajix’s Saviynt course include topics like Saviynt basis, […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Webinar – First Look of New SMS Integration for Dynamics 365 CRM with TextSMS4Dynamics!]]></title>
-        <id>https://365community.online/live-webinar-first-look-of-new-sms-integration-for-dynamics-365-crm-with-textsms4dynamics</id>
-        <link href="https://365community.online/live-webinar-first-look-of-new-sms-integration-for-dynamics-365-crm-with-textsms4dynamics"/>
-        <updated>2024-02-07T11:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Effective communication is the cornerstone of success in today’s dynamic business landscape. For businesses utilizing Microsoft Dynamics 365 CRM, integrating SMS messaging will be a game-changer, redefining sales, customer support, […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 17 – Topic 8: Part 1 – YouTube]]></title>
-        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-17-topic-8-part-1-youtube</id>
-        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-17-topic-8-part-1-youtube"/>
-        <updated>2024-02-07T10:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saviynt Training | Saviynt Certification Course | Saviynt Tutorial | IAM Saviynt Demo | MindMajix – YouTube]]></title>
-        <id>https://365community.online/saviynt-training-saviynt-certification-course-saviynt-tutorial-iam-saviynt-demo-mindmajix-youtube</id>
-        <link href="https://365community.online/saviynt-training-saviynt-certification-course-saviynt-tutorial-iam-saviynt-demo-mindmajix-youtube"/>
-        <updated>2024-02-07T09:00:04.000Z</updated>
-        <summary type="html"><![CDATA[This MindMajix’s YouTube video on Saviynt training dives deep into all the fundamentals of Saviynt and its products with practical examples. This MindMajix’s Saviynt course include topics like Saviynt basis, […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Proven Ways to Boost Dynamics 365/PowerApps Adoption in the Housing Sector]]></title>
-        <id>https://365community.online/6-proven-ways-to-boost-dynamics-365-powerapps-adoption-in-the-housing-sector</id>
-        <link href="https://365community.online/6-proven-ways-to-boost-dynamics-365-powerapps-adoption-in-the-housing-sector"/>
-        <updated>2024-02-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[User adoption is a critical factor in the success of Customer Relationship Management (CRM) systems. However, research has shown that CRM implementations have consistently high failure rates, ranging from 30% to […]]]></summary>
-        <author>
-            <name>Chris Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Power Platform Global AI #HackTogether inspired AI-powered solutions for real-world use cases]]></title>
-        <id>how-power-platform-global-ai-hacktogether-inspired-ai-powered-solutions-for-real-world-use-cases</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/how-power-platform-global-ai-hacktogether-inspired-ai-powered-solutions-for-real-world-use-cases/"/>
-        <updated>2024-02-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In September 2023, participants from around the world built solutions for the Power Platform Global AI #HackTogether using AI technologies together with Power Platform. The hundreds of solutions developed for real-world use cases were innovative and impactful. We summarize some of the solutions by use cases to inspire you in building your next AI-powered solution with Power Platform.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSM: A first look at the ESG value chain solution]]></title>
-        <id>http://dynamicsax-fico.com/?p=5546</id>
-        <link href="https://dynamicsax-fico.com/2024/02/07/msm-a-first-look-at-the-esg-value-chain-solution/"/>
-        <updated>2024-02-07T07:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio – Hide Fields in Adaptive Cards]]></title>
-        <id>https://365community.online/copilot-studio-hide-fields-in-adaptive-cards</id>
-        <link href="https://365community.online/copilot-studio-hide-fields-in-adaptive-cards"/>
-        <updated>2024-02-07T07:01:59.000Z</updated>
-        <summary type="html"><![CDATA[I have recently been experimenting with adaptive cards within my Copilot Studio BOTS. (Previously known as Power Virtual Agents!) In this post I will explore how we can hide (and […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prepare for Your Exit or Acquisition in 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=103498</id>
-        <link href="https://erpsoftwareblog.com/2024/02/how-to-prepare-for-your-exit-or-acquisition-in-2024/"/>
-        <updated>2024-02-07T01:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Is selling or acquiring a company in your plans for 2024? The exit and acquisition process involves intensive financial planning and reporting. Assembling 3-5 years of historical financial statements, projections, […]
-The post How to Prepare for Your Exit or Acquisition in 2024 appeared first on ERP Software Blog.
-Ariett Showcases New Dashboards and BI Reporting at GP User Group Summit
-Accountants No Longer Just Keep the Books
-Financial Reporting Options for Microsoft Dynamics NAV]]></summary>
-        <author>
-            <name>Solver Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PPDevWeekly 200th Newsletter Post – Interview & Celebration – YouTube]]></title>
-        <id>https://365community.online/ppdevweekly-200th-newsletter-post-interview-celebration-youtube</id>
-        <link href="https://365community.online/ppdevweekly-200th-newsletter-post-interview-celebration-youtube"/>
-        <updated>2024-02-06T22:54:55.000Z</updated>
-        <summary type="html"><![CDATA[We the PPDevWeekly team got together to celebrate 200th newsletter post milestone. Each of the authors were asked a questions that provided behind-the-scene work that goes into curating the newsletter […]]]></summary>
-        <author>
-            <name>Danish Naglekar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leap into AI this Leap Year... No-Brainer AI Tools on Azure You Can Start Using Now]]></title>
-        <id>https://erpsoftwareblog.com/?p=103939</id>
-        <link href="https://erpsoftwareblog.com/2024/02/leap-into-ai-this-leap-year-no-brainer-ai-tools-on-azure-you-can-start-using-now/"/>
-        <updated>2024-02-06T21:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Are you empowering yourself with AI? Let's talk AI for Microsoft Dynamics ERP. How to take the AI reigns for the accounting department and learn about AI tools available in […]
-The post Leap into AI this Leap Year... No-Brainer AI Tools on Azure You Can Start Using Now appeared first on ERP Software Blog.
-Quand migrer de Dynamics GP à Dynamics 365 Business Central?
-Improve Customer Engagement through an Automated Portal for Dynamics GP
-Outsource Accounts Payable Processes? Pros and Cons]]></summary>
-        <author>
-            <name>Fidesic AP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Preview the Power of Business Portals!]]></title>
-        <id>https://erpsoftwareblog.com/?p=103930</id>
-        <link href="https://erpsoftwareblog.com/2024/02/webinar-preview-the-power-of-business-portals/"/>
-        <updated>2024-02-06T20:07:44.000Z</updated>
-        <summary type="html"><![CDATA[February 21st Webinar: Preview the Power of Business Portals! You are invited to attend our presentation to learn how to unlock the Power of Customer and Vendor Portals with Office […]
-The post Webinar: Preview the Power of Business Portals! appeared first on ERP Software Blog.
-Should You Attend AXUG or D365UG for Summit Phoenix?
-User Group Summit Phoenix is THE Event For ALL Legacy, Current and Future Microsoft Dynamics Users
-Webinar-B2B E-Commerce; an Absolute Necessity Today and not a “Nice to Have”.]]></summary>
-        <author>
-            <name>iCepts Technology Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Generate a Vendor Remittance Report in D365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103927</id>
-        <link href="https://erpsoftwareblog.com/2024/02/how-to-generate-a-vendor-remittance-report-in-d365-business-central/"/>
-        <updated>2024-02-06T18:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Generating a Vendor Remittance Report with a Complementary Email Body Using Business Central Microsoft Dynamics 365 Business Central can be leveraged to produce a vendor remittance report through various processes, […]
-The post How To Generate a Vendor Remittance Report in D365 Business Central appeared first on ERP Software Blog.
-Streamline Purchase & Sales Orders with Free App for Business Central
-Product Configurators for Microsoft Dynamics 365 Business Central
-Don't Miss These Microsoft Dynamics Year-End Prep Webinars]]></summary>
-        <author>
-            <name>ArcherPoint</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Download free booklet | 5 simple steps to revenue leakage prevention]]></title>
-        <id>https://erpsoftwareblog.com/?p=103321</id>
-        <link href="https://erpsoftwareblog.com/2024/02/download-free-booklet-5-simple-steps-to-revenue-leakage-prevention/"/>
-        <updated>2024-02-06T16:08:30.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving business landscape, safeguarding your revenue is paramount for sustained success. Introducing our latest booklet, "5 Simple Steps to Revenue Leakage Prevention," a comprehensive guide designed to fortify […]
-The post Download free booklet | 5 simple steps to revenue leakage prevention appeared first on ERP Software Blog.
-Boost your bottom line: 5 simple steps to prevent revenue leakage
-I Don't Need BI, I Have Excel
-New Year’s Resolution: Keeping Better Track of Your Projects With Timesheets]]></summary>
-        <author>
-            <name>Binary Stream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MxAPS v4.8: Enhancing Production Scheduling in Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=103081</id>
-        <link href="https://erpsoftwareblog.com/2024/02/mxaps-v4-8-enhancing-production-scheduling-in-business-central/"/>
-        <updated>2024-02-06T15:34:03.000Z</updated>
-        <summary type="html"><![CDATA[MxAPS v4.8 enhances production scheduling in Dynamics 365 Business Central with new features for efficiency and accuracy in manufacturing.
-The post MxAPS v4.8: Enhancing Production Scheduling in Business Central appeared first on ERP Software Blog.
-Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central
-Cycle Count Scheduler: A Game-changer for Business Central Users
-Proof of Delivery: Leveraging Business Central for Optimized Logistics]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AP Automation Comparison Showcase for Dynamics 365 Business Central (NAV) Users February 21st, 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=103873</id>
-        <link href="https://erpsoftwareblog.com/2024/02/ap-automation-comparison-showcase-for-dynamics-365-business-central-nav-users-february-21st-2024/"/>
-        <updated>2024-02-06T15:18:31.000Z</updated>
-        <summary type="html"><![CDATA[How can you compare 5 of the Top AP Automation solutions for Dynamics 365 Business Central (NAV)? In our new AP Automation Comparison Showcase for Business Central (NAV) Have you […]
-The post AP Automation Comparison Showcase for Dynamics 365 Business Central (NAV) Users February 21st, 2024 appeared first on ERP Software Blog.
-How Dynamics 365 Business Central meet the Manufacturer’s expectations?
-Why you should choose Microsoft Dynamics 365 Business Central for your business?
-Insight Works Proudly Announces New Partner Acquisitions for March]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new approach to error handling in Power Automate]]></title>
-        <id>https://365community.online/a-new-approach-to-error-handling-in-power-automate-2</id>
-        <link href="https://365community.online/a-new-approach-to-error-handling-in-power-automate-2"/>
-        <updated>2024-02-06T13:31:22.000Z</updated>
-        <summary type="html"><![CDATA[For quite a few years now I’ve promoted the Try-Catch error handling pattern. But there is a new approach on its way. The Flow Run Table Within Dataverse you can […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NerdioCon 2024 – Conference Overview: Part 1 – YouTube]]></title>
-        <id>https://365community.online/nerdiocon-2024-conference-overview-part-1-youtube</id>
-        <link href="https://365community.online/nerdiocon-2024-conference-overview-part-1-youtube"/>
-        <updated>2024-02-06T13:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the I Am IT Geek YouTube Channel! This is the first episode of my mini series where I give an overview of the Nerdio Conference I will be […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed – InvalidStateError: Failed to read the ‘responseText’ property from ‘XMLHttpRequest’: The value is only accessible if the object’s ‘responseType’ is ” or ‘text’ (was ‘arraybuffer’).]]></title>
-        <id>https://365community.online/fixed-invalidstateerror-failed-to-read-the-responsetext-property-from-xmlhttprequest-the-value-is-only-accessible-if-the-objects-responsetype</id>
-        <link href="https://365community.online/fixed-invalidstateerror-failed-to-read-the-responsetext-property-from-xmlhttprequest-the-value-is-only-accessible-if-the-objects-responsetype"/>
-        <updated>2024-02-06T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we got the below error when we tried to download and zip the files from within CRM’s Web Resource. The files were stored in Azure Blob Storage. We were […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add to Shortcuts & Startup folder]]></title>
-        <id>https://365community.online/add-to-shortcuts-startup-folder</id>
-        <link href="https://365community.online/add-to-shortcuts-startup-folder"/>
-        <updated>2024-02-06T13:05:17.000Z</updated>
-        <summary type="html"><![CDATA[This #TipTuesday post has a couple of things in it, one of which is not working for me in my test install of Dynamics GP though! DOH! Add to Shortcuts […]]]></summary>
-        <author>
-            <name>Jen Kuntz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unable to delete table due to entityanalyticsconfig]]></title>
-        <id>https://365community.online/unable-to-delete-table-due-to-entityanalyticsconfig</id>
-        <link href="https://365community.online/unable-to-delete-table-due-to-entityanalyticsconfig"/>
-        <updated>2024-02-06T12:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Working on a new environment recently I had to remove a few tables. However, after removing all normal dependencies, it complained finally about a dependency to the table: entityanalyticsconfig. Never […]]]></summary>
-        <author>
-            <name>Gustaf Westerlund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building and Editing Power Automate Flows with Copilot’s Help]]></title>
-        <id>https://365community.online/building-and-editing-power-automate-flows-with-copilots-help</id>
-        <link href="https://365community.online/building-and-editing-power-automate-flows-with-copilots-help"/>
-        <updated>2024-02-06T11:39:47.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve already experienced creating a Power Page with Copilot, great! If not, click here to get started. This blog will now explore how Copilot collaborates with Power Automate and […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laying it all out [A to Z a11y]]]></title>
-        <id>https://365community.online/laying-it-all-out-a-to-z-a11y</id>
-        <link href="https://365community.online/laying-it-all-out-a-to-z-a11y"/>
-        <updated>2024-02-06T11:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Big Box, Little Box, Cardboard Box What’s in the Box? I just had to get that reference in there somehow! It is quite relevant here though. In this A to […]]]></summary>
-        <author>
-            <name>Mike Hartley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio – Adaptive Cards Toggle Visibility]]></title>
-        <id>https://365community.online/copilot-studio-adaptive-cards-toggle-visibility</id>
-        <link href="https://365community.online/copilot-studio-adaptive-cards-toggle-visibility"/>
-        <updated>2024-02-06T10:47:57.000Z</updated>
-        <summary type="html"><![CDATA[I have recently been experimenting with adaptive cards with my Copilot Studio BOTS. (Previously called Power Virtual Agents!) In this post I will explore how to toggle the visibility of […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform First Aid sessions]]></title>
-        <id>https://365community.online/power-platform-first-aid-sessions-2</id>
-        <link href="https://365community.online/power-platform-first-aid-sessions-2"/>
-        <updated>2024-02-06T09:20:13.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for help with your Power Platform. And you had enough of looking for help by searching on the internet? Power Platform First Aid ⛑️Join us in January […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you have multiple developers working on 1 flow in Power Automate?]]></title>
-        <id>https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate</id>
-        <link href="https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate"/>
-        <updated>2024-02-06T00:07:14.000Z</updated>
-        <summary type="html"><![CDATA[This post is all about some issues that I ran into yesterday. Multiple developers worked on one flow in Power Automate and my app in Power Apps broke. When apps […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process AI Builder data using xpath in Power Automate]]></title>
-        <id>https://365community.online/process-ai-builder-data-using-xpath-in-power-automate</id>
-        <link href="https://365community.online/process-ai-builder-data-using-xpath-in-power-automate"/>
-        <updated>2024-02-05T19:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Today I was asked to have a look at the dynamic data that is generated by AI builder and make it easier to process AI Builder data. AI Builder data […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InvalidProtocolResponse – Logic apps]]></title>
-        <id>https://365community.online/invalidprotocolresponse-logic-apps</id>
-        <link href="https://365community.online/invalidprotocolresponse-logic-apps"/>
-        <updated>2024-02-05T19:00:57.000Z</updated>
-        <summary type="html"><![CDATA[I was trying to configure composite entity for D365F&O using logic apps and faced the below error.  The response to partial content upload initiating request is not valid. The response […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Filter Query in List Rows Present in a Table Action in Power Automate]]></title>
-        <id>https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-2</id>
-        <link href="https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-2"/>
-        <updated>2024-02-05T15:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Filter queries are important when you work with SharePoint Get Items actions or Dataverse Get Rows, but how about the Excel Filter Query setting? Get rows present in a Table […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed  – Invalid type. Expected Integer but got Number (Power Automate)]]></title>
-        <id>https://365community.online/fixed-invalid-type-expected-integer-but-got-number-power-automate</id>
-        <link href="https://365community.online/fixed-invalid-type-expected-integer-but-got-number-power-automate"/>
-        <updated>2024-02-05T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In one of our Cloud Flows, for Parse JSON action, we got the below error – ValidationFailed. The schema validation Failed. “Invalid type. Expected Integer but got Number” The generated […]]]></summary>
         <author>
             <name>Nishant Rana</name>
         </author>
