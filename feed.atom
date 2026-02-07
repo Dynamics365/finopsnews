@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-06T02:27:04.882Z</updated>
+    <updated>2026-02-07T02:22:56.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Practical Examples of Power Automate with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=141136</id>
+        <link href="https://erpsoftwareblog.com/2026/02/practical-examples-of-power-automate-with-business-central/"/>
+        <updated>2026-02-06T20:13:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central users often need to react when something happens in the system or update records based on activity that occurs outside of it. Doing this manually usually means exporting […]
+The post Practical Examples of Power Automate with Business Central appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI‑Powered Financial Analysis for Smarter Decisions in Microsoft Dynamics]]></title>
+        <id>https://erpsoftwareblog.com/?p=141309</id>
+        <link href="https://erpsoftwareblog.com/2026/02/ai-powered-financial-analysis-for-smarter-decisions-in-microsoft-dynamics/"/>
+        <updated>2026-02-06T18:55:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Financial and operational teams face similar challenges with planning and analysis: mountains of data but not enough time to extract meaningful insights. You've invested in Microsoft Dynamics to centralize your […]
+The post AI‑Powered Financial Analysis for Smarter Decisions in Microsoft Dynamics appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?]]></summary>
+        <author>
+            <name>Solver Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Integrate Salesforce and Dynamics 365 Finance With No Code]]></title>
+        <id>https://erpsoftwareblog.com/?p=141299</id>
+        <link href="https://erpsoftwareblog.com/2026/02/how-to-integrate-salesforce-and-dynamics-365-finance-with-no-code/"/>
+        <updated>2026-02-06T18:37:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction Integrating Salesforce and Dynamics 365 Finance eliminates data silos and enables real-time synchronization without coding. No-code platforms like Rapidi use pre-configured templates and intelligent mapping to connect systems right […]
+The post How To Integrate Salesforce and Dynamics 365 Finance With No Code appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Beate Thomsen, Rapidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Adetitun Successfully Funded His Book on African History. His Website Was the Launchpad.]]></title>
+        <id>https://365community.online/andrew-adetitun-successfully-funded-his-book-on-african-history-his-website-was-the-launchpad</id>
+        <link href="https://365community.online/andrew-adetitun-successfully-funded-his-book-on-african-history-his-website-was-the-launchpad"/>
+        <updated>2026-02-06T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Andrew Adetitun runs The King’s Monologue, a media network teaching African history to over 160,000 followers across different channels.  He noticed that African history wasn’t just underrepresented — it was actively obscured. Achievements credited to the wrong civilizations. Truth buried in books most people would never read. So he started making content. First on TikTok. […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock Dataverse—Stop Flying Blind in Fabric]]></title>
+        <id>https://365community.online/unlock-dataverse-stop-flying-blind-in-fabric</id>
+        <link href="https://365community.online/unlock-dataverse-stop-flying-blind-in-fabric"/>
+        <updated>2026-02-06T13:34:41.000Z</updated>
+        <summary type="html"><![CDATA[What if your CRM data wasn’t stranded in Dataverse, but fueling insights across your business? Most organizations treat Dataverse like a walled garden, missing out on the analytics power of Fabric. Today, I’ll show you exactly how to punch a hole in that wall and bring your business data together—step by step, with live examples. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Legacy ERP Holds Manufacturing Back: Blower-Dempsay’s Story]]></title>
+        <id>https://erpsoftwareblog.com/?p=141154</id>
+        <link href="https://erpsoftwareblog.com/2026/02/when-legacy-erp-holds-manufacturing-back-blower-dempsays-story/"/>
+        <updated>2026-02-06T13:10:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many manufacturing companies stay on legacy ERP systems longer than they want to—not because the software still fits their needs, but because upgrading feels risky, complex, or resource-intensive. In this […]
+The post When Legacy ERP Holds Manufacturing Back: Blower-Dempsay’s Story appeared first on ERP Software Blog.
+Three Reports a Distribution Company Put On Auto Pilot with Dynamics GP
+A Wake-up Call - A Game Changer Is on the Way
+How construction equipment rental businesses can add dealership to their portfolio]]></summary>
+        <author>
+            <name>ArcherPoint by Cherry Bekaert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Ingest Pipelines in Microsoft Fabric for Enterprise Data]]></title>
+        <id>https://365community.online/building-ingest-pipelines-in-microsoft-fabric-for-enterprise-data</id>
+        <link href="https://365community.online/building-ingest-pipelines-in-microsoft-fabric-for-enterprise-data"/>
+        <updated>2026-02-06T10:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a question for you: what’s the real difference between using Dataflows Gen2 and a direct pipeline copy in Microsoft Fabric—and does it actually matter which you choose? If you care about scalable, error-resistant data ingest that your business can actually trust, this isn’t just a tech debate. I’ll break down each step, show you […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: monitoring your customer’s network speed from telemetry.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-monitoring-your-customers-network-speed-from-telemetry</id>
+        <link href="https://365community.online/dynamics-365-business-central-monitoring-your-customers-network-speed-from-telemetry"/>
+        <updated>2026-02-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post about the impact of browser and local machine on user’s perception of Business Central UI performance, I mentioned that Microsoft was in plan to add some new parameters in telemetry for monitoring some infrastructure’s details about clients. An interesting parameter recently added on page views telemetry is the customDimensions.deviceHardware node: This new […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future of Enterprise Connectivity]]></title>
+        <id>https://365community.online/future-of-enterprise-connectivity</id>
+        <link href="https://365community.online/future-of-enterprise-connectivity"/>
+        <updated>2026-02-06T06:07:53.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,320Most enterprises talk about connectivity like it’s plumbing, connect system A to system B, 200:00:04,320 –> 00:00:06,120add a connector, call it transformation. 300:00:06,120 –> 00:00:07,360That assumption feels safe. 400:00:07,360 –> 00:00:10,800It’s also why the same organizations keep replatforming every three years. 500:00:10,800 –> 00:00:12,960Here’s the promise, this is not a demo tour. 600:00:12,960 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day in the life of a Senior Cloud Consultant #microsoft – YouTube]]></title>
+        <id>https://365community.online/day-in-the-life-of-a-senior-cloud-consultant-microsoft-youtube</id>
+        <link href="https://365community.online/day-in-the-life-of-a-senior-cloud-consultant-microsoft-youtube"/>
+        <updated>2026-02-06T04:05:28.000Z</updated>
+        <summary type="html"><![CDATA[See what a Senior Cloud Consultant gets up to working remotely in Australia! #azure #securecloud #dayinmylife source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outsourced Judgment in AI Strategies]]></title>
         <id>https://365community.online/outsourced-judgment-in-ai-strategies</id>
@@ -108192,134 +108312,6 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Mike Lamb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central: Digital Transformation in the Manufacturing Industry]]></title>
-        <id>https://erpsoftwareblog.com/?p=103976</id>
-        <link href="https://erpsoftwareblog.com/2024/02/business-central-digital-transformation-in-the-manufacturing-industry/"/>
-        <updated>2024-02-08T14:00:14.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced manufacturing world, staying ahead of the curve is not just advantageous; it’s essential for survival. Moreover, digital transformation has become the cornerstone of success, offering manufacturers the […]
-The post Business Central: Digital Transformation in the Manufacturing Industry appeared first on ERP Software Blog.
-How much time does a Business Central implementation take?
-Role of Cloud ERP Solution for Small Businesses in 2023
-Types of dimensions in Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Key Features in Microsoft Dynamics 365 Supply Chain Management]]></title>
-        <id>https://erpsoftwareblog.com/?p=103971</id>
-        <link href="https://erpsoftwareblog.com/2024/02/8-key-features-in-microsoft-dynamics-365-supply-chain-management/"/>
-        <updated>2024-02-08T11:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has been a pioneer in the ERP space, having come a long way in the past two decades. What began as Dynamics GP soon transformed into NAV, AX, and […]
-The post 8 Key Features in Microsoft Dynamics 365 Supply Chain Management appeared first on ERP Software Blog.
-Why Microsoft Dynamics 365?
-Top equipment-driven rental trend: Get online to expand presence and profits
-Transition Your Team to Work Remotely with Microsoft 365 ERP]]></summary>
-        <author>
-            <name>Synoptek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MVP Diaries and Mental Health]]></title>
-        <id>https://365community.online/mvp-diaries-and-mental-health</id>
-        <link href="https://365community.online/mvp-diaries-and-mental-health"/>
-        <updated>2024-02-08T10:58:12.000Z</updated>
-        <summary type="html"><![CDATA[A short while ago I was invited by Angeliki Patsiavou to take part in an amazing blog series she is doing. The series asks MVPs questions about their MVP journeys […]]]></summary>
-        <author>
-            <name>Mike Hartley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages: How to Track Changes by Contact (Portal User) in Dataverse Auditing]]></title>
-        <id>https://365community.online/power-pages-how-to-track-changes-by-contact-portal-user-in-dataverse-auditing</id>
-        <link href="https://365community.online/power-pages-how-to-track-changes-by-contact-portal-user-in-dataverse-auditing"/>
-        <updated>2024-02-08T10:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Power Pages sites, connected to Dataverse, serve as a powerful tool for modern website development. Dataverse, acting as a versatile database, offers security features, analytics, and automation. However, Dataverse […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NerdioCon 2024 – Conference Overview: Part 2 – YouTube]]></title>
-        <id>https://365community.online/nerdiocon-2024-conference-overview-part-2-youtube</id>
-        <link href="https://365community.online/nerdiocon-2024-conference-overview-part-2-youtube"/>
-        <updated>2024-02-08T10:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the I Am IT Geek YouTube Channel! This is the second episode of my mini series where I give an overview of the Nerdio Conference I will be […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnichannel for Customer Service – Data Tags and Chat Widgets]]></title>
-        <id>https://365community.online/omnichannel-for-customer-service-data-tags-and-chat-widgets</id>
-        <link href="https://365community.online/omnichannel-for-customer-service-data-tags-and-chat-widgets"/>
-        <updated>2024-02-08T08:58:30.000Z</updated>
-        <summary type="html"><![CDATA[When we create a chat widget using Microsoft’s Omnichannel for Customer Service we can customize its appearance in several ways. In this post I will explain how “data tags” can […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Microsoft Power Apps Developer Plan?]]></title>
-        <id>https://365community.online/what-is-microsoft-power-apps-developer-plan</id>
-        <link href="https://365community.online/what-is-microsoft-power-apps-developer-plan"/>
-        <updated>2024-02-08T06:31:27.000Z</updated>
-        <summary type="html"><![CDATA[The Power Apps Developer Plan gives us the free development environment to build and test with Power Apps, Power Automate, and Microsoft Dataverse. This enables us to, Create Microsoft Power […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#msdyn365bc: Creating Custom Email Subject.]]></title>
-        <id>https://365community.online/msdyn365bc-creating-custom-email-subject</id>
-        <link href="https://365community.online/msdyn365bc-creating-custom-email-subject"/>
-        <updated>2024-02-08T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, In this article we will discuss about How to modify Email Subject.  Video covers –  Identifying event to customize Email Subject Line. Subscribe the event to customize Email […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refresh Main Form When New Child Row is Added in Subgrid via Quick Create Form in Model-Driven App]]></title>
-        <id>https://365community.online/refresh-main-form-when-new-child-row-is-added-in-subgrid-via-quick-create-form-in-model-driven-app</id>
-        <link href="https://365community.online/refresh-main-form-when-new-child-row-is-added-in-subgrid-via-quick-create-form-in-model-driven-app"/>
-        <updated>2024-02-07T22:35:00.000Z</updated>
-        <summary type="html"><![CDATA[This post will explain how you can refresh all the data of the main form when the user adds a new row to the child table by clicking on the […]]]></summary>
-        <author>
-            <name>Linn Zaw Win</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When you understand that you can create anything using JavaScript – YouTube]]></title>
-        <id>https://365community.online/when-you-understand-that-you-can-create-anything-using-javascript-youtube</id>
-        <link href="https://365community.online/when-you-understand-that-you-can-create-anything-using-javascript-youtube"/>
-        <updated>2024-02-07T16:55:37.000Z</updated>
-        <summary type="html"><![CDATA[When you understand that you can create anything using JavaScript source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REST APIs and the importance of Versioning.]]></title>
-        <id>https://365community.online/rest-apis-and-the-importance-of-versioning</id>
-        <link href="https://365community.online/rest-apis-and-the-importance-of-versioning"/>
-        <updated>2024-02-07T16:40:08.000Z</updated>
-        <summary type="html"><![CDATA[A REST API (also known as RESTful API) is an application programming interface that conforms to the constraints of REST architecture and it’s one of the main building block for integration between applicartions […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the theme assistant Copilot to style emails (Dynamics 365 Customer Insights – Journey / Marketing)]]></title>
-        <id>https://365community.online/use-the-theme-assistant-copilot-to-style-emails-dynamics-365-customer-insights-journey-marketing</id>
-        <link href="https://365community.online/use-the-theme-assistant-copilot-to-style-emails-dynamics-365-customer-insights-journey-marketing"/>
-        <updated>2024-02-07T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using Copilot’s theme assistant we can fetch the styles from a website and apply it to our email. Microsoft strongly recommends using Theme Assistant only on websites owned and not […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
         </author>
     </entry>
     <entry>
