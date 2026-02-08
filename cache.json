@@ -1337,6 +1337,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=141325",
+          "author": "Beate Thomsen, Rapidi",
+          "description": "xxx\nWhy Salesforce-Dynamics 365 Integration Matters Data silos cost businesses $3.1 trillion per year in lost revenue and productivity, according to a 2021 IBM study reported by Forbes. Much of that […]\nThe post 3 Tips for Microsoft Dynamics 365 Business Central and Salesforce Integration appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nCreate a Closed-Loop Analysis, Planning, and Reporting Process\nHow Industry 4.0 and the Pandemic are Transforming ERP in Manufacturing",
+          "link": "https://erpsoftwareblog.com/2026/02/microsoft-dynamics-365-business-central-salesforce-integration-tips/",
+          "publishedOn": "2026-02-07T10:18:13.000Z",
+          "wordCount": 8038,
+          "title": "3 Tips for Microsoft Dynamics 365 Business Central and Salesforce Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/sf-bc-integration-3-tips.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=141136",
           "author": "Insight Works",
           "description": "xxx\nBusiness Central users often need to react when something happens in the system or update records based on activity that occurs outside of it. Doing this manually usually means exporting […]\nThe post Practical Examples of Power Automate with Business Central appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central\nFrom GP to Business Central: Production Scheduling with MxAPS",
@@ -35625,46 +35635,6 @@
           "wordCount": 7389,
           "title": "What Role Will AI Play in Inventory Planning and Sales and Operations Planning?",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104001",
-          "author": "x2x eCommerce",
-          "description": "Customer Management in x2x Acumatica and RMH Integration empowers businesses with exceptional control over their sales transactions and customer synchronization. Integration offers complete visibility and accurate accounting for all customer […]\nThe post Customer Management in x2x Acumatica and RMH Integration appeared first on ERP Software Blog.\nx2x eCommerce Integration of Shopify with Navision\nModules in x2x-Acumatica & RMH Integration Solution\nAre Your “Regulars” Really Your Most Loyal Shoppers? Your Retail Sales Software Knows",
-          "link": "https://erpsoftwareblog.com/2024/02/customer-management-in-x2x-acumatica-and-rmh-integration/",
-          "publishedOn": "2024-02-09T14:19:31.000Z",
-          "wordCount": 7414,
-          "title": "Customer Management in x2x Acumatica and RMH Integration",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-45-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103995",
-          "author": "Dynamics Square UK",
-          "description": "Dynamics 365 Supply Chain Management Features offer a robust solution for manufacturers, retailers, and distributors, enhancing efficiency across the supply chain. Dynamics 365 Supply Chain Management delivers complete visibility and […]\nThe post Dynamics 365 Supply Chain Management Features [Top 20] appeared first on ERP Software Blog.\nHow to Successfully Carry Out an ERP Deployment Project\nHow Machine Learning Drives Little Changes That Make a Big Impact for Food & Beverage Manufacturers\nMake 2022 The Year of Process Improvement",
-          "link": "https://erpsoftwareblog.com/2024/02/dynamics-365-supply-chain-management-features/",
-          "publishedOn": "2024-02-08T20:34:34.000Z",
-          "wordCount": 7892,
-          "title": "Dynamics 365 Supply Chain Management Features [Top 20]",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/D365-Supply-Chain.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103692",
-          "author": "Dynamics Square UK",
-          "description": "Dynamics 365 Business Central integration in Microsoft Teams is the key to collaborating seamlessly across team members to streamline business operations, simplify work and enhance productivity. How does Business Central […]\nThe post Dynamics 365 Business Central Integration in Microsoft Teams appeared first on ERP Software Blog.\nWebcast on Microsoft Dynamics GP Reporting Options\nInterested in Cloud Computing?: Get Your Answers at Explore Microsoft Business Cloud!\nThe Benefits of Using a Time & Expense Management System",
-          "link": "https://erpsoftwareblog.com/2024/02/business-central-integration-in-microsoft-teams/",
-          "publishedOn": "2024-02-08T20:06:20.000Z",
-          "wordCount": 8163,
-          "title": "Dynamics 365 Business Central Integration in Microsoft Teams",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/bc-teams-integration-625x346.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103974",
-          "author": "Kwixand Solutions Inc.",
-          "description": "When it comes to implementing ERP software, insufficient support after go-live can really hold you back. Without sufficient post-implementation support, you’ll waste valuable time and resources and still end up […]\nThe post Why You Need Continued Customer Care After ERP Go-Live appeared first on ERP Software Blog.\nCreate A New Item In Dynamics 365 Business Central\nReduce production costs and boost efficiency with Dyn365BC\nRole of Cloud ERP Solution for Small Businesses in 2023",
-          "link": "https://erpsoftwareblog.com/2024/02/why-you-need-continued-customer-care-after-erp-go-live/",
-          "publishedOn": "2024-02-08T16:00:34.000Z",
-          "wordCount": 8355,
-          "title": "Why You Need Continued Customer Care After ERP Go-Live",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Erp-Software-Blog-Post-5.png"
         }
       ]
     },
@@ -37122,16 +37092,6 @@
           "wordCount": 6199,
           "title": "What’s New in Dynamics GP 18.X (Video)",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=61326",
-          "author": "Mike Lamb",
-          "description": "Dynamics 365 Finance & Operations Release Schedule\nStarting in 2024, Dynamics 365 Finance & Operations will change its release schedule to only four service updates per year, instead of the previous seven service updates. If you’re a current customer, or considering moving to this solution, or undergoing an implementation now, you should be aware of what this change means for you. You...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/d365-finance-operations-release-schedule/",
-          "publishedOn": "2024-02-08T15:04:30.000Z",
-          "wordCount": 2073,
-          "title": "Dynamics 365 Finance & Operations Release Schedule",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
         }
       ]
     },
@@ -37140,6 +37100,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/fabric-governance-is-not-what-you-expect",
+          "author": "Mirko Peters",
+          "description": "If you’ve ever felt lost tracking down who accessed which dataset in Microsoft 365, get ready: Fabric governance might look familiar, but there are some surprises you need to see. Is your M365 compliance experience enough to tame this new platform—or are there catches nobody told you about?Stick around. I’m going to show you exactly […]",
+          "link": "https://365community.online/fabric-governance-is-not-what-you-expect",
+          "publishedOn": "2026-02-08T00:38:28.000Z",
+          "wordCount": 3521,
+          "title": "Fabric Governance Is Not What You Expect",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/95eb97bee6d5ad5968132bfe701a6c84.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/automations-that-fix-d365s-biggest-headaches",
+          "author": "Mirko Peters",
+          "description": "What if you could hand off invoice approvals in Dynamics 365 without lifting a finger—and know your leads and cases are always routed to the right team? This isn’t wishful thinking—it’s what you’ll learn to automate today, using Power Automate and Copilot. Let’s break down the system holding your business back, and see how a […]",
+          "link": "https://365community.online/automations-that-fix-d365s-biggest-headaches",
+          "publishedOn": "2026-02-07T21:08:37.000Z",
+          "wordCount": 3593,
+          "title": "Automations That Fix D365’s Biggest Headaches",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/e408e06731c92ad84dea3af5b3d71aa4.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-your-data-strategy-is-rotting",
+          "author": "Mirko Peters",
+          "description": "Most organizations believe Microsoft Fabric governance is solved the moment they adopt the platform. One tenant, one bill, one security model, one governance story. That belief is wrong — and expensive. In this episode, we break down why Microsoft Fabric governance fails by default, how well-intentioned governance programs turn into theater, and why cost, trust, […]",
+          "link": "https://365community.online/why-your-data-strategy-is-rotting",
+          "publishedOn": "2026-02-07T17:38:03.000Z",
+          "wordCount": 2401,
+          "title": "Why Your Data Strategy Is Rotting",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/d22e4592051b398c6bc0d928bd718089.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/is-your-resume-ready-for-a-lead-architect-package-%f0%9f%92%bc%f0%9f%93%88-dotnet-mlnet-aiml-youtube",
+          "author": "Sourav Raj",
+          "description": "Is your resume ready for a Lead Architect package? 💼📈 #dotnet #mlnet #aiml We’ve all been that Junior .NET Dev waiting for a tiny appraisal. But the real “career boost” happens when you add niche, high-demand skills like ML.NET to your profile.  At ScholarHat, we help you transition from the basics to the big leagues.  […]",
+          "link": "https://365community.online/is-your-resume-ready-for-a-lead-architect-package-%f0%9f%92%bc%f0%9f%93%88-dotnet-mlnet-aiml-youtube",
+          "publishedOn": "2026-02-07T15:22:00.000Z",
+          "wordCount": 2116,
+          "title": "Is your resume ready for a Lead Architect package? 💼📈 #dotnet #mlnet #aiml – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1770513272_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/you-dont-have-a-microsoft-tool-problem-you-have-a-people-problem",
+          "author": "Mirko Peters",
+          "description": "Most Microsoft 365 governance initiatives fail — not because the platform is too complex, but because organizations govern tools instead of systems. In this episode, we break down why assigning “Teams owners,” “SharePoint admins,” and “Purview specialists” guarantees chaos at scale, and how fragmented ownership turns Microsoft 365 into a distributed decision engine with no […]",
+          "link": "https://365community.online/you-dont-have-a-microsoft-tool-problem-you-have-a-people-problem",
+          "publishedOn": "2026-02-07T13:48:52.000Z",
+          "wordCount": 2580,
+          "title": "You Don’t Have a Microsoft Tool Problem — You Have a People Problem",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/90f8025d7e12fc16b34f4836e4ef6266.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/top-50-azure-interview-questions-and-answers-2026-mindmajix-youtube",
+          "author": null,
+          "description": "Ace your Microsoft Azure interview. This video covers Azure interview questions and answers for freshers and experienced candidates. Learn about Azure virtual machines, Azure networking, storage accounts, Azure Active Directory (AAD), monitoring and security, CI/CD pipelines, scalability, high availability, disaster recovery and more. We’ll cover everything from basic to advanced and scenario-based questions to help […]",
+          "link": "https://365community.online/top-50-azure-interview-questions-and-answers-2026-mindmajix-youtube",
+          "publishedOn": "2026-02-07T12:09:46.000Z",
+          "wordCount": 2109,
+          "title": "Top 50 Azure Interview Questions and Answers 2026 | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1770513638_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-art-of-red-teaming-zero-to-hero-the-rise-of-agents-lesson-4-chris-huntinford-youtube",
+          "author": "Victor Dantas",
+          "description": "Learn how to stress-test AI agents the way enterprises actually operate. Chris “The Tattooed Agent” Huntingford walks through practical red teaming techniques to uncover blind spots, validate guardrails, and build agents with real observability, resilience, and safety baked in — before they ever hit production. source",
+          "link": "https://365community.online/the-art-of-red-teaming-zero-to-hero-the-rise-of-agents-lesson-4-chris-huntinford-youtube",
+          "publishedOn": "2026-02-06T16:49:30.000Z",
+          "wordCount": 2034,
+          "title": "The Art of Red Teaming | Zero to Hero – The Rise of Agents (Lesson 4) – Chris Huntinford – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1770476722_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/andrew-adetitun-successfully-funded-his-book-on-african-history-his-website-was-the-launchpad",
           "author": "Belinda Allen",
@@ -76859,176 +76889,6 @@
           "wordCount": 3343,
           "title": "Shape the Future of Maplytics: Add your reviews on Microsoft AppSource or G2.com",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Maplytics-Banner-Images-2024-01-31T160348.890.png?fit=700%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/classes-and-objects-in-java-with-implementation-youtube",
-          "author": "Sourav Raj",
-          "description": "Classes and Objects in Java With Implementation Welcome to our comprehensive guide on classes and objects in Java! Classes and objects are foundational concepts in object-oriented programming (OOP), forming the […]",
-          "link": "https://365community.online/classes-and-objects-in-java-with-implementation-youtube",
-          "publishedOn": "2024-02-09T14:01:24.000Z",
-          "wordCount": 3038,
-          "title": "Classes and Objects in Java With Implementation – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707497930_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/strings-in-java-string-methods-implementation-youtube",
-          "author": "Sourav Raj",
-          "description": "Strings in Java | String Methods Implementation Welcome to our comprehensive guide on strings in Java! Strings are one of the most commonly used data types in Java, enabling you […]",
-          "link": "https://365community.online/strings-in-java-string-methods-implementation-youtube",
-          "publishedOn": "2024-02-09T13:30:17.000Z",
-          "wordCount": 3052,
-          "title": "Strings in Java | String Methods Implementation – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707513198_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/arrays-in-java-single-dimensional-and-multi-dimensional-arrays-youtube",
-          "author": "Sourav Raj",
-          "description": "Arrays in Java | Single Dimensional and Multi-Dimensional Arrays Welcome to our comprehensive guide on arrays in Java! Arrays are fundamental data structures that allow you to store and manipulate […]",
-          "link": "https://365community.online/arrays-in-java-single-dimensional-and-multi-dimensional-arrays-youtube",
-          "publishedOn": "2024-02-09T13:22:04.000Z",
-          "wordCount": 3047,
-          "title": "Arrays in Java | Single Dimensional and Multi-Dimensional Arrays – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707528626_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/tableau-training-tableau-certification-course-tableau-tutorial-for-beginners-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "This MindMajix’s YouTube video on Tableau training will help you learn to visualize and present complex data into insightful dashboards. This MindMajix’s Tableau course include topics like what is tableau, […]",
-          "link": "https://365community.online/tableau-training-tableau-certification-course-tableau-tutorial-for-beginners-mindmajix-youtube",
-          "publishedOn": "2024-02-09T12:00:19.000Z",
-          "wordCount": 3373,
-          "title": "Tableau Training | Tableau Certification Course | Tableau Tutorial For Beginners | MindMajix – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707544761_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/variables-in-java-java-tutorial-for-beginners-youtube",
-          "author": "Sourav Raj",
-          "description": "Variables in Java | Java Tutorial for Beginners Welcome to our comprehensive guide on variables in Java! Understanding variables is fundamental to Java programming, as they enable you to store […]",
-          "link": "https://365community.online/variables-in-java-java-tutorial-for-beginners-youtube",
-          "publishedOn": "2024-02-09T11:25:39.000Z",
-          "wordCount": 3049,
-          "title": "Variables in Java | Java Tutorial for Beginners – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707544271_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/differences-between-jdk-jre-and-jvm-java-toolkit-youtube",
-          "author": "Sourav Raj",
-          "description": "Differences between JDK, JRE, and JVM: Java Toolkit Welcome to our comprehensive guide on the differences between JDK, JRE, and JVM in Java! Navigating the Java ecosystem can be confusing, […]",
-          "link": "https://365community.online/differences-between-jdk-jre-and-jvm-java-toolkit-youtube",
-          "publishedOn": "2024-02-09T11:14:02.000Z",
-          "wordCount": 3061,
-          "title": "Differences between JDK, JRE, and JVM: Java Toolkit – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707559886_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/data-types-in-java-primitive-and-non-primitive-data-types-youtube",
-          "author": "Sourav Raj",
-          "description": "Data Types in Java | Primitive and Non-Primitive Data Types Welcome to our comprehensive guide on data types in Java! Understanding data types is fundamental to Java programming as it […]",
-          "link": "https://365community.online/data-types-in-java-primitive-and-non-primitive-data-types-youtube",
-          "publishedOn": "2024-02-09T10:53:10.000Z",
-          "wordCount": 3065,
-          "title": "Data Types in Java | Primitive and Non-Primitive Data Types – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707575122_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/incorporating-start-and-wait-for-an-approval-of-text-action-for-the-ai-generated-response",
-          "author": "Inogic",
-          "description": "In the previous blog we have already explored the AI prompt integration with Power Automate using the “Create text with GPT using a prompt” action, At that time while designing the […]",
-          "link": "https://365community.online/incorporating-start-and-wait-for-an-approval-of-text-action-for-the-ai-generated-response",
-          "publishedOn": "2024-02-09T10:26:24.000Z",
-          "wordCount": 3352,
-          "title": "Incorporating Start and wait for an approval of text action for the AI generated response",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1AI-Builder.jpeg?fit=1200%2C693&ssl=1"
-        },
-        {
-          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-17-topic-8-part-2-youtube",
-          "author": "shabaz darr",
-          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
-          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-17-topic-8-part-2-youtube",
-          "publishedOn": "2024-02-09T10:00:43.000Z",
-          "wordCount": 3079,
-          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 17 – Topic 8: Part 2 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707544622_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/omnichannel-for-customer-service-v2-0-chat-widget-customizations",
-          "author": "Neil Parkhurst",
-          "description": "I recently explained how we can customize the appearance of chat widgets within Microsoft’s Omnichannel for Customer Service using data tags. In this post I will expand on that theme […]",
-          "link": "https://365community.online/omnichannel-for-customer-service-v2-0-chat-widget-customizations",
-          "publishedOn": "2024-02-09T09:18:45.000Z",
-          "wordCount": 3049,
-          "title": "Omnichannel for Customer Service – v2.0 Chat Widget Customizations",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Omnichannel-for-Customer-Service-–-Data-Tags-and-Chat-Widgets.jpg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mb-260-attach-to-a-microsoft-dataverse-data-lake",
-          "author": "Malin Martnes",
-          "description": "To connect to a Dataverse data source you go to “Data” -> “Data sources” and select Microsoft Dataverse. Here you need to give the source a name and connect to […]",
-          "link": "https://365community.online/mb-260-attach-to-a-microsoft-dataverse-data-lake",
-          "publishedOn": "2024-02-09T08:00:00.000Z",
-          "wordCount": 3010,
-          "title": "MB-260: Attach to a Microsoft Dataverse data lake",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707479348_MB-260-Attach-to-a-Microsoft-Dataverse-data-lake.jpg?fit=1200%2C659&ssl=1"
-        },
-        {
-          "id": "https://365community.online/will-it-break-non-business-dataverse-connector-ai-builder-with-a-dlp-policy-for-the-default-environment",
-          "author": "Olena Grischenko",
-          "description": "The case As a Power Platform admin I want to remediate the Default environment to deploy a DLP policy so I could get to the Power Platform maturity level 200 […]",
-          "link": "https://365community.online/will-it-break-non-business-dataverse-connector-ai-builder-with-a-dlp-policy-for-the-default-environment",
-          "publishedOn": "2024-02-09T07:02:44.000Z",
-          "wordCount": 3113,
-          "title": "Will It Break? Non-business Dataverse connector + AI Builder with a DLP policy for the Default environment",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Will-It-Break-Non-business-Dataverse-connector-AI-Builder-with.jpg?fit=1200%2C948&ssl=1"
-        },
-        {
-          "id": "https://365community.online/a-beginners-guide-to-creating-json-files-in-msdyn365bc",
-          "author": "Saurav Dhyani",
-          "description": "Hi Readers, In this article we will discuss about How to write a Json file in #msdyn365bc.  Demo Video –  Let me know your views in comment to this article. […]",
-          "link": "https://365community.online/a-beginners-guide-to-creating-json-files-in-msdyn365bc",
-          "publishedOn": "2024-02-09T04:30:00.000Z",
-          "wordCount": 2974,
-          "title": "A Beginner’s Guide to Creating JSON Files in #msdyn365bc.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/A-Beginners-Guide-to-Creating-JSON-Files-in-msdyn365bc.jpeg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-fabric-analytics-engineer-challenge",
-          "author": "Jen Kuntz",
-          "description": "If you happen to follow me on LinkedIn, you may have seen some of my posts recently about the \"Learn Together\" Microsoft Fabric live training series. As I watched each […]",
-          "link": "https://365community.online/microsoft-fabric-analytics-engineer-challenge",
-          "publishedOn": "2024-02-08T23:00:52.000Z",
-          "wordCount": 3075,
-          "title": "Microsoft Fabric Analytics Engineer challenge",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
-        },
-        {
-          "id": "https://365community.online/when-to-create-child-flows-in-power-automate",
-          "author": "Pieter Veenstra",
-          "description": "When you use solutions (and you always should use solutions!) there is the option to run Child flows. But when should you create a child flow? What is a Child […]",
-          "link": "https://365community.online/when-to-create-child-flows-in-power-automate",
-          "publishedOn": "2024-02-08T20:16:47.000Z",
-          "wordCount": 3022,
-          "title": "When to create child flows in Power Automate?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-create-a-center-aligned-responsive-gallery",
-          "author": "harditbhatia",
-          "description": "There are several ways in which a gallery can be made responsive. Learn how to build a center aligned responsive gallery! The post How to create a center aligned responsive […]",
-          "link": "https://365community.online/how-to-create-a-center-aligned-responsive-gallery",
-          "publishedOn": "2024-02-08T17:53:37.000Z",
-          "wordCount": 2999,
-          "title": "How to create a center aligned responsive gallery",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/How-to-create-a-center-aligned-responsive-gallery.png?fit=1200%2C741&ssl=1"
-        },
-        {
-          "id": "https://365community.online/2024-february-dc-chapter-meeting",
-          "author": "Kylie Kiser",
-          "description": "Great group of attendees at the 2024 February DC Chapter Meeting Let’s jump right into the content from the 2024 February DC Chapter Meeting! Optimizing Power Platform COE for Success […]",
-          "link": "https://365community.online/2024-february-dc-chapter-meeting",
-          "publishedOn": "2024-02-08T16:28:00.000Z",
-          "wordCount": 2991,
-          "title": "2024 February DC Chapter Meeting",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707414902_2024-February-DC-Chapter-Meeting.png?fit=1024%2C368&ssl=1"
         }
       ]
     },
@@ -83421,16 +83281,6 @@
           "wordCount": 3581,
           "title": "Microsoft Dynamics 365 Business Central and Microsoft 365: Connect data to the tools where work is done",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/MSFT_D365_FEB07_315819_Blog_Blogheader_240207_V02-social.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/08/manage-time-off-requests-with-human-resources-app-for-microsoft-teams/",
-          "author": "Ajit Chandran",
-          "description": "We are announcing the public preview of the Human Resources app for Dynamics 365 Human Resources on Finance and Operations environments.\nThe post Manage time off requests with Human Resources app for Microsoft Teams appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/08/manage-time-off-requests-with-human-resources-app-for-microsoft-teams/",
-          "publishedOn": "2024-02-08T19:03:36.000Z",
-          "wordCount": 2684,
-          "title": "Manage time off requests with Human Resources app for Microsoft Teams",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/CLO22_TechOffice_022-1024x794.jpg"
         }
       ]
     },
