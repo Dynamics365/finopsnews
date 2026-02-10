@@ -2,16 +2,252 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-09T02:34:06.281Z</updated>
+    <updated>2026-02-10T02:42:33.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Teams in D365: Productivity Hack or Headache?]]></title>
-        <id>https://365community.online/teams-in-d365-productivity-hack-or-headache</id>
-        <link href="https://365community.online/teams-in-d365-productivity-hack-or-headache"/>
-        <updated>2026-02-09T02:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered if integrating Teams into Dynamics 365 will actually make your agents’ lives easier—or just add more windows to click through? In this video, we’re putting the hype to the test. If you want to see what real collaboration on tickets looks like (and where Teams might just save your next SLA), you’re in […]]]></summary>
+        <title type="html"><![CDATA[Unlock Blazing SharePoint Sites With ONE Setting]]></title>
+        <id>https://365community.online/unlock-blazing-sharepoint-sites-with-one-setting</id>
+        <link href="https://365community.online/unlock-blazing-sharepoint-sites-with-one-setting"/>
+        <updated>2026-02-10T00:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Ever wonder why your SharePoint pages still crawl, even after you moved everything to the cloud? You already have files on your CDN, but users are still seeing slow load times. Today, we’re cutting through Microsoft’s documentation to show you the one setting pros use to unlock consistent speed—no magic, just smart configuration. Let’s build […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why ERP-Governed eCommerce Is Non-Negotiable for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=141441</id>
+        <link href="https://erpsoftwareblog.com/2026/02/why-erp-governed-ecommerce-is-non-negotiable-for-business-central/"/>
+        <updated>2026-02-09T23:16:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When eCommerce Is Built In, Everything Else Holds For years, eCommerce decisions were driven by speed and surface-level flexibility. Launch quickly. Add features fast. Integrate later. That approach worked — […]
+The post Why ERP-Governed eCommerce Is Non-Negotiable for Business Central appeared first on ERP Software Blog.
+Responsible AP Automation: Empowering Teams, Not Replacing Them
+1099 Continuous Compliance: How Year-Round Vendor Validation Simplifies Year-End 1099 Prep
+Top 5 Dynamics 365 Business Central and NAV Add-Ons that will Transform your Business Process]]></summary>
+        <author>
+            <name>Michael Kulik, Digital Vantage Point</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Trust Your M365 Resilience? Think Again]]></title>
+        <id>https://365community.online/do-you-trust-your-m365-resilience-think-again</id>
+        <link href="https://365community.online/do-you-trust-your-m365-resilience-think-again"/>
+        <updated>2026-02-09T20:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered what happens when just one M365 service goes down, but it drags the others with it? You’re not alone. Today we’re unpacking the tangled reality of M365 outages—and why your existing playbook might be missing the hidden dependencies that leave you scrambling. Think Exchange going dark is your only problem? Wait until SharePoint […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Examples of Power Automate with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=141249</id>
+        <link href="https://erpsoftwareblog.com/2026/02/power-automate-with-business-central-2/"/>
+        <updated>2026-02-09T19:42:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central users often need to react when something happens in the system or update records based on activity that occurs outside of it. Doing this manually usually means exporting […]
+The post Practical Examples of Power Automate with Business Central appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utility Business Platform in the Cloud]]></title>
+        <id>https://erpsoftwareblog.com/?p=141418</id>
+        <link href="https://erpsoftwareblog.com/2026/02/skybill-utility-billing-your-complete-utility-business-in-the-cloud/"/>
+        <updated>2026-02-09T19:21:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  In the evolving world of utility operations, billing is no longer just an isolated task — it’s a core part of a broader, integrated customer experience. SkyBill Utility Billing […]
+The post Utility Business Platform in the Cloud appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Maris Drone, SkyBill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renaming Sitemap Display Name in Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/renaming-sitemap-display-name-in-dataverse-dynamics-365</id>
+        <link href="https://365community.online/renaming-sitemap-display-name-in-dataverse-dynamics-365"/>
+        <updated>2026-02-09T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[While working with a model-driven app in Dataverse, we needed to change the display name of the sitemap. What made this interesting was that there is no option in the UI to rename the sitemap display name directly. After exploring the UI options and confirming that the sitemap display name cannot be updated there, the […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Development in the Age of AI]]></title>
+        <id>https://alexdmeyer.com/?p=3855</id>
+        <link href="https://alexdmeyer.com/2026/02/09/software-development-in-the-age-of-ai/"/>
+        <updated>2026-02-09T17:09:54.000Z</updated>
+        <summary type="html"><![CDATA[The world is changing rapidly in the age of AI, and its impacting all parts of our lives. I would argue no area has been more impacted than software development. Since this is an area I am extremely passionate about and have a fairly deep background in, I wanted to give my overview of where […]
+The post Software Development in the Age of AI appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Excel Planning Workflows Persist in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=141344</id>
+        <link href="https://erpsoftwareblog.com/2026/02/why-excel-planning-workflows-persist-in-business-central/"/>
+        <updated>2026-02-09T17:08:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Excel planning workflows keep resurfacing in finance teams because budgeting still needs room to think, adjust, and evolve as understanding improves. Finance leaders who have run enough planning cycles tend […]
+The post Why Excel Planning Workflows Persist in Business Central appeared first on ERP Software Blog.
+See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting
+10 Time Saving Business Central Keyboard Shortcuts You Need Today
+3 Finance Leaders Share Top Pick for Business Central Reporting]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing a Headless Ecommerce Architecture on Top of Business Central: When It Makes Sense (and When It Doesn’t)]]></title>
+        <id>https://erpsoftwareblog.com/?p=141372</id>
+        <link href="https://erpsoftwareblog.com/2026/02/choosing-a-headless-ecommerce-architecture-on-top-of-business-central/"/>
+        <updated>2026-02-09T16:55:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Headless ecommerce on top of Microsoft Dynamics 365 Business Central promises flexibility, omnichannel experiences, and better performance—but it’s not the right choice for every Dynamics 365 for ecommerce project. What […]
+The post Choosing a Headless Ecommerce Architecture on Top of Business Central: When It Makes Sense (and When It Doesn’t) appeared first on ERP Software Blog.
+B2B vs. B2C eCommerce: What's the difference and why does it matter?
+Experience-Driven Commerce: Deliver Personalized eCommerce
+Best practices of Microsoft Dynamics 365 Commerce]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a High-Performance Agentic Workforce in 30 Days]]></title>
+        <id>https://365community.online/how-to-build-a-high-performance-agentic-workforce-in-30-days</id>
+        <link href="https://365community.online/how-to-build-a-high-performance-agentic-workforce-in-30-days"/>
+        <updated>2026-02-09T16:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations believe deploying Copilot equals deploying an agentic workforce. That assumption quietly kills adoption by week two. In this episode, we break down why most AI agent rollouts fail, what actually defines a high-performance agentic workforce, and the 30-day operating model that produces measurable business outcomes instead of demo theater. This is not a […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central ERP Success After Customization Chaos]]></title>
+        <id>https://erpsoftwareblog.com/?p=141370</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-erp-success-after-customization-chaos/"/>
+        <updated>2026-02-09T16:36:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central ERP success often starts with a hard realization: too many customizations can slow a company down instead of helping it grow. That was the case for one organization […]
+The post Business Central ERP Success After Customization Chaos appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>The TM Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notifications for time entry – a new requirement]]></title>
+        <id>https://365community.online/notifications-for-time-entry-a-new-requirement</id>
+        <link href="https://365community.online/notifications-for-time-entry-a-new-requirement"/>
+        <updated>2026-02-09T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how I added the ability to notify users when they start a time entry so they don’t forget to stop it! A fun injection of JavaScript! The post Notifications for time entry – a new requirement appeared first on Hardit Bhatia: The Power Addict. Original Post https://thepoweraddict.com/notifications-for-time-entry-a-new-requirement/?utm_source=rss&utm_medium=rss&utm_campaign=notifications-for-time-entry-a-new-requirement]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From inbound to inventory: Solving supply chain issues in Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=141306</id>
+        <link href="https://erpsoftwareblog.com/2026/02/from-inbound-to-inventory-solving-supply-chain-issues-in-dynamics-365-business-central/"/>
+        <updated>2026-02-09T15:15:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Supply chain complexity has become one of the biggest operational challenges for distributors, manufacturers, and importers. Delayed shipments, unclear landed costs, and limited visibility into inventory in transit can quickly […]
+The post From inbound to inventory: Solving supply chain issues in Dynamics 365 Business Central appeared first on ERP Software Blog.
+Riding the Wave of Supply Chain Volatility: How Business Central Users Can Plan Smarter, Not Harder
+Solving Supply Chain Management Problems with Business Central
+Additional Apps/Modules that accelerate the benefits of Business Central]]></summary>
+        <author>
+            <name>Rand Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Essential WordPress Plugins for 2026 (Data-Backed Picks)]]></title>
+        <id>https://365community.online/12-essential-wordpress-plugins-for-2026-data-backed-picks</id>
+        <link href="https://365community.online/12-essential-wordpress-plugins-for-2026-data-backed-picks"/>
+        <updated>2026-02-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are thousands of WordPress plugins out there. But to get started, you really only need a handful.  We pulled real usage data from WordPress.com sites to see which plugins people rely on, and we selected the ones that address core website needs. Then, I personally tested each plugin and looked at user reviews. This […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Blind External Sharing—Catch It Before Disaster]]></title>
+        <id>https://365community.online/stop-blind-external-sharing-catch-it-before-disaster</id>
+        <link href="https://365community.online/stop-blind-external-sharing-catch-it-before-disaster"/>
+        <updated>2026-02-09T13:10:43.000Z</updated>
+        <summary type="html"><![CDATA[You’ve spent months building a secure M365 environment, but one click can open the door to your entire document library. Frustrated by blind spots in SharePoint and OneDrive sharing?We’ll walk through a practical framework—policies, scripts, alerts—that lets you finally see and control what’s leaving your tenant, even at massive scale.Why Your Audit Settings Might Be […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licenses vs. Permissions: Why a Business Central License is Just the Starting Point]]></title>
+        <id>https://erpsoftwareblog.com/?p=141341</id>
+        <link href="https://erpsoftwareblog.com/2026/02/licenses-vs-permissions-why-a-business-central-license-is-just-the-starting-point/"/>
+        <updated>2026-02-09T13:08:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A common misconception among Microsoft Dynamics 365 Business Central users (and even some administrators) is that assigning a license is the final step in granting a user access. In reality, […]
+The post Licenses vs. Permissions: Why a Business Central License is Just the Starting Point appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Canadian Payroll for Dynamics NAV and 365 Business Central]]></summary>
+        <author>
+            <name>2-Controlware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 1 – Cat Schneider]]></title>
+        <id>https://365community.online/episode-1-cat-schneider</id>
+        <link href="https://365community.online/episode-1-cat-schneider"/>
+        <updated>2026-02-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this launch episode of 365 a11y the podcast, Mike Hartley is joined by Cat Schneider for some chat, some laughs, and more than a few insights. Exploring topics like the power of community, the impact of inclusive design in gaming and media, the positive and negative impacts of AI on accessibility, the future of […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Interview Question]]></title>
+        <id>https://365community.online/5-interview-question</id>
+        <link href="https://365community.online/5-interview-question"/>
+        <updated>2026-02-09T12:59:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is a continuation of my 5 Interview Questions series. Here, I’m sharing five additional interview questions to help you prepare better. Question 1: Can Business Rules run on Quick Create forms? Answer : Yes. Quick create forms have full support for form scripts and business rules (with the usual limitation that rules act […]]]></summary>
+        <author>
+            <name>Swati Goel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Companies Underestimate in Their First Business Central Migration]]></title>
+        <id>https://erpsoftwareblog.com/?p=141334</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-migration-pitfalls/"/>
+        <updated>2026-02-09T10:27:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A first-time migration to Business Central is often framed as a technology upgrade. In planning meetings, it’s discussed in terms of modules, data transfer, integrations, and go-live timelines. But once […]
+The post What Companies Underestimate in Their First Business Central Migration appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Map Connecting Users and Files in M365]]></title>
+        <id>https://365community.online/the-hidden-map-connecting-users-and-files-in-m365</id>
+        <link href="https://365community.online/the-hidden-map-connecting-users-and-files-in-m365"/>
+        <updated>2026-02-09T09:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered who’s really collaborating on your most sensitive files in Microsoft 365? Most admins see only fragments, but with Graph Explorer, you can trace every connection—from group memberships to the content users actually touch—across services like Teams, SharePoint, and OneDrive. Today, I’ll show you exactly how to map those hidden digital relationships. […]]]></summary>
         <author>
             <name>Mirko Peters</name>
         </author>
@@ -44,6 +280,21 @@
         <summary type="html"><![CDATA[Most Power Platform dashboards fall apart as soon as user roles get complex. What if I told you that a handful of overlooked integration points between Azure AD, Power BI, and Power Apps could transform a generic report into a tailored executive control center? Stick around to see why skipping a single step here could […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP best practices for growing distribution companies]]></title>
+        <id>https://erpsoftwareblog.com/?p=141355</id>
+        <link href="https://erpsoftwareblog.com/2026/02/erp-best-practices-for-growing-distribution-companies/"/>
+        <updated>2026-02-08T19:00:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Distribution companies operate in an increasingly complex environment. Margin pressure continues to rise, customer expectations are higher than ever, and supply chains are becoming more global and volatile. At the […]
+The post ERP best practices for growing distribution companies appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Rand Group</name>
         </author>
     </entry>
     <entry>
@@ -384,6 +635,17 @@ How to Choose a Mobile Computer to use with Business Central]]></summary>
         <summary type="html"><![CDATA[Did you know that GitHub Copilot allows custom agents to transfer work to each other declaratively? In ALDC (AL Development Collection), we use this capability to create workflows where each agent knows exactly when and to whom to pass the baton. The Power of Declarative Handoffs In each agent’s YAML frontmatter, we define explicit handoffs. […]]]></summary>
         <author>
             <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally available: host and run code apps in Power Apps]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=133211</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/generally-available-host-and-run-code-apps-in-power-apps/"/>
+        <updated>2026-02-05T17:05:03.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce that code apps in Power Apps are now generally available, empowering developers and IT alike at a moment when organizations are building more custom applications than ever.
+The post Generally available: host and run code apps in Power Apps appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Jordan Chodak</name>
         </author>
     </entry>
     <entry>
@@ -2034,6 +2296,21 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         <summary type="html"><![CDATA[Ever clicked ‘Consent’ in Azure and thought, ‘Wait, what exactly am I allowing?’ If you’ve struggled to figure out why your app demands admin approval—or why some permissions just seem to work and others don’t—you’re in the right spot. Today, we’re cracking open what’s *really* happening when Microsoft Graph asks for permissions and why the […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CTI Migrated from Microsoft Dynamics GP to Business Central to Unify Distribution, ERP, and CRM on the Microsoft Stack]]></title>
+        <id>https://erpsoftwareblog.com/?p=140486</id>
+        <link href="https://erpsoftwareblog.com/2026/01/how-cti-migrated-from-microsoft-dynamics-gp-to-business-central-to-unify-distribution-erp-and-crm-on-the-microsoft-stack/"/>
+        <updated>2026-01-28T19:00:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+TL;DR  As CTI rapidly scaled its nationwide audio-visual distribution and integration business, its legacy Dynamics GP environment could no longer support multi-branch inventory management, warehouse scanning, and real-time integration with […]
+The post How CTI Migrated from Microsoft Dynamics GP to Business Central to Unify Distribution, ERP, and CRM on the Microsoft Stack appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
         </author>
     </entry>
     <entry>
@@ -108108,37 +108385,6 @@ The post Generating Job Descriptions Using AI in Dynamics 365 HR appeared first 
         <summary type="html"><![CDATA[During the last few months, I’ve been working more than ever (well, most after my little stroke issue three years ago), and more work apparently creates more needs, more features, […]]]></summary>
         <author>
             <name>Jonas Rapp ᴹᴠᴾ ??</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 CE Release wave 1 2024]]></title>
-        <id>https://365community.online/dynamics-365-ce-release-wave-1-2024</id>
-        <link href="https://365community.online/dynamics-365-ce-release-wave-1-2024"/>
-        <updated>2024-02-11T14:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com It’s here, the release wave 1 2024 was announced. Every year Microsoft delights us twice with the wave of releases so here I come to share my […]]]></summary>
-        <author>
-            <name>Wilmer Alcivar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Automate – Send email from SharePoint Rest Api]]></title>
-        <id>https://365community.online/power-automate-send-email-from-sharepoint-rest-api</id>
-        <link href="https://365community.online/power-automate-send-email-from-sharepoint-rest-api"/>
-        <updated>2024-02-11T11:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Hello, today I want to share with you a method to send emails with Power Automate by using a REST API available in SharePoint. There is a method called “sendMail” […]]]></summary>
-        <author>
-            <name>Angelo Gulisano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the purpose of the two new XDS security roles?]]></title>
-        <id>https://dynamicspedia.com/?p=19000</id>
-        <link href="https://dynamicspedia.com/2024/02/what-is-the-purpose-of-the-two-new-xds-security-roles/"/>
-        <updated>2024-02-11T11:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I discovered two new security roles in the application that seem to have a relation with eXtensible Data Security (XDS). Anything related to security and for that reason also XDS intrigues me. In this post, you will read about the two new security roles and how they can be useful, or not… XDS roles […]
-The post What is the purpose of the two new XDS security roles? appeared first on Dynamicspedia.]]></summary>
-        <author>
-            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
