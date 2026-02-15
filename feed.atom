@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-14T02:24:25.700Z</updated>
+    <updated>2026-02-15T02:36:54.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Your AI Strategy is Scaling Architectural Entropy]]></title>
+        <id>https://365community.online/why-your-ai-strategy-is-scaling-architectural-entropy</id>
+        <link href="https://365community.online/why-your-ai-strategy-is-scaling-architectural-entropy"/>
+        <updated>2026-02-15T00:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Most enterprises think they’re rolling out Copilot. They’re not. They’re shifting—from deterministic SaaS systems you can diagram and audit, to probabilistic agent runtimes where behavior emerges at execution time and quietly drifts. And without realizing it, they’re deploying a distributed decision engine into an operating model that was never designed to control decisions made by […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Distribution Reporting Outgrows Spreadsheets and Decisions Slow Down]]></title>
+        <id>https://erpsoftwareblog.com/?p=140779</id>
+        <link href="https://erpsoftwareblog.com/2026/02/when-distribution-reporting-outgrows-spreadsheets-and-decisions-slow-down/"/>
+        <updated>2026-02-14T17:00:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+TL;DR  Many distributors rely on spreadsheets to bridge gaps between ERP, CRM, warehouse systems, and reporting. While this works at smaller scale, spreadsheets become a liability as distribution complexity grows. […]
+The post When Distribution Reporting Outgrows Spreadsheets and Decisions Slow Down appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a Snowflake-Managed MCP Server with Copilot Studio – YouTube]]></title>
+        <id>https://365community.online/using-a-snowflake-managed-mcp-server-with-copilot-studio-youtube</id>
+        <link href="https://365community.online/using-a-snowflake-managed-mcp-server-with-copilot-studio-youtube"/>
+        <updated>2026-02-14T15:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Using a Snowflake-Managed MCP Server with Copilot Studio]]></summary>
+        <author>
+            <name>Rafsan Huseynov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated checklist for the DP-600 Microsoft Fabric exam]]></title>
+        <id>https://365community.online/updated-checklist-for-the-dp-600-microsoft-fabric-exam</id>
+        <link href="https://365community.online/updated-checklist-for-the-dp-600-microsoft-fabric-exam"/>
+        <updated>2026-02-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is an updated checklist for the DP-600 Microsoft Fabric exam. Which is the exam you need to pass to gain the Fabric Analytics Engineer Associate certification. Some time ago I created a checklist for the DP-600 exam. Since then the skills measured for the exam has changed considerably. To show a bit of […]]]></summary>
+        <author>
+            <name>Kevin Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Granular Tracking Controls in Customer Insights – Journeys: A Privacy-First Must for Regulated Organizations]]></title>
+        <id>https://365community.online/granular-tracking-controls-in-customer-insights-journeys-a-privacy-first-must-for-regulated-organizations</id>
+        <link href="https://365community.online/granular-tracking-controls-in-customer-insights-journeys-a-privacy-first-must-for-regulated-organizations"/>
+        <updated>2026-02-14T10:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations operating under strict privacy, consent, and compliance frameworks—especially in regulated industries like finance, insurance, and healthcare—often need to treat different tracking mechanisms differently. That’s where a growing limitation in Customer Insights – Journeys becomes clear: today, tracking is largely governed by a single global toggle that controls multiple behaviors at once. The challenge with […]]]></summary>
+        <author>
+            <name>Gustaf Westerlund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why is Dynamics 365 Finance & Operations slow after go-live?]]></title>
         <id>https://erpsoftwareblog.com/?p=141966</id>
@@ -52,6 +107,16 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How we built an AI Agent to qualify leads in Business Central]]></title>
+        <id>https://365community.online/how-we-built-an-ai-agent-to-qualify-leads-in-business-central</id>
+        <link href="https://365community.online/how-we-built-an-ai-agent-to-qualify-leads-in-business-central"/>
+        <updated>2026-02-13T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The problem: qualifying leads at scale Automate lead qualification with an intelligent agent that evaluates, scores and transfers opportunities to the next step of the sales pipeline , all inside Microsoft Dynamics 365 Business Central. In any B2B sales team, lead qualification becomes a bottleneck. A salesperson receives dozens of leads daily and needs to […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What Copilot-Ready Data Looks Like for Distribution Teams Using Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=140846</id>
         <link href="https://erpsoftwareblog.com/2026/02/what-copilot-ready-data-looks-like-for-distribution-teams-using-business-central/"/>
@@ -67,6 +132,16 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Build WordPress Sites with AI: New Plugin and Skills for Claude Cowork]]></title>
+        <id>https://365community.online/build-wordpress-sites-with-ai-new-plugin-and-skills-for-claude-cowork</id>
+        <link href="https://365community.online/build-wordpress-sites-with-ai-new-plugin-and-skills-for-claude-cowork"/>
+        <updated>2026-02-13T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[AI is reshaping how people create websites.  Today, we’re releasing new Skills and a Claude Cowork plugin designed for vibe coders and anyone who wants to create WordPress themes, generate sites, and experiment with AI-assisted development. You’ll find that you don’t need to be technical at all. These tools are in rapid development and changing […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Unify Microsoft Dynamics CRM and ERP Reporting (Without Custom Code)]]></title>
         <id>https://erpsoftwareblog.com/?p=140374</id>
         <link href="https://erpsoftwareblog.com/2026/02/how-to-unify-microsoft-dynamics-crm-and-erp-reporting-without-custom-code/"/>
@@ -79,6 +154,36 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
         <author>
             <name>Anthony Bonaduce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Q&A on Auto Scheduling for Field Teams]]></title>
+        <id>https://365community.online/a-practical-qa-on-auto-scheduling-for-field-teams</id>
+        <link href="https://365community.online/a-practical-qa-on-auto-scheduling-for-field-teams"/>
+        <updated>2026-02-13T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi there! I’m Mappy, your Maplytics Mascot, and a friendly guide to smarter field operations. I spend a lot of time meeting business owners, sales heads, and operations managers who come to us with one thing in common- ‘concern for their businesses’. It is not usually about technology or the features of Maplytics. But about […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: BCMCPProxy vNext]]></title>
+        <id>https://365community.online/dynamics-365-business-central-bcmcpproxy-vnext</id>
+        <link href="https://365community.online/dynamics-365-business-central-bcmcpproxy-vnext"/>
+        <updated>2026-02-13T11:52:00.000Z</updated>
+        <summary type="html"><![CDATA[After launching the support of the Model Context Protocol (MCP) in Dynamics 365 Business Central, Microsoft also released an open project called BcMCPProxy on GitHub. BcMCPProxy is an (unsupported) .NET project that provides a server proxy that bridges MCP clients with Microsoft Dynamics 365 Business Central’s API. It handles authentication, request forwarding, and protocol translation […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprise architecture for Power Platform management]]></title>
+        <id>https://365community.online/enterprise-architecture-for-power-platform-management</id>
+        <link href="https://365community.online/enterprise-architecture-for-power-platform-management"/>
+        <updated>2026-02-13T11:25:18.000Z</updated>
+        <summary type="html"><![CDATA[You’ve set up your Power Platform environments and lined up your ALM pipelines, but does it ever feel like making a change in one place breaks something else? Today, I’m unpacking the invisible feedback loops between multi-environment architecture and ALM strategies that can either make your deployment unstoppable—or quietly set up a domino effect of […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -124,6 +229,16 @@ Responsible AP Automation: Empowering Teams, Not Replacing Them
 Embedded AP Solutions vs Integrated: What’s Right for Your Team?]]></summary>
         <author>
             <name>Bluefort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe coding an XrmToolBox Tool part 5 – From the ashes, comes a new tool]]></title>
+        <id>https://365community.online/vibe-coding-an-xrmtoolbox-tool-part-5-from-the-ashes-comes-a-new-tool</id>
+        <link href="https://365community.online/vibe-coding-an-xrmtoolbox-tool-part-5-from-the-ashes-comes-a-new-tool"/>
+        <updated>2026-02-13T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In my last post, I talked about how not knowing something could lead to disaster and for me it did. For the most part, this experiment started as a way to teach me more and see if something like this was possible. But I’m not a proper developer, I don’t want to waste someone’s time […]]]></summary>
+        <author>
+            <name>Matt Collins</name>
         </author>
     </entry>
     <entry>
@@ -797,6 +912,16 @@ Dynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations]]><
         <summary type="html"><![CDATA[Ever wonder why your SharePoint pages still crawl, even after you moved everything to the cloud? You already have files on your CDN, but users are still seeing slow load times. Today, we’re cutting through Microsoft’s documentation to show you the one setting pros use to unlock consistent speed—no magic, just smart configuration. Let’s build […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross references in Dynamics 365 ERP (Finance and Operations) that are somewhat easier to work with]]></title>
+        <id>http://kashperuk.blogspot.com/2026/02/cross-references-in-dynamics-365-erp.html</id>
+        <link href="http://kashperuk.blogspot.com/2026/02/cross-references-in-dynamics-365-erp.html"/>
+        <updated>2026-02-10T00:02:00.005Z</updated>
+        <summary type="html"><![CDATA[Ever since the migration to Visual Studio as the primary IDE for AX, one of the complaints from developers has been how cumbersome it has become using the cross references, as it was using the default cross references viewer from Visual Studio.&nbsp;Engineers looked for ways to make life at least a bit easier by building all sorts of weird extensions and tools. One such tool I have shared in 2016]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -108293,286 +108418,6 @@ Evolving Role of ERP in Remote Work Environments]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/"/>
-        <updated>2024-02-16T14:18:58.000Z</updated>
-        <summary type="html"><![CDATA[The unveiling of the D365 Warehouse Mobile App's latest iteration, version 2.1.23, marks a notable advancement in warehouse management technology. It introduces a range of upgraded features aimed at enriching user interaction and optimizing processes. Notably, this update prioritizes authentication, stability, and user-friendliness, addressing the intricate challenges faced by businesses aiming to refine their warehouse management.
-The post Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Michael Fruergaard Pontoppidan and Denis Conway</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Pascalcase Data Mask App for masking data for Dynamics 365 and Power Platform Environments]]></title>
-        <id>https://365community.online/exploring-pascalcase-data-mask-app-for-masking-data-for-dynamics-365-and-power-platform-environments</id>
-        <link href="https://365community.online/exploring-pascalcase-data-mask-app-for-masking-data-for-dynamics-365-and-power-platform-environments"/>
-        <updated>2024-02-16T13:11:06.000Z</updated>
-        <summary type="html"><![CDATA[You have probably used the copy environment feature in the Microsoft Power Platform admin centre to copy data and customizations between environments. However, there is a crucial aspect to consider […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnichannel for Customer Service – Phone Number Formats]]></title>
-        <id>https://365community.online/omnichannel-for-customer-service-phone-number-formats</id>
-        <link href="https://365community.online/omnichannel-for-customer-service-phone-number-formats"/>
-        <updated>2024-02-16T12:30:17.000Z</updated>
-        <summary type="html"><![CDATA[When using Microsoft’s Omnichannel for Customer Service you may need to ensure phone numbers held on your accounts and contacts are in a specific format. In this post I will […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #131 – 16th February 2024 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-131-16th-february-2024-youtube</id>
-        <link href="https://365community.online/weekly-update-131-16th-february-2024-youtube"/>
-        <updated>2024-02-16T12:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #131 – 16th February 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React JS Training | React JS Tutorial For Beginners | React.js Certification Course | MindMajix – YouTube]]></title>
-        <id>https://365community.online/react-js-training-react-js-tutorial-for-beginners-react-js-certification-course-mindmajix-youtube</id>
-        <link href="https://365community.online/react-js-training-react-js-tutorial-for-beginners-react-js-certification-course-mindmajix-youtube"/>
-        <updated>2024-02-16T12:00:10.000Z</updated>
-        <summary type="html"><![CDATA[This MindMajix’s YouTube video on React JS training will equip the learners with the expertise to build customized user interfaces and web applications efficiently with less code. This React.JS course […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get worker current company using x++]]></title>
-        <id>https://kishoredynamics11.blogspot.com/2024/02/get-worker-current-company-using-x.html</id>
-        <link href="https://kishoredynamics11.blogspot.com/2024/02/get-worker-current-company-using-x.html"/>
-        <updated>2024-02-16T10:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Get worker current company using x++.
-
-
-
-
-
-
-    HcmWorker               hcmWorker;
-    HcmEmployment           hcmEmployment;
-    utcdatetime             now = DateTimeUtil::utcNow();
-    CompanyInfo             companyInfo; 
-    select ValidTimeState(now) hcmEmployment
-        join hcmWorker
-            where hcmWorker.RecId == hcmEmployment.Worker
-            && hcmWorker.PersonnelNumber == ''
-        join companyInfo where companyInfo.RecId == hcmEmployment.LegalEntity;
-
-
-
-Keep Daxing!!]]></summary>
-        <author>
-            <name>Dynamics World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Location-Driven Referral Marketing Strategies for Microsoft Dynamics 365 CRM Users]]></title>
-        <id>https://365community.online/location-driven-referral-marketing-strategies-for-microsoft-dynamics-365-crm-users</id>
-        <link href="https://365community.online/location-driven-referral-marketing-strategies-for-microsoft-dynamics-365-crm-users"/>
-        <updated>2024-02-16T09:29:36.000Z</updated>
-        <summary type="html"><![CDATA[The post Location-Driven Referral Marketing Strategies for Microsoft Dynamics 365 CRM Users appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MB-260: Determine whether to use the managed data lake or an organization’s data lake]]></title>
-        <id>https://365community.online/mb-260-determine-whether-to-use-the-managed-data-lake-or-an-organizations-data-lake</id>
-        <link href="https://365community.online/mb-260-determine-whether-to-use-the-managed-data-lake-or-an-organizations-data-lake"/>
-        <updated>2024-02-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you first set up Customer Insights – Data you have to select if you want to use the managed data lake or the your own organization’s data lake. Create […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid document number errors when you post item journals.]]></title>
-        <id>https://365community.online/avoid-document-number-errors-when-you-post-item-journals</id>
-        <link href="https://365community.online/avoid-document-number-errors-when-you-post-item-journals"/>
-        <updated>2024-02-16T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, In this article we will discuss how to avoid document No. error while posting item journal.  Demo Video :  Let me know your views in comment to this […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you have multiple developers working on 1 flow in Power Automate?]]></title>
-        <id>https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate-2</id>
-        <link href="https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate-2"/>
-        <updated>2024-02-15T19:06:32.000Z</updated>
-        <summary type="html"><![CDATA[This post is all about some issues that I ran into yesterday. Multiple developers worked on one flow in Power Automate and my app in Power Apps broke. When apps […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Sales: Enhanced overview for tracking features & settings]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/"/>
-        <updated>2024-02-15T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-growing world of Microsoft Dynamics 365 Sales, there is always a host of capabilities that could be enabled to support sellers, complemented by monthly releases packed with innovations.
-The post Dynamics 365 Sales: Enhanced overview for tracking features & settings  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Aditya Naik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/"/>
-        <updated>2024-02-15T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To thrive in today’s highly complex global business environment, organizations are increasingly relying upon the technological and strategic prowess of their financial leaders. We’re continually investing in Microsoft Dynamics 365 to enable finance leaders to monitor financial operations in real time, predict outcomes, and drive strategic decision-making that hinges on insight.
-The post Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Andrea Ton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central Works for Your Specific Business Needs]]></title>
-        <id>https://erpsoftwareblog.com/?p=103023</id>
-        <link href="https://erpsoftwareblog.com/2024/02/microsoft-dynamics-365-business-central-works-for-your-specific-business-needs/"/>
-        <updated>2024-02-15T17:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central is a comprehensive cloud-based enterprise resource planning (ERP) solution that offers a flexible platform that can be adapted to suit the specific needs of various industries.
-The post Microsoft Dynamics 365 Business Central Works for Your Specific Business Needs appeared first on ERP Software Blog.
-Get More in the Cloud with Dynamics 365 Business Central
-Moving on Up:  Transitioning from Quickbooks to Microsoft Dynamics GP
-How Can Microsoft Dynamics GP and Office 365 Enable Better Systems For Growth in 2018?]]></summary>
-        <author>
-            <name>CAL Business Solutions, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Power Up program unveils new curriculum, workshops and simplified Dev environment]]></title>
-        <id>microsoft-power-up-program-unveils-new-curriculum-workshops-and-simplified-dev-environment</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/microsoft-power-up-program-unveils-new-curriculum-workshops-and-simplified-dev-environment/"/>
-        <updated>2024-02-15T17:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Power Up program unveils new curriculum, workshops and simplified Dev environment.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Businesses Achieved 153% ROI with Avalara for Managing Tax Compliance According to New Total Economic Impact Study]]></title>
-        <id>https://erpsoftwareblog.com/?p=104201</id>
-        <link href="https://erpsoftwareblog.com/2024/02/businesses-achieved-153-roi-avalara-managing-tax-compliance-according-new-total-economic-impact-study/"/>
-        <updated>2024-02-15T17:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Newly published study shows how much time and money businesses saved with Avalara including achieving significant ROI with a less than 6-month payback period, all while decreasing tax liabilities and […]
-The post Businesses Achieved 153% ROI with Avalara for Managing Tax Compliance According to New Total Economic Impact Study appeared first on ERP Software Blog.
-Everything is Taxable until Proven Otherwise
-Gaining the Competitive Edge in eCommerce, Part 1: Reducing Operational Costs
-IDC MarketScape names Avalara a Leader in automated tax solutions]]></summary>
-        <author>
-            <name>Avalara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Power Virtual Agents foi removido? #ia #pva #powervirtualagents #copilot – YouTube]]></title>
-        <id>https://365community.online/o-power-virtual-agents-foi-removido-ia-pva-powervirtualagents-copilot-youtube</id>
-        <link href="https://365community.online/o-power-virtual-agents-foi-removido-ia-pva-powervirtualagents-copilot-youtube"/>
-        <updated>2024-02-15T15:20:17.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4, 5 or 7 syntaxes for the Patch function in Power Apps]]></title>
-        <id>https://365community.online/4-5-or-7-syntaxes-for-the-patch-function-in-power-apps</id>
-        <link href="https://365community.online/4-5-or-7-syntaxes-for-the-patch-function-in-power-apps"/>
-        <updated>2024-02-15T14:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that there are 5 different syntaxes for the patch function? Or are there 7, or maybe just 4. In this post all about the various syntaxes for […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s in a Name? [A to Z a11y]]]></title>
-        <id>https://365community.online/whats-in-a-name-a-to-z-a11y</id>
-        <link href="https://365community.online/whats-in-a-name-a-to-z-a11y"/>
-        <updated>2024-02-15T13:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Here we are in N – “what’s in a Name?”, part of the A to Z of Accessibility: Power Platform Edition. In this post we’ll be looking at the importance […]]]></summary>
-        <author>
-            <name>Mike Hartley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 eCommerce : Let’s talk about WEBP]]></title>
-        <id>https://365community.online/d365-ecommerce-lets-talk-about-webp</id>
-        <link href="https://365community.online/d365-ecommerce-lets-talk-about-webp"/>
-        <updated>2024-02-15T10:46:51.000Z</updated>
-        <summary type="html"><![CDATA[In the architectural overview of Dynamics 365 eCommerce we can see that there are a few central components dealing with digital assets like images, videos and documents. A central component […]]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process AI Builder data using xpath in Power Automate]]></title>
-        <id>https://365community.online/process-ai-builder-data-using-xpath-in-power-automate-2</id>
-        <link href="https://365community.online/process-ai-builder-data-using-xpath-in-power-automate-2"/>
-        <updated>2024-02-15T10:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Today I was asked to have a look at the dynamic data that is generated by AI builder and make it easier to process AI Builder data. AI Builder data […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central and Power Automate connector: deprecation of  V2 triggers and actions]]></title>
-        <id>https://365community.online/dynamics-365-business-central-and-power-automate-connector-deprecation-of-v2-triggers-and-actions</id>
-        <link href="https://365community.online/dynamics-365-business-central-and-power-automate-connector-deprecation-of-v2-triggers-and-actions"/>
-        <updated>2024-02-15T08:17:34.000Z</updated>
-        <summary type="html"><![CDATA[If you have created in the past workflows with Power Automate using the Dynamics 365 Business Central connector, probably you have used some of the connector’s actions marked as V2: […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live de Aquecimento – GPPB 2024 – YouTube]]></title>
-        <id>https://365community.online/live-de-aquecimento-gppb-2024-youtube</id>
-        <link href="https://365community.online/live-de-aquecimento-gppb-2024-youtube"/>
-        <updated>2024-02-15T06:24:49.000Z</updated>
-        <summary type="html"><![CDATA[🔥 Vem aí a live de aquecimento para o Global Power Platform Bootcamp! 🔥 Junte-se a nós para uma prévia emocionante do que está por vir no evento mais aguardado […]]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Filter Query in List Rows Present in a Table Action in Power Automate]]></title>
-        <id>https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-3</id>
-        <link href="https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-3"/>
-        <updated>2024-02-15T06:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Filter queries are important when you work with SharePoint Get Items actions or Dataverse Get Rows, but how about the Excel Filter Query setting? Get rows present in a Table […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Enums and EnumExtension in #msdyn365bc.]]></title>
-        <id>https://365community.online/mastering-enums-and-enumextension-in-msdyn365bc</id>
-        <link href="https://365community.online/mastering-enums-and-enumextension-in-msdyn365bc"/>
-        <updated>2024-02-15T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, In this article we will discuss about Enums and Enum extension in #msdyn365bc.  This video explains all with respect to new data types in AL Language.  Demo Video: […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check permissions like a Pro Low Coder]]></title>
-        <id>https://365community.online/check-permissions-like-a-pro-low-coder</id>
-        <link href="https://365community.online/check-permissions-like-a-pro-low-coder"/>
-        <updated>2024-02-14T21:18:57.000Z</updated>
-        <summary type="html"><![CDATA[When you develop an app using Dataverse, you might have a button to update data in Dataverse. How do you check permissions before Power Apps tells you that the Patch […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Top 10 Learning of Copilot for Dynamics 365 Finance & Supply Chain Management]]></title>
         <id>https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management</id>
         <link href="https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management"/>
@@ -108593,16 +108438,6 @@ Dynamics 365 FO platform compatible version
 Dynamics 365 FO Feature management (User…]]></summary>
         <author>
             <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help! My Dataverse flow does not trigger anymore!]]></title>
-        <id>https://365community.online/help-my-dataverse-flow-does-not-trigger-anymore-2</id>
-        <link href="https://365community.online/help-my-dataverse-flow-does-not-trigger-anymore-2"/>
-        <updated>2024-02-14T17:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Today suddenly my flow does not trigger anymore. My flow should trigger when a new account is created but suddenly it doesn’t trigger my flow anymore. First steps to debug […]]]></summary>
-        <author>
-            <name>Pieter Veenstra</name>
         </author>
     </entry>
     <entry>
