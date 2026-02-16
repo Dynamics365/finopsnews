@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-15T02:36:54.087Z</updated>
+    <updated>2026-02-16T02:32:48.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Lovable AI Helped Create the Docentric e-Invoice Validator Frontend]]></title>
+        <id>https://ax.docentric.com/?p=33552</id>
+        <link href="https://ax.docentric.com/lovable-ai-e-invoice-validator-ui/"/>
+        <updated>2026-02-15T18:01:30.000Z</updated>
+        <summary type="html"><![CDATA[When we built Docentric e-Invoice Validator we wanted a web UI that made using it easy. Even though we're full-stack developers, we used AI to speed up the UI development. This is why we used Lovable AI. Lovable is an AI assistant that generates user […]
+The post How Lovable AI Helped Create the Docentric e-Invoice Validator Frontend appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying the Docentric e-Invoice Validator to IIS or Azure Container Apps]]></title>
+        <id>https://ax.docentric.com/?p=33545</id>
+        <link href="https://ax.docentric.com/deploy-docentric-e-invoice-validator-iis-azure/"/>
+        <updated>2026-02-15T17:55:20.000Z</updated>
+        <summary type="html"><![CDATA[As you saw in a previous article, Docker is the fastest way to get started with the Docentric e-Invoice Validator. But Docker isn’t the only option. Depending on your environment and deployment preferences, you can also run the validator: Locally using IIS In Azure using […]
+The post Deploying the Docentric e-Invoice Validator to IIS or Azure Container Apps appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Mustang Project Powers the Docentric e-Invoice Validator]]></title>
+        <id>https://ax.docentric.com/?p=33543</id>
+        <link href="https://ax.docentric.com/docentric-e-invoice-validator-mustang-project/"/>
+        <updated>2026-02-15T17:37:47.000Z</updated>
+        <summary type="html"><![CDATA[When you validate an e-invoice with the Docentric e-Invoice Validator, you’re not validating it “by hand” or using custom validation rules written from scratch. Validation is performed by the Mustang Project. This article explains what Mustang Project is, why we chose it, and how it […]
+The post How the Mustang Project Powers the Docentric e-Invoice Validator appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run the Docentric e-Invoice Validator with Docker]]></title>
+        <id>https://ax.docentric.com/?p=33531</id>
+        <link href="https://ax.docentric.com/run-docentric-e-invoice-validator-docker/"/>
+        <updated>2026-02-15T17:29:27.000Z</updated>
+        <summary type="html"><![CDATA[If you just want to validate e-invoices and don’t want to install or configure anything locally, Docker is the fastest way to get started. In the previous article, Docentric e-Invoice Validator, you saw what the validator is and how it’s used. This article focuses on […]
+The post How to Run the Docentric e-Invoice Validator with Docker appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validating ZuGFeRD and Factur-X Invoices with the Docentric e-Invoice Validator]]></title>
+        <id>https://ax.docentric.com/?p=33527</id>
+        <link href="https://ax.docentric.com/validating-zugferd-factur-x-invoices-docentric-e-invoice-validator/"/>
+        <updated>2026-02-15T17:28:51.000Z</updated>
+        <summary type="html"><![CDATA[If you generate e-invoices, you know how strict the ZuGFeRD and Factur-X standards can be. Even small issues can lead to failed validations, rejected invoices, or follow-up work you didn’t plan for. The Docentric e-Invoice Validator helps you catch issues early. You upload an e-invoice, […]
+The post Validating ZuGFeRD and Factur-X Invoices with the Docentric e-Invoice Validator appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposal for a shorter EndToEndId  in pain.001, or a 3-letter hash for RecId]]></title>
+        <id>https://erconsult.eu/?p=10336</id>
+        <link href="https://erconsult.eu/blog/proposal-for-a-shorter-endtoendid-pain-001-3-letter-hash-for-recid/"/>
+        <updated>2026-02-15T09:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Finance builds the ISO 20022 EndToEndId from voucher, RecId, and attempt counter. Because RecId adds little entropy and can exceed length limits (e.g., India’s 16-character rule), it can be removed or replaced with a deterministic 3-letter base-26 hash derived from its last four digits for safer, shorter identifiers.
+The post Proposal for a shorter EndToEndId <endtoendid> in pain.001, or a 3-letter hash for RecId</endtoendid> appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Your AI Strategy is Scaling Architectural Entropy]]></title>
         <id>https://365community.online/why-your-ai-strategy-is-scaling-architectural-entropy</id>
@@ -584,6 +650,17 @@ Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Ef
 Taking on "Green" Accounting Practices with Microsoft Dynamics GP]]></summary>
         <author>
             <name>iSolutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public preview: Power Apps MCP and enhanced agent feed for your business applications]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=133234</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-power-apps-mcp-and-enhanced-agent-feed-for-your-business-applications/"/>
+        <updated>2026-02-11T18:00:17.000Z</updated>
+        <summary type="html"><![CDATA[The Power Apps MCP Server (Public Preview) introduces a new era of human‑agent collaboration, enabling AI agents to automate repetitive app tasks with built‑in human oversight.
+The post Public preview: Power Apps MCP and enhanced agent feed for your business applications appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Hemant Gaur</name>
         </author>
     </entry>
     <entry>
@@ -108312,20 +108389,6 @@ From GP to Business Central: Elevate Shipping Processes]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9]]></title>
-        <id>https://erpsoftwareblog.com/?p=104229</id>
-        <link href="https://erpsoftwareblog.com/2024/02/product-configurator-v3-9-streamlining-bom-and-routing-creation-in-business-central/"/>
-        <updated>2024-02-16T21:21:18.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Product Configurator v3.9 transforms BOM & Routing management in Business Central, making manufacturing workflows smoother and more efficient.
-The post Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9 appeared first on ERP Software Blog.
-Warehouse Insight Now Available for Dynamics 365 Business Central
-Quote Generation with Product Configurator for Business Central
-Free Business Central Apps to Fill the Gaps]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Government API Development Playbook: Designing for Power Platform and Building Custom Connectors]]></title>
         <id>https://365community.online/government-api-development-playbook-designing-for-power-platform-and-building-custom-connectors</id>
         <link href="https://365community.online/government-api-development-playbook-designing-for-power-platform-and-building-custom-connectors"/>
@@ -108343,48 +108406,6 @@ Free Business Central Apps to Fill the Gaps]]></summary>
         <summary type="html"><![CDATA[Solutions are used to transport table metadata, apps, automations and other components from one environment to another in Dataverse or Power Platform projects. It is important to keep the solutions […]]]></summary>
         <author>
             <name>Linn Zaw Win</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC]]></title>
-        <id>https://erpsoftwareblog.com/?p=104226</id>
-        <link href="https://erpsoftwareblog.com/2024/02/overcoming-common-hurdles-of-upgrading-from-nav-to-bc/"/>
-        <updated>2024-02-16T20:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Updating operations in this digitized era is critical to your business strategy. Perhaps this even motivated you to leverage Microsoft Dynamics NAV initially. This dependable, trusted, and popular ERP system […]
-The post Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC appeared first on ERP Software Blog.
-Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
-Microsoft Dynamics ERP for Distribution/Manufacturing Industry
-DYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?]]></summary>
-        <author>
-            <name>NAVtoBC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Pricing Management Problems: Price Breaks on Quantity]]></title>
-        <id>https://erpsoftwareblog.com/?p=103756</id>
-        <link href="https://erpsoftwareblog.com/2024/02/solving-pricing-management-problems-price-breaks-on-quantity/"/>
-        <updated>2024-02-16T19:42:30.000Z</updated>
-        <summary type="html"><![CDATA[Rockton Pricing Management was built to address the numerous challenges businesses have with managing various pricing scenarios. We explain how Rockton Pricing Management handles price breaks on quantity. Businesses often […]
-The post Solving Pricing Management Problems: Price Breaks on Quantity appeared first on ERP Software Blog.
-Register Now for JourneyTEAM’s 2021 Business Technology Summit
-December GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022
-Microsoft Dynamics GP 2016 Features]]></summary>
-        <author>
-            <name>Mark Rockwell, Rockton Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benefits of Bundle Solutions]]></title>
-        <id>https://erpsoftwareblog.com/?p=104037</id>
-        <link href="https://erpsoftwareblog.com/2024/02/benefits-of-bundle-solutions/"/>
-        <updated>2024-02-16T18:05:59.000Z</updated>
-        <summary type="html"><![CDATA[The benefits of Bundle Solutions are undeniable for both the business and the consumers. Bundle solutions/products integrate different platforms like ERP, eCommerce, and point of sale with each other boosting […]
-The post Benefits of Bundle Solutions appeared first on ERP Software Blog.
-Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip
-Importance of Historical ERP Data
-Evolving Role of ERP in Remote Work Environments]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
         </author>
     </entry>
     <entry>

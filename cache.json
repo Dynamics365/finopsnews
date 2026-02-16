@@ -35935,46 +35935,6 @@
           "wordCount": 7360,
           "title": "Mobile Barcode Integration in Business Central 2024 by WMS Express",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/WMS-Express-250.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104229",
-          "author": "Insight Works",
-          "description": "Discover how Product Configurator v3.9 transforms BOM & Routing management in Business Central, making manufacturing workflows smoother and more efficient.\nThe post Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9 appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nQuote Generation with Product Configurator for Business Central\nFree Business Central Apps to Fill the Gaps",
-          "link": "https://erpsoftwareblog.com/2024/02/product-configurator-v3-9-streamlining-bom-and-routing-creation-in-business-central/",
-          "publishedOn": "2024-02-16T21:21:18.000Z",
-          "wordCount": 7517,
-          "title": "Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Product-Configurator-250-2.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104226",
-          "author": "NAVtoBC",
-          "description": "Updating operations in this digitized era is critical to your business strategy. Perhaps this even motivated you to leverage Microsoft Dynamics NAV initially. This dependable, trusted, and popular ERP system […]\nThe post Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nMicrosoft Dynamics ERP for Distribution/Manufacturing Industry\nDYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?",
-          "link": "https://erpsoftwareblog.com/2024/02/overcoming-common-hurdles-of-upgrading-from-nav-to-bc/",
-          "publishedOn": "2024-02-16T20:07:44.000Z",
-          "wordCount": 8561,
-          "title": "Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/NAVtoBC_7_things-Facebook.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103756",
-          "author": "Mark Rockwell, Rockton Software",
-          "description": "Rockton Pricing Management was built to address the numerous challenges businesses have with managing various pricing scenarios. We explain how Rockton Pricing Management handles price breaks on quantity. Businesses often […]\nThe post Solving Pricing Management Problems: Price Breaks on Quantity appeared first on ERP Software Blog.\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nDecember GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022\nMicrosoft Dynamics GP 2016 Features",
-          "link": "https://erpsoftwareblog.com/2024/02/solving-pricing-management-problems-price-breaks-on-quantity/",
-          "publishedOn": "2024-02-16T19:42:30.000Z",
-          "wordCount": 7283,
-          "title": "Solving Pricing Management Problems: Price Breaks on Quantity",
-          "imageUrl": "https://www.rocktonsoftware.com/wp-content/uploads/2024/01/quantitybreaksinvolume.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104037",
-          "author": "x2x eCommerce",
-          "description": "The benefits of Bundle Solutions are undeniable for both the business and the consumers. Bundle solutions/products integrate different platforms like ERP, eCommerce, and point of sale with each other boosting […]\nThe post Benefits of Bundle Solutions appeared first on ERP Software Blog.\nStreamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip\nImportance of Historical ERP Data\nEvolving Role of ERP in Remote Work Environments",
-          "link": "https://erpsoftwareblog.com/2024/02/benefits-of-bundle-solutions/",
-          "publishedOn": "2024-02-16T18:05:59.000Z",
-          "wordCount": 7393,
-          "title": "Benefits of Bundle Solutions",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-46-300x169.png"
         }
       ]
     },
@@ -84953,6 +84913,56 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=33552",
+          "author": "Adria Ariste Santacreu",
+          "description": "When we built Docentric e-Invoice Validator we wanted a web UI that made using it easy. Even though we're full-stack developers, we used AI to speed up the UI development. This is why we used Lovable AI. Lovable is an AI assistant that generates user […]\nThe post How Lovable AI Helped Create the Docentric e-Invoice Validator Frontend appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/lovable-ai-e-invoice-validator-ui/",
+          "publishedOn": "2026-02-15T18:01:30.000Z",
+          "wordCount": 12191,
+          "title": "How Lovable AI Helped Create the Docentric e-Invoice Validator Frontend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ax.docentric.com/?p=33545",
+          "author": "Adria Ariste Santacreu",
+          "description": "As you saw in a previous article, Docker is the fastest way to get started with the Docentric e-Invoice Validator. But Docker isn’t the only option. Depending on your environment and deployment preferences, you can also run the validator: Locally using IIS In Azure using […]\nThe post Deploying the Docentric e-Invoice Validator to IIS or Azure Container Apps appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/deploy-docentric-e-invoice-validator-iis-azure/",
+          "publishedOn": "2026-02-15T17:55:20.000Z",
+          "wordCount": 12380,
+          "title": "Deploying the Docentric e-Invoice Validator to IIS or Azure Container Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ax.docentric.com/?p=33543",
+          "author": "Adria Ariste Santacreu",
+          "description": "When you validate an e-invoice with the Docentric e-Invoice Validator, you’re not validating it “by hand” or using custom validation rules written from scratch. Validation is performed by the Mustang Project. This article explains what Mustang Project is, why we chose it, and how it […]\nThe post How the Mustang Project Powers the Docentric e-Invoice Validator appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/docentric-e-invoice-validator-mustang-project/",
+          "publishedOn": "2026-02-15T17:37:47.000Z",
+          "wordCount": 12201,
+          "title": "How the Mustang Project Powers the Docentric e-Invoice Validator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ax.docentric.com/?p=33531",
+          "author": "Adria Ariste Santacreu",
+          "description": "If you just want to validate e-invoices and don’t want to install or configure anything locally, Docker is the fastest way to get started. In the previous article, Docentric e-Invoice Validator, you saw what the validator is and how it’s used. This article focuses on […]\nThe post How to Run the Docentric e-Invoice Validator with Docker appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/run-docentric-e-invoice-validator-docker/",
+          "publishedOn": "2026-02-15T17:29:27.000Z",
+          "wordCount": 12474,
+          "title": "How to Run the Docentric e-Invoice Validator with Docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ax.docentric.com/?p=33527",
+          "author": "Adria Ariste Santacreu",
+          "description": "If you generate e-invoices, you know how strict the ZuGFeRD and Factur-X standards can be. Even small issues can lead to failed validations, rejected invoices, or follow-up work you didn’t plan for. The Docentric e-Invoice Validator helps you catch issues early. You upload an e-invoice, […]\nThe post Validating ZuGFeRD and Factur-X Invoices with the Docentric e-Invoice Validator appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/validating-zugferd-factur-x-invoices-docentric-e-invoice-validator/",
+          "publishedOn": "2026-02-15T17:28:51.000Z",
+          "wordCount": 12130,
+          "title": "Validating ZuGFeRD and Factur-X Invoices with the Docentric e-Invoice Validator",
+          "imageUrl": null
+        },
+        {
           "id": "https://ax.docentric.com/?p=33314",
           "author": "Jovica Zivkovic",
           "description": "Attachments in Dynamics 365 Finance and Operations (D365FO) are a simple but powerful way to add context to records - images, documents, URLs, or notes. Everything that helps users understand what’s really going on. You might attach a scanned invoice to a purchase order, or […]\nThe post Attachments in D365FO Made Easier appeared first on Docentric AX.",
@@ -86064,7 +86074,7 @@
           "publishedOn": "2026-02-10T00:02:00.005Z",
           "wordCount": 2642,
           "title": "Cross references in Dynamics 365 ERP (Finance and Operations) that are somewhat easier to work with",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uLUTlTMPw6Toa6oJ4_GIWWZAlrAY766CZLR68dGHs9h50QEHtNBg5TDE62f3FN0kdQm5DmXFkWAax8ymFem9F6piWubVnnbPNw-5SohpBzenElTktEBX1EhZuJUh8I8duVZC5iqw5-T5PPdxDB68pQC432sqtVRQlJT4yEdONuGXw=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sF-5aJ6aZtzvghnZKa25fLZ-TpMSz7YwFVP9--0cruM70NP2BfdeR0XgJA7hK8i63-wqTKCKD4r8-U9Z-8nxp63DulSQiLZ64xYQd9Xcx0C0obhKlf4sFi3LcpVojQZYpLSSdkxdTvk4DniZbA7bnAMAwWuJKzhNc8zFtuxPGu7pQ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -86259,6 +86269,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=10336",
+          "author": "Eugen Glasow",
+          "description": "Dynamics 365 Finance builds the ISO 20022 EndToEndId from voucher, RecId, and attempt counter. Because RecId adds little entropy and can exceed length limits (e.g., India’s 16-character rule), it can be removed or replaced with a deterministic 3-letter base-26 hash derived from its last four digits for safer, shorter identifiers.\nThe post Proposal for a shorter EndToEndId <endtoendid> in pain.001, or a 3-letter hash for RecId</endtoendid> appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/proposal-for-a-shorter-endtoendid-pain-001-3-letter-hash-for-recid/",
+          "publishedOn": "2026-02-15T09:49:49.000Z",
+          "wordCount": 2431,
+          "title": "Proposal for a shorter EndToEndId  in pain.001, or a 3-letter hash for RecId",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2017/04/ER_Cookbook.jpg"
+        },
         {
           "id": "https://erconsult.eu/?p=10210",
           "author": "Eugen Glasow",
@@ -86474,6 +86494,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133234",
+          "author": "Hemant Gaur",
+          "description": "The Power Apps MCP Server (Public Preview) introduces a new era of human‑agent collaboration, enabling AI agents to automate repetitive app tasks with built‑in human oversight.\nThe post Public preview: Power Apps MCP and enhanced agent feed for your business applications appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-power-apps-mcp-and-enhanced-agent-feed-for-your-business-applications/",
+          "publishedOn": "2026-02-11T18:00:17.000Z",
+          "wordCount": 6048,
+          "title": "Public preview: Power Apps MCP and enhanced agent feed for your business applications",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2026/02/AgentFeedMini.gif"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133211",
           "author": "Jordan Chodak",
