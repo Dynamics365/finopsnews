@@ -408,16 +408,6 @@
           "wordCount": 2972,
           "title": "Import package in D365 using Rest API.",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizuXYKlVSQkGQoc2L3A_5KrqRnLHf_KupHkFzShkw3XcsCKA8Z3WcGuUF8kKmBSbyZcp8dBJJ6Z_tkZHne8GpmNE40uFI9-b0nXB47Bf0V5UEs_0tSmoMnRBWqazDSrGzHp6cu0D2Cqli4RRZaZSfQaLvytwIZjKbGC0Fy4PIvbzjQrWIshPVxmoKgVDU/w1200-h630-p-k-no-nu/Screenshot_7.jpg"
-        },
-        {
-          "id": "https://kishoredynamics11.blogspot.com/2024/02/how-to-retrieve-value-from-array-or.html",
-          "author": null,
-          "description": "As per my requirement, I need to trigger third-party API. Upon a successful response, the API provides an array containing the Account ID. I have to retrieve this value without utilizing a for-each loop.\n I have successfully met this requirement using the following approach. \n\n\nBelow is the JSON format:\n\"OrderLines\": [\n    {\n\t\"line\": \"1\",\n\t\"orderedAccount\": {\n\t    \"Reference\": {\n\t\t\"AccountID\": \"ABC1234\"\n\t\t}\n\t    }\n    }\n]\nI have used the Below expression:\n\"body('HTTP')?['OrderLines']?[0]?['orderedAccount']?['Reference']?['AccountID']\"\n\n\n\"OrderLines\": [\n    {\n\t\"Reference\": {\n\t    \"AccountID\": \"ABC1234\"\n\t   }\n    },\n    {\n\t\"Reference\": {\n\t    \"AccountID\": \"ABC1235\"\n\t    }\n    }\n],\nI have used the Below expression:\n\"body('HTTP')?['OrderLines']?[0]?['Reference']?['AccountID']\"\nOutput: ABC1234.\n\n\nKeep Daxing!!",
-          "link": "https://kishoredynamics11.blogspot.com/2024/02/how-to-retrieve-value-from-array-or.html",
-          "publishedOn": "2024-02-20T08:22:00.000Z",
-          "wordCount": 2877,
-          "title": "How to retrieve the value from array or list in logic app",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-2KyyOXznObCvWh1UkYHCaWFNvRCpx2x0AEdx2HPmswXKteKNBfMVQEa0ogbEVIT_at9m5Js9xZlItU6az5lFSwnwXncvrBzhzGUb6_I8gQ4-WPO_xwQrceu6U7ysssuYL6Yh32G9PNjSVKrxFeWqqQHp5bD4ASzeoK3iUkJGeCP0rt4FeK4c_sFf-UQ/w1200-h630-p-k-no-nu/image_2024_02_19T09_01_31_882Z.png"
         }
       ]
     },
@@ -1326,6 +1316,66 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=142253",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nThe AI Agent & Copilot Summit 2026 (March 17-19, San Diego) by Dynamic Communities is the leading AI event for business and technology leaders in our channel. AI is no […]\nThe post ERP Software Blog Members to Visit at AI Agent & Copilot Summit 2026 appeared first on ERP Software Blog.\nDemand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP\n6 Ways to Use AI in Your Business\nWebinar Coming Up! Reducing Accounting Overhead for Long Term Care",
+          "link": "https://erpsoftwareblog.com/2026/02/erp-software-blog-members-to-visit-at-ai-agent-copilot-summit-2026/",
+          "publishedOn": "2026-02-18T22:26:16.000Z",
+          "wordCount": 7841,
+          "title": "ERP Software Blog Members to Visit at AI Agent & Copilot Summit 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2026-02-19-at-00.34.55.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142249",
+          "author": "ACE Micro, LLC",
+          "description": "xxx\nAccounts payable is rarely the loudest issue in an ERP project, but it is often one of the most time-consuming. Manual invoice entry, paper-based approvals, email chains, and disconnected payment […]\nThe post Streamlining accounts payable in Dynamics 365 Business Central appeared first on ERP Software Blog.\nAccounts Payable Trends to Watch Out for in 2022\nDoes Full Document Automation Cost More Than AP Automation?\nThree Reasons Why Finance Leaders Are Turning to Virtual Credit Cards in 2022",
+          "link": "https://erpsoftwareblog.com/2026/02/streamlining-accounts-payable-in-dynamics-365-business-central/",
+          "publishedOn": "2026-02-18T20:16:40.000Z",
+          "wordCount": 7091,
+          "title": "Streamlining accounts payable in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-2-Connecting-To-The-Big-Five-What-Us-Open-Banking-Means-For-ERP-Users-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=141980",
+          "author": "Insight Works",
+          "description": "xxx\nLimited access to cost-effective tools can hinder operational efficiency in Business Central environments. This content is most relevant for Business Central users and operational managers seeking to understand practical ways […]\nThe post Maximize Your Business Central Experience with Free Apps appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
+          "link": "https://erpsoftwareblog.com/2026/02/maximize-your-business-central-experience-with-free-apps-2/",
+          "publishedOn": "2026-02-18T20:12:25.000Z",
+          "wordCount": 6780,
+          "title": "Maximize Your Business Central Experience with Free Apps",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Free-Apps-webcast-cover-for-ERP.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142235",
+          "author": "Logan Consulting",
+          "description": "xxx\nMost organizations don’t realize Accounts Receivable is a problem until cash starts feeling tight—and suddenly the CFO is watching the bank balance like it’s a playoff game. Revenue may be […]\nThe post Why Accounts Receivable Is Undermining Your Cash Control appeared first on ERP Software Blog.\nMicrosoft Dynamics GP vs F&SCM: The Complete Guide to Making the Move\nTop Ten Ways Microsoft D365 ERP Empowers Rental Leaders\nWhy Storage Capacity is Important: How to Manage Data Growth in Microsoft Dynamics 365 F&SCM",
+          "link": "https://erpsoftwareblog.com/2026/02/why-accounts-receivable-is-undermining-your-cash-control/",
+          "publishedOn": "2026-02-18T16:42:00.000Z",
+          "wordCount": 7168,
+          "title": "Why Accounts Receivable Is Undermining Your Cash Control",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Your-paragraph-text-1-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142222",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nThe agriculture industry is no longer operating in a predictable, slow-moving environment. Today’s agribusinesses face supply chain disruptions, fluctuating commodity prices, climate uncertainty, labor shortages, and stricter regulatory requirements. To […]\nThe post Why Agribusinesses Are Moving to Cloud ERP Solutions appeared first on ERP Software Blog.\nFour Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1\nHow To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint\nHassle Free Upgrades with Dynamics GP Resellers!",
+          "link": "https://erpsoftwareblog.com/2026/02/why-agribusinesses-are-moving-to-cloud-erp-solutions/",
+          "publishedOn": "2026-02-18T16:32:33.000Z",
+          "wordCount": 7202,
+          "title": "Why Agribusinesses Are Moving to Cloud ERP Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Gemini_Generated_Image_ddl3e6ddl3e6ddl3_with_bgc.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142223",
+          "author": "Chris Boling",
+          "description": "xxx\nField service has a funny way of rewarding chaos. When a dispatcher pulls off a miracle schedule or a technician saves the day with a mix of heroics, extra effort, […]\nThe post Field Service Profitability Built on Leadership Alignment appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/02/field-service-profitability-leadership-alignment/",
+          "publishedOn": "2026-02-18T15:17:25.000Z",
+          "wordCount": 7688,
+          "title": "Field Service Profitability Built on Leadership Alignment",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Field-Service-Profitability-Built-on-Leadership-Alignment.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=141060",
           "author": "Insight Works",
@@ -36115,26 +36165,6 @@
           "wordCount": 4586,
           "title": "Why Integrate eCommerce platform with an ERP?",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-10-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104252",
-          "author": "MetaOption LLC",
-          "description": "In the dynamic landscape of enterprise resource planning (ERP) systems, staying ahead of the curve is essential for businesses to thrive. For companies currently utilizing Dynamics NAV (formerly Navision), the transition to […]\nThe post Next-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV appeared first on ERP Software Blog.\nHow to Upgrade Dynamics NAV to Business Central in 2023?\nTypes of data that can be migrated from Dynamics GP to Business Central\nNavigating the Upgrade: Steps to Move from Dynamics NAV to Business Central",
-          "link": "https://erpsoftwareblog.com/2024/02/next-gen-solutions-exploring-the-benefits-of-business-central-over-dynamics-nav/",
-          "publishedOn": "2024-02-20T14:01:26.000Z",
-          "wordCount": 4819,
-          "title": "Next-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-74.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104243",
-          "author": "iCepts Technology Group, Inc.",
-          "description": "Microsoft Dynamics 365 Business Central is an all-in-one business management solution that’s easy to use and adapt, helping you connect your business and make smarter decisions.  Built on functionality within Microsoft Dynamics NAV and adaptable to […]\nThe post 10 Microsoft ERP Benefits for Employees appeared first on ERP Software Blog.\nHow To Get Perfect Reliable Data - The Hidden Ingredient To ERP Success\nThings to Know About D365 Business Central to grow your Business\nAre Your D365 Business Central Payments Truly Automated",
-          "link": "https://erpsoftwareblog.com/2024/02/10-microsoft-erp-benefits-for-employees/",
-          "publishedOn": "2024-02-19T19:55:03.000Z",
-          "wordCount": 7506,
-          "title": "10 Microsoft ERP Benefits for Employees",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         }
       ]
     },
@@ -36143,6 +36173,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=72786",
+          "author": "Don McNulty",
+          "description": "Functionality in Dynamics GP Compared to D365 Business Central | Month-End Close & SmartLists\nFor many organizations running Microsoft Dynamics GP, SmartLists have been a familiar anchor for reporting and month‑end close. They provide visibility, flexibility, and a reliable way to get data into Excel. As more teams evaluate the shift to Dynamics 365 Business Central, one of the biggest concerns is how their month‑end processes will translate. This...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/gp-to-d365-bc-month-end-close-smartlists/",
+          "publishedOn": "2026-02-18T14:46:53.000Z",
+          "wordCount": 2197,
+          "title": "Functionality in Dynamics GP Compared to D365 Business Central | Month-End Close & SmartLists",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2026/02/GP-to-D365-BC-Month-End-Close-SmartLists-LI-1024x761.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=72745",
           "author": "Henry Villanueva",
@@ -77289,6 +77329,26 @@
           "wordCount": 3047,
           "title": "MS Learn Fabric Analytics Engineer Challenge Part 5",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708374465_MS-Learn-Fabric-Analytics-Engineer-Challenge-Part-5.png?fit=1200%2C899&ssl=1"
+        },
+        {
+          "id": "https://365community.online/infraestrutura-de-ti-e-a-sua-relacao-com-aplicacoes-de-negocio-ep28-romaos-cast-youtube",
+          "author": "Renato Romao de Souza",
+          "description": "Olá pessoal, tudo bem? 📱 Tópicos do Podcast: – Com a evolução da nuvem, como o pessoal de infra, governança e segurança foi impactado? – Dentro do cenário da Power […]",
+          "link": "https://365community.online/infraestrutura-de-ti-e-a-sua-relacao-com-aplicacoes-de-negocio-ep28-romaos-cast-youtube",
+          "publishedOn": "2024-02-19T14:07:54.000Z",
+          "wordCount": 3064,
+          "title": "Infraestrutura de TI e a sua relação com Aplicações de Negócio | EP#28 Romão’s Cast – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708353841_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/generate-classes-from-data-in-d365",
+          "author": "Peter Ramer",
+          "description": "Often times you need to send data from an external system into Microsoft Dynamics 365 for Finance and Supply Chain. Options include using the data migration framework, data entities, and […]",
+          "link": "https://365community.online/generate-classes-from-data-in-d365",
+          "publishedOn": "2024-02-19T14:00:00.000Z",
+          "wordCount": 3016,
+          "title": "Generate Classes From Data In D365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Generate-Classes-From-Data-In-D365.png?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -83586,16 +83646,6 @@
           "wordCount": 3180,
           "title": "Sustainability in Dynamics 365 Business Central: A New Way to Measure and Manage Your Environmental Impact",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/water-1024x685.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/19/use-microsoft-copilot-for-service-with-your-external-crm/",
-          "author": "Kat Taylor",
-          "description": "Just like Copilot in Dynamics 365 Customer Service, Copilot for Service enables agents to easily manage customer inquiries, track service requests, and provide personalized support.\nThe post Use Microsoft Copilot for Service with your external CRM  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/19/use-microsoft-copilot-for-service-with-your-external-crm/",
-          "publishedOn": "2024-02-19T18:39:35.000Z",
-          "wordCount": 3118,
-          "title": "Use Microsoft Copilot for Service with your external CRM",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2017/06/262589_5F00_ServiceAgents.jpg"
         }
       ]
     },
@@ -85067,6 +85117,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=33347",
+          "author": "Nataša Koščak Antić",
+          "description": "Alerts in D365FO are a standard feature that automatically notify users about important events in the system. Based on feedback from community discussions, forums, customer meetings, and our own experience, we realized that the standard alert framework has room for improvement. Step by step, we […]\nThe post Alerts ++ in D365FO Explained: Features, Improvements, and Usage appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/alerts-in-d365fo-explained-features-improvements-and-usage/",
+          "publishedOn": "2026-02-18T12:28:58.000Z",
+          "wordCount": 13407,
+          "title": "Alerts ++ in D365FO Explained: Features, Improvements, and Usage",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2026/01/Alerts__in_D365FO.png"
+        },
         {
           "id": "https://ax.docentric.com/?p=33552",
           "author": "Adria Ariste Santacreu",
@@ -87967,16 +88027,6 @@
           "publishedOn": "2024-02-28T08:00:35.000Z",
           "wordCount": 1821,
           "title": "Announcing General Availability for Shared Device Mode for Power Apps on iOS",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
-        },
-        {
-          "id": "copilot-now-helps-users-draft-text-input-in-canvas-apps",
-          "author": null,
-          "description": "We’re excited to announce Copilot assistance for inputting text when using Canvas apps. This new feature leverages the power of AI to help users craft well-written text, simplifying and speeding up the process of entering text in an app.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/copilot-now-helps-users-draft-text-input-in-canvas-apps/",
-          "publishedOn": "2024-02-20T08:00:33.000Z",
-          "wordCount": 1803,
-          "title": "Copilot now helps users draft text input in canvas apps",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         }
       ]
