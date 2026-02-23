@@ -1317,6 +1317,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=142461",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nThe ERP Software Blog today announced its 2026 “Best Microsoft Dynamics ERP Partners for Manufacturing Companies” list, recognizing leading Microsoft Dynamics partners with deep expertise serving manufacturing organizations. Review the […]\nThe post ERP Software Blog Announces 2026 “Best Microsoft Dynamics ERP Partners for Manufacturing Companies” appeared first on ERP Software Blog.\nDon’t Stop the Flow: Managing a Job Shop\nGetting in Tune with the Shop Floor with Microsoft Dynamics 365 for Manufacturing\nHow Microsoft Dynamics 365 Can Transform Your Manufacturing Business",
+          "link": "https://erpsoftwareblog.com/2026/02/erp-software-blog-announces-2026-best-microsoft-dynamics-erp-partners-for-manufacturing-companies/",
+          "publishedOn": "2026-02-23T01:48:10.000Z",
+          "wordCount": 7208,
+          "title": "ERP Software Blog Announces 2026 “Best Microsoft Dynamics ERP Partners for Manufacturing Companies”",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2026-02-19-Best-Partner-List-Banners-Manufacturing-LinkedIn.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=142364",
           "author": "Insight Works",
           "description": "xxx\nMany quality teams still deal with manual data entry on the shop floor, excessive notification noise, rigid lot blocking rules, and disconnected steps between sales, production, and warehouse put-away. These […]\nThe post Quality Inspector v7.25 – Closing Common Gaps in Quality Workflows on Business Central appeared first on ERP Software Blog.\nFrom GP to Business Central: Not a Leap into the Unknown\nHow Manufacturers Automate Preventive Maintenance with Business Central\nThe Best Way to Handle Corrective vs. Preventive Maintenance in Business Central",
@@ -36185,46 +36195,6 @@
           "wordCount": 4860,
           "title": "7 Convincing Arguments for Selecting Microsoft Dynamics Business Central",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MS-BC.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104362",
-          "author": "Accountnet, Inc.",
-          "description": "In the fast-paced world of small and medium-sized businesses, the need for efficient and streamlined business management solutions has never been more critical. Microsoft offers a comprehensive solution with its […]\nThe post Microsoft Dynamics Business Central for more Accounting features appeared first on ERP Software Blog.\nJoin JourneyTEAM's Tech Insider Update Webinar on 8/6\nThere ain't no thing as a free WMS? Think again.\nGet an Instant Budgetary Quote For Microsoft Dynamics ERP",
-          "link": "https://erpsoftwareblog.com/2024/02/microsoft-dynamics-business-central-for-more-accounting-features/",
-          "publishedOn": "2024-02-23T19:10:05.000Z",
-          "wordCount": 4964,
-          "title": "Microsoft Dynamics Business Central for more Accounting features",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/People-Working-12.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104357",
-          "author": "KwikTag by Paymerang",
-          "description": "In today’s fast-paced business landscape, efficiency and accuracy are paramount. With the increasing demands on finance departments to streamline processes while ensuring compliance and accuracy, invoice automation has emerged as […]\nThe post Unlocking Invoice Automation for Multi-Entity Management in D365 Business Central appeared first on ERP Software Blog.\nD365 Business Central Case Study: Stenger & Stenger\nBusiness Central VS. NetSuite: Which Software is Right for Your Business?\nSimplyAP - Cloud AP Automation for Business Central",
-          "link": "https://erpsoftwareblog.com/2024/02/unlocking-invoice-automation-for-multi-entity-management-in-d365-business-central/",
-          "publishedOn": "2024-02-23T15:46:30.000Z",
-          "wordCount": 5213,
-          "title": "Unlocking Invoice Automation for Multi-Entity Management in D365 Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/IAmem.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104355",
-          "author": "SmartBOL",
-          "description": "SmartBOL® creates a VICS bill of lading that ensures: A unique 17-digit bill of lading number using your UCC code A bill of lading number and Pro number barcodes Automatically […]\nThe post Why use SmartBOL® to create a VICS bill of lading? appeared first on ERP Software Blog.\n17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP\nNobody Wants to Experience an ACA Audit\nWhy Your Company Can't Afford to Ignore an ERP Solution",
-          "link": "https://erpsoftwareblog.com/2024/02/why-use-smartbol-to-create-a-vics-bill-of-lading/",
-          "publishedOn": "2024-02-23T15:33:18.000Z",
-          "wordCount": 7232,
-          "title": "Why use SmartBOL® to create a VICS bill of lading?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104324",
-          "author": "x2x eCommerce",
-          "description": "This digital era demands businesses to streamline operations and enhance customer experience. Bundle products are very attractive in this regard due to the availability of multiple solutions under one roof. […]\nThe post ERP-eCommerce Integration with Webstore Setup appeared first on ERP Software Blog.\nUnified View of Information through ERP & eCommerce Integration\nBenefits of ERP and POS Integration\nCustomer Data Gathering with ERP Software",
-          "link": "https://erpsoftwareblog.com/2024/02/erp-ecommerce-integration-with-webstore-setup/",
-          "publishedOn": "2024-02-23T15:02:59.000Z",
-          "wordCount": 5030,
-          "title": "ERP-eCommerce Integration with Webstore Setup",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-11-300x169.png"
         }
       ]
     },
@@ -37701,12 +37671,82 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/why-copilot-agents-fail-an-architectural-insight",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:04,280Most enterprises blame co-pilot agent failures on early platform chaos. 200:00:04,280 –> 00:00:06,280That story is comforting, it’s also wrong. 300:00:06,280 –> 00:00:09,600Agents fail because teams deploy conversation where they need control, 400:00:09,600 –> 00:00:12,080then act surprised when outcomes aren’t repeatable, 500:00:12,080 –> 00:00:13,880auditable or safe to scale. 600:00:13,880 –> 00:00:17,680In the next hour, […]",
+          "link": "https://365community.online/why-copilot-agents-fail-an-architectural-insight",
+          "publishedOn": "2026-02-23T02:01:31.000Z",
+          "wordCount": 19490,
+          "title": "Why Copilot Agents Fail: An Architectural Insight",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1771812092_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/post-saas-paradox-in-ai-strategies",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,600Most organizations think they’re rolling out co-pilot. 200:00:03,600 –> 00:00:05,880They’re not, they’re switching from deterministic SaaS, 300:00:05,880 –> 00:00:07,560where you can diagram cause an effect 400:00:07,560 –> 00:00:09,360to probabilistic orchestration, 500:00:09,360 –> 00:00:12,160where behavior emerges at runtime and drifts quietly. 600:00:12,160 –> 00:00:14,320This episode gives you a post-sass mental model, 700:00:14,320 –> 00:00:16,800three […]",
+          "link": "https://365community.online/post-saas-paradox-in-ai-strategies",
+          "publishedOn": "2026-02-22T22:33:46.000Z",
+          "wordCount": 21834,
+          "title": "Post-SaaS Paradox in AI Strategies",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1771799626_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/business-process-catalog-develop-people-strategy-d365-hr",
+          "author": "Ana Inés Urrutia",
+          "description": "Imagine trying to build a house without a blueprint. You’d probably end up with crooked walls, leaky plumbing, and an unsafe roof. That’s exactly what it’s like trying to run HR without a clear guide. Microsoft’s Business Process Catalog is that blueprint, it lays out all the steps and structures you need, so you can build […]",
+          "link": "https://365community.online/business-process-catalog-develop-people-strategy-d365-hr",
+          "publishedOn": "2026-02-22T19:07:00.000Z",
+          "wordCount": 2119,
+          "title": "Business Process Catalog: Develop people strategy (D365 HR)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/Business-Process-Catalog-Develop-people-strategy-D365-HR.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sovereignty-is-not-a-product-the-architecture-of-control",
+          "author": "Mirko Peters",
+          "description": "Most organizations treat “sovereign cloud” like something you can buy. Pick a region.Print the compliance packet.Call it done. That’s the comfortable lie. In this episode, we dismantle the myth that sovereignty is a SKU, a geography, or a contract clause. Sovereignty is not residency. It’s not a marketing label. It’s not “EU-only” storage. Sovereignty is […]",
+          "link": "https://365community.online/sovereignty-is-not-a-product-the-architecture-of-control",
+          "publishedOn": "2026-02-22T18:46:20.000Z",
+          "wordCount": 2634,
+          "title": "Sovereignty is Not a Product: The Architecture of Control",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/fafd83707fccdc1df9b9bb582b5eeb62.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/high-performance-automation-control-plane",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,220But most organizations talk about power automate like it’s a workflow tool. 200:00:03,220 –> 00:00:04,220They are wrong. 300:00:04,220 –> 00:00:07,860What they actually run is an automation control plane, a distributed decision and execution 400:00:07,860 –> 00:00:12,760system that can write data, trigger approvals, move files and wake up other systems at machine 500:00:12,760 –> […]",
+          "link": "https://365community.online/high-performance-automation-control-plane",
+          "publishedOn": "2026-02-22T14:56:11.000Z",
+          "wordCount": 18264,
+          "title": "High-Performance Automation Control Plane",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1771772171_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-secret-to-a-long-term-ai-career-%f0%9f%a4%96%f0%9f%93%88-rag-aitraining-youtube",
+          "author": "Sourav Raj",
+          "description": "The Secret to a Long-Term AI Career 🤖📈 #RAG #aitraining Tutorials can only take you so far. Real growth happens when you step back and connect the dots across the entire AI ecosystem. In this testimonial, see how one of our learners moved beyond “small videos” to gain complete confidence in RAG and Microsoft AI […]",
+          "link": "https://365community.online/the-secret-to-a-long-term-ai-career-%f0%9f%a4%96%f0%9f%93%88-rag-aitraining-youtube",
+          "publishedOn": "2026-02-22T13:29:47.000Z",
+          "wordCount": 2220,
+          "title": "The Secret to a Long-Term AI Career 🤖📈 #RAG #aitraining – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1771802136_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/architecting-scalable-sharepoint-automation",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,400Most organizations assume SharePoint automation scales 200:00:02,400 –> 00:00:04,040because it’s in the platform. 300:00:04,040 –> 00:00:06,240They are wrong, the UI makes it feel small, 400:00:06,240 –> 00:00:08,160one library, one button, one approval, 500:00:08,160 –> 00:00:09,440but the moment you automate, 600:00:09,440 –> 00:00:11,360you’ve built an enterprise control plane 700:00:11,360 –> 00:00:14,240that executes decisions, changes […]",
+          "link": "https://365community.online/architecting-scalable-sharepoint-automation",
+          "publishedOn": "2026-02-22T04:06:37.000Z",
+          "wordCount": 21614,
+          "title": "Architecting Scalable SharePoint Automation",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1771733197_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/orchestrating-python-inside-the-power-platform",
           "author": "Mirko Peters",
           "description": "Most organizations misunderstand Power Platform. They treat it like a productivity toy.Drag boxes. Automate an email. Call it transformation. It works at ten runs per day.It collapses at ten thousand. Not because the platform failed.Because complexity was never priced. So here’s the mandate: Power Platform = Orchestration tier Python = Execution tier Azure = Governance […]",
           "link": "https://365community.online/orchestrating-python-inside-the-power-platform",
           "publishedOn": "2026-02-21T21:02:58.000Z",
-          "wordCount": 2843,
+          "wordCount": 2832,
           "title": "Orchestrating Python Inside the Power Platform",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/00c0feb088ab9153ac715f851acbb2ca.jpg?fit=1200%2C630&ssl=1"
         },
@@ -37716,7 +37756,7 @@
           "description": "Most organizations think more apps means more productivity. They’re wrong. More apps mean more governance surface area — more connectors, more owners, more permissions, more data pathways, and more tickets when something breaks. Governance-by-humans doesn’t scale. Control planes scale trust. This episode breaks down a single operating model shift — from building apps to engineering […]",
           "link": "https://365community.online/stop-building-apps-start-engineering-control-planes",
           "publishedOn": "2026-02-21T17:36:28.000Z",
-          "wordCount": 2744,
+          "wordCount": 2732,
           "title": "Stop Building Apps, Start Engineering Control Planes",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/08bbcec430dfbe74d5f7b164a0fea3c3.jpg?fit=1200%2C630&ssl=1"
         },
@@ -37726,7 +37766,7 @@
           "description": "How to Fix Trigger Input Schema Mismatch Issue in Copilot Studio",
           "link": "https://365community.online/how-to-fix-trigger-input-schema-mismatch-issue-in-copilot-studio-youtube",
           "publishedOn": "2026-02-21T12:30:59.000Z",
-          "wordCount": 2103,
+          "wordCount": 2083,
           "title": "How to Fix Trigger Input Schema Mismatch Issue in Copilot Studio – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1771694989_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
@@ -37736,69 +37776,9 @@
           "description": "What is RTC Remote Interaction? RTC (Remote Interaction) is a cloud feature in OBSBOT Cloud that lets you control the OBSBOT Tiny 3 4K AI-powered Webcam‘s gimbal, zoom, and AI tracking remotely in real time. You can purchase Tiny 3 Webcam at solectric, Amazon.de Affiliate or at OBSBOT Shop, among other choices. Photo: OBSBOT Tiny […]",
           "link": "https://365community.online/obsbot-tiny-3-4k-ai-powered-webcam-with-rtc-for-remote-interaction",
           "publishedOn": "2026-02-21T09:37:00.000Z",
-          "wordCount": 3827,
+          "wordCount": 3815,
           "title": "OBSBOT Tiny 3 4K AI-powered Webcam with RTC for Remote Interaction",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/IMG_4534-768x1024.jpg?fit=768%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/architecting-the-high-performance-autonomous-enterprise",
-          "author": "Mirko Peters",
-          "description": "Most organizations think their AI rollout failed because the model wasn’t smart enough, or because users “don’t know how to prompt.” That’s the comforting story. It’s also wrong. In enterprises, AI fails because context is fragmented: identity doesn’t line up with permissions, work artifacts don’t line up with decisions, and nobody can explain what the […]",
-          "link": "https://365community.online/architecting-the-high-performance-autonomous-enterprise",
-          "publishedOn": "2026-02-20T22:14:31.000Z",
-          "wordCount": 3050,
-          "title": "Architecting the High-Performance Autonomous Enterprise",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/d8ae3ca97b58b70135a76662357db90e.jpg?fit=1200%2C630&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-combine-shapes-in-powerpoint-union-combine-fragment-intersect-subtract",
-          "author": "Stephanie Hogan",
-          "description": "PowerPoint isn’t just for rectangles and sad little circles. Hidden inside it is a set of tools that lets you build completely custom shapes by combining two (or more) shapes together — kind of like “pathfinder” in Illustrator. PowerPoint calls these the Shape Combination tools, and once you learn them, you’ll start using PowerPoint like […]",
-          "link": "https://365community.online/how-to-combine-shapes-in-powerpoint-union-combine-fragment-intersect-subtract",
-          "publishedOn": "2026-02-20T22:05:24.000Z",
-          "wordCount": 2790,
-          "title": "How to Combine Shapes in PowerPoint (Union, Combine, Fragment, Intersect, Subtract)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/combine-shapes.png?fit=580%2C398&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-pages-web-application-firewall-help-to-prevent-script-injection-via-web-api",
-          "author": "michelcarlo",
-          "description": "Out-of-the box, without extra configurations, Power Pages does not prevent saving data with scripts on text fields. Of course, we need to do as a good practice to always escape any text read from Dataverse, but there is a friend that can help with this in Power Pages: Web Application Firewall By simply enabling Power […]",
-          "link": "https://365community.online/power-pages-web-application-firewall-help-to-prevent-script-injection-via-web-api",
-          "publishedOn": "2026-02-20T19:28:00.000Z",
-          "wordCount": 2376,
-          "title": "Power Pages Web Application Firewall – Help to prevent script injection via Web API",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/wafscripts.png?fit=1280%2C720&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-chat-vs-work-know-where-your-data-lives-youtube",
-          "author": "Peter Petersen",
-          "description": "Copilot Chat vs. Work: Know Where your Data Lives",
-          "link": "https://365community.online/copilot-chat-vs-work-know-where-your-data-lives-youtube",
-          "publishedOn": "2026-02-20T18:44:02.000Z",
-          "wordCount": 2092,
-          "title": "Copilot Chat vs. Work: Know Where your Data Lives – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/1771625551_hqdefault.jpg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/have-a-plan-build-your-solution-with-plan-designer-the-rise-of-agents-lesson-6-nick-doelman-youtube",
-          "author": "Victor Dantas",
-          "description": "In this episode of Zero To Hero: The Rise of Agents, Nick Doelman (Microsoft MVP) breaks down how to go from idea ➝ plan ➝ working Power Platform solution using Power Apps Plan Designer (aka “Plans”). You’ll see a practical, real-world workflow: – How to collect requirements the smart way (Copilot Notebooks / docs / […]",
-          "link": "https://365community.online/have-a-plan-build-your-solution-with-plan-designer-the-rise-of-agents-lesson-6-nick-doelman-youtube",
-          "publishedOn": "2026-02-20T16:59:33.000Z",
-          "wordCount": 2295,
-          "title": "Have a Plan? Build Your Solution with Plan Designer – The Rise of Agents (Lesson 6) – Nick Doelman – YouTube",
-          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
-        },
-        {
-          "id": "https://365community.online/operationalize-configuration-based-deployments-to-work-with-microsoft-fabric-and-azure-devops",
-          "author": "Kevin Chant",
-          "description": "This post covers how to operationalize configuration-based deployments to work with Microsoft Fabric and Azure DevOps. This feature is now generally available in the latest fabric-cicd release. Microsoft has officially announced official support for Microsoft fabric-cicd tool. With that news, this feels like the perfect time to follow up on the post read by thousands […]",
-          "link": "https://365community.online/operationalize-configuration-based-deployments-to-work-with-microsoft-fabric-and-azure-devops",
-          "publishedOn": "2026-02-20T13:48:00.000Z",
-          "wordCount": 2145,
-          "title": "Operationalize configuration-based deployments to work with Microsoft Fabric and Azure DevOps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/Completed-Release-Pipeline-for-configuration-based-deployment.jpg?fit=1691%2C788&ssl=1"
         },
         {
           "id": "https://365community.online/transforming-copilot-studio-into-a-high-performance-agent",
@@ -77084,76 +77064,6 @@
           "wordCount": 3208,
           "title": "My own Copilot: Nova",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/My-own-Copilot-Nova.png?fit=1000%2C563&ssl=1"
-        },
-        {
-          "id": "https://365community.online/understanding-storage-classes-in-c-complete-guide-youtube",
-          "author": "Sourav Raj",
-          "description": "Understanding Storage Classes in C++ | Complete Guide Delve into the intricate world of storage classes in C++ with this comprehensive tutorial! Whether you’re a beginner or seeking to deepen […]",
-          "link": "https://365community.online/understanding-storage-classes-in-c-complete-guide-youtube",
-          "publishedOn": "2024-02-24T09:47:08.000Z",
-          "wordCount": 3491,
-          "title": "Understanding Storage Classes in C++ | Complete Guide – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708850807_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/conquer-dynamics-365-crm-chaos-with-copilot-and-inogic-data-recovery-app",
-          "author": "Inogic",
-          "description": "Ever feel like your Dynamics 365 CRM is a whirlwind of data updates? As a sales rep, you are juggling leads, opportunities, and customer data; every edit ripples through the […]",
-          "link": "https://365community.online/conquer-dynamics-365-crm-chaos-with-copilot-and-inogic-data-recovery-app",
-          "publishedOn": "2024-02-24T09:45:38.000Z",
-          "wordCount": 3563,
-          "title": "Conquer Dynamics 365 CRM Chaos with Copilot and Inogic Data Recovery App!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Data-Recovery-App.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mastering-the-switch-statement-in-c-complete-guide-youtube",
-          "author": "Sourav Raj",
-          "description": "Mastering the Switch Statement in C++ | Complete Guide Unlock the full potential of control flow in C++ with this comprehensive tutorial on the “switch” statement! Whether you’re a beginner […]",
-          "link": "https://365community.online/mastering-the-switch-statement-in-c-complete-guide-youtube",
-          "publishedOn": "2024-02-24T09:09:37.000Z",
-          "wordCount": 3411,
-          "title": "Mastering the Switch Statement in C++ | Complete Guide – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708866019_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/exploring-recursion-in-c-c-tutorial-for-beginners-youtube",
-          "author": "Sourav Raj",
-          "description": "Exploring Recursion in C++ | C++ Tutorial for Beginners Dive deep into the world of recursion in C++ with this comprehensive tutorial! Whether you’re new to programming or looking to […]",
-          "link": "https://365community.online/exploring-recursion-in-c-c-tutorial-for-beginners-youtube",
-          "publishedOn": "2024-02-24T08:42:42.000Z",
-          "wordCount": 3399,
-          "title": "Exploring Recursion in C++ | C++ Tutorial for Beginners – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708882570_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mastering-the-while-loop-in-c-complete-guide-youtube",
-          "author": "Sourav Raj",
-          "description": "Mastering the While Loop in C++ | Complete Guide Unlock the full potential of iteration in C++ with this comprehensive tutorial on the “while” loop! Whether you’re a beginner or […]",
-          "link": "https://365community.online/mastering-the-while-loop-in-c-complete-guide-youtube",
-          "publishedOn": "2024-02-24T05:02:53.000Z",
-          "wordCount": 3421,
-          "title": "Mastering the While Loop in C++ | Complete Guide – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708899875_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-set-up-an-ssl-certificate-for-ms-dynamics-365-business-central-on-premises",
-          "author": "Saurav Dhyani",
-          "description": "Hi Readers, In this article we will discuss about Steps to setup SSL Certificate in Business Central on-prem environment.  This video describes all steps w.r.t Creating and Deploying Test SSL […]",
-          "link": "https://365community.online/how-to-set-up-an-ssl-certificate-for-ms-dynamics-365-business-central-on-premises",
-          "publishedOn": "2024-02-24T04:30:00.000Z",
-          "wordCount": 3234,
-          "title": "How to Set Up an SSL Certificate for MS Dynamics 365 Business Central On-Premises.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/How-to-Set-Up-an-SSL-Certificate-for-MS-Dynamics.jpeg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-fix-button-in-modern-command-bar-disappearing-after-grid-item-selection",
-          "author": "Linn Zaw Win",
-          "description": "This post provides a resolution for the issue that the modern command button added to the Main Grid, Subgrid View or Associated View doesn’t appear as expected after one or […]",
-          "link": "https://365community.online/how-to-fix-button-in-modern-command-bar-disappearing-after-grid-item-selection",
-          "publishedOn": "2024-02-23T17:48:00.000Z",
-          "wordCount": 3217,
-          "title": "How to Fix Button in Modern Command Bar Disappearing After Grid Item Selection",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708727315_How-to-Fix-Button-in-Modern-Command-Bar-Disappearing-After.png?fit=1182%2C630&ssl=1"
         }
       ]
     },
@@ -84125,16 +84035,6 @@
           "wordCount": 3204,
           "title": "Fit-Gap Analysis: Learning Path to Become Functional Consultant:FC-006",
           "imageUrl": "http://img.youtube.com/vi/B8X5ZGXv8rA/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2824",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to part 7 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about revaluation moving average valuation method. Revaluation of moving average feature helps you to redefine your cost price for the product as on date. It works like the adjustment feature which […]",
-          "link": "https://exploredynamics365.home.blog/2024/02/24/revaluation-of-moving-average-in-microsoft-dynamics-365-finance-and-operations-part-7/",
-          "publishedOn": "2024-02-24T12:44:09.000Z",
-          "wordCount": 3149,
-          "title": "Revaluation of Moving average in Microsoft Dynamics 365 Finance and Operations: Part-7",
-          "imageUrl": "http://img.youtube.com/vi/AJqONgiS3SY/0.jpg"
         }
       ]
     },
@@ -84642,16 +84542,6 @@
           "wordCount": 3204,
           "title": "Fit-Gap Analysis: Learning Path to Become Functional Consultant:FC-006",
           "imageUrl": "http://img.youtube.com/vi/B8X5ZGXv8rA/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2824",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to part 7 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about revaluation moving average valuation method. Revaluation of moving average feature helps you to redefine your cost price for the product as on date. It works like the adjustment feature which […]",
-          "link": "https://exploredynamics365.home.blog/2024/02/24/revaluation-of-moving-average-in-microsoft-dynamics-365-finance-and-operations-part-7/",
-          "publishedOn": "2024-02-24T12:44:09.000Z",
-          "wordCount": 3149,
-          "title": "Revaluation of Moving average in Microsoft Dynamics 365 Finance and Operations: Part-7",
-          "imageUrl": "http://img.youtube.com/vi/AJqONgiS3SY/0.jpg"
         }
       ]
     },
@@ -85759,6 +85649,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=16845",
+          "author": "Parag Chapre",
+          "description": "In the previous articles, I showcased how the Dynamics 365 Workflow Approvals App streamlines approvals for standard workflows such as Purchase Requisitions, Purchase Orders, and Purchase Agreements in Dynamics 365 Finance & Operations (D365 F&O). A common question I’ve been asked is:“Can this app support custom workflows developed by an ISV, not just standard D365…",
+          "link": "https://paragchapre.com/store-requisition-workflow-approvals-in-dynamics-365-fo-with-power-platform/",
+          "publishedOn": "2026-02-22T15:59:21.000Z",
+          "wordCount": 4404,
+          "title": "Store Requisition Workflow Approvals in Dynamics 365 F&O with Power Platform",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2025/12/Store-requisition-approval-app.png"
+        },
         {
           "id": "https://paragchapre.com/?p=16830",
           "author": "Parag Chapre",

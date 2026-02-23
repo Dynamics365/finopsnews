@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-22T02:32:03.593Z</updated>
+    <updated>2026-02-23T02:32:54.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Copilot Agents Fail: An Architectural Insight]]></title>
+        <id>https://365community.online/why-copilot-agents-fail-an-architectural-insight</id>
+        <link href="https://365community.online/why-copilot-agents-fail-an-architectural-insight"/>
+        <updated>2026-02-23T02:01:31.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,280Most enterprises blame co-pilot agent failures on early platform chaos. 200:00:04,280 –> 00:00:06,280That story is comforting, it’s also wrong. 300:00:06,280 –> 00:00:09,600Agents fail because teams deploy conversation where they need control, 400:00:09,600 –> 00:00:12,080then act surprised when outcomes aren’t repeatable, 500:00:12,080 –> 00:00:13,880auditable or safe to scale. 600:00:13,880 –> 00:00:17,680In the next hour, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Software Blog Announces 2026 “Best Microsoft Dynamics ERP Partners for Manufacturing Companies”]]></title>
+        <id>https://erpsoftwareblog.com/?p=142461</id>
+        <link href="https://erpsoftwareblog.com/2026/02/erp-software-blog-announces-2026-best-microsoft-dynamics-erp-partners-for-manufacturing-companies/"/>
+        <updated>2026-02-23T01:48:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The ERP Software Blog today announced its 2026 “Best Microsoft Dynamics ERP Partners for Manufacturing Companies” list, recognizing leading Microsoft Dynamics partners with deep expertise serving manufacturing organizations. Review the […]
+The post ERP Software Blog Announces 2026 “Best Microsoft Dynamics ERP Partners for Manufacturing Companies” appeared first on ERP Software Blog.
+Don’t Stop the Flow: Managing a Job Shop
+Getting in Tune with the Shop Floor with Microsoft Dynamics 365 for Manufacturing
+How Microsoft Dynamics 365 Can Transform Your Manufacturing Business]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-SaaS Paradox in AI Strategies]]></title>
+        <id>https://365community.online/post-saas-paradox-in-ai-strategies</id>
+        <link href="https://365community.online/post-saas-paradox-in-ai-strategies"/>
+        <updated>2026-02-22T22:33:46.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,600Most organizations think they’re rolling out co-pilot. 200:00:03,600 –> 00:00:05,880They’re not, they’re switching from deterministic SaaS, 300:00:05,880 –> 00:00:07,560where you can diagram cause an effect 400:00:07,560 –> 00:00:09,360to probabilistic orchestration, 500:00:09,360 –> 00:00:12,160where behavior emerges at runtime and drifts quietly. 600:00:12,160 –> 00:00:14,320This episode gives you a post-sass mental model, 700:00:14,320 –> 00:00:16,800three […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Process Catalog: Develop people strategy (D365 HR)]]></title>
+        <id>https://365community.online/business-process-catalog-develop-people-strategy-d365-hr</id>
+        <link href="https://365community.online/business-process-catalog-develop-people-strategy-d365-hr"/>
+        <updated>2026-02-22T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine trying to build a house without a blueprint. You’d probably end up with crooked walls, leaky plumbing, and an unsafe roof. That’s exactly what it’s like trying to run HR without a clear guide. Microsoft’s Business Process Catalog is that blueprint, it lays out all the steps and structures you need, so you can build […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sovereignty is Not a Product: The Architecture of Control]]></title>
+        <id>https://365community.online/sovereignty-is-not-a-product-the-architecture-of-control</id>
+        <link href="https://365community.online/sovereignty-is-not-a-product-the-architecture-of-control"/>
+        <updated>2026-02-22T18:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations treat “sovereign cloud” like something you can buy. Pick a region.Print the compliance packet.Call it done. That’s the comfortable lie. In this episode, we dismantle the myth that sovereignty is a SKU, a geography, or a contract clause. Sovereignty is not residency. It’s not a marketing label. It’s not “EU-only” storage. Sovereignty is […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Store Requisition Workflow Approvals in Dynamics 365 F&O with Power Platform]]></title>
+        <id>https://paragchapre.com/?p=16845</id>
+        <link href="https://paragchapre.com/store-requisition-workflow-approvals-in-dynamics-365-fo-with-power-platform/"/>
+        <updated>2026-02-22T15:59:21.000Z</updated>
+        <summary type="html"><![CDATA[In the previous articles, I showcased how the Dynamics 365 Workflow Approvals App streamlines approvals for standard workflows such as Purchase Requisitions, Purchase Orders, and Purchase Agreements in Dynamics 365 Finance & Operations (D365 F&O). A common question I’ve been asked is:“Can this app support custom workflows developed by an ISV, not just standard D365…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Performance Automation Control Plane]]></title>
+        <id>https://365community.online/high-performance-automation-control-plane</id>
+        <link href="https://365community.online/high-performance-automation-control-plane"/>
+        <updated>2026-02-22T14:56:11.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,220But most organizations talk about power automate like it’s a workflow tool. 200:00:03,220 –> 00:00:04,220They are wrong. 300:00:04,220 –> 00:00:07,860What they actually run is an automation control plane, a distributed decision and execution 400:00:07,860 –> 00:00:12,760system that can write data, trigger approvals, move files and wake up other systems at machine 500:00:12,760 –> […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret to a Long-Term AI Career 🤖📈 #RAG #aitraining – YouTube]]></title>
+        <id>https://365community.online/the-secret-to-a-long-term-ai-career-%f0%9f%a4%96%f0%9f%93%88-rag-aitraining-youtube</id>
+        <link href="https://365community.online/the-secret-to-a-long-term-ai-career-%f0%9f%a4%96%f0%9f%93%88-rag-aitraining-youtube"/>
+        <updated>2026-02-22T13:29:47.000Z</updated>
+        <summary type="html"><![CDATA[The Secret to a Long-Term AI Career 🤖📈 #RAG #aitraining Tutorials can only take you so far. Real growth happens when you step back and connect the dots across the entire AI ecosystem. In this testimonial, see how one of our learners moved beyond “small videos” to gain complete confidence in RAG and Microsoft AI […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting Scalable SharePoint Automation]]></title>
+        <id>https://365community.online/architecting-scalable-sharepoint-automation</id>
+        <link href="https://365community.online/architecting-scalable-sharepoint-automation"/>
+        <updated>2026-02-22T04:06:37.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,400Most organizations assume SharePoint automation scales 200:00:02,400 –> 00:00:04,040because it’s in the platform. 300:00:04,040 –> 00:00:06,240They are wrong, the UI makes it feel small, 400:00:06,240 –> 00:00:08,160one library, one button, one approval, 500:00:08,160 –> 00:00:09,440but the moment you automate, 600:00:09,440 –> 00:00:11,360you’ve built an enterprise control plane 700:00:11,360 –> 00:00:14,240that executes decisions, changes […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orchestrating Python Inside the Power Platform]]></title>
         <id>https://365community.online/orchestrating-python-inside-the-power-platform</id>
@@ -47,26 +142,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecting the High-Performance Autonomous Enterprise]]></title>
-        <id>https://365community.online/architecting-the-high-performance-autonomous-enterprise</id>
-        <link href="https://365community.online/architecting-the-high-performance-autonomous-enterprise"/>
-        <updated>2026-02-20T22:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Most organizations think their AI rollout failed because the model wasn’t smart enough, or because users “don’t know how to prompt.” That’s the comforting story. It’s also wrong. In enterprises, AI fails because context is fragmented: identity doesn’t line up with permissions, work artifacts don’t line up with decisions, and nobody can explain what the […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Combine Shapes in PowerPoint (Union, Combine, Fragment, Intersect, Subtract)]]></title>
-        <id>https://365community.online/how-to-combine-shapes-in-powerpoint-union-combine-fragment-intersect-subtract</id>
-        <link href="https://365community.online/how-to-combine-shapes-in-powerpoint-union-combine-fragment-intersect-subtract"/>
-        <updated>2026-02-20T22:05:24.000Z</updated>
-        <summary type="html"><![CDATA[PowerPoint isn’t just for rectangles and sad little circles. Hidden inside it is a set of tools that lets you build completely custom shapes by combining two (or more) shapes together — kind of like “pathfinder” in Illustrator. PowerPoint calls these the Shape Combination tools, and once you learn them, you’ll start using PowerPoint like […]]]></summary>
-        <author>
-            <name>Stephanie Hogan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quality Inspector v7.25 – Closing Common Gaps in Quality Workflows on Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=142364</id>
         <link href="https://erpsoftwareblog.com/2026/02/quality-inspector-v7-25-closing-common-gaps-in-quality-workflows-on-business-central/"/>
@@ -79,26 +154,6 @@ How Manufacturers Automate Preventive Maintenance with Business Central
 The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
         <author>
             <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages Web Application Firewall – Help to prevent script injection via Web API]]></title>
-        <id>https://365community.online/power-pages-web-application-firewall-help-to-prevent-script-injection-via-web-api</id>
-        <link href="https://365community.online/power-pages-web-application-firewall-help-to-prevent-script-injection-via-web-api"/>
-        <updated>2026-02-20T19:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Out-of-the box, without extra configurations, Power Pages does not prevent saving data with scripts on text fields. Of course, we need to do as a good practice to always escape any text read from Dataverse, but there is a friend that can help with this in Power Pages: Web Application Firewall By simply enabling Power […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Chat vs. Work: Know Where your Data Lives – YouTube]]></title>
-        <id>https://365community.online/copilot-chat-vs-work-know-where-your-data-lives-youtube</id>
-        <link href="https://365community.online/copilot-chat-vs-work-know-where-your-data-lives-youtube"/>
-        <updated>2026-02-20T18:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Copilot Chat vs. Work: Know Where your Data Lives]]></summary>
-        <author>
-            <name>Peter Petersen</name>
         </author>
     </entry>
     <entry>
@@ -144,26 +199,6 @@ A Wake-up Call - A Game Changer Is on the Way
 Move with equipment-driven market trends easily with DynaRent for Microsoft Dynamics 365]]></summary>
         <author>
             <name>Rillion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have a Plan? Build Your Solution with Plan Designer – The Rise of Agents (Lesson 6) – Nick Doelman – YouTube]]></title>
-        <id>https://365community.online/have-a-plan-build-your-solution-with-plan-designer-the-rise-of-agents-lesson-6-nick-doelman-youtube</id>
-        <link href="https://365community.online/have-a-plan-build-your-solution-with-plan-designer-the-rise-of-agents-lesson-6-nick-doelman-youtube"/>
-        <updated>2026-02-20T16:59:33.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Zero To Hero: The Rise of Agents, Nick Doelman (Microsoft MVP) breaks down how to go from idea ➝ plan ➝ working Power Platform solution using Power Apps Plan Designer (aka “Plans”). You’ll see a practical, real-world workflow: – How to collect requirements the smart way (Copilot Notebooks / docs / […]]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operationalize configuration-based deployments to work with Microsoft Fabric and Azure DevOps]]></title>
-        <id>https://365community.online/operationalize-configuration-based-deployments-to-work-with-microsoft-fabric-and-azure-devops</id>
-        <link href="https://365community.online/operationalize-configuration-based-deployments-to-work-with-microsoft-fabric-and-azure-devops"/>
-        <updated>2026-02-20T13:48:00.000Z</updated>
-        <summary type="html"><![CDATA[This post covers how to operationalize configuration-based deployments to work with Microsoft Fabric and Azure DevOps. This feature is now generally available in the latest fabric-cicd release. Microsoft has officially announced official support for Microsoft fabric-cicd tool. With that news, this feels like the perfect time to follow up on the post read by thousands […]]]></summary>
-        <author>
-            <name>Kevin Chant</name>
         </author>
     </entry>
     <entry>
@@ -108466,152 +108501,6 @@ Similar to other tests, we are looking at a workload size of 1, 10, 250, and 100
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revaluation of Moving average in Microsoft Dynamics 365 Finance and Operations: Part-7]]></title>
-        <id>http://exploredynamics365.home.blog/?p=2824</id>
-        <link href="https://exploredynamics365.home.blog/2024/02/24/revaluation-of-moving-average-in-microsoft-dynamics-365-finance-and-operations-part-7/"/>
-        <updated>2024-02-24T12:44:09.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to part 7 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about revaluation moving average valuation method. Revaluation of moving average feature helps you to redefine your cost price for the product as on date. It works like the adjustment feature which […]]]></summary>
-        <author>
-            <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revaluation of Moving average in Microsoft Dynamics 365 Finance and Operations: Part-7]]></title>
-        <id>http://exploredynamics365.home.blog/?p=2824</id>
-        <link href="https://exploredynamics365.home.blog/2024/02/24/revaluation-of-moving-average-in-microsoft-dynamics-365-finance-and-operations-part-7/"/>
-        <updated>2024-02-24T12:44:09.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to part 7 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about revaluation moving average valuation method. Revaluation of moving average feature helps you to redefine your cost price for the product as on date. It works like the adjustment feature which […]]]></summary>
-        <author>
-            <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Storage Classes in C++ | Complete Guide – YouTube]]></title>
-        <id>https://365community.online/understanding-storage-classes-in-c-complete-guide-youtube</id>
-        <link href="https://365community.online/understanding-storage-classes-in-c-complete-guide-youtube"/>
-        <updated>2024-02-24T09:47:08.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Storage Classes in C++ | Complete Guide Delve into the intricate world of storage classes in C++ with this comprehensive tutorial! Whether you’re a beginner or seeking to deepen […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conquer Dynamics 365 CRM Chaos with Copilot and Inogic Data Recovery App!]]></title>
-        <id>https://365community.online/conquer-dynamics-365-crm-chaos-with-copilot-and-inogic-data-recovery-app</id>
-        <link href="https://365community.online/conquer-dynamics-365-crm-chaos-with-copilot-and-inogic-data-recovery-app"/>
-        <updated>2024-02-24T09:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Ever feel like your Dynamics 365 CRM is a whirlwind of data updates? As a sales rep, you are juggling leads, opportunities, and customer data; every edit ripples through the […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering the Switch Statement in C++ | Complete Guide – YouTube]]></title>
-        <id>https://365community.online/mastering-the-switch-statement-in-c-complete-guide-youtube</id>
-        <link href="https://365community.online/mastering-the-switch-statement-in-c-complete-guide-youtube"/>
-        <updated>2024-02-24T09:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Mastering the Switch Statement in C++ | Complete Guide Unlock the full potential of control flow in C++ with this comprehensive tutorial on the “switch” statement! Whether you’re a beginner […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Recursion in C++ | C++ Tutorial for Beginners – YouTube]]></title>
-        <id>https://365community.online/exploring-recursion-in-c-c-tutorial-for-beginners-youtube</id>
-        <link href="https://365community.online/exploring-recursion-in-c-c-tutorial-for-beginners-youtube"/>
-        <updated>2024-02-24T08:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Exploring Recursion in C++ | C++ Tutorial for Beginners Dive deep into the world of recursion in C++ with this comprehensive tutorial! Whether you’re new to programming or looking to […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering the While Loop in C++ | Complete Guide – YouTube]]></title>
-        <id>https://365community.online/mastering-the-while-loop-in-c-complete-guide-youtube</id>
-        <link href="https://365community.online/mastering-the-while-loop-in-c-complete-guide-youtube"/>
-        <updated>2024-02-24T05:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Mastering the While Loop in C++ | Complete Guide Unlock the full potential of iteration in C++ with this comprehensive tutorial on the “while” loop! Whether you’re a beginner or […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up an SSL Certificate for MS Dynamics 365 Business Central On-Premises.]]></title>
-        <id>https://365community.online/how-to-set-up-an-ssl-certificate-for-ms-dynamics-365-business-central-on-premises</id>
-        <link href="https://365community.online/how-to-set-up-an-ssl-certificate-for-ms-dynamics-365-business-central-on-premises"/>
-        <updated>2024-02-24T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, In this article we will discuss about Steps to setup SSL Certificate in Business Central on-prem environment.  This video describes all steps w.r.t Creating and Deploying Test SSL […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics Business Central for more Accounting features]]></title>
-        <id>https://erpsoftwareblog.com/?p=104362</id>
-        <link href="https://erpsoftwareblog.com/2024/02/microsoft-dynamics-business-central-for-more-accounting-features/"/>
-        <updated>2024-02-23T19:10:05.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of small and medium-sized businesses, the need for efficient and streamlined business management solutions has never been more critical. Microsoft offers a comprehensive solution with its […]
-The post Microsoft Dynamics Business Central for more Accounting features appeared first on ERP Software Blog.
-Join JourneyTEAM's Tech Insider Update Webinar on 8/6
-There ain't no thing as a free WMS? Think again.
-Get an Instant Budgetary Quote For Microsoft Dynamics ERP]]></summary>
-        <author>
-            <name>Accountnet, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Button in Modern Command Bar Disappearing After Grid Item Selection]]></title>
-        <id>https://365community.online/how-to-fix-button-in-modern-command-bar-disappearing-after-grid-item-selection</id>
-        <link href="https://365community.online/how-to-fix-button-in-modern-command-bar-disappearing-after-grid-item-selection"/>
-        <updated>2024-02-23T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[This post provides a resolution for the issue that the modern command button added to the Main Grid, Subgrid View or Associated View doesn’t appear as expected after one or […]]]></summary>
-        <author>
-            <name>Linn Zaw Win</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Invoice Automation for Multi-Entity Management in D365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=104357</id>
-        <link href="https://erpsoftwareblog.com/2024/02/unlocking-invoice-automation-for-multi-entity-management-in-d365-business-central/"/>
-        <updated>2024-02-23T15:46:30.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced business landscape, efficiency and accuracy are paramount. With the increasing demands on finance departments to streamline processes while ensuring compliance and accuracy, invoice automation has emerged as […]
-The post Unlocking Invoice Automation for Multi-Entity Management in D365 Business Central appeared first on ERP Software Blog.
-D365 Business Central Case Study: Stenger & Stenger
-Business Central VS. NetSuite: Which Software is Right for Your Business?
-SimplyAP - Cloud AP Automation for Business Central]]></summary>
-        <author>
-            <name>KwikTag by Paymerang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why use SmartBOL® to create a VICS bill of lading?]]></title>
-        <id>https://erpsoftwareblog.com/?p=104355</id>
-        <link href="https://erpsoftwareblog.com/2024/02/why-use-smartbol-to-create-a-vics-bill-of-lading/"/>
-        <updated>2024-02-23T15:33:18.000Z</updated>
-        <summary type="html"><![CDATA[SmartBOL® creates a VICS bill of lading that ensures: A unique 17-digit bill of lading number using your UCC code A bill of lading number and Pro number barcodes Automatically […]
-The post Why use SmartBOL® to create a VICS bill of lading? appeared first on ERP Software Blog.
-17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP
-Nobody Wants to Experience an ACA Audit
-Why Your Company Can't Afford to Ignore an ERP Solution]]></summary>
-        <author>
-            <name>SmartBOL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERP-eCommerce Integration with Webstore Setup]]></title>
-        <id>https://erpsoftwareblog.com/?p=104324</id>
-        <link href="https://erpsoftwareblog.com/2024/02/erp-ecommerce-integration-with-webstore-setup/"/>
-        <updated>2024-02-23T15:02:59.000Z</updated>
-        <summary type="html"><![CDATA[This digital era demands businesses to streamline operations and enhance customer experience. Bundle products are very attractive in this regard due to the availability of multiple solutions under one roof. […]
-The post ERP-eCommerce Integration with Webstore Setup appeared first on ERP Software Blog.
-Unified View of Information through ERP & eCommerce Integration
-Benefits of ERP and POS Integration
-Customer Data Gathering with ERP Software]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
         </author>
     </entry>
     <entry>
