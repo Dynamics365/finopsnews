@@ -2,10 +2,242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-23T02:32:54.619Z</updated>
+    <updated>2026-02-24T02:29:09.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Releases Quality Inspector v7.25 for Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=142372</id>
+        <link href="https://erpsoftwareblog.com/2026/02/insight-works-releases-quality-inspector-v7-25-for-microsoft-dynamics-365-business-central/"/>
+        <updated>2026-02-23T20:31:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works released Quality Inspector v7.25 for Microsoft Dynamics 365 Business Central, adding features that reduce manual test entry, improve lot blocking, cut notification noise, and enhance warehouse put-away with […]
+The post Insight Works Releases Quality Inspector v7.25 for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Autonomous Microsoft Enterprise]]></title>
+        <id>https://365community.online/unlocking-autonomous-microsoft-enterprise</id>
+        <link href="https://365community.online/unlocking-autonomous-microsoft-enterprise"/>
+        <updated>2026-02-23T20:01:07.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:07,680Most organizations think agents means co-pilot with extra steps, a nicer chat box, a few connectors, maybe some workflow buttons. 200:00:07,680 –> 00:00:15,840They are wrong. Co-pilot speeds up a human. Autonomy replaces the human step entirely, planning, acting, verifying, and documenting without waiting for your approval. 300:00:15,840 –> 00:00:23,920And that’s where the fear […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Strengthen Formula Management in Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=141937</id>
+        <link href="https://erpsoftwareblog.com/2026/02/how-to-strengthen-formula-management-in-dynamics-365-business-central/"/>
+        <updated>2026-02-23T18:46:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Food processors are under pressure from every direction right now. Ingredient costs are up. Freight is unpredictable. Labor is tight. Customers want more transparency, faster turnaround, and cleaner labels. Meanwhile, […]
+The post How to Strengthen Formula Management in Dynamics 365 Business Central appeared first on ERP Software Blog.
+Service Level Agreements For Accounting Software Users
+Fuel Your Organization's Operational Efficiency and Productivity with Integrated Accounting Software
+The 3 Main Benefits of Purchasing All of Your Software Requirements from One Microsoft Dynamics Reseller]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solution Failed to Import – Missing Lookup View Dependency in Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/solution-failed-to-import-missing-lookup-view-dependency-in-dataverse-dynamics-365</id>
+        <link href="https://365community.online/solution-failed-to-import-missing-lookup-view-dependency-in-dataverse-dynamics-365"/>
+        <updated>2026-02-23T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, while trying to import a solution, we got the below dependencies error. Solution ” Configuration” failed to import: The dependent component SavedQuery (Id=50658a7f-473b-ec11-8c64-000d3a8ead20) does not exist. Failure trying to associate it with SystemForm (Id=a00da85e-5fc4-f011-bbd3-000d3ad2506c) as a dependency. Missing dependency lookup type = PrimaryKeyLookup. The error indicated that a specific Contact view (ASP C1 Contacts) […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Sanctions Screening in Accounts Payable: A Guide for Business Central Teams]]></title>
+        <id>https://erpsoftwareblog.com/?p=142503</id>
+        <link href="https://erpsoftwareblog.com/2026/02/automated-sanctions-screening-accounts-payable/"/>
+        <updated>2026-02-23T17:47:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Automated Sanctions Screening in Accounts Payable: A Practical Guide for Business Central Teams Accounts payable teams carry a quiet but critical responsibility: managing vendor risk while keeping payments on track. […]
+The post Automated Sanctions Screening in Accounts Payable: A Guide for Business Central Teams appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+Business Central vs Dynamics GP: How to Plan Your ERP Transition
+Remote Payment Services: The Key to Finance Resilience]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a High-Performance Workforce]]></title>
+        <id>https://365community.online/build-a-high-performance-workforce</id>
+        <link href="https://365community.online/build-a-high-performance-workforce"/>
+        <updated>2026-02-23T16:19:49.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,120Most organizations think deploy Copilot 200:00:02,120 –> 00:00:03,920and suddenly they have an agentec workforce. 300:00:03,920 –> 00:00:06,160They are wrong agents don’t create discipline. 400:00:06,160 –> 00:00:09,360They amplify whatever entropy already exists. 500:00:09,360 –> 00:00:12,560Bad data, unclear ownership, and controls 600:00:12,560 –> 00:00:14,080that only live in PowerPoint. 700:00:14,080 –> 00:00:16,800So week two arrives, the […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Audit Trail in a Real Audit]]></title>
+        <id>https://erpsoftwareblog.com/?p=142404</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-audit-trail-in-a-real-audit/"/>
+        <updated>2026-02-23T14:13:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central audit trail controls determine how easily finance can explain who changed what, when, and why. I have been in audits where a single adjustment led to thirty minutes […]
+The post Business Central Audit Trail in a Real Audit appeared first on ERP Software Blog.
+10 Time Saving Business Central Keyboard Shortcuts You Need Today
+Case Study: Embracing ClickLearn as a corporate Dynamics 365 training platform
+Choosing the Right AP Automation Solution: Checklist]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy RevOps on D365: Unifying Customer, Asset, Billing & Service Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=142485</id>
+        <link href="https://erpsoftwareblog.com/2026/02/energy-revops-on-d365-unifying-customer-asset-billing-service-operations/"/>
+        <updated>2026-02-23T13:17:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The energy industry is undergoing one of the most significant operational transformations in decades. As providers expand into solar, heat pumps, EV charging, battery storage, and smart-home technologies, their business […]
+The post Energy RevOps on D365: Unifying Customer, Asset, Billing & Service Operations appeared first on ERP Software Blog.
+Mekorma Payment Hub v0.9: New Features for Business Central
+The Next Era of Subscription Intelligence in D365: How AI Is Reshaping Billing, Renewals and RevOps
+DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021]]></summary>
+        <author>
+            <name>Bluefort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SysMock in D365FO]]></title>
+        <id>https://dev.goshoom.net/?p=10266</id>
+        <link href="https://dev.goshoom.net/2026/02/sysmock-in-d365fo/"/>
+        <updated>2026-02-23T13:05:43.000Z</updated>
+        <summary type="html"><![CDATA[This post is about mock objects for unit testing in Dynamics 365 Finance and Operations, using the existing SysMock library. Mock objects are used to mimic behaviour of real objects to isolate the parts of code you want to test, to simplify test setup, to simulate specific responses and so on. SysMock is a library ...
+Continue reading ‘SysMock in D365FO’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Agentic Advantage Explained]]></title>
+        <id>https://365community.online/the-agentic-advantage-explained</id>
+        <link href="https://365community.online/the-agentic-advantage-explained"/>
+        <updated>2026-02-23T12:42:16.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,280Most organizations hear more agents and assume more productivity. 200:00:04,280 –> 00:00:06,560That assumption is comfortable, it’s also wrong. 300:00:06,560 –> 00:00:08,840More agents usually means more unmanaged authority, 400:00:08,840 –> 00:00:10,120more automated side effects, 500:00:10,120 –> 00:00:13,240and more places where accountability quietly disappears. 600:00:13,240 –> 00:00:14,760This isn’t an episode about features, 700:00:14,760 –> 00:00:17,040it’s […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: download symbols from Microsoft’s public NuGet source.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-download-symbols-from-microsofts-public-nuget-source</id>
+        <link href="https://365community.online/dynamics-365-business-central-download-symbols-from-microsofts-public-nuget-source"/>
+        <updated>2026-02-23T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone of you know that for working with a Dynamics 365 Business Central AL project you need symbols, and symbols are usually downloaded from the Dynamics 365 Business Central environment specified in your launch.json file (yes, there are also developers that share symbols with cut/paste across projects, but that’s another story). This is the most […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Delays Hurting Your Manufacturing Business? Business Central ERP Can Help]]></title>
+        <id>https://erpsoftwareblog.com/?p=142481</id>
+        <link href="https://erpsoftwareblog.com/2026/02/supply-chain-delays-hurting-your-manufacturing-business-business-central-erp-can-help/"/>
+        <updated>2026-02-23T11:25:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Supply chain disruptions are no longer occasional setbacks—they’ve become a persistent operational risk for manufacturers. From raw material shortages to unpredictable supplier lead times, supply chain management for manufacturing has […]
+The post Supply Chain Delays Hurting Your Manufacturing Business? Business Central ERP Can Help appeared first on ERP Software Blog.
+Transform the Manufacturing Industry with Microsoft Dynamics 365
+Microsoft Dynamics ERP for Distribution/Manufacturing Industry
+3 Ways To Smoothly Onboard Vendors]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of Determinism: How AI Forces Us to Rethink Testing]]></title>
+        <id>https://365community.online/the-death-of-determinism-how-ai-forces-us-to-rethink-testing</id>
+        <link href="https://365community.online/the-death-of-determinism-how-ai-forces-us-to-rethink-testing"/>
+        <updated>2026-02-23T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Joan Gamell on Unsplash AI is transforming every stage of the delivery lifecycle. Clients want faster delivery, higher quality, and more innovation — yet AI introduces a new challenge: non-deterministic behaviour. In a world where outputs can differ run-to-run, traditional ways we build, test, and release software must evolve. This blog explores what life looked like […]]]></summary>
+        <author>
+            <name>Kieran Holmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprise Architecture and Copilot Insights]]></title>
+        <id>https://365community.online/enterprise-architecture-and-copilot-insights</id>
+        <link href="https://365community.online/enterprise-architecture-and-copilot-insights"/>
+        <updated>2026-02-23T09:09:09.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,300Most enterprises roll out co-pilot like it’s a nicer search box and a faster PowerPoint 200:00:04,300 –> 00:00:05,300in turn. 300:00:05,300 –> 00:00:06,300They are wrong. 400:00:06,300 –> 00:00:09,760The moment co-pilot becomes agentic, it stops answering questions and starts taking 500:00:09,760 –> 00:00:13,160actions and that multiplies authority across your tenant without anyone admitting they 600:00:13,160 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel Reporting for Business Central: From 5 to 50 Users in a Year]]></title>
+        <id>https://erpsoftwareblog.com/?p=142467</id>
+        <link href="https://erpsoftwareblog.com/2026/02/excel-reporting-for-business-central-from-5-to-50-users-in-a-year/"/>
+        <updated>2026-02-23T08:50:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Imagine an ERP add-on that practically sells itself. For Microsoft Dynamics 365 Business Central partners and resellers, Exsion365 offers exactly that. It’s an Excel-based reporting solution for Business Central that […]
+The post Excel Reporting for Business Central: From 5 to 50 Users in a Year appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Ellie Silva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Agent 365: Automating ERP with AI Agents]]></title>
+        <id>https://erpsoftwareblog.com/?p=142464</id>
+        <link href="https://erpsoftwareblog.com/2026/02/microsoft-agent-365-automating-erp-with-ai-agents/"/>
+        <updated>2026-02-23T08:04:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Enterprise Resource Planning systems are evolving fast. Traditional ERP platforms helped businesses manage finance, supply chain, sales, and operations. Now, AI powered agents are transforming ERP from a reactive system […]
+The post Microsoft Agent 365: Automating ERP with AI Agents appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 3 – Heather Perriam]]></title>
+        <id>https://365community.online/episode-3-heather-perriam</id>
+        <link href="https://365community.online/episode-3-heather-perriam"/>
+        <updated>2026-02-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's time for Episode 3 (already!!!) and we have the fantastic Heather Perriam joining Mike Hartley for the regular round of questions – all answered from our guests personal perspective. Heather is a big advocate for Accessibility and ensures that it is always built in from the beginning of projects. She is also adult-diagnosed ADHD […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Sign Documents in Power Automate Using Docentric and Docusign]]></title>
+        <id>https://ax.docentric.com/?p=33701</id>
+        <link href="https://ax.docentric.com/sign-d365fo-docusign-power-automate-docentric/"/>
+        <updated>2026-02-23T06:56:05.000Z</updated>
+        <summary type="html"><![CDATA[This guide shows the full setup behind the signing flow you saw in the previous article. You’ll save the printed PO confirmation to SharePoint with metadata, trigger a Docusign envelope, and push the signed PDF back to Dynamics 365 Finance and Operations (D365FO) as an […]
+The post How to Sign Documents in Power Automate Using Docentric and Docusign appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Adria Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Persistent Context in M365]]></title>
+        <id>https://365community.online/mastering-persistent-context-in-m365</id>
+        <link href="https://365community.online/mastering-persistent-context-in-m365"/>
+        <updated>2026-02-23T05:36:15.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,120Most organizations think co-pilot success is a prompting problem. 200:00:03,120 –> 00:00:06,240If users just learn the right magic words, the model will behave. 300:00:06,240 –> 00:00:09,040They’re wrong. Your prompts aren’t failing because people can’t write. 400:00:09,040 –> 00:00:12,320They’re failing because the enterprise never built a place where intent can live, 500:00:12,320 –> 00:00:15,920stay […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Copilot Agents Fail: An Architectural Insight]]></title>
         <id>https://365community.online/why-copilot-agents-fail-an-architectural-insight</id>
@@ -92,6 +324,21 @@ How Microsoft Dynamics 365 Can Transform Your Manufacturing Business]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Much Does it Cost to Migrate Dynamics Nav to Dynamics 365?]]></title>
+        <id>https://erpsoftwareblog.com/?p=142475</id>
+        <link href="https://erpsoftwareblog.com/2026/02/migrate-dynamics-nav-to-dynamics-365-cost/"/>
+        <updated>2026-02-22T10:13:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Quick Summary: The average cost to migrate Dynamics NAV to Dynamics 365 typically ranges between $10,000 to $50,000+, depending upon the complexity of the system, data volume, customizations, and implementations. […]
+The post How Much Does it Cost to Migrate Dynamics Nav to Dynamics 365? appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Architecting Scalable SharePoint Automation]]></title>
         <id>https://365community.online/architecting-scalable-sharepoint-automation</id>
         <link href="https://365community.online/architecting-scalable-sharepoint-automation"/>
@@ -109,6 +356,21 @@ How Microsoft Dynamics 365 Can Transform Your Manufacturing Business]]></summary
         <summary type="html"><![CDATA[Most organizations misunderstand Power Platform. They treat it like a productivity toy.Drag boxes. Automate an email. Call it transformation. It works at ten runs per day.It collapses at ten thousand. Not because the platform failed.Because complexity was never priced. So here’s the mandate: Power Platform = Orchestration tier Python = Execution tier Azure = Governance […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supplier Risk Management: Using D365 F&SCM For Modern Procurement]]></title>
+        <id>https://erpsoftwareblog.com/?p=142238</id>
+        <link href="https://erpsoftwareblog.com/2026/02/supplier-risk-management-using-d365-fscm-for-modern-procurement/"/>
+        <updated>2026-02-21T18:41:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Supplier risk used to be something teams talked about during major disruptions. Today, it shows up quietly and constantly—missed commit dates, partial deliveries, recurring quality issues, and “temporary” workarounds that […]
+The post Supplier Risk Management: Using D365 F&SCM For Modern Procurement appeared first on ERP Software Blog.
+Scaling Telco Subscription Models on D365 FSCM: From Financial Control to Revenue Intelligence
+Beyond Native Billing: Designing D365 for Omnichannel Retail Subscriptions
+Designing Loyalty-Centric Subscription Models in Retail with D365 and LISA]]></summary>
+        <author>
+            <name>Supplier Risk</name>
         </author>
     </entry>
     <entry>
@@ -108491,16 +108753,6 @@ Similar to other tests, we are looking at a workload size of 1, 10, 250, and 100
         <summary type="html"><![CDATA[After the Copilot series in Microsoft Reactor, I received some very kind messages about Nova. For those who haven’t seen the series, Nova is a Copilot I created to learn […]]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HR Copilot Studio Application – Part 2]]></title>
-        <id>http://dynamicsax-fico.com/?p=5742</id>
-        <link href="https://dynamicsax-fico.com/2024/02/25/hr-copilot-studio-application-part-2/"/>
-        <updated>2024-02-25T06:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
         </author>
     </entry>
     <entry>
