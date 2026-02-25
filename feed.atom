@@ -2,10 +2,271 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-24T02:29:09.477Z</updated>
+    <updated>2026-02-25T02:30:49.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft D365 Finance vs Best-of-Breed AP Automation: Key Process Gaps and Cost Impacts]]></title>
+        <id>https://erpsoftwareblog.com/?p=142650</id>
+        <link href="https://erpsoftwareblog.com/2026/02/microsoft-d365-finance-vs-best-of-breed-ap-automation-key-process-gaps-and-cost-impacts/"/>
+        <updated>2026-02-24T23:06:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In this blog post, I explore the differences between Dynamics 365 Finance and third-party AP automation tools, focusing on how each handles various invoice types, particularly recurring invoices. You'll gain […]
+The post Microsoft D365 Finance vs Best-of-Breed AP Automation: Key Process Gaps and Cost Impacts appeared first on ERP Software Blog.
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS
+Cloud ERP - Why it might be a worthwhile investment for your company
+Rent, Service, Repeat - Microsoft Dynamics 365 for Equipment Rental Management]]></summary>
+        <author>
+            <name>Dooap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerShell vs Graph API: Who Wins When?]]></title>
+        <id>https://365community.online/powershell-vs-graph-api-who-wins-when</id>
+        <link href="https://365community.online/powershell-vs-graph-api-who-wins-when"/>
+        <updated>2026-02-24T21:50:47.000Z</updated>
+        <summary type="html"><![CDATA[What’s faster: scripting a quick user report in PowerShell or building a full-scale integration with Graph API? Most admins only discover the answer after wasting hours on the wrong tool. In this video, we break down the exact moment you should switch from scripts to code as your environment gets more complex. By the end, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Order Fulfillment and Allocation Breakdown in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=142375</id>
+        <link href="https://erpsoftwareblog.com/2026/02/why-order-fulfillment-and-allocation-breakdown-in-business-central/"/>
+        <updated>2026-02-24T20:53:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast Conflicting Inventory Commitments and Backorder Confusion Warehouse and sales teams frequently face conflicting information about which orders can be fulfilled when inventory is limited. Manual allocation […]
+The post Why Order Fulfillment and Allocation Breakdown in Business Central appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Typing speed benchmark]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=11121</id>
+        <link href="https://tomaztsql.wordpress.com/2026/02/24/little-useless-useful-r-functions-typing-speed-benchmark/"/>
+        <updated>2026-02-24T20:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Did you ever wonder how fast and with accuracy your typing is? For this instance, we will introduce some random pangrams, code samples and random strings sotrted by level of difficulty. Addition to list of sample strings, we have also…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troubleshooting Series – Ep5 – Telemetry]]></title>
+        <id>https://365community.online/troubleshooting-series-ep5-telemetry</id>
+        <link href="https://365community.online/troubleshooting-series-ep5-telemetry"/>
+        <updated>2026-02-24T19:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Next topic in the troubleshooting series: Telemetry. Probably the biggest one yet – and one that’s quite close to my heart, as I’ve been spending a ridiculous amount of time on it over the past years. As always in this series – I just want to throw a bit of “waldo”-sauce on there, with my own […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining the Supply Chain for VARs using Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=142640</id>
+        <link href="https://erpsoftwareblog.com/2026/02/streamlining-the-supply-chain-for-vars-using-microsoft-dynamics-365-business-central/"/>
+        <updated>2026-02-24T19:31:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Reselling products to the Federal Government is a high-volume, high-complexity business. Value-Added Resellers (VARs) operate in a world defined by razor-thin margins and specific contract vehicles like SEWP, NITAAC, and […]
+The post Streamlining the Supply Chain for VARs using Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>XTIVIA-GovCon365</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded payments in action: How to consolidate systems and automate invoicing with your ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=142628</id>
+        <link href="https://erpsoftwareblog.com/2026/02/embedded-payments-in-action-paytrace-success-story/"/>
+        <updated>2026-02-24T18:40:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Embedded Payments in Action Like many nonprofit organizations, Blind Industries & Services of Maryland (BISM) was growing beyond its outdated systems and cumbersome manual processes. With Microsoft Dynamics GP […]
+The post Embedded payments in action: How to consolidate systems and automate invoicing with your ERP appeared first on ERP Software Blog.
+How are AP and AR the 2 Sides of The Same Coin?
+Optimize Your B2B Credit Card Processing Spend in Dynamics 365 Business Central
+Top 4 Reasons Your Business Needs Unified A/R for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Mary Miller, PayTrace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Dependencies Shown… But still can’t delete the component? Check Your Cloud Flows (Dataverse / Dynamics 365)]]></title>
+        <id>https://365community.online/no-dependencies-shown-but-still-cant-delete-the-component-check-your-cloud-flows-dataverse-dynamics-365</id>
+        <link href="https://365community.online/no-dependencies-shown-but-still-cant-delete-the-component-check-your-cloud-flows-dataverse-dynamics-365"/>
+        <updated>2026-02-24T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, while performing cleanup in one of our environments, we were removing unused components to reduce clutter and technical debt. As part of this activity, we attempted to delete an old Business Process Flow (BPF) that was no longer required. However, when trying to delete the Business Process Flow, we were greeted with the following […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 7-Step Mandate for Microsoft 365 Excellence]]></title>
+        <id>https://365community.online/a-7-step-mandate-for-microsoft-365-excellence</id>
+        <link href="https://365community.online/a-7-step-mandate-for-microsoft-365-excellence"/>
+        <updated>2026-02-24T18:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations treat their Microsoft 365 tenant as a configuration container. It is not. Your tenant is either: A sovereign operating system for the enterprise,or A vulnerability waiting to scale. The difference is architectural intent. This episode introduces a deterministic 7-layer framework that separates organizations that run Microsoft 365 from those that are run by […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 Unique Ways WordPress.com Makes Site Ownership Easier]]></title>
+        <id>https://365community.online/14-unique-ways-wordpress-com-makes-site-ownership-easier</id>
+        <link href="https://365community.online/14-unique-ways-wordpress-com-makes-site-ownership-easier"/>
+        <updated>2026-02-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On WordPress.com, you can manage the entire lifecycle of your website — setup, development, launch, day-to-day management, and potential adjustments — on a single platform that grows with you. When I first learned to build WordPress sites, I had to stitch them together from different tools and vendors. Think of connecting your domain registrar to […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Resilience Mandate in AI Security]]></title>
+        <id>https://365community.online/the-resilience-mandate-in-ai-security</id>
+        <link href="https://365community.online/the-resilience-mandate-in-ai-security"/>
+        <updated>2026-02-24T14:30:47.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,960Most organizations think securities are checklist, MFA, 200:00:02,960 –> 00:00:06,680EDR, a pile of policies, and a dashboard that’s mostly green. 300:00:06,680 –> 00:00:09,560That setup feels like control, it isn’t, it’s coverage, 400:00:09,560 –> 00:00:11,360and coverage doesn’t equal resilience. 500:00:11,360 –> 00:00:14,640This episode is about the uncomfortable shift leaders have to make, 600:00:14,640 –> […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Maia 200: The AI Chip – YouTube]]></title>
+        <id>https://365community.online/microsoft-maia-200-the-ai-chip-youtube</id>
+        <link href="https://365community.online/microsoft-maia-200-the-ai-chip-youtube"/>
+        <updated>2026-02-24T14:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Maia 200: The AI Chip Discover how Microsoft’s new Maia 200 AI accelerator is changing the game for artificial intelligence! In this AzBytes episode, John Lunn and Ty Parkin break down why Maia 200 is making headlines: 3x faster than Amazon’s latest AI chips and outpaces Google’s TPUs 30% more cost-efficient than Microsoft’s previous […]]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Maia 200: The AI Chip – YouTube]]></title>
+        <id>https://365community.online/microsoft-maia-200-the-ai-chip-youtube</id>
+        <link href="https://365community.online/microsoft-maia-200-the-ai-chip-youtube"/>
+        <updated>2026-02-24T14:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Maia 200: The AI Chip Discover how Microsoft’s new Maia 200 AI accelerator is changing the game for artificial intelligence! In this AzBytes episode, John Lunn and Ty Parkin break down why Maia 200 is making headlines: 3x faster than Amazon’s latest AI chips and outpaces Google’s TPUs 30% more cost-efficient than Microsoft’s previous […]]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Sales Commission Calculations in Microsoft Dynamics GP]]></title>
+        <id>https://erpsoftwareblog.com/?p=142521</id>
+        <link href="https://erpsoftwareblog.com/2026/02/how-to-automate-sales-commission-calculations-in-microsoft-dynamics-gp/"/>
+        <updated>2026-02-24T13:50:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Stop Wasting Days (and Nights) on Manual Commission Calculations Summary: If you’re processing complex sales commissions in Microsoft Dynamics GP using Excel spreadsheets or homegrown systems, you’re facing unnecessary delays, […]
+The post How to Automate Sales Commission Calculations in Microsoft Dynamics GP appeared first on ERP Software Blog.
+Crafting Your Variable Pay Program: 5 Tips For Success
+Reliable by Design: How Commission Plan Became Metropolitan Sales’ Trusted Solution
+Question: Can I Assign Multiple Salespeople to One Customer in GP?]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Must-Have AI Innovations Shaping 2026 – YouTube]]></title>
+        <id>https://365community.online/5-must-have-ai-innovations-shaping-2026-youtube</id>
+        <link href="https://365community.online/5-must-have-ai-innovations-shaping-2026-youtube"/>
+        <updated>2026-02-24T13:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Discover the 5 must-have AI innovations that are shaping the future of technology in 2026. From the Azure AI Foundry to Microsoft 365 Copilot, these cutting-edge solutions are revolutionizing the way businesses approach enterprise security, cybersecurity, and data governance. With the help of Agentic AI and Unified governance, companies can now ensure that their cloud […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Dynamics 365 Modules Every Agriculture Business Needs in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=142599</id>
+        <link href="https://erpsoftwareblog.com/2026/02/dynamics-365-modules-agriculture/"/>
+        <updated>2026-02-24T13:28:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why Agriculture Needs Modular, Integrated ERP/CRM Solutions If you're running a farm, cooperative, or agribusiness in 2026, you're dealing with more complexity than ever—volatile input costs, tightening compliance requirements, unpredictable […]
+The post 7 Dynamics 365 Modules Every Agriculture Business Needs in 2026 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Unified Revenue Backbone for Education on Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=142490</id>
+        <link href="https://erpsoftwareblog.com/2026/02/revenue-backbone-for-education-on-dynamics-365/"/>
+        <updated>2026-02-24T13:24:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Education providers today operate more like global enterprises than traditional institutions. From modular degree programs and subscription-based professional learning to corporate training partnerships and government-funded initiatives, revenue models have evolved […]
+The post Building a Unified Revenue Backbone for Education on Dynamics 365 appeared first on ERP Software Blog.
+Integrated Planning with deFacto Power Planning - Webinar
+To-Increase Launches a Plug-And-Play Analytics Solution for Rental Businesses
+Mekorma Payment Hub v0.9: New Features for Business Central]]></summary>
+        <author>
+            <name>Bluefort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Apps just killed Canvas Apps (Power Apps has changed forever) – YouTube]]></title>
+        <id>https://365community.online/code-apps-just-killed-canvas-apps-power-apps-has-changed-forever-youtube</id>
+        <link href="https://365community.online/code-apps-just-killed-canvas-apps-power-apps-has-changed-forever-youtube"/>
+        <updated>2026-02-24T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Code Apps just killed Canvas Apps (Power Apps has changed forever)]]></summary>
+        <author>
+            <name>Power Squared</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Key Challenges That Impact Dynamics 365 Finance Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=142582</id>
+        <link href="https://erpsoftwareblog.com/2026/02/key-challenges-that-impact-dynamics-365-finance-success/"/>
+        <updated>2026-02-24T07:58:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Implementing Dynamics 365 Finance can dramatically boost how your organization manages financial operations, reporting, and compliance. Yet, without the right strategy and execution, even the best intentions can fall short. […]
+The post 7 Key Challenges That Impact Dynamics 365 Finance Success appeared first on ERP Software Blog.
+Dynamics 365 Tutorials Help You Get up and Running Fast
+Dynamics 365 for Finance and Operations Goes Mobile
+Microsoft Dynamics 365 Overview]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://erpsoftwareblog.com/?p=142576</id>
+        <link href="https://erpsoftwareblog.com/2026/02/142576/"/>
+        <updated>2026-02-24T07:01:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP Compliance for Regulated Industries: Achieving Seed-to-Sale Traceability in Dynamics 365 Highly regulated industries do not measure ERP success by system uptime. They measure it by audit outcomes. ERP compliance […]
+The post  appeared first on ERP Software Blog.
+Request a Free Consultation: Discover How D365 Finance & Operations Can Transform Your Finance Operations
+Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental
+From Fragmented Systems to Unified Finance: Why Enterprises Are Standardizing on Dynamics 365 Finance]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industrial Order Fulfillment in D365: From Operational Complexity to Enforced Control]]></title>
+        <id>https://erpsoftwareblog.com/?p=142568</id>
+        <link href="https://erpsoftwareblog.com/2026/02/industrial-order-fulfillment-in-d365-from-operational-complexity-to-enforced-control/"/>
+        <updated>2026-02-24T03:26:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In industrial businesses, fulfillment is rarely linear. It is not a clean progression from order to shipment. It is a series of dependencies: Configured products. Multi-level BOMs. Long production cycles. […]
+The post Industrial Order Fulfillment in D365: From Operational Complexity to Enforced Control appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+GS1 Standards Boost Efficiency in D365 Supply Chain
+5 Signs It’s Time to Upgrade from Legacy ERP to Dynamics 365 Finance and Operations]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insight Works Releases Quality Inspector v7.25 for Microsoft Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=142372</id>
@@ -19,16 +280,6 @@ Vendor Data in Accounts Payable: Best Management Practices
 Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
         <author>
             <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Autonomous Microsoft Enterprise]]></title>
-        <id>https://365community.online/unlocking-autonomous-microsoft-enterprise</id>
-        <link href="https://365community.online/unlocking-autonomous-microsoft-enterprise"/>
-        <updated>2026-02-23T20:01:07.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:07,680Most organizations think agents means co-pilot with extra steps, a nicer chat box, a few connectors, maybe some workflow buttons. 200:00:07,680 –> 00:00:15,840They are wrong. Co-pilot speeds up a human. Autonomy replaces the human step entirely, planning, acting, verifying, and documenting without waiting for your approval. 300:00:15,840 –> 00:00:23,920And that’s where the fear […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -47,16 +298,6 @@ The 3 Main Benefits of Purchasing All of Your Software Requirements from One Mic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solution Failed to Import – Missing Lookup View Dependency in Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/solution-failed-to-import-missing-lookup-view-dependency-in-dataverse-dynamics-365</id>
-        <link href="https://365community.online/solution-failed-to-import-missing-lookup-view-dependency-in-dataverse-dynamics-365"/>
-        <updated>2026-02-23T18:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, while trying to import a solution, we got the below dependencies error. Solution ” Configuration” failed to import: The dependent component SavedQuery (Id=50658a7f-473b-ec11-8c64-000d3a8ead20) does not exist. Failure trying to associate it with SystemForm (Id=a00da85e-5fc4-f011-bbd3-000d3ad2506c) as a dependency. Missing dependency lookup type = PrimaryKeyLookup. The error indicated that a specific Contact view (ASP C1 Contacts) […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Automated Sanctions Screening in Accounts Payable: A Guide for Business Central Teams]]></title>
         <id>https://erpsoftwareblog.com/?p=142503</id>
         <link href="https://erpsoftwareblog.com/2026/02/automated-sanctions-screening-accounts-payable/"/>
@@ -69,16 +310,6 @@ Business Central vs Dynamics GP: How to Plan Your ERP Transition
 Remote Payment Services: The Key to Finance Resilience]]></summary>
         <author>
             <name>Mekorma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a High-Performance Workforce]]></title>
-        <id>https://365community.online/build-a-high-performance-workforce</id>
-        <link href="https://365community.online/build-a-high-performance-workforce"/>
-        <updated>2026-02-23T16:19:49.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,120Most organizations think deploy Copilot 200:00:02,120 –> 00:00:03,920and suddenly they have an agentec workforce. 300:00:03,920 –> 00:00:06,160They are wrong agents don’t create discipline. 400:00:06,160 –> 00:00:09,360They amplify whatever entropy already exists. 500:00:09,360 –> 00:00:12,560Bad data, unclear ownership, and controls 600:00:12,560 –> 00:00:14,080that only live in PowerPoint. 700:00:14,080 –> 00:00:16,800So week two arrives, the […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -123,26 +354,6 @@ Continue reading ‘SysMock in D365FO’ »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Agentic Advantage Explained]]></title>
-        <id>https://365community.online/the-agentic-advantage-explained</id>
-        <link href="https://365community.online/the-agentic-advantage-explained"/>
-        <updated>2026-02-23T12:42:16.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,280Most organizations hear more agents and assume more productivity. 200:00:04,280 –> 00:00:06,560That assumption is comfortable, it’s also wrong. 300:00:06,560 –> 00:00:08,840More agents usually means more unmanaged authority, 400:00:08,840 –> 00:00:10,120more automated side effects, 500:00:10,120 –> 00:00:13,240and more places where accountability quietly disappears. 600:00:13,240 –> 00:00:14,760This isn’t an episode about features, 700:00:14,760 –> 00:00:17,040it’s […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: download symbols from Microsoft’s public NuGet source.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-download-symbols-from-microsofts-public-nuget-source</id>
-        <link href="https://365community.online/dynamics-365-business-central-download-symbols-from-microsofts-public-nuget-source"/>
-        <updated>2026-02-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Everyone of you know that for working with a Dynamics 365 Business Central AL project you need symbols, and symbols are usually downloaded from the Dynamics 365 Business Central environment specified in your launch.json file (yes, there are also developers that share symbols with cut/paste across projects, but that’s another story). This is the most […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Supply Chain Delays Hurting Your Manufacturing Business? Business Central ERP Can Help]]></title>
         <id>https://erpsoftwareblog.com/?p=142481</id>
         <link href="https://erpsoftwareblog.com/2026/02/supply-chain-delays-hurting-your-manufacturing-business-business-central-erp-can-help/"/>
@@ -155,26 +366,6 @@ Microsoft Dynamics ERP for Distribution/Manufacturing Industry
 3 Ways To Smoothly Onboard Vendors]]></summary>
         <author>
             <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of Determinism: How AI Forces Us to Rethink Testing]]></title>
-        <id>https://365community.online/the-death-of-determinism-how-ai-forces-us-to-rethink-testing</id>
-        <link href="https://365community.online/the-death-of-determinism-how-ai-forces-us-to-rethink-testing"/>
-        <updated>2026-02-23T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Joan Gamell on Unsplash AI is transforming every stage of the delivery lifecycle. Clients want faster delivery, higher quality, and more innovation — yet AI introduces a new challenge: non-deterministic behaviour. In a world where outputs can differ run-to-run, traditional ways we build, test, and release software must evolve. This blog explores what life looked like […]]]></summary>
-        <author>
-            <name>Kieran Holmes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enterprise Architecture and Copilot Insights]]></title>
-        <id>https://365community.online/enterprise-architecture-and-copilot-insights</id>
-        <link href="https://365community.online/enterprise-architecture-and-copilot-insights"/>
-        <updated>2026-02-23T09:09:09.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,300Most enterprises roll out co-pilot like it’s a nicer search box and a faster PowerPoint 200:00:04,300 –> 00:00:05,300in turn. 300:00:05,300 –> 00:00:06,300They are wrong. 400:00:06,300 –> 00:00:09,760The moment co-pilot becomes agentic, it stops answering questions and starts taking 500:00:09,760 –> 00:00:13,160actions and that multiplies authority across your tenant without anyone admitting they 600:00:13,160 […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -208,16 +399,6 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Episode 3 – Heather Perriam]]></title>
-        <id>https://365community.online/episode-3-heather-perriam</id>
-        <link href="https://365community.online/episode-3-heather-perriam"/>
-        <updated>2026-02-23T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's time for Episode 3 (already!!!) and we have the fantastic Heather Perriam joining Mike Hartley for the regular round of questions – all answered from our guests personal perspective. Heather is a big advocate for Accessibility and ensures that it is always built in from the beginning of projects. She is also adult-diagnosed ADHD […]]]></summary>
-        <author>
-            <name>Mike Hartley</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Sign Documents in Power Automate Using Docentric and Docusign]]></title>
         <id>https://ax.docentric.com/?p=33701</id>
         <link href="https://ax.docentric.com/sign-d365fo-docusign-power-automate-docentric/"/>
@@ -226,26 +407,6 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
 The post How to Sign Documents in Power Automate Using Docentric and Docusign appeared first on Docentric AX.]]></summary>
         <author>
             <name>Adria Ariste Santacreu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Persistent Context in M365]]></title>
-        <id>https://365community.online/mastering-persistent-context-in-m365</id>
-        <link href="https://365community.online/mastering-persistent-context-in-m365"/>
-        <updated>2026-02-23T05:36:15.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,120Most organizations think co-pilot success is a prompting problem. 200:00:03,120 –> 00:00:06,240If users just learn the right magic words, the model will behave. 300:00:06,240 –> 00:00:09,040They’re wrong. Your prompts aren’t failing because people can’t write. 400:00:09,040 –> 00:00:12,320They’re failing because the enterprise never built a place where intent can live, 500:00:12,320 –> 00:00:15,920stay […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Copilot Agents Fail: An Architectural Insight]]></title>
-        <id>https://365community.online/why-copilot-agents-fail-an-architectural-insight</id>
-        <link href="https://365community.online/why-copilot-agents-fail-an-architectural-insight"/>
-        <updated>2026-02-23T02:01:31.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,280Most enterprises blame co-pilot agent failures on early platform chaos. 200:00:04,280 –> 00:00:06,280That story is comforting, it’s also wrong. 300:00:06,280 –> 00:00:09,600Agents fail because teams deploy conversation where they need control, 400:00:09,600 –> 00:00:12,080then act surprised when outcomes aren’t repeatable, 500:00:12,080 –> 00:00:13,880auditable or safe to scale. 600:00:13,880 –> 00:00:17,680In the next hour, […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -108485,274 +108646,6 @@ Project Management: Manage your project with Business Central]]></summary>
         <summary type="html"><![CDATA[This MindMajix’s YouTube video on UiPath training is for all learners who wish to make a bright career in the automation industry. This MindMajix’s RPA UiPath Course content includes topics […]]]></summary>
         <author>
             <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Factors Prompting Clients to Shift from Dynamics GP to Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=104423</id>
-        <link href="https://erpsoftwareblog.com/2024/02/understanding-the-factors-prompting-clients-to-shift-from-dynamics-gp-to-business-central/"/>
-        <updated>2024-02-26T14:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Drawing on more than two decades of experience with the Microsoft Dynamics suite, we've guided countless clients in choosing software tailored to their industry and needs. Throughout this period, we've […]
-The post Understanding the Factors Prompting Clients to Shift from Dynamics GP to Business Central appeared first on ERP Software Blog.
-Get Connected from Front to Back Office with Scribe
-US IFRS Reform Pushed Back to Mid 2013
-Reconciliation Hazards to Avoid]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drive Efficiency in Supply Chain and Logistics with Dynamics 365]]></title>
-        <id>https://erpsoftwareblog.com/?p=104420</id>
-        <link href="https://erpsoftwareblog.com/2024/02/drive-efficiency-in-supply-chain-and-logistics-with-dynamics-365/"/>
-        <updated>2024-02-26T14:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Today, achieving supply chain resilience demands real-time insights into crucial factors such as resource availability, demand fluctuations, and inventory levels. Microsoft Dynamics 365 Supply Chain Management emerges as a […]
-The post Drive Efficiency in Supply Chain and Logistics with Dynamics 365 appeared first on ERP Software Blog.
-129 Add On Products for Dynamics GP You Can See at Convergence 2015
-Top 3 Reports Management Would Love to Have, But Can't
-What to Look For When Choosing Distribution ERP Software]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Convincing Arguments for Selecting Microsoft Dynamics Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=104413</id>
-        <link href="https://erpsoftwareblog.com/2024/02/7-convincing-arguments-for-selecting-microsoft-dynamics-business-central/"/>
-        <updated>2024-02-26T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Is Microsoft Dynamics Business Central the Right Choice for Your Company? With the introduction of Microsoft Dynamics Business Central, many companies are evaluating whether it's a worthwhile investment. If […]
-The post 7 Convincing Arguments for Selecting Microsoft Dynamics Business Central appeared first on ERP Software Blog.
-Everything is Taxable until Proven Otherwise
-Avoiding ERP Implementation Failure: The How, Who, What, When and Why
-Why Upgrade to Microsoft Dynamics NAV 2015?]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling AI's Transformative Impact with Tom Marsh: A Microsoft Product Management Maestro's Journey Through Enhanced Business Applications and Personal Passions]]></title>
-        <id>https://365community.online/unveiling-ais-transformative-impact-with-tom-marsh-a-microsoft-product-management-maestros-journey-through-enhanced-business-applications-and-personal-passions</id>
-        <link href="https://365community.online/unveiling-ais-transformative-impact-with-tom-marsh-a-microsoft-product-management-maestros-journey-through-enhanced-business-applications-and-personal-passions"/>
-        <updated>2024-02-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/529  Have you ever wondered how AI can supercharge your business applications? Join me as I sit down with Tom Marsh, a Microsoft maestro of product management, […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JMeter Training | JMeter Certification Course | JMeter Tutorial For Beginners | MindMajix – YouTube]]></title>
-        <id>https://365community.online/jmeter-training-jmeter-certification-course-jmeter-tutorial-for-beginners-mindmajix-youtube</id>
-        <link href="https://365community.online/jmeter-training-jmeter-certification-course-jmeter-tutorial-for-beginners-mindmajix-youtube"/>
-        <updated>2024-02-26T12:00:39.000Z</updated>
-        <summary type="html"><![CDATA[This MindMajix’s YouTube video on JMeter training will make you expert in the real-time implementation of Load Testing. In this JMeter course include concepts like basics of performance testing, Jmeter […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Learning Through Experiments in Power Apps Development]]></title>
-        <id>https://365community.online/the-power-of-learning-through-experiments-in-power-apps-development</id>
-        <link href="https://365community.online/the-power-of-learning-through-experiments-in-power-apps-development"/>
-        <updated>2024-02-26T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[#154. Neil Benson takes us on a journey of learning through experimentation. Starting with the historical origins of smallpox inoculation, Neil discusses the importance of conducting experiments to drive innovation […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compose or Reply to Emails using Copilot]]></title>
-        <id>https://365community.online/compose-or-reply-to-emails-using-copilot</id>
-        <link href="https://365community.online/compose-or-reply-to-emails-using-copilot"/>
-        <updated>2024-02-26T10:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is known for staying up to date with the latest technological developments. In the previous blog, we saw how to integrate Sales with Copilot and how to make sales […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 19 – Topic 9: Part 1 – YouTube]]></title>
-        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-19-topic-9-part-1-youtube</id>
-        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-19-topic-9-part-1-youtube"/>
-        <updated>2024-02-26T10:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curso completo Power Apps – Criando as listas no SharePoint – YouTube]]></title>
-        <id>https://365community.online/curso-completo-power-apps-criando-as-listas-no-sharepoint-youtube</id>
-        <link href="https://365community.online/curso-completo-power-apps-criando-as-listas-no-sharepoint-youtube"/>
-        <updated>2024-02-26T09:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]]]></summary>
-        <author>
-            <name>Saulo Soares Oliveira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACDC 2024 – Why this is the ultimate hackathon]]></title>
-        <id>https://365community.online/acdc-2024-why-this-is-the-ultimate-hackathon</id>
-        <link href="https://365community.online/acdc-2024-why-this-is-the-ultimate-hackathon"/>
-        <updated>2024-02-26T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s almost been 3 weeks since the hackathon and I am a bit late on my summary of experiences. February has been hectic, but better late than never I have […]]]></summary>
-        <author>
-            <name>Thomas Sandsør</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Git in PackagesLocalDirectory – VS 2022 Edition]]></title>
-        <id>https://365community.online/using-git-in-packageslocaldirectory-vs-2022-edition</id>
-        <link href="https://365community.online/using-git-in-packageslocaldirectory-vs-2022-edition"/>
-        <updated>2024-02-25T20:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/25/24. Last modified:  02/25/24 Using Git in PackagesLocalDirectory – VS 2022 Edition This article is an update of this post to show how to use Git […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Git in PackagesLocalDirectory - VS 2022 Edition]]></title>
-        <id>1688 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/using-git-packageslocaldirectory-vs-2022-edition"/>
-        <updated>2024-02-25T20:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/25/24.
-
-
-Last modified: 
-
-02/25/24
-
-
-
-
-
-
-
-
-
-
-
-
-Using Git in PackagesLocalDirectory - VS 2022 Edition
-
-This article is an update of this post to show how to use Git in PackagesLocalDirectory when using Visual Studio 2022.
-Open VS 2022. Open the Git Changes Tab then click on Clone Repository
-
-Click on Azure DevOps
-
-Select your repo from the available projects, review settings and click "Clone". Note location to be used for later.
-
-Click Clone.
-Next, close Visual Studio and install Git from https://git-scm.com/download/win accepting the defaults if you're uncertain what the installer is asking you.
-Next, Open PowerShell as an admin to run the following commands. Update the paths to what is appropriate for your scenario first.
-#Update for your VM / environment
-…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Git in PackagesLocalDirectory - VS 2019 Edition]]></title>
-        <id>1687 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/using-git-packageslocaldirectory-vs-2019-edition"/>
-        <updated>2024-02-25T20:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/25/24.
-
-
-Last modified: 
-
-02/25/24
-
-
-
-
-
-
-
-
-
-
-
-
-Using Git in PackagesLocalDirectory - VS 2019 Edition
-This article is an update of this post to show how to use Git in PackagesLocalDirectory when using Visual Studio 2019.
-Open VS 2019. Open the Team Explorer tab then click on "connect" for Azure DevOps.
-
-Connect to your Azure DevOps Project
-
-Next, Clone the repository.
-
-Review settings and click "Clone". Note locations used for later.
-
-Click Clone.
-Next, close Visual Studio and install Git from https://git-scm.com/download/win accepting the defaults if you're uncertain what the installer is asking you.
-Next, Open PowerShell as an admin to run the following commands. Update the paths to what is appropriate for your scenario first.
-#Update for your VM / environ…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Inserts - Primary Table]]></title>
-        <id>1677 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/content/database-inserts-primary-table"/>
-        <updated>2024-02-25T20:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Does the process of inserting data with Code matter for performance by table?
-
-When inserting data in F&O, there are several best practices on how to do this from MSFT. But when inserting data, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being. 
-Firstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. We'll be examining the results using a "Primary Table"; CustTable specifically in this instance.
-The Results
-Single Insert
-The basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...
-
-This is…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Inserts - Transaction Table]]></title>
-        <id>1678 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/content/database-inserts-transaction-table"/>
-        <updated>2024-02-25T20:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Does the process of inserting data with Code matter for performance?
-
-When inserting data in F&O, there are several best practices on how to do this from MSFT. But for this specific type of workload, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being.
-Firstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. In this series of tests, we'll be looking at table SalesTable.
-The Results
-Single Insert
-The basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...
-
-Similar to other tests, we're lookin…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Inserts - Code Data Entity]]></title>
-        <id>1679 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/content/database-inserts-code-data-entity"/>
-        <updated>2024-02-25T20:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Does the process of inserting data with Code matter for performance?
-
-When inserting data in F&O, there are several best practices on how to do this from MSFT. But for this specific type of workload, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being.
-Firstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. 
-The Results
-Single Insert
-The basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...
-
-Similar to other tests, we are looking at a workload size of 1, 10, 250, and 1000. We can see that…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My own Copilot: Nova]]></title>
-        <id>https://365community.online/my-own-copilot-nova</id>
-        <link href="https://365community.online/my-own-copilot-nova"/>
-        <updated>2024-02-25T18:03:09.000Z</updated>
-        <summary type="html"><![CDATA[After the Copilot series in Microsoft Reactor, I received some very kind messages about Nova. For those who haven’t seen the series, Nova is a Copilot I created to learn […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
         </author>
     </entry>
     <entry>
