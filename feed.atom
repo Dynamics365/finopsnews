@@ -2,10 +2,286 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-02-26T02:26:50.339Z</updated>
+    <updated>2026-02-27T02:25:12.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Architecting Effective Decisions]]></title>
+        <id>https://365community.online/architecting-effective-decisions</id>
+        <link href="https://365community.online/architecting-effective-decisions"/>
+        <updated>2026-02-27T01:15:20.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,560Every organization eventually gets the same request, 200:00:02,560 –> 00:00:04,360put every KPI on one page. 300:00:04,360 –> 00:00:06,320And everyone nods because it sounds reasonable. 400:00:06,320 –> 00:00:08,320Executives want clarity, they want speed, 500:00:08,320 –> 00:00:10,280they want to know what’s working and what’s failing 600:00:10,280 –> 00:00:11,960without sitting through interpretive dance 700:00:11,960 –> 00:00:13,480in […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Flags When an ERP Partner Claims They’re “AI-First”]]></title>
+        <id>https://erpsoftwareblog.com/?p=142189</id>
+        <link href="https://erpsoftwareblog.com/2026/02/red-flags-when-an-erp-partner-claims-theyre-ai-first/"/>
+        <updated>2026-02-26T23:14:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+TL;DR Not every “AI-first” ERP partner truly is. Watch for red flags like generic Copilot demos, no data governance story, weak security, missing human checkpoints, unmonitored integrations, and no adoption […]
+The post Red Flags When an ERP Partner Claims They’re “AI-First” appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The end of Power Pages? (As we know it?)]]></title>
+        <id>https://365community.online/the-end-of-power-pages-as-we-know-it</id>
+        <link href="https://365community.online/the-end-of-power-pages-as-we-know-it"/>
+        <updated>2026-02-26T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Every week new features and techniques are dropping not only from Microsoft but other vendors. One of the latest movements is getting agents to utilize “skills” to execute and complete tasks. Microsoft has just released to public preview a Claude code plug-in with skills to build, configure, and deploy Power Pages single page applications. Announcement:Build […]]]></summary>
+        <author>
+            <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend Copilot Studio Agents to Foundry Models– The Rise of Agents (Lesson 7) – Renato Romão – YouTube]]></title>
+        <id>https://365community.online/extend-copilot-studio-agents-to-foundry-models-the-rise-of-agents-lesson-7-renato-romao-youtube</id>
+        <link href="https://365community.online/extend-copilot-studio-agents-to-foundry-models-the-rise-of-agents-lesson-7-renato-romao-youtube"/>
+        <updated>2026-02-26T21:41:48.000Z</updated>
+        <summary type="html"><![CDATA[We’re diving into how to extend Copilot Studio agents to Foundry models — and yes, we’re also getting an intro to Fabric Data Agents. This is the moment where “cool demos” turn into real enterprise-grade agent capabilities: smarter reasoning, better grounding, and more control over the models behind the scenes. If you’ve been building agents […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AWS is Losing the Enterprise Control Plane]]></title>
+        <id>https://365community.online/why-aws-is-losing-the-enterprise-control-plane</id>
+        <link href="https://365community.online/why-aws-is-losing-the-enterprise-control-plane"/>
+        <updated>2026-02-26T21:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations believe AWS is winning the cloud war. They’re looking at the wrong battlefield. Yes, AWS dominates infrastructure.Yes, they run more workloads than anyone else.Yes, they won the first era of cloud computing. But the enterprise war has moved. The fight is no longer about compute, storage, or service catalogs.It’s about identity, policy, and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Shipping: Real-Time Rates, Labels, and Tracking in One Workspace]]></title>
+        <id>https://erpsoftwareblog.com/?p=142620</id>
+        <link href="https://erpsoftwareblog.com/2026/02/business-central-shipping-real-time-rates-labels-and-tracking-in-one-workspace/"/>
+        <updated>2026-02-26T20:15:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Shipping operations often face inefficiencies due to manual data entry, inconsistent rates, and lack of real-time visibility. Addressing these challenges improves accuracy, reduces freight costs, and enhances customer communication by […]
+The post Business Central Shipping: Real-Time Rates, Labels, and Tracking in One Workspace appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central
+From GP to Business Central: Production Scheduling with MxAPS]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiring D365 F&O Talent: For Food & Beverage Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=138403</id>
+        <link href="https://erpsoftwareblog.com/2026/02/hiring-d365-fo-talent-for-food-beverage-manufacturers/"/>
+        <updated>2026-02-26T17:20:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most “how to hire a D365 consultant” articles recycle the same guidance:"look for communication skills… evaluate cultural fit… ensure stakeholder alignment." Food & beverage manufacturers already know this. Wait- EVERYONE […]
+The post Hiring D365 F&O Talent: For Food & Beverage Manufacturers appeared first on ERP Software Blog.
+The 5 Most Often Overlooked Costs of ERP
+ERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV
+ReShoring Manufacturing in the U.S.A.]]></summary>
+        <author>
+            <name>D365contractors.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Industries in 2026 Where Microsoft Business Central Drives Growth]]></title>
+        <id>https://erpsoftwareblog.com/?p=142617</id>
+        <link href="https://erpsoftwareblog.com/2026/02/industries-benefit-dynamics-365-business-central/"/>
+        <updated>2026-02-26T16:01:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Rise of Cloud ERP Across Industries in 2026 Cloud ERP is enterprise resource planning software delivered over the internet, connecting finance, operations, inventory, and sales in one unified platform […]
+The post Top Industries in 2026 Where Microsoft Business Central Drives Growth appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Test Company Within the Production and Sandbox Environment]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=95382</id>
+        <link href="https://erpsoftwareblog.com/2026/02/how-to-create-a-test-company-within-the-production-and-sandbox-environment/"/>
+        <updated>2026-02-26T15:53:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In Microsoft Dynamics 365 Business Central, there are two ways to create test companies. The first way is to create a test company within the production environment, and the other […]
+The post How to Create a Test Company Within the Production and Sandbox Environment appeared first on ERP Software Blog.
+Change Logs in Microsoft Dynamics 365 Business Central
+A Quick Overview of Payables Agent in Dynamics 365 Business Central
+What’s New in Microsoft Dynamics 365 Business Central 2023 Wave 2]]></summary>
+        <author>
+            <name>Jason Ochipa, Tensoft Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Claude Code Shortcut in Windows]]></title>
+        <id>https://alexdmeyer.com/?p=3881</id>
+        <link href="https://alexdmeyer.com/2026/02/26/create-a-claude-code-shortcut-in-windows/"/>
+        <updated>2026-02-26T15:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Really quick post today, in starting to use coding agents more, I found myself having to launch the Claude Code CLI multiple times a day (opening a command prompt, navigating to my development directory, and starting Claude Code). Here’s a shortcut I use to do that faster. 1) Find an open place on your desktop […]
+The post Create a Claude Code Shortcut in Windows appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A practical guide to creating agents in Business Central with AI Development Toolkit (preview)]]></title>
+        <id>https://365community.online/a-practical-guide-to-creating-agents-in-business-central-with-ai-development-toolkit-preview</id>
+        <link href="https://365community.online/a-practical-guide-to-creating-agents-in-business-central-with-ai-development-toolkit-preview"/>
+        <updated>2026-02-26T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You’re not coding an extension — you’re onboarding a new employee. If you’re a Business Central developer, the word «AI» probably stirs a mix of excitement and vertigo. We see Copilot doing useful things, but when we open Visual Studio Code, the leap from a traditional AL report to an agent feels massive. Here’s the […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the Real Cost of Staying on GP? Why The Works Cafe Didn’t Wait to Find Out]]></title>
+        <id>https://erpsoftwareblog.com/?p=142810</id>
+        <link href="https://erpsoftwareblog.com/2026/02/whats-the-real-cost-of-staying-on-gp-why-the-works-cafe-didnt-wait-to-find-out/"/>
+        <updated>2026-02-26T14:27:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For years, The Works Cafe relied on Microsoft Dynamics GP to support its financial operations. But as the fast-casual restaurant group expanded, the system that once worked reliably began to […]
+The post What’s the Real Cost of Staying on GP? Why The Works Cafe Didn’t Wait to Find Out appeared first on ERP Software Blog.
+3 Finance Leaders Share Top Pick for Business Central Reporting
+Savoring Efficiency: How a Regional Restaurant Group Redefined Financial Management in Business Central
+Industry Specific ERP: Best Applications of ERP in Various Sectors]]></summary>
+        <author>
+            <name>JourneyTeam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Approach to Business Central Audit Prep Before Fieldwork Begins]]></title>
+        <id>https://erpsoftwareblog.com/?p=142513</id>
+        <link href="https://erpsoftwareblog.com/2026/02/a-practical-approach-to-business-central-audit-prep-before-fieldwork-begins/"/>
+        <updated>2026-02-26T13:59:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central audit prep includes building support for the completeness assertion over accounts payable. If you issue GAAP financial statements, subsequent disbursements and post year end AP activity will be […]
+The post A Practical Approach to Business Central Audit Prep Before Fieldwork Begins appeared first on ERP Software Blog.
+10 Time Saving Business Central Keyboard Shortcuts You Need Today
+D365 Business Central Health Check
+AP Wellness: Streamline Your Accounts Payable]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing Your Power Platform ALM Path: A Practical Guide for Growing Teams]]></title>
+        <id>https://erpsoftwareblog.com/?p=142656</id>
+        <link href="https://erpsoftwareblog.com/2026/02/power-platform-alm-path/"/>
+        <updated>2026-02-26T13:32:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The right Power Platform ALM path depends on your organization’s development maturity, governance requirements, and DevOps capability. As Power Platform adoption grows, informal deployment processes introduce risk, instability, and technical […]
+The post Choosing Your Power Platform ALM Path: A Practical Guide for Growing Teams appeared first on ERP Software Blog.
+Join JourneyTEAM's Tech Insider Update Webinar on 8/6
+Have You Heard About SaaS? Is It Right For You?
+9 Interview Questions to Choose the Right ERP Software Data Center Hosting Provider]]></summary>
+        <author>
+            <name>Steven Settle, Ryse Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Surprising Risks of Cloud Migration – YouTube]]></title>
+        <id>https://365community.online/the-surprising-risks-of-cloud-migration-youtube</id>
+        <link href="https://365community.online/the-surprising-risks-of-cloud-migration-youtube"/>
+        <updated>2026-02-26T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital landscape, cloud migration is a crucial step for many organizations looking to enhance their operational efficiency and reduce costs. However, the process of migrating to the cloud, including platforms like Azure, comes with its own set of surprising risks. From security and identity and access management concerns to storage and temporary storage […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professional Services ERP Invoicing: The Delicate Balance Between Flexibility and Control]]></title>
+        <id>https://erpsoftwareblog.com/?p=142635</id>
+        <link href="https://erpsoftwareblog.com/2026/02/professional-services-erp-invoicing-the-delicate-balance-between-flexibility-and-control/"/>
+        <updated>2026-02-26T13:11:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+TL;DR Professional services firms need flexible ERP invoicing because no two projects or clients bill the same way: time and materials, fixed fees, milestones, mixed models. Flexibility keeps invoices accurate, […]
+The post Professional Services ERP Invoicing: The Delicate Balance Between Flexibility and Control appeared first on ERP Software Blog.
+Timely Invoicing: A Guide for Service Companies
+Top challenges of firms who manage by project
+Bridging the Gaps: Navigating the Journey from Microsoft Dynamics GP to Dynamics 365 Business Central for Professional Service Firms]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magento Multi-Warehouse Sync to Dynamics 365: Real-Time Stock Transfers & Peak Fulfillment]]></title>
+        <id>https://erpsoftwareblog.com/?p=142805</id>
+        <link href="https://erpsoftwareblog.com/2026/02/magento-multi-warehouse-sync-to-dynamics-365/"/>
+        <updated>2026-02-26T13:09:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Retailers scaling with Magento often face warehouse chaos—stock shows online but transfers lag in the ERP, causing oversells during peak seasons. Dynamics 365 ERP consulting partner fix this by mapping […]
+The post Magento Multi-Warehouse Sync to Dynamics 365: Real-Time Stock Transfers & Peak Fulfillment appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central vs SYSPRO: Which Is Better for Manufacturers?]]></title>
+        <id>https://erpsoftwareblog.com/?p=142679</id>
+        <link href="https://erpsoftwareblog.com/2026/02/dynamics-365-business-central-vs-syspro-which-is-better-for-manufacturers/"/>
+        <updated>2026-02-26T12:31:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing the right ERP system is a strategic decision that impacts financial management, operations, reporting, and long-term scalability. Two popular ERP solutions for small and mid-sized businesses, especially in manufacturing […]
+The post Dynamics 365 Business Central vs SYSPRO: Which Is Better for Manufacturers? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-Step Mandate for Microsoft 365 Excellence]]></title>
+        <id>https://365community.online/7-step-mandate-for-microsoft-365-excellence</id>
+        <link href="https://365community.online/7-step-mandate-for-microsoft-365-excellence"/>
+        <updated>2026-02-26T11:40:55.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,880Most organizations treat their M365 tenant as a configuration container. 200:00:03,880 –> 00:00:07,760It is not your tenant is a sovereign operating system for the enterprise 300:00:07,760 –> 00:00:10,080or it is a vulnerability waiting to scale. 400:00:10,080 –> 00:00:13,280The difference between these two states is architectural intent. 500:00:13,280 –> 00:00:16,680It is not about tooling […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplanova Winter Party – YouTube]]></title>
+        <id>https://365community.online/simplanova-winter-party-youtube</id>
+        <link href="https://365community.online/simplanova-winter-party-youtube"/>
+        <updated>2026-02-26T11:16:13.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Justina Žiūraitė</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Maps Integrated with CRM Help Animals in Crisis]]></title>
+        <id>https://365community.online/how-maps-integrated-with-crm-help-animals-in-crisis</id>
+        <link href="https://365community.online/how-maps-integrated-with-crm-help-animals-in-crisis"/>
+        <updated>2026-02-26T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[#HangInTherePunch This hashtag must have been introduced to a lot of you by your Instagram feed. If not, here’s the bittersweet story behind it. Punch is a tiny macaque in Japan who recently captured hearts worldwide. Born at the Ichikawa City Zoo near Tokyo in July 2025, he was abandoned by his mother shortly after […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore Dataverse Tools: FetchXML Formatter Online by Arun Potti]]></title>
+        <id>https://365community.online/explore-dataverse-tools-fetchxml-formatter-online-by-arun-potti</id>
+        <link href="https://365community.online/explore-dataverse-tools-fetchxml-formatter-online-by-arun-potti"/>
+        <updated>2026-02-26T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Working with FetchXML can sometimes get messy – especially when dealing with long, nested queries. To make this easier, I’ve created a new Online FetchXML Formatter. This tool automatically beautifies and structures your FetchXML, making it more readable and developer‑friendly. This is a lightweight web tool for Dataverse / Dynamics 365 CE developers. It helps […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexibility Over Efficiency: Rethinking Directed Put-Away and Pick]]></title>
         <id>https://erpsoftwareblog.com/?p=142794</id>
@@ -108575,221 +108851,6 @@ Connectors Help ISV Solutions Thrive in The Microsoft Ecosystem 
 Power Apps for ERP Systems: 7 Use Cases]]></summary>
         <author>
             <name>TrinSoft, LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serendipity in Systems: Andrew Lencsak's Unplanned Path to MVP and Championing Dynamics ERP & Community Content Creation]]></title>
-        <id>https://365community.online/serendipity-in-systems-andrew-lencsaks-unplanned-path-to-mvp-and-championing-dynamics-erp-community-content-creation</id>
-        <link href="https://365community.online/serendipity-in-systems-andrew-lencsaks-unplanned-path-to-mvp-and-championing-dynamics-erp-community-content-creation"/>
-        <updated>2024-02-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/530 Ever wonder how stumbling into a career can lead to a dynamic love affair with technology? Our guest, Andrew Lencsak, an ERP delivery director and freshly […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed – System.InvalidOperationException: Message size exceeded when attempting to send response to sandbox. Message Size 123 Mb. Max Allowed 128974848 Mb (Dataverse / Dynamics 365 )]]></title>
-        <id>https://365community.online/fixed-system-invalidoperationexception-message-size-exceeded-when-attempting-to-send-response-to-sandbox-message-size-123-mb-max-allowed-128974848-mb-dataverse-dynamics-365</id>
-        <link href="https://365community.online/fixed-system-invalidoperationexception-message-size-exceeded-when-attempting-to-send-response-to-sandbox-message-size-123-mb-max-allowed-128974848-mb-dataverse-dynamics-365"/>
-        <updated>2024-02-28T11:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Recently we got the below exception for one of our plugins Message: System.InvalidOperationException: Message size exceeded when attempting to send response to sandbox. Message Size 123 Mb. Max Allowed 128974848 […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utilize a model for work classification based on sentiment prediction in Dynamics 365]]></title>
-        <id>https://365community.online/utilize-a-model-for-work-classification-based-on-sentiment-prediction-in-dynamics-365</id>
-        <link href="https://365community.online/utilize-a-model-for-work-classification-based-on-sentiment-prediction-in-dynamics-365"/>
-        <updated>2024-02-28T09:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Work items can be routed using artificial intelligence (AI)-based sentiment predictions in Microsoft’s Unified Routing for Dynamics 365. Let’s say the user begins a customer service conversation via the […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Versatile Document Management for Dynamics 365 with Axtension® Content Gate]]></title>
-        <id>https://erpsoftwareblog.com/?p=104393</id>
-        <link href="https://erpsoftwareblog.com/2024/02/versatile-document-management-for-dynamics-365-with-axtension-content-gate/"/>
-        <updated>2024-02-28T09:16:49.000Z</updated>
-        <summary type="html"><![CDATA[In modern business, managing documents efficiently is not just a necessity but a backbone for operational success. From maintaining the latest version of a document to ensuring seamless collaboration across […]
-The post Versatile Document Management for Dynamics 365 with Axtension® Content Gate appeared first on ERP Software Blog.
-Time for Cities and Municipalities to Get Off of the Invoice Processing Treadmill
-How Do I Ensure Data Quality During PLM-ERP Integration for D365 ERP?
-VIDEO: Payment Automation Made Easy with LISA BusinessPro and GoCardless]]></summary>
-        <author>
-            <name>Axtension</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing General Availability for Shared Device Mode for Power Apps on iOS]]></title>
-        <id>announcing-general-availability-for-shared-device-mode-for-power-apps-on-ios</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-shared-device-mode-for-power-apps-on-ios/"/>
-        <updated>2024-02-28T08:00:35.000Z</updated>
-        <summary type="html"><![CDATA[General Availability (GA) of Shared Device Mode (SDM) for Power Apps Mobile App on shared iOS devices.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Ways the Microsoft Power Platform Boosts Scalability and Future-Proofs Housing Associations]]></title>
-        <id>https://365community.online/4-ways-the-microsoft-power-platform-boosts-scalability-and-future-proofs-housing-associations</id>
-        <link href="https://365community.online/4-ways-the-microsoft-power-platform-boosts-scalability-and-future-proofs-housing-associations"/>
-        <updated>2024-02-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As housing professionals, we understand the critical role technology plays in managing properties, streamlining processes, and enhancing customer experiences. The Microsoft Power Platform offers a suite of powerful tools that […]]]></summary>
-        <author>
-            <name>Chris Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telemetry and Companies]]></title>
-        <id>https://365community.online/telemetry-and-companies</id>
-        <link href="https://365community.online/telemetry-and-companies"/>
-        <updated>2024-02-27T23:04:11.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know about you – but when working with Telemetry, I found it sometimes tedious to map certain traces to actual customers (names of the company, that is).  Here’s […]]]></summary>
-        <author>
-            <name>Waldo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure blob – Tier architechture]]></title>
-        <id>https://365community.online/azure-blob-tier-architechture</id>
-        <link href="https://365community.online/azure-blob-tier-architechture"/>
-        <updated>2024-02-27T21:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Azure services groups the services into four – Blob, Files, Queues,Tables. Though we are familiar with these terms , learning the usage and purpose can leverage cost benefit. Today`s post […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure blob – Tier architechture]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3420</id>
-        <link href="https://anithasantosh.wordpress.com/2024/02/27/azure-blob-tier-architechture/"/>
-        <updated>2024-02-27T21:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Azure services groups the services into four – Blob, Files, Queues,Tables. Though we are familiar with these terms , learning the usage and purpose can leverage cost benefit. Today`s post focuses on blobs and its tiers. Blob stands for Binary … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow Microsoft to trigger plugins by Bulk Operations]]></title>
-        <id>https://365community.online/follow-microsoft-to-trigger-plugins-by-bulk-operations</id>
-        <link href="https://365community.online/follow-microsoft-to-trigger-plugins-by-bulk-operations"/>
-        <updated>2024-02-27T20:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has recently urged us to move all our plugin steps from messages: Create, Update, Delete to instead use: CreateMultiple, UpdateMultiple, and DeleteMultiple. I like that.I like that a lot […]]]></summary>
-        <author>
-            <name>Jonas Rapp ᴹᴠᴾ ??</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Supply Chain Enhancements Featured in the Spring MSDW Showcase for Dynamics 365 Finance (AX)]]></title>
-        <id>https://erpsoftwareblog.com/?p=104483</id>
-        <link href="https://erpsoftwareblog.com/2024/02/five-supply-chain-enhancements-featured-in-the-spring-msdw-showcase-for-dynamics-365-finance-ax/"/>
-        <updated>2024-02-27T20:12:49.000Z</updated>
-        <summary type="html"><![CDATA[Today’s growing businesses face a host of challenges, including supplier disruptions, transportation inefficiencies, regulatory compliance issues, and the increasing complexity of global supply chains. Such disruptions can lead to delayed […]
-The post Five Supply Chain Enhancements Featured in the Spring MSDW Showcase for Dynamics 365 Finance (AX) appeared first on ERP Software Blog.
-Time to Upgrade Your TMS or Maybe Move to a New Provider ?
-Top 3 reasons for equipment-driven companies to use DynaRent industry-specific lifecycle services
-Top bet for streamlining equipment rental processes: DynaRent for Microsoft Dynamics 365 and Dynamics AX]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gain Control of Your Supply Chain in Business Central with 5 Tools Featured in the Spring 2024 MSDW Showcase]]></title>
-        <id>https://erpsoftwareblog.com/?p=104478</id>
-        <link href="https://erpsoftwareblog.com/2024/02/gain-control-of-your-supply-chain-in-business-central-with-5-tools-featured-in-the-spring-2024-msdw-showcase/"/>
-        <updated>2024-02-27T20:04:49.000Z</updated>
-        <summary type="html"><![CDATA[Today's businesses grapple with supply chain management challenges that stem from a variety of sources, including increasing globalization, customer demands for faster and more reliable deliveries, and the need for […]
-The post Gain Control of Your Supply Chain in Business Central with 5 Tools Featured in the Spring 2024 MSDW Showcase appeared first on ERP Software Blog.
-Get More in the Cloud with Dynamics 365 Business Central
-Insight Works Proudly Announces New Partner Acquisitions for March
-What industry newbies can learn from “The State of Dynamics 365 Business Central and Manufacturing Report”]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharge Your Workflow: Unleashing Copilot's Power in the Microsoft 365 Universe]]></title>
-        <id>https://erpsoftwareblog.com/?p=104467</id>
-        <link href="https://erpsoftwareblog.com/2024/02/supercharge-your-workflow-unleashing-copilots-power-in-the-microsoft-365-universe/"/>
-        <updated>2024-02-27T19:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a world where your team has a secret weapon: an AI assistant seamlessly woven into your everyday tools, whispering suggestions and automating tasks. That's the reality with Microsoft Copilot […]
-The post Supercharge Your Workflow: Unleashing Copilot's Power in the Microsoft 365 Universe appeared first on ERP Software Blog.
-Copilot and Dynamics 365 ERP: A Match Made for Efficiency
-WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!
-Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
-        <author>
-            <name>Andrew King, WebSan Solutions, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Asset Management Training]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=81334</id>
-        <link href="https://erpsoftwareblog.com/2024/02/microsoft-asset-management-training/"/>
-        <updated>2024-02-27T18:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Are you or you clients involved in asset-intensive sectors like energy, utilities, manufacturing, mining, construction, water supply, agriculture, accommodation, food service, transportation? Learn how Microsoft Asset Management Module can optimize […]
-The post Microsoft Asset Management Training appeared first on ERP Software Blog.
-How construction equipment rental businesses can add dealership to their portfolio
-Top bet for streamlining equipment rental processes: DynaRent for Microsoft Dynamics 365 and Dynamics AX
-Webinar: Benefits of Rental Business Intelligence Solution]]></summary>
-        <author>
-            <name>Dynaway</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximize your AEC firm’s productivity, agility, and profitability with AI solutions]]></title>
-        <id>https://erpsoftwareblog.com/?p=104460</id>
-        <link href="https://erpsoftwareblog.com/2024/02/maximize-your-aec-firms-productivity-agility-and-profitability-with-ai-solutions/"/>
-        <updated>2024-02-27T18:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence (AI) is driving increased efficiencies across industries, and the dynamic field of Architecture, Engineering, and Construction (AEC) is no exception. This game-changing technology provides pivotal tools for firms […]
-The post Maximize your AEC firm’s productivity, agility, and profitability with AI solutions appeared first on ERP Software Blog.
-Join JourneyTEAM's Tech Insider Update Webinar on 8/6
-Check Out DynamicPoint’s Product Video Galleries
-On-Demand Webinar: Using Data to Drive SMB Growth and Scale? Power BI Makes It Easy!]]></summary>
-        <author>
-            <name>HSO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Status Update Reports on Projects using Copilot in Project Operations]]></title>
-        <id>https://365community.online/project-status-update-reports-on-projects-using-copilot-in-project-operations</id>
-        <link href="https://365community.online/project-status-update-reports-on-projects-using-copilot-in-project-operations"/>
-        <updated>2024-02-27T18:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Now that you must have enabled Copilot for Project Operations [If not, you can refer this post to learn how you can enable Copilot for Project Operations – Enable Copilot […]]]></summary>
-        <author>
-            <name>Priyesh Wagh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we (probably) broke limits at the #BCAIHackathon]]></title>
-        <id>https://365community.online/how-we-probably-broke-limits-at-the-bcaihackathon</id>
-        <link href="https://365community.online/how-we-probably-broke-limits-at-the-bcaihackathon"/>
-        <updated>2024-02-27T18:04:25.000Z</updated>
-        <summary type="html"><![CDATA[Last week Microsoft organized the #BCAIHackathon initiative, a 3 days dedicated to create innovative solutions using generative AI in Dynamics 365 Business Central and (probably) to bring new ideas on […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.3]]></title>
-        <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-3</id>
-        <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-3"/>
-        <updated>2024-02-27T15:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Excited to announce the v1.3 release of the D365FO Admin Toolkit! Version 1.3 Release D365FO Admin Toolkit v1.3 Deployable Package D365FO Admin Toolkit GitHub Note: The deployable package has been built […]]]></summary>
-        <author>
-            <name>Alex Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.3]]></title>
-        <id>https://alexdmeyer.com/?p=3069</id>
-        <link href="https://alexdmeyer.com/2024/02/27/new-release-of-d365fo-admin-toolkit-v1-3/"/>
-        <updated>2024-02-27T15:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Excited to announce the v1.3 release of the D365FO Admin Toolkit! Version 1.3 Release D365FO Admin Toolkit v1.3 Deployable Package D365FO Admin Toolkit GitHub Note: The deployable package has been built against a CY24Q1: 10.0.38 version of D365FO, which is now GA. Navigation Updates I started to break out the different features into separate sub menus […]
-The post New Release of D365FO Admin Toolkit v1.3 appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
     <entry>
