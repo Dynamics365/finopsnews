@@ -1327,6 +1327,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=142762",
+          "author": "D365contractors.com",
+          "description": "xxx\nYou're about to start talking to a D365 F&O vendor or implementation partner. You've done the research. You've sat through the Microsoft pitch. You've probably watched a few Dynamics 365 […]\nThe post 5 Questions to Answer Before You Talk to a D365 F&O Vendor appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/d365-fo-vendor-5-questions-before-you-talk/",
+          "publishedOn": "2026-03-01T16:01:47.000Z",
+          "wordCount": 8327,
+          "title": "5 Questions to Answer Before You Talk to a D365 F&O Vendor",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/5-questions-before-d365-fo-vendor.png.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=142904",
           "author": "Crestwood Associates",
           "description": "xxx\nManufacturers searching for material requirements planning software are often not looking for new technology. They are looking for stability. For many growing organizations, material planning still happens in spreadsheets. Forecasts […]\nThe post The Hidden Risk of Spreadsheet-Based Material Requirements Planning for Manufacturers appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -36475,16 +36485,6 @@
           "wordCount": 4795,
           "title": "AP Automation Tools Comparison for Dynamics 365 Finance (AX) and BC/NAV",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-22624-MSDW-Finance-and-BC-1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104368",
-          "author": "Red Maple",
-          "description": "Small and mid-size businesses often struggle to compete with larger corporations due to limited resources and capabilities. However, Red Maple Advanced Credit Cards for Business Central was designed to level […]\nThe post 6 Ways Capture Credit Card Payments in Dynamics 365 Business Central appeared first on ERP Software Blog.\nInsight Works Add-Ons Awarded “Microsoft Preferred Solution” Accolade\nStreamline Purchase & Sales Orders with Free App for Business Central\nInsight Works: Supporting Nonprofits via Technology",
-          "link": "https://erpsoftwareblog.com/2024/03/6-ways-capture-credit-card-payments-in-dynamics-365-business-central/",
-          "publishedOn": "2024-03-01T18:07:12.000Z",
-          "wordCount": 5541,
-          "title": "6 Ways Capture Credit Card Payments in Dynamics 365 Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-02-6-Ways-to-Empower-Your-Business-with-Advanced-Credit-Cards-for-Dynamics-365-Business-Central_1200-x-628.png"
         }
       ]
     },
@@ -37950,6 +37950,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/unlocking-true-interactivity-in-teams-cards",
+          "author": "Mirko Peters",
+          "description": "Think Adaptive Cards are just pretty dashboards? What if I told you they can capture real-time feedback, launch workflows, and even trigger bots—without needing the user to leave Teams?If you’re tired of static cards that don’t do much, stick around. We’ll break down the core features that turn your cards into interactive experiences, with hands-on […]",
+          "link": "https://365community.online/unlocking-true-interactivity-in-teams-cards",
+          "publishedOn": "2026-03-01T19:14:17.000Z",
+          "wordCount": 3751,
+          "title": "Unlocking True Interactivity in Teams Cards",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/d59f1584693b6b2f9ca26cfe90c50ece.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-only-azure-skill-that-matters-in-2026-architecting-against-erosion",
+          "author": "Mirko Peters",
+          "description": "Most Azure professionals are optimizing for the wrong thing. Certifications.Portal expertise.Individual services like AKS, Functions, Synapse. That’s not where long-term value is. The high-income skill in 2026 is governance architecture. The people who earn the most are not provisioning infrastructure.They are preventing the wrong infrastructure from being provisioned in the first place. 🧠 Big Idea: […]",
+          "link": "https://365community.online/the-only-azure-skill-that-matters-in-2026-architecting-against-erosion",
+          "publishedOn": "2026-03-01T15:34:20.000Z",
+          "wordCount": 2748,
+          "title": "The Only Azure Skill That Matters in 2026: Architecting Against Erosion",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/8f93b0988b1db269a1cd856fa959e87b.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-a-liquid-glass-effect-in-powerpoint",
+          "author": "Stephanie Hogan",
+          "description": "The “liquid glass” effect is everywhere right now — frosted panels, soft blur, subtle highlights that look like light is hitting curved glass. PowerPoint doesn’t have a “blur background” button but we can fake it. This effect works because PowerPoint allows you to fill a shape with the slide background. Once you understand that trick, […]",
+          "link": "https://365community.online/how-to-create-a-liquid-glass-effect-in-powerpoint",
+          "publishedOn": "2026-03-01T15:27:17.000Z",
+          "wordCount": 2564,
+          "title": "How to Create a Liquid Glass Effect in PowerPoint",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/Liquid-Glass-Featured.png?fit=855%2C482&ssl=1"
+        },
+        {
+          "id": "https://365community.online/powerfx-formula-columns-to-overcome-some-power-pages-table-permissions-limitations-for-webapi-access-in-power-pages",
+          "author": "michelcarlo",
+          "description": "With Power Pages table permissions, we can secure records and limit what users can see or change in Dataverse. However, the permissions are always tied to the account or contact being associated with a record via a relationship. There is no way to conditionally grant access to related records, for example, allow people to see […]",
+          "link": "https://365community.online/powerfx-formula-columns-to-overcome-some-power-pages-table-permissions-limitations-for-webapi-access-in-power-pages",
+          "publishedOn": "2026-03-01T12:27:00.000Z",
+          "wordCount": 2540,
+          "title": "PowerFx Formula Columns to overcome some Power Pages table permissions limitations for WebAPI access in Power Pages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/FxFieldThumb.png?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-shortcut-no-manager-talks-about",
+          "author": "Mirko Peters",
+          "description": "Are you still jumping between PowerShell, Admin Centers, and browser tabs just to keep your M365 environment sane? What if there was one tool that cut through all the noise—and it worked no matter if you’re running Windows, macOS, or Linux?Stay put—because I’ll show you the cross-platform shortcut that admins everywhere are quietly adopting to […]",
+          "link": "https://365community.online/the-shortcut-no-manager-talks-about",
+          "publishedOn": "2026-03-01T11:47:19.000Z",
+          "wordCount": 3681,
+          "title": "The Shortcut No Manager Talks About",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/b40a107a97f5d9bb3727423154cd0dcf.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/accessibility-community-and-confidence-with-mike-hartley",
+          "author": "Power Platform Podcast",
+          "description": "This episode of the Power Platform Podcast dives into Mike’s journey through tech, community, and the slightly unpredictable road that got him where he is today. From early computing and factory-floor software to Dynamics, Power Platform, and community leadership, it’s a story full of sharp turns, hard lessons, and a few “that probably shouldn’t have […]",
+          "link": "https://365community.online/accessibility-community-and-confidence-with-mike-hartley",
+          "publishedOn": "2026-03-01T10:17:00.000Z",
+          "wordCount": 2235,
+          "title": "Accessibility, Community and Confidence with Mike Hartley",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/45297977-1770220458499-2431c2f6f2f02.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/nobody-explains-microsoft-graph-consent-heres-whats-missing",
+          "author": "Mirko Peters",
+          "description": "Ever tried setting up app-only permissions with Microsoft Graph and ended up knee-deep in consent dialogs, confused about what just happened? You’re not alone. Most tutorials gloss over what ‘consent’ really means for non-interactive services—and where things can quietly go off the rails.Today, we’re breaking down the end-to-end workflow: exactly what you must configure in […]",
+          "link": "https://365community.online/nobody-explains-microsoft-graph-consent-heres-whats-missing",
+          "publishedOn": "2026-03-01T00:43:03.000Z",
+          "wordCount": 3654,
+          "title": "Nobody Explains Microsoft Graph Consent—Here’s What’s Missing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/b096fedd56ea60e10d38f0bf8250ca77.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-syntex-ends-data-silos-heres-how",
+          "author": "Mirko Peters",
+          "description": "Still searching through endless folders to find that one contract—or worse, the right version of it? You’re not alone. Most organizations have their best data trapped in documents nobody can actually use. What if your files could organize themselves and tag the most relevant details for you—instantly? This isn’t another document management sales pitch. This […]",
+          "link": "https://365community.online/microsoft-syntex-ends-data-silos-heres-how",
+          "publishedOn": "2026-02-28T21:04:53.000Z",
+          "wordCount": 3664,
+          "title": "Microsoft Syntex Ends Data Silos—Here’s How",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/b9b965c65996ff56697688a9949b0d98.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-a-quick-step-column-in-sharepoint",
+          "author": "Marcin Siewnicki",
+          "description": "Microsoft released an interesting feature for list and libraries – Quick steps column. It’s designed to help you create quick automation and put them directly on list and libraries views. No more clicking – just a button with your own action. Let’s check how it works. Introduction The Quick steps column is the evolution of […]",
+          "link": "https://365community.online/how-to-create-a-quick-step-column-in-sharepoint",
+          "publishedOn": "2026-02-28T20:00:00.000Z",
+          "wordCount": 2104,
+          "title": "How to create a Quick step column in SharePoint",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/5-credentials-that-actually-pay",
+          "author": "Mirko Peters",
+          "description": "🔥 Introduction: The Uncomfortable Truth Most certifications validate task execution, not authority. 80% of certified professionals never see the raise or promotion they expect. The real market premium isn’t for execution — it’s for architectural decision-making. Salary delta between technician and architect: $40K–$120K annually. This episode breaks down: Why credential inflation is real Which certifications […]",
+          "link": "https://365community.online/5-credentials-that-actually-pay",
+          "publishedOn": "2026-02-28T17:38:20.000Z",
+          "wordCount": 2465,
+          "title": "5 Credentials That Actually Pay",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/ef80de0f7d26ecf219ac3095e0aa67dc.jpg?fit=1200%2C630&ssl=1"
+        },
         {
           "id": "https://365community.online/scale-hr-operations-effectively",
           "author": "Mirko Peters",
@@ -77124,166 +77224,6 @@
           "wordCount": 3306,
           "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 22 – Topic 10: Part 2 – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709570768_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/adobe-target-training-adobe-target-certification-course-demo-adobe-target-tutorial-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "Adobe Target Training | Adobe Target Certification Course Demo | Adobe Target Tutorial | MindMajix This MindMajix’s YouTube video on Adobe Target training you will learn improving CX on websites, […]",
-          "link": "https://365community.online/adobe-target-training-adobe-target-certification-course-demo-adobe-target-tutorial-mindmajix-youtube",
-          "publishedOn": "2024-03-02T12:00:48.000Z",
-          "wordCount": 3438,
-          "title": "Adobe Target Training | Adobe Target Certification Course Demo | Adobe Target Tutorial | MindMajix – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709384432_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/only-notes-are-available-in-offline-mode-please-check-your-internet-connection-to-view-other-timeline-records-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "We were recently exploring the Dynamics 365 Field Service mobile app, we saw that for the users with a mobile offline profile configured – Add the user to an offline […]",
-          "link": "https://365community.online/only-notes-are-available-in-offline-mode-please-check-your-internet-connection-to-view-other-timeline-records-dataverse-dynamics-365",
-          "publishedOn": "2024-03-02T03:13:27.000Z",
-          "wordCount": 3331,
-          "title": "Only notes are available in Offline mode. Please check your internet connection to view other timeline records – Dataverse / Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Only-notes-are-available-in-Offline-mode-Please-check-your.jpeg?fit=800%2C1199&ssl=1"
-        },
-        {
-          "id": "https://365community.online/selection-sort-in-data-structures-step-by-step-guide-youtube",
-          "author": "Sourav Raj",
-          "description": "Selection Sort in Data Structures | Step-by-Step Guide In this video, we’ll walk you through the intricacies of Selection Sort, providing you with a detailed explanation of its concepts, implementation […]",
-          "link": "https://365community.online/selection-sort-in-data-structures-step-by-step-guide-youtube",
-          "publishedOn": "2024-03-01T16:53:00.000Z",
-          "wordCount": 3370,
-          "title": "Selection Sort in Data Structures | Step-by-Step Guide – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709320308_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/counting-sort-in-data-structures-step-by-step-guide-youtube",
-          "author": "Sourav Raj",
-          "description": "Counting Sort in Data Structures | Step-by-Step Guide Counting Sort is a powerful tool in your Data Structures and Algorithms (DSA) arsenal, especially for small to medium-sized datasets with a […]",
-          "link": "https://365community.online/counting-sort-in-data-structures-step-by-step-guide-youtube",
-          "publishedOn": "2024-03-01T16:44:40.000Z",
-          "wordCount": 3342,
-          "title": "Counting Sort in Data Structures | Step-by-Step Guide – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709335774_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/cpps24-15-days-countdown-youtube",
-          "author": "Victor Dantas",
-          "description": "CPPS’24 15 Days Countdown source",
-          "link": "https://365community.online/cpps24-15-days-countdown-youtube",
-          "publishedOn": "2024-03-01T15:29:41.000Z",
-          "wordCount": 3106,
-          "title": "CPPS’24 15 Days Countdown – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-for-finance-and-dynamics-365-business-central",
-          "author": "Stefano Demiliani",
-          "description": "Yesterday Microsoft announced the public preview of Microsoft Copilot for Finance, the newest Copilot offering designed for business functions that extends Microsoft Copilot for Microsoft 365 and revolutionizes how finance teams […]",
-          "link": "https://365community.online/copilot-for-finance-and-dynamics-365-business-central",
-          "publishedOn": "2024-03-01T14:42:36.000Z",
-          "wordCount": 3246,
-          "title": "Copilot for Finance and Dynamics 365 Business Central",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Copilot-for-Finance-and-Dynamics-365-Business-Central.png?fit=987%2C782&ssl=1"
-        },
-        {
-          "id": "https://365community.online/performance-profiling-tests-with-al-test-runner",
-          "author": "James Pearson",
-          "description": "This is a feature that has been in AL Test Runner for a months now but I haven’t got round to blogging about it. I haven’t done much blogging or […]",
-          "link": "https://365community.online/performance-profiling-tests-with-al-test-runner",
-          "publishedOn": "2024-03-01T14:34:18.000Z",
-          "wordCount": 3182,
-          "title": "Performance Profiling Tests with AL Test Runner",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Performance-Profiling-Tests-with-AL-Test-Runner.gif?fit=1200%2C642&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilots-in-microsoft-learn-part-2",
-          "author": "Carina Claesson",
-          "description": "In my previous post I wrote about what I was missing in the Microsoft official documentation when it comes to Copilot. With AI capability being introduced in each and every […]",
-          "link": "https://365community.online/copilots-in-microsoft-learn-part-2",
-          "publishedOn": "2024-03-01T13:16:23.000Z",
-          "wordCount": 3224,
-          "title": "Copilot(s) in Microsoft Learn part 2",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Copilots-in-Microsoft-Learn-part-2.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/relationships-in-dataverse-managed-with-power-automate",
-          "author": "Pieter Veenstra",
-          "description": "In Dataverse you can create relationships between tables, but how do you manage the relationships from a flow in Power Automate? Relationships in Dataverse In Dataverse there are a number […]",
-          "link": "https://365community.online/relationships-in-dataverse-managed-with-power-automate",
-          "publishedOn": "2024-03-01T11:30:50.000Z",
-          "wordCount": 3223,
-          "title": "Relationships in Dataverse managed with Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-21-topic-10-part-1-youtube",
-          "author": "shabaz darr",
-          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
-          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-21-topic-10-part-1-youtube",
-          "publishedOn": "2024-03-01T10:00:01.000Z",
-          "wordCount": 3294,
-          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 21 – Topic 10: Part 1 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709336097_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/group-opportunities-for-better-analysis-by-aggregating-the-numeric-fields-in-dynamics-365-sales",
-          "author": "Inogic",
-          "description": "Introduction The Pipeline feature in Dynamics 365 Sales is designed to improve the management of Opportunities, providing a more efficient approach for both managers and salespersons. This feature allows users […]",
-          "link": "https://365community.online/group-opportunities-for-better-analysis-by-aggregating-the-numeric-fields-in-dynamics-365-sales",
-          "publishedOn": "2024-03-01T09:32:22.000Z",
-          "wordCount": 3528,
-          "title": "Group Opportunities for better analysis by aggregating the numeric fields in Dynamics 365 Sales",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Dynamics-365-Sales-1.jpeg?fit=1200%2C537&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mb-260-describe-benefits-of-pre-unification-data-enrichment",
-          "author": "Malin Martnes",
-          "description": "You can do two types of enrichments on data sources: address enrichments and identity data from LiveRamp. The main benefit of pre-unification data enrichment is improved data quality. Enriching the […]",
-          "link": "https://365community.online/mb-260-describe-benefits-of-pre-unification-data-enrichment",
-          "publishedOn": "2024-03-01T08:00:00.000Z",
-          "wordCount": 3195,
-          "title": "MB-260: Describe benefits of pre-unification data enrichment",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Release-wave-1-2024-Dynamics-365-Customer-Insights-–-Data.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-enable-the-sql-server-stored-procedures-preview-feature-in-the-power-apps",
-          "author": "Arun Potti",
-          "description": "Microsoft has released a new feature to call the SQL stored procedure from the Canvas Apps using Power Fx. Customers can add a SQL Server Database object to their data sources and […]",
-          "link": "https://365community.online/how-to-enable-the-sql-server-stored-procedures-preview-feature-in-the-power-apps",
-          "publishedOn": "2024-03-01T00:26:51.000Z",
-          "wordCount": 3293,
-          "title": "How to Enable the SQL Server stored procedures (preview) feature in the Power Apps?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/image-75.png?fit=788%2C257&ssl=1"
-        },
-        {
-          "id": "https://365community.online/text-to-speech-and-audio-playback-in-power-apps-using-azure-and-power-automate",
-          "author": "Mohamed Ashiq Faleel",
-          "description": "Capabilities like text-to-speech (TTS) and audio playback can take your applications to new heights of user engagement and accessibility. In this blog post, we’ll look at integrating text-to-speech and audio […]",
-          "link": "https://365community.online/text-to-speech-and-audio-playback-in-power-apps-using-azure-and-power-automate",
-          "publishedOn": "2024-02-29T18:34:27.000Z",
-          "wordCount": 3292,
-          "title": "Text-to-Speech and Audio Playback in Power Apps using Azure and Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Text-to-Speech-and-Audio-Playback-in-Power-Apps-using-Azure-and.png?fit=945%2C438&ssl=1"
-        },
-        {
-          "id": "https://365community.online/the-good-and-the-bad-of-using-copilot-in-the-power-platform",
-          "author": "Pieter Veenstra",
-          "description": "Copilot is everywhere within Microsoft technology nowadays. But it is really helping or is it just a step in the wrong direction. In this post the good and the bad […]",
-          "link": "https://365community.online/the-good-and-the-bad-of-using-copilot-in-the-power-platform",
-          "publishedOn": "2024-02-29T18:33:36.000Z",
-          "wordCount": 3255,
-          "title": "The good and the bad of using Copilot in the Power Platform",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/fixed-duplicate-records-in-azure-synapse-link-dataverse",
-          "author": "Nishant Rana",
-          "description": "Recently for some of our Dataverse environments, we found duplicate records getting created (same GUID) for Notes and Work Order Incident tables in the corresponding CSV files. Here we were […]",
-          "link": "https://365community.online/fixed-duplicate-records-in-azure-synapse-link-dataverse",
-          "publishedOn": "2024-02-29T13:37:57.000Z",
-          "wordCount": 3273,
-          "title": "Fixed – Duplicate records in Azure Synapse Link (Dataverse)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Fixed-–-Duplicate-records-in-Azure-Synapse-Link-Dataverse.jpg?fit=1200%2C799&ssl=1"
         }
       ]
     },
@@ -78370,6 +78310,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=20268",
+          "author": "André Arnaud de Calavon",
+          "description": "Last year, Microsoft introduced a new AI-featured landing page for Microsoft Dynamics 365 F&O called Immersive Home. It is a successor to the Default dashboard from which you can start several workspaces. Where these workspaces are static, the Immersive Home is generated with the help of AI. Are you interested to learn how to extend […]\nThe post Extend the Immersive Home with Agent Feeds appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2026/03/extend-the-immersive-home-with-agent-feeds/",
+          "publishedOn": "2026-03-01T12:29:48.000Z",
+          "wordCount": 6632,
+          "title": "Extend the Immersive Home with Agent Feeds",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2026/03/AgentFeedIntroduction.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=20208",
           "author": "André Arnaud de Calavon",
@@ -80977,6 +80927,51 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=200877",
+          "author": "Ritu Joshi",
+          "description": "As enterprise workloads become more agentic, the expectations of ERP systems—and the teams that operate them—are shifting. Batch jobs, workflow orchestration, data import/exports, and background processes are no longer “just” technical plumbing–they are critical pieces of the operational fabric. They deliver timely financial results, accurate supply chain data, and reliable business intelligence driving process optimization.  To support this shift, observability needs to evolve beyond simple logs and reactive troubleshooting.\nThe post Building Smarter Observability for Agentic ERP World using Dynamics 365  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/27/building-smarter-observability-agentic-erp-dynamics-365/",
+          "publishedOn": "2026-02-27T16:19:17.000Z",
+          "wordCount": 5880,
+          "title": "Building Smarter Observability for Agentic ERP World using Dynamics 365",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/02/BatchVideoforGIF.mp4",
+            "length": "2679374",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/02/AdobeStock_609593555-1-scaled.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=200839",
+          "author": "Safiyyah O’Quinn",
+          "description": "Enterprise resource planning decisions will shape how organizations operate, scale, and compete for years to come.\nThe post Forrester studies project more than 100% ROI for enterprises and 16-month payback for midmarket organizations using Dynamics 365 ERP appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/02/26/forrester-studies-project-more-than-100-roi-for-enterprises-and-16-month-payback-for-midmarket-organizations-using-dynamics-365-erp/",
+          "publishedOn": "2026-02-26T17:00:00.000Z",
+          "wordCount": 6026,
+          "title": "Forrester studies project more than 100% ROI for enterprises and 16-month payback for midmarket organizations using Dynamics 365 ERP",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/02/CLO22_Factory_014-scaled.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=200870",
+          "author": "Tarun Shroff",
+          "description": "Introducing Desktop Companion App (DCA) support for Dynamics 365 Contact Center in Embedded mode, delivering lower latency, improved reliability, and resilient voice continuity when Customer Service Reps (CSR) work inside thirdparty (3P) CRM environments. With DCA running alongside the embedded conversation widget, contact centers can maintain active calls even if the browser refreshes or becomes unresponsive without forcing CSRs to leave their CRM workspace.\nThe post Announcing Desktop Companion App (DCA) support for Dynamics 365 Contact Center Embedded in Third-Party CRMs   appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/26/desktop-companion-app-dynamics-365-contact-center-embedded/",
+          "publishedOn": "2026-02-26T16:30:00.000Z",
+          "wordCount": 5538,
+          "title": "Announcing Desktop Companion App (DCA) support for Dynamics 365 Contact Center Embedded in Third-Party CRMs",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/02/CLO20_Agnes_Tegan_001-scaled.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=200471",
+          "author": "Isabel Greene",
+          "description": "Across industries such as financial services, healthcare, and public sector, organizations must enable customers to complete high‑trust actions (like payments or identity verification) without exposing sensitive information to agents or core contact center systems. Secure Consult & Transfer brings this capability to life by allowing agents to involve external secure endpoints in the conversation while maintaining strict privacy boundaries. \nToday, we’re excited to highlight how Secure Consult & Transfer modernizes sensitive interactions and prepares organizations for the next generation of compliant service workflows.\nThe post Reimagining Secure Customer Interactions with Secure Consult & Transfer  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/02/25/secure-contact-center-sensitive-customer-journeys/",
+          "publishedOn": "2026-02-25T16:30:00.000Z",
+          "wordCount": 5411,
+          "title": "Reimagining Secure Customer Interactions with Secure Consult & Transfer",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/02/AdobeStock_485844938-resized.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=200467",
           "author": "Rupa Mantravadi",
@@ -86106,6 +86101,16 @@
       "feedUrl": "http://feeds.feedburner.com/KashperukIvan/",
       "siteUrl": "http://kashperuk.blogspot.com/",
       "articles": [
+        {
+          "id": "http://kashperuk.blogspot.com/2026/02/help-shape-agentic-future-of-dynamics.html",
+          "author": null,
+          "description": "The era of Agentic ERP is here - and you can help shape what comes nextIf you've been following Dynamics 365 ERP in the past month, you've likely seen the wave of agentic AI scenarios enabled by the new Model Context Protocol (MCP) servers - including the Finance &amp; Operations (F&amp;O) MCP server and the Analytics MCP server.And things are moving fast.With the 10.0.47 release, the F&amp;O MCP",
+          "link": "http://kashperuk.blogspot.com/2026/02/help-shape-agentic-future-of-dynamics.html",
+          "publishedOn": "2026-02-22T06:23:00.003Z",
+          "wordCount": 2820,
+          "title": "Help Shape the Agentic Future of Dynamics 365 ERP - Submit and Upvote ideas for F&O and BPA MCP",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEihpPF3ctKRFVoVTJGLOHs4NiQVvrCvBJ7WXxhMekyvB2rKxi-9oLJ1VtSc1ZhTU8vrG7jLArEs5I8bMmdvkuDU1p-ulp1965gmDSJCfC4QTMP0bJXJSfJ0426dU2Uc8_nyGriqwtE_uyd0oGwd_kWGUI1eInC55i-7pV5HRJuwv6LU1dZDKn70=w1200-h630-p-k-no-nu"
+        },
         {
           "id": "http://kashperuk.blogspot.com/2026/02/cross-references-in-dynamics-365-erp.html",
           "author": null,
