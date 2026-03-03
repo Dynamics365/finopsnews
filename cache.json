@@ -417,6 +417,16 @@
       "siteUrl": "https://denistrunin.com",
       "articles": [
         {
+          "id": "https://denistrunin.com/integration-services/",
+          "author": null,
+          "description": "This blog post describes how to implement a synchronous integration with D365FO by creating a service using the External Integration framework.",
+          "link": "https://denistrunin.com/integration-services/",
+          "publishedOn": "2026-03-02T22:12:03.000Z",
+          "wordCount": null,
+          "title": "Implement Service-based integration in D365FO",
+          "imageUrl": null
+        },
+        {
           "id": "https://denistrunin.com/d365tools-dbsync/",
           "author": null,
           "description": "A new utility to synchronize data from D365FO cloud environments to local AxDB, featuring incremental sync and smart strategies.",
@@ -1327,6 +1337,91 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=143007",
+          "author": "Sabre Limited",
+          "description": "xxx\nField service organizations often outgrow standalone scheduling tools long before they realize it. Dispatch may run smoothly, but inventory accuracy declines. Job cost becomes unclear. Billing slows due to reconciliation […]\nThe post What Is Business Central for Field Service? A Complete Guide appeared first on ERP Software Blog.\nHow to Improve Pricing Strategy: Stop Letting Spreadsheets & Your Ego Wreck Your Pricing Strategy\nRUX Has Arrived: Revolutionizing ERP for Industrial Businesses\nOptimizing Onsite Service with Dynamics 365 Field Service: A Technician’s Toolkit",
+          "link": "https://erpsoftwareblog.com/2026/03/what-is-business-central-for-field-service-a-complete-guide/",
+          "publishedOn": "2026-03-02T22:30:42.000Z",
+          "wordCount": 7428,
+          "title": "What Is Business Central for Field Service? A Complete Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Inventory-and-Truck-Stock-Management-in-Business-Central-Field-Service.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=143001",
+          "author": "Tigunia",
+          "description": "xxx\nYour nonprofit exists to create change. Every hour your team spends wrestling with broken software, re-entering data, or waiting for a slow system to load is an hour not spent […]\nThe post Is Technology Getting in the Way of Your Nonprofit's Mission? appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central\nCreate a Closed-Loop Analysis, Planning, and Reporting Process",
+          "link": "https://erpsoftwareblog.com/2026/03/is-technology-getting-in-the-way-of-your-nonprofit-mission/",
+          "publishedOn": "2026-03-02T20:58:57.000Z",
+          "wordCount": 7722,
+          "title": "Is Technology Getting in the Way of Your Nonprofit's Mission?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142994",
+          "author": "ACE Micro, LLC",
+          "description": "xxx\nWhen people talk about \"distribution\" or \"logistics,\" it sounds like a single industry. In reality, several distinct business models exist, and each one uses an ERP differently. Your specific strategy […]\nThe post The Top 5 Distribution Business Models and How They Use ERPs Differently appeared first on ERP Software Blog.\nStila Cosmetics Selects Dynamics ERP Over Oracle And Sage\nWorld Vision Selects Dynamics ERP for eProcurement and Global Supply Chain Management\nThe Top 12 Reasons Why Inventory Managers/Materials Managers Use Microsoft Dynamics GP as their ERP system of choice",
+          "link": "https://erpsoftwareblog.com/2026/03/the-top-5-distribution-business-models-and-how-they-use-erps-differently/",
+          "publishedOn": "2026-03-02T20:40:52.000Z",
+          "wordCount": 7143,
+          "title": "The Top 5 Distribution Business Models and How They Use ERPs Differently",
+          "enclosure": {
+            "url": "https://erpsoftwareblog.com/wp-content/uploads/ACE-Micro-Distribution-models-and-selecting-an-ERP-for-them-2.mp4",
+            "length": "182036441",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Video-1-ERPSB-promo.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142957",
+          "author": "Insight Works",
+          "description": "xxx\nDynamics 365 Business Central includes core quality management capabilities to support inspection and compliance processes. This webinar shows how those built-in tools can be extended and operationalised to support real-world […]\nThe post Webinar: Transform Your Quality Assurance Process with Business Central appeared first on ERP Software Blog.\nHeads Up: Successful Forecasting and Demand Planning with AGR\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2026/03/webinar-transform-your-quality-assurance-process-with-business-central/",
+          "publishedOn": "2026-03-02T19:26:33.000Z",
+          "wordCount": 6979,
+          "title": "Webinar: Transform Your Quality Assurance Process with Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/EU-Webinar-QI-2026-Linkedin-Event.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142967",
+          "author": "Avalara",
+          "description": "xxx\nKey takeaways Manual workarounds in ERPs and business systems can’t keep up with the ever-growing complexities of today’s tax compliance landscape. Agentic AI is more than a buzzword: These AI […]\nThe post Why agentic AI matters for Microsoft Dynamics 365 users appeared first on ERP Software Blog.\nDemand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP\n6 Ways to Use AI in Your Business\nAI, the Cloud, and Digital Adoption Are the Keys to Business Success",
+          "link": "https://erpsoftwareblog.com/2026/03/why-agentic-ai-matters-for-microsoft-dynamics-365-users/",
+          "publishedOn": "2026-03-02T16:49:08.000Z",
+          "wordCount": 7827,
+          "title": "Why agentic AI matters for Microsoft Dynamics 365 users",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142743",
+          "author": "Velixo",
+          "description": "xxx\nBusiness Central nonprofit reporting becomes difficult when funds, programs, and grants change faster than static financial reports can adapt. Nonprofit finance teams operate inside FASB ASC 958. They are responsible […]\nThe post Business Central Nonprofit Reporting: Simplicity Without Sacrificing Depth appeared first on ERP Software Blog.\nWinning the AP Game with Mekorma Embedded Solutions\nThe Important Business Function Your ERP System CAN'T Do\nSee The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting",
+          "link": "https://erpsoftwareblog.com/2026/03/business-central-nonprofit-reporting-simplicity-without-sacrificing-depth/",
+          "publishedOn": "2026-03-02T13:47:15.000Z",
+          "wordCount": 7836,
+          "title": "Business Central Nonprofit Reporting: Simplicity Without Sacrificing Depth",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BC-Nonprofit-Reporting-Blog-Cover-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142937",
+          "author": "Dan Kosanovic, Reach International",
+          "description": "xxx\nYou’ve poured millions into your ERP, but the finish line keeps moving. The \"Go-Live\" date is a memory, your team is exhausted, and the board is asking for a \"Return […]\nThe post To Rescue or Replace? Navigating the ERP Fail appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/to-rescue-or-replace-navigating-the-erp-fail/",
+          "publishedOn": "2026-03-02T12:27:42.000Z",
+          "wordCount": 7182,
+          "title": "To Rescue or Replace? Navigating the ERP Fail",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-blog-temp-21.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142934",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nIf you’re searching for Microsoft Dynamics 365 implementation cost in the USA, you’re likely in the evaluation or budgeting phase. Whether you’re a CFO, IT Director, or Operations Head, understanding […]\nThe post How Much Does Microsoft Dynamics 365 Implementation Cost in the USA? (2026 Complete Guide) appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/how-much-does-microsoft-dynamics-365-implementation-cost-in-the-usa/",
+          "publishedOn": "2026-03-02T09:23:55.000Z",
+          "wordCount": 7648,
+          "title": "How Much Does Microsoft Dynamics 365 Implementation Cost in the USA? (2026 Complete Guide)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-Mar-2-2026-02_53_17-PM.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=142762",
           "author": "D365contractors.com",
           "description": "xxx\nYou're about to start talking to a D365 F&O vendor or implementation partner. You've done the research. You've sat through the Microsoft pitch. You've probably watched a few Dynamics 365 […]\nThe post 5 Questions to Answer Before You Talk to a D365 F&O Vendor appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -2065,6 +2160,16 @@
           "wordCount": 6780,
           "title": "Maximize Your Business Central Experience with Free Apps",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Free-Apps-webcast-cover-for-ERP.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=142987",
+          "author": "Tigunia",
+          "description": "xxx\nFor nonprofits operating on tight budgets, free accounting tools and spreadsheets can feel like a no-brainer. Why pay for something when there's a no-cost option available? Unfortunately,  \"free\" rarely stays […]\nThe post Why \"Free\" Nonprofit Financial Software May Cost More Than You Think appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central\nCreate a Closed-Loop Analysis, Planning, and Reporting Process",
+          "link": "https://erpsoftwareblog.com/2026/02/why-free-nonprofit-financial-software-costs-more-than-you-think/",
+          "publishedOn": "2026-02-18T18:57:20.000Z",
+          "wordCount": 7403,
+          "title": "Why \"Free\" Nonprofit Financial Software May Cost More Than You Think",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=142235",
@@ -36475,16 +36580,6 @@
           "wordCount": 5368,
           "title": "From Paper to Digital: Transforming QA with Dynamics 365 Business Central",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Quality-Inspector-2000.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104646",
-          "author": "DynamicPoint",
-          "description": "How can you find the best AP Automation tools for Dynamics 365 Finance (AX) or BC/NAV? DynamicPoint recently took part in two Comparison Showcase Events for finance-focused Dynamics 365 Finance […]\nThe post AP Automation Tools Comparison for Dynamics 365 Finance (AX) and BC/NAV appeared first on ERP Software Blog.\nMicrosoft Convergence 2011 – Tips and Tricks\nHow construction equipment rental businesses can add dealership to their portfolio\nTop Cloud Benefits",
-          "link": "https://erpsoftwareblog.com/2024/03/ap-automation-tools-comparison-for-dynamics-365-finance-ax-and-bc-nav/",
-          "publishedOn": "2024-03-02T23:10:25.000Z",
-          "wordCount": 4795,
-          "title": "AP Automation Tools Comparison for Dynamics 365 Finance (AX) and BC/NAV",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-22624-MSDW-Finance-and-BC-1.png"
         }
       ]
     },
@@ -37950,6 +38045,111 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/automate-what-you-thought-was-manual",
+          "author": "Mirko Peters",
+          "description": "Ever wondered why your Viva deployment feels half-finished, despite all the hype? Most organizations barely scratch the surface of what Viva APIs can actually do. Today, we’re going deep—I’ll show you how to automate your own custom learning modules, auto-publish organization-wide news, and weave your company knowledge straight into Viva Topics using real API calls.If […]",
+          "link": "https://365community.online/automate-what-you-thought-was-manual",
+          "publishedOn": "2026-03-03T01:10:24.000Z",
+          "wordCount": 3683,
+          "title": "Automate What You Thought Was Manual",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/e53625140333abf16211aa56551d6023.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-hidden-cost-of-skipping-devops-in-power-apps",
+          "author": "Mirko Peters",
+          "description": "Ever launched a Power App that worked perfectly—until you tried to update it across environments? If you’ve ever crossed your fingers while hitting that publish button, you’re not alone. In this podcast, we’ll unravel why skipping DevOps in your Power Platform projects isn’t just risky—it can quietly drain time, budget, and trust from your entire […]",
+          "link": "https://365community.online/the-hidden-cost-of-skipping-devops-in-power-apps",
+          "publishedOn": "2026-03-02T21:31:49.000Z",
+          "wordCount": 3649,
+          "title": "The Hidden Cost of Skipping DevOps in Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/871585fcaefc7f2dbc43bd933296a5bb.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/plugin-registration-tool-login-with-multi-factor-authentication-mfa-uncheck-show-advanced",
+          "author": "Nishant Rana",
+          "description": "If we’re logging into the Plugin Registration Tool using an account protected with Multi-Factor Authentication (MFA), there’s one small setting that can cause login failures — Show Advanced. We need to make sure “Show Advanced” is unchecked before clicking Login. When this option is selected, the tool exposes legacy Username and Password fields, which do […]",
+          "link": "https://365community.online/plugin-registration-tool-login-with-multi-factor-authentication-mfa-uncheck-show-advanced",
+          "publishedOn": "2026-03-02T18:35:00.000Z",
+          "wordCount": 2133,
+          "title": "Plugin Registration Tool Login with Multi-Factor Authentication (MFA) – Uncheck “Show Advanced”",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/the-power-platform-arbitrage-why-youre-ignoring-a-money-machine",
+          "author": "Mirko Peters",
+          "description": "Most organizations believe Microsoft Power Platform is about empowerment. They imagine citizen developers building helpful little apps while IT keeps the “real” architecture intact. That’s the narrative pushed in webinars and marketing decks. It’s also wrong. Power Platform isn’t a democratization toy.It’s a control plane for enterprise value capture. Manual entropy is draining your organization […]",
+          "link": "https://365community.online/the-power-platform-arbitrage-why-youre-ignoring-a-money-machine",
+          "publishedOn": "2026-03-02T17:51:56.000Z",
+          "wordCount": 2849,
+          "title": "The Power Platform Arbitrage: Why You’re Ignoring a Money Machine",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/b3b0629b9ac49266c69ca6c29f78ec5f.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/pnp-powershell-vs-pnp-framework-stop-guessing",
+          "author": "Mirko Peters",
+          "description": "If you’ve ever stared at two site templates and wondered why your SharePoint rollout turned into Groundhog Day, you’re in the right place. Stop guessing which tool will save you hours and which will cause even more headaches. Let’s break down the real-life wins (and gotchas) between PnP PowerShell and the PnP Framework for site […]",
+          "link": "https://365community.online/pnp-powershell-vs-pnp-framework-stop-guessing",
+          "publishedOn": "2026-03-02T14:07:58.000Z",
+          "wordCount": 3698,
+          "title": "PnP PowerShell vs. PnP Framework: Stop Guessing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/cab695e7d3cf320c935f8dc8682ff827.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/handling-special-character-in-odata-call-d365fo",
+          "author": "Anitha Santosh",
+          "description": "I have already shared the posts on Odata calls – post1, post 2 and post 3 OData often brings its own set of challenges, but every issue becomes a learning opportunity. I had a requirement to include the InventDimId in the API request, and I encountered an error specifically when sending the identical InventDimId value […]",
+          "link": "https://365community.online/handling-special-character-in-odata-call-d365fo",
+          "publishedOn": "2026-03-02T14:05:00.000Z",
+          "wordCount": 2163,
+          "title": "Handling special character in Odata call – D365FO",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/how-to-send-d365-event-emails",
+          "author": "Peter Ramer",
+          "description": "Timely confirmations and details are essential for building customer trust. In this article, learn how to send D365 event emails. After a customer or business takes an action, an email confirmation of that action is often expected. Learn how to associate an email template with a predefined event, such as an order being placed, shipped,… […]",
+          "link": "https://365community.online/how-to-send-d365-event-emails",
+          "publishedOn": "2026-03-02T14:00:00.000Z",
+          "wordCount": 2161,
+          "title": "How To Send D365 Event Emails",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/How-To-Send-D365-Event-Emails.png?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-and-use-ai-agents-in-microsoft-dynamics-365-business-central",
+          "author": "Amol Salvi",
+          "description": "Artificial Intelligence is rapidly expanding inside enterprise systems. With Microsoft Dynamics 365 Business Central v27.4, Microsoft now exposes a first-class agent creation capability — allowing you to define, configure, and run intelligent agents directly inside your ERP environment. In this blog, we’ll walk through how agents work, the creation experience based on what’s available in […]",
+          "link": "https://365community.online/how-to-create-and-use-ai-agents-in-microsoft-dynamics-365-business-central",
+          "publishedOn": "2026-03-02T09:53:00.000Z",
+          "wordCount": 2667,
+          "title": "How to Create and Use AI Agents in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/power-apps-news-2nd-mar-2026-youtube",
+          "author": "Power Squared",
+          "description": "Power Apps News (2nd Mar 2026)",
+          "link": "https://365community.online/power-apps-news-2nd-mar-2026-youtube",
+          "publishedOn": "2026-03-02T08:01:04.000Z",
+          "wordCount": 2061,
+          "title": "Power Apps News (2nd Mar 2026) – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1772460052_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/episode-4-dennie-declercq",
+          "author": "Mike Hartley",
+          "description": "In Episode 4 of 365 a11y the podcast, Mike Hartley is joined by the wonderful Dennie Declerq. From Belgium, and a multiple times Microsoft MVP, Dennie runs his own non-profit company where Accessibility is at the forefront of what they do. Working with people with different types of disability or neurodiversity to help them access […]",
+          "link": "https://365community.online/episode-4-dennie-declercq",
+          "publishedOn": "2026-03-02T08:00:00.000Z",
+          "wordCount": 2178,
+          "title": "Episode 4 – Dennie Declercq",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1152200/episodes/18725890-episode-4-dennie-declercq.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
         {
           "id": "https://365community.online/unlocking-true-interactivity-in-teams-cards",
           "author": "Mirko Peters",
@@ -79528,6 +79728,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=4263",
+          "author": "AnithaEswaran",
+          "description": "I have already shared the posts on Odata calls – post1, post 2 and post 3 OData often brings its own set of challenges, but every issue becomes a learning opportunity. I had a requirement to include the InventDimId in … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2026/03/02/handling-special-character-in-odata-call-d365fo/",
+          "publishedOn": "2026-03-02T14:05:42.000Z",
+          "wordCount": 3315,
+          "title": "Handling special character in Odata call – D365FO",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2026/03/image-1.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=4240",
           "author": "AnithaEswaran",
           "description": "Do you want to limit the number of sales orders in SO List Page? You can enable using the below parameter. Navigate to Accounts Receivable Parameter ->General -> Sales Setup Default value 0 disables the limit. As per the help … Continue reading →",
@@ -80004,6 +80214,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=4643",
+          "author": "Peter Ramer",
+          "description": "Timely confirmations and details are essential for building customer trust. In this article, learn how to send D365 event emails. After a customer or business takes an action, an email confirmation of that action is often expected. Learn how to associate an email template with a predefined event, such as an order being placed, shipped,... Continue Reading →\nThe post How To Send D365 Event Emails appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-event-emails/?utm_source=rss&utm_medium=rss&utm_campaign=d365-event-emails",
+          "publishedOn": "2026-03-02T14:00:00.000Z",
+          "wordCount": 5301,
+          "title": "How To Send D365 Event Emails",
+          "imageUrl": "https://i0.wp.com/dynamics365musings.com/wp-content/uploads/2025/12/How-To-Send-D365-Event-Emails.png?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://dynamics365musings.com/?p=4763",
           "author": "Peter Ramer",
