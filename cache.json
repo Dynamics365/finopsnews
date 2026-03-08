@@ -542,26 +542,6 @@
           "wordCount": 5659,
           "title": "How to create a filter on display method using view – D365 F&O",
           "imageUrl": null
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2024/03/how-to-customize-ssrs-report-in-d365-f.html",
-          "author": null,
-          "description": "Microsoft Dynamics 365 Finance and Operations (D365 F&O) provides robust reporting capabilities through SQL Server Reporting Services (SSRS) reports. SSRS reports in D365 F&O can be customized to meet specific business requirements, allowing organizations to tailor their reports to display relevant information. In this article, we’ll explore the process of customizing a D365 F&O SSRS report using the Sales Packing Slip report as an example.\n\n\nUnderstanding SSRS Reports in D365 F&O\nSSRS reports in D365 F&O are generated using a combination of data stored in temporary tables (tmp tables) and report designs created in Visual Studio. These reports play a crucial role in providing insights into various aspects of business operations, and customization allows organizations to adapt these reports…",
-          "link": "https://d365fotechexpert.blogspot.com/2024/03/how-to-customize-ssrs-report-in-d365-f.html",
-          "publishedOn": "2024-03-08T12:27:00.000Z",
-          "wordCount": 6307,
-          "title": "How to Customize a SSRS Report in D365 F&O",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_um2H6z2YVo67u0PjvD_Hc3_0la1xINg8vkGIOETDnlnWMc3o9D7lvd4_M3jWJTEc8iqSS6iEa-sOX5wTrkxig0OZHfRF43MScVkSUxapytL10Kth4-HfFnLgbzyY7vPUeh9cL1xxtJRJzEzNRjl9pf9W0blhygqa4=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://d365fotechexpert.blogspot.com/2024/03/update-records-through-simple-batch.html",
-          "author": null,
-          "description": "Purpose:\nThe purpose of this document is to demonstrate how to how to update record in form  through X++ based on a business logic.\n\n\nEx: user wants to update particular field for old and newly created records based on code, here im using update process through simple batch process\nProduct:\nDynamics 365 for Finance and Operations.\nDevelopment approach:\nCustomization through CODE, we need update records , for this created controller and service classes\nDevelopment:\ncreated controller and service classes\n\n\ncode below\n\n\nAmountUpdateController  class\n\n\nPublic class AmountUpdateController extends SysOperationServiceController implements BatchRetryable\n{    public static SysOperationController construct(Args _args)\n    {\n        SysOperationController controller;\n        controller = new AmountU…",
-          "link": "https://d365fotechexpert.blogspot.com/2024/03/update-records-through-simple-batch.html",
-          "publishedOn": "2024-03-08T12:03:00.000Z",
-          "wordCount": 5722,
-          "title": "Update records through Simple batch process in X++ D365 FO",
-          "imageUrl": null
         }
       ]
     },
@@ -1336,6 +1316,16 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=143255",
+          "author": "D365contractors.com",
+          "description": "xxx\nMy 4-year-old taught me everything I need to know about D365 F&O user adoption the other day. If the toy does not work the way the box promised, it goes […]\nThe post D365 F&O User Adoption: Why Your Plant Floor Doesn't Trust the System appeared first on ERP Software Blog.\nBaker’s Dozen of WMS (Warehouse Management System) Acronyms Defined\nMicrosoft Virtual Academy - Free Training for Dynamics GP 2013 HR and Payroll\nGPUG/AXUG Summit 2014: A Reflection",
+          "link": "https://erpsoftwareblog.com/2026/03/d365-fo-user-adoption-plant-floor-trust/",
+          "publishedOn": "2026-03-07T18:43:15.000Z",
+          "wordCount": 7703,
+          "title": "D365 F&O User Adoption: Why Your Plant Floor Doesn't Trust the System",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/d365-fo-user-adoption-plant-floor-trust.png.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=144040",
           "author": "Insight Works",
@@ -36730,46 +36720,6 @@
           "wordCount": 5041,
           "title": "Enhanced Inventory Management with POS and ERP Integration",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-49-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104811",
-          "author": "MetaOption LLC",
-          "description": "In the ever-evolving landscape of business management software, the decision to transition from one system to another is often a strategic move aimed at improving efficiency, streamlining processes, and staying […]\nThe post Challenges Faced in Moving from Dynamics SL to Business Central appeared first on ERP Software Blog.\nTypes of data that can be migrated from Dynamics GP to Business Central\nNavigating the Transition: Dynamics SL to Business Central Migration Strategies\nWhich Business Central Deployment Option you should choose?",
-          "link": "https://erpsoftwareblog.com/2024/03/challenges-faced-in-moving-from-dynamics-sl-to-business-central/",
-          "publishedOn": "2024-03-08T13:19:39.000Z",
-          "wordCount": 5405,
-          "title": "Challenges Faced in Moving from Dynamics SL to Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-124.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104803",
-          "author": "NAVtoBC",
-          "description": "Businesses worldwide using Microsoft Dynamics NAV as their ERP are approaching a pivotal moment in their digital transformation journey. With Microsoft discontinuing the legacy NAV platform, the demand for cloud-based […]\nThe post The Cloud Migration Dilemma: Upgrade or Reimplement Your Dynamics NAV ERP to Business Central? appeared first on ERP Software Blog.\nOur Fool-Proof Guide to Migrating to Dynamics NAV\nIs cloud-based ERP giving the much-needed boost to the distribution sector?\nTop Cloud Benefits",
-          "link": "https://erpsoftwareblog.com/2024/03/cloud-migration-dilemma-upgrade-or-reimplement-dynamics-nav-erp-to-business-central/",
-          "publishedOn": "2024-03-07T20:52:18.000Z",
-          "wordCount": 8085,
-          "title": "The Cloud Migration Dilemma: Upgrade or Reimplement Your Dynamics NAV ERP to Business Central?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/NavtoBc-Reimplementation-vs-Upgrades-Facebook.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104783",
-          "author": "Mekorma",
-          "description": "In the dynamic world of finance, Accounts Payable (AP) departments are leading the charge towards innovation and efficiency. This brief explores the emerging trends and technologies propelling AP into the […]\nThe post Revolutionizing Finance: The New Age of Accounts Payable Automation appeared first on ERP Software Blog.\nCase study: From often late to 80% on-time deliveries\nStart Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central\nShipping from Business Central: Overcoming Challenges for SMBs",
-          "link": "https://erpsoftwareblog.com/2024/03/revolutionizing-finance-the-new-age-of-accounts-payable-automation/",
-          "publishedOn": "2024-03-07T16:12:08.000Z",
-          "wordCount": 4885,
-          "title": "Revolutionizing Finance: The New Age of Accounts Payable Automation",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AP-Trends-Blog.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104705",
-          "author": "SimCrest, Inc.",
-          "description": "If you work with software development or project management, you may have heard about Scrum, but do you know exactly what it's all about? If not, this article is just […]\nThe post So What is Scrum All About? appeared first on ERP Software Blog.\nManaging Risks and Issues on Your ERP Project\nEnhance your Business Process with Advanced Warehouse Management Solution\nFive Tips for Efficient ERP System Maintenance",
-          "link": "https://erpsoftwareblog.com/2024/03/so-what-is-scrum-all-about/",
-          "publishedOn": "2024-03-07T15:27:17.000Z",
-          "wordCount": 8992,
-          "title": "So What is Scrum All About?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Picture1-39-300x201.png"
         }
       ]
     },
@@ -38235,6 +38185,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/microsoft-copilot-protects-your-data-from-cyber-threats",
+          "author": "Mirko Peters",
+          "description": "Protecting sensitive data from cyber threats has become essential in today’s digital landscape. Microsoft Copilot leverages AI to enhance data security and empower users to stay ahead of threats. It accelerates risk remediation by providing AI-generated summaries and actionable insights, enabling you to address vulnerabilities faster. The Data and AI security dashboard offers a unified […]",
+          "link": "https://365community.online/microsoft-copilot-protects-your-data-from-cyber-threats",
+          "publishedOn": "2026-03-07T21:16:40.000Z",
+          "wordCount": 3206,
+          "title": "Microsoft Copilot Protects Your Data from Cyber Threats",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/6bbe4f8c7482a6fe4ef934d44db61867.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-the-market-favors-the-microsoft-professional",
+          "author": "Mirko Peters",
+          "description": "🚀 The real power of AI at work isn’t just automation. It’s context.I recently listened to a discussion on how combining Copilot-style AI assistants with Retrieval Augmented Generation (RAG) can transform productivity inside organizations. The takeaway wasn’t about flashy AI demos — it was about unlocking the knowledge your company already has.Here’s the real insight:Most […]",
+          "link": "https://365community.online/why-the-market-favors-the-microsoft-professional",
+          "publishedOn": "2026-03-07T17:46:35.000Z",
+          "wordCount": 2373,
+          "title": "Why the Market Favors the Microsoft Professional",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/32e2e1c95814645108e7f0eb22d8728e.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-playground-to-al-code-how-to-convert-an-agent-into-an-extension-for-business-central",
+          "author": "jarmesto",
+          "description": "What Agent Playground lets you prototype, the SDK allows you to turn into a product. This is the roadmap. Business Central’s Agent Playground is an excellent tool for experimentation: in just a few minutes, you can have a functional agent with natural language instructions, configured permissions, and a dedicated profile. But when the prototype works […]",
+          "link": "https://365community.online/from-playground-to-al-code-how-to-convert-an-agent-into-an-extension-for-business-central",
+          "publishedOn": "2026-03-07T14:59:00.000Z",
+          "wordCount": 3219,
+          "title": "From Playground to AL code: how to convert an agent into an extension for Business Central",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/copilot-studio-monitoring-get-full-visibility-on-your-ai-agents-youtube",
+          "author": "Rafsan Huseynov",
+          "description": "Copilot Studio Monitoring – Get Full Visibility on Your AI Agents",
+          "link": "https://365community.online/copilot-studio-monitoring-get-full-visibility-on-your-ai-agents-youtube",
+          "publishedOn": "2026-03-07T14:44:19.000Z",
+          "wordCount": 2123,
+          "title": "Copilot Studio Monitoring – Get Full Visibility on Your AI Agents – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1772905172_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-power-bi-models-struggle-to-deliver-results",
+          "author": "Mirko Peters",
+          "description": "Have you ever wondered why some Power BI Models seem to fall flat? It often happens because they lack a clear purpose or proper structure. Without a solid foundation, your data turns into a maze rather than a roadmap. When your model misses the mark, it’s harder to make sense of the numbers, let alone […]",
+          "link": "https://365community.online/why-power-bi-models-struggle-to-deliver-results",
+          "publishedOn": "2026-03-07T14:04:15.000Z",
+          "wordCount": 3540,
+          "title": "Why Power BI Models Struggle to Deliver Results",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/ee3a2dfdc65826b676f5e56579495d65.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-empowering-citizen-developers-with-power-platform-matters",
+          "author": "Mirko Peters",
+          "description": "Imagine transforming your business challenges into innovative solutions without relying on complex coding skills. Citizen developers are making this possible every day. By using tools like the Power Platform, you can empower your team to create apps, automate workflows, and analyze data faster than ever. This approach not only accelerates problem-solving but also helps your […]",
+          "link": "https://365community.online/why-empowering-citizen-developers-with-power-platform-matters",
+          "publishedOn": "2026-03-07T10:20:42.000Z",
+          "wordCount": 3301,
+          "title": "Why Empowering Citizen Developers with Power Platform Matters",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/c39a732c6c509102a692275b24f88edf.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-power-bi-copilot-requires-a-broader-strategy",
+          "author": "Mirko Peters",
+          "description": "Power BI Copilot revolutionizes how you analyze data, enhancing productivity and accuracy. However, relying solely on this tool limits its potential. To unlock its full power, you need a broader approach. Strong data practices ensure high-quality inputs, while complementary tools expand its functionality. Training equips your team to use it effectively. By combining these elements, […]",
+          "link": "https://365community.online/why-power-bi-copilot-requires-a-broader-strategy",
+          "publishedOn": "2026-03-07T06:36:35.000Z",
+          "wordCount": 3352,
+          "title": "Why Power BI Copilot Requires a Broader Strategy",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/0d926df24d48ffc60a2896f252d479d8.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/explore-dataverse-tools-fetchxml-formatter-online-by-arun-potti-usage",
+          "author": "Arun Potti",
+          "description": "In my previous article, I had explained about Arun Potti’s FetchXML Formatter and in this article, will explain about how to use this Tool. Requirement: Get all the Active Contacts created in the last 1 hour using JS, C# and Web API. Solution: Follow the below steps, Step 1: Click on the below link to […]",
+          "link": "https://365community.online/explore-dataverse-tools-fetchxml-formatter-online-by-arun-potti-usage",
+          "publishedOn": "2026-03-07T03:46:00.000Z",
+          "wordCount": 3733,
+          "title": "Explore Dataverse Tools: FetchXML Formatter Online by Arun Potti – Usage",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/dataverse.png?fit=700%2C236&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-defender-for-cloud",
+          "author": "Mirko Peters",
+          "description": "I use Microsoft Defender for Cloud because it gives me https://tei.forrester.com/go/Microsoft/DefenderForCloud/. Every week, I see thousands of threats, from ransomware to phishing and cloud misconfigurations. Ransomware attacks now https://unit42.paloaltonetworks.com/2025-ransomware-extortion-trends/, and https://www.secondstartechnologies.com/blog/2024/01/the-evolution-of-cybersecurity-staying-ahead-of-emerging-threats. I rely on Microsoft Defender to replace old tools, improve compliance, and protect my growing cloud workloads as threats keep getting more complex.Key Takeaways* […]",
+          "link": "https://365community.online/microsoft-defender-for-cloud",
+          "publishedOn": "2026-03-07T02:55:58.000Z",
+          "wordCount": 3190,
+          "title": "Microsoft Defender for Cloud",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/6733741e204a1960c876bb8c685164be.jpg?fit=1200%2C630&ssl=1"
+        },
         {
           "id": "https://365community.online/transforming-low-code-with-intelligent-automation",
           "author": "Mirko Peters",
@@ -77524,66 +77564,6 @@
           "wordCount": 3190,
           "title": "2024 March DC Chapter Meeting",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709923563_2024-March-DC-Chapter-Meeting.png?fit=1200%2C655&ssl=1"
-        },
-        {
-          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube",
-          "author": "shabaz darr",
-          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
-          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube",
-          "publishedOn": "2024-03-08T10:00:16.000Z",
-          "wordCount": 3299,
-          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 24 – Topic 10: Part 4 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709961893_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/weekly-update-133-8th-march-2024-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Weekly Update #133 – 8th March 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]",
-          "link": "https://365community.online/weekly-update-133-8th-march-2024-youtube",
-          "publishedOn": "2024-03-08T09:02:23.000Z",
-          "wordCount": 3147,
-          "title": "Weekly Update #133 – 8th March 2024 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709918556_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mb-260-configure-incremental-refresh",
-          "author": "Malin Martnes",
-          "description": "You can configure the incremental refresh after you’ve transformed the data in Power Query, you can also do this by editing the source after you’ve finished. Maybe you’ve set it […]",
-          "link": "https://365community.online/mb-260-configure-incremental-refresh",
-          "publishedOn": "2024-03-08T08:00:00.000Z",
-          "wordCount": 3170,
-          "title": "MB-260: Configure incremental refresh",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/MB-260-Configure-incremental-refresh.png?fit=528%2C790&ssl=1"
-        },
-        {
-          "id": "https://365community.online/webinar-manage-duplicate-crm-data-with-fuzzy-matching-master-record-selection-and-more-with-deduped-new-release",
-          "author": "Inogic",
-          "description": "Data cleaning, a crucial process in data management, involves identifying and addressing inconsistencies, missing values, and duplicates within a dataset. According to a study by Dun & Bradstreet, up to […]",
-          "link": "https://365community.online/webinar-manage-duplicate-crm-data-with-fuzzy-matching-master-record-selection-and-more-with-deduped-new-release",
-          "publishedOn": "2024-03-08T07:20:21.000Z",
-          "wordCount": 3538,
-          "title": "Webinar: Manage Duplicate CRM Data with Fuzzy Matching, Master Record Selection, and More with DeDupeD New Release!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/DeDuped-Webinar-Blog-Banner.png?fit=936%2C531&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-use-mention-in-outlook-web-client-for-dataverse-records",
-          "author": "Arun Potti",
-          "description": "One of the most common scenarios that business has in day-to-day life is, sharing the information of Dataverse applications with your colleagues on an email. In general, you need to […]",
-          "link": "https://365community.online/how-to-use-mention-in-outlook-web-client-for-dataverse-records",
-          "publishedOn": "2024-03-08T06:02:03.000Z",
-          "wordCount": 3304,
-          "title": "How to use /mention in Outlook web client for Dataverse records?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/03/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
-        },
-        {
-          "id": "https://365community.online/synchronise-microsoft-shifts-with-outlook-calendars-in-power-automate-the-2024-way",
-          "author": "Pieter Veenstra",
-          "description": "I’ve been planning to rewrite my Synchronise Microsoft Shifts with Outlook Calendars in Power Automate post for quite a while. This post will give you the new and more efficient […]",
-          "link": "https://365community.online/synchronise-microsoft-shifts-with-outlook-calendars-in-power-automate-the-2024-way",
-          "publishedOn": "2024-03-07T18:59:16.000Z",
-          "wordCount": 3240,
-          "title": "Synchronise Microsoft Shifts with Outlook Calendars in Power Automate the 2024 way",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -80596,6 +80576,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1735 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/05/26.\n\n\nLast modified: \n\n03/07/26\n\n\n\n\n\n\n\n\n\n\n\n\nLCS is going away.\nIf you haven't heard that yet, now you have - not that Microsoft has been trying to hide it. Microsoft is moving all of F&O environment management into the Power Platform Admin Center, or PPAC. Starting January 2026, all new F&O implementations have to go through PPAC. That's the direction and it's not changing. Let's review what that actually means for two things that matter a lot in day-to-day operations: the new capacity model and the ability to run more than one production environment per tenant.\nLCS to PPAC: What's Actually Happening\nFor a long time, F&O lived in LCS. That was where you deployed environments, applied updates, handled support tickets. It was its own world. PPAC is where e…",
+          "link": "https://www.atomicax.com/article/ppacs-new-capacity-model-multiple-production-environments-fo-0",
+          "publishedOn": "2026-03-05T22:49:51.000Z",
+          "wordCount": 2369,
+          "title": "PPAC's New Capacity Model & Multiple Production Environments for F&O",
+          "imageUrl": null
+        },
         {
           "id": "1728 at https://www.atomicax.com",
           "author": "Nathan Clouse",
@@ -85166,16 +85156,6 @@
           "wordCount": 6290,
           "title": "Unlock faster time tracking, approvals, reduced revenue leakage, and accelerated billing with the new Time and Expense Agent in D365 Project Operations",
           "imageUrl": "https://sandeepchaudhuryd365.com/wp-content/uploads/2025/06/image-8.png"
-        },
-        {
-          "id": "http://sandeepchaudhuryd365.com/?p=7302",
-          "author": "Sandeep Chaudhury",
-          "description": "In the ever-evolving landscape of finance, AI has emerged as a game-changer. Organizations worldwide are harnessing the power of AI to streamline processes, enhance decision-making, and elevate customer experiences. At the forefront of this transformation lies Microsoft Dynamics 365 Finance & Operations, where cutting-edge technology converges with financial and operational insights. In this blog let’s … Continue reading Improve your organization’s Cashflow and supercharge employee productivity with Copilot for Finance and Dynamics 365 Finance",
-          "link": "https://sandeepchaudhuryd365.com/2024/03/08/improve-your-organizations-cashflow-and-supercharge-employee-productivity-with-copilot-for-finance-and-dynamics-365-finance/",
-          "publishedOn": "2024-03-07T22:06:46.000Z",
-          "wordCount": 6207,
-          "title": "Improve your organization’s Cashflow and supercharge employee productivity with Copilot for Finance and Dynamics 365 Finance",
-          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2024/03/trendlines_newexperiences_breaking-the-boundary.png?w=1200"
         }
       ]
     },
@@ -86433,16 +86413,6 @@
           "wordCount": 2416,
           "title": "Streamlining Course Management in Dynamics 365 Human Resources with Power Platform",
           "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/03/Course-Management-.png"
-        },
-        {
-          "id": "https://paragchapre.com/?p=12653",
-          "author": "paragchapre@gmail.com",
-          "description": "Explore the transformative capabilities of Virtual Entities in Dynamics 365 Finance and Operations and discover how to seamlessly integrate external data using Power Automate.\nThe post Enabling Virtual Entities in Dynamics 365 Finance and Operations Using Power Automate appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/enable-virtual-entities-dynamics-365-finance-operations-power-automate/",
-          "publishedOn": "2024-03-08T01:03:09.000Z",
-          "wordCount": 2333,
-          "title": "Enabling Virtual Entities in Dynamics 365 Finance and Operations Using Power Automate",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/03/Virtual-Entities-.png"
         }
       ]
     },
@@ -88148,16 +88118,6 @@
           "wordCount": 2176,
           "title": "Investing in Your Success",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
-        },
-        {
-          "id": "prompt-engineering-made-easier-with-ai-builder",
-          "author": null,
-          "description": "Today we are excited to launch a new set of prebuilt AI functions that can be easily added to a low-code solution without having to engineer a custom prompt. These prebuilt functions provide a great starting point to combine the power of LLMs and power of low-code, but they are just scratching the surface of what is possible.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/prompt-engineering-made-easier-with-ai-builder/",
-          "publishedOn": "2024-03-08T08:00:00.000Z",
-          "wordCount": 2709,
-          "title": "Prompt engineering made easier with AI Builder",
-          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/03/featured-image-3.1.png"
         }
       ]
     },
