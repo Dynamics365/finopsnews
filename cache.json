@@ -417,6 +417,16 @@
       "siteUrl": "https://denistrunin.com",
       "articles": [
         {
+          "id": "https://denistrunin.com/xpptools-licenseusagelog/",
+          "author": null,
+          "description": "Learn how the new D365FO licensing model works and discover an open-source X++ utility to monitor actual user activity and optimize your license costs.",
+          "link": "https://denistrunin.com/xpptools-licenseusagelog/",
+          "publishedOn": "2026-03-08T22:12:03.000Z",
+          "wordCount": 2473,
+          "title": "D365FO License usage log utility",
+          "imageUrl": "https://denistrunin.com/static/cde4e2b799b5cbac925704618ffcd2b4/5e88a/logo.png"
+        },
+        {
           "id": "https://denistrunin.com/integration-services/",
           "author": null,
           "description": "This blog post describes how to implement a synchronous integration with D365FO by creating a service using the External Integration framework.",
@@ -1316,6 +1326,26 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=144122",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\n  Is your finance team buried in a mountain of paper? Managing accounts payable manually is a slow, error-prone cycle of data entry and endless follow-ups. While Dynamics 365 Business […]\nThe post Five AP Automation Tools to Compare for D365 Business Central appeared first on ERP Software Blog.\nFrom Payroll to Procure to Pay - Here's how to enable your remote workers\nStart Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central\n2 Demo Days - Microsoft Dynamics GP and 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2026/03/five-ap-automation-tools-to-compare-for-d365-business-central/",
+          "publishedOn": "2026-03-08T19:20:08.000Z",
+          "wordCount": 7847,
+          "title": "Five AP Automation Tools to Compare for D365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2026-02-MSDW-AP-Automation-for-BC-Showcase-Banners-Live-1200x628-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=143236",
+          "author": "D365contractors.com",
+          "description": "xxx\nD365 F&O food manufacturing implementations fail more often than they should. Not because the platform cannot handle it. Dynamics 365 Finance and Supply Chain Management has deep, native capabilities for […]\nThe post Why Generic D365 F&O Configuration Fails Food Manufacturers appeared first on ERP Software Blog.\nThe 5 Most Often Overlooked Costs of ERP\nERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV\nReShoring Manufacturing in the U.S.A.",
+          "link": "https://erpsoftwareblog.com/2026/03/d365-fo-food-manufacturing-generic-configuration-fails/",
+          "publishedOn": "2026-03-08T10:29:23.000Z",
+          "wordCount": 8475,
+          "title": "Why Generic D365 F&O Configuration Fails Food Manufacturers",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/d365-fo-food-manufacturing-generic-configuration-fails.png.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=143255",
           "author": "D365contractors.com",
@@ -36680,46 +36710,6 @@
           "wordCount": 5460,
           "title": "Sending Invoices via the Mail vs. Email",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104833",
-          "author": "Andrew King, WebSan Solutions, Inc.",
-          "description": "Are you on the hunt for the perfect Dynamics 365 Business Central partner for your organization? Choosing the right partner can make all the difference in the success of your […]\nThe post 5 Signs You're About to Choose the Wrong Dynamics 365 Business Central Partner (and How to Fix It) appeared first on ERP Software Blog.\nBAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.\nHave You Calculated the Cost of Not Switching ERP Systems?\nAn Active Partner Relationship: Increase ROI and Long-Term ERP Success - free eBook",
-          "link": "https://erpsoftwareblog.com/2024/03/5-signs-youre-about-to-choose-the-wrong-dynamics-365-business-central-partner-and-how-to-fix-it/",
-          "publishedOn": "2024-03-08T19:39:20.000Z",
-          "wordCount": 5312,
-          "title": "5 Signs You're About to Choose the Wrong Dynamics 365 Business Central Partner (and How to Fix It)",
-          "imageUrl": "https://www.websan.com/images/easyblog_articles/627/b2ap3_large_warning-signs-1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104828",
-          "author": "MetaOption LLC",
-          "description": "In today’s data-driven world, businesses are drowning in information. But what if you could transform that data into actionable insights? Microsoft Power BI steps in as a game-changer, empowering you to harness […]\nThe post Unlock Your Data’s Potential: Top 5 Benefits of Microsoft Power BI Implementation appeared first on ERP Software Blog.\nHarnessing Business Intelligence: Power BI Integration in Business Central\nTop 5 Microsoft Power BI benefits you should know in 2023\nTop benefits of Power BI and Business Central Integration",
-          "link": "https://erpsoftwareblog.com/2024/03/unlock-your-datas-potential-top-5-benefits-of-microsoft-power-bi-implementation/",
-          "publishedOn": "2024-03-08T19:12:33.000Z",
-          "wordCount": 4933,
-          "title": "Unlock Your Data’s Potential: Top 5 Benefits of Microsoft Power BI Implementation",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-76.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104823",
-          "author": "Open Door Technology",
-          "description": "A guide to help you optimize your rental equipment fleet and maximize your profits If you own or manage a rental equipment business, you know how challenging it can be […]\nThe post How to Right Size Your Rental Fleet appeared first on ERP Software Blog.\nERP Software Bundles Make it Easier to Adopt the Technology\nMaking the Most of Your Financial Management Software\nTop Features of Dynamics GP that will Convince You to Upgrade From QuickBooks",
-          "link": "https://erpsoftwareblog.com/2024/03/how-to-right-size-your-rental-fleet/",
-          "publishedOn": "2024-03-08T18:49:12.000Z",
-          "wordCount": 6423,
-          "title": "How to Right Size Your Rental Fleet",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Cover.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=104814",
-          "author": "x2x eCommerce",
-          "description": "Businesses achieve Enhanced Inventory Management with POS and ERP Integration. Stock count is one of the major areas that requires accurate projections. This blog discusses some points that how POS […]\nThe post Enhanced Inventory Management with POS and ERP Integration appeared first on ERP Software Blog.\nDynamics GP & POS (RMH) Integration by x2x-eCommerce\nIntegrate Dynamics GP with leading Storefront Platforms\nMappings in x2x Acumatica and RMH Integration",
-          "link": "https://erpsoftwareblog.com/2024/03/enhanced-inventory-management-with-pos-and-erp-integration/",
-          "publishedOn": "2024-03-08T17:26:56.000Z",
-          "wordCount": 5041,
-          "title": "Enhanced Inventory Management with POS and ERP Integration",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-49-300x169.png"
         }
       ]
     },
@@ -38186,6 +38176,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/i-used-microsoft-copilot-for-fabric-and-saved-hours-heres-how",
+          "author": "Mirko Peters",
+          "description": "From Code Cruncher to Creative Thinker: How Microsoft Copilot in Fabric Rewired My Data Engineering JourneyEver spent what felt like an entire summer afternoon just transforming a CSV file? I have—and to say it sapped my motivation would be an understatement. But that was before Microsoft Copilot entered the chat. In this post, I’ll share […]",
+          "link": "https://365community.online/i-used-microsoft-copilot-for-fabric-and-saved-hours-heres-how",
+          "publishedOn": "2026-03-08T23:41:05.000Z",
+          "wordCount": 3619,
+          "title": "I Used Microsoft Copilot for Fabric and Saved Hours—Here’s How",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/26cd9d0ad4f514eac0dd3a77217d8dfb.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-studios-actions-as-a-game-changer",
+          "author": "Mirko Peters",
+          "description": "Imagine a tool so powerful it doesn’t just help you work—it actually transforms how you work. Picture this: you describe what you want, and it magically builds an AI agent that does the job for you. That’s not science fiction; it’s a game-changer. Key Takeaways * Copilot Studio makes creating AI agents easy. Just explain […]",
+          "link": "https://365community.online/copilot-studios-actions-as-a-game-changer",
+          "publishedOn": "2026-03-08T19:48:59.000Z",
+          "wordCount": 5146,
+          "title": "Copilot Studio’s Actions as a Game-Changer",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1772999339_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-smartest-way-to-architect-1m-in-efficiency",
+          "author": "Mirko Peters",
+          "description": "Most organizations think the Power Platform is just a toolkit for building apps. It isn’t. What they’re actually running is a massive distributed decision engine that makes thousands of governance decisions every day. That engine either: • Enforces your architectural intent at scale• Or devolves into conditional chaos The real opportunity isn’t building more apps. […]",
+          "link": "https://365community.online/the-smartest-way-to-architect-1m-in-efficiency",
+          "publishedOn": "2026-03-08T16:06:52.000Z",
+          "wordCount": 3099,
+          "title": "The Smartest Way to Architect $1M in Efficiency",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/d41402f823bd79f92e6d4824273af423.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/advanced-power-apps-components-explained",
+          "author": "Mirko Peters",
+          "description": "Confession time: the first time I opened a model-driven form in Power Apps, I had no idea what I was looking at. It felt like peeking under the hood of a spaceship—exciting, but intimidating. What began as a practical experiment soon spiraled into a deep, surprisingly personal quest for order (and maybe a little bit […]",
+          "link": "https://365community.online/advanced-power-apps-components-explained",
+          "publishedOn": "2026-03-08T12:31:04.000Z",
+          "wordCount": 3688,
+          "title": "Advanced Power Apps Components Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/e84b994e06319f687fe96d3cbc55d6ce.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sales-agent-extensibility-5-build-lessons",
+          "author": "Angeliki Patsiavou",
+          "description": "Agents! Agents! Agents! It is like the more we say it, more of them come out! Especially in Sales, we have seen an exponential increase not only in agents but also features. Which is fantastic for us Dynamics 365 geeks! Before we get to the heart of this blog post… A short recap of the […]",
+          "link": "https://365community.online/sales-agent-extensibility-5-build-lessons",
+          "publishedOn": "2026-03-08T12:20:00.000Z",
+          "wordCount": 3022,
+          "title": "Sales Agent Extensibility – 5 Build Lessons",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/d7196d_811327c56f3347eca41a77e465a27bb1mv2.gif?fit=640%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-teams-governance-drives-collaboration-and-success",
+          "author": "Mirko Peters",
+          "description": "Imagine a workplace where every team operates in harmony, trust flourishes, and productivity soars. Teams governance holds the hidden power to make this vision a reality. It creates order by defining clear structures and roles, ensuring that collaboration thrives without chaos. Without it, organizations often struggle to gather meaningful metrics or maintain data quality. A […]",
+          "link": "https://365community.online/how-teams-governance-drives-collaboration-and-success",
+          "publishedOn": "2026-03-08T08:44:51.000Z",
+          "wordCount": 3209,
+          "title": "How Teams Governance Drives Collaboration and Success",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/fa7be1060d8c21d5c140e65cface2afe.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-copilot-protects-your-data-from-cyber-threats",
           "author": "Mirko Peters",
           "description": "Protecting sensitive data from cyber threats has become essential in today’s digital landscape. Microsoft Copilot leverages AI to enhance data security and empower users to stay ahead of threats. It accelerates risk remediation by providing AI-generated summaries and actionable insights, enabling you to address vulnerabilities faster. The Data and AI security dashboard offers a unified […]",
@@ -38204,6 +38254,16 @@
           "wordCount": 2373,
           "title": "Why the Market Favors the Microsoft Professional",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/32e2e1c95814645108e7f0eb22d8728e.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/will-your-coding-skills-be-enough-in-2026-aiml-aitraining-youtube",
+          "author": "Sourav Raj",
+          "description": "Will your coding skills be enough in 2026? #aiml #aitraining Writing code is expected; building intelligent systems is what stands out. The market has shifted. Traditional developer roles are being rapidly outpaced by the demand for AI Engineers, Gen-AI Engineers, and AI Solution Architects. For current developers, AI is not a completely new career path, […]",
+          "link": "https://365community.online/will-your-coding-skills-be-enough-in-2026-aiml-aitraining-youtube",
+          "publishedOn": "2026-03-07T16:44:54.000Z",
+          "wordCount": 2267,
+          "title": "Will your coding skills be enough in 2026? #aiml #aitraining – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1772962128_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
         {
           "id": "https://365community.online/from-playground-to-al-code-how-to-convert-an-agent-into-an-extension-for-business-central",
@@ -77514,56 +77574,6 @@
           "wordCount": 3172,
           "title": "Responsible AI in the D365 and Power Platform – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710053235_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/best-way-to-master-dsa-with-java-youtube",
-          "author": "Sourav Raj",
-          "description": "Best way to master DSA with Java source",
-          "link": "https://365community.online/best-way-to-master-dsa-with-java-youtube",
-          "publishedOn": "2024-03-09T14:30:30.000Z",
-          "wordCount": 3118,
-          "title": "Best way to master DSA with Java – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710050375_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix This MindMajix’s YouTube video on Full Stack training you will learn the skills in […]",
-          "link": "https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube",
-          "publishedOn": "2024-03-09T14:30:17.000Z",
-          "wordCount": 3252,
-          "title": "Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710020471_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/informatica-data-quality-training-informatica-idq-certification-course-idq-training-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "Informatica Data Quality Training | Informatica IDQ Certification Course | IDQ Training | MindMajix This MindMajix’s YouTube video on Informatica Data Quality (IDQ) training you will gain expertise in analysing […]",
-          "link": "https://365community.online/informatica-data-quality-training-informatica-idq-certification-course-idq-training-mindmajix-youtube",
-          "publishedOn": "2024-03-09T12:00:32.000Z",
-          "wordCount": 3262,
-          "title": "Informatica Data Quality Training | Informatica IDQ Certification Course | IDQ Training | MindMajix – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710035592_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows",
-          "author": "Richard Wilson",
-          "description": "In today’s fast-paced development environments, seamless integration between customer and development tracking systems can be crucial for maintaining transparency, efficiency, and alignment across teams. Our objective centers around a scenario […]",
-          "link": "https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows",
-          "publishedOn": "2024-03-08T20:48:00.000Z",
-          "wordCount": 3223,
-          "title": "Syncing Azure DevOps Work Item Status to Microsoft Dataverse with Dataflows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709932687_Syncing-Azure-DevOps-Work-Item-Status-to-Microsoft-Dataverse-with.png?fit=1200%2C630&ssl=1"
-        },
-        {
-          "id": "https://365community.online/2024-march-dc-chapter-meeting",
-          "author": "Kylie Kiser",
-          "description": "Great group of attendees for the 2024 March DC Chapter Meeting We are back with the 2024 March DC Chapter Meeting! This meeting featured 2 great presentations. Let’s jump right […]",
-          "link": "https://365community.online/2024-march-dc-chapter-meeting",
-          "publishedOn": "2024-03-08T16:20:00.000Z",
-          "wordCount": 3190,
-          "title": "2024 March DC Chapter Meeting",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709923563_2024-March-DC-Chapter-Meeting.png?fit=1200%2C655&ssl=1"
         }
       ]
     },

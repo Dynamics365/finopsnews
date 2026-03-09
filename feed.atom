@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-03-08T02:30:06.727Z</updated>
+    <updated>2026-03-09T02:31:00.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Used Microsoft Copilot for Fabric and Saved Hours—Here’s How]]></title>
+        <id>https://365community.online/i-used-microsoft-copilot-for-fabric-and-saved-hours-heres-how</id>
+        <link href="https://365community.online/i-used-microsoft-copilot-for-fabric-and-saved-hours-heres-how"/>
+        <updated>2026-03-08T23:41:05.000Z</updated>
+        <summary type="html"><![CDATA[From Code Cruncher to Creative Thinker: How Microsoft Copilot in Fabric Rewired My Data Engineering JourneyEver spent what felt like an entire summer afternoon just transforming a CSV file? I have—and to say it sapped my motivation would be an understatement. But that was before Microsoft Copilot entered the chat. In this post, I’ll share […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO License usage log utility]]></title>
+        <id>https://denistrunin.com/xpptools-licenseusagelog/</id>
+        <link href="https://denistrunin.com/xpptools-licenseusagelog/"/>
+        <updated>2026-03-08T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn how the new D365FO licensing model works and discover an open-source X++ utility to monitor actual user activity and optimize your license costs.]]></summary>
+        <author>
+            <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio’s Actions as a Game-Changer]]></title>
+        <id>https://365community.online/copilot-studios-actions-as-a-game-changer</id>
+        <link href="https://365community.online/copilot-studios-actions-as-a-game-changer"/>
+        <updated>2026-03-08T19:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a tool so powerful it doesn’t just help you work—it actually transforms how you work. Picture this: you describe what you want, and it magically builds an AI agent that does the job for you. That’s not science fiction; it’s a game-changer. Key Takeaways * Copilot Studio makes creating AI agents easy. Just explain […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five AP Automation Tools to Compare for D365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=144122</id>
+        <link href="https://erpsoftwareblog.com/2026/03/five-ap-automation-tools-to-compare-for-d365-business-central/"/>
+        <updated>2026-03-08T19:20:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Is your finance team buried in a mountain of paper? Managing accounts payable manually is a slow, error-prone cycle of data entry and endless follow-ups. While Dynamics 365 Business […]
+The post Five AP Automation Tools to Compare for D365 Business Central appeared first on ERP Software Blog.
+From Payroll to Procure to Pay - Here's how to enable your remote workers
+Start Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central
+2 Demo Days - Microsoft Dynamics GP and 365 Business Central]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smartest Way to Architect $1M in Efficiency]]></title>
+        <id>https://365community.online/the-smartest-way-to-architect-1m-in-efficiency</id>
+        <link href="https://365community.online/the-smartest-way-to-architect-1m-in-efficiency"/>
+        <updated>2026-03-08T16:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations think the Power Platform is just a toolkit for building apps. It isn’t. What they’re actually running is a massive distributed decision engine that makes thousands of governance decisions every day. That engine either: • Enforces your architectural intent at scale• Or devolves into conditional chaos The real opportunity isn’t building more apps. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Power Apps Components Explained]]></title>
+        <id>https://365community.online/advanced-power-apps-components-explained</id>
+        <link href="https://365community.online/advanced-power-apps-components-explained"/>
+        <updated>2026-03-08T12:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Confession time: the first time I opened a model-driven form in Power Apps, I had no idea what I was looking at. It felt like peeking under the hood of a spaceship—exciting, but intimidating. What began as a practical experiment soon spiraled into a deep, surprisingly personal quest for order (and maybe a little bit […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sales Agent Extensibility – 5 Build Lessons]]></title>
+        <id>https://365community.online/sales-agent-extensibility-5-build-lessons</id>
+        <link href="https://365community.online/sales-agent-extensibility-5-build-lessons"/>
+        <updated>2026-03-08T12:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Agents! Agents! Agents! It is like the more we say it, more of them come out! Especially in Sales, we have seen an exponential increase not only in agents but also features. Which is fantastic for us Dynamics 365 geeks! Before we get to the heart of this blog post… A short recap of the […]]]></summary>
+        <author>
+            <name>Angeliki Patsiavou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Generic D365 F&O Configuration Fails Food Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=143236</id>
+        <link href="https://erpsoftwareblog.com/2026/03/d365-fo-food-manufacturing-generic-configuration-fails/"/>
+        <updated>2026-03-08T10:29:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+D365 F&O food manufacturing implementations fail more often than they should. Not because the platform cannot handle it. Dynamics 365 Finance and Supply Chain Management has deep, native capabilities for […]
+The post Why Generic D365 F&O Configuration Fails Food Manufacturers appeared first on ERP Software Blog.
+The 5 Most Often Overlooked Costs of ERP
+ERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV
+ReShoring Manufacturing in the U.S.A.]]></summary>
+        <author>
+            <name>D365contractors.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Teams Governance Drives Collaboration and Success]]></title>
+        <id>https://365community.online/how-teams-governance-drives-collaboration-and-success</id>
+        <link href="https://365community.online/how-teams-governance-drives-collaboration-and-success"/>
+        <updated>2026-03-08T08:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a workplace where every team operates in harmony, trust flourishes, and productivity soars. Teams governance holds the hidden power to make this vision a reality. It creates order by defining clear structures and roles, ensuring that collaboration thrives without chaos. Without it, organizations often struggle to gather meaningful metrics or maintain data quality. A […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Protects Your Data from Cyber Threats]]></title>
         <id>https://365community.online/microsoft-copilot-protects-your-data-from-cyber-threats</id>
@@ -39,6 +139,16 @@ GPUG/AXUG Summit 2014: A Reflection]]></summary>
         <summary type="html"><![CDATA[🚀 The real power of AI at work isn’t just automation. It’s context.I recently listened to a discussion on how combining Copilot-style AI assistants with Retrieval Augmented Generation (RAG) can transform productivity inside organizations. The takeaway wasn’t about flashy AI demos — it was about unlocking the knowledge your company already has.Here’s the real insight:Most […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will your coding skills be enough in 2026? #aiml #aitraining – YouTube]]></title>
+        <id>https://365community.online/will-your-coding-skills-be-enough-in-2026-aiml-aitraining-youtube</id>
+        <link href="https://365community.online/will-your-coding-skills-be-enough-in-2026-aiml-aitraining-youtube"/>
+        <updated>2026-03-07T16:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Will your coding skills be enough in 2026? #aiml #aitraining Writing code is expected; building intelligent systems is what stands out. The market has shifted. Traditional developer roles are being rapidly outpaced by the demand for AI Engineers, Gen-AI Engineers, and AI Solution Architects. For current developers, AI is not a completely new career path, […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -109004,112 +109114,6 @@ The post Microsoft is a Leader in The Forrester Wave™: Customer Service Soluti
         <summary type="html"><![CDATA[The session covers on Responsible AI and application of it in D365 and Power Platform. It is vital to understand about the Responsible AI due to the fact that we […]]]></summary>
         <author>
             <name>Kasun Pathirana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best way to master DSA with Java – YouTube]]></title>
-        <id>https://365community.online/best-way-to-master-dsa-with-java-youtube</id>
-        <link href="https://365community.online/best-way-to-master-dsa-with-java-youtube"/>
-        <updated>2024-03-09T14:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Best way to master DSA with Java source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix – YouTube]]></title>
-        <id>https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube</id>
-        <link href="https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube"/>
-        <updated>2024-03-09T14:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix This MindMajix’s YouTube video on Full Stack training you will learn the skills in […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Informatica Data Quality Training | Informatica IDQ Certification Course | IDQ Training | MindMajix – YouTube]]></title>
-        <id>https://365community.online/informatica-data-quality-training-informatica-idq-certification-course-idq-training-mindmajix-youtube</id>
-        <link href="https://365community.online/informatica-data-quality-training-informatica-idq-certification-course-idq-training-mindmajix-youtube"/>
-        <updated>2024-03-09T12:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Informatica Data Quality Training | Informatica IDQ Certification Course | IDQ Training | MindMajix This MindMajix’s YouTube video on Informatica Data Quality (IDQ) training you will gain expertise in analysing […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syncing Azure DevOps Work Item Status to Microsoft Dataverse with Dataflows]]></title>
-        <id>https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows</id>
-        <link href="https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows"/>
-        <updated>2024-03-08T20:48:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced development environments, seamless integration between customer and development tracking systems can be crucial for maintaining transparency, efficiency, and alignment across teams. Our objective centers around a scenario […]]]></summary>
-        <author>
-            <name>Richard Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Signs You're About to Choose the Wrong Dynamics 365 Business Central Partner (and How to Fix It)]]></title>
-        <id>https://erpsoftwareblog.com/?p=104833</id>
-        <link href="https://erpsoftwareblog.com/2024/03/5-signs-youre-about-to-choose-the-wrong-dynamics-365-business-central-partner-and-how-to-fix-it/"/>
-        <updated>2024-03-08T19:39:20.000Z</updated>
-        <summary type="html"><![CDATA[Are you on the hunt for the perfect Dynamics 365 Business Central partner for your organization? Choosing the right partner can make all the difference in the success of your […]
-The post 5 Signs You're About to Choose the Wrong Dynamics 365 Business Central Partner (and How to Fix It) appeared first on ERP Software Blog.
-BAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.
-Have You Calculated the Cost of Not Switching ERP Systems?
-An Active Partner Relationship: Increase ROI and Long-Term ERP Success - free eBook]]></summary>
-        <author>
-            <name>Andrew King, WebSan Solutions, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock Your Data’s Potential: Top 5 Benefits of Microsoft Power BI Implementation]]></title>
-        <id>https://erpsoftwareblog.com/?p=104828</id>
-        <link href="https://erpsoftwareblog.com/2024/03/unlock-your-datas-potential-top-5-benefits-of-microsoft-power-bi-implementation/"/>
-        <updated>2024-03-08T19:12:33.000Z</updated>
-        <summary type="html"><![CDATA[In today’s data-driven world, businesses are drowning in information. But what if you could transform that data into actionable insights? Microsoft Power BI steps in as a game-changer, empowering you to harness […]
-The post Unlock Your Data’s Potential: Top 5 Benefits of Microsoft Power BI Implementation appeared first on ERP Software Blog.
-Harnessing Business Intelligence: Power BI Integration in Business Central
-Top 5 Microsoft Power BI benefits you should know in 2023
-Top benefits of Power BI and Business Central Integration]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Right Size Your Rental Fleet]]></title>
-        <id>https://erpsoftwareblog.com/?p=104823</id>
-        <link href="https://erpsoftwareblog.com/2024/03/how-to-right-size-your-rental-fleet/"/>
-        <updated>2024-03-08T18:49:12.000Z</updated>
-        <summary type="html"><![CDATA[A guide to help you optimize your rental equipment fleet and maximize your profits If you own or manage a rental equipment business, you know how challenging it can be […]
-The post How to Right Size Your Rental Fleet appeared first on ERP Software Blog.
-ERP Software Bundles Make it Easier to Adopt the Technology
-Making the Most of Your Financial Management Software
-Top Features of Dynamics GP that will Convince You to Upgrade From QuickBooks]]></summary>
-        <author>
-            <name>Open Door Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced Inventory Management with POS and ERP Integration]]></title>
-        <id>https://erpsoftwareblog.com/?p=104814</id>
-        <link href="https://erpsoftwareblog.com/2024/03/enhanced-inventory-management-with-pos-and-erp-integration/"/>
-        <updated>2024-03-08T17:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Businesses achieve Enhanced Inventory Management with POS and ERP Integration. Stock count is one of the major areas that requires accurate projections. This blog discusses some points that how POS […]
-The post Enhanced Inventory Management with POS and ERP Integration appeared first on ERP Software Blog.
-Dynamics GP & POS (RMH) Integration by x2x-eCommerce
-Integrate Dynamics GP with leading Storefront Platforms
-Mappings in x2x Acumatica and RMH Integration]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 March DC Chapter Meeting]]></title>
-        <id>https://365community.online/2024-march-dc-chapter-meeting</id>
-        <link href="https://365community.online/2024-march-dc-chapter-meeting"/>
-        <updated>2024-03-08T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Great group of attendees for the 2024 March DC Chapter Meeting We are back with the 2024 March DC Chapter Meeting! This meeting featured 2 great presentations. Let’s jump right […]]]></summary>
-        <author>
-            <name>Kylie Kiser</name>
         </author>
     </entry>
     <entry>
