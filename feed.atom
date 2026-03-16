@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-03-15T02:44:06.816Z</updated>
+    <updated>2026-03-16T02:44:08.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Start Vibe Coding for Free]]></title>
+        <id>https://365community.online/start-vibe-coding-for-free</id>
+        <link href="https://365community.online/start-vibe-coding-for-free"/>
+        <updated>2026-03-15T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been curious about new ways to code that feel a bit more natural (and a lot less painful), you’re definitely not alone. Lately, something called vibe coding  has been popping up everywhere, and honestly… it’s kind of fun. Instead of staring at a blank screen trying to remember syntax, you work with AI, […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[{How to} Use answering machine detection and proactive engagement tools in Copilot Studio]]></title>
+        <id>https://365community.online/how-to-use-answering-machine-detection-and-proactive-engagement-tools-in-copilot-studio</id>
+        <link href="https://365community.online/how-to-use-answering-machine-detection-and-proactive-engagement-tools-in-copilot-studio"/>
+        <updated>2026-03-15T19:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone, Today I am going to share my thoughts on how answering machine detection and proactive engagement tools work. Let’s get started. In Microsoft Copilot Studio, you can leverage Answering Machine Detection (AMD) and Proactive Engagement tools to automate outbound voice workloads and improve customer interaction efficiency. These features are primarily used within Dynamics […]]]></summary>
+        <author>
+            <name>Malla Reddy Gurram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Date Palindrome]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=11133</id>
+        <link href="https://tomaztsql.wordpress.com/2026/03/15/little-useless-useful-r-functions-date-palindrome/"/>
+        <updated>2026-03-15T19:15:28.000Z</updated>
+        <summary type="html"><![CDATA[It is a rare thing that a date can be a palindrome. But it happens. And the idea is the following, to cover all different date formats and for the given period And to do some useless extraction of the…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alerts via Power Automate in D365  Finance and Operations]]></title>
+        <id>https://365community.online/alerts-via-power-automate-in-d365-finance-and-operations</id>
+        <link href="https://365community.online/alerts-via-power-automate-in-d365-finance-and-operations"/>
+        <updated>2026-03-15T18:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever missed an important business event in Dynamics 365 Finance and Operations because you weren’t notified in time? I’ve been there, and it’s frustrating. Luckily, there’s a way to stay on top of things by sending emails automatically when key events happen. With Power Automate you can set up alerts that keep you informed without […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exporting High-Volume Data from Dynamics 365 Finance and Operations to On-Premises SQL Server]]></title>
+        <id>https://paragchapre.com/?p=16852</id>
+        <link href="https://paragchapre.com/dynamics-365-fo-byod-high-volume-export-optimization/"/>
+        <updated>2026-03-15T16:07:27.000Z</updated>
+        <summary type="html"><![CDATA[In many enterprise environments, Dynamics 365 Finance and Operations (F&O) serves as the core transactional system, but it’s rarely the only one. Large organizations often operate across multiple legal entities, and integrating or reporting on massive datasets becomes a recurring challenge. When working in environments with 150+ legal entities and millions of daily transactions, getting…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beste Troubleshooting Tips & Tricks zur OBSBOT Tiny 3]]></title>
+        <id>https://365community.online/beste-troubleshooting-tips-tricks-zur-obsbot-tiny-3</id>
+        <link href="https://365community.online/beste-troubleshooting-tips-tricks-zur-obsbot-tiny-3"/>
+        <updated>2026-03-15T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Die OBSBOT Tiny 3 (solectric Shop) ist eine ganz hervorragende und führende 4K‑PTZ‑Webcam mit KI‑Tracking, Spatial Audio und Sleep Mode 2.0 – perfekt für Streaming und Videocalls, aber in der Praxis tauchen kleinere Probleme auf. Dieser Beitrag zeigt konkrete Fixes für Virtual‑Camera‑Bugs, Auto‑Sleep, Audio‑Themen und weitere Stolpersteine, basierend auf der offiziellen OBSBOT‑Doku und echten Tiny‑3‑User‑Reports. […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Truth About M365 vs Private Cloud Deployments – YouTube]]></title>
+        <id>https://365community.online/the-truth-about-m365-vs-private-cloud-deployments-youtube</id>
+        <link href="https://365community.online/the-truth-about-m365-vs-private-cloud-deployments-youtube"/>
+        <updated>2026-03-15T13:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Join my Learning Community for Microsoft Exam & Career Coaching offers! 12 months program with 4 exam passes guaranteed https://iamitgeek.kit.com/ebc93a81e4 Discover the truth about Microsoft 365 versus private cloud deployments in this informative video. We delve into the Microsoft ecosystem, exploring the benefits and drawbacks of each option, including the role of Azure cloud, OneDrive, […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real Azure VM Setup – No Theory, Just Implementation – YouTube]]></title>
+        <id>https://365community.online/real-azure-vm-setup-no-theory-just-implementation-youtube</id>
+        <link href="https://365community.online/real-azure-vm-setup-no-theory-just-implementation-youtube"/>
+        <updated>2026-03-15T12:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Made with Restream. Livestream on 30+ platforms at once via https://restream.io Demo of implementing Azure Virtual Machines source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De “¿cómo va la cartera?” a informe financiero en 15 min | Claude + MCP + Business Central – YouTube]]></title>
         <id>https://365community.online/de-como-va-la-cartera-a-informe-financiero-en-15-min-claude-mcp-business-central-youtube</id>
@@ -14,6 +95,16 @@
         <summary type="html"><![CDATA[De “¿cómo va la cartera?” a informe financiero en 15 min | Claude + MCP + Business Central]]></summary>
         <author>
             <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure or AWS? What Is The Best Career Path? #azure #aws – YouTube]]></title>
+        <id>https://365community.online/azure-or-aws-what-is-the-best-career-path-azure-aws-youtube</id>
+        <link href="https://365community.online/azure-or-aws-what-is-the-best-career-path-azure-aws-youtube"/>
+        <updated>2026-03-14T01:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Make sure to #subscribe for daily #microsoft #cloud and #tech content! Join my community for free learning content and to be eligible for my Exam Coaching Program! https://iamitgeek.kit.com/ebc93a81e4 See why I think that Azure is the best career path! source]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -109566,98 +109657,6 @@ Maybe in its source training "switch" isn't …]]></summary>
         <summary type="html"><![CDATA[Special thanks to Nataliia Sukhanova, Ewa Watkins and Chloe Zhang for their reviews, comments, feedback and suggestions for improvement.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8]]></title>
-        <id>http://exploredynamics365.home.blog/?p=2830</id>
-        <link href="https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/"/>
-        <updated>2024-03-16T11:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]]]></summary>
-        <author>
-            <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8]]></title>
-        <id>http://exploredynamics365.home.blog/?p=2830</id>
-        <link href="https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/"/>
-        <updated>2024-03-16T11:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]]]></summary>
-        <author>
-            <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Invoice to Paid: How a Payment Portal Supercharges Your Dynamics 365 Business Central ERP]]></title>
-        <id>https://erpsoftwareblog.com/?p=105261</id>
-        <link href="https://erpsoftwareblog.com/2024/03/payment-portal-supercharges-your-dynamics-365-business-central-erp/"/>
-        <updated>2024-03-15T19:00:43.000Z</updated>
-        <summary type="html"><![CDATA[For businesses using Microsoft Dynamics 365 Business Central (BC), integrating a payment portal solution can revamp your accounts receivable (AR) process. Not only does it offer a convenient payment option […]
-The post From Invoice to Paid: How a Payment Portal Supercharges Your Dynamics 365 Business Central ERP appeared first on ERP Software Blog.
-Register Now for JourneyTEAM’s 2021 Business Technology Summit
-JourneyTEAM Awarded 2021 VAR Star Recognition
-5 benefits of automating your payment collection process]]></summary>
-        <author>
-            <name>Dynamics eShop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live from Redmond, WA – YouTube]]></title>
-        <id>https://365community.online/live-from-redmond-wa-youtube</id>
-        <link href="https://365community.online/live-from-redmond-wa-youtube"/>
-        <updated>2024-03-15T18:06:29.000Z</updated>
-        <summary type="html"><![CDATA[We are live from Microsoft Headquarters to remind you that CPPS 24 takes place tomorrow and Zero To Hero is going live next week. source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics Business Central vs Acumatica - Which is the Best ERP Fit for Your SMB Business?]]></title>
-        <id>https://erpsoftwareblog.com/?p=103027</id>
-        <link href="https://erpsoftwareblog.com/2024/03/dynamics-business-central-vs-acumatica-which-is-the-best-erp-fit-for-your-smb-business/"/>
-        <updated>2024-03-15T17:04:09.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to choosing an ERP solution for your small or medium-sized business, it's crucial to make an informed decision. To stay ahead in today’s competitive business environment, you […]
-The post Dynamics Business Central vs Acumatica - Which is the Best ERP Fit for Your SMB Business? appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
-Get More in the Cloud with Dynamics 365 Business Central
-Taking Microsoft Dynamics GP to the Cloud]]></summary>
-        <author>
-            <name>CAL Business Solutions, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover the Advantages of the Universal Tax Rate API for Simplified Tax Calculations in Microsoft Dynamics 365 Finance and Supply Chain Management applications]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/03/15/discover-the-advantages-of-the-universal-tax-rate-api-for-simplified-tax-calculations-in-microsoft-dynamics-365-finance-and-supply-chain-management-applications/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/03/15/discover-the-advantages-of-the-universal-tax-rate-api-for-simplified-tax-calculations-in-microsoft-dynamics-365-finance-and-supply-chain-management-applications/"/>
-        <updated>2024-03-15T15:48:33.000Z</updated>
-        <summary type="html"><![CDATA[The tax calculation functionality of Dynamics 365 offers highly flexible and powerful tax determination and calculation capabilities right out of the box.
-The post Discover the Advantages of the Universal Tax Rate API for Simplified Tax Calculations in Microsoft Dynamics 365 Finance and Supply Chain Management applications  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Kai Liang and Sergey Shvedov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Training | DevOps Engineer Training Course Online | DevOps Tutorial | MindMajix – YouTube]]></title>
-        <id>https://365community.online/devops-training-devops-engineer-training-course-online-devops-tutorial-mindmajix-youtube</id>
-        <link href="https://365community.online/devops-training-devops-engineer-training-course-online-devops-tutorial-mindmajix-youtube"/>
-        <updated>2024-03-15T15:30:07.000Z</updated>
-        <summary type="html"><![CDATA[DevOps Training | DevOps Engineer Training Course Online | DevOps Tutorial | MindMajix This MindMajix’s YouTube video on DevOps training will help you master and build your DevOps skills with […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Answers to Your FAQs | Moving Your On Premise ERP to the Cloud (Video)]]></title>
-        <id>https://www.encorebusiness.com/?p=61723</id>
-        <link href="https://www.encorebusiness.com/blog/answers-to-your-faqs-moving-your-on-premise-erp-to-the-cloud/"/>
-        <updated>2024-03-15T15:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Answers to Your FAQs | Moving Your On Premise ERP to the Cloud (Video)
-Do you have questions about moving from Dynamics GP, NAV, or AX on-premise to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations? In this recorded webinar, join Tracey Santos, our Account Management Practice Lead, and Patti Schreiber, our Dynamics GP Practice Lead, as they answer the most common questions...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>The Encore Team</name>
         </author>
     </entry>
     <entry>

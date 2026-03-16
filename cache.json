@@ -608,6 +608,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=11133",
+          "author": "tomaztsql",
+          "description": "It is a rare thing that a date can be a palindrome. But it happens. And the idea is the following, to cover all different date formats and for the given period And to do some useless extraction of the…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2026/03/15/little-useless-useful-r-functions-date-palindrome/",
+          "publishedOn": "2026-03-15T19:15:28.000Z",
+          "wordCount": 5490,
+          "title": "Little useless-useful R functions – Date Palindrome",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2026/03/image.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=11121",
           "author": "tomaztsql",
           "description": "Did you ever wonder how fast and with accuracy your typing is? For this instance, we will introduce some random pangrams, code samples and random strings sotrted by level of difficulty. Addition to list of sample strings, we have also…\nRead more ›",
@@ -37005,26 +37015,6 @@
           "wordCount": 5380,
           "title": "Top 10 Features You Didn't Know Existed in Product Configurators for Business Central",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Product-Configurator-250-1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105261",
-          "author": "Dynamics eShop",
-          "description": "For businesses using Microsoft Dynamics 365 Business Central (BC), integrating a payment portal solution can revamp your accounts receivable (AR) process. Not only does it offer a convenient payment option […]\nThe post From Invoice to Paid: How a Payment Portal Supercharges Your Dynamics 365 Business Central ERP appeared first on ERP Software Blog.\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nJourneyTEAM Awarded 2021 VAR Star Recognition\n5 benefits of automating your payment collection process",
-          "link": "https://erpsoftwareblog.com/2024/03/payment-portal-supercharges-your-dynamics-365-business-central-erp/",
-          "publishedOn": "2024-03-15T19:00:43.000Z",
-          "wordCount": 5747,
-          "title": "From Invoice to Paid: How a Payment Portal Supercharges Your Dynamics 365 Business Central ERP",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Untitled-design-48-1-300x120.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=103027",
-          "author": "CAL Business Solutions, Inc.",
-          "description": "When it comes to choosing an ERP solution for your small or medium-sized business, it's crucial to make an informed decision. To stay ahead in today’s competitive business environment, you […]\nThe post Dynamics Business Central vs Acumatica - Which is the Best ERP Fit for Your SMB Business? appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nGet More in the Cloud with Dynamics 365 Business Central\nTaking Microsoft Dynamics GP to the Cloud",
-          "link": "https://erpsoftwareblog.com/2024/03/dynamics-business-central-vs-acumatica-which-is-the-best-erp-fit-for-your-smb-business/",
-          "publishedOn": "2024-03-15T17:04:09.000Z",
-          "wordCount": 5588,
-          "title": "Dynamics Business Central vs Acumatica - Which is the Best ERP Fit for Your SMB Business?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Acumatica-vs.-Dynamics-Business-Central-Which-is-the-Best-ERP-Fit-for-Your-SMB-Business.png"
         }
       ]
     },
@@ -38452,16 +38442,6 @@
           "wordCount": 1730,
           "title": "Document Management in Dynamics GP",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=61723",
-          "author": "The Encore Team",
-          "description": "Answers to Your FAQs | Moving Your On Premise ERP to the Cloud (Video)\nDo you have questions about moving from Dynamics GP, NAV, or AX on-premise to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations? In this recorded webinar, join Tracey Santos, our Account Management Practice Lead, and Patti Schreiber, our Dynamics GP Practice Lead, as they answer the most common questions...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/answers-to-your-faqs-moving-your-on-premise-erp-to-the-cloud/",
-          "publishedOn": "2024-03-15T15:07:13.000Z",
-          "wordCount": 6146,
-          "title": "Answers to Your FAQs | Moving Your On Premise ERP to the Cloud (Video)",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2024/03/Answers-FAQ-On-premise-to-Cloud.jpg"
         }
       ]
     },
@@ -38471,6 +38451,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/start-vibe-coding-for-free",
+          "author": "Ana Inés Urrutia",
+          "description": "If you’ve been curious about new ways to code that feel a bit more natural (and a lot less painful), you’re definitely not alone. Lately, something called vibe coding  has been popping up everywhere, and honestly… it’s kind of fun. Instead of staring at a blank screen trying to remember syntax, you work with AI, […]",
+          "link": "https://365community.online/start-vibe-coding-for-free",
+          "publishedOn": "2026-03-15T20:53:00.000Z",
+          "wordCount": 2120,
+          "title": "Start Vibe Coding for Free",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/Start-Vibe-Coding-for-Free.gif?fit=1920%2C1080&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-use-answering-machine-detection-and-proactive-engagement-tools-in-copilot-studio",
+          "author": "Malla Reddy Gurram",
+          "description": "Hello Everyone, Today I am going to share my thoughts on how answering machine detection and proactive engagement tools work. Let’s get started. In Microsoft Copilot Studio, you can leverage Answering Machine Detection (AMD) and Proactive Engagement tools to automate outbound voice workloads and improve customer interaction efficiency. These features are primarily used within Dynamics […]",
+          "link": "https://365community.online/how-to-use-answering-machine-detection-and-proactive-engagement-tools-in-copilot-studio",
+          "publishedOn": "2026-03-15T19:22:00.000Z",
+          "wordCount": 2407,
+          "title": "{How to} Use answering machine detection and proactive engagement tools in Copilot Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/How20to20enable20optimizing20ranking20in20Dynamics2036520Sales20for20insight20cards2041.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/alerts-via-power-automate-in-d365-finance-and-operations",
+          "author": "Ana Inés Urrutia",
+          "description": "Ever missed an important business event in Dynamics 365 Finance and Operations because you weren’t notified in time? I’ve been there, and it’s frustrating. Luckily, there’s a way to stay on top of things by sending emails automatically when key events happen. With Power Automate you can set up alerts that keep you informed without […]",
+          "link": "https://365community.online/alerts-via-power-automate-in-d365-finance-and-operations",
+          "publishedOn": "2026-03-15T18:17:00.000Z",
+          "wordCount": 2137,
+          "title": "Alerts via Power Automate in D365  Finance and Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/Alerts-via-Power-Automate-in-D365-Finance-and-Operations.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/beste-troubleshooting-tips-tricks-zur-obsbot-tiny-3",
+          "author": "Ragnar Heil",
+          "description": "Die OBSBOT Tiny 3 (solectric Shop) ist eine ganz hervorragende und führende 4K‑PTZ‑Webcam mit KI‑Tracking, Spatial Audio und Sleep Mode 2.0 – perfekt für Streaming und Videocalls, aber in der Praxis tauchen kleinere Probleme auf. Dieser Beitrag zeigt konkrete Fixes für Virtual‑Camera‑Bugs, Auto‑Sleep, Audio‑Themen und weitere Stolpersteine, basierend auf der offiziellen OBSBOT‑Doku und echten Tiny‑3‑User‑Reports. […]",
+          "link": "https://365community.online/beste-troubleshooting-tips-tricks-zur-obsbot-tiny-3",
+          "publishedOn": "2026-03-15T14:45:00.000Z",
+          "wordCount": 2711,
+          "title": "Beste Troubleshooting Tips & Tricks zur OBSBOT Tiny 3",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/the-truth-about-m365-vs-private-cloud-deployments-youtube",
+          "author": "shabaz darr",
+          "description": "Join my Learning Community for Microsoft Exam & Career Coaching offers! 12 months program with 4 exam passes guaranteed https://iamitgeek.kit.com/ebc93a81e4 Discover the truth about Microsoft 365 versus private cloud deployments in this informative video. We delve into the Microsoft ecosystem, exploring the benefits and drawbacks of each option, including the role of Azure cloud, OneDrive, […]",
+          "link": "https://365community.online/the-truth-about-m365-vs-private-cloud-deployments-youtube",
+          "publishedOn": "2026-03-15T13:30:24.000Z",
+          "wordCount": 2297,
+          "title": "The Truth About M365 vs Private Cloud Deployments – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1773586038_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/real-azure-vm-setup-no-theory-just-implementation-youtube",
+          "author": "shabaz darr",
+          "description": "Made with Restream. Livestream on 30+ platforms at once via https://restream.io Demo of implementing Azure Virtual Machines source",
+          "link": "https://365community.online/real-azure-vm-setup-no-theory-just-implementation-youtube",
+          "publishedOn": "2026-03-15T12:31:11.000Z",
+          "wordCount": 2097,
+          "title": "Real Azure VM Setup – No Theory, Just Implementation – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1773598807_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/de-como-va-la-cartera-a-informe-financiero-en-15-min-claude-mcp-business-central-youtube",
           "author": "jarmesto",
           "description": "De “¿cómo va la cartera?” a informe financiero en 15 min | Claude + MCP + Business Central",
@@ -38479,6 +38519,16 @@
           "wordCount": 2134,
           "title": "De “¿cómo va la cartera?” a informe financiero en 15 min | Claude + MCP + Business Central – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1773517734_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-or-aws-what-is-the-best-career-path-azure-aws-youtube",
+          "author": "shabaz darr",
+          "description": "Make sure to #subscribe for daily #microsoft #cloud and #tech content! Join my community for free learning content and to be eligible for my Exam Coaching Program! https://iamitgeek.kit.com/ebc93a81e4 See why I think that Azure is the best career path! source",
+          "link": "https://365community.online/azure-or-aws-what-is-the-best-career-path-azure-aws-youtube",
+          "publishedOn": "2026-03-14T01:45:05.000Z",
+          "wordCount": 2125,
+          "title": "Azure or AWS? What Is The Best Career Path? #azure #aws – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1773610512_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
         {
           "id": "https://365community.online/why-accountability-is-the-only-true-security-patch",
@@ -77999,26 +78049,6 @@
           "wordCount": 3240,
           "title": "Copilot for F&O is here in Preview",
           "imageUrl": "https://365community.online/wp-content/uploads/2024/03/Copilot-for-FampO-is-here-in-Preview.png"
-        },
-        {
-          "id": "https://365community.online/live-from-redmond-wa-youtube",
-          "author": "Victor Dantas",
-          "description": "We are live from Microsoft Headquarters to remind you that CPPS 24 takes place tomorrow and Zero To Hero is going live next week. source",
-          "link": "https://365community.online/live-from-redmond-wa-youtube",
-          "publishedOn": "2024-03-15T18:06:29.000Z",
-          "wordCount": 3120,
-          "title": "Live from Redmond, WA – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710590798_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/devops-training-devops-engineer-training-course-online-devops-tutorial-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "DevOps Training | DevOps Engineer Training Course Online | DevOps Tutorial | MindMajix This MindMajix’s YouTube video on DevOps training will help you master and build your DevOps skills with […]",
-          "link": "https://365community.online/devops-training-devops-engineer-training-course-online-devops-tutorial-mindmajix-youtube",
-          "publishedOn": "2024-03-15T15:30:07.000Z",
-          "wordCount": 3456,
-          "title": "DevOps Training | DevOps Engineer Training Course Online | DevOps Tutorial | MindMajix – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710524277_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -84201,16 +84231,6 @@
           "wordCount": 2910,
           "title": "Announcing End of Life for Dynamics 365 Project Service Automation",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/CLO22_RemoteHome_060-1024x683.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/15/discover-the-advantages-of-the-universal-tax-rate-api-for-simplified-tax-calculations-in-microsoft-dynamics-365-finance-and-supply-chain-management-applications/",
-          "author": "Kai Liang and Sergey Shvedov",
-          "description": "The tax calculation functionality of Dynamics 365 offers highly flexible and powerful tax determination and calculation capabilities right out of the box.\nThe post Discover the Advantages of the Universal Tax Rate API for Simplified Tax Calculations in Microsoft Dynamics 365 Finance and Supply Chain Management applications  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/15/discover-the-advantages-of-the-universal-tax-rate-api-for-simplified-tax-calculations-in-microsoft-dynamics-365-finance-and-supply-chain-management-applications/",
-          "publishedOn": "2024-03-15T15:48:33.000Z",
-          "wordCount": 3335,
-          "title": "Discover the Advantages of the Universal Tax Rate API for Simplified Tax Calculations in Microsoft Dynamics 365 Finance and Supply Chain Management applications",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/CLO22_TechOffice_058-1024x683.jpg"
         }
       ]
     },
@@ -84875,16 +84895,6 @@
           "wordCount": 3227,
           "title": "Introduction to Copilot for Finance: DCAI001",
           "imageUrl": "http://img.youtube.com/vi/GILncnsn4Nk/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2830",
-          "author": "Saurabh Bharti",
-          "description": "Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]",
-          "link": "https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/",
-          "publishedOn": "2024-03-16T11:39:33.000Z",
-          "wordCount": 3146,
-          "title": "Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8",
-          "imageUrl": "http://img.youtube.com/vi/jzUPT3E6xxk/0.jpg"
         }
       ]
     },
@@ -85372,16 +85382,6 @@
           "wordCount": 3227,
           "title": "Introduction to Copilot for Finance: DCAI001",
           "imageUrl": "http://img.youtube.com/vi/GILncnsn4Nk/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2830",
-          "author": "Saurabh Bharti",
-          "description": "Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]",
-          "link": "https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/",
-          "publishedOn": "2024-03-16T11:39:33.000Z",
-          "wordCount": 3146,
-          "title": "Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8",
-          "imageUrl": "http://img.youtube.com/vi/jzUPT3E6xxk/0.jpg"
         }
       ]
     },
@@ -86489,6 +86489,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=16852",
+          "author": "Parag Chapre",
+          "description": "In many enterprise environments, Dynamics 365 Finance and Operations (F&O) serves as the core transactional system, but it’s rarely the only one. Large organizations often operate across multiple legal entities, and integrating or reporting on massive datasets becomes a recurring challenge. When working in environments with 150+ legal entities and millions of daily transactions, getting…",
+          "link": "https://paragchapre.com/dynamics-365-fo-byod-high-volume-export-optimization/",
+          "publishedOn": "2026-03-15T16:07:27.000Z",
+          "wordCount": 4780,
+          "title": "Exporting High-Volume Data from Dynamics 365 Finance and Operations to On-Premises SQL Server",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2026/02/Exporting-High-Volume-Data-from-Dynamics-365.png"
+        },
         {
           "id": "https://paragchapre.com/?p=16879",
           "author": "Parag Chapre",
