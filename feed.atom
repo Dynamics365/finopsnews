@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-03-21T02:21:43.146Z</updated>
+    <updated>2026-03-22T02:35:17.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Planning for Directions North America 2026 Key Updates for Microsoft Dynamics Partners]]></title>
+        <id>https://erpsoftwareblog.com/?p=144886</id>
+        <link href="https://erpsoftwareblog.com/2026/03/planning-for-directions-north-america-2026-key-updates-for-microsoft-dynamics-partners/"/>
+        <updated>2026-03-21T21:25:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you’ve attended Directions North America before, you know it’s one of those events where the value comes as much from the conversations as it does from the sessions. And […]
+The post Planning for Directions North America 2026 Key Updates for Microsoft Dynamics Partners appeared first on ERP Software Blog.
+Microsoft Convergence 2011 is On!
+Microsoft Dynamics Bringing Together Around 10,000 Users Annually
+Dynamics GP 2010 and Convergence 2011]]></summary>
+        <author>
+            <name>Anya Ciecierski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Satisfying Downfall of Manual Admin]]></title>
+        <id>https://365community.online/the-satisfying-downfall-of-manual-admin</id>
+        <link href="https://365community.online/the-satisfying-downfall-of-manual-admin"/>
+        <updated>2026-03-21T17:27:37.000Z</updated>
+        <summary type="html"><![CDATA[You didn’t fail as an admin.The system failed because it needed you. After years of manual governance—access reviews, approvals, lifecycle policies—this episode exposes the uncomfortable truth: human-driven administration was never scalable in a system operating at machine speed. This is the story of why manual administration collapsed—and what replaced it:deterministic, agent-driven governance where intent—not approval—drives […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Default Environment for Copilot Studio – YouTube]]></title>
+        <id>https://365community.online/how-to-secure-default-environment-for-copilot-studio-youtube</id>
+        <link href="https://365community.online/how-to-secure-default-environment-for-copilot-studio-youtube"/>
+        <updated>2026-03-21T12:15:01.000Z</updated>
+        <summary type="html"><![CDATA[How to Secure Default Environment for Copilot Studio]]></summary>
+        <author>
+            <name>Rafsan Huseynov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eliminate Warehouse Chaos in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=144713</id>
@@ -77,6 +112,16 @@ Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azure VNet Peering Explained in 30 Seconds (Avoid This Common Mistake!) – YouTube]]></title>
+        <id>https://365community.online/azure-vnet-peering-explained-in-30-seconds-avoid-this-common-mistake-youtube</id>
+        <link href="https://365community.online/azure-vnet-peering-explained-in-30-seconds-avoid-this-common-mistake-youtube"/>
+        <updated>2026-03-20T13:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Most engineers still get Azure VNet peering wrong — especially when it comes to routing between multiple VNets. If your traffic mysteriously stops after one hop, this short explains exactly why and how to fix it with a simple change. In this video, I break down:✅ Why VNet peering isn’t transitive✅ The hidden routing rule […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your AI agent can now create, edit, and manage content on WordPress.com]]></title>
         <id>https://365community.online/your-ai-agent-can-now-create-edit-and-manage-content-on-wordpress-com</id>
         <link href="https://365community.online/your-ai-agent-can-now-create-edit-and-manage-content-on-wordpress-com"/>
@@ -94,6 +139,16 @@ Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equ
         <summary type="html"><![CDATA[Preamble I’ve been working lately on an integration with a 3rd party service where the UI needs to be displayed in a web page. Two main options I think: build the web controls into a control add-in and host everything inside the BC app host the web app somewhere else (Azure Static Web Apps) and […]]]></summary>
         <author>
             <name>James Pearson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build & Deploy AI Systems on Azure & AWS! #softwarearchitect #aiml – YouTube]]></title>
+        <id>https://365community.online/build-deploy-ai-systems-on-azure-aws-softwarearchitect-aiml-youtube</id>
+        <link href="https://365community.online/build-deploy-ai-systems-on-azure-aws-softwarearchitect-aiml-youtube"/>
+        <updated>2026-03-20T12:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Build & Deploy AI Systems on Azure & AWS! #softwarearchitect #aiml Are you a Software Developer, Cloud Developer, AI Engineer, or Tech Lead looking to upgrade your career? Join us on 20th March, 2026 at 8:30 PM IST for a FREE 2-hour live session on becoming a Multi-Cloud AI Architect. Hosted by Microsoft MVP Shailendra […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -508,17 +563,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=201384</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/"/>
-        <updated>2026-03-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to publish the 2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based agents in Microsoft 365 Copilot.
-The post 2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Ryan Martin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Started with AI Agents in Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=73005</id>
         <link href="https://www.encorebusiness.com/blog/ai-agents-in-dynamics-365-business-central/"/>
@@ -729,17 +773,6 @@ Dynamics 365 Business Central and Industry-Tailored Functionality
 Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
         <author>
             <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Support Parallel Processing for Archive Jobs in Dynamics 365 Finance and Operations]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/16/parallel-processing-archive-jobs/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/16/parallel-processing-archive-jobs/"/>
-        <updated>2026-03-16T19:09:35.000Z</updated>
-        <summary type="html"><![CDATA[We’re pleased to introduce a new capability for Dynamics 365 Finance and Operations archive with Dataverse long-term retention: parallel processing for archive jobs. This enhancement allows the Archive job scheduler to run multiple archive jobs at the same time, dramatically reducing the time required to archive high volumes of transaction data across legal entities.
-The post Support Parallel Processing for Archive Jobs in Dynamics 365 Finance and Operations appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Roger Sa</name>
         </author>
     </entry>
     <entry>
@@ -109639,236 +109672,6 @@ Five Tools Microsoft Dynamics 365 BC/NAV Users Need to See in the October Financ
 Demos of 5 Top Financial Tools for Dynamics 365 Business Central/NAV in the MSDW March Showcase]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes in Charts, Vendors, Customers & Items in Dynamics GP (Video)]]></title>
-        <id>https://www.encorebusiness.com/?p=61755</id>
-        <link href="https://www.encorebusiness.com/blog/changes-in-charts-vendors-customers-items-in-dynamics-gp/"/>
-        <updated>2024-03-22T13:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Changes in Charts, Vendors, Customers & Items in Dynamics GP (Video)
-Did you know that Dynamics GP offers the ability to change and merge accounts, items, vendors, and customers to clean up your data for more efficient use? We will show how this is done as well as tips on large scale changes. ﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Don McNulty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central Now Supports GS1-128 Barcodes via an Insight Works App]]></title>
-        <id>https://erpsoftwareblog.com/?p=105163</id>
-        <link href="https://erpsoftwareblog.com/2024/03/dynamics-365-business-central-now-supports-gs1-128-barcodes-via-an-insight-works-app/"/>
-        <updated>2024-03-22T11:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Insight Works' Barcode Generator PowerTool app now supports GS1-128 barcodes, boosting Dynamics 365 Business Central's supply chain and compliance capabilities.
-The post Dynamics 365 Business Central Now Supports GS1-128 Barcodes via an Insight Works App appeared first on ERP Software Blog.
-Warehouse Insight Now Available for Dynamics 365 Business Central
-Quote Generation with Product Configurator for Business Central
-Free Business Central Apps to Fill the Gaps]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central 2024 release wave1 Launch Event – April 4-10]]></title>
-        <id>https://365community.online/business-central-2024-release-wave1-launch-event-april-4-10</id>
-        <link href="https://365community.online/business-central-2024-release-wave1-launch-event-april-4-10"/>
-        <updated>2024-03-22T10:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Business Central 2024 release wave1 Launch Event – April 4-10   What to expect Dynamics 365 Business Central 2024 release wave 1 will go live on April 2 Enjoy game-changing […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turbocharge Sales Efficiency with maps integrated within Dynamics 365]]></title>
-        <id>https://365community.online/turbocharge-sales-efficiency-with-maps-integrated-within-dynamics-365</id>
-        <link href="https://365community.online/turbocharge-sales-efficiency-with-maps-integrated-within-dynamics-365"/>
-        <updated>2024-03-22T10:17:06.000Z</updated>
-        <summary type="html"><![CDATA[The post Turbocharge Sales Efficiency with maps integrated within Dynamics 365 appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced way of Handling Attachments of Emails]]></title>
-        <id>https://365community.online/enhanced-way-of-handling-attachments-of-emails</id>
-        <link href="https://365community.online/enhanced-way-of-handling-attachments-of-emails"/>
-        <updated>2024-03-22T09:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Microsoft has introduced a noteworthy addition to the Wave 2 release, enhancing the attachment experience within emails. This feature empowers agents, allowing them to work with attachments more efficiently, […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 32 – Topic 14: Part 1 – YouTube]]></title>
-        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-32-topic-14-part-1-youtube</id>
-        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-32-topic-14-part-1-youtube"/>
-        <updated>2024-03-22T09:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages and AI (Copilots) – Lesson 2 – YouTube]]></title>
-        <id>https://365community.online/power-pages-and-ai-copilots-lesson-2-youtube</id>
-        <link href="https://365community.online/power-pages-and-ai-copilots-lesson-2-youtube"/>
-        <updated>2024-03-22T04:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Power Pages & Copilots Zero To Hero introduction to the “ProPilot” concept. source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionizing Course Management: Harnessing OpenAI and X++ in Dynamics 365 Human Resources]]></title>
-        <id>https://paragchapre.com/?p=12817</id>
-        <link href="https://paragchapre.com/course-management-dynamics-365-hr/"/>
-        <updated>2024-03-22T03:19:02.000Z</updated>
-        <summary type="html"><![CDATA[Explore the revolutionary approach to course management with Dynamics 365 Human Resources, leveraging the power of OpenAI and X++ programming. Discover how this innovative integration enhances learning experiences, streamlines administration, and empowers organizations to optimize their training initiatives.
-The post Revolutionizing Course Management: Harnessing OpenAI and X++ in Dynamics 365 Human Resources appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArunPotti.com’s 10th Year Anniversary!!!]]></title>
-        <id>https://365community.online/arunpotti-coms-10th-year-anniversary</id>
-        <link href="https://365community.online/arunpotti-coms-10th-year-anniversary"/>
-        <updated>2024-03-21T23:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Dear Readers, Followers, and Dynamics CRM Enthusiasts, I am delighted and honored to announce the momentous occasion of the 10th anniversary of ArunPotti.com. It’s with immense joy and gratitude that […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Techniques for Seamless Integration of SAP HANA and Microsoft Power Platform]]></title>
-        <id>https://erpsoftwareblog.com/?p=105191</id>
-        <link href="https://erpsoftwareblog.com/2024/03/key-techniques-for-seamless-integration-of-sap-hana-and-microsoft-power-platform/"/>
-        <updated>2024-03-21T21:24:41.000Z</updated>
-        <summary type="html"><![CDATA[All businesses continuously pursue streamlined operations and heightened efficiency. One potent synergy that has surfaced is the fusion of SAP HANA and Microsoft Power Platform. This fusion enables businesses to […]
-The post Key Techniques for Seamless Integration of SAP HANA and Microsoft Power Platform appeared first on ERP Software Blog.
-17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP
-Nobody Wants to Experience an ACA Audit
-Do All Manufacturers Need the Extended Pack in Dynamics GP?]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empower Integration: Delve into SAP Connectivity via Power Platform Connectors]]></title>
-        <id>https://erpsoftwareblog.com/?p=105189</id>
-        <link href="https://erpsoftwareblog.com/2024/03/empower-integration-delve-into-sap-connectivity-via-power-platform-connectors/"/>
-        <updated>2024-03-21T21:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Efficiency and automation are key in modern businesses. Microsoft's Power Platform is a standout tool, especially in SAP Integration. This article delves into how Power Platform connectors for SAP are […]
-The post Empower Integration: Delve into SAP Connectivity via Power Platform Connectors appeared first on ERP Software Blog.
-17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP
-How Will a New Financial System Impact Your Operations and Resources? – Evaluating a New ERP System Checklist Item #1
-Nobody Wants to Experience an ACA Audit]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving Smart Results by Integrating SAP with Microsoft Power Platform]]></title>
-        <id>https://erpsoftwareblog.com/?p=105183</id>
-        <link href="https://erpsoftwareblog.com/2024/03/driving-smart-results-by-integrating-sap-with-microsoft-power-platform/"/>
-        <updated>2024-03-21T21:17:53.000Z</updated>
-        <summary type="html"><![CDATA[We are observing the convergence of potent technologies fostering collaboration and connectivity within enterprises. Consider the synergy between SAP and Microsoft Power Platform. SAP users now have the seamless ability […]
-The post Driving Smart Results by Integrating SAP with Microsoft Power Platform appeared first on ERP Software Blog.
-US IFRS Reform Pushed Back to Mid 2013
-Gain Greater Control over your Business with Microsoft Dynamics NAV
-Microsoft Business Applications: April '19 Release Virtual Launch Event]]></summary>
-        <author>
-            <name>Korcomptenz Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Reasons USTPay is the Preferred Payment Solution]]></title>
-        <id>https://erpsoftwareblog.com/?p=105177</id>
-        <link href="https://erpsoftwareblog.com/2024/03/7-reasons-ustpay-is-the-preferred-payment-solution/"/>
-        <updated>2024-03-21T21:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Navigating the realm of payment processing presents a myriad of options and considerations, which can overwhelm any business owner striving for efficiency. Meet Hannah, the dedicated owner of Hannah’s Happy […]
-The post 7 Reasons USTPay is the Preferred Payment Solution appeared first on ERP Software Blog.
-Start Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central
-Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
-Microsoft Dynamics ERP for Distribution/Manufacturing Industry]]></summary>
-        <author>
-            <name>USTPay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickBooks to Microsoft Dynamics 365 BC Migration - A Case Study]]></title>
-        <id>https://erpsoftwareblog.com/?p=104905</id>
-        <link href="https://erpsoftwareblog.com/2024/03/quickbooks-to-microsoft-dynamics-365-bc-migration-a-case-study/"/>
-        <updated>2024-03-21T20:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Read how a successful commercial pool supplies and equipment company met its challenges with Microsoft Dynamics 365 Business Central and Western Computer. Streamline Aquatics is a provider of high-quality commercial […]
-The post QuickBooks to Microsoft Dynamics 365 BC Migration - A Case Study appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
-Five Tips for Efficient ERP System Maintenance
-An Active Partner Relationship: Increase ROI and Long-Term ERP Success - free eBook]]></summary>
-        <author>
-            <name>Western Computer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central Enhanced: Unlocking Efficiency with GS1-128 Barcode Integration]]></title>
-        <id>https://erpsoftwareblog.com/?p=105152</id>
-        <link href="https://erpsoftwareblog.com/2024/03/business-central-enhanced-unlocking-efficiency-with-gs1-128-barcode-integration/"/>
-        <updated>2024-03-21T18:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Discover how GS1-128 Barcode integration with Insight Works' Barcode Generator enhances Dynamics 365 BC for streamlined operations and compliance.
-The post Business Central Enhanced: Unlocking Efficiency with GS1-128 Barcode Integration appeared first on ERP Software Blog.
-Everything is Taxable until Proven Otherwise
-“It’s an App-world after all”
-Your ZIP code might be creating audit risk. Here’s why..]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering Collaboration: Vendor Portal Solutions for Dynamics 365 Finance and Operations]]></title>
-        <id>https://erpsoftwareblog.com/?p=105265</id>
-        <link href="https://erpsoftwareblog.com/2024/03/vendor-portal-solutions-for-dynamics-365-finance-and-operations/"/>
-        <updated>2024-03-21T17:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Tired of chasing down invoices and fielding endless vendor questions? Managing communication, streamlining processes, and ensuring transparency with your vendors can feel like a constant uphill battle. This is where […]
-The post Empowering Collaboration: Vendor Portal Solutions for Dynamics 365 Finance and Operations appeared first on ERP Software Blog.
-Connecting Your eMarketplace with Dynamics 365 Business Central
-Top 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)
-Microsoft Dynamics GP Home Page – Your One Stop Shop for Everything!]]></summary>
-        <author>
-            <name>Dynamics eShop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to optimize fetching the same value again and again]]></title>
-        <id>https://365community.online/how-to-optimize-fetching-the-same-value-again-and-again</id>
-        <link href="https://365community.online/how-to-optimize-fetching-the-same-value-again-and-again"/>
-        <updated>2024-03-21T16:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Do you fetch the same record multiple times in an app? Do you really need to? Is there a better way to do it? Learn how! The post How to […]]]></summary>
-        <author>
-            <name>harditbhatia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to increase performance by trashing extra screens and controls]]></title>
-        <id>https://365community.online/how-to-increase-performance-by-trashing-extra-screens-and-controls</id>
-        <link href="https://365community.online/how-to-increase-performance-by-trashing-extra-screens-and-controls"/>
-        <updated>2024-03-21T15:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Screens and controls are the building blocks of an app. As their count increases, performance suffers. Learn how to minimize them! The post How to increase performance by trashing extra […]]]></summary>
-        <author>
-            <name>harditbhatia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Demand Webinar: Unlocking Data Magic with Power BI]]></title>
-        <id>https://erpsoftwareblog.com/?p=105132</id>
-        <link href="https://erpsoftwareblog.com/2024/03/on-demand-webinar-unlocking-data-magic-with-power-bi/"/>
-        <updated>2024-03-21T15:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Did you miss the recent Power BI webinar? No worries... We know everyone gets busy and things come up, so we've recorded the 20-minute webinar so you can still catch […]
-The post On-Demand Webinar: Unlocking Data Magic with Power BI appeared first on ERP Software Blog.
-Business Development and Construction Management Systems Work Better Together
-Field Service vs. DynaRent Mobile: Mobile Apps on Dynamics 365 for Rental Operations
-To-Increase Launches a Plug-And-Play Analytics Solution for Rental Businesses]]></summary>
-        <author>
-            <name>TrinSoft, LLC</name>
         </author>
     </entry>
     <entry>
