@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-03-22T02:35:17.756Z</updated>
+    <updated>2026-03-23T02:36:01.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[73% of M365 Deployments Make This Governance Mistake!]]></title>
+        <id>https://365community.online/73-of-m365-deployments-make-this-governance-mistake</id>
+        <link href="https://365community.online/73-of-m365-deployments-make-this-governance-mistake"/>
+        <updated>2026-03-22T15:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations think governance is something you add later.That assumption is exactly why 73% of Microsoft 365 deployments fail at scale. In this episode, Mirko Peters breaks down the real reason Copilot rollouts stall, why governance isn’t a layer but an authorization engine, and how organizations unknowingly design entropy into their tenant from day one. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Network Bottlenecks | Here’s the Real Problem – YouTube]]></title>
+        <id>https://365community.online/azure-network-bottlenecks-heres-the-real-problem-youtube</id>
+        <link href="https://365community.online/azure-network-bottlenecks-heres-the-real-problem-youtube"/>
+        <updated>2026-03-22T13:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Subscribe to my Channel and Join my free learning community: https://iamitgeek.kit.com/ebc93a81e4 Follow My Socials: https://linktr.ee/Iamitgeek In this video, we’ll be discussing Azure network bottlenecks and the real problems that come with them. If you’re working with Azure cloud and virtual networks, you know how important it is to have a solid understanding of Azure networking […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Microsoft Defender For Cloud – YouTube]]></title>
+        <id>https://365community.online/getting-started-with-microsoft-defender-for-cloud-youtube</id>
+        <link href="https://365community.online/getting-started-with-microsoft-defender-for-cloud-youtube"/>
+        <updated>2026-03-22T08:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Made with Restream. Livestream on 30+ platforms at once via https://restream.io Demo of implementing Microsoft Defender for Cloud source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Planning for Directions North America 2026 Key Updates for Microsoft Dynamics Partners]]></title>
         <id>https://erpsoftwareblog.com/?p=144886</id>
@@ -773,6 +803,17 @@ Dynamics 365 Business Central and Industry-Tailored Functionality
 Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Support Parallel Processing for Archive Jobs in Dynamics 365 Finance and Operations]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=201407</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/16/parallel-processing-archive-jobs/"/>
+        <updated>2026-03-16T19:09:35.000Z</updated>
+        <summary type="html"><![CDATA[We’re pleased to introduce a new capability for Dynamics 365 Finance and Operations archive with Dataverse long-term retention: parallel processing for archive jobs. This enhancement allows the Archive job scheduler to run multiple archive jobs at the same time, dramatically reducing the time required to archive high volumes of transaction data across legal entities.
+The post Support Parallel Processing for Archive Jobs in Dynamics 365 Finance and Operations appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Roger Sa</name>
         </author>
     </entry>
     <entry>
@@ -109556,122 +109597,6 @@ Mitigate Unplanned Downtime with Advanced Scheduling Solutions for Job Shops]]><
 Read more ›]]></summary>
         <author>
             <name>tomaztsql</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Take Control of Alerts & Notifications in Your Dynamics 365 CRM with Alerts4Dynamics!]]></title>
-        <id>https://365community.online/webinar-take-control-of-alerts-notifications-in-your-dynamics-365-crm-with-alerts4dynamics</id>
-        <link href="https://365community.online/webinar-take-control-of-alerts-notifications-in-your-dynamics-365-crm-with-alerts4dynamics"/>
-        <updated>2024-03-23T11:41:04.000Z</updated>
-        <summary type="html"><![CDATA[You’re in the midst of a busy day, juggling multiple tasks in Dynamics 365 CRM. A new lead comes but it gets buried in all the emails. Or you missed […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collection Management in x2x Dynamics GP-Shopify Integration]]></title>
-        <id>https://erpsoftwareblog.com/?p=105210</id>
-        <link href="https://erpsoftwareblog.com/2024/03/collection-management-in-x2x-dynamics-gp-shopify-integration/"/>
-        <updated>2024-03-22T23:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Collection Management in x2x Dynamics GP-Shopify Integration streamlines inventory and sales processes, ensuring consistency across platforms. Collections are an integral part of eCommerce stores for smooth navigation and better user […]
-The post Collection Management in x2x Dynamics GP-Shopify Integration appeared first on ERP Software Blog.
-Configure Shipping Methods & Rates in Shopify & Synchronize them to Dynamics GP through Integration
-Setting up the Integration Solution: Dynamics GP & Shopify
-Managing Product Information in GP and Shopify Integration]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Prompts with AI Builder]]></title>
-        <id>https://365community.online/ai-prompts-with-ai-builder</id>
-        <link href="https://365community.online/ai-prompts-with-ai-builder"/>
-        <updated>2024-03-22T21:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday I was hosting a webinar with Microsoft team about AI and HR. While demoing a great model-driven app one of my colleagues created (Denisa ), I made a beginner’s […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Fixed-Price Dynamics NAV to Dynamics 365 Business Central Upgrade Quote]]></title>
-        <id>https://erpsoftwareblog.com/?p=105211</id>
-        <link href="https://erpsoftwareblog.com/2024/03/get-fixed-price-dynamics-nav-to-dynamics-365-business-central-upgrade-quote/"/>
-        <updated>2024-03-22T17:49:42.000Z</updated>
-        <summary type="html"><![CDATA[If your organization is running Microsoft Dynamics NAV, you likely know that Microsoft has retired the platform. There will no longer be update releases or new functionality for NAV in […]
-The post How to Get a Fixed-Price Dynamics NAV to Dynamics 365 Business Central Upgrade Quote appeared first on ERP Software Blog.
-Four Reasons to Upgrade Your Dynamics ERP Solution
-Selecting the Right ERP: Cloud or On-premises?
-10 Phases Included in a Dynamics GP Implementation Project Plan]]></summary>
-        <author>
-            <name>NAVtoBC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Server: how-to check info about Indexes, Locks & Deadlocks]]></title>
-        <id>https://365community.online/sql-server-how-to-check-info-about-indexes-locks-deadlocks</id>
-        <link href="https://365community.online/sql-server-how-to-check-info-about-indexes-locks-deadlocks"/>
-        <updated>2024-03-22T16:25:36.000Z</updated>
-        <summary type="html"><![CDATA[SQL Server: how-to check info about Indexes, Locks & Deadlocks In this short post, I attach some examples on how to recover some information relating to SQL Server indexes, locks […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hej från Jonas – YouTube]]></title>
-        <id>https://365community.online/hej-fran-jonas-youtube</id>
-        <link href="https://365community.online/hej-fran-jonas-youtube"/>
-        <updated>2024-03-22T16:20:07.000Z</updated>
-        <summary type="html"><![CDATA[En inbjudan till Scottish Summit från Jonas source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will McLendon Wants to Chat – YouTube]]></title>
-        <id>https://365community.online/will-mclendon-wants-to-chat-youtube</id>
-        <link href="https://365community.online/will-mclendon-wants-to-chat-youtube"/>
-        <updated>2024-03-22T16:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Who will you see at Scottish Summit 2024? source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En besked fra Vivian – YouTube]]></title>
-        <id>https://365community.online/en-besked-fra-vivian-youtube</id>
-        <link href="https://365community.online/en-besked-fra-vivian-youtube"/>
-        <updated>2024-03-22T16:11:55.000Z</updated>
-        <summary type="html"><![CDATA[En invitation til Scottish Summit fra Vivian source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happened to My Bill(.com) Integration for Dynamics GP (Great Plains)]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=100277</id>
-        <link href="https://erpsoftwareblog.com/2024/03/bill-com-to-end-sync-support-for-dynamics-gp-dec-2023/"/>
-        <updated>2024-03-22T15:35:28.000Z</updated>
-        <summary type="html"><![CDATA[Beginning December 1, 2023, Bill.com has ended support for direct sync with Microsoft Dynamics GP (Great Plains).The company says it made the decision based on Microsoft’s current Dynamics GP roadmap. […]
-The post What Happened to My Bill(.com) Integration for Dynamics GP (Great Plains) appeared first on ERP Software Blog.
-ACH Payments in GP & Bringing Great Plains into the Future
-The Struggle to Hire an Accounts Payable Clerk
-How to Create a Great Plains Accounts Payable Aging Report and Why]]></summary>
-        <author>
-            <name>Fidesic AP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Look at How Sessions Were Selected for Directions NA 2024 Plus Full Session List]]></title>
-        <id>https://erpsoftwareblog.com/?p=105202</id>
-        <link href="https://erpsoftwareblog.com/2024/03/inside-look-at-how-sessions-were-selected-for-directions-na-2024-plus-full-session-list/"/>
-        <updated>2024-03-22T15:23:50.000Z</updated>
-        <summary type="html"><![CDATA[Directions NA had an astonishing 425 session submissions this year. The good news is that this is an amazing testimony to the wealth of knowledge within our Microsoft Dynamics channel […]
-The post Inside Look at How Sessions Were Selected for Directions NA 2024 Plus Full Session List appeared first on ERP Software Blog.
-Get More in the Cloud with Dynamics 365 Business Central
-Five Tools Microsoft Dynamics 365 BC/NAV Users Need to See in the October Financial Tools Showcase
-Demos of 5 Top Financial Tools for Dynamics 365 Business Central/NAV in the MSDW March Showcase]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
         </author>
     </entry>
     <entry>
