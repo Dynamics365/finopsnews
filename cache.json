@@ -1301,16 +1301,6 @@
           "wordCount": 4274,
           "title": "Calculating data for visualization on stacked 100% bar",
           "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/05/image-1.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9964",
-          "author": "tomaztsql",
-          "description": "You know the feeling after long vacation and finally sitting in front of your favourite UI and even forgot how to write simplest “hello world” or “foo bar” function? Well, we got you covered! The reverse Hello world function is…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2024/03/23/little-useless-useful-r-functions-reverse-hello-world/",
-          "publishedOn": "2024-03-23T17:26:09.000Z",
-          "wordCount": 4022,
-          "title": "Little useless-useful R functions – Reverse Hello World",
-          "imageUrl": "https://tomaztsql.files.wordpress.com/2024/03/image.png?w=342"
         }
       ]
     },
@@ -1337,6 +1327,126 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=145029",
+          "author": "Mary Miller, PayTrace",
+          "description": "xxx\n  Accounting and finance teams need comprehensive solutions that can handle both sides of the invoicing equation: accounts receivable (AR) and accounts payable (AP). And if they can find a […]\nThe post Achieving Accounts Receivable/Payable Automation in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow are AP and AR the 2 Sides of The Same Coin?\n2 Demo Days - Microsoft Dynamics GP and 365 Business Central\nD365 Business Central Health Check",
+          "link": "https://erpsoftwareblog.com/2026/03/a-comprehsive-approach-to-accounts-receivable-payable-automation/",
+          "publishedOn": "2026-03-23T23:23:14.000Z",
+          "wordCount": 6867,
+          "title": "Achieving Accounts Receivable/Payable Automation in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/PT-Fidesic@2x.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=145011",
+          "author": "ACE Micro, LLC",
+          "description": "xxx\nFor distribution leaders evaluating their ERP strategy, one fact is hard to ignore. Over 70 percent of ERP deployments today run in the cloud. This shows a significant shift in […]\nThe post The Right ERP for Distribution Companies: Dynamics 365 Business Central vs. Dynamics GP appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/dynamics-gp-vs-business-central-distributors/",
+          "publishedOn": "2026-03-23T20:37:36.000Z",
+          "wordCount": 7579,
+          "title": "The Right ERP for Distribution Companies: Dynamics 365 Business Central vs. Dynamics GP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-5-Dynamics-GP-vs-Business-Central-for-distributors-ERPSB.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=145005",
+          "author": "Domain 6 Inc.",
+          "description": "xxx\nWith the cloud ERP market nearing a projected $130 billion, modernizing legacy, on-premises systems is critical for business agility. These older platforms, while deeply embedded, increasingly constrain growth and complicate […]\nThe post Legacy ERP to Cloud: A Practical Migration Strategy appeared first on ERP Software Blog.\nAutomated Vendor Validation: Secure and Simplify AP Compliance\nBusiness Central: A Must for C-Suite Growth in 2025\n$950/year Early Access to Mekorma Payment Hub for BC Ends in April 2025",
+          "link": "https://erpsoftwareblog.com/2026/03/legacy-erp-to-cloud-a-practical-migration-strategy/",
+          "publishedOn": "2026-03-23T19:51:57.000Z",
+          "wordCount": 6802,
+          "title": "Legacy ERP to Cloud: A Practical Migration Strategy",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Gemini_Generated_Image_7wqyqz7wqyqz7wqy-625x363.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=145000",
+          "author": "USTPay",
+          "description": "xxx\nFor many organizations, ERP selection has traditionally been driven by finance, operations, or IT requirements. Today, that order is shifting. Payment strategy is becoming a primary factor in how businesses […]\nThe post Why Payment Strategy Now Shapes ERP Selection appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/why-payment-strategy-now-shapes-erp-selection/",
+          "publishedOn": "2026-03-23T19:48:20.000Z",
+          "wordCount": 7233,
+          "title": "Why Payment Strategy Now Shapes ERP Selection",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Midblog-USTPay-Blog-1-Why-Payment-Strategy-Now-Shapes-ERP-Selection-.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144977",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works released Order Fulfillment Worksheet v1.6 for Microsoft Dynamics 365 Business Central, introducing usability enhancements to custom views including default settings, improved formatting, and dynamic date placeholders to help […]\nThe post Order Fulfillment Worksheet v1.6 Update: Faster Daily Fulfillment in Business Central appeared first on ERP Software Blog.\nVendor Data in Accounts Payable: Best Management Practices\nTransform Your Business Central Operations at Community Summit North America 2025\nTransform Your Business Central Operations at Community Summit North America 2025",
+          "link": "https://erpsoftwareblog.com/2026/03/order-fulfillment-worksheet-v1-6-update-faster-daily-fulfillment-in-business-central/",
+          "publishedOn": "2026-03-23T18:10:55.000Z",
+          "wordCount": 7473,
+          "title": "Order Fulfillment Worksheet v1.6 Update: Faster Daily Fulfillment in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/OFW-1.6-cover.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144885",
+          "author": "Qixas Group",
+          "description": "xxx\nThe hospitality industry has changed dramatically over the past decade. That's why a Modern POS (Point-of-Sale) system is essential to satisfy the demands of today's travelers. Guests expect seamless, personalized […]\nThe post Why Modern POS Systems Are Essential for Today’s Hospitality Industry appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/why-modern-pos-systems-are-essential-for-todays-hospitality-industry/",
+          "publishedOn": "2026-03-23T16:00:48.000Z",
+          "wordCount": 7327,
+          "title": "Why Modern POS Systems Are Essential for Today’s Hospitality Industry",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/YouTube-Thumbnails-7.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144962",
+          "author": "Logan Consulting",
+          "description": "xxx\nRetailers don’t lack visibility. They lack consistent traceability standards. With Dynamics 365 Commerce and Microsoft’s Inventory Visibility service, organizations can see on-hand inventory across stores and distribution centers, evaluate available-to-promise […]\nThe post From Visibility to Traceability: The Next Step in Modern Retail Operations appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/from-visibility-to-traceability-the-next-step-in-modern-retail-operations/",
+          "publishedOn": "2026-03-23T15:59:44.000Z",
+          "wordCount": 7236,
+          "title": "From Visibility to Traceability: The Next Step in Modern Retail Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/e0632cea-5dd2-4187-bdf8-7bfdb9cabcd8.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144858",
+          "author": "Velixo",
+          "description": "xxx\nFinance rarely explains results directly out of Business Central. The system holds the transactions, but the reports leadership reviews require a different structure. ERP reporting limitations come into focus once […]\nThe post ERP Reporting Limitations in Business Central appeared first on ERP Software Blog.\nJoin Us At Dynamic Communities Summit - Booth 800\n3 Finance Leaders Share Top Pick for Business Central Reporting\nD365 Business Central Health Check",
+          "link": "https://erpsoftwareblog.com/2026/03/erp-reporting-limitations-business-central/",
+          "publishedOn": "2026-03-23T15:54:22.000Z",
+          "wordCount": 7824,
+          "title": "ERP Reporting Limitations in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Reporting-Limitations-Blog-Cover-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144949",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nFor many mid-sized businesses, legacy ERP systems once felt like a safe long-term investment. They managed finance, operations, inventory, and reporting well enough for years. But in 2026, “well enough” […]\nThe post Why More Mid-Sized Businesses Are Replacing Legacy ERP with Dynamics 365 in 2026 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/why-more-mid-sized-businesses-are-replacing-legacy-erp-with-dynamics-365/",
+          "publishedOn": "2026-03-23T13:12:40.000Z",
+          "wordCount": 8876,
+          "title": "Why More Mid-Sized Businesses Are Replacing Legacy ERP with Dynamics 365 in 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ece0f1ec-adbc-4e84-a4a6-dc38b2b1bb30-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144912",
+          "author": "Brendan Murphy",
+          "description": "xxx\nThere’s a phrase I’ve seen reposted more times than I can count: “Most ERP projects don’t fail at go‑live. They fail before that.” On the surface, it sounds insightful, hell, […]\nThe post “ERP Doesn’t Fail at Go‑Live” and Other Things That Sound Smart but Don’t Help appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/erp-doesnt-fail-at-go-live-and-other-things-that-sound-smart-but-dont-help/",
+          "publishedOn": "2026-03-23T12:39:50.000Z",
+          "wordCount": 7412,
+          "title": "“ERP Doesn’t Fail at Go‑Live” and Other Things That Sound Smart but Don’t Help",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144902",
+          "author": "STAEDEAN",
+          "description": "xxx\nHas migrating to an efficient, easy-to-maintain, scalable, and secure software — one that seamlessly integrates complex supply chain functions into your ERP, been on your wish list recently? If you […]\nThe post Electronic Data Interchange (EDI) Integration in Dynamics 365 ERP: 10 Key Benefits appeared first on ERP Software Blog.\n“Best of Breed” – Why Include Third Party (ISV) Products with Microsoft Dynamics GP?\nWeb Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective\nTaking on \"Green\" Accounting Practices with Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2026/03/electronic-data-interchange-edi-integration-d365-erp-key-benefits/",
+          "publishedOn": "2026-03-23T07:47:52.000Z",
+          "wordCount": 7889,
+          "title": "Electronic Data Interchange (EDI) Integration in Dynamics 365 ERP: 10 Key Benefits",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Benefits-of-EDI-Integration-e1774193647399.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144655",
+          "author": "Intech Systems",
+          "description": "xxx\nIntroduction With rising risks across functionality, security, and compliance, and no ongoing support, it is time to move on from Dynamics AX in 2026. But the real question is: if […]\nThe post Migration Guide: Top Priorities for Moving from Dynamics AX to D365 Finance & Operations appeared first on ERP Software Blog.\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS\nDynamics 365 First Look\nWhat Does Dynamics 365 Mean for my Current AX Licenses?",
+          "link": "https://erpsoftwareblog.com/2026/03/top-priorities-for-moving-from-dynamics-ax-to-d365-finance-operations/",
+          "publishedOn": "2026-03-23T05:52:29.000Z",
+          "wordCount": 8457,
+          "title": "Migration Guide: Top Priorities for Moving from Dynamics AX to D365 Finance & Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-banner-4-1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=144886",
           "author": "Anya Ciecierski",
           "description": "xxx\nIf you’ve attended Directions North America before, you know it’s one of those events where the value comes as much from the conversations as it does from the sessions. And […]\nThe post Planning for Directions North America 2026 Key Updates for Microsoft Dynamics Partners appeared first on ERP Software Blog.\nMicrosoft Convergence 2011 is On!\nMicrosoft Dynamics Bringing Together Around 10,000 Users Annually\nDynamics GP 2010 and Convergence 2011",
@@ -1345,6 +1455,16 @@
           "wordCount": 8209,
           "title": "Planning for Directions North America 2026 Key Updates for Microsoft Dynamics Partners",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Directions-Mary-Anya-image.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144871",
+          "author": "The TM Group, Inc.",
+          "description": "xxx\nFor growing financial firms, a QuickBooks to Dynamics 365 migration can be the turning point between operational bottlenecks and scalable success. Many asset-based lenders start with QuickBooks because it’s simple […]\nThe post QuickBooks to Dynamics 365 Migration for Lenders appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/03/quickbooks-to-dynamics-365-migration-lender/",
+          "publishedOn": "2026-03-21T16:18:38.000Z",
+          "wordCount": 6945,
+          "title": "QuickBooks to Dynamics 365 Migration for Lenders",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-an-Asset-Based-Lender-Scaled-with-Cloud-ERP-scaled.jpg"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=144713",
@@ -1497,6 +1617,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Gemini_Generated_Image_3q5sug3q5sug3q5s.png"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=144948",
+          "author": "MetaOption LLC",
+          "description": "xxx\nChoosing an ERP system is one of the most important decisions a growing business will make. It is not just about software. It defines how your finance team operates, how […]\nThe post Microsoft Dynamics 365 Business Central vs NetSuite ERP: Feature Comparison appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/microsoft-dynamics-365-business-central-vs-netsuite-erp/",
+          "publishedOn": "2026-03-19T13:09:08.000Z",
+          "wordCount": 8113,
+          "title": "Microsoft Dynamics 365 Business Central vs NetSuite ERP: Feature Comparison",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Dynamics-365-Business-Central-vs-NetSuite-ERP.webp"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=144746",
           "author": "Thomas Werkhoven",
           "description": "xxx\nEvery minute you spend manually compiling reports is a minute you’re not analyzing, advising, or driving your business forward. Yet, according to research by the Association for Financial Professionals (AFP), […]\nThe post Exsion Reporting in Excel for Business Central: How Controllers Can Speed Up the Month‑End Close appeared first on ERP Software Blog.\nDon’t Stop the Flow: Managing a Job Shop\nMicrosoft Dynamics Reporting can lead the way with your accounting team today!\nIs it Time to Upgrade Your Transportation Software to Dynamics 365 TMS ?",
@@ -1535,6 +1665,16 @@
           "wordCount": 7378,
           "title": "Microsoft Dynamics 365 for Retail: How to Improve Demand Forecasting and Inventory Planning",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/D365-White-Paper-Blog-2-1-1-625x287.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144954",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nFor many growing businesses in the UK, B2B order processing still relies too heavily on manual data entry, email-based communication, and disconnected systems. Sales orders are rekeyed into ERP, purchase […]\nThe post How EDI Integration with Dynamics 365 Business Central Helps UK Businesses Automate B2B Orders and Supply Chain Processes appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2026/03/edi-integration-business-central/",
+          "publishedOn": "2026-03-18T13:25:23.000Z",
+          "wordCount": 8862,
+          "title": "How EDI Integration with Dynamics 365 Business Central Helps UK Businesses Automate B2B Orders and Supply Chain Processes",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/d56b5508-33b6-4e9a-a83d-6be0d71ef4c9.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=144338",
@@ -1635,6 +1775,16 @@
           "wordCount": 7222,
           "title": "Passing the Test: Achieving SF 1408 Compliance with Business Central and GovCon365",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-software-blog-Passing-the-Test-Achieving-SF-1408-Compliance-with-Business-Central-and-GovCon365.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=144944",
+          "author": "MetaOption LLC",
+          "description": "xxx\nIf you’re still running Dynamics GP, you are already on a clock. Microsoft has officially announced that support for Dynamics GP will end on December 31, 2029, with security updates […]\nThe post Dynamics 365 Business Central vs Dynamics GP: Which ERP Should You Choose? appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/dynamics-365-business-central-vs-dynamics-gp-which-erp-should-you-choose/",
+          "publishedOn": "2026-03-17T12:57:37.000Z",
+          "wordCount": 8165,
+          "title": "Dynamics 365 Business Central vs Dynamics GP: Which ERP Should You Choose?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/legacy-erp-vs-cloud-erp.webp"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=144656",
@@ -38620,6 +38770,91 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/do-you-knowevaluate-test-sets-with-multiple-graders-in-copilot-studio",
+          "author": "Malla Reddy Gurram",
+          "description": "Hello Everyone, Today I am going to share my thoughts on the evaluation test sets with multiple graders in Copilot Studio. Let’s get started. Yes – Copilot Studio now supports evaluating a single test set with multiple graders in one run. This is listed as a Public preview in the 2025 release wave 2 plan, […]",
+          "link": "https://365community.online/do-you-knowevaluate-test-sets-with-multiple-graders-in-copilot-studio",
+          "publishedOn": "2026-03-23T20:52:00.000Z",
+          "wordCount": 2250,
+          "title": "{Do you know}Evaluate test sets with multiple graders in Copilot Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1774309130_How20to20enable20optimizing20ranking20in20Dynamics2036520Sales20for20insight20cards2036.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-business-intelligence-layer-you-didnt-know-you-had",
+          "author": "Mirko Peters",
+          "description": "Most organizations believe they understand how their business operates.They point to org charts, policies, and compliance frameworks as proof. They are wrong. In this episode, Mirko Peters reframes Microsoft Purview from a compliance tool into something far more powerful:👉 An operating system for organizational truth Purview doesn’t just protect data.It reveals how your company actually […]",
+          "link": "https://365community.online/the-business-intelligence-layer-you-didnt-know-you-had",
+          "publishedOn": "2026-03-23T15:33:25.000Z",
+          "wordCount": 2577,
+          "title": "The Business Intelligence Layer You Didn’t Know You Had",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/4df605fd5ccd3f3ab3ec1204e54b80e5.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-encircle-technologies-built-a-smarter-agency-stack-around-wordpress-com",
+          "author": "Belinda Allen",
+          "description": "Rahul Tulsiyani has seen the full spectrum of web development.  His agency, Encircle Technologies, runs a 50–60-person team across development, QA, and UI/UX design, based in India, building everything from custom e-commerce stores to headless CMS architectures. It serves clients through a global network of agency partners. When you work at that scale, across that […]",
+          "link": "https://365community.online/how-encircle-technologies-built-a-smarter-agency-stack-around-wordpress-com",
+          "publishedOn": "2026-03-23T15:00:00.000Z",
+          "wordCount": 2658,
+          "title": "How Encircle Technologies Built a Smarter Agency Stack Around WordPress.com",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/2026-wave-1-d365-field-service-is-here-brings-major-ui-enhancements",
+          "author": "Saurav Dhyani",
+          "description": "The Field Service product team has been absolutely cooking of late, with a host of new PCF (PowerApps Component Framework) controls that significantly enhance the mobile experience for users. These updates are set to bring more efficiency and effectiveness to field service operations, enabling teams to manage their tasks and workflows seamlessly. We’ll take a […]",
+          "link": "https://365community.online/2026-wave-1-d365-field-service-is-here-brings-major-ui-enhancements",
+          "publishedOn": "2026-03-23T10:15:00.000Z",
+          "wordCount": 2761,
+          "title": "2026 Wave 1 D365 Field Service is Here brings Major UI Enhancements",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/2026-Wave-1-D365-Field-Service-is-Here-brings-Major.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/primavera-p6-online-training-success-story-11-student-testimonial-wiznicworld-youtube",
+          "author": "Madan Mohan Maharana",
+          "description": "Primavera P6 Online Training Success Story-11, Student Testimonial | WiznicWorld Learn Primavera P6 with real project experience: https://www.wiznicworld.com/testimonial 🎯Learn Primavera P6 online from an industry expert with 27+ years of real project experience… In this testimonial video, The students share Their experiences with our comprehensive Primavera P6 training program and how it transformed his project […]",
+          "link": "https://365community.online/primavera-p6-online-training-success-story-11-student-testimonial-wiznicworld-youtube",
+          "publishedOn": "2026-03-23T10:12:15.000Z",
+          "wordCount": 2364,
+          "title": "Primavera P6 Online Training Success Story-11, Student Testimonial | WiznicWorld – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1774267671_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/primavera-p6-online-training-success-story-10-student-testimonial-wiznicworld-youtube",
+          "author": "Madan Mohan Maharana",
+          "description": "Primavera P6 Online Training Success Story-10, Student Testimonial | WiznicWorld Learn Primavera P6 with real project experience: https://www.wiznicworld.com/testimonial 🎯Learn Primavera P6 online from an industry expert with 27+ years of real project experience… In this testimonial video, The students share Their experiences with our comprehensive Primavera P6 training program and how it transformed his project […]",
+          "link": "https://365community.online/primavera-p6-online-training-success-story-10-student-testimonial-wiznicworld-youtube",
+          "publishedOn": "2026-03-23T08:33:25.000Z",
+          "wordCount": 2365,
+          "title": "Primavera P6 Online Training Success Story-10, Student Testimonial | WiznicWorld – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1774281933_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/episode-7-keith-atherton",
+          "author": "Mike Hartley",
+          "description": "Keith Atherton is EVERYWHERE and it's not hard to understand why. He is one of the most genuine, kind, humble, and lovely people you could ever meet. In this episode of 365 a11y the podcast he joins resident host Mike Hartley to discuss his thoughts and experiences of accessibility, the impact of AI, and what […]",
+          "link": "https://365community.online/episode-7-keith-atherton",
+          "publishedOn": "2026-03-23T08:00:00.000Z",
+          "wordCount": 2086,
+          "title": "Episode 7 – Keith Atherton",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1152200/episodes/18849629-episode-7-keith-atherton.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/download-symbols-from-nuget-feed-in-microsoft-dynamics-365-business-central-v28",
+          "author": "Amol Salvi",
+          "description": "Download Symbols from NuGet Feed in Microsoft Dynamics 365 Business Central v28 In Business Central 2026 release wave 1 (v28), Microsoft introduced a powerful enhancement for AL developers — the ability to download symbols directly from global NuGet feeds. With the new command “AL: Download Symbols from Global Sources”, developers can now retrieve application packages […]",
+          "link": "https://365community.online/download-symbols-from-nuget-feed-in-microsoft-dynamics-365-business-central-v28",
+          "publishedOn": "2026-03-23T04:56:00.000Z",
+          "wordCount": 2042,
+          "title": "Download Symbols from NuGet Feed in Microsoft Dynamics 365 Business Central v28",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
         {
           "id": "https://365community.online/73-of-m365-deployments-make-this-governance-mistake",
           "author": "Mirko Peters",
@@ -77994,26 +78229,6 @@
           "wordCount": 3235,
           "title": "D365 FO 10.0.39 revised release notes",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-make-a-power-apps-screen-accessible",
-          "author": "harditbhatia",
-          "description": "Do you know which is the most frequently used control in Power Apps? The screen control! Learn a few simple steps to make it accessible! The post How to make […]",
-          "link": "https://365community.online/how-to-make-a-power-apps-screen-accessible",
-          "publishedOn": "2024-03-24T08:14:27.000Z",
-          "wordCount": 3202,
-          "title": "How to make a Power Apps screen accessible?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/How-to-make-a-Power-Apps-screen-accessible.jpg?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps",
-          "author": "harditbhatia",
-          "description": "What is accessibility? Is it important? Is it relevant to Power Apps? Here’s an introduction to accessibility in general and in Power Apps! The post What is accessibility and why […]",
-          "link": "https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps",
-          "publishedOn": "2024-03-24T06:45:38.000Z",
-          "wordCount": 3213,
-          "title": "What is accessibility and why is it important in Power Apps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/What-is-accessibility-and-why-is-it-important-in-Power.jpg?fit=1200%2C802&ssl=1"
         }
       ]
     },
