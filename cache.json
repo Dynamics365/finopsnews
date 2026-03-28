@@ -6,6 +6,16 @@
       "siteUrl": "https://automaly.com/posts/",
       "articles": [
         {
+          "id": "https://automaly.com/posts/2026-03-27-the-requested-performance-counter-is-not-a-custom-counter/",
+          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
+          "description": "How to fix the ‘The Requested Performance Counter is not a Custom Counter’ error in Dynamics 365 F&O one-box VHD environments by re-registering instrumentation DLLs and rebuilding Windows Performance Counters.",
+          "link": "https://automaly.com/posts/2026-03-27-the-requested-performance-counter-is-not-a-custom-counter/",
+          "publishedOn": "2026-03-18T00:00:00.000Z",
+          "wordCount": 1108,
+          "title": "The Requested Performance Counter is Not a Custom Counter",
+          "imageUrl": "https://automaly.com/img/ripples.svg"
+        },
+        {
           "id": "https://automaly.com/posts/2025-08-18-data-entity-tips/",
           "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
           "description": "Comprehensive overview of integration patterns and capabilities between Dynamics 365 applications and Microsoft Dataverse for seamless data connectivity.",
@@ -1346,6 +1356,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=145324",
+          "author": "Insight Works",
+          "description": "xxx\nWarehouse operations in Business Central frequently stall at familiar pain points: manual data entry errors, reliance on outdated paper processes, persistent inventory discrepancies, and sluggish order fulfillment. These aren’t minor […]\nThe post Solving Warehouse Chaos in Dynamics 365 Business Central with Mobile Barcoding appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nOptimize your Distribution Process with Advanced Warehouse Management System\nHow to Choose a Mobile Computer to use with Business Central",
+          "link": "https://erpsoftwareblog.com/2026/03/solving-warehouse-chaos-in-dynamics-365-business-central-with-mobile-barcoding/",
+          "publishedOn": "2026-03-27T17:49:43.000Z",
+          "wordCount": 7066,
+          "title": "Solving Warehouse Chaos in Dynamics 365 Business Central with Mobile Barcoding",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Warehouse-Insight-2026-Webinar-Linkedin-Event.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=145364",
+          "author": "Thomas Werkhoven",
+          "description": "xxx\nFinancial forecasting has a reputation problem. For many finance teams, it’s associated with complex spreadsheets, late nights, and the constant fear that a single broken formula could throw off an […]\nThe post Financial Forecasting Without the Headache: How Exsion Reporting in Excel‑Based ERP Reporting Brings Clarity and Control appeared first on ERP Software Blog.\nHow can Microsoft Dynamics track more Financial Data in the Cloud in 2018?\nHow does Microsoft Dynamics reporting of data offer Accountability Today?\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights",
+          "link": "https://erpsoftwareblog.com/2026/03/financial-forecasting-made-simple-with-exsion-in-excel-and-business-central/",
+          "publishedOn": "2026-03-27T11:09:11.000Z",
+          "wordCount": 7502,
+          "title": "Financial Forecasting Without the Headache: How Exsion Reporting in Excel‑Based ERP Reporting Brings Clarity and Control",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Exsion-for-blog.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=145381",
+          "author": "Visionet",
+          "description": "xxx\nManufacturers can improve production planning and scheduling with Microsoft Dynamics 365 ERP by connecting demand forecasts, inventory levels, shop floor operations, and supply chain data into a unified ERP system. […]\nThe post How Microsoft Dynamics 365 ERP Helps Manufacturers Improve Production Planning and Scheduling appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/03/how-dynamics-365-erp-helps-manufacturers-improve-production-planning-and-scheduling/",
+          "publishedOn": "2026-03-27T10:14:32.000Z",
+          "wordCount": 7306,
+          "title": "How Microsoft Dynamics 365 ERP Helps Manufacturers Improve Production Planning and Scheduling",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/reshaping-fashion-supply-chain.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=145248",
+          "author": "Bluefort",
+          "description": "xxx\nFor organisations running Microsoft Dynamics 365 Business Central, the cost of payment processing is often understood in simple terms. Payment service provider fees are tracked, reported, and factored into margin […]\nThe post Where Payment Processing Actually Costs You in Business Central appeared first on ERP Software Blog.\nThe Hidden Cost of “Working” Payment Processes in Business Central\nWhy CFOs Are Rethinking the Last Mile of ERP\nThe Important Business Function Your ERP System CAN'T Do",
+          "link": "https://erpsoftwareblog.com/2026/03/where-payment-processing-actually-costs-you-in-business-central/",
+          "publishedOn": "2026-03-27T08:59:52.000Z",
+          "wordCount": 7788,
+          "title": "Where Payment Processing Actually Costs You in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Bluefort-Where-Payment-Processing-Actually-Costs-You-in-Business-Central.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=145308",
           "author": "Insight Works",
@@ -37525,36 +37575,6 @@
           "wordCount": 6150,
           "title": "Tax law changes you need to know for 2024",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-ATC-2024-Hero.avacustomrendition.2100.0.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105316",
-          "author": "Dynamics Square UK",
-          "description": "Integrating ERP solutions with your e-commerce platform is a strategic necessity for any online retail operation. It aligns backend operations—like inventory management, order processing, and customer relationship management—with your online […]\nThe post How to Seamlessly Integrate ERP Solutions With Your Online Store appeared first on ERP Software Blog.\nWe Are Going to Convergence Europe 2015, @Booth 81\nSolving Wholesale E-Commerce Challenges: Century Martial Arts [Case Study]\nHow to build a better B2B eCommerce customer experience",
-          "link": "https://erpsoftwareblog.com/2024/03/integrate-erp-solutions-with-online-store/",
-          "publishedOn": "2024-03-28T09:57:17.000Z",
-          "wordCount": 7005,
-          "title": "How to Seamlessly Integrate ERP Solutions With Your Online Store",
-          "imageUrl": "https://cdn.shopify.com/app-store/listing_images/63093a57eda927d44c8428783c689009/desktop_screenshot/CPyf2ungpPYCEAE=.png?height=900&width=1600"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105283",
-          "author": "iCepts Technology Group, Inc.",
-          "description": "Microsoft Dynamics 365 Business Central is an all-in-one business management solution that’s easy to use and adapt, helping you connect your business and make smarter decisions.  Built on extensive business functionality, this […]\nThe post 10 Ways Microsoft Business Central is a Great ERP System for Employees appeared first on ERP Software Blog.\nEZ Start Business Central Implementation Plans\nThe worst mistake a Dynamics 365 Business Central / NAV customer can make\nMRP In Microsoft Business Central",
-          "link": "https://erpsoftwareblog.com/2024/03/10-ways-microsoft-business-central-is-a-great-erp-system-for-employees/",
-          "publishedOn": "2024-03-27T19:41:45.000Z",
-          "wordCount": 5356,
-          "title": "10 Ways Microsoft Business Central is a Great ERP System for Employees",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105294",
-          "author": "Express Info",
-          "description": "Maintaining the profitability of your organization requires ongoing resource management. Ignoring this causes inefficiencies, which raise expenses and lower revenue. You can stay at the top in many ways, but […]\nThe post The 8 Amazing Reasons to Utilize a Cloud ERP appeared first on ERP Software Blog.\nSeeing is Believing! Experience Microsoft Dynamics GP in Action\nERP Software Proves To Be a Smart Investment\nThe 5 Most Often Overlooked Costs of ERP",
-          "link": "https://erpsoftwareblog.com/2024/03/the-8-amazing-reasons-to-utilize-a-new-cloud-erp-system/",
-          "publishedOn": "2024-03-27T14:56:23.000Z",
-          "wordCount": 5690,
-          "title": "The 8 Amazing Reasons to Utilize a Cloud ERP",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/pexels-jopwell-2422286.jpg"
         }
       ]
     },
@@ -38980,6 +39000,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/wordpress-com-changelog-enabling-ai-agents-to-work-on-your-site-and-more-control-over-newsletter-sending",
+          "author": "Belinda Allen",
+          "description": "March 15–27, 2026 Welcome to the WordPress.com changelog! We’re always working on making WordPress.com better for you — new tools, fixes, little things you might not notice but will definitely feel. We want to keep you in the loop. Every couple of weeks, we’ll share what’s changed and why it matters for your site or […]",
+          "link": "https://365community.online/wordpress-com-changelog-enabling-ai-agents-to-work-on-your-site-and-more-control-over-newsletter-sending",
+          "publishedOn": "2026-03-27T17:50:00.000Z",
+          "wordCount": 2751,
+          "title": "WordPress.com Changelog: Enabling AI Agents to Work on Your Site and More Control Over Newsletter Sending",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/onselect-how-to-use-for-a-clickable-control-in-a-gallery",
+          "author": "harditbhatia",
+          "description": "Can the OnSelect property of a gallery conflict with that of a clickable control within? Learn a simple best practice to avoid the confusion! The post OnSelect – how to use for a clickable control in a gallery appeared first on Hardit Bhatia: The Power Addict. Original Post https://thepoweraddict.com/onselect-how-to-use-for-a-clickable-control-in-a-gallery/?utm_source=rss&utm_medium=rss&utm_campaign=onselect-how-to-use-for-a-clickable-control-in-a-gallery",
+          "link": "https://365community.online/onselect-how-to-use-for-a-clickable-control-in-a-gallery",
+          "publishedOn": "2026-03-27T15:45:00.000Z",
+          "wordCount": 2041,
+          "title": "OnSelect – how to use for a clickable control in a gallery",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/OnSelect-%E2%80%93-how-to-use-for-a-clickable-control-in.jpg?fit=1920%2C1282&ssl=1"
+        },
+        {
+          "id": "https://365community.online/who-actually-has-power-in-your-organization",
+          "author": "Mirko Peters",
+          "description": "Most organizations believe power sits in titles, hierarchies, and approval structures. In reality, power operates somewhere else entirely—inside access, information flow, and the people who can actually move work forward. In this episode, Mirko Peters breaks down why the biggest organizational bottlenecks are not caused by people, but by structural misalignment between authority, access, and […]",
+          "link": "https://365community.online/who-actually-has-power-in-your-organization",
+          "publishedOn": "2026-03-27T15:29:59.000Z",
+          "wordCount": 2560,
+          "title": "Who Actually Has Power in Your Organization?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/2da69568bab652f8ad0e54c76c897cf6.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ctxtech-2026-four-sessions-two-days-one-conviction",
+          "author": "jarmesto",
+          "description": "Chronicle of Spain’s Largest Tech Event — First Edition When Sevilla TechPark becomes the tech innovation epicenter of southern Europe for two days, you show up. Not as a spectator — as an active participant. On March 19–20, the first edition of CTx Tech Experience Hub 2026 took place at the Cartuja campus — the […]",
+          "link": "https://365community.online/ctxtech-2026-four-sessions-two-days-one-conviction",
+          "publishedOn": "2026-03-27T10:00:00.000Z",
+          "wordCount": 2925,
+          "title": "CTxTech 2026: Four Sessions, Two Days, One Conviction",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/z2h-finale-the-rise-of-agents-live-from-ms-devrel-studio-youtube",
+          "author": "Victor Dantas",
+          "description": "Z2H Finale: The Rise of Agents | Live from MS DevRel Studio source",
+          "link": "https://365community.online/z2h-finale-the-rise-of-agents-live-from-ms-devrel-studio-youtube",
+          "publishedOn": "2026-03-27T06:38:35.000Z",
+          "wordCount": 2015,
+          "title": "Z2H Finale: The Rise of Agents | Live from MS DevRel Studio – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1774602997_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-apps-notify-function-tutorial-show-messages-in-canvas-app-beginner-guide-2026-youtube",
+          "author": "Manish chauhan",
+          "description": "Want to display messages in Power Apps like a pro? 🔥 In this beginner-friendly Power Apps tutorial, learn how to use the Notify function in a Canvas App to show information, error, and warning messages using simple formulas. In this Power Apps Canvas App tutorial, you’ll learn: ✔ What is the Notify function in Power […]",
+          "link": "https://365community.online/power-apps-notify-function-tutorial-show-messages-in-canvas-app-beginner-guide-2026-youtube",
+          "publishedOn": "2026-03-27T04:36:44.000Z",
+          "wordCount": 2238,
+          "title": "Power Apps Notify Function Tutorial | Show Messages in Canvas App (Beginner Guide 2026) – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1774656588_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-mvpsummit-unplugged-travis-roberts-interview-youtube",
+          "author": "shabaz darr",
+          "description": "Make sure to subscribe for more behind the scenes interviews at the @Microsoft #mvpsummit @Ciraltos source",
+          "link": "https://365community.online/microsoft-mvpsummit-unplugged-travis-roberts-interview-youtube",
+          "publishedOn": "2026-03-27T00:25:44.000Z",
+          "wordCount": 1995,
+          "title": "Microsoft #mvpsummit Unplugged- Travis Roberts Interview – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/1774641038_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/power-apps-pie-chart-explained-%f0%9f%9a%80-visualize-data-in-canvas-app-step-by-step-youtube",
           "author": "Manish chauhan",
@@ -78359,56 +78449,6 @@
           "wordCount": 3335,
           "title": "Fixed – Web resource method does not exist: OnLoad error in Work Order, Work Order Service task, and other forms in Dynamics 365 Field Service",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Fixed-–-Web-resource-method-does-not-exist-OnLoad-error.jpeg?fit=1082%2C822&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-building-an-accessible-future",
-          "author": "Mike Hartley",
-          "description": "Unless you’ve been living under a rock, you will have heard talk of Microsoft Copilots. These are the generative AI driven assistants and aids that are appearing in about all […]",
-          "link": "https://365community.online/copilot-building-an-accessible-future",
-          "publishedOn": "2024-03-28T11:59:12.000Z",
-          "wordCount": 3195,
-          "title": "Copilot. Building an Accessible Future",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Copilot-Building-an-Accessible-Future.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/a-guide-to-integrating-google-re-captcha-in-power-pages",
-          "author": "Inogic",
-          "description": "As we know, Google’s re-CAPTCHA service incorporates various mechanisms, including advanced risk analysis and adaptive challenges, to differentiate between legitimate users and potential bots or malicious actors. By analysing user […]",
-          "link": "https://365community.online/a-guide-to-integrating-google-re-captcha-in-power-pages",
-          "publishedOn": "2024-03-28T09:30:55.000Z",
-          "wordCount": 3494,
-          "title": "A Guide to Integrating Google re-Captcha in Power Pages",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Integrate-Google-re-Captcha-in-Power-Pages-1.png?fit=1200%2C654&ssl=1"
-        },
-        {
-          "id": "https://365community.online/rec-locktable-good-practice-or-bad-practice",
-          "author": "Waldo",
-          "description": "Sometimes, “best practices” turn into “bad practices”.  And recently, with one of the best new features of Business Central that just fell in our laps (most users probably won’t realize), […]",
-          "link": "https://365community.online/rec-locktable-good-practice-or-bad-practice",
-          "publishedOn": "2024-03-28T07:00:00.000Z",
-          "wordCount": 3216,
-          "title": "Rec.LockTable – Good Practice?  Or Bad Practice?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/RecLockTable-–-Good-Practice-Or-Bad-Practice.gif?fit=300%2C299&ssl=1"
-        },
-        {
-          "id": "https://365community.online/refreshed-look-of-solution-dependencies-in-dataverse-solutions",
-          "author": "Arun Potti",
-          "description": "Microsoft has announced the refreshed look of solution dependencies for solution objects. This new page is well organized, easy to understand and can see some important actions to identify the […]",
-          "link": "https://365community.online/refreshed-look-of-solution-dependencies-in-dataverse-solutions",
-          "publishedOn": "2024-03-28T00:08:16.000Z",
-          "wordCount": 3253,
-          "title": "Refreshed look of solution dependencies in Dataverse Solutions",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/dataverse.png?fit=1199%2C405&ssl=1"
-        },
-        {
-          "id": "https://365community.online/the-architect-of-change-craig-white-unpacks-the-power-of-low-code-innovation-youtube",
-          "author": "NZ365Guy",
-          "description": "The Architect of Change Craig White Unpacks the Power of Low-Code Innovation Craig White, an ecosystem architect at ANS Group, shares his journey into the tech industry and his passion […]",
-          "link": "https://365community.online/the-architect-of-change-craig-white-unpacks-the-power-of-low-code-innovation-youtube",
-          "publishedOn": "2024-03-27T14:14:59.000Z",
-          "wordCount": 4184,
-          "title": "The Architect of Change Craig White Unpacks the Power of Low-Code Innovation – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711656975_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -81999,6 +82039,41 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/23/microsoft-named-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2026/",
+          "author": "Deva Rajamohan",
+          "description": "The promise of agentic service requires more than just automation; it demands a unified context and intelligence layer that travels with the work.\nThe post Microsoft named a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2026 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/23/microsoft-named-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2026/",
+          "publishedOn": "2026-03-23T15:28:00.000Z",
+          "wordCount": 6144,
+          "title": "Microsoft named a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2026",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/03/MSC24-China-business-Getty-1700112040-rgb-scaled.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/",
+          "author": "Ryan Martin",
+          "description": "We’re excited to publish the 2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based agents in Microsoft 365 Copilot.\nThe post 2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/",
+          "publishedOn": "2026-03-18T15:00:00.000Z",
+          "wordCount": 7260,
+          "title": "2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings",
+          "enclosure": {
+            "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/3414450-Business-Applications-Sizzle-D365",
+            "length": "263380174",
+            "type": ""
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/03/RW1-Feature-Image.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=201407",
+          "author": "Roger Sa",
+          "description": "We’re pleased to introduce a new capability for Dynamics 365 Finance and Operations archive with Dataverse long-term retention: parallel processing for archive jobs. This enhancement allows the Archive job scheduler to run multiple archive jobs at the same time, dramatically reducing the time required to archive high volumes of transaction data across legal entities.\nThe post Support Parallel Processing for Archive Jobs in Dynamics 365 Finance and Operations appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/16/parallel-processing-archive-jobs/",
+          "publishedOn": "2026-03-16T19:09:35.000Z",
+          "wordCount": 5477,
+          "title": "Support Parallel Processing for Archive Jobs in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/12/AdobeStock_1789964985-scaled.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/09/a-new-way-of-working-is-taking-shape-frontier-transformation/",
           "author": "Bryan Goode",
           "description": "We're taking a significant step forward in bringing agentic business applications to life across Microsoft 365, Dynamics 365, and Microsoft Power Platform.\nThe post A new way of working is taking shape: Frontier Transformation appeared first on Microsoft Dynamics 365 Blog.",
@@ -84492,16 +84567,6 @@
           "wordCount": 3427,
           "title": "Maximize efficiency with forecasting in Dynamics 365 Customer Service",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/10/customer-service.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/27/forrester-tei-study-shows-315-roi-when-modernizing-customer-service-with-microsoft-dynamics-365-customer-service/",
-          "author": "Angela Chang",
-          "description": "We are pleased to share the results of a March 2024 Forrester Consulting Total Economic Impact (TEI) Study commissioned by Microsoft. Forrester calculates Dynamics 365 Customer Service delivered benefits of $14.70 million over three years to a composite organization. \nThe post Forrester TEI study shows 315% ROI when modernizing customer service with Microsoft Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/27/forrester-tei-study-shows-315-roi-when-modernizing-customer-service-with-microsoft-dynamics-365-customer-service/",
-          "publishedOn": "2024-03-27T15:00:00.000Z",
-          "wordCount": 3768,
-          "title": "Forrester TEI study shows 315% ROI when modernizing customer service with Microsoft Dynamics 365 Customer Service",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/MSFT_Dynamics365_MAR22_327416_Blog_BlogHeader_240322_V2-1-social.png"
         }
       ]
     },
@@ -88750,16 +88815,6 @@
           "wordCount": 3562,
           "title": "What’s new: Power Apps March 2024 Feature Update",
           "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/04/GAOffline.png"
-        },
-        {
-          "id": "modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default",
-          "author": null,
-          "description": "Modern, refreshed look and feel for model-driven apps on by default",
-          "link": "https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default/",
-          "publishedOn": "2024-03-28T01:00:00.000Z",
-          "wordCount": 1951,
-          "title": "Modern, refreshed look and feel for model-driven apps on by default",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         }
       ]
     },
