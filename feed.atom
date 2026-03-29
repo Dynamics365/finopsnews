@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-03-28T02:31:41.443Z</updated>
+    <updated>2026-03-29T02:46:33.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I built the tool .. but forgot the skill..]]></title>
+        <id>https://365community.online/i-built-the-tool-but-forgot-the-skill</id>
+        <link href="https://365community.online/i-built-the-tool-but-forgot-the-skill"/>
+        <updated>2026-03-28T21:06:00.000Z</updated>
+        <summary type="html"><![CDATA[So.. here is a train of thoughts… I’ve been doing this telemetry stuff for a while now. KQL snippets, ADE (or what I recently learned: the real abbreviation is “ADX” ) dashboards, the Troubleshooting Buddy (with Dmitry) (where it all started to go into an interesting direction) and of course now BC Telemetry Buddy. Of […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Won’t Fix Your Business — It Will Expose It]]></title>
+        <id>https://365community.online/ai-wont-fix-your-business-it-will-expose-it</id>
+        <link href="https://365community.online/ai-wont-fix-your-business-it-will-expose-it"/>
+        <updated>2026-03-28T17:26:40.000Z</updated>
+        <summary type="html"><![CDATA[AI isn’t a repair layer for your business.It’s an exposure layer. In this episode, Mirko Peters breaks down a hard truth leaders keep missing: AI will not fix unclear ownership, messy access, or fragmented data —it will surface those weaknesses instantly. What looks like “AI transformation” is often something else entirely:a system-level audit of how […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Right Dynamics 365 Business Central Partner: Sales-Oriented vs. Service-Oriented]]></title>
+        <id>https://erpsoftwareblog.com/?p=145397</id>
+        <link href="https://erpsoftwareblog.com/2026/03/choosing-the-right-dynamics-365-business-central-partner-sales-oriented-vs-service-oriented/"/>
+        <updated>2026-03-28T02:56:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When companies evaluate a Microsoft Dynamics 365 Business Central partner, they often focus on software knowledge, project scope, and pricing. Just as important, though, is the partner’s business model. In […]
+The post Choosing the Right Dynamics 365 Business Central Partner: Sales-Oriented vs. Service-Oriented appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Get More in the Cloud with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dennis Day, DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@Microsoft #mvpsummit Interview with Kristopher Turner! – YouTube]]></title>
+        <id>https://365community.online/microsoft-mvpsummit-interview-with-kristopher-turner-youtube</id>
+        <link href="https://365community.online/microsoft-mvpsummit-interview-with-kristopher-turner-youtube"/>
+        <updated>2026-03-27T21:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Make sure you subscribe to the channel so you do not miss out on all my @Microsoft #cloud content This is a short interview with #microsoft #mvp Kristopher Turner at the #mvpsummit this last week source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress.com Changelog: Enabling AI Agents to Work on Your Site and More Control Over Newsletter Sending]]></title>
         <id>https://365community.online/wordpress-com-changelog-enabling-ai-agents-to-work-on-your-site-and-more-control-over-newsletter-sending</id>
@@ -49,6 +94,16 @@ How to Choose a Mobile Computer to use with Business Central]]></summary>
         <summary type="html"><![CDATA[Most organizations believe power sits in titles, hierarchies, and approval structures. In reality, power operates somewhere else entirely—inside access, information flow, and the people who can actually move work forward. In this episode, Mirko Peters breaks down why the biggest organizational bottlenecks are not caused by people, but by structural misalignment between authority, access, and […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Blob Storage Tutorial 2026: The Only Masterclass You Need – YouTube]]></title>
+        <id>https://365community.online/azure-blob-storage-tutorial-2026-the-only-masterclass-you-need-youtube</id>
+        <link href="https://365community.online/azure-blob-storage-tutorial-2026-the-only-masterclass-you-need-youtube"/>
+        <updated>2026-03-27T12:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Azure Blob Storage | Azure Storage Services | Azure Data Engineering Are you looking to master Azure Blob Storage? In this comprehensive Azure tutorial for beginners, we break down the complexities of Microsoft’s cloud-native object storage. Additionally, we explain the “why” behind Storage Accounts, Containers, and the specific use cases for different Blob types. Learn […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -1160,17 +1215,6 @@ D365 Business Central Health Check]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft named a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2026]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/23/microsoft-named-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2026/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/23/microsoft-named-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2026/"/>
-        <updated>2026-03-23T15:28:00.000Z</updated>
-        <summary type="html"><![CDATA[The promise of agentic service requires more than just automation; it demands a unified context and intelligence layer that travels with the work.
-The post Microsoft named a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2026 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Deva Rajamohan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Encircle Technologies Built a Smarter Agency Stack Around WordPress.com]]></title>
         <id>https://365community.online/how-encircle-technologies-built-a-smarter-agency-stack-around-wordpress-com</id>
         <link href="https://365community.online/how-encircle-technologies-built-a-smarter-agency-stack-around-wordpress-com"/>
@@ -1975,7 +2019,7 @@ The post 2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power P
     </entry>
     <entry>
         <title type="html"><![CDATA[2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/</id>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=201384</id>
         <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/"/>
         <updated>2026-03-18T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[We’re excited to publish the 2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based agents in Microsoft 365 Copilot.
@@ -9077,6 +9121,38 @@ Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First Attempt at an Agent -]]></title>
+        <id>1736 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/first-attempt-agent"/>
+        <updated>2026-02-07T20:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/07/26.
+
+
+Last modified: 
+
+03/28/26
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+First, go to https://copilotstudio.microsoft.com/ and select an environment for where you will create this new agent.
+Next, change the agent model to GPT-5 Chat.
+Next, giving it the following instructions:
+you are a bot to help create, manage, update, and delete power platform environments. only create sandbox or development environments. to create a production environment, a user must promote a sandbox to a production. When not sure on your instructions based on what the API for the operation expects, ask clarifying questions to confirm you will deliver what the user wants. default to unitedstates for location if a location is required. environment creation for F&O should use a template. user must specify te…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Your Data Strategy Is Rotting]]></title>
         <id>https://365community.online/why-your-data-strategy-is-rotting</id>
         <link href="https://365community.online/why-your-data-strategy-is-rotting"/>
@@ -11040,6 +11116,102 @@ More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]>
         <summary type="html"><![CDATA[Hi All, During this weekend we did multiple customers upgrade to Business Central 27 Cloud customers. They did basic testing and expected upgrade to go smoother, but an unexpected issue was found after upgrade to Business Central 27. Impact: Business Central On-Prem Business Central SaaS In this article we will discuss, how to solve it […]]]></summary>
         <author>
             <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indexes: the “invisible” self-inflicted pain]]></title>
+        <id>1723 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/indexes-%E2%80%9Cinvisible%E2%80%9D-self-inflicted-pain"/>
+        <updated>2026-01-29T03:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Use Indexes, please.
+
+And not only use indexes, create them for columns that have meaning. Also, the plural of Index is Indices but no one uses that word including Brent Ozar.
+The Index Problem
+Not Creating Indexes
+I still see on a semi-regular occurrence CAR Reports that highlight some tables with no indexes. When creating a new table with a very limited dataset, its easy for this to get overlooked because looking up 1 or 3 records in a table isn't really going to be slow. It's near impossible for that operation to be slow so its possible that during dev and testing, there is no slowness because the dataset tested with is tiny. So we can, and should, use the CAR report to highlight when indexes are not created as well as a manual review of indexes and their usage as part of a pull request…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transaction scope that’s too big (locks, blocks, and 2 smoking deadlocks)]]></title>
+        <id>1721 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/transaction-scope-%E2%80%99s-too-big-locks-blocks-and-2-smoking-deadlocks"/>
+        <updated>2026-01-29T03:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Don't use transaction blocks that are too large
+
+It's easy to create large loops all in a transaction that do various things and sometimes this is just the result of scope creep or perhaps poor planning. But generally we want to keep transaction commit sizes small - if we have control over that which we may or may not but lets walk through an example.
+ttsBegin;
+while select forUpdate someTable
+{
+    // does selects, calls services, heavy logic...
+    // maybe even does infolog, sleeps, file IO, etc.
+    someTable.update(); //Don't Use DoUpdate
+}
+ttsCommit;
+There are a few ways to prevent this.
+First, keep your ttsBegin/ttsCommit as tight as possible - as little time between when opening and closing the transaction. This could mean simply moving in your code to be near the actual update(). …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Row-by-row updates instead of set-based updates]]></title>
+        <id>1720 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/row-row-updates-instead-set-based-updates"/>
+        <updated>2026-01-29T03:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Don't use row operations, use set operations - always.
+
+Using row operations is a near sure fire way to have degraded performance when something else better is available, and nearly 100% of the time, something better is available. I wrote about some, but not all, available patterns here.
+Here is an example of a row operation that shouldn't be used: 
+ttsBegin;
+while select forUpdate custTrans
+    where custTrans.TransDate < _cutoffDate
+{
+    custTrans.Blocked = CustVendorBlocked::All;
+    custTrans.doUpdate();
+}
+ttsCommit;
+The resolution for this, and a pattern that should be used nearly always is:
+ttsBegin;
+update_recordset custTrans
+    setting Blocked = CustVendorBlocked::All
+    where custTrans.TransDate < _cutoff;
+ttsCommit;
+we're doing the same amount of work between the two code examples but the update_recordSet execution will be signficantly faster. I've written in more detail about this and also here for lots of performance related topics, but the key take away is that set operators are almost always faster than row operators even with a set size of 1 - and as the set gets larger, set operators get more efficient. So there is no specific reason not to use set operators. X++ will handle all of the downgrades to row operators for us, if required, so we can code for the highest performance scenario and let the platform take care of the particulars. For inserts, you can use RecordInsertList / insert_recordset where appropriate. RecordInsertList is a personal favorite.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looks fine in X++]]></title>
+        <id>1719 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/looks-fine-x"/>
+        <updated>2026-01-29T03:37:52.000Z</updated>
+        <summary type="html"><![CDATA["This'll do" in x++
+
+When your code “Looks fine” but forces SQL scans - this can be a secret performance killer if you're not testing for scale or monitoring code execution with the trace parser. This is an easy trap to fall into because the code works for the 1 or 2 tests the developer may execute and the testing is likely with a limited data set further hiding the issue. But what can cause this?
+If you put functions around fields in where, SQL often can’t use an index. This can look like this:
+// Function on field (often forces scan)
+select firstOnly custTable
+    where strLwr(custTable.Name) == strLwr(_name);
+of this:
+// Leading wildcard LIKE (scan)
+select firstOnly custTable
+    where custTable.Name like '*'+_fragment+'*';
+There are several patterns we can use to prevent this but as a general rule, in code execution, we should have a primary key or some kind of identifier that is part of an index that can be used. If we need to identify or get a group of records, use an UI pattern of some kind with a query that allows users to define the parameters and gather specific records then we can process the set of records presented in the Query object. Other fixes include:
+Normalize the input, not the column
+Use prefix searches when possible
+Filter on indexed keys (AccountNum, RecId, surrogate keys), not free text
+If you need “contains” search at scale, use the right feature (e.g., search/indexing patterns) instead of brute-force LIKE
+The same applies to date filter - avoid wrapping date fields in conversions/functions in where. Filter directly on the column with ranges. Standardizing a date input to some other format, like UTCDateTime to DateTime, should be performed before the query - not as part of the query. For example, don't do this:
+CustTable custTable;
+while select custTable
+This is a much better option:
+CustTable custTable;
+while select custTable]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -110196,210 +110368,6 @@ Join Us At Dynamic Communities Summit - Booth 800]]></summary>
 The post Maximize efficiency with forecasting in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Gopal Yuvaraj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EDI/ERP Integration Adds Value to Dynamics 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=105377</id>
-        <link href="https://erpsoftwareblog.com/2024/03/edi-erp-integration-adds-value-to-dynamics-365-business-central/"/>
-        <updated>2024-03-29T14:34:25.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced digital world, Enterprise Resource Planning (ERP) and Electronic Data Interchange (EDI) integration are vital for business success in a globally connected environment. Quality While ERP unifies various business processes […]
-The post EDI/ERP Integration Adds Value to Dynamics 365 Business Central appeared first on ERP Software Blog.
-Manufacturing & Distribution Apps for Business Central Cloud
-Payroll NOW: Integrated Payroll for Dynamics 365 Business Central
-Tote Picking: What You Should Know]]></summary>
-        <author>
-            <name>Vantree Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benefits of Process Scheduling in GP and Shopify Integration]]></title>
-        <id>https://erpsoftwareblog.com/?p=105381</id>
-        <link href="https://erpsoftwareblog.com/2024/03/benefits-of-process-scheduling-in-gp-and-shopify-integration/"/>
-        <updated>2024-03-29T12:32:02.000Z</updated>
-        <summary type="html"><![CDATA[The benefits of Process Scheduling in GP and Shopify Integration are numerous. This article discusses how scheduling impacts the overall business processes. Some of the key benefits are as under: […]
-The post Benefits of Process Scheduling in GP and Shopify Integration appeared first on ERP Software Blog.
-AP & AR Automation: Two Sides of the Same Coin
-What A Prospect Learned When They Didn’t Choose Microsoft Dynamics GP & SalesPad
-The Evolution of Scheduling for Process Manufacturers]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering the Art of Client Engagement with maps integrated within Dynamics 365 CRM]]></title>
-        <id>https://365community.online/mastering-the-art-of-client-engagement-with-maps-integrated-within-dynamics-365-crm</id>
-        <link href="https://365community.online/mastering-the-art-of-client-engagement-with-maps-integrated-within-dynamics-365-crm"/>
-        <updated>2024-03-29T10:40:49.000Z</updated>
-        <summary type="html"><![CDATA[The post Mastering the Art of Client Engagement with maps integrated within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eliminate Dynamics 365 CRM Duplicates with Master Record Selection and Fuzzy Merging Logic to boost sales productivity!]]></title>
-        <id>https://365community.online/eliminate-dynamics-365-crm-duplicates-with-master-record-selection-and-fuzzy-merging-logic-to-boost-sales-productivity</id>
-        <link href="https://365community.online/eliminate-dynamics-365-crm-duplicates-with-master-record-selection-and-fuzzy-merging-logic-to-boost-sales-productivity"/>
-        <updated>2024-03-29T09:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Accurate data is the lifeblood of any successful CRM system and sales process. But let’s face it, duplicate records are a persistent problem. They create confusion, clutter your database, and […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powering Productivity: The Definitive Guide to Integrating Microsoft Office 365 and Microsoft Dynamics 365]]></title>
-        <id>https://erpsoftwareblog.com/?p=105399</id>
-        <link href="https://erpsoftwareblog.com/2024/03/powering-productivity-the-definitive-guide-to-integrating-microsoft-office-365-and-microsoft-dynamics-365/"/>
-        <updated>2024-03-29T08:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Integrating technology solutions has become essential for businesses to optimize their operations and enhance productivity. One such powerful integration is between Microsoft 365 and Microsoft Dynamics 365 apps. By combining […]
-The post Powering Productivity: The Definitive Guide to Integrating Microsoft Office 365 and Microsoft Dynamics 365 appeared first on ERP Software Blog.
-Upgrade your business with Business Central 2022 Release Wave 1
-Streamlining EDI with Dynamics 365 Business Central and Insight Works Apps
-WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
-        <author>
-            <name>DynaTech Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vendor Invoice Automation: The Microsoft Dynamics 365 Edge]]></title>
-        <id>https://erpsoftwareblog.com/?p=105397</id>
-        <link href="https://erpsoftwareblog.com/2024/03/vendor-invoice-automation-the-microsoft-dynamics-365-edge/"/>
-        <updated>2024-03-29T06:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Global organizations depend on many vendors and partners to efficiently run their businesses and achieve long-term goals. But for these partnerships to be successful, it is important to streamline vendor […]
-The post Vendor Invoice Automation: The Microsoft Dynamics 365 Edge appeared first on ERP Software Blog.
-Dynamics 365 for Finance and Operations vs. Dynamics NAV
-How Dynamics 365 Makes the Job of an Executive Easier
-Microsoft Dynamics 365 Overview]]></summary>
-        <author>
-            <name>Synoptek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Default Reports in Microsoft Dynamics 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=105386</id>
-        <link href="https://erpsoftwareblog.com/2024/03/how-to-set-default-reports-in-microsoft-dynamics-365-business-central/"/>
-        <updated>2024-03-28T23:12:56.000Z</updated>
-        <summary type="html"><![CDATA[You can set up default forms or reports in Microsoft Dynamics 365 Business Central. Search for Report Selection in Business Central. You’ll see the various functional areas where you can […]
-The post How to Set Default Reports in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
-How to Customize Report Layouts in Business Central
-OData Reporting in Microsoft Dynamics 365 Business Central
-Recurring Reports in Microsoft Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Jason Ochipa, Tensoft Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling the Azure Stack HCI Series – YouTube]]></title>
-        <id>https://365community.online/unveiling-the-azure-stack-hci-series-youtube</id>
-        <link href="https://365community.online/unveiling-the-azure-stack-hci-series-youtube"/>
-        <updated>2024-03-28T21:15:02.000Z</updated>
-        <summary type="html"><![CDATA[In this new series, we’ll be walking you through the features and capabilities of the highly innovative Azure Stack HCI platform. Get ready to learn all about the benefits of […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages Site Make over : Bootstrap 5.2 & CoPilot: Rapid Site Enhancement – Lesson 2 – YouTube]]></title>
-        <id>https://365community.online/power-pages-site-make-over-bootstrap-5-2-copilot-rapid-site-enhancement-lesson-2-youtube</id>
-        <link href="https://365community.online/power-pages-site-make-over-bootstrap-5-2-copilot-rapid-site-enhancement-lesson-2-youtube"/>
-        <updated>2024-03-28T19:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Power Pages Site Make over : Bootstrap 5.2 & CoPilot: Rapid Site Enhancement – (Francesco/Franco Musso) Instagram zero to hero academy – https://www.instagram.com/fromzerotoh… Instagram thevictordantas – https://www.instagram.com/thevictorda… twitter thevictordantas – […]]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Software Transitions with a Business Impact Assessment]]></title>
-        <id>https://erpsoftwareblog.com/?p=105342</id>
-        <link href="https://erpsoftwareblog.com/2024/03/business-impact-assessment/"/>
-        <updated>2024-03-28T18:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Ever feel like you're on a quest to find the ultimate solution for a software transition? Well, we’ve got it: the Business Impact Assessment (BIA). The strategic tool is designed […]
-The post Navigating Software Transitions with a Business Impact Assessment appeared first on ERP Software Blog.
-Leasing Company Realizes a 93% Increase in Efficiency with Recurring Contract Billing, a Third Party Add On for Microsoft Dynamics GP
-Reporting Fail?  Keys to Avoiding Weak Executive Dashboards
-BPM Partners Survey Shows a New Era of Competition in Corporate Planning as deFacto Joins Elite Group]]></summary>
-        <author>
-            <name>360 Visibility</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Cost for Manufacturing Companies (Part 3/3)]]></title>
-        <id>https://erpsoftwareblog.com/?p=105357</id>
-        <link href="https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-3/"/>
-        <updated>2024-03-28T18:44:37.000Z</updated>
-        <summary type="html"><![CDATA[The cost of Dynamics 365 for manufacturing can seem elusive. You need to pay a one-time implementation fee, monthly support to your consultants or support partner, license fees, add-ons etc. […]
-The post Dynamics 365 Cost for Manufacturing Companies (Part 3/3) appeared first on ERP Software Blog.
-6 Myths About Digital Solutions
-Order Fulfillment Worksheet v1.3: Enhancing Efficiency in Warehouse Operations
-European Webinar: Navigating Seamless Shipping with Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Sabre Limited</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Cost for Manufacturing Companies (Part 2/3)]]></title>
-        <id>https://erpsoftwareblog.com/?p=105356</id>
-        <link href="https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-2/"/>
-        <updated>2024-03-28T18:44:35.000Z</updated>
-        <summary type="html"><![CDATA[If you haven’t already read Part 1 of uncovering the cost of Dynamics 365 Business Central for manufacturing I suggest you do that. In the first part we figured out […]
-The post Dynamics 365 Cost for Manufacturing Companies (Part 2/3) appeared first on ERP Software Blog.
-6 Myths About Digital Solutions
-Now Available Globally: Order Ship Express for Business Central
-Maximizing Efficiency: The Impact of Cloud-Based ERP on Manufacturing Operations]]></summary>
-        <author>
-            <name>Sabre Limited</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Cost for Manufacturing Companies (Part 1/3)]]></title>
-        <id>https://erpsoftwareblog.com/?p=105353</id>
-        <link href="https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-1/"/>
-        <updated>2024-03-28T18:44:17.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a manufacturer exploring the cost of Dynamics 365 Business Central, it’s important to understand the full spectrum of costs involved. You will have a one time implementation fee […]
-The post Dynamics 365 Cost for Manufacturing Companies (Part 1/3) appeared first on ERP Software Blog.
-Microsoft Dynamics Business Central Manufacturer Smooths Out Rocky Processes
-3 Ways Mobile Field Service Software Helps Organizations Achieve Operational Excellence
-What industry newbies can learn from “The State of Dynamics 365 Business Central and Manufacturing Report”]]></summary>
-        <author>
-            <name>Sabre Limited</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed – Web resource method does not exist: OnLoad error in Work Order, Work Order Service task, and other forms in Dynamics 365 Field Service]]></title>
-        <id>https://365community.online/fixed-web-resource-method-does-not-exist-onload-error-in-work-order-work-order-service-task-and-other-forms-in-dynamics-365-field-service</id>
-        <link href="https://365community.online/fixed-web-resource-method-does-not-exist-onload-error-in-work-order-work-order-service-task-and-other-forms-in-dynamics-365-field-service"/>
-        <updated>2024-03-28T17:09:20.000Z</updated>
-        <summary type="html"><![CDATA[Recently we started getting the below error on the form load of the Work Order Service Task record, that also only in specific environments, and there was no changes made […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Directions NA 2024 Sponsors]]></title>
-        <id>https://erpsoftwareblog.com/?p=105233</id>
-        <link href="https://erpsoftwareblog.com/2024/03/directions-na-2024-sponsors/"/>
-        <updated>2024-03-28T16:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Who are you looking forward to meeting at Directions NA? In addition to the 145 sessions delivering technical insights, a main highlight of Directions NA is the chance to talk […]
-The post Directions NA 2024 Sponsors appeared first on ERP Software Blog.
-Best ERP Software, or Beyond ERP?
-25 ERP Software Blog Members Honored as 2013 VAR Stars
-Create SmartList from Favorites Using SmartList Designer]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tax law changes you need to know for 2024]]></title>
-        <id>https://erpsoftwareblog.com/?p=105319</id>
-        <link href="https://erpsoftwareblog.com/2024/03/tax-law-changes-you-need-to-know-for-2024/"/>
-        <updated>2024-03-28T14:40:19.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re a small brick-and-mortar retailer, a midsize manufacturer, or a global enterprise company, you’ll probably be affected by a tax law change in 2024 because tax changes happen to […]
-The post Tax law changes you need to know for 2024 appeared first on ERP Software Blog.
-How QuickBooks Users Can Achieve Success with Microsoft Dynamics GP?
-GPS has exciting new possibilities to offer to the rental industry
-Can your business spend less on sales tax compliance?]]></summary>
-        <author>
-            <name>Avalara</name>
         </author>
     </entry>
     <entry>
