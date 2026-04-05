@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-04-04T02:31:18.187Z</updated>
+    <updated>2026-04-05T02:49:01.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Published 500 Microsoft 365 Episodes – And Why Consistency…]]></title>
+        <id>https://365community.online/how-i-published-500-microsoft-365-episodes-and-why-consistency</id>
+        <link href="https://365community.online/how-i-published-500-microsoft-365-episodes-and-why-consistency"/>
+        <updated>2026-04-05T01:08:02.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:05,300Hello, my name is Mirko Peters and I translate how technology actually shapes business reality. 200:00:05,300 –> 00:00:09,320After hitting the 500 episode mark, I need to tell you something that sounds completely wrong 300:00:09,320 –> 00:00:10,320at first. 400:00:10,320 –> 00:00:11,760Consistency is not the reason this worked. 500:00:11,760 –> 00:00:14,680In fact, the original reason […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Bad Microsoft 365 Tenants with Practical Governance S…]]></title>
+        <id>https://365community.online/how-to-fix-bad-microsoft-365-tenants-with-practical-governance-s</id>
+        <link href="https://365community.online/how-to-fix-bad-microsoft-365-tenants-with-practical-governance-s"/>
+        <updated>2026-04-04T21:24:49.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,960I’m not the most technical person in the room. 200:00:01,960 –> 00:00:03,280I don’t write production code. 300:00:03,280 –> 00:00:04,840I don’t tune infrastructure. 400:00:04,840 –> 00:00:07,640But I spend time inside large Microsoft environments, 500:00:07,640 –> 00:00:10,440the kind where thousands of people collaborate daily, 600:00:10,440 –> 00:00:12,600where financial transactions flow through teams, 700:00:12,600 –> 00:00:14,680where […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Close the 365 Security Gap]]></title>
+        <id>https://365community.online/close-the-365-security-gap</id>
+        <link href="https://365community.online/close-the-365-security-gap"/>
+        <updated>2026-04-04T17:43:43.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:05,480Hello, my name is Mirko Peters and I translate how technology actually shapes business reality. 200:00:05,480 –> 00:00:10,320Most Microsoft 365 environments look perfectly healthy from the outside because teams is active, 300:00:10,320 –> 00:00:15,200SharePoint usage is climbing and people are collaborating without any red lights or outages. 400:00:15,200 –> 00:00:20,960Because everything seems to […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Are Transforming Leadership and Governance in Microsoft 365]]></title>
+        <id>https://365community.online/how-we-are-transforming-leadership-and-governance-in-microsoft-365</id>
+        <link href="https://365community.online/how-we-are-transforming-leadership-and-governance-in-microsoft-365"/>
+        <updated>2026-04-04T13:58:34.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:05,600Hello, my name is Mirko Peters and I translate how technology actually shapes business reality. 200:00:05,600 –> 00:00:10,320Control feels safe, especially when you are managing a complex ecosystem like Microsoft 300:00:10,320 –> 00:00:11,320365. 400:00:11,320 –> 00:00:15,600A leader reviews the latest rollout, approves a specific exception, checks a co-pilot use 500:00:15,600 –> 00:00:18,480case and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Copilot Studio to Microsoft Foundry – YouTube]]></title>
+        <id>https://365community.online/how-to-connect-copilot-studio-to-microsoft-foundry-youtube</id>
+        <link href="https://365community.online/how-to-connect-copilot-studio-to-microsoft-foundry-youtube"/>
+        <updated>2026-04-04T13:41:46.000Z</updated>
+        <summary type="html"><![CDATA[How to Connect Copilot Studio to Microsoft Foundry]]></summary>
+        <author>
+            <name>Rafsan Huseynov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to preview PDF files in Power Pages using the Nutrient SDK: Part 2 – Saving annotations to Dataverse and loading them back]]></title>
+        <id>https://365community.online/how-to-preview-pdf-files-in-power-pages-using-the-nutrient-sdk-part-2-saving-annotations-to-dataverse-and-loading-them-back</id>
+        <link href="https://365community.online/how-to-preview-pdf-files-in-power-pages-using-the-nutrient-sdk-part-2-saving-annotations-to-dataverse-and-loading-them-back"/>
+        <updated>2026-04-04T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[On my previous post, I explained how to view contents from a PDF file using Nutrient Web SDK, this post is a continuation of that. Nutrient has a very nice feature to handle the annotations, it’s own proprietary format called “Instant JSON”. Essentially, when we want to save annotations on a PDF file, we can […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compare AP Automation Tools for Dynamics 365 Finance in the 2026 MSDW Showcase]]></title>
         <id>https://erpsoftwareblog.com/?p=145706</id>
@@ -52,6 +112,16 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MVP Summit 2026 – Back in Redmond]]></title>
+        <id>https://365community.online/mvp-summit-2026-back-in-redmond</id>
+        <link href="https://365community.online/mvp-summit-2026-back-in-redmond"/>
+        <updated>2026-04-03T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Finally, the jetlag has disappeared and after some preparations for the upcoming renovation at home, I have now found time to write a piece about the past MVP Summit. Last week I attended the Microsoft MVP Summit 2026 in Redmond, Seattle. An inspiring week full of technical discussions, reconnecting with the community, and sharing feedback […]]]></summary>
+        <author>
+            <name>Jeroen Burgerhout</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Reporting for Dynamics 365 BC Helps a Children's Nonprofit]]></title>
         <id>https://erpsoftwareblog.com/?p=145480</id>
         <link href="https://erpsoftwareblog.com/2026/04/how-reporting-for-dynamics-365-bc-helps-a-childrens-nonprofit/"/>
@@ -82,6 +152,16 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Power Apps Map Control Explained 🚀 | Show Current Location with Latitude & Longitude – YouTube]]></title>
+        <id>https://365community.online/power-apps-map-control-explained-%f0%9f%9a%80-show-current-location-with-latitude-longitude-youtube</id>
+        <link href="https://365community.online/power-apps-map-control-explained-%f0%9f%9a%80-show-current-location-with-latitude-longitude-youtube"/>
+        <updated>2026-04-03T15:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Confused about how the Map control works in Power Apps? 🚀 In this beginner-friendly Power Apps tutorial, learn how to use the Map control in a Canvas App to display locations using Latitude and Longitude coordinates. In this Power Apps Canvas App tutorial, you’ll learn: ✔ What is Map Control in Power Apps ✔ How […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dynamics 365 F&SCM Implementation: Scrum or Waterfall?]]></title>
         <id>https://erpsoftwareblog.com/?p=145512</id>
         <link href="https://erpsoftwareblog.com/2026/04/dynamics-365-fscm-implementation-scrum-or-waterfall/"/>
@@ -94,6 +174,26 @@ Beyond Waterfall: A New Take on ERP Deployment
 Implementation Projects Short on Resources Use Lean, Agile, and Rapid Processes]]></summary>
         <author>
             <name>Pharos Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Frontier Firm Has an HR Problem]]></title>
+        <id>https://365community.online/the-frontier-firm-has-an-hr-problem</id>
+        <link href="https://365community.online/the-frontier-firm-has-an-hr-problem"/>
+        <updated>2026-04-03T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s WorkLab is building a compelling case for the AI-first organisation. But the research has a gap — and it lives squarely inside the HR function. Microsoft’s WorkLab has been making a compelling case for the Frontier Firm — the AI-first organisation that moves faster, decides smarter, and operates with agents woven into the fabric […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Agent Designer if it is missing]]></title>
+        <id>https://365community.online/install-agent-designer-if-it-is-missing</id>
+        <link href="https://365community.online/install-agent-designer-if-it-is-missing"/>
+        <updated>2026-04-03T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a quick tip about the Agent Designer I wrote earlier about. The Agent Designer is part of the 27.4 monthly update. Existing sandboxes upgraded to v27.4 or higher will automatically receive the Agent Designer. Production environments will not get the Agent Designer. But what if you want to test the Agent Designer in […]]]></summary>
+        <author>
+            <name>ajkauffmann</name>
         </author>
     </entry>
     <entry>
@@ -352,6 +452,17 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meet the Contact Center Champions Driving the Future of Customer Experience]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/01/dynamics-365-contact-center-champions/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/01/dynamics-365-contact-center-champions/"/>
+        <updated>2026-04-01T19:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Meet the practitioners shaping how Dynamics 365 Contact Center is adopted, scaled, and improved in real‑world environments.
+The post Meet the Contact Center Champions Driving the Future of Customer Experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Caroline Umukobwa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Most Organizations Are Not Structurally …]]></title>
         <id>https://365community.online/why-most-organizations-are-not-structurally</id>
         <link href="https://365community.online/why-most-organizations-are-not-structurally"/>
@@ -359,6 +470,17 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         <summary type="html"><![CDATA[100:00:00,000 –> 00:00:05,120Hello, my name is Mirko Peters and I translate how technology actually shapes business reality. 200:00:05,120 –> 00:00:09,120AI is not just another tool in the shed, it is a system dependency test. 300:00:09,120 –> 00:00:11,920Most companies today are not actually blocked by model quality, 400:00:11,920 –> 00:00:14,720the art of prompting or even the […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​Building trustworthy AI: A practical framework for adaptive governance]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=133678</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/04/01/building-trustworthy-ai-a-practical-framework-for-adaptive-governance/"/>
+        <updated>2026-04-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If governance is just a list of things people can’t do, that’s not governance—it's a backlog of workarounds waiting to happen.
+The post ​Building trustworthy AI: A practical framework for adaptive governance appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Ryan Jones</name>
         </author>
     </entry>
     <entry>
@@ -552,6 +674,17 @@ Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing Service Agent in Microsoft 365 Copilot]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/31/service-agent-microsoft-365-copilot/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/31/service-agent-microsoft-365-copilot/"/>
+        <updated>2026-03-31T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Service Agent brings Dynamics 365 Customer Service context, insights, and actions directly into Microsoft 365 Copilot.
+The post Introducing Service Agent in Microsoft 365 Copilot appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rushil Vora and Saurabh Gupta</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Growing Role of Payments Inside ERP Systems]]></title>
         <id>https://erpsoftwareblog.com/?p=145523</id>
         <link href="https://erpsoftwareblog.com/2026/03/the-growing-role-of-payments-inside-erp-systems/"/>
@@ -599,6 +732,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         <summary type="html"><![CDATA[Here’s how you can add another person to enter time on your behalf. The post Time Entry Delegation in Project Operations | [Preview Feature] appeared first on D365 Demystified. Original Post https://d365demystified.com/2026/03/31/time-entry-delegation-in-project-operations-preview-feature/]]></summary>
         <author>
             <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable accelerated growth with confidence: A Forrester TEI study projects more than 200% ROI over three years and six-month payback using Dynamics 365 Business Central]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/31/enable-accelerated-growth-with-confidence-a-forrester-tei-study-projects-more-than-200-roi-over-three-years-and-six-month-payback-using-dynamics-365-business-central/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/31/enable-accelerated-growth-with-confidence-a-forrester-tei-study-projects-more-than-200-roi-over-three-years-and-six-month-payback-using-dynamics-365-business-central/"/>
+        <updated>2026-03-31T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft commissioned Forrester Consulting to evaluate the potential return on investment organizations may realize by deploying Business Central.
+The post Enable accelerated growth with confidence: A Forrester TEI study projects more than 200% ROI over three years and six-month payback using Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Morton</name>
         </author>
     </entry>
     <entry>
@@ -110516,376 +110660,6 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 ERP Implementation: How to Control the Cost]]></summary>
         <author>
             <name>Dexpro Dynamics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Pharma Operations: Unveiling the Power of Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=105571</id>
-        <link href="https://erpsoftwareblog.com/2024/04/optimizing-pharma-operations-unveiling-the-power-of-business-central/"/>
-        <updated>2024-04-05T13:00:19.000Z</updated>
-        <summary type="html"><![CDATA[In today’s competitive landscape, the pharmaceutical industry thrives on efficiency and innovation. But with complex supply chains, stringent regulations, and ever-evolving research, streamlining pharma operations can feel like an uphill battle. This […]
-The post Optimizing Pharma Operations: Unveiling the Power of Business Central appeared first on ERP Software Blog.
-Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central
-Embrace Seamless Transition: Cloud Migration with Business Central
-Which Business Central Deployment Option you should choose?]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tackle Product Information through ERP-eCommerce Integration]]></title>
-        <id>https://erpsoftwareblog.com/?p=105619</id>
-        <link href="https://erpsoftwareblog.com/2024/04/tackle-product-information-through-erp-ecommerce-integration/"/>
-        <updated>2024-04-05T12:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Tackle Product Information through ERP-eCommerce Integration, this strategic move of a business streamlines operations and enhances customer experience. Handling product information through ERP-eCommerce integration involves various aspects, this article covers […]
-The post Tackle Product Information through ERP-eCommerce Integration appeared first on ERP Software Blog.
-Integrate Dynamics GP with leading Storefront Platforms
-Setting up the Integration Solution: Dynamics GP & Shopify
-Recording and Reconciling Shopify Payments in Dynamics GP for accurate Financial Reporting]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central 24 Wave1 – Copilot Chat & Analyze List]]></title>
-        <id>https://365community.online/business-central-24-wave1-copilot-chat-analyze-list</id>
-        <link href="https://365community.online/business-central-24-wave1-copilot-chat-analyze-list"/>
-        <updated>2024-04-05T12:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Business Central 24 Wave1 – Copilot Chat & Analyze List Business Central 2024 wave 1 has been released, the new features as always are numerous, I highlight 2 features relating […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ciao!! – YouTube]]></title>
-        <id>https://365community.online/ciao-youtube</id>
-        <link href="https://365community.online/ciao-youtube"/>
-        <updated>2024-04-05T12:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti, sono Angeliki Patsiavou e un Business Applications MVP qui in Inghilterra. Ma avete sentito do Scottish Summit? source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using ‘ready-to-use’ AI functions in the Canvas App]]></title>
-        <id>https://365community.online/using-ready-to-use-ai-functions-in-the-canvas-app</id>
-        <link href="https://365community.online/using-ready-to-use-ai-functions-in-the-canvas-app"/>
-        <updated>2024-04-05T10:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Recently, we were working on a customer’s requirement where they used a custom entity to store the feedback regarding their products using an integration. The customer used a canvas app […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cris Fernandez – Spanish – YouTube]]></title>
-        <id>https://365community.online/cris-fernandez-spanish-youtube</id>
-        <link href="https://365community.online/cris-fernandez-spanish-youtube"/>
-        <updated>2024-04-05T10:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Find out what Cris had to say about Scottish Summit 2024 source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een uitnodiging van Rex – YouTube]]></title>
-        <id>https://365community.online/een-uitnodiging-van-rex-youtube</id>
-        <link href="https://365community.online/een-uitnodiging-van-rex-youtube"/>
-        <updated>2024-04-05T10:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Ik zal persoonlijk terug zijn op Scottish Summit 2024. Zie ik je daar? source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sari is going to Scottish Summit 2024 – YouTube]]></title>
-        <id>https://365community.online/sari-is-going-to-scottish-summit-2024-youtube</id>
-        <link href="https://365community.online/sari-is-going-to-scottish-summit-2024-youtube"/>
-        <updated>2024-04-05T10:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Sari tulee olemaan Scottish Summit Aberdeen? source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Areti Iles – Join me at Scottish Summit – YouTube]]></title>
-        <id>https://365community.online/areti-iles-join-me-at-scottish-summit-youtube</id>
-        <link href="https://365community.online/areti-iles-join-me-at-scottish-summit-youtube"/>
-        <updated>2024-04-05T10:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Ελάτε μαζί μου στο Scottish Summit 2024 στο Αμπερντίν source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Ways to Navigate the Maze: Choose the Right Appointment Scheduling System for Your Business]]></title>
-        <id>https://365community.online/6-ways-to-navigate-the-maze-choose-the-right-appointment-scheduling-system-for-your-business</id>
-        <link href="https://365community.online/6-ways-to-navigate-the-maze-choose-the-right-appointment-scheduling-system-for-your-business"/>
-        <updated>2024-04-05T07:16:31.000Z</updated>
-        <summary type="html"><![CDATA[The post 6 Ways to Navigate the Maze: Choose the Right Appointment Scheduling System for Your Business appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #136 – 5th April 2024 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-136-5th-april-2024-youtube</id>
-        <link href="https://365community.online/weekly-update-136-5th-april-2024-youtube"/>
-        <updated>2024-04-05T06:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #136 – 5th April 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extending Power Pages using Power Automate – Lesson 2 – YouTube]]></title>
-        <id>https://365community.online/extending-power-pages-using-power-automate-lesson-2-youtube</id>
-        <link href="https://365community.online/extending-power-pages-using-power-automate-lesson-2-youtube"/>
-        <updated>2024-04-05T04:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Extending Power Pages using Power Automate – (Nick Doelman) Instagram zero to hero academy – https://www.instagram.com/fromzerotoh… Instagram thevictordantas – https://www.instagram.com/thevictorda… twitter thevictordantas – https://x.com/thevictordantas?s=20 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrate Copilot Studio with SoulMachines AI-powered digital people]]></title>
-        <id>http://dynamicsax-fico.com/?p=6025</id>
-        <link href="https://dynamicsax-fico.com/2024/04/05/integrate-copilot-studio-with-soulmachines-ai-powered-digital-people/"/>
-        <updated>2024-04-05T03:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Microsoft Dynamics 365 Reinforces Your Supply Chain]]></title>
-        <id>https://erpsoftwareblog.com/?p=105615</id>
-        <link href="https://erpsoftwareblog.com/2024/04/how-microsoft-dynamics-365-reinforces-your-supply-chain/"/>
-        <updated>2024-04-04T23:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Have you noticed the shifting tides of the global trade landscape? These changes bring forth new business challenges across industries. Recent incidents like the attacks in the Red Sea and […]
-The post How Microsoft Dynamics 365 Reinforces Your Supply Chain appeared first on ERP Software Blog.
-Upgrade to Dynamics 365: What Version is Best for My Business?
-Transform the Manufacturing Industry with Microsoft Dynamics 365
-Data Lakes Challenges: How to Overcome Them?]]></summary>
-        <author>
-            <name>Netstock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building digital trust in Microsoft Copilot for Dynamics 365 and Power Platform]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/04/04/building-digital-trust-in-microsoft-copilot-for-dynamics-365-and-power-platform/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/04/04/building-digital-trust-in-microsoft-copilot-for-dynamics-365-and-power-platform/"/>
-        <updated>2024-04-04T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At Microsoft, trust is the foundation of everything we do. As more organizations adopt Copilot in Dynamics 365 and Power Platform, we are committed to helping everyone use AI responsibly.
-The post Building digital trust in Microsoft Copilot for Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Donald Kossman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Need To Know About Azure Stack!  Part 3 – YouTube]]></title>
-        <id>https://365community.online/everything-you-need-to-know-about-azure-stack-part-3-youtube</id>
-        <link href="https://365community.online/everything-you-need-to-know-about-azure-stack-part-3-youtube"/>
-        <updated>2024-04-04T20:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to part 3 of our series on unlocking the secrets of Azure Stack! In this video, we’ll introduce you to the world of Azure Stack and what it can […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central 2024 Wave 1 release: important server changes to remember.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-2024-wave-1-release-important-server-changes-to-remember</id>
-        <link href="https://365community.online/dynamics-365-business-central-2024-wave-1-release-important-server-changes-to-remember"/>
-        <updated>2024-04-04T19:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics 365 Business Central 2024 Wave 1 release (version 24) is out now and you should be aware of some important hidden changes on the server runtime. The first important […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All About Business Central Excel Reports: Real-Time vs. Near Real-Time (NRT), and Batch Processing]]></title>
-        <id>https://erpsoftwareblog.com/?p=105597</id>
-        <link href="https://erpsoftwareblog.com/2024/04/business-central-excel-reports/"/>
-        <updated>2024-04-04T19:16:29.000Z</updated>
-        <summary type="html"><![CDATA[In modern business, the essence of making well-informed decisions lies in the availability of accurate and timely data. This underscores the significance of reporting as a core element in the […]
-The post All About Business Central Excel Reports: Real-Time vs. Near Real-Time (NRT), and Batch Processing appeared first on ERP Software Blog.
-On-Demand Webinar: Maximize Power BI's Reporting Options
-Webinar-The Future of Reporting and Analytics for Microsoft Business Central
-6 Ways to Use AI in Your Business]]></summary>
-        <author>
-            <name>Cosmos Data Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insight Works Sponsors DynamicsCon LIVE 2024: Pioneering Innovation in ERP Technology]]></title>
-        <id>https://erpsoftwareblog.com/?p=105584</id>
-        <link href="https://erpsoftwareblog.com/2024/04/insight-works-sponsors-dynamicscon-live-2024-pioneering-innovation-in-erp-technology/"/>
-        <updated>2024-04-04T17:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Insight Works showcasing end-to-end solutions for manufacturing and distribution at DynamicsCon LIVE in Denver, Colorado. 
-The post Insight Works Sponsors DynamicsCon LIVE 2024: Pioneering Innovation in ERP Technology appeared first on ERP Software Blog.
-4 Things to Consider when Evaluating Cloud ERP
-How to Improve Your Enterprise Software with Easy Workflows and Integrations
-4 Advantages of ERP Software for Manufacturing]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing timeline highlights powered by generative AI]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/04/04/introducing-timeline-highlights-powered-by-generative-ai/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/04/04/introducing-timeline-highlights-powered-by-generative-ai/"/>
-        <updated>2024-04-04T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Streamlined timeline highlights revolutionize the way users interact with essential activities such as emails, notes, appointments, tasks, phone calls, and conversations.
-The post Introducing timeline highlights powered by generative AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Madhuri Somara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Chat Bot for Your Website in Just a Few Clicks]]></title>
-        <id>https://erpsoftwareblog.com/?p=105575</id>
-        <link href="https://erpsoftwareblog.com/2024/04/how-to-build-a-chat-bot-for-your-website-in-just-a-few-clicks/"/>
-        <updated>2024-04-04T16:32:21.000Z</updated>
-        <summary type="html"><![CDATA[How to build an AI powered chat bot for your website in just a few clicks using Microsoft Power Virtual Agents. Check out this tutorial from Fidesic's product manager Kevin […]
-The post How to Build a Chat Bot for Your Website in Just a Few Clicks appeared first on ERP Software Blog.
-Two Powerful Ways We Used Power Automate in Dynamics 365 BC Projects
-Why Not Use Dynamics GP for Another 10 Years or So?
-4 Ways Mekorma's Remote Payment Services and Dynamics 365 Prevents Accounts Payable Fraud]]></summary>
-        <author>
-            <name>Fidesic AP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28 ERP/CRM Software Blog Members to Visit in the Directions NA Expo]]></title>
-        <id>https://erpsoftwareblog.com/?p=105235</id>
-        <link href="https://erpsoftwareblog.com/2024/04/28-erp-crm-software-blog-members-to-visit-in-the-directions-na-expo/"/>
-        <updated>2024-04-04T16:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Directions NA is a premier event—by partners, for partners. Directions NA (North America), as always, will deliver four days of deep technical insights into the Dynamics ecosystem and inform the community of […]
-The post 28 ERP/CRM Software Blog Members to Visit in the Directions NA Expo appeared first on ERP Software Blog.
-5 Ways Microsoft Dynamics Can Boost Your Company’s Financial Health
-The Importance of Test Environments for Optimizing ERP Solutions
-What fuels profitable field service?]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Register for sessions on events in CI-Journeys]]></title>
-        <id>https://365community.online/register-for-sessions-on-events-in-ci-journeys</id>
-        <link href="https://365community.online/register-for-sessions-on-events-in-ci-journeys"/>
-        <updated>2024-04-04T12:21:12.000Z</updated>
-        <summary type="html"><![CDATA[In the January release for Dynamics 365 Customer Insights – Journeys, we got the “Boost participation and simplify planning with session-based event registrations” feature. This can be a handy tool […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Analytics Training | Adobe Analytics Course | Adobe Analytics Workspace Tutorial | MindMajix – YouTube]]></title>
-        <id>https://365community.online/adobe-analytics-training-adobe-analytics-course-adobe-analytics-workspace-tutorial-mindmajix-youtube</id>
-        <link href="https://365community.online/adobe-analytics-training-adobe-analytics-course-adobe-analytics-workspace-tutorial-mindmajix-youtube"/>
-        <updated>2024-04-04T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Analytics Training | Adobe Analytics Course | Adobe Analytics Workspace Tutorial | MindMajix This MindMajix’s YouTube video on Adobe Analytics training helps you learn and master the predictive intelligence […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to add and use Copilot answer control (Preview) in Microsoft Power Apps?]]></title>
-        <id>https://365community.online/how-to-add-and-use-copilot-answer-control-preview-in-microsoft-power-apps</id>
-        <link href="https://365community.online/how-to-add-and-use-copilot-answer-control-preview-in-microsoft-power-apps"/>
-        <updated>2024-04-04T11:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released the public preview of the control “Copilot answer control“, a new way to add generative AI to our applications. Using this control, we can easily get the […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German Red Cross enhances Emergency Response with maps within Dynamics 365 CRM: A Life-Saving Technology!]]></title>
-        <id>https://365community.online/german-red-cross-enhances-emergency-response-with-maps-within-dynamics-365-crm-a-life-saving-technology</id>
-        <link href="https://365community.online/german-red-cross-enhances-emergency-response-with-maps-within-dynamics-365-crm-a-life-saving-technology"/>
-        <updated>2024-04-04T10:59:29.000Z</updated>
-        <summary type="html"><![CDATA[The post German Red Cross enhances Emergency Response with maps within Dynamics 365 CRM: A Life-Saving Technology! appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renewing the Apple Push Notification Service certificate]]></title>
-        <id>https://365community.online/renewing-the-apple-push-notification-service-certificate</id>
-        <link href="https://365community.online/renewing-the-apple-push-notification-service-certificate"/>
-        <updated>2024-04-04T08:37:48.000Z</updated>
-        <summary type="html"><![CDATA[👋 Today a blog post about renewing the Apple Push Notification Service certificate in Microsoft Intune. I have had an Apple Business Manager account for a long time and have […]]]></summary>
-        <author>
-            <name>Jeroen Burgerhout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omnichannel for Customer Service – Conditional Agent Scripts]]></title>
-        <id>https://365community.online/omnichannel-for-customer-service-conditional-agent-scripts</id>
-        <link href="https://365community.online/omnichannel-for-customer-service-conditional-agent-scripts"/>
-        <updated>2024-04-04T08:31:19.000Z</updated>
-        <summary type="html"><![CDATA[When using Microsoft’s Omnichannel for Customer Service we can use agent scripts to offer prompts to agents or trigger productivity macros. In this post I will explain how (and why) […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPPC 2-day conference ticket winner! – YouTube]]></title>
-        <id>https://365community.online/eppc-2-day-conference-ticket-winner-youtube</id>
-        <link href="https://365community.online/eppc-2-day-conference-ticket-winner-youtube"/>
-        <updated>2024-04-03T20:58:35.000Z</updated>
-        <summary type="html"><![CDATA[EPPC 2-day conference ticket winner! Join me live where I’ll build a Power Automate Desktop Flow to pick the lucky winner of the European Power Platform Conference 2-day ticket! #eppc24 […]]]></summary>
-        <author>
-            <name>Scott Durow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Microsoft Lists form Experience]]></title>
-        <id>https://365community.online/the-new-microsoft-lists-form-experience</id>
-        <link href="https://365community.online/the-new-microsoft-lists-form-experience"/>
-        <updated>2024-04-03T20:57:58.000Z</updated>
-        <summary type="html"><![CDATA[The new Microsoft Lists form experience has just been released! Need a tool for collecting information from users inside your organization – that’s the tool for you. In the post, […]]]></summary>
-        <author>
-            <name>Marcin Siewnicki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Nigeria to MVP: Oluwatobi Yusuf’s Tech Ascendancy and the Growth of the Power Platform Comm – YouTube]]></title>
-        <id>https://365community.online/from-nigeria-to-mvp-oluwatobi-yusufs-tech-ascendancy-and-the-growth-of-the-power-platform-comm-youtube</id>
-        <link href="https://365community.online/from-nigeria-to-mvp-oluwatobi-yusufs-tech-ascendancy-and-the-growth-of-the-power-platform-comm-youtube"/>
-        <updated>2024-04-03T14:10:58.000Z</updated>
-        <summary type="html"><![CDATA[From Nigeria to MVP: Oluwatobi Yusuf’s Tech Ascendancy and the Growth of the Power Platform Comm In this conversation, Oluwatobi Yusuf shares his journey in Nigeria, his path to becoming […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defender for Business – Endpoint Detection & Response (EDR) Demo – YouTube]]></title>
-        <id>https://365community.online/defender-for-business-endpoint-detection-response-edr-demo-youtube</id>
-        <link href="https://365community.online/defender-for-business-endpoint-detection-response-edr-demo-youtube"/>
-        <updated>2024-04-03T13:44:48.000Z</updated>
-        <summary type="html"><![CDATA[Defender for Business – Endpoint Detection & Response (EDR) Demo Want to know more about the capabilities of Microsoft Defender for Business? In this walk-through, our Stripe OLT, SOC Team […]]]></summary>
-        <author>
-            <name>Orla Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defender for Business – Automated Investigation Demo – YouTube]]></title>
-        <id>https://365community.online/defender-for-business-automated-investigation-demo-youtube</id>
-        <link href="https://365community.online/defender-for-business-automated-investigation-demo-youtube"/>
-        <updated>2024-04-03T13:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Defender for Business – Automated Investigation Demo Want to know more about the capabilities of Microsoft Defender for Business? In this walk-through, our Stripe OLT, SOC Team Lead demonstrates automated […]]]></summary>
-        <author>
-            <name>Orla Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defender for Business – Attack Surface Reduction Demo – YouTube]]></title>
-        <id>https://365community.online/defender-for-business-attack-surface-reduction-demo-youtube</id>
-        <link href="https://365community.online/defender-for-business-attack-surface-reduction-demo-youtube"/>
-        <updated>2024-04-03T13:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Defender for Business – Attack Surface Reduction Demo Want to know more about the capabilities of Microsoft Defender for Business? In this walk-through, our Stripe OLT, SOC Team Lead demonstrates […]]]></summary>
-        <author>
-            <name>Orla Edwards</name>
         </author>
     </entry>
     <entry>
