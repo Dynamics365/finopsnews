@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-04-05T02:49:01.019Z</updated>
+    <updated>2026-04-06T02:49:40.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changing Microsoft Partner Economics]]></title>
+        <id>https://365community.online/changing-microsoft-partner-economics</id>
+        <link href="https://365community.online/changing-microsoft-partner-economics"/>
+        <updated>2026-04-06T00:45:22.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,280If your Microsoft practice still tries to differentiate itself through deployment expertise, 200:00:04,280 –> 00:00:06,880you are competing in a market that no longer exists. 300:00:06,880 –> 00:00:08,040Pause on that for a second. 400:00:08,040 –> 00:00:12,760The future of Microsoft ISPs is not technical, and the partners who fail to grasp that shift 500:00:12,760 –> […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Governance Problems]]></title>
+        <id>https://365community.online/power-platform-governance-problems</id>
+        <link href="https://365community.online/power-platform-governance-problems"/>
+        <updated>2026-04-05T21:18:08.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,440A global enterprise ran a tenant audit last year. 200:00:02,440 –> 00:00:05,200They found something most organizations never look for. 300:00:05,200 –> 00:00:09,6806,200 applications, 4,000 flows, 900 connectors. 400:00:09,680 –> 00:00:11,720All inside a single default environment. 500:00:11,720 –> 00:00:13,880The default environment is supposed to be a playground. 600:00:13,880 –> 00:00:17,080It’s where users experiment, where […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Governance Insights]]></title>
+        <id>https://365community.online/microsoft-365-governance-insights</id>
+        <link href="https://365community.online/microsoft-365-governance-insights"/>
+        <updated>2026-04-05T18:29:45.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,060Most organizations believe they are AI ready 200:00:02,060 –> 00:00:04,460because they have Microsoft 365 licenses 300:00:04,460 –> 00:00:06,240and a co-pilot pilot underway. 400:00:06,240 –> 00:00:08,340They are wrong, the real question is not whether you have 500:00:08,340 –> 00:00:10,200co-pilot, it is whether your tenant can handle 600:00:10,200 –> 00:00:11,620what co-pilot will do. 700:00:11,620 –> […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architectural Truth About Cloud Governance]]></title>
+        <id>https://365community.online/the-architectural-truth-about-cloud-governance</id>
+        <link href="https://365community.online/the-architectural-truth-about-cloud-governance"/>
+        <updated>2026-04-05T15:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations try to fix governance with more policy, more approvals, and more oversight. It doesn’t work. Because governance that sits outside the workflow becomes friction — and friction gets bypassed. This episode breaks down why governance fails even when everything looks correct on paper, and why scalable organizations don’t enforce control through people, but […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Copilot Governance Trap]]></title>
+        <id>https://365community.online/understanding-the-copilot-governance-trap</id>
+        <link href="https://365community.online/understanding-the-copilot-governance-trap"/>
+        <updated>2026-04-05T12:16:32.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,320Most organizations treat governance as a gate, 200:00:02,320 –> 00:00:03,960a checkpoint, something you pass through 300:00:03,960 –> 00:00:05,360before progress can continue. 400:00:05,360 –> 00:00:07,400You run and audit, you find problems, you stop. 500:00:07,400 –> 00:00:09,000That’s the instinct. 600:00:09,000 –> 00:00:10,960The LinkedIn case study I want to examine today 700:00:10,960 –> 00:00:14,120is perfect for […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Beginner to Cloud Arc…]]></title>
+        <id>https://365community.online/from-beginner-to-cloud-arc</id>
+        <link href="https://365community.online/from-beginner-to-cloud-arc"/>
+        <updated>2026-04-05T08:35:31.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,420Most organizations treat Azure administration as a simple stack of technical certifications 200:00:04,420 –> 00:00:08,060where you just keep adding more knowledge, more roles and more responsibility. 300:00:08,060 –> 00:00:08,780They are wrong. 400:00:08,780 –> 00:00:12,580This perspective is a fundamental misunderstanding of what actually happens as you move from 500:00:12,580 –> 00:00:15,800a junior administrator to […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Microsoft 365 Business Models That Are Quietly Making People S…]]></title>
+        <id>https://365community.online/5-microsoft-365-business-models-that-are-quietly-making-people-s</id>
+        <link href="https://365community.online/5-microsoft-365-business-models-that-are-quietly-making-people-s"/>
+        <updated>2026-04-05T04:50:33.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,440Most organizations treat Microsoft 365 as a productivity tool. 200:00:03,440 –> 00:00:04,080It is not. 300:00:04,080 –> 00:00:06,080What organizations are actually operating 400:00:06,080 –> 00:00:07,840is a distributed decision engine. 500:00:07,840 –> 00:00:10,160That distinction matters because this system 600:00:10,160 –> 00:00:12,720makes thousands of real-time authorization decisions 700:00:12,720 –> 00:00:15,200across the Microsoft ecosystem continuously 800:00:15,200 –> […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Published 500 Microsoft 365 Episodes – And Why Consistency…]]></title>
         <id>https://365community.online/how-i-published-500-microsoft-365-episodes-and-why-consistency</id>
@@ -219,6 +289,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Domain 6 Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Preview: Your business apps, now part of every conversation]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=133732</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-your-business-apps-now-part-of-every-conversation/"/>
+        <updated>2026-04-02T20:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Bring your Power Apps into Microsoft 365 Copilot. In public preview, makers can enable conversational access to model-driven app data with Grids and Forms, with Custom Tools coming soon.
+The post Public Preview: Your business apps, now part of every conversation appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Claudio Romano</name>
         </author>
     </entry>
     <entry>
@@ -452,17 +533,6 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet the Contact Center Champions Driving the Future of Customer Experience]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/01/dynamics-365-contact-center-champions/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/01/dynamics-365-contact-center-champions/"/>
-        <updated>2026-04-01T19:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Meet the practitioners shaping how Dynamics 365 Contact Center is adopted, scaled, and improved in real‑world environments.
-The post Meet the Contact Center Champions Driving the Future of Customer Experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Caroline Umukobwa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Most Organizations Are Not Structurally …]]></title>
         <id>https://365community.online/why-most-organizations-are-not-structurally</id>
         <link href="https://365community.online/why-most-organizations-are-not-structurally"/>
@@ -674,17 +744,6 @@ Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Service Agent in Microsoft 365 Copilot]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/31/service-agent-microsoft-365-copilot/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/31/service-agent-microsoft-365-copilot/"/>
-        <updated>2026-03-31T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Service Agent brings Dynamics 365 Customer Service context, insights, and actions directly into Microsoft 365 Copilot.
-The post Introducing Service Agent in Microsoft 365 Copilot appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Rushil Vora and Saurabh Gupta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Growing Role of Payments Inside ERP Systems]]></title>
         <id>https://erpsoftwareblog.com/?p=145523</id>
         <link href="https://erpsoftwareblog.com/2026/03/the-growing-role-of-payments-inside-erp-systems/"/>
@@ -732,17 +791,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         <summary type="html"><![CDATA[Here’s how you can add another person to enter time on your behalf. The post Time Entry Delegation in Project Operations | [Preview Feature] appeared first on D365 Demystified. Original Post https://d365demystified.com/2026/03/31/time-entry-delegation-in-project-operations-preview-feature/]]></summary>
         <author>
             <name>Priyesh Wagh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enable accelerated growth with confidence: A Forrester TEI study projects more than 200% ROI over three years and six-month payback using Dynamics 365 Business Central]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/31/enable-accelerated-growth-with-confidence-a-forrester-tei-study-projects-more-than-200-roi-over-three-years-and-six-month-payback-using-dynamics-365-business-central/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/31/enable-accelerated-growth-with-confidence-a-forrester-tei-study-projects-more-than-200-roi-over-three-years-and-six-month-payback-using-dynamics-365-business-central/"/>
-        <updated>2026-03-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft commissioned Forrester Consulting to evaluate the potential return on investment organizations may realize by deploying Business Central.
-The post Enable accelerated growth with confidence: A Forrester TEI study projects more than 200% ROI over three years and six-month payback using Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Mike Morton</name>
         </author>
     </entry>
     <entry>
@@ -110606,60 +110654,6 @@ We value your input! Please participate in our state of Business Central (NAV) a
         <summary type="html"><![CDATA[This new tile ‘Virtual Entity’ in 10.0.39 sparked my interest, prompting me to delve deeper into its functionalities. This lists all the virtual entities and their sync status. There is also an option to create/see the user flow in Power … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Download SharePoint library files in Power Pages with JavaScript and Cloud flows – Improved code using jQuery & option to open PDF file in a new tab]]></title>
-        <id>https://365community.online/download-sharepoint-library-files-in-power-pages-with-javascript-and-cloud-flows-improved-code-using-jquery-option-to-open-pdf-file-in-a-new-tab</id>
-        <link href="https://365community.online/download-sharepoint-library-files-in-power-pages-with-javascript-and-cloud-flows-improved-code-using-jquery-option-to-open-pdf-file-in-a-new-tab"/>
-        <updated>2024-04-06T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week I demoed an improved solution of my previous blog post: Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages in the […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a SharePoint Site Online?]]></title>
-        <id>https://365community.online/how-to-create-a-sharepoint-site-online</id>
-        <link href="https://365community.online/how-to-create-a-sharepoint-site-online"/>
-        <updated>2024-04-06T03:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Watch the below video to know the step-by-step details to create SharePoint site online. Please Like, Share and Subscribe to my YouTube Channel. Below are my earlier articles that you […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Dynamics One Platform – D365FO – LCS – PowerPlatform]]></title>
-        <id>https://365community.online/one-dynamics-one-platform-d365fo-lcs-powerplatform</id>
-        <link href="https://365community.online/one-dynamics-one-platform-d365fo-lcs-powerplatform"/>
-        <updated>2024-04-05T18:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Nice to see that One Dynamics One Platform is making strides towards a more seamless experience for its users. It’s exciting to hear that LCS is slowly merging with Power […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Dynamics One Platform – D365FO – LCS – PowerPlatform]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3435</id>
-        <link href="https://anithasantosh.wordpress.com/2024/04/05/one-dynamics-one-platform-d365fo-lcs-powerplatform/"/>
-        <updated>2024-04-05T18:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Nice to see that One Dynamics One Platform is making strides towards a more seamless experience for its users. It’s exciting to hear that LCS is slowly merging with Power Platform. In fact, I recently tried to raise a support … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Reasons To Choose Dynamics 365 Business Central Instead of SAP]]></title>
-        <id>https://erpsoftwareblog.com/?p=105632</id>
-        <link href="https://erpsoftwareblog.com/2024/04/7-reasons-to-choose-dynamics-365-business-central-instead-of-sap/"/>
-        <updated>2024-04-05T17:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Forbes magazine rated Microsoft Dynamics 365 Business Central the number one overall ERP system for 2024. Read the report. However, we still see that some finance professionals who have used […]
-The post 7 Reasons To Choose Dynamics 365 Business Central Instead of SAP appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
-3 key inputs to consider when selecting a new ERP (or staying)
-ERP Implementation: How to Control the Cost]]></summary>
-        <author>
-            <name>Dexpro Dynamics</name>
         </author>
     </entry>
     <entry>

@@ -37675,16 +37675,6 @@
           "wordCount": 5296,
           "title": "What an ERP Health Check Involves",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Health-Check-625x417.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105632",
-          "author": "Dexpro Dynamics",
-          "description": "Forbes magazine rated Microsoft Dynamics 365 Business Central the number one overall ERP system for 2024. Read the report. However, we still see that some finance professionals who have used […]\nThe post 7 Reasons To Choose Dynamics 365 Business Central Instead of SAP appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\n3 key inputs to consider when selecting a new ERP (or staying)\nERP Implementation: How to Control the Cost",
-          "link": "https://erpsoftwareblog.com/2024/04/7-reasons-to-choose-dynamics-365-business-central-instead-of-sap/",
-          "publishedOn": "2024-04-05T17:51:18.000Z",
-          "wordCount": 5053,
-          "title": "7 Reasons To Choose Dynamics 365 Business Central Instead of SAP",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
         }
       ]
     },
@@ -39090,6 +39080,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/changing-microsoft-partner-economics",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:04,280If your Microsoft practice still tries to differentiate itself through deployment expertise, 200:00:04,280 –> 00:00:06,880you are competing in a market that no longer exists. 300:00:06,880 –> 00:00:08,040Pause on that for a second. 400:00:08,040 –> 00:00:12,760The future of Microsoft ISPs is not technical, and the partners who fail to grasp that shift 500:00:12,760 –> […]",
+          "link": "https://365community.online/changing-microsoft-partner-economics",
+          "publishedOn": "2026-04-06T00:45:22.000Z",
+          "wordCount": 14203,
+          "title": "Changing Microsoft Partner Economics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775436322_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-platform-governance-problems",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,440A global enterprise ran a tenant audit last year. 200:00:02,440 –> 00:00:05,200They found something most organizations never look for. 300:00:05,200 –> 00:00:09,6806,200 applications, 4,000 flows, 900 connectors. 400:00:09,680 –> 00:00:11,720All inside a single default environment. 500:00:11,720 –> 00:00:13,880The default environment is supposed to be a playground. 600:00:13,880 –> 00:00:17,080It’s where users experiment, where […]",
+          "link": "https://365community.online/power-platform-governance-problems",
+          "publishedOn": "2026-04-05T21:18:08.000Z",
+          "wordCount": 22050,
+          "title": "Power Platform Governance Problems",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775423888_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-governance-insights",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,060Most organizations believe they are AI ready 200:00:02,060 –> 00:00:04,460because they have Microsoft 365 licenses 300:00:04,460 –> 00:00:06,240and a co-pilot pilot underway. 400:00:06,240 –> 00:00:08,340They are wrong, the real question is not whether you have 500:00:08,340 –> 00:00:10,200co-pilot, it is whether your tenant can handle 600:00:10,200 –> 00:00:11,620what co-pilot will do. 700:00:11,620 –> […]",
+          "link": "https://365community.online/microsoft-365-governance-insights",
+          "publishedOn": "2026-04-05T18:29:45.000Z",
+          "wordCount": 17035,
+          "title": "Microsoft 365 Governance Insights",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775413785_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-architectural-truth-about-cloud-governance",
+          "author": "Mirko Peters",
+          "description": "Most organizations try to fix governance with more policy, more approvals, and more oversight. It doesn’t work. Because governance that sits outside the workflow becomes friction — and friction gets bypassed. This episode breaks down why governance fails even when everything looks correct on paper, and why scalable organizations don’t enforce control through people, but […]",
+          "link": "https://365community.online/the-architectural-truth-about-cloud-governance",
+          "publishedOn": "2026-04-05T15:46:49.000Z",
+          "wordCount": 2425,
+          "title": "The Architectural Truth About Cloud Governance",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/6eb6c54fba466119fd5ddfd21623e2a4.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/understanding-the-copilot-governance-trap",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,320Most organizations treat governance as a gate, 200:00:02,320 –> 00:00:03,960a checkpoint, something you pass through 300:00:03,960 –> 00:00:05,360before progress can continue. 400:00:05,360 –> 00:00:07,400You run and audit, you find problems, you stop. 500:00:07,400 –> 00:00:09,000That’s the instinct. 600:00:09,000 –> 00:00:10,960The LinkedIn case study I want to examine today 700:00:10,960 –> 00:00:14,120is perfect for […]",
+          "link": "https://365community.online/understanding-the-copilot-governance-trap",
+          "publishedOn": "2026-04-05T12:16:32.000Z",
+          "wordCount": 18517,
+          "title": "Understanding the Copilot Governance Trap",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775391392_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-beginner-to-cloud-arc",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:04,420Most organizations treat Azure administration as a simple stack of technical certifications 200:00:04,420 –> 00:00:08,060where you just keep adding more knowledge, more roles and more responsibility. 300:00:08,060 –> 00:00:08,780They are wrong. 400:00:08,780 –> 00:00:12,580This perspective is a fundamental misunderstanding of what actually happens as you move from 500:00:12,580 –> 00:00:15,800a junior administrator to […]",
+          "link": "https://365community.online/from-beginner-to-cloud-arc",
+          "publishedOn": "2026-04-05T08:35:31.000Z",
+          "wordCount": 19445,
+          "title": "From Beginner to Cloud Arc…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775378131_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/5-microsoft-365-business-models-that-are-quietly-making-people-s",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,440Most organizations treat Microsoft 365 as a productivity tool. 200:00:03,440 –> 00:00:04,080It is not. 300:00:04,080 –> 00:00:06,080What organizations are actually operating 400:00:06,080 –> 00:00:07,840is a distributed decision engine. 500:00:07,840 –> 00:00:10,160That distinction matters because this system 600:00:10,160 –> 00:00:12,720makes thousands of real-time authorization decisions 700:00:12,720 –> 00:00:15,200across the Microsoft ecosystem continuously 800:00:15,200 –> […]",
+          "link": "https://365community.online/5-microsoft-365-business-models-that-are-quietly-making-people-s",
+          "publishedOn": "2026-04-05T04:50:33.000Z",
+          "wordCount": 22983,
+          "title": "5 Microsoft 365 Business Models That Are Quietly Making People S…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775364633_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/how-i-published-500-microsoft-365-episodes-and-why-consistency",
           "author": "Mirko Peters",
@@ -78554,36 +78614,6 @@
           "wordCount": 3148,
           "title": "Countdown to our next class, follow us on Instagram, link in the description. – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712664727_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/download-sharepoint-library-files-in-power-pages-with-javascript-and-cloud-flows-improved-code-using-jquery-option-to-open-pdf-file-in-a-new-tab",
-          "author": "michelcarlo",
-          "description": "Last week I demoed an improved solution of my previous blog post: Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages in the […]",
-          "link": "https://365community.online/download-sharepoint-library-files-in-power-pages-with-javascript-and-cloud-flows-improved-code-using-jquery-option-to-open-pdf-file-in-a-new-tab",
-          "publishedOn": "2024-04-06T11:40:00.000Z",
-          "wordCount": 3438,
-          "title": "Download SharePoint library files in Power Pages with JavaScript and Cloud flows – Improved code using jQuery & option to open PDF file in a new tab",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/PowerPagesSharePoint.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-create-a-sharepoint-site-online",
-          "author": "Arun Potti",
-          "description": "Watch the below video to know the step-by-step details to create SharePoint site online. Please Like, Share and Subscribe to my YouTube Channel. Below are my earlier articles that you […]",
-          "link": "https://365community.online/how-to-create-a-sharepoint-site-online",
-          "publishedOn": "2024-04-06T03:06:58.000Z",
-          "wordCount": 3261,
-          "title": "How to Create a SharePoint Site Online?",
-          "imageUrl": "https://i0.wp.com/arunpotti.com/wp-content/uploads/2024/04/image-30.png?resize=387%2C176&ssl=1"
-        },
-        {
-          "id": "https://365community.online/one-dynamics-one-platform-d365fo-lcs-powerplatform",
-          "author": "Anitha Santosh",
-          "description": "Nice to see that One Dynamics One Platform is making strides towards a more seamless experience for its users. It’s exciting to hear that LCS is slowly merging with Power […]",
-          "link": "https://365community.online/one-dynamics-one-platform-d365fo-lcs-powerplatform",
-          "publishedOn": "2024-04-05T18:10:04.000Z",
-          "wordCount": 3259,
-          "title": "One Dynamics One Platform – D365FO – LCS – PowerPlatform",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/One-Dynamics-One-Platform-–-D365FO-–-LCS-–-PowerPlatform.png?fit=1200%2C464&ssl=1"
         }
       ]
     },
@@ -81212,16 +81242,6 @@
           "wordCount": 3944,
           "title": "Virtual entity in Data Management – 10.0.39",
           "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/04/image-3.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3435",
-          "author": "AnithaEswaran",
-          "description": "Nice to see that One Dynamics One Platform is making strides towards a more seamless experience for its users. It’s exciting to hear that LCS is slowly merging with Power Platform. In fact, I recently tried to raise a support … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2024/04/05/one-dynamics-one-platform-d365fo-lcs-powerplatform/",
-          "publishedOn": "2024-04-05T18:10:04.000Z",
-          "wordCount": 3912,
-          "title": "One Dynamics One Platform – D365FO – LCS – PowerPlatform",
-          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/04/image.png"
         }
       ]
     },
@@ -82223,36 +82243,6 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/01/dynamics-365-contact-center-champions/",
-          "author": "Caroline Umukobwa",
-          "description": "Meet the practitioners shaping how Dynamics 365 Contact Center is adopted, scaled, and improved in real‑world environments.\nThe post Meet the Contact Center Champions Driving the Future of Customer Experience appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/01/dynamics-365-contact-center-champions/",
-          "publishedOn": "2026-04-01T19:20:26.000Z",
-          "wordCount": 5808,
-          "title": "Meet the Contact Center Champions Driving the Future of Customer Experience",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/03/AdobeStock_536588807-scaled.jpeg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/31/service-agent-microsoft-365-copilot/",
-          "author": "Rushil Vora and Saurabh Gupta",
-          "description": "Service Agent brings Dynamics 365 Customer Service context, insights, and actions directly into Microsoft 365 Copilot.\nThe post Introducing Service Agent in Microsoft 365 Copilot appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/31/service-agent-microsoft-365-copilot/",
-          "publishedOn": "2026-03-31T19:30:00.000Z",
-          "wordCount": 5665,
-          "title": "Introducing Service Agent in Microsoft 365 Copilot",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/09/MSC22_Getty_UK_Finance_1044306972.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/31/enable-accelerated-growth-with-confidence-a-forrester-tei-study-projects-more-than-200-roi-over-three-years-and-six-month-payback-using-dynamics-365-business-central/",
-          "author": "Mike Morton",
-          "description": "Microsoft commissioned Forrester Consulting to evaluate the potential return on investment organizations may realize by deploying Business Central.\nThe post Enable accelerated growth with confidence: A Forrester TEI study projects more than 200% ROI over three years and six-month payback using Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/31/enable-accelerated-growth-with-confidence-a-forrester-tei-study-projects-more-than-200-roi-over-three-years-and-six-month-payback-using-dynamics-365-business-central/",
-          "publishedOn": "2026-03-31T17:00:00.000Z",
-          "wordCount": 6182,
-          "title": "Enable accelerated growth with confidence: A Forrester TEI study projects more than 200% ROI over three years and six-month payback using Dynamics 365 Business Central",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/03/GettyImages-1392016982-rgb-scaled.jpg"
-        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/03/26/better-collaboration-consult-capabilities-dynamics-365-contact-center/",
           "author": "Naman Agrawal",
@@ -87746,6 +87736,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133732",
+          "author": "Claudio Romano",
+          "description": "Bring your Power Apps into Microsoft 365 Copilot. In public preview, makers can enable conversational access to model-driven app data with Grids and Forms, with Custom Tools coming soon.\nThe post Public Preview: Your business apps, now part of every conversation appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-your-business-apps-now-part-of-every-conversation/",
+          "publishedOn": "2026-04-02T20:53:19.000Z",
+          "wordCount": 5930,
+          "title": "Public Preview: Your business apps, now part of every conversation",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2026/04/GridInCopilotXSmall3.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=133678",
           "author": "Ryan Jones",
