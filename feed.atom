@@ -2,10 +2,292 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-04-09T02:38:34.211Z</updated>
+    <updated>2026-04-10T02:51:09.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Purview Data Lifecycle: Retention, Discovery & Filtration]]></title>
+        <id>https://365community.online/microsoft-purview-data-lifecycle-retention-discovery-filtration</id>
+        <link href="https://365community.online/microsoft-purview-data-lifecycle-retention-discovery-filtration"/>
+        <updated>2026-04-10T01:13:10.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,520Nothing failed, the same tenant, the same policy set, the same confirmations we’ve relied 200:00:04,520 –> 00:00:06,180on for months. 300:00:06,180 –> 00:00:12,560Retention labels applied, library version enabled, eDiscovery cases open, the unified audit 400:00:12,560 –> 00:00:13,960log recording. 500:00:13,960 –> 00:00:16,760Every dashboard green, every report reconciled. 600:00:16,760 –> 00:00:20,840Here’s what actually happens, we ask […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams Governance: Beyond the Illusion of Control]]></title>
+        <id>https://365community.online/microsoft-teams-governance-beyond-the-illusion-of-control</id>
+        <link href="https://365community.online/microsoft-teams-governance-beyond-the-illusion-of-control"/>
+        <updated>2026-04-09T21:28:09.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,560You think you called me in to help you get control of this tenant to tame the sprawl, 200:00:03,560 –> 00:00:05,760to turn red into amber and amber into green. 300:00:05,760 –> 00:00:10,160But what you actually summoned at 2am in the low humming glow of the admin center 400:00:10,160 –> 00:00:14,280was a voice that […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZUGFeRD Invoices: PDF/A‑3, CII XML, and XMP Metadata for e‑Invoice Compliance]]></title>
+        <id>https://ax.docentric.com/?p=34107</id>
+        <link href="https://ax.docentric.com/zugferd-e-invoices-compliance-explained/"/>
+        <updated>2026-04-09T20:44:09.000Z</updated>
+        <summary type="html"><![CDATA[If you work with electronic invoices in Germany or across the EU, you may already know ZUGFeRD. This article explains what ZUGFeRD is, what components it requires, and how it relates to UBL, XRechnung, and Factur-X. Learn more about ZUGFeRD and Factur-X compliance >>. Navigating […]
+The post ZUGFeRD Invoices: PDF/A‑3, CII XML, and XMP Metadata for e‑Invoice Compliance appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marek Rolecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Warehouse Chaos in Dynamics 365 Business Central with Mobile Barcoding]]></title>
+        <id>https://erpsoftwareblog.com/?p=145761</id>
+        <link href="https://erpsoftwareblog.com/2026/04/solving-warehouse-chaos-in-dynamics-365-business-central-with-mobile-barcoding-2/"/>
+        <updated>2026-04-09T20:42:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manual data entry errors and outdated warehouse processes limit operational efficiency and accuracy, affecting fulfillment and inventory control. Warehouse managers and operations teams gain clarity on transitioning to mobile barcoding […]
+The post Solving Warehouse Chaos in Dynamics 365 Business Central with Mobile Barcoding appeared first on ERP Software Blog.
+From GP to Business Central: Not a Leap into the Unknown
+How Manufacturers Automate Preventive Maintenance with Business Central
+The Best Way to Handle Corrective vs. Preventive Maintenance in Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docentric AX 3.5.1 Released]]></title>
+        <id>https://ax.docentric.com/?p=34143</id>
+        <link href="https://ax.docentric.com/docentric-ax-3-5-1-released/"/>
+        <updated>2026-04-09T19:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Fantastic news! Docentric AX 3.5.1 is here, with many cool new features you’re going to love. ✨ Full Edition 👉🏽 Report Attachments You can now distribute reports with additional attachments to any print destination. And that’s not all - report attachments are now even more […]
+The post Docentric AX 3.5.1 Released appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Reporting Success Story: Fixing Manual Reporting]]></title>
+        <id>https://erpsoftwareblog.com/?p=145952</id>
+        <link href="https://erpsoftwareblog.com/2026/04/business-central-reporting-success-story-fixing-manual-reporting/"/>
+        <updated>2026-04-09T18:22:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Reporting in Business Central often works well at the start. Over time, though, it tends to become more manual, more fragmented, and harder to rely on. That was the situation […]
+The post Business Central Reporting Success Story: Fixing Manual Reporting appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Case Study: Every Month: 105 Hours Saved. Every Year: $89K Reclaimed. All from One Integration.
+Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined]]></summary>
+        <author>
+            <name>Data Courage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Identity Chaos in Lakehouse with Microsoft Fabric]]></title>
+        <id>https://365community.online/solving-identity-chaos-in-lakehouse-with-microsoft-fabric</id>
+        <link href="https://365community.online/solving-identity-chaos-in-lakehouse-with-microsoft-fabric"/>
+        <updated>2026-04-09T17:49:15.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:04,560The system did not fail you. It executed precisely what you allowed to exist. 200:00:04,560 –> 00:00:10,720You treated identity as a modeling choice, a design detail, something you could defer to later, 300:00:10,720 –> 00:00:17,040or patch in ETL, or push into a best practice document nobody reads at 2am during an incident. 400:00:17,040 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give Friends Free Access with Complimentary Subscriptions]]></title>
+        <id>https://365community.online/give-friends-free-access-with-complimentary-subscriptions</id>
+        <link href="https://365community.online/give-friends-free-access-with-complimentary-subscriptions"/>
+        <updated>2026-04-09T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[If you run a paid newsletter on WordPress.com, you’ve probably wanted to give someone free access to your paid content. A friend who supports your work. A fellow writer you admire. Your mom. Now you can. Jetpack Newsletter offers complimentary subscriptions that let you give any subscriber free access to your paid plans, right from […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP for PE-Backed Companies: What CFOs Need Today]]></title>
+        <id>https://erpsoftwareblog.com/?p=145923</id>
+        <link href="https://erpsoftwareblog.com/2026/04/erp-for-pe-backed-companies-what-cfos-need-today/"/>
+        <updated>2026-04-09T16:46:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For CFOs at PE-backed companies, the ERP conversation is no longer just about accounting software. It is about speed, visibility, control, and scalability. It is about whether finance can keep […]
+The post ERP for PE-Backed Companies: What CFOs Need Today appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate WhatsApp with Microsoft Dynamics 365 CRM]]></title>
+        <id>https://erpsoftwareblog.com/?p=145920</id>
+        <link href="https://erpsoftwareblog.com/2026/04/how-to-integrate-whatsapp-with-microsoft-dynamics-365-crm/"/>
+        <updated>2026-04-09T16:15:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+WhatsApp integration with Microsoft Dynamics 365 CRM transforms customer communication by enabling two-way messaging directly within your CRM interface. As a Microsoft Dynamics 365 consultant at Trango Tech, this guide […]
+The post How to Integrate WhatsApp with Microsoft Dynamics 365 CRM appeared first on ERP Software Blog.
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Partner Selection Guide: How to Find the Right Fit for Your Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=145136</id>
+        <link href="https://erpsoftwareblog.com/2026/04/erp-partner-selection-guide-how-to-find-the-right-fit-for-your-business/"/>
+        <updated>2026-04-09T16:00:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Selecting an ERP system is a major decision—but choosing the right ERP partner is just as critical. The partner you work with will guide your implementation, shape how your system […]
+The post ERP Partner Selection Guide: How to Find the Right Fit for Your Business appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why D365 Performance Problems Rarely Show Up in Testing]]></title>
+        <id>https://erpsoftwareblog.com/?p=145720</id>
+        <link href="https://erpsoftwareblog.com/2026/04/why-d365-performance-problems-rarely-show-up-in-testing/"/>
+        <updated>2026-04-09T14:30:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+D365 performance problems rarely appear in testing because test environments do not replicate real production workload patterns, concurrency levels, batch sequencing collisions, or full data volume complexity in Dynamics 365 […]
+The post Why D365 Performance Problems Rarely Show Up in Testing appeared first on ERP Software Blog.
+Want to provide equipment and its status directly to each depot manager and take proper action immediately?
+How to improve efficiency with crane rental software
+Upgrading from Dynamics AX to Dynamics 365 Finance and Operations - Is it Worth It?]]></summary>
+        <author>
+            <name>Steven Settle, Ryse Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VDI Renewal Got You Down? Here’s Why It Shouldn’t Be! – YouTube]]></title>
+        <id>https://365community.online/vdi-renewal-got-you-down-heres-why-it-shouldnt-be-youtube</id>
+        <link href="https://365community.online/vdi-renewal-got-you-down-heres-why-it-shouldnt-be-youtube"/>
+        <updated>2026-04-09T14:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the future of desktop virtualization!** Ditch the VDI renewal dread and seize a massive opportunity! This video dives deep into game-changing cloud desktop solutions like Azure Virtual Desktop and Windows 365. Discover how to slash costs, master virtual desktop infrastructure, and dominate with cloud computing! Don’t forget to LIKE, COMMENT, and SUBSCRIBE for your […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structural Debt: The Hidden Cost of ‘Default’ M365 Governance]]></title>
+        <id>https://365community.online/structural-debt-the-hidden-cost-of-default-m365-governance</id>
+        <link href="https://365community.online/structural-debt-the-hidden-cost-of-default-m365-governance"/>
+        <updated>2026-04-09T14:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 governance, risk management, and compliance are no longer about isolated incidents or policy gaps. In modern M365 environments, risk behaves as a system outcome—driven by friction, defaults, and human behavior under pressure. Oversharing, workspace sprawl, shadow IT, and Copilot exposure are not random problems. They are predictable results of how your Microsoft 365 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Autonomous ERP Fails in Manufacturing (And How to Fix It)]]></title>
+        <id>https://erpsoftwareblog.com/?p=145915</id>
+        <link href="https://erpsoftwareblog.com/2026/04/why-autonomous-erp-fails-in-manufacturing-and-how-to-fix-it/"/>
+        <updated>2026-04-09T13:50:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Autonomous ERP is being positioned as the next evolution of enterprise systems, moving beyond tracking transactions to making decisions, triggering actions, and automating workflows across the business. For manufacturers, the […]
+The post Why Autonomous ERP Fails in Manufacturing (And How to Fix It) appeared first on ERP Software Blog.
+Choosing the Right AP Automation Solution: Checklist
+Microsoft Dynamics GP Phase-Out: Smooth ERP Transition
+Automated Vendor Validation: Secure and Simplify AP Compliance]]></summary>
+        <author>
+            <name>ISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EUC Major Announcement: Nerdio & Nutanix Partnership! – YouTube]]></title>
+        <id>https://365community.online/euc-major-announcement-nerdio-nutanix-partnership-youtube</id>
+        <link href="https://365community.online/euc-major-announcement-nerdio-nutanix-partnership-youtube"/>
+        <updated>2026-04-09T13:08:54.000Z</updated>
+        <summary type="html"><![CDATA[EUC Powerhouses partner up to revolutionise Hybrid VDI! Subscribe for daily Microsoft Cloud content! #azure #nerdio #nutanix #microsoft source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonprofit Budgeting and Close Shouldn't Still Look Like This in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=145894</id>
+        <link href="https://erpsoftwareblog.com/2026/04/nonprofit-budgeting-and-close-2026/"/>
+        <updated>2026-04-09T12:58:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most nonprofit finance teams run their budgeting in Excel and their close process through a series of ERP exports, manual reconciliations, and emailed spreadsheets. That workflow hasn't changed much in […]
+The post Nonprofit Budgeting and Close Shouldn't Still Look Like This in 2026 appeared first on ERP Software Blog.
+Join Us At Dynamic Communities Summit - Booth 800
+Winning the AP Game with Mekorma Embedded Solutions
+Business Central Nonprofit Reporting: Simplicity Without Sacrificing Depth]]></summary>
+        <author>
+            <name>Velixo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elastic Compute in F&O: From Fixed Tiers to Shared Capacity]]></title>
+        <id>https://kurthatlevik.com/?p=5115</id>
+        <link href="https://kurthatlevik.com/2026/04/09/elastic-compute-in-fo-from-fixed-tiers-to-shared-capacity/"/>
+        <updated>2026-04-09T11:52:23.000Z</updated>
+        <summary type="html"><![CDATA[For a more simple overview see at the bottom of this blog, that also includes a calculator. Microsoft is changing how infrastructure works in F&O apps. In unified environments, elastic compute replaces fixed environment tiers with a shared-capacity model that automatically scales based on actual usage. Instead of choosing a Tier 2, Tier 3, or … Continue reading Elastic Compute in F&O: From Fixed Tiers to Shared Capacity]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elastic Compute in F&O: From Fixed Tiers to Shared Capacity]]></title>
+        <id>https://365community.online/elastic-compute-in-fo-from-fixed-tiers-to-shared-capacity</id>
+        <link href="https://365community.online/elastic-compute-in-fo-from-fixed-tiers-to-shared-capacity"/>
+        <updated>2026-04-09T11:52:00.000Z</updated>
+        <summary type="html"><![CDATA[For a more simple overview see at the bottom of this blog, that also includes a calculator. Microsoft is changing how infrastructure works in F&O apps. In unified environments, elastic compute replaces fixed environment tiers with a shared-capacity model that automatically scales based on actual usage. Instead of choosing a Tier 2, Tier 3, or […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Reasons You Should NOT Attend Our Webinar about Maps in Dynamics 365 on April 15]]></title>
+        <id>https://365community.online/5-reasons-you-should-not-attend-our-webinar-about-maps-in-dynamics-365-on-april-15</id>
+        <link href="https://365community.online/5-reasons-you-should-not-attend-our-webinar-about-maps-in-dynamics-365-on-april-15"/>
+        <updated>2026-04-09T11:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Maplytics is hosting a live Webinar on the 15th of April called- Smarter Field Operations Start with Advanced Maps – A Dynamics 365 Webinar But you should skip this one! Not every webinar is for everyone. This one is definitely not for you if you do not believe in evolving with changing times and aren’t […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundry Shadow IT Risk: Managing AI Governance]]></title>
+        <id>https://365community.online/foundry-shadow-it-risk-managing-ai-governance</id>
+        <link href="https://365community.online/foundry-shadow-it-risk-managing-ai-governance"/>
+        <updated>2026-04-09T10:22:26.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,800Microsoft Foundry is not an AI feature. 200:00:01,800 –> 00:00:03,000It is an agent factory. 300:00:03,000 –> 00:00:05,120And every agent factory becomes Shadow IT, 400:00:05,120 –> 00:00:08,000the moment execution is allowed before governance is enforced. 500:00:08,000 –> 00:00:10,760Most AI incidents won’t be caused by hallucinations. 600:00:10,760 –> 00:00:13,680They’ll be caused by agents acting on […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Reasons CFOs Choose Dynamics 365 ERP for Financial Control and Growth]]></title>
+        <id>https://erpsoftwareblog.com/?p=145912</id>
+        <link href="https://erpsoftwareblog.com/2026/04/10-reasons-cfos-choose-dynamics-365-erp-for-financial-control-and-growth/"/>
+        <updated>2026-04-09T09:57:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For CFOs, the pressure has never been higher. You’re expected to improve cash flow, reduce costs, strengthen compliance, and deliver real-time insights—all while helping the business scale. Yet many finance […]
+The post 10 Reasons CFOs Choose Dynamics 365 ERP for Financial Control and Growth appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tired of Long FP&A Implementations? There’s a Faster Way]]></title>
+        <id>https://erpsoftwareblog.com/?p=145976</id>
+        <link href="https://erpsoftwareblog.com/2026/04/tired-of-long-fpa-implementations-theres-a-faster-way/"/>
+        <updated>2026-04-09T09:30:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Finance teams using Microsoft Dynamics 365 Business Central often face a common challenge: while BC is a powerful ERP for managing financials, budgeting, forecasting, and reporting are still heavily reliant […]
+The post Tired of Long FP&A Implementations? There’s a Faster Way appeared first on ERP Software Blog.
+Join Us At Dynamic Communities Summit - Booth 800
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Case Study: Embracing ClickLearn as a corporate Dynamics 365 training platform]]></summary>
+        <author>
+            <name>Dynamic Budgets</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entra ID Conditional Access: Secure Identity Loop]]></title>
         <id>https://365community.online/entra-id-conditional-access-secure-identity-loop</id>
@@ -65,6 +347,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
 The post Time Sheet-only role and access in Business Central appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Monitor Alerts Are Now Generally Available]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=133677</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-monitor-alerts-are-now-generally-available/"/>
+        <updated>2026-04-08T17:12:51.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that Power Platform Monitor alerts for apps, agents, and flows are now generally available! Monitor alerts meet the reliability and maturity standards required for general availability, following sustained investments to improve quality.
+The post Power Platform Monitor Alerts Are Now Generally Available appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Arjun Mayur</name>
         </author>
     </entry>
     <entry>
@@ -557,6 +850,21 @@ How To Reduce The Cost of ERP and CRM Licenses Using Microsoft Sharepoint
 Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
         <author>
             <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Implementation Red Flags Every CFO Should Know Before Signing a Contract]]></title>
+        <id>https://erpsoftwareblog.com/?p=145927</id>
+        <link href="https://erpsoftwareblog.com/2026/04/erp-implementation-red-flags-every-cfo-should-know-before-signing-a-contract/"/>
+        <updated>2026-04-06T14:04:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You've made it through the demos. The vendor's sales team was polished, the system looked impressive on the screen, and the pricing came in just under budget. But does something […]
+The post ERP Implementation Red Flags Every CFO Should Know Before Signing a Contract appeared first on ERP Software Blog.
+Hassle Free Upgrades with Dynamics GP Resellers!
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
         </author>
     </entry>
     <entry>
@@ -110895,192 +111203,6 @@ Can your business spend less on sales tax compliance?
 Using integrated automation tools in Dynamics 365 to ease pain points]]></summary>
         <author>
             <name>Avalara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docentric AX 3.4.8 Released]]></title>
-        <id>https://ax.docentric.com/?p=28406</id>
-        <link href="https://ax.docentric.com/docentric-ax-3-4-8-released/"/>
-        <updated>2024-04-10T13:29:23.000Z</updated>
-        <summary type="html"><![CDATA[We are happy to announce 📢 Docentric version 3.4.8 is out 🚀 With the cool new features you asked for, most of them being part of Free Edition ❤. In this release, we've continued to improve 🔥Print management utilities, our flagship feature released in 3.4.7. […]
-The post Docentric AX 3.4.8 Released appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Irena Vujcic Pavlovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Way to Do Bank Reconciliation in Dynamics 365 Business Central]]></title>
-        <id>https://www.encorebusiness.com/?p=56257</id>
-        <link href="https://www.encorebusiness.com/blog/bank-reconciliation-business-central/"/>
-        <updated>2024-04-10T11:13:41.000Z</updated>
-        <summary type="html"><![CDATA[The New Way to Do Bank Reconciliation in Dynamics 365 Business Central
-The new bank reconciliation behavior in Dynamics 365 Business Central, released in 2023, changed how accounting teams reconcile their bank account statements. However, there can be some challenges when dealing with uncleared transactions, certain error messages, or handling the details of bank integration. I’ve helped several companies resolve issues like these. In this article, I’ll...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Angela Nice</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Dynamics 365 Empowers Wealth Management Firms in the Digital Age?]]></title>
-        <id>https://erpsoftwareblog.com/?p=105715</id>
-        <link href="https://erpsoftwareblog.com/2024/04/how-dynamics-365-empowers-wealth-management/"/>
-        <updated>2024-04-10T11:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Wealth management is going towards a sudden shift from traditional to modern ways of doing business. The days of static portfolios and one-size-fits-all methodologies are no longer applicable due to […]
-The post How Dynamics 365 Empowers Wealth Management Firms in the Digital Age? appeared first on ERP Software Blog.
-Going Paperless Made Easy with Document Management Software!
-Pitfall #4 - AP Automation for Dynamics
-Binary Stream - Did You Know - Weekly Tips - Multi-Entity Management]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Supercharge Field Sales Team with Maps integrated within Dynamics 365 CRM]]></title>
-        <id>https://365community.online/webinar-supercharge-field-sales-team-with-maps-integrated-within-dynamics-365-crm-2</id>
-        <link href="https://365community.online/webinar-supercharge-field-sales-team-with-maps-integrated-within-dynamics-365-crm-2"/>
-        <updated>2024-04-10T10:42:29.000Z</updated>
-        <summary type="html"><![CDATA[The post Webinar: Supercharge Field Sales Team with Maps integrated within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labas, čia Agnius. – YouTube]]></title>
-        <id>https://365community.online/labas-cia-agnius-youtube</id>
-        <link href="https://365community.online/labas-cia-agnius-youtube"/>
-        <updated>2024-04-10T10:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Būtų labai smagu jus visus sutikti spalio mėnesį Aberdyne vyksiančiame Scottish Summit 2024 renginyje! source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Supercharge Field Sales Team with Maps integrated within Dynamics 365 CRM]]></title>
-        <id>https://365community.online/webinar-supercharge-field-sales-team-with-maps-integrated-within-dynamics-365-crm</id>
-        <link href="https://365community.online/webinar-supercharge-field-sales-team-with-maps-integrated-within-dynamics-365-crm"/>
-        <updated>2024-04-10T10:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Knowledge is power, and sharing that knowledge unlocks boundless possibilities! At Maplytics, exploration, visualization, and innovation are in our DNA. We’re constantly pushing the boundaries and building exciting new features […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Une invitation d’Éric Sauvé – YouTube]]></title>
-        <id>https://365community.online/une-invitation-deric-sauve-youtube</id>
-        <link href="https://365community.online/une-invitation-deric-sauve-youtube"/>
-        <updated>2024-04-10T10:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Joignez-vous à moi au Scottish Summit 2024. Pensez à vous inscrire à ma session de formation sur les Copilot qui aura lieu le 17 octobre source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: What’s new in Dynamics 365 Business Central version 2024 Wave 1 – YouTube]]></title>
-        <id>https://365community.online/webinar-whats-new-in-dynamics-365-business-central-version-2024-wave-1-youtube</id>
-        <link href="https://365community.online/webinar-whats-new-in-dynamics-365-business-central-version-2024-wave-1-youtube"/>
-        <updated>2024-04-10T09:53:06.000Z</updated>
-        <summary type="html"><![CDATA[As the new Dynamics 365 Business Central version was released, Simplanova organized a webinar with Microsoft MVP for Business Applications Stefano Demiliani. The webinar presented detailed information about what’s new […]]]></summary>
-        <author>
-            <name>Ieva Kukeviciene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Environment Grouping]]></title>
-        <id>https://365community.online/environment-grouping</id>
-        <link href="https://365community.online/environment-grouping"/>
-        <updated>2024-04-10T09:33:01.000Z</updated>
-        <summary type="html"><![CDATA[One of the main ‘complaints’ that Power Platform administrators have is around how policies are applied to environments. Within Azure, it’s possible to set up security policies and apply them […]]]></summary>
-        <author>
-            <name>thecrmninja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Functions: .NET 7 support is ending and you should upgrade to .NET 8.]]></title>
-        <id>https://365community.online/azure-functions-net-7-support-is-ending-and-you-should-upgrade-to-net-8</id>
-        <link href="https://365community.online/azure-functions-net-7-support-is-ending-and-you-should-upgrade-to-net-8"/>
-        <updated>2024-04-10T08:00:56.000Z</updated>
-        <summary type="html"><![CDATA[On 14 May 2024, support for .NET 7 in Azure Functions will end. Your Function apps that are currently using .NET 7 will continue to run, but security updates will no […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow Debugging in Business Central.]]></title>
-        <id>https://365community.online/allow-debugging-in-business-central</id>
-        <link href="https://365community.online/allow-debugging-in-business-central"/>
-        <updated>2024-04-10T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Allow Debugging in Business Central. allowdebugging, #msdyn365bc, #businesscentral Blog Syndicated with Saurav Dhyani’s Permission]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhance your Power Pages ProDev productivity using Copilots – Lesson 1 – YouTube]]></title>
-        <id>https://365community.online/enhance-your-power-pages-prodev-productivity-using-copilots-lesson-1-youtube</id>
-        <link href="https://365community.online/enhance-your-power-pages-prodev-productivity-using-copilots-lesson-1-youtube"/>
-        <updated>2024-04-10T04:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Enhance your Power Pages ProDev productivity using Copilots (Tino Rabe) Instagram zero to hero academy – / fromzerotoh. . Instagram thevictordantas – / thevictorda. . twitter thevictordantas – https://x.com/thevictordantas?s=20 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Fx: Column names escape double quotes]]></title>
-        <id>power-fx-no-more-columns-names-in-text-strings</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/power-fx-no-more-columns-names-in-text-strings/"/>
-        <updated>2024-04-10T01:00:20.000Z</updated>
-        <summary type="html"><![CDATA[We are making a small syntax change to how column names are specified in AddColumns, DropColumns, ShowColumns, RenameColumns, Search, GroupBy, Ungroup, and DataSourceInfo functions.  Today they need to be wrapped in double quotes as a text string, but tomorrow they will not.  We will automatically update the syntax in existing apps to reflect the new syntax.  The change makes these functions consistent with other uses of column names, easier to use by no longer requiring logical names, and consistent with other Power Fx 1.0 hosts such as Copilot Studio, Power Automate Desktop, and Cards that have been using this new syntax for the last year.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Associate activities (Email) with multiple related records – Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/associate-activities-email-with-multiple-related-records-dataverse-dynamics-365</id>
-        <link href="https://365community.online/associate-activities-email-with-multiple-related-records-dataverse-dynamics-365"/>
-        <updated>2024-04-09T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This new feature allows associating an activity record with multiple related records or related parties. For E.g. we might want to associate an email with multiple cases, or with case […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 New Microsoft Partners Join Insight Works’ Reseller Program]]></title>
-        <id>https://erpsoftwareblog.com/?p=105703</id>
-        <link href="https://erpsoftwareblog.com/2024/04/10-new-microsoft-partners-join-insight-works-reseller-program/"/>
-        <updated>2024-04-09T20:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Insight Works incorporates 10 new Microsoft Partners into their reseller program to enhance manufacturing and distribution solutions globally.
-The post 10 New Microsoft Partners Join Insight Works’ Reseller Program appeared first on ERP Software Blog.
-Upcoming Webcast: "Structuring Software Sales Transactions for Optimal Revenue Recognition"
-Dynamics GP 2013’s New Licensing Structure Offers Additional Modules and Users at No Extra Charge
-Key Steps for Selecting the Right ERP Software]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Azure Stack HCI Core Technology – Part 2 – YouTube]]></title>
-        <id>https://365community.online/master-azure-stack-hci-core-technology-part-2-youtube</id>
-        <link href="https://365community.online/master-azure-stack-hci-core-technology-part-2-youtube"/>
-        <updated>2024-04-09T20:15:01.000Z</updated>
-        <summary type="html"><![CDATA[In this video, we introduce part 2 of the core technology behind Azure Stack HCI. Learn about the benefits of this hybrid cloud solution and how it can help your […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile ERP Solutions for Retail]]></title>
-        <id>https://erpsoftwareblog.com/?p=105665</id>
-        <link href="https://erpsoftwareblog.com/2024/04/mobile-erp-solutions-for-retail/"/>
-        <updated>2024-04-09T16:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Mobile ERP solutions for retail are increasingly in demand and popular because of real-time and quick access to critical business data. This ability facilitates on-the-go decision-making, tracking, and updating of […]
-The post Mobile ERP Solutions for Retail appeared first on ERP Software Blog.
-Evolving Role of ERP in Remote Work Environments
-Microsoft Dynamics Offers Users A Real ERP (Enterprise Resource Planning)/Accounting Solution Integration Experience
-Mobile ERP with Dynamics NAV's Tablet App]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
         </author>
     </entry>
     <entry>
