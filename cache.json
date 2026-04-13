@@ -37865,56 +37865,6 @@
           "wordCount": 5405,
           "title": "Understanding the Benefits of ERP for Manufacturing Industry",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105538",
-          "author": "FYIsoft, Inc.",
-          "description": "Built on Microsoft technology, FYIsoft reporting, analytics, and budgeting solutions provide a pain-free migration path for businesses seeking cloud-based financial reporting. Through an easy integration with any Dynamics ERP, FYIsoft […]\nThe post FYIsoft Financial Reporting Solution for Microsoft Dynamics 365 BC:  A Success Story appeared first on ERP Software Blog.\nBinary Stream and SignUp Software join forces to deliver powerful solutions for Microsoft Dynamics 365\nA Tool to Predict and Prevent ERP Implementation Failure\nDynamics 365 Business Central Now Supports GS1-128 Barcodes via an Insight Works App",
-          "link": "https://erpsoftwareblog.com/2024/04/fyisoft-financial-reporting-solution-for-microsoft-dynamics-365-bc-a-success-story/",
-          "publishedOn": "2024-04-12T20:08:30.000Z",
-          "wordCount": 5153,
-          "title": "FYIsoft Financial Reporting Solution for Microsoft Dynamics 365 BC:  A Success Story",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-03-FYIsoft-Financial-Reporting-Solution-for-Microsoft-Dynamics-365-BC_1200-x-628.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105540",
-          "author": "FYIsoft, Inc.",
-          "description": "Among multi-entity companies, Excel spreadsheets have long been a workaround solution for financial reporting. This practice is so ingrained that many organizations don’t even question it, despite the process being […]\nThe post Avoid Using Excel Dumps for Reporting in Dynamics 365 appeared first on ERP Software Blog.\n24/7 Self Service Access | Customers & Vendors Update Their Microsoft Dynamics Record\nCan the web client be your answer to a portal?\n2024 Top Trends in Microsoft Dynamics Financial Reporting",
-          "link": "https://erpsoftwareblog.com/2024/04/avoid-using-excel-dumps-for-reporting-in-dynamics-365/",
-          "publishedOn": "2024-04-12T19:27:59.000Z",
-          "wordCount": 5377,
-          "title": "Avoid Using Excel Dumps for Reporting in Dynamics 365",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-04-Avoid-Using-Excel-Dumps-for-Reporting-in-Dynamics-365_1200-x-628.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105769",
-          "author": "MetaOption LLC",
-          "description": "In the dynamic realm of construction management, balancing budgets, tracking costs, and managing cash flow are crucial for project success. With the advent of technology, businesses are increasingly turning to […]\nThe post Maximizing Efficiency: Exploring the Construction Features of Business Central appeared first on ERP Software Blog.\nEnhancing Construction Management with Dynamics 365 Business Central\nTransitioning from Dynamics SL to Business Central: Streamlining Your Business Operations\nTypes of data that can be migrated from Dynamics GP to Business Central",
-          "link": "https://erpsoftwareblog.com/2024/04/maximizing-efficiency-exploring-the-construction-features-of-business-central/",
-          "publishedOn": "2024-04-12T19:13:20.000Z",
-          "wordCount": 5353,
-          "title": "Maximizing Efficiency: Exploring the Construction Features of Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-78.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105753",
-          "author": "x2x eCommerce",
-          "description": "Portfolio Management in Business Central involves configuring the system for tracking investments, monitoring portfolio performance, and generating reports for analysis. Following are the steps to set up Portfolio Management in […]\nThe post Portfolio Management in Business Central appeared first on ERP Software Blog.\nBooklet | Centralized or decentralized accounts payable?\nNew Microsoft Software Updates in August 2020 - Tech Insider Update\nHow To Increase Revenue by 7% in 12 Minutes a Day with Microsoft Dynamics 365 and TiM",
-          "link": "https://erpsoftwareblog.com/2024/04/portfolio-management-in-business-central/",
-          "publishedOn": "2024-04-12T18:49:04.000Z",
-          "wordCount": 5102,
-          "title": "Portfolio Management in Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-59-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105762",
-          "author": "MetaOption LLC",
-          "description": "In today’s rapidly evolving business landscape, staying competitive means embracing modern cloud technology. One such innovation that is revolutionizing the way businesses operate is Dynamics 365 Business Central. This comprehensive cloud-based […]\nThe post Embrace the Future: Unlocking Business Potential with Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow effectively you can defer revenue and expenses in Business Central?\nWhich Business Central Deployment Option you should choose?\nBusiness Central: Digital Transformation in the Manufacturing Industry",
-          "link": "https://erpsoftwareblog.com/2024/04/embrace-the-future-unlocking-business-potential-with-dynamics-365-business-central/",
-          "publishedOn": "2024-04-12T16:42:46.000Z",
-          "wordCount": 5200,
-          "title": "Embrace the Future: Unlocking Business Potential with Dynamics 365 Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-127.jpg"
         }
       ]
     },
@@ -39310,6 +39260,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/power-apps-failure-patterns-proven-fixes",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,600You see it too, your power app works, until it doesn’t. 200:00:02,600 –> 00:00:04,500No error, just silence. 300:00:04,500 –> 00:00:07,140Most power apps are fragile because you copy-paste formulas 400:00:07,140 –> 00:00:09,460built without environments and hide dependencies 500:00:09,460 –> 00:00:10,740where no one will ever find them. 600:00:10,740 –> 00:00:13,060They told you low-code means safe, […]",
+          "link": "https://365community.online/power-apps-failure-patterns-proven-fixes",
+          "publishedOn": "2026-04-13T00:34:03.000Z",
+          "wordCount": 7407,
+          "title": "Power Apps Failure Patterns & Proven Fixes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776040443_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-copilot-power-automate-and-graph-permissions-quietly-expand-your-attack-surface",
+          "author": "Mirko Peters",
+          "description": "(00:00:00) The Shadow in the Machine (00:00:24) The Rise of Shadow Agents (00:00:31) The Mess We’ve Created (00:01:09) The Hidden Dangers of Unmanaged Agents (00:02:01) The True Cost of Shadow Data (00:04:00) The Case for Governed Agents (00:07:05) The Real-World Impact of Poor Agent Management (00:10:39) The Blueprint for Governed Agents (00:10:48) The Importance of […]",
+          "link": "https://365community.online/how-copilot-power-automate-and-graph-permissions-quietly-expand-your-attack-surface",
+          "publishedOn": "2026-04-12T20:58:04.000Z",
+          "wordCount": 3019,
+          "title": "How Copilot, Power Automate, and Graph Permissions Quietly Expand Your Attack Surface",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/the-attribute-with-id-does-not-exist-and-staged-metadata-is-still-being-processed-dataverse-dynamics-365-issue",
+          "author": "Nishant Rana",
+          "description": "Last week, we came across a strange issue while working with Dataverse metadata. We had created a new attribute as part of our solution changes. Everything looked fine initially, and the attribute was created successfully without any errors. However, when we tried to delete that same attribute, we started getting an error saying that the […]",
+          "link": "https://365community.online/the-attribute-with-id-does-not-exist-and-staged-metadata-is-still-being-processed-dataverse-dynamics-365-issue",
+          "publishedOn": "2026-04-12T18:30:00.000Z",
+          "wordCount": 2062,
+          "title": "The Attribute with id does not exist — and Staged Metadata is still being processed (Dataverse / Dynamics 365 Issue)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/The-Attribute-with-id-does-not-exist-%E2%80%94-and-Staged.png?fit=1024%2C476&ssl=1"
+        },
+        {
+          "id": "https://365community.online/policies-are-not-code-why-your-governance-is-fragile",
+          "author": "Mirko Peters",
+          "description": "Hello, my name is Mirko Peters — and I translate how technology actually shapes business reality. Most leaders believe that policies create control.But in reality, policies only create intent. Behavior follows something very different.It follows friction, defaults, and the immediate pressure to get work done. That gap is where Microsoft 365 governance starts to fail. […]",
+          "link": "https://365community.online/policies-are-not-code-why-your-governance-is-fragile",
+          "publishedOn": "2026-04-12T17:26:51.000Z",
+          "wordCount": 2437,
+          "title": "Policies are Not Code: Why Your Governance is Fragile",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/30506a031277c91e98e25f0b8d547a91.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stop-building-apps-in-teams-avoid-the-ace-trap",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,680Stop building apps in Teams. 200:00:01,680 –> 00:00:03,540You know it, I know it. 300:00:03,540 –> 00:00:06,000Teams is becoming the SharePoint graveyard 400:00:06,000 –> 00:00:09,560with better emojis, custom ACs feel quick 500:00:09,560 –> 00:00:12,440while quietly building a compliance landfill. 600:00:12,440 –> 00:00:15,760Today I’ll show you why SPFX Adaptive Card extensions 700:00:15,760 –> 00:00:18,560rot fast […]",
+          "link": "https://365community.online/stop-building-apps-in-teams-avoid-the-ace-trap",
+          "publishedOn": "2026-04-12T13:54:36.000Z",
+          "wordCount": 6717,
+          "title": "Stop Building Apps in Teams: Avoid the ACE Trap",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776002076_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-ai-cant-fix-your-sharepoint-sprawl-chaos",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:05,520Administrator, do you hear that? Your internet is too quiet, but the quiet is busy. It crawls. 200:00:05,520 –> 00:00:12,880You think co-pilot will fix it. It won’t. It reads the house as it is. Not as you wish it to be. 300:00:12,880 –> 00:00:18,320In a minute, I’ll show you why AI echoes your […]",
+          "link": "https://365community.online/why-ai-cant-fix-your-sharepoint-sprawl-chaos",
+          "publishedOn": "2026-04-12T10:25:25.000Z",
+          "wordCount": 7647,
+          "title": "Why AI Can’t Fix Your SharePoint Sprawl Chaos",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775989525_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wordpress-com-changelog-a-new-telegram-bot-and-complimentary-newsletter-subscriptions",
+          "author": "Belinda Allen",
+          "description": "March 28–April 11, 2026 Welcome back to the WordPress.com changelog!  We’ve had a packed two weeks of updates, including launching an alpha version of a new Telegram bot, shipping a cleaner way to manage AI agent tool access, expanding Studio Sync access, and adding a way to offer complimentary paid newsletter subscriptions to your subscribers. […]",
+          "link": "https://365community.online/wordpress-com-changelog-a-new-telegram-bot-and-complimentary-newsletter-subscriptions",
+          "publishedOn": "2026-04-12T08:30:00.000Z",
+          "wordCount": 2383,
+          "title": "WordPress.com Changelog: A New Telegram Bot and Complimentary Newsletter Subscriptions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/WordPresscom-Changelog-A-New-Telegram-Bot-and-Complimentary-Newsletter-Subscriptions.jpg?fit=1200%2C756&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fixing-microsoft-365-copilot-data-blindness-fast",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:01,680You think Copilot knows your business. 200:00:01,680 –> 00:00:02,600It doesn’t. It’s blind. 300:00:02,600 –> 00:00:04,600It sees SharePoint headlines a few emailed 400:00:04,600 –> 00:00:07,360stale teams chat, not the pipeline in Salesforce, 500:00:07,360 –> 00:00:08,640not the outage in ServiceNow, 600:00:08,640 –> 00:00:10,000not your proprietary API. 700:00:10,000 –> 00:00:11,120That’s the fracture. 800:00:11,120 –> 00:00:11,960Here’s the […]",
+          "link": "https://365community.online/fixing-microsoft-365-copilot-data-blindness-fast",
+          "publishedOn": "2026-04-12T07:01:52.000Z",
+          "wordCount": 7866,
+          "title": "Fixing Microsoft 365 Copilot Data Blindness Fast",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775977313_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-cloud-pcs-are-not-just-costly-avd-azure-youtube",
+          "author": "shabaz darr",
+          "description": "Subscribe, like and comment! Follow me on all my socials: https://linktr.ee/Iamitgeek Join my free learning community: https://iamitgeek.kit.com/8754fbd53a source",
+          "link": "https://365community.online/why-cloud-pcs-are-not-just-costly-avd-azure-youtube",
+          "publishedOn": "2026-04-12T06:32:47.000Z",
+          "wordCount": 1949,
+          "title": "Why Cloud PCs Are Not Just ‘Costly AVD’ #azure – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775979801_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/master-information-architecture-for-microsoft-365-copilot",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:06,500Rain on glass, a monitor flickers, somewhere in the building, a fan spins like a tire 200:00:06,500 –> 00:00:07,500detective. 300:00:07,500 –> 00:00:13,700The night was quiet, too quiet, servers hummed like neon under wet streets. 400:00:13,700 –> 00:00:20,500This city, this internet, it’s built on secrets, and every secret is buried under 100 pages, 500:00:20,500 […]",
+          "link": "https://365community.online/master-information-architecture-for-microsoft-365-copilot",
+          "publishedOn": "2026-04-12T03:46:46.000Z",
+          "wordCount": 6766,
+          "title": "Master Information Architecture for Microsoft 365 Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1775965606_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/unlock-sharepoint-premium-ai-for-smarter-knowledge",
           "author": "Mirko Peters",
@@ -78974,46 +79024,6 @@
           "wordCount": 3154,
           "title": "#msdyn365bc – Share error details to get help from another user.",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/msdyn365bc-Share-error-details-to-get-help-from-another.jpeg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/5-benefits-of-in-app-notifications-for-microsoft-dynamics-365-crm-users",
-          "author": "Inogic",
-          "description": "For a successful sales process, you need to stay up-to-date with crucial sales information like deal closures, opportunities won, incoming leads, etc. Wish you never missed important updates in Microsoft […]",
-          "link": "https://365community.online/5-benefits-of-in-app-notifications-for-microsoft-dynamics-365-crm-users",
-          "publishedOn": "2024-04-13T10:19:37.000Z",
-          "wordCount": 3529,
-          "title": "5 Benefits of In-App Notifications for Microsoft Dynamics 365 CRM users",
-          "imageUrl": "https://www.inogic.com/blog/wp-content/uploads/2024/04/A4D-Blog-Banner.png"
-        },
-        {
-          "id": "https://365community.online/power-pages-and-cloud-flows-validate-user-against-dataverse-records-based-on-contact-id",
-          "author": "michelcarlo",
-          "description": "When we use the Cloud Flows integration in Power Pages, we can use Web Roles to restrict what users can call the Flow or not. But sometimes only this is […]",
-          "link": "https://365community.online/power-pages-and-cloud-flows-validate-user-against-dataverse-records-based-on-contact-id",
-          "publishedOn": "2024-04-13T09:26:00.000Z",
-          "wordCount": 3438,
-          "title": "Power Pages and Cloud Flows – Validate user against Dataverse records based on Contact ID",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/dvcontact.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mastering-rdlc-reports-for-exporting-multiple-excel-sheets-in-business-central",
-          "author": "Saurav Dhyani",
-          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Mastering RDLC Reports for Exporting Multiple Excel Sheets in Business Central! reports, #excelsheet, #exporting, #masteringRDLC Blog Syndicated with […]",
-          "link": "https://365community.online/mastering-rdlc-reports-for-exporting-multiple-excel-sheets-in-business-central",
-          "publishedOn": "2024-04-13T05:30:00.000Z",
-          "wordCount": 3148,
-          "title": "Mastering RDLC Reports for Exporting Multiple Excel Sheets in Business Central!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Mastering-RDLC-Reports-for-Exporting-Multiple-Excel-Sheets-in-Business.jpeg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-power-apps-modern-themes-preview-feature",
-          "author": "Arun Potti",
-          "description": "Watch the below video to understand about the Microsoft Power Apps Modern Themes Preview feature. Below are my earlier articles that you can have a look. How to Download and […]",
-          "link": "https://365community.online/microsoft-power-apps-modern-themes-preview-feature",
-          "publishedOn": "2024-04-13T03:11:10.000Z",
-          "wordCount": 3265,
-          "title": "Microsoft Power Apps | Modern Themes | Preview feature",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/power-apps-logo.jpg?fit=900%2C900&ssl=1"
         }
       ]
     },
@@ -85112,26 +85122,6 @@
           "wordCount": 3389,
           "title": "Seamless integration, seamless operations: Introducing native integration between Dynamics 365 Field Service and Business Central",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/1.16-CTA-Correct.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/no-audience/2024/04/12/new-pricing-for-microsoft-dynamics-365-effective-october-2024/",
-          "author": "Bryan Goode",
-          "description": "Today, we’re announcing the first pricing update for Microsoft Dynamics 365 in more than five years. \nThe post New pricing for Microsoft Dynamics 365 effective October 2024 appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/no-audience/2024/04/12/new-pricing-for-microsoft-dynamics-365-effective-october-2024/",
-          "publishedOn": "2024-04-12T15:00:00.000Z",
-          "wordCount": 2884,
-          "title": "New pricing for Microsoft Dynamics 365 effective October 2024",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/04/D365_Blog_Abstract-02_1200.jpg"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/12/new-pricing-for-microsoft-dynamics-365-effective-october-2024-2/",
-          "author": "Bryan Goode",
-          "description": "Today, we’re announcing the first pricing update for Microsoft Dynamics 365 in more than five years. Since our last pricing update, Dynamics 365 has transformed customer relationship management (CRM) and enterprise resource planning (ERP) with connected applications for every line of business—across marketing, sales, customer service and field service, finance, operations, and supply chain—and each year, we release hundreds of new features and enhancements designed to help people work smarter, reclaim time, and collaborate seamlessly.\nThe post New pricing for Microsoft Dynamics 365 effective October 2024 appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/12/new-pricing-for-microsoft-dynamics-365-effective-october-2024-2/",
-          "publishedOn": "2024-04-12T15:00:00.000Z",
-          "wordCount": 2758,
-          "title": "New pricing for Microsoft Dynamics 365 effective October 2024",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/04/D365_Blog_Abstract-05_1200.jpg"
         }
       ]
     },
