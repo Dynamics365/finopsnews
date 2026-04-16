@@ -2,16 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-04-15T02:49:18.667Z</updated>
+    <updated>2026-04-16T02:56:13.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Power Automate as Orchestrator: What Works & What Fails]]></title>
-        <id>https://365community.online/power-automate-as-orchestrator-what-works-what-fails</id>
-        <link href="https://365community.online/power-automate-as-orchestrator-what-works-what-fails"/>
-        <updated>2026-04-15T02:43:49.000Z</updated>
-        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:07,000Every flow begins with hope, a small click, a bright promise. 200:00:07,000 –> 00:00:11,520An email arrives, a team’s message appears. 300:00:11,520 –> 00:00:15,760Someone claps, someone says, finally. 400:00:15,760 –> 00:00:18,720They always cheer at the beginning. 500:00:18,720 –> 00:00:25,040No owner named, no logs written, 100 actions stitched like mismatched parts, and then one night […]]]></summary>
+        <title type="html"><![CDATA[How AI Is Reshaping AP Automation and Financial Operations in Microsoft Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=145885</id>
+        <link href="https://erpsoftwareblog.com/2026/04/how-ai-is-reshaping-ap-automation-and-financial-operations-in-microsoft-dynamics-365-finance/"/>
+        <updated>2026-04-16T00:59:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  AI continues to dominate conversations about the future of Accounts Payable, and for good reason. AI is rapidly changing the way Accounts Payable (AP) is managed. To get a […]
+The post How AI Is Reshaping AP Automation and Financial Operations in Microsoft Dynamics 365 Finance appeared first on ERP Software Blog.
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS
+Cloud ERP - Why it might be a worthwhile investment for your company
+Have your head in the clouds: Dynamics 365 Tech Conference 2017]]></summary>
+        <author>
+            <name>Dooap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Multi-Agent Systems with Azure AI Foundry & Semantic Kernel]]></title>
+        <id>https://365community.online/build-multi-agent-systems-with-azure-ai-foundry-semantic-kernel</id>
+        <link href="https://365community.online/build-multi-agent-systems-with-azure-ai-foundry-semantic-kernel"/>
+        <updated>2026-04-16T00:19:07.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,880You know, chatbot’s talk agents act and multi-agent systems actually get stuff done. 200:00:03,880 –> 00:00:08,000If you’ve begged a bot to fix Intune and it replied with a poem, this is for you. 300:00:08,000 –> 00:00:11,600Here’s the deal. Netflix hands on. You watch. You eat snacks. 400:00:11,600 –> 00:00:13,800I do the dangerous service […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Should Companies Ask Before Choosing A Property Management Billing Tool for Microsoft Dynamics 365?]]></title>
+        <id>https://erpsoftwareblog.com/?p=146269</id>
+        <link href="https://erpsoftwareblog.com/2026/04/what-should-companies-ask-before-choosing-a-property-management-billing-tool-for-microsoft-dynamics-365/"/>
+        <updated>2026-04-15T22:26:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+1. How does the property billing system allocate shared costs among tenants? A property billing platform should support configurable allocation rules that can distribute shared costs by apartment size, number […]
+The post What Should Companies Ask Before Choosing A Property Management Billing Tool for Microsoft Dynamics 365? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Maris Drone, SkyBill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerShell Without Modules Using Microsoft Graph API]]></title>
+        <id>https://365community.online/powershell-without-modules-using-microsoft-graph-api</id>
+        <link href="https://365community.online/powershell-without-modules-using-microsoft-graph-api"/>
+        <updated>2026-04-15T20:51:59.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,880If your script is still lean on MS Online or Azure AD, they’re already legacy. 200:00:03,880 –> 00:00:05,800And if you think that doesn’t apply to you, 300:00:05,800 –> 00:00:08,080oh boy, you’re exactly who I’m talking to. 400:00:08,080 –> 00:00:09,080The cloud moved on. 500:00:09,080 –> 00:00:10,040Your modules didn’t. 600:00:10,040 –> 00:00:12,640Modules break on Linux […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Webinar: Parcel, LTL & FTL Shipping in Business Central: Rate Shop, Optimize & Automate]]></title>
+        <id>https://erpsoftwareblog.com/?p=145351</id>
+        <link href="https://erpsoftwareblog.com/2026/04/parcel-ltl-ftl-shipping-in-business-central-rate-shop-optimize-automate/"/>
+        <updated>2026-04-15T20:02:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Shipping from Business Central shouldn’t mean switching between carrier portals, retyping shipment data, or guessing which service to use. Many organisations still manage parcel, LTL, and FTL across disconnected systems—leading […]
+The post EU Webinar: Parcel, LTL & FTL Shipping in Business Central: Rate Shop, Optimize & Automate appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernizing ERP Reporting: Real Examples from Distributors and Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=146279</id>
+        <link href="https://erpsoftwareblog.com/2026/04/modernizing-erp-reporting-real-examples-from-distributors-and-manufacturers/"/>
+        <updated>2026-04-15T18:42:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most distributors and manufacturers can get reports out of their ERP, like Microsoft Dynamics 365 Business Central. The problem starts when reporting has to keep up with a more complex […]
+The post Modernizing ERP Reporting: Real Examples from Distributors and Manufacturers appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Strategic Mindset for a Successful ERP implementation
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix]]></summary>
+        <author>
+            <name>JourneyTeam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Excel Shadow-System — Why Your Process Architecture is Failing]]></title>
+        <id>https://365community.online/the-excel-shadow-system-why-your-process-architecture-is-failing</id>
+        <link href="https://365community.online/the-excel-shadow-system-why-your-process-architecture-is-failing"/>
+        <updated>2026-04-15T17:19:19.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, you’ll learn why your biggest operational risks are not visible in your tools—but hidden inside your process architecture. You’ll understand how Excel-based shadow systems silently shape your business, why they create instability at scale, and how governance—not tools—is the key to fixing them. 🚀 What You’ll Learn why Excel shadow-systems are an […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor Data Management: The Hidden Cost of “Good Enough” Data]]></title>
+        <id>https://erpsoftwareblog.com/?p=146273</id>
+        <link href="https://erpsoftwareblog.com/2026/04/vendor-data-management-the-hidden-cost-of-good-enough-data/"/>
+        <updated>2026-04-15T17:05:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s digital finance environment, vendor data management is more than a back-office task. It’s a critical driver of operational efficiency, payment accuracy, and fraud prevention. Yet many organizations still rely […]
+The post Vendor Data Management: The Hidden Cost of “Good Enough” Data appeared first on ERP Software Blog.
+AP Wellness: Streamline Your Accounts Payable
+Key Trends for Accounts Payable in 2025
+Mekorma Payment Hub v1.0 for Business Central is here!]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Murphy Levesque Co-Founded an Animal Rescue at 11. Her WordPress.com Site Helped Save Over 100 Animals.]]></title>
+        <id>https://365community.online/murphy-levesque-co-founded-an-animal-rescue-at-11-her-wordpress-com-site-helped-save-over-100-animals</id>
+        <link href="https://365community.online/murphy-levesque-co-founded-an-animal-rescue-at-11-her-wordpress-com-site-helped-save-over-100-animals"/>
+        <updated>2026-04-15T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Murphy Levesque is a high school senior in Connecticut. She co-founded Hidden Gem Animal Rescue in 2020, when she was 11 years old. It started with a one-eyed cat named One-Eye at the barn where Murphy took horseback riding lessons. One-Eye was two years old, missing an eye, and on her third litter of kittens.  […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Dynamics 365 Integrated B2B Ecommerce Platform AI-Ready?]]></title>
+        <id>https://erpsoftwareblog.com/?p=145541</id>
+        <link href="https://erpsoftwareblog.com/2026/04/what-makes-a-dynamics-365-integrated-b2b-ecommerce-platform-ai-ready/"/>
+        <updated>2026-04-15T14:11:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+AI has quickly become part of the B2B commerce conversation. Many manufacturers and distributors are now asking the same question: what does it actually take to become AI-ready? That question […]
+The post What Makes a Dynamics 365 Integrated B2B Ecommerce Platform AI-Ready? appeared first on ERP Software Blog.
+The Benefits of Single-Stack E-Commerce for Dynamics ERPs
+Top equipment-driven rental trend: Get online to expand presence and profits
+How to Use Dynamics ERP Data to Efficiently Manage Web Store Inventory]]></summary>
+        <author>
+            <name>Znode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Your Dynamics 365 Business Impact Fast]]></title>
+        <id>https://365community.online/boost-your-dynamics-365-business-impact-fast</id>
+        <link href="https://365community.online/boost-your-dynamics-365-business-impact-fast"/>
+        <updated>2026-04-15T13:42:59.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:02,720Dynamics can be a filing cabinet or a growth engine. 200:00:02,720 –> 00:00:04,800Most teams build filing cabinets. 300:00:04,800 –> 00:00:06,000Here’s the test. 400:00:06,000 –> 00:00:08,640Does your system turn work into progress? 500:00:08,640 –> 00:00:10,640Or does it just store activity? 600:00:10,640 –> 00:00:13,440In the next few minutes, I’ll show you how to reduce friction […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live and Learn Consultancy brings sales and training together in Dynamics 365]]></title>
+        <id>https://365community.online/live-and-learn-consultancy-brings-sales-and-training-together-in-dynamics-365</id>
+        <link href="https://365community.online/live-and-learn-consultancy-brings-sales-and-training-together-in-dynamics-365"/>
+        <updated>2026-04-15T10:29:00.000Z</updated>
+        <summary type="html"><![CDATA[How a single system replaced spreadsheets, workarounds and disconnected tools Live and Learn Consultancy needed a single system to manage their full training workflow. They wanted to keep all their data in one place. Leads Bookings Quotes Invoicing The goal was to cut admin, boost sales and create a slicker customer experience. Their team deliver […]]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous Agents in Dynamics 365 Customer Service]]></title>
+        <id>https://365community.online/autonomous-agents-in-dynamics-365-customer-service</id>
+        <link href="https://365community.online/autonomous-agents-in-dynamics-365-customer-service"/>
+        <updated>2026-04-15T10:07:01.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:05,200The night the emails died, the city got quiet, too quiet. 200:00:05,200 –> 00:00:10,340Cases used to rot in shared mailboxes like forgotten bodies. 300:00:10,340 –> 00:00:15,540Customers screaming into the void, then the autonomous agents moved in. 400:00:15,540 –> 00:00:20,560Cold, precise, tireless, no inbox mercy. 500:00:20,560 –> 00:00:24,680If your inbox still runs the city, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Are Coming to Your Shop Floor. Is Your D365 Team Ready?]]></title>
+        <id>https://erpsoftwareblog.com/?p=146127</id>
+        <link href="https://erpsoftwareblog.com/2026/04/ai-agents-are-coming-to-your-shop-floor-is-your-d365-team-ready/"/>
+        <updated>2026-04-15T10:00:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+AI agents are arriving in manufacturing faster than most D365 project teams can absorb. Procurement automation, production costing analysis, warehouse slotting optimization. These are being deployed right now on top […]
+The post AI Agents Are Coming to Your Shop Floor. Is Your D365 Team Ready? appeared first on ERP Software Blog.
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary
+The D365 Supply Chain Talent Rush: Why Your Hiring Timeline Just Got Shorter
+Sycor.Rental for Equipment Rental Industries]]></summary>
+        <author>
+            <name>The Good Talent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Blob Storage: optimize costs and performance with the new Smart Tier option.]]></title>
+        <id>https://365community.online/azure-blob-storage-optimize-costs-and-performance-with-the-new-smart-tier-option</id>
+        <link href="https://365community.online/azure-blob-storage-optimize-costs-and-performance-with-the-new-smart-tier-option"/>
+        <updated>2026-04-15T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft announced yesterday the general availability of the new smart tier option for Azure Blob and Data Lake Storage. Smart tier is a fully managed, automated tiering capability for Azure Blob Storage and Data Lake Storage that helps optimize storage costs without ongoing operational effort. By continuously optimizing data placement, smart tier ensures your storage costs are aligned with […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthening Sales & Purchase Controls in Business Central with Go Live Guard]]></title>
+        <id>https://365community.online/strengthening-sales-purchase-controls-in-business-central-with-go-live-guard</id>
+        <link href="https://365community.online/strengthening-sales-purchase-controls-in-business-central-with-go-live-guard"/>
+        <updated>2026-04-15T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[In any Microsoft Dynamics 365 Business Central environment, operational success isn’t just about processing transactions—it’s about ensuring those transactions are accurate, timely, and financially reliable. This is where BCAIHUB Go Live Guard comes in. Designed as a proactive control layer, Go Live Guard continuously reviews your Sales and Purchase processes, helping identify gaps before they […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Document Chaos: Master Document Chaos Management]]></title>
+        <id>https://365community.online/stop-document-chaos-master-document-chaos-management</id>
+        <link href="https://365community.online/stop-document-chaos-master-document-chaos-management"/>
+        <updated>2026-04-15T06:25:07.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,620Red alert, audits inbound, internal leak detected, 200:00:03,620 –> 00:00:06,040archive pressure rising across the grid. 300:00:06,040 –> 00:00:08,520Command deck alarms flare as systems lose pressure 400:00:08,520 –> 00:00:09,880in records bay three. 500:00:09,880 –> 00:00:12,240Listen up, armies die from lasers. 600:00:12,240 –> 00:00:13,980Organizations die from loss documents. 700:00:13,980 –> 00:00:16,320Per view is not a […]]]></summary>
         <author>
             <name>Mirko Peters</name>
         </author>
@@ -42,13 +237,13 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What We Learned (and Loved) at WordCamp Asia 2026 in Mumbai]]></title>
-        <id>https://365community.online/what-we-learned-and-loved-at-wordcamp-asia-2026-in-mumbai</id>
-        <link href="https://365community.online/what-we-learned-and-loved-at-wordcamp-asia-2026-in-mumbai"/>
-        <updated>2026-04-14T21:56:00.000Z</updated>
-        <summary type="html"><![CDATA[WordCamp Asia 2026 just wrapped in Mumbai, and it was one of the largest WordPress events ever. WordPress users, developers, and creators gathered at the Jio World Convention Centre for three days of building and learning together. Before we get into the highlights, a massive thank you to the organizers, volunteers, and speakers who made […]]]></summary>
+        <title type="html"><![CDATA[Week 3 Updates : Free Microsoft Dynamics 365 Finance and SCM Course]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3072</id>
+        <link href="https://exploredynamics365.home.blog/2026/04/15/week-3-updates-free-microsoft-dynamics-365-finance-and-scm-course/"/>
+        <updated>2026-04-14T20:23:48.000Z</updated>
+        <summary type="html"><![CDATA[3 weeks in. 16 videos published. Still free. Most paid courses don’t cover this much. Week 3 of the FREE Microsoft Dynamics 365 Finance & SCM course is live. This week is different. This is where learners stop watching — and start doing. 💡 6 new videos just dropped: 🔹 Creating & Posting Financial Journals […]]]></summary>
         <author>
-            <name>Belinda Allen</name>
+            <name>Saurabh Bharti</name>
         </author>
     </entry>
     <entry>
@@ -111272,161 +111467,6 @@ Unlocking Financial Agility: Demystifying Revenue and Expense Deferrals in Dynam
 5 Reasons To Start Using A Payment Processing System]]></summary>
         <author>
             <name>Calsoft Systems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Intelligence tools for Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=105794</id>
-        <link href="https://erpsoftwareblog.com/2024/04/business-intelligence-tools-for-business-central/"/>
-        <updated>2024-04-16T11:37:18.000Z</updated>
-        <summary type="html"><![CDATA[Business Intelligence tools for Business Central help analyze and visualize your data effectively. Several Business Intelligence (BI) tools available for analytics and reporting. This blog discusses some popular options […]
-The post Business Intelligence tools for Business Central appeared first on ERP Software Blog.
-2015 and Beyond: Business Intelligence
-Ask These Questions when Shopping for a BI Product for Dynamics NAV
-Media Dashboards for Microsoft Dynamics GP]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesforce vs Dynamics 365 CRM Solutions: What’s Best for You?]]></title>
-        <id>https://www.encorebusiness.com/?p=61799</id>
-        <link href="https://www.encorebusiness.com/blog/salesforce-vs-dynamics-365-crm/"/>
-        <updated>2024-04-16T11:13:06.000Z</updated>
-        <summary type="html"><![CDATA[Salesforce vs Dynamics 365 CRM Solutions: What’s Best for You?
-Choosing the best Customer Relationship Management (CRM) application for your business can be daunting for sales and IT leaders alike. Dynamics 365 CRM and Salesforce are both sophisticated sales automation platforms that provide insights into potential and existing customers. Selecting which one is right for you depends on the characteristics of your company, technology, and...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Jess Mooney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Apps streamlined consent dialog begins rollout this week.]]></title>
-        <id>power-apps-streamlined-consent-dialog-begins-rollout-this-week</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-streamlined-consent-dialog-begins-rollout-this-week/"/>
-        <updated>2024-04-16T09:25:16.000Z</updated>
-        <summary type="html"><![CDATA[The new updated and streamlined consent dialog will make it easier for Power Apps users to know exactly what they are consenting to.]]></summary>
-        <author>
-            <name>Power Apps Archives - Microsoft Power Platform Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Focused view in Dynamics 365]]></title>
-        <id>https://365community.online/using-focused-view-in-dynamics-365</id>
-        <link href="https://365community.online/using-focused-view-in-dynamics-365"/>
-        <updated>2024-04-15T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Focused view in Dynamics 365 that allows users to view and manage all their records in one place, allowing them to be more productive, as they can stay on track […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapting to Rising Parcel Rates in 2024 with Business Central and Order Ship Express]]></title>
-        <id>https://erpsoftwareblog.com/?p=105814</id>
-        <link href="https://erpsoftwareblog.com/2024/04/adapting-to-rising-shipping-rates-with-order-ship-express/"/>
-        <updated>2024-04-15T21:19:55.000Z</updated>
-        <summary type="html"><![CDATA[As SMBs navigate the complexities of increased shipping rates in 2024, leveraging advanced solutions like Order Ship Express within Business Central becomes indispensable.
-The post Adapting to Rising Parcel Rates in 2024 with Business Central and Order Ship Express appeared first on ERP Software Blog.
-7 Ways ReMAN365 Keeps Your Service Techs at the Top of Their Game
-Download your free copy of the better subscription billing bible
-Connectors Help ISV Solutions Thrive in The Microsoft Ecosystem]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Life After Dynamics GP”]]></title>
-        <id>https://erpsoftwareblog.com/?p=103237</id>
-        <link href="https://erpsoftwareblog.com/2024/04/life-after-dynamics-gp/"/>
-        <updated>2024-04-15T20:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics 365 BC Webinar Series Recap by CAL Business Solutions Is it time to upgrade? If you are a Dynamics GP customer, you may be wondering what your options are […]
-The post “Life After Dynamics GP” appeared first on ERP Software Blog.
-Famous People You Can Meet at User Group Summit Phoenix – MVPs and All Stars Twitter Lists
-Microsoft Dynamics ERP training tips
-JourneyTEAM Awarded Bob Scott's Var Stars 2022 ERP Award]]></summary>
-        <author>
-            <name>CAL Business Solutions, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionize your Logistics Strategy with MetaShip for Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=105798</id>
-        <link href="https://erpsoftwareblog.com/2024/04/revolutionize-your-logistics-strategy-with-metaship-for-business-central/"/>
-        <updated>2024-04-15T18:10:21.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of modern business, efficient logistics management is not just a competitive advantage; it’s a necessity. The ability to streamline shipping processes, manage inventory effectively, and ensure […]
-The post Revolutionize your Logistics Strategy with MetaShip for Business Central appeared first on ERP Software Blog.
-Exploring Multiple Printing Options in MetaShip for Business Central
-Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip
-Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Overcome ERP Implementation Challenges]]></title>
-        <id>https://erpsoftwareblog.com/?p=105594</id>
-        <link href="https://erpsoftwareblog.com/2024/04/how-to-overcome-erp-implementation-challenges/"/>
-        <updated>2024-04-15T17:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Leading ERP solutions like Sage Intacct and Microsoft D365 BC are designed to be fast and easy to implement, even for complex businesses. And, implementing an Enterprise Resource Planning (ERP) […]
-The post How to Overcome ERP Implementation Challenges appeared first on ERP Software Blog.
-Implementing BC PST & PEI HST in Dynamics GP
-[On-Demand Webinar]: Learn How to Process AP Invoices from Microsoft Teams
-Power BI: Making Your Data More Useful and Your Processes More Efficient]]></summary>
-        <author>
-            <name>Express Info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devendra Velegandla’s Power Platform Odyssey: From Accenture to Rio Tinto, Embracing Governance, – YouTube]]></title>
-        <id>https://365community.online/devendra-velegandlas-power-platform-odyssey-from-accenture-to-rio-tinto-embracing-governance-youtube</id>
-        <link href="https://365community.online/devendra-velegandlas-power-platform-odyssey-from-accenture-to-rio-tinto-embracing-governance-youtube"/>
-        <updated>2024-04-15T15:28:27.000Z</updated>
-        <summary type="html"><![CDATA[Devendra Velegandla’s Power Platform Odyssey: From Accenture to Rio Tinto, Embracing Governance, FULL SHOW NOTES https://podcast.nz365guy.com/543   Embark on a journey with Devendra and me as we unravel the intricacies […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seamless integration, seamless operations: Introducing native integration between Dynamics 365 Field Service and Business Central]]></title>
-        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/04/15/seamless-integration-seamless-operations-introducing-native-integration-between-dynamics-365-field-service-and-business-central/</id>
-        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/04/15/seamless-integration-seamless-operations-introducing-native-integration-between-dynamics-365-field-service-and-business-central/"/>
-        <updated>2024-04-15T15:12:28.000Z</updated>
-        <summary type="html"><![CDATA[We are thrilled to announce the general availability of the native integration between Dynamics 365 Field Service and Dynamics 365 Business Central. This integration equips organizations with a comprehensive approach that harmonizes service delivery with financials, resources, and inventory management. It also equips frontline workers with modern tools, ensuring exceptional service from the outset. Let’s explore the advantages that this seamless integration provides.
-The post Seamless integration, seamless operations: Introducing native integration between Dynamics 365 Field Service and Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Luis Masieri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central 2024 Wave 2 release plans: “as is” and “to be”]]></title>
-        <id>https://365community.online/dynamics-365-business-central-2024-wave-2-release-plans-as-is-and-to-be</id>
-        <link href="https://365community.online/dynamics-365-business-central-2024-wave-2-release-plans-as-is-and-to-be"/>
-        <updated>2024-04-15T15:02:51.000Z</updated>
-        <summary type="html"><![CDATA[We’re just launching the Dynamics 365 Business Central 2024 Wave 1 release (version 24) and at the same time Microsoft officially announced the plans for the future 2024 Wave 2 […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Updates Dynamics 365 License Pricing to Take Effect October 1st 2024]]></title>
-        <id>https://365community.online/microsoft-updates-dynamics-365-license-pricing-to-take-effect-october-1st-2024</id>
-        <link href="https://365community.online/microsoft-updates-dynamics-365-license-pricing-to-take-effect-october-1st-2024"/>
-        <updated>2024-04-15T14:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Updated Dynamics 365 License Pricing Update Microsoft recently announced updated pricing for Dynamics 365 licensing which will take effect October 1st, 2024: https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/12/new-pricing-for-microsoft-dynamics-365-effective-october-2024/ Here is an excerpt of the […]]]></summary>
-        <author>
-            <name>Alex Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Updates Dynamics 365 License Pricing to Take Effect October 1st 2024]]></title>
-        <id>https://alexdmeyer.com/?p=3105</id>
-        <link href="https://alexdmeyer.com/2024/04/15/microsoft-updates-dynamics-365-license-pricing-to-take-effect-october-1st-2024/"/>
-        <updated>2024-04-15T14:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Updated Dynamics 365 License Pricing Update Microsoft recently announced updated pricing for Dynamics 365 licensing which will take effect October 1st, 2024: https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/12/new-pricing-for-microsoft-dynamics-365-effective-october-2024/ Here is an excerpt of the pricing, you can see: As is probably expected, there is an increase in pricing across the board. So the obvious next question is… What Can […]
-The post Microsoft Updates Dynamics 365 License Pricing to Take Effect October 1st 2024 appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
     <entry>
