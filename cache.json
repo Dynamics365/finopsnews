@@ -1357,6 +1357,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=146374",
+          "author": "DStrategyTech",
+          "description": "xxx\nMany organizations reach a point where their systems are in place, but operations still feel heavier than expected. Processes take longer, teams rely on follow-ups, and reporting requires effort. Work […]\nThe post Business Central Beyond the Basics: Why Integration and Automation Matter appeared first on ERP Software Blog.\nDon’t Stop the Flow: Managing a Job Shop\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nCanadian Payroll for Dynamics NAV and 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2026/04/business-central-automation-integration/",
+          "publishedOn": "2026-04-19T02:55:17.000Z",
+          "wordCount": 6940,
+          "title": "Business Central Beyond the Basics: Why Integration and Automation Matter",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dst-blog-bcbeyond-erpblog-625x417.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=146367",
           "author": "DATABASICS",
           "description": "xxx\nYou moved to Dynamics 365 to run a cleaner finance operation. Then month-end hits, and half the delay traces back to expense reports, timesheets, and project cost data that still […]\nThe post How to Close the Time and Expense Gap in Dynamics 365 Before It Breaks Month-End appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -37965,36 +37975,6 @@
           "wordCount": 5529,
           "title": "Navigating Business Central Power BI Challenges: Strategies for Effective Data Management",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cosmos-Power-BI-Pitfalls.webp"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105903",
-          "author": "x2x eCommerce",
-          "description": "Enhance Business Central Reporting with Power BI to substantially boost analytical capabilities and provide deeper business operations insight. The major steps in setting up BI reporting are: Data Extraction: […]\nThe post Enhance Business Central Reporting with Power BI appeared first on ERP Software Blog.\nHow Vendor Portal Enhances RFQ Management in Business Central\nIntegrating ERP with different platforms increases efficiency?\nBusiness Central: Digital Transformation in the Manufacturing Industry",
-          "link": "https://erpsoftwareblog.com/2024/04/enhance-business-central-reporting-with-power-bi/",
-          "publishedOn": "2024-04-19T12:54:43.000Z",
-          "wordCount": 5116,
-          "title": "Enhance Business Central Reporting with Power BI",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-61-300x169.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105939",
-          "author": "MetaViewer from Metafile",
-          "description": "Errors in Accounts Payable can be costly! The AP department needs to ensure that accurate payments are being made each time, and manual data entry systems can result in paying […]\nThe post Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors appeared first on ERP Software Blog.\nTop Reasons To Automate Accounts Payable\nTop 10 Myths Surrounding AP Automation\nFiling Away Inefficiency: The ROI of Electronic Invoicing",
-          "link": "https://erpsoftwareblog.com/2024/04/optimizing-payment-accuracy-the-role-of-ap-automation-in-mitigating-errors/",
-          "publishedOn": "2024-04-18T20:53:36.000Z",
-          "wordCount": 5053,
-          "title": "Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/A8x604cx71x1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105934",
-          "author": "MetaOption LLC",
-          "description": "In today’s dynamic business landscape, effective marketing isn’t just about reaching out to potential customers; it’s about engaging them in meaningful ways, nurturing relationships, and ultimately driving conversions. To achieve […]\nThe post Maximizing Marketing Potential with Dynamics 365: A Comprehensive Guide appeared first on ERP Software Blog.\nTech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nEasily Manage Data with Business Central Virtual Tables",
-          "link": "https://erpsoftwareblog.com/2024/04/maximizing-marketing-potential-with-dynamics-365/",
-          "publishedOn": "2024-04-18T19:54:05.000Z",
-          "wordCount": 5332,
-          "title": "Maximizing Marketing Potential with Dynamics 365: A Comprehensive Guide",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-81.jpg"
         }
       ]
     },
@@ -39380,6 +39360,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/automated-java-21-migration-and-cve-remediation-with-ai",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,880Still hand upgrading legacy Java, that’s not craftsmanship, that’s unpaid penance. 200:00:03,880 –> 00:00:07,880Manual modernization is a failure mode, slow, error prone and permanently behind. 300:00:07,880 –> 00:00:08,880The truth? 400:00:08,880 –> 00:00:12,280AI agents now handle the drudgery with receipts. 500:00:12,280 –> 00:00:13,520Here’s what you actually get. 600:00:13,520 –> 00:00:17,120Time back, CV is gone, […]",
+          "link": "https://365community.online/automated-java-21-migration-and-cve-remediation-with-ai",
+          "publishedOn": "2026-04-19T00:39:01.000Z",
+          "wordCount": 6685,
+          "title": "Automated Java 21 Migration and CVE Remediation with AI",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776559142_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/cpu-fallback-in-ai-inference-causes-fixes",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,320It started with a warning, then silence. 200:00:02,320 –> 00:00:05,120The GPU bill climbed as if the accelerator never slept, 300:00:05,120 –> 00:00:07,400yet outputs crawled like the lights went out. 400:00:07,400 –> 00:00:09,440Dashboards were green, customers weren’t. 500:00:09,440 –> 00:00:11,800The anomaly didn’t fit. 600:00:11,800 –> 00:00:15,040Near zero GPU utilization, while latency spiked, 700:00:15,040 –> […]",
+          "link": "https://365community.online/cpu-fallback-in-ai-inference-causes-fixes",
+          "publishedOn": "2026-04-18T21:02:20.000Z",
+          "wordCount": 6683,
+          "title": "CPU Fallback in AI Inference: Causes & Fixes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776546140_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/your-first-power-app-from-idea-to-working-solution",
+          "author": "Mirko Peters",
+          "description": "Most organizations think building an app is about screens, features, or tools. It’s not. Because apps don’t create value on their own—they change how work enters the business. And if the entry point is weak, everything behind it becomes slower, messier, and harder to trust. In this episode, we break down why your first Power […]",
+          "link": "https://365community.online/your-first-power-app-from-idea-to-working-solution",
+          "publishedOn": "2026-04-18T17:23:47.000Z",
+          "wordCount": 2544,
+          "title": "Your First Power App: From Idea to Working Solution",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/81b733c44b65e14e01291db0d7d89066.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/langchain4j-governance-best-practices-fixes",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:04,800AI agents are shipping faster than your change control meetings and the governance is a vibe. 200:00:04,800 –> 00:00:08,640You know that feeling when a co-pilot ships with tenant-wide access just for testing? 300:00:08,640 –> 00:00:12,960Yeah, that’s your compliance officer’s hard beat you’re hearing. Today, I’m tearing down the mess 400:00:12,960 –> 00:00:18,000in Langchain […]",
+          "link": "https://365community.online/langchain4j-governance-best-practices-fixes",
+          "publishedOn": "2026-04-18T13:40:55.000Z",
+          "wordCount": 6643,
+          "title": "LangChain4j Governance: Best Practices & Fixes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776519656_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/excel-is-not-a-database-power-apps-migration-tips",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,560Excel is not a database, stop pretending it is. 200:00:02,560 –> 00:00:05,240When you wire power apps to a spreadsheet and call it production, 300:00:05,240 –> 00:00:08,960you’re building a glass elevator and acting shocked when it shatters under traffic. 400:00:08,960 –> 00:00:10,560Here’s what’s actually at stake. 500:00:10,560 –> 00:00:15,560Data loss that nobody notices until […]",
+          "link": "https://365community.online/excel-is-not-a-database-power-apps-migration-tips",
+          "publishedOn": "2026-04-18T09:57:55.000Z",
+          "wordCount": 7688,
+          "title": "Excel Is Not a Database: Power Apps Migration Tips",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776506275_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-bi-report-governance-ensuring-truth-trust",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:03,680Dear congregation, we scatter reports like leaves in a high wind, 200:00:03,680 –> 00:00:06,440and then we wonder why no one can find the tree. 300:00:06,440 –> 00:00:08,640Most think a quick share link is harmless, 400:00:08,640 –> 00:00:11,960but it breaks lineage, weakens truth, and breeds confusion. 500:00:11,960 –> 00:00:16,040Here’s what actually happens when we […]",
+          "link": "https://365community.online/power-bi-report-governance-ensuring-truth-trust",
+          "publishedOn": "2026-04-18T06:24:13.000Z",
+          "wordCount": 7921,
+          "title": "Power BI Report Governance: Ensuring Truth & Trust",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776493454_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/entra-id-oauth-consent-attack-what-you-must-know",
           "author": "Mirko Peters",
@@ -79234,96 +79274,6 @@
           "wordCount": 3217,
           "title": "Power Pages Plus – Spring Announcements Webinar – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713635261_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-do-you-track-everything-a-system-administrator-does-in-dynamics-365-for-finance-operations-you-dont",
-          "author": "Alex Meyer",
-          "description": "The request to track everything a user assigned the SysAdmin role is something I see quite often; the problem is that this request is not feasible in the way that […]",
-          "link": "https://365community.online/how-do-you-track-everything-a-system-administrator-does-in-dynamics-365-for-finance-operations-you-dont",
-          "publishedOn": "2024-04-19T15:15:40.000Z",
-          "wordCount": 3279,
-          "title": "How Do You Track Everything a System Administrator Does in Dynamics 365 for Finance & Operations? You Don’t.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/How-Do-You-Track-Everything-a-System-Administrator-Does-in.jpg?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/madic-dynamics-knowledge-hub-webinars-jet-reports-business-central",
-          "author": "Ian Grieve",
-          "description": "In our most recent webinar here at MADIC dynamics, we took a look at Jet Reports & Business Central. If you want to catch up on this webinar, you can […]",
-          "link": "https://365community.online/madic-dynamics-knowledge-hub-webinars-jet-reports-business-central",
-          "publishedOn": "2024-04-19T14:00:05.000Z",
-          "wordCount": 3256,
-          "title": "MADIC dynamics Knowledge Hub Webinars: Jet Reports & Business Central",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713536862_MADIC-dynamics-Knowledge-Hub-Webinars-Jet-Reports-amp-Business-Central.png?fit=550%2C600&ssl=1"
-        },
-        {
-          "id": "https://365community.online/get-ready-for-microsoft-build-online-bizapps-edition",
-          "author": "Carina Claesson",
-          "description": "May is approaching and do you know what that means!? Microsoft Build is around the corner! In case you have not registered yet, navigate to the event site, Microsoft Build, […]",
-          "link": "https://365community.online/get-ready-for-microsoft-build-online-bizapps-edition",
-          "publishedOn": "2024-04-19T13:32:07.000Z",
-          "wordCount": 3251,
-          "title": "Get ready for Microsoft Build (online) – BizApps Edition",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Get-ready-for-Microsoft-Build-online-–-BizApps-Edition.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/solarwinds-training-solarwinds-orion-course-solarwinds-npm-tool-tutorial-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "SolarWinds Training | SolarWinds Orion Course | SolarWinds Network Performance Monitor | MindMajix This MindMajix’s YouTube video on SolarWinds training is sketched for candidates who wish to dominate the job […]",
-          "link": "https://365community.online/solarwinds-training-solarwinds-orion-course-solarwinds-npm-tool-tutorial-mindmajix-youtube",
-          "publishedOn": "2024-04-19T12:45:07.000Z",
-          "wordCount": 3535,
-          "title": "SolarWinds Training | SolarWinds Orion Course | SolarWinds NPM Tool Tutorial | MindMajix – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713561313_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/transforming-business-travel-with-maps-integrated-within-dynamics-365-crm",
-          "author": "Inogic",
-          "description": "The post Transforming Business Travel with maps integrated within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link",
-          "link": "https://365community.online/transforming-business-travel-with-maps-integrated-within-dynamics-365-crm",
-          "publishedOn": "2024-04-19T10:07:37.000Z",
-          "wordCount": 3383,
-          "title": "Transforming Business Travel with maps integrated within Dynamics 365 CRM",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Maplytics-Banner-Images-2024-04-19T151234.183.png?fit=700%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-rename-a-company",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-rename-a-company",
-          "publishedOn": "2024-04-19T10:00:36.000Z",
-          "wordCount": 3267,
-          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Rename a Company",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713522319_In-Microsoft-Dynamics-365-Business-Central-Administration-how-do-I….png?fit=1200%2C221&ssl=1"
-        },
-        {
-          "id": "https://365community.online/crm-user-adoption-simplified-a-guide-to-using-dynamics-365s-user-adoption-monitor",
-          "author": "Inogic",
-          "description": "CRM is essential for an effective sales process. It helps businesses streamline workflow, maintain data quality, boost sales productivity and performance, eliminate manual tasks, etc. But to get the most […]",
-          "link": "https://365community.online/crm-user-adoption-simplified-a-guide-to-using-dynamics-365s-user-adoption-monitor",
-          "publishedOn": "2024-04-19T09:36:28.000Z",
-          "wordCount": 3537,
-          "title": "CRM User Adoption Simplified: A Guide to Using Dynamics 365’s User Adoption Monitor",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/UAM-Blog.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/bookmark-the-important-dynamics-365-urls",
-          "author": "Arun Potti",
-          "description": "Found an interesting article about the Microsoft Dynamics 365 important URLs bookmark, which was done by András Fördős – . Follow the below steps and bookmark on your required browser […]",
-          "link": "https://365community.online/bookmark-the-important-dynamics-365-urls",
-          "publishedOn": "2024-04-19T07:46:56.000Z",
-          "wordCount": 3264,
-          "title": "Bookmark the Important Dynamics 365 URLs",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Microsoft-Logo-1.png?fit=1200%2C796&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-pages-ai-lesson-10-all-you-need-to-know-about-multistep-forms-with-oliver-rodrigues-youtube",
-          "author": "Victor Dantas",
-          "description": "Zero To Hero – Power Pages & AI – Lesson 10 : “All you need to know about Multistep Forms” – with Oliver Rodrigues is live now! Access the Teams […]",
-          "link": "https://365community.online/power-pages-ai-lesson-10-all-you-need-to-know-about-multistep-forms-with-oliver-rodrigues-youtube",
-          "publishedOn": "2024-04-19T07:46:06.000Z",
-          "wordCount": 3214,
-          "title": "Power Pages & AI – Lesson 10 : “All you need to know about Multistep Forms” – with Oliver Rodrigues – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713533554_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -81330,16 +81280,6 @@
           "wordCount": 4205,
           "title": "Using the Deny Permission from the AOT in D365FO",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/04/1-1.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=3123",
-          "author": "Alex",
-          "description": "The request to track everything a user assigned the SysAdmin role is something I see quite often; the problem is that this request is not feasible in the way that it is in other ERPs. Let’s explain where this request normally comes from, why it not feasible, and what we can do to address this. […]\nThe post How Do You Track Everything a System Administrator Does in Dynamics 365 for Finance & Operations? You Don’t. appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2024/04/19/how-do-you-track-everything-a-system-administrator-does-in-dynamics-365-for-finance-operations-you-dont/",
-          "publishedOn": "2024-04-19T15:15:40.000Z",
-          "wordCount": 4576,
-          "title": "How Do You Track Everything a System Administrator Does in Dynamics 365 for Finance & Operations? You Don’t.",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/04/6e901f73-f570-4922-8842-a4cd89e30c9e.jpg"
         }
       ]
     },
@@ -82938,6 +82878,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=201964",
+          "author": "Hemang Shah and Lily Shelke",
+          "description": "In contact centers, a voice conversation does not end when the call disconnects. That’s when critical work begins – logging outcomes, updating systems, triggering workflows, and ensuring compliance. Yet today, post-call actions are often delayed, inconsistent, or dependent on manual or external processes.  With caller hang-up event support in Dynamics 365 Contact Center and Copilot Studio, we are changing that.\nThe post Trigger post-call actions using caller hang-up events  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/15/trigger-post-call-actions-using-caller-hang-up-events/",
+          "publishedOn": "2026-04-15T20:44:32.000Z",
+          "wordCount": 5377,
+          "title": "Trigger post-call actions using caller hang-up events",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2022/11/MSC21_PICHA_mobile_73046-1024x683.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=201770",
           "author": "Pooja Fandan",
@@ -85337,16 +85287,6 @@
           "wordCount": 3028,
           "title": "Announcing configurable Copilot summaries in Field Service",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/04/MSFT_D365_APR11_330649_Blog_BlogHeader_240411_V1_1260.png"
-        },
-        {
-          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/18/2024-release-wave-1-transforming-experiences-with-microsoft-copilot-and-dynamics-365/",
-          "author": "Lori Lamkin",
-          "description": "In this extraordinary age of AI, we find ourselves on the brink of a profound revolution. Companies are looking for generative AI to solve longstanding problems around customer connection, loyalty, and seller productivity.\nThe post 2024 release wave 1: Transforming experiences with Microsoft Copilot and Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/18/2024-release-wave-1-transforming-experiences-with-microsoft-copilot-and-dynamics-365/",
-          "publishedOn": "2024-04-18T16:30:00.000Z",
-          "wordCount": 4359,
-          "title": "2024 release wave 1: Transforming experiences with Microsoft Copilot and Dynamics 365",
-          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/04/MSFT_D365_APR15_333192_Blog_Blogheader_240415_V03_1200.png"
         }
       ]
     },
@@ -85971,26 +85911,6 @@
           "wordCount": 3360,
           "title": "[FDD]Functional Design Document: Learning Path to Become Functional Consultant:FC-007",
           "imageUrl": "http://img.youtube.com/vi/Q829zlJLTjo/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2869",
-          "author": "Saurabh Bharti",
-          "description": "Confused about Copilot in Microsoft Dynamics 365 finance and Copilot for Finance? Yes, both are different !!! In this video, I’ll be explaining the use case utilizing both features. Welcome to the next video focusing on Copilot and AI capabilities within Microsoft Dynamics 365 Finance and Operations. In this session, we’ll delve into Copilot support […]",
-          "link": "https://exploredynamics365.home.blog/2024/04/19/copilot-in-microsoft-dynamics-365-finance-and-operation-dcai003/",
-          "publishedOn": "2024-04-19T07:09:59.000Z",
-          "wordCount": 3292,
-          "title": "Copilot In Microsoft Dynamics 365 Finance and Operation: DCAI003",
-          "imageUrl": "http://img.youtube.com/vi/0rSW-rFzch0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2866",
-          "author": "Saurabh Bharti",
-          "description": "Amidst the buzz and discussions surrounding Copilot and AI capabilities, I felt compelled to delve into their functionalities specifically from the perspective of Dynamics 365 Finance and Operations. This initial video aims to shed light on the existing capabilities and features, providing insights into what is currently available for users. Additionally, it outlines the process […]",
-          "link": "https://exploredynamics365.home.blog/2024/04/19/introduction-to-copilot-in-microsoft-dynamics-365-finance-and-operations-dcai002/",
-          "publishedOn": "2024-04-19T07:07:52.000Z",
-          "wordCount": 3232,
-          "title": "Introduction to Copilot in Microsoft Dynamics 365 Finance and Operations: DCAI002",
-          "imageUrl": "http://img.youtube.com/vi/zHzrCaso-sA/0.jpg"
         }
       ]
     },
@@ -86438,26 +86358,6 @@
           "wordCount": 3360,
           "title": "[FDD]Functional Design Document: Learning Path to Become Functional Consultant:FC-007",
           "imageUrl": "http://img.youtube.com/vi/Q829zlJLTjo/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2869",
-          "author": "Saurabh Bharti",
-          "description": "Confused about Copilot in Microsoft Dynamics 365 finance and Copilot for Finance? Yes, both are different !!! In this video, I’ll be explaining the use case utilizing both features. Welcome to the next video focusing on Copilot and AI capabilities within Microsoft Dynamics 365 Finance and Operations. In this session, we’ll delve into Copilot support […]",
-          "link": "https://exploredynamics365.home.blog/2024/04/19/copilot-in-microsoft-dynamics-365-finance-and-operation-dcai003/",
-          "publishedOn": "2024-04-19T07:09:59.000Z",
-          "wordCount": 3292,
-          "title": "Copilot In Microsoft Dynamics 365 Finance and Operation: DCAI003",
-          "imageUrl": "http://img.youtube.com/vi/0rSW-rFzch0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2866",
-          "author": "Saurabh Bharti",
-          "description": "Amidst the buzz and discussions surrounding Copilot and AI capabilities, I felt compelled to delve into their functionalities specifically from the perspective of Dynamics 365 Finance and Operations. This initial video aims to shed light on the existing capabilities and features, providing insights into what is currently available for users. Additionally, it outlines the process […]",
-          "link": "https://exploredynamics365.home.blog/2024/04/19/introduction-to-copilot-in-microsoft-dynamics-365-finance-and-operations-dcai002/",
-          "publishedOn": "2024-04-19T07:07:52.000Z",
-          "wordCount": 3232,
-          "title": "Introduction to Copilot in Microsoft Dynamics 365 Finance and Operations: DCAI002",
-          "imageUrl": "http://img.youtube.com/vi/zHzrCaso-sA/0.jpg"
         }
       ]
     },
