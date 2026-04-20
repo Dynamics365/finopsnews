@@ -619,16 +619,6 @@
           "wordCount": 4537,
           "title": "Leveraging Azure OpenAI and Cognitive Search for Enterprise AI Applications",
           "imageUrl": "https://azureintegrations.com/wp-content/uploads/2024/09/enterprise-data-with-azure-openai-and-ai-search-3-1.png"
-        },
-        {
-          "id": "http://azureintegrations.com/?p=1424",
-          "author": "Poojith Jain",
-          "description": "In the development of distributed systems and cloud-based applications, extensive logging is crucial in monitoring, troubleshooting, and ensuring system reliability. When it comes to Azure integration components, effective logging becomes even more critical due to the distributed nature of the applications and the multitude of services involved. In this blog, I would like to discussContinue reading \"Advanced Logging and Monitoring for Azure Integration Components using OpenAI\"",
-          "link": "https://azureintegrations.com/2024/04/20/advanced-logging-and-monitoring-for-azure-integration-components-using-openai/",
-          "publishedOn": "2024-04-20T08:00:00.000Z",
-          "wordCount": 4572,
-          "title": "Advanced Logging and Monitoring for Azure Integration Components using OpenAI",
-          "imageUrl": "https://poojithjain.files.wordpress.com/2024/04/image-1.png"
         }
       ]
     },
@@ -1362,7 +1352,7 @@
           "description": "xxx\nMany organizations reach a point where their systems are in place, but operations still feel heavier than expected. Processes take longer, teams rely on follow-ups, and reporting requires effort. Work […]\nThe post Business Central Beyond the Basics: Why Integration and Automation Matter appeared first on ERP Software Blog.\nDon’t Stop the Flow: Managing a Job Shop\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nCanadian Payroll for Dynamics NAV and 365 Business Central",
           "link": "https://erpsoftwareblog.com/2026/04/business-central-automation-integration/",
           "publishedOn": "2026-04-19T02:55:17.000Z",
-          "wordCount": 6940,
+          "wordCount": 6929,
           "title": "Business Central Beyond the Basics: Why Integration and Automation Matter",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dst-blog-bcbeyond-erpblog-625x417.png"
         },
@@ -37965,16 +37955,6 @@
           "wordCount": 5296,
           "title": "Streamlining Government Contract Management with Business Central",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-131.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=105938",
-          "author": "Cosmos Data Technologies",
-          "description": "In the pursuit of valuable insights from Microsoft Dynamics 365 Business Central, many managers and executives are turning to Power BI. This platform, boasting over five million users, stands out […]\nThe post Navigating Business Central Power BI Challenges: Strategies for Effective Data Management appeared first on ERP Software Blog.\nMicrosoft Power BI: Custom Bar Colors Helps you Show Your ERP Data Better\nJoin JourneyTEAM's Tech Insider Update Webinar on 8/6\nDeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021",
-          "link": "https://erpsoftwareblog.com/2024/04/business-central-power-bi-challenges/",
-          "publishedOn": "2024-04-19T19:26:43.000Z",
-          "wordCount": 5529,
-          "title": "Navigating Business Central Power BI Challenges: Strategies for Effective Data Management",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cosmos-Power-BI-Pitfalls.webp"
         }
       ]
     },
@@ -39360,6 +39340,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/overcoming-sharepoint-limitations-in-power-apps",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,660SharePoint lists are a database for Power Apps. 200:00:02,660 –> 00:00:03,600Incorrect. 300:00:03,600 –> 00:00:07,700That belief is why your apps stall at 2,000 records, choke on filters, 400:00:07,700 –> 00:00:10,540and die behind a friendly blue delegation banner. 500:00:10,540 –> 00:00:12,940Most teams discover the cliff at 5,000 items 600:00:12,940 –> 00:00:14,860and then spend weeks patching […]",
+          "link": "https://365community.online/overcoming-sharepoint-limitations-in-power-apps",
+          "publishedOn": "2026-04-20T01:10:09.000Z",
+          "wordCount": 6433,
+          "title": "Overcoming SharePoint Limitations in Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776647409_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-notification-trap-why-your-m365-setup-is-killing-focus",
+          "author": "Mirko Peters",
+          "description": "Your organization doesn’t have a focus problem — it has a notification architecture problem. Most teams blame poor focus on habits, discipline, or time management. But the reality is different:your Microsoft 365 environment is designed to interrupt people constantly. Teams pings. Outlook banners. Red badges. Mobile alerts.All of it pulls attention sideways — and then […]",
+          "link": "https://365community.online/the-notification-trap-why-your-m365-setup-is-killing-focus",
+          "publishedOn": "2026-04-19T21:31:44.000Z",
+          "wordCount": 2429,
+          "title": "The Notification Trap: Why Your M365 Setup Is Killing Focus",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/3a6ee2d81ff945345e8b7fb66b486eb2.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/your-calendar-just-got-a-brain",
+          "author": "Peter Petersen",
+          "description": "Monday AI Dispatch – 02 What Copilot Calendar Instructions Say About the Future of Work You glance at your inbox and see an email you didn’t send. Technically I sent it. It reads: “Accepted by Copilot on behalf of Petersen, Pat.” A meeting invite on my calendar from a colleague came in while you were […]",
+          "link": "https://365community.online/your-calendar-just-got-a-brain",
+          "publishedOn": "2026-04-19T19:18:00.000Z",
+          "wordCount": 2412,
+          "title": "Your Calendar Just Got a Brain",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/pat-petersen-69e529006b19c.png?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-automate-vs-ai-workflows-agent-whats-next",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,320You think Power Automate is safe, it isn’t. 200:00:02,320 –> 00:00:06,160Workflow’s agent just ate its lunch while you were still dragging connectors like it’s 2019. 300:00:06,160 –> 00:00:07,160The truth? 400:00:07,160 –> 00:00:12,880Conversational, intent-driven automation beats rigid, designer-driven flows for most everyday work. 500:00:12,880 –> 00:00:14,920Say what you want, get the workflow move on. […]",
+          "link": "https://365community.online/power-automate-vs-ai-workflows-agent-whats-next",
+          "publishedOn": "2026-04-19T18:00:19.000Z",
+          "wordCount": 8203,
+          "title": "Power Automate vs AI Workflows Agent: What’s Next?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776621619_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-multi-tenant-copilot-trap-mastering-global-ai-governance",
+          "author": "Mirko Peters",
+          "description": "Microsoft 365 Copilot is not a rollout decision. It is a governance decision with a very short runway. Most leadership teams approach it as enablement, but Copilot operates on the environment exactly as it exists today—not as you intend it to be tomorrow. In multi-tenant organizations, this creates a structural problem. AI operates within tenant […]",
+          "link": "https://365community.online/the-multi-tenant-copilot-trap-mastering-global-ai-governance",
+          "publishedOn": "2026-04-19T14:48:59.000Z",
+          "wordCount": 2598,
+          "title": "The Multi-Tenant Copilot Trap: Mastering Global AI Governance",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/f353b16831b7edb14700fe1786529322.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/generative-pages-part-2-d365-model-driven-app-step-by-step-guide-to-creating-pages-with-ai-youtube",
+          "author": "Manish chauhan",
+          "description": "Step-by-step guide to creating custom pages using AI in Dynamics 365 model-driven apps! 🤖 In this short, learn how to set up your environment, open your solution, and use the Generative Pages agent to build pages just by describing what you want — the AI generates the React code, handles the UI, and brings your […]",
+          "link": "https://365community.online/generative-pages-part-2-d365-model-driven-app-step-by-step-guide-to-creating-pages-with-ai-youtube",
+          "publishedOn": "2026-04-19T12:11:38.000Z",
+          "wordCount": 2091,
+          "title": "Generative Pages Part 2 – D365 Model driven app – Step by Step Guide to Creating Pages with AI – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776613603_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/master-video-integration-in-powerapps-microsoft-dynamics-365-youtube",
+          "author": "Manish chauhan",
+          "description": "Learn how to add and play videos directly inside your PowerApps canvas app using the Video Control! 🎥 In this tutorial, you’ll learn how to use the Video control in PowerApps to embed and play videos right inside your application — perfect for tutorials, training videos, product demos, and user instructions. 🔑 What You’ll Learn: […]",
+          "link": "https://365community.online/master-video-integration-in-powerapps-microsoft-dynamics-365-youtube",
+          "publishedOn": "2026-04-19T12:11:18.000Z",
+          "wordCount": 2125,
+          "title": "Master Video Integration in PowerApps!  microsoft dynamics 365 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776625462_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/generative-pages-part-1-create-custom-pages-using-ai-in-d365-model-driven-app-youtube",
+          "author": "Manish chauhan",
+          "description": "Create custom pages in Dynamics 365 model-driven apps using AI — just describe what you want and the AI builds it for you! 🚀 In this short, see how Generative Pages work in Power Apps — from saving and publishing your AI-generated page to viewing it live inside your model-driven app navigation. 📺 Watch the […]",
+          "link": "https://365community.online/generative-pages-part-1-create-custom-pages-using-ai-in-d365-model-driven-app-youtube",
+          "publishedOn": "2026-04-19T11:55:05.000Z",
+          "wordCount": 2045,
+          "title": "Generative Pages Part 1- Create Custom pages using AI in D365 Model driven app – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776638755_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-logic-apps-vs-power-automate-key-differences",
+          "author": "Mirko Peters",
+          "description": "100:00:00,000 –> 00:00:02,400Most people think more connectors means more power. 200:00:02,400 –> 00:00:03,440The truth? 300:00:03,440 –> 00:00:05,320Connect account is a vanity metric. 400:00:05,320 –> 00:00:08,200Governance, scale and hybrid decide who survives 500:00:08,200 –> 00:00:10,120and audit and who survives a spike. 600:00:10,120 –> 00:00:12,680You can automate a birthday email with power automate. 700:00:12,680 –> 00:00:14,000You cannot […]",
+          "link": "https://365community.online/azure-logic-apps-vs-power-automate-key-differences",
+          "publishedOn": "2026-04-19T11:22:56.000Z",
+          "wordCount": 7256,
+          "title": "Azure Logic Apps vs Power Automate: Key Differences",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/04/1776597776_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-context-engineering-stop-building-dumb-copilots-in-power-platform",
+          "author": "Mirko Peters",
+          "description": "(00:00:00) Setting the Stage for AI Governance (00:00:37) The Context Debt Problem (00:01:46) The Four Layers of Context (00:02:30) The Failure Loop and Its Consequences (00:04:45) The System Message Pattern (00:08:30) Retrieval Layer: Grounding in Data Verse (00:13:30) Tooling and Policies for Governance (00:18:49) Implementing the Spine in Copilot Studio (00:23:27) The Power of Context […]",
+          "link": "https://365community.online/copilot-context-engineering-stop-building-dumb-copilots-in-power-platform",
+          "publishedOn": "2026-04-19T07:49:15.000Z",
+          "wordCount": 2388,
+          "title": "Copilot Context Engineering: Stop Building Dumb Copilots in Power Platform",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
         {
           "id": "https://365community.online/automated-java-21-migration-and-cve-remediation-with-ai",
           "author": "Mirko Peters",
@@ -79214,66 +79294,6 @@
           "wordCount": 3195,
           "title": "2024 April DC Chapter Meeting",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713655894_2024-April-DC-Chapter-Meeting.png?fit=1024%2C556&ssl=1"
-        },
-        {
-          "id": "https://365community.online/%f0%9f%a4%96chat-copilot-para-business-central-no-te-quedes-mirando-el-dedo-mira-la-luna",
-          "author": "jarmesto",
-          "description": "Y llego, llego la primavera y con ella nos llego (en preview y en ingles) las tan esperadas nuevas funcionalidades de Copilot en Business Central. Si, llego Chat Copilot (en […]",
-          "link": "https://365community.online/%f0%9f%a4%96chat-copilot-para-business-central-no-te-quedes-mirando-el-dedo-mira-la-luna",
-          "publishedOn": "2024-04-20T12:00:00.000Z",
-          "wordCount": 3224,
-          "title": "🤖Chat Copilot para Business Central : No te quedes mirando el dedo… mira la luna.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713617619_Chat-Copilot-para-Business-Central-No-te-quedes-mirando.png?fit=1200%2C685&ssl=1"
-        },
-        {
-          "id": "https://365community.online/what-is-linting-in-javascript-youtube",
-          "author": "Sourav Raj",
-          "description": "What is “Linting” in JavaScript? source",
-          "link": "https://365community.online/what-is-linting-in-javascript-youtube",
-          "publishedOn": "2024-04-20T08:41:35.000Z",
-          "wordCount": 3117,
-          "title": "What is “Linting” in JavaScript? – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713604518_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/contoso-coffee-youtube",
-          "author": "Olena Grischenko",
-          "description": "Coffeevideo.mp4 source",
-          "link": "https://365community.online/contoso-coffee-youtube",
-          "publishedOn": "2024-04-20T07:19:34.000Z",
-          "wordCount": 3105,
-          "title": "Contoso Coffee – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713606168_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/multiline-text-migration-using-configuration-packages-in-business-central-24",
-          "author": "Saurav Dhyani",
-          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Multiline Text Migration: Using Configuration Packages in Business Central 24! WhatsNew, #BusinessCentral24, #2024ReleaseWave1 Blog Syndicated with Saurav Dhyani’s […]",
-          "link": "https://365community.online/multiline-text-migration-using-configuration-packages-in-business-central-24",
-          "publishedOn": "2024-04-20T05:30:00.000Z",
-          "wordCount": 3154,
-          "title": "Multiline Text Migration: Using Configuration Packages in Business Central 24!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Multiline-Text-Migration-Using-Configuration-Packages-in-Business-Central-24.jpeg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/the-evolution-and-graduation-path-of-anchor-apps-youtube",
-          "author": "NZ365Guy",
-          "description": "The Evolution and Graduation Path of Anchor Apps The discussion focuses on anchor apps, essential large-scale applications crucial for organizational operations. The hosts examine the significance of these apps compared […]",
-          "link": "https://365community.online/the-evolution-and-graduation-path-of-anchor-apps-youtube",
-          "publishedOn": "2024-04-19T18:15:24.000Z",
-          "wordCount": 4087,
-          "title": "The Evolution and Graduation Path of Anchor Apps – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713558330_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-pages-plus-spring-announcements-webinar-youtube",
-          "author": "Victor Dantas",
-          "description": "Hello friends, We are thrilled to announce the launch of a brand new set of templates this quarter. Whether you’re a seasoned pro or just starting out with Power Pages, […]",
-          "link": "https://365community.online/power-pages-plus-spring-announcements-webinar-youtube",
-          "publishedOn": "2024-04-19T17:53:04.000Z",
-          "wordCount": 3217,
-          "title": "Power Pages Plus – Spring Announcements Webinar – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713635261_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -82878,16 +82898,6 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=201964",
-          "author": "Hemang Shah and Lily Shelke",
-          "description": "In contact centers, a voice conversation does not end when the call disconnects. That’s when critical work begins – logging outcomes, updating systems, triggering workflows, and ensuring compliance. Yet today, post-call actions are often delayed, inconsistent, or dependent on manual or external processes.  With caller hang-up event support in Dynamics 365 Contact Center and Copilot Studio, we are changing that.\nThe post Trigger post-call actions using caller hang-up events  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/15/trigger-post-call-actions-using-caller-hang-up-events/",
-          "publishedOn": "2026-04-15T20:44:32.000Z",
-          "wordCount": 5377,
-          "title": "Trigger post-call actions using caller hang-up events",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2022/11/MSC21_PICHA_mobile_73046-1024x683.jpg"
-        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=201770",
           "author": "Pooja Fandan",
