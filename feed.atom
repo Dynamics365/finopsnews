@@ -2,10 +2,230 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-04-20T03:19:33.783Z</updated>
+    <updated>2026-04-21T02:52:53.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Your Copilot Rollout is a Security Nightmare: The Microsoft Purview Strategy]]></title>
+        <id>https://365community.online/why-your-copilot-rollout-is-a-security-nightmare-the-microsoft-purview-strategy</id>
+        <link href="https://365community.online/why-your-copilot-rollout-is-a-security-nightmare-the-microsoft-purview-strategy"/>
+        <updated>2026-04-20T23:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Copilot might be the most efficient unauthorized auditor your company has ever deployed. It doesn’t hack permissions. It doesn’t break security controls.It simply turns existing access into instant answers. All the protection you thought you had — buried folders, messy SharePoint sites, forgotten file names — disappears the moment someone writes the right prompt. In […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Shipment Status Updates in Dynamic Ship for Dynamics 365 Business Central: Real-Time Visibility Without the Delays]]></title>
+        <id>https://erpsoftwareblog.com/?p=146230</id>
+        <link href="https://erpsoftwareblog.com/2026/04/automatic-shipment-status-updates-in-dynamic-ship-for-dynamics-365-business-central-real-time-visibility-without-the-delays/"/>
+        <updated>2026-04-20T20:04:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast In Dynamics 365 Business Central, having accurate shipment data is important, but knowing exactly where every order stands, right now, is what actually keeps your warehouse […]
+The post Automatic Shipment Status Updates in Dynamic Ship for Dynamics 365 Business Central: Real-Time Visibility Without the Delays appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint Agents Data Leak: Stop SharePoint Agents From Leaking Your Data (The IT Pro Fix)]]></title>
+        <id>https://365community.online/sharepoint-agents-data-leak-stop-sharepoint-agents-from-leaking-your-data-the-it-pro-fix</id>
+        <link href="https://365community.online/sharepoint-agents-data-leak-stop-sharepoint-agents-from-leaking-your-data-the-it-pro-fix"/>
+        <updated>2026-04-20T19:20:28.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of M365.fm, Mirko Peters explains why your SharePoint agents aren’t “haunted” — they’re over‑scoped, over‑permitted, and under‑protected. You’ll learn how agents actually see data through Microsoft Graph and ACLs, why grounding does not equal security, and how broken inheritance, weak DLP, and loose labels turn one well‑meaning agent into a data‑leak amplifier. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central ROI: How to Maximize ERP Value With the Right Business Central Consultant]]></title>
+        <id>https://erpsoftwareblog.com/?p=146422</id>
+        <link href="https://erpsoftwareblog.com/2026/04/business-central-roi-how-to-maximize-erp-value-with-the-right-business-central-consultant/"/>
+        <updated>2026-04-20T18:03:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  “Growth is exciting, but it introduces complexity,” says Microsoft. And Business Central is no exception. It does, however, come with a big, proven payoff. A March 2026 Forrester Total […]
+The post Business Central ROI: How to Maximize ERP Value With the Right Business Central Consultant appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Kristen Hosman, CEO and Founder at Mount Evans Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-introducing Data Validation Tool for Dataverse – PPTB]]></title>
+        <id>https://365community.online/re-introducing-data-validation-tool-for-dataverse-pptb</id>
+        <link href="https://365community.online/re-introducing-data-validation-tool-for-dataverse-pptb"/>
+        <updated>2026-04-20T17:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2020, I released my Data Validation Tool for Dataverse in XrmToolBox. The thinking behind it was simple enough. I wanted an easy way to run checks against Dataverse data in bulk and get a quick feel for how good the data actually was. Not how good people thought it was, or how good […]]]></summary>
+        <author>
+            <name>Matt Beard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Copilot to Agents: Why Dynamics 365 Is Entering Its “Agents, Agents, Agents” Era]]></title>
+        <id>https://erpsoftwareblog.com/?p=146406</id>
+        <link href="https://erpsoftwareblog.com/2026/04/from-copilot-to-agents-why-dynamics-365-is-entering-its-agents-agents-agents-era/"/>
+        <updated>2026-04-20T15:40:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft is moving decisively from generic AI assistance to configurable, process-driven AI agents in Dynamics 365—and this shift fundamentally changes how sales, service, and finance teams scale without adding headcount. […]
+The post From Copilot to Agents: Why Dynamics 365 Is Entering Its “Agents, Agents, Agents” Era appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building Workflows- The New Way to Orchestrate Business Logic]]></title>
+        <id>https://365community.online/stop-building-workflows-the-new-way-to-orchestrate-business-logic</id>
+        <link href="https://365community.online/stop-building-workflows-the-new-way-to-orchestrate-business-logic"/>
+        <updated>2026-04-20T15:35:25.000Z</updated>
+        <summary type="html"><![CDATA[Most teams don’t actually have an automation problem — they have a model problem. Organizations are still building workflows as if business processes move in clean, predictable steps. But modern operations don’t work like that anymore. Today, decisions depend on a constant stream of signals coming from apps, APIs, identities, data platforms, and people — […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experlogix cuts month-end close by 50% with Subscription Billing.]]></title>
+        <id>https://erpsoftwareblog.com/?p=146265</id>
+        <link href="https://erpsoftwareblog.com/2026/04/experlogix-cuts-month-end-close-by-50-with-subscription-billing/"/>
+        <updated>2026-04-20T15:30:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Experlogix is a global software company specializing in CPQ (Configure, Price, Quote) and Document Automation solutions that help businesses simplify complex sales and document processes. Following multiple mergers, the company now operates across five […]
+The post Experlogix cuts month-end close by 50% with Subscription Billing. appeared first on ERP Software Blog.
+How can Microsoft Dynamics track more Financial Data in the Cloud in 2018?
+How does Microsoft Dynamics reporting of data offer Accountability Today?
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Financial Reporting Automation Works in Microsoft Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=146402</id>
+        <link href="https://erpsoftwareblog.com/2026/04/how-financial-reporting-automation-works-in-microsoft-dynamics-365-finance/"/>
+        <updated>2026-04-20T14:57:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Financial reporting is no longer just about closing books and generating statements—it’s about speed, accuracy, and real-time insight. Businesses that still rely on spreadsheets and manual consolidation are operating at […]
+The post How Financial Reporting Automation Works in Microsoft Dynamics 365 Finance appeared first on ERP Software Blog.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS
+Dynamics 365 First Look]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central permission management: The "Exclude" Strategy Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=146396</id>
+        <link href="https://erpsoftwareblog.com/2026/04/business-central-permission-management-strategy/"/>
+        <updated>2026-04-20T13:50:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central permission management doesn't have to be a nightmare of manual configurations. Many organizations still struggle with the traditional "include-only" model, where every single access right must be added […]
+The post Business Central permission management: The "Exclude" Strategy Guide appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>2-Controlware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Proactive ERP Support Matters for Business Central in 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=146392</id>
+        <link href="https://erpsoftwareblog.com/2026/04/why-proactive-erp-support-matters-for-business-central-in-2026/"/>
+        <updated>2026-04-20T11:50:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction In 2026, ERP systems are no longer “set and forget” solutions. Businesses using Microsoft Dynamics 365 Business Central must continuously adapt to new Microsoft updates, evolving business processes, and […]
+The post Why Proactive ERP Support Matters for Business Central in 2026 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft App Builder: The Truth Behind Canvas Apps]]></title>
+        <id>https://365community.online/microsoft-app-builder-the-truth-behind-canvas-apps</id>
+        <link href="https://365community.online/microsoft-app-builder-the-truth-behind-canvas-apps"/>
+        <updated>2026-04-20T11:49:44.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,360You’ve been told canvas apps are back in a cute story, the truth. 200:00:03,360 –> 00:00:06,320Microsoft didn’t revive anything. They forked the experience. 300:00:06,320 –> 00:00:10,000App, builder, workflows and agents look like power platform, 400:00:10,000 –> 00:00:13,080but they live in a different lane. Your personal automation layer. 500:00:13,080 –> 00:00:15,560In the next few […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Planning Matters More Than Deployment – YouTube]]></title>
+        <id>https://365community.online/why-planning-matters-more-than-deployment-youtube</id>
+        <link href="https://365community.online/why-planning-matters-more-than-deployment-youtube"/>
+        <updated>2026-04-20T10:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Like, comment and subscribe to help me get to my 100k subscribers goal Follow me on all my socials: https://linktr.ee/Iamitgeek If you are looking for help with @M​⁠ertifications then join my learning community for free: https://iamitgeek.kit.com/8754fbd53a #azure #avd #windows365 #cloud #microsoft source]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution from Automation to Autonomy in ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=146389</id>
+        <link href="https://erpsoftwareblog.com/2026/04/agentic-ai-use-cases-across-finance-supply-chain-and-operations-2/"/>
+        <updated>2026-04-20T10:18:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the world of Enterprise Resource Planning (ERP), the landscape is rapidly changing. Historically, ERP systems were designed to automate tasks—making routine processes faster and more efficient. However, the next phase […]
+The post The Evolution from Automation to Autonomy in ERP  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dax software solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fabric Warehouse Snapshots: One Version of Truth]]></title>
+        <id>https://365community.online/microsoft-fabric-warehouse-snapshots-one-version-of-truth</id>
+        <link href="https://365community.online/microsoft-fabric-warehouse-snapshots-one-version-of-truth"/>
+        <updated>2026-04-20T08:21:00.000Z</updated>
+        <summary type="html"><![CDATA[100:00:00,000 –> 00:00:01,760Your live analytics aren’t truth. 200:00:01,760 –> 00:00:04,320They’re a constantly mutating rumor with charts. 300:00:04,320 –> 00:00:05,960You pull a number, ETL sneezes, 400:00:05,960 –> 00:00:08,200and that number changes before the meeting ends. 500:00:08,200 –> 00:00:11,520Then executives ask which version is right, spoiler, none, 600:00:11,520 –> 00:00:13,800because the state you query no longer exists. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Endless Stream of Content Ideas with WordPress and Claude]]></title>
+        <id>https://365community.online/how-to-build-an-endless-stream-of-content-ideas-with-wordpress-and-claude</id>
+        <link href="https://365community.online/how-to-build-an-endless-stream-of-content-ideas-with-wordpress-and-claude"/>
+        <updated>2026-04-20T07:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The best content ideas are already in your website data. Connect your WordPress.com site to Claude to uncover what your audience is searching for—but you haven’t covered yet—and turn those insights into published posts. In this guide, I’ll show you how to extract those insights, turn them into a clear plan, and generate ready-to-publish content. […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[East of England Power Platform Summit 2026 – YouTube]]></title>
+        <id>https://365community.online/east-of-england-power-platform-summit-2026-youtube</id>
+        <link href="https://365community.online/east-of-england-power-platform-summit-2026-youtube"/>
+        <updated>2026-04-20T07:00:24.000Z</updated>
+        <summary type="html"><![CDATA[East of England Power Platform Summit 2026]]></summary>
+        <author>
+            <name>Power Squared</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 10 – Richard Plantt]]></title>
+        <id>https://365community.online/episode-10-richard-plantt</id>
+        <link href="https://365community.online/episode-10-richard-plantt"/>
+        <updated>2026-04-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our TENTH episode! That's ten goldmines of information, stories, top tips, and amazing insights. In this podcast we are joined from London (no, not that one) by Richard Plantt who, like many of us, stumbled into accessibility and "worked it out". Hear from him about how his eyes were opened, the lessons he […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overcoming SharePoint Limitations in Power Apps]]></title>
         <id>https://365community.online/overcoming-sharepoint-limitations-in-power-apps</id>
@@ -517,6 +737,17 @@ More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Becoming a Frontier Manufacturing Firm: Agentic decisions across the manufacturing value chain]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=201935</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/04/16/becoming-a-frontier-manufacturing-firm-agentic-decisions-across-the-manufacturing-value-chain/"/>
+        <updated>2026-04-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Hannover Messe 2026, Microsoft is showcasing how agentic ERP with Copilot, agents and Dynamics 365 helps manufacturers replan faster, make better production tradeoffs, and meet or exceed customer service SLAs.
+The post Becoming a Frontier Manufacturing Firm: Agentic decisions across the manufacturing value chain appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Raghav Jandhyala</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Power Platform Explained- Choosing the Right Tool (Before You Build Anything)]]></title>
         <id>https://365community.online/the-power-platform-explained-choosing-the-right-tool-before-you-build-anything</id>
         <link href="https://365community.online/the-power-platform-explained-choosing-the-right-tool-before-you-build-anything"/>
@@ -695,6 +926,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         <summary type="html"><![CDATA[100:00:00,000 –> 00:00:03,880If your script is still lean on MS Online or Azure AD, they’re already legacy. 200:00:03,880 –> 00:00:05,800And if you think that doesn’t apply to you, 300:00:05,800 –> 00:00:08,080oh boy, you’re exactly who I’m talking to. 400:00:08,080 –> 00:00:09,080The cloud moved on. 500:00:09,080 –> 00:00:10,040Your modules didn’t. 600:00:10,040 –> 00:00:12,640Modules break on Linux […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigger post-call actions using caller hang-up events]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=201964</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/04/15/trigger-post-call-actions-using-caller-hang-up-events/"/>
+        <updated>2026-04-15T20:44:32.000Z</updated>
+        <summary type="html"><![CDATA[In contact centers, a voice conversation does not end when the call disconnects. That’s when critical work begins – logging outcomes, updating systems, triggering workflows, and ensuring compliance. Yet today, post-call actions are often delayed, inconsistent, or dependent on manual or external processes.  With caller hang-up event support in Dynamics 365 Contact Center and Copilot Studio, we are changing that.
+The post Trigger post-call actions using caller hang-up events  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Hemang Shah and Lily Shelke</name>
         </author>
     </entry>
     <entry>
@@ -111339,36 +111581,6 @@ Next-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV
         <summary type="html"><![CDATA[Looking to deploy Azure Stack HCI? In this video, we cover the essential steps for planning and deploying Azure Stack HCI. Stay tuned for Part 4 for more in-depth instructions. […]]]></summary>
         <author>
             <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamlining Acceptance Testing with In-Client Page Scripting Tool #msdyn365bc]]></title>
-        <id>https://365community.online/streamlining-acceptance-testing-with-in-client-page-scripting-tool-msdyn365bc</id>
-        <link href="https://365community.online/streamlining-acceptance-testing-with-in-client-page-scripting-tool-msdyn365bc"/>
-        <updated>2024-04-21T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Streamlining Acceptance Testing with In-Client Page Scripting Tool #msdyn365bc Whatsnew, #inclientpage, #acceptancetesting, #businesscentral24 Blog Syndicated with Saurav Dhyani’s […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next generation document management with Syntex and Copilot Studio]]></title>
-        <id>http://dynamicsax-fico.com/?p=5975</id>
-        <link href="https://dynamicsax-fico.com/2024/04/21/next-generation-document-management-with-syntex-and-copilot-studio/"/>
-        <updated>2024-04-21T04:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>Ludwig Reinhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 April DC Chapter Meeting]]></title>
-        <id>https://365community.online/2024-april-dc-chapter-meeting</id>
-        <link href="https://365community.online/2024-april-dc-chapter-meeting"/>
-        <updated>2024-04-20T21:32:55.000Z</updated>
-        <summary type="html"><![CDATA[The crew at the 2024 April DC Chapter Meeting. Ready to swim into an ocean of Power Automate! If you are sad to have missed the 2024 April DC Chapter […]]]></summary>
-        <author>
-            <name>Kylie Kiser</name>
         </author>
     </entry>
     <entry>
