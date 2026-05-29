@@ -478,6 +478,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/how-graph-api-discovery-rewrites-the-rules-of-enterprise-semantic-search-performance",
+          "author": "Mirko Peters",
+          "description": "Enterprise search is broken — and most organizations still don’t realize why. The problem is no longer storage. It’s no longer indexing. And it’s definitely no longer about adding more servers to your search infrastructure. The real issue is latency between reality and discoverability. In this episode of the M365FM Podcast, we explore why traditional […]",
+          "link": "https://365community.online/how-graph-api-discovery-rewrites-the-rules-of-enterprise-semantic-search-performance",
+          "publishedOn": "2026-05-28T23:16:52.000Z",
+          "wordCount": 2633,
+          "title": "How Graph API Discovery Rewrites the Rules of Enterprise Semantic Search Performance",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/0c6263f73ed97d34a350c8cdc2fd0af4.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-studio-and-azure-ai-foundry-which-ai-solution-is-right",
+          "author": "Mirko Peters",
+          "description": "The main difference between Copilot Studio and Azure AI Foundry comes from who uses them and how much control they need. If you work in a business team, want quick results, and prefer a low-code tool, Copilot Studio fits your needs. If you are a developer or data scientist who builds custom AI models, Azure […]",
+          "link": "https://365community.online/copilot-studio-and-azure-ai-foundry-which-ai-solution-is-right",
+          "publishedOn": "2026-05-28T19:36:42.000Z",
+          "wordCount": 8586,
+          "title": "Copilot Studio and Azure AI Foundry: Which AI Solution is Right?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1779997003_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/optimal-performance-still-matters",
+          "author": "Waldo",
+          "description": "Ok .. so .. I’ve been sitting on this one for a while.. A few months back, I got pulled into something Microsoft was cooking around “performance” .. and thanks to the usual NDA-stuff, I couldn’t say a word about it .. Well .. it’s out now – as you might have noticed : So […]",
+          "link": "https://365community.online/optimal-performance-still-matters",
+          "publishedOn": "2026-05-28T17:40:00.000Z",
+          "wordCount": 2655,
+          "title": "OptimAL – performance still matters",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/OptimAL-%E2%80%93-performance-still-matters.png?fit=1279%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/breaking-the-scale-barrier-building-multi-tenant-saas-on-power-pages",
+          "author": "Mirko Peters",
+          "description": "Building multi-tenant SaaS on Power Pages changes the way architects think about Dataverse scalability. Most developers traditionally viewed Power Pages as a portal platform intended for forms, authentication, and moderate business applications. Enterprise-scale SaaS workloads were assumed to require fully custom Azure infrastructure and external databases. Elastic Tables challenge that assumption by introducing Cosmos DB-backed […]",
+          "link": "https://365community.online/breaking-the-scale-barrier-building-multi-tenant-saas-on-power-pages",
+          "publishedOn": "2026-05-28T15:56:10.000Z",
+          "wordCount": 2763,
+          "title": "Breaking the Scale Barrier: Building Multi-Tenant SaaS on Power Pages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/521fe65e10cdd793b618d3e453224b6f.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365-electronic-signatures-one-of-the-most-underrated-security-features",
+          "author": "Kurt Hatlevik",
+          "description": "I got the inspiration of this post from the DynamicsMinds session “Log It Like It’s Hot : Smarter Change Tracking in D365FO by Johan Persson and André Arnaud de Calavon. When discussing security in Dynamics 365, most conversations quickly end up around roles, duties, privileges, segregation of duties, and access levels. All important topics. But […]",
+          "link": "https://365community.online/d365-electronic-signatures-one-of-the-most-underrated-security-features",
+          "publishedOn": "2026-05-28T13:12:00.000Z",
+          "wordCount": 1968,
+          "title": "D365 Electronic Signatures: One of the Most Underrated Security Features",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/D365-Electronic-Signatures-One-of-the-Most-Underrated-Security-Features.png?fit=1324%2C1108&ssl=1"
+        },
+        {
+          "id": "https://365community.online/now-in-the-reader-bluesky-mastodon-and-the-fediverse",
+          "author": "Belinda Allen",
+          "description": "If you’ve been blogging for a while, you’ll probably know the WordPress.com Reader – a calm place to catch up on the blogs you follow, without an algorithm deciding what you see. This month, we added a new Social section to the Reader. Now you can bring in the people you follow on Bluesky, on […]",
+          "link": "https://365community.online/now-in-the-reader-bluesky-mastodon-and-the-fediverse",
+          "publishedOn": "2026-05-28T13:00:00.000Z",
+          "wordCount": 2390,
+          "title": "Now in the Reader: Bluesky, Mastodon, and the Fediverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/Now-in-the-Reader-Bluesky-Mastodon-and-the-Fediverse.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-telemetry-understanding-and-setup",
+          "author": "Mirko Peters",
+          "description": "You can enable telemetry in Dynamics 365 Business Central in less than half an hour. With telemetry, you gain real-time insights that help you monitor performance, resolve issues quickly, and make smarter decisions. When you enable business central monitoring, you unlock the full potential of your Dynamics environment. You do not need advanced technical skills […]",
+          "link": "https://365community.online/dynamics-365-business-central-telemetry-understanding-and-setup",
+          "publishedOn": "2026-05-28T12:14:02.000Z",
+          "wordCount": 8324,
+          "title": "Dynamics 365 Business Central Telemetry: Understanding and Setup",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1779970443_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ai-can-write-business-central-code-can-it-replace-expertise",
+          "author": "Amol Salvi",
+          "description": "Artificial Intelligence is rapidly transforming the world of Microsoft Dynamics 365 Business Central. Today, AI tools can generate AL code, create Business Central extensions, build APIs, automate workflows, generate Power BI measures, write SQL queries, prepare technical documentation, and even help troubleshoot system issues. Tasks that once required days of manual effort can now be […]",
+          "link": "https://365community.online/ai-can-write-business-central-code-can-it-replace-expertise",
+          "publishedOn": "2026-05-28T11:40:00.000Z",
+          "wordCount": 1963,
+          "title": "AI Can Write Business Central Code Can It Replace Expertise?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/AI-Can-Write-Business-Central-Code-Can-It-Replace-Expertise.png?fit=1536%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/exam-ab-410-intelligent-applications-builder-associate",
+          "author": "thecrmninja",
+          "description": "Time for another exam post (I’ll actually be doing 2 posts around new exams this week), this time around building ‘AI Applications’. This is another one of the new ‘AB series’ of exams, which are replacing the older ‘PL series’ of exams. This exam specifically replaces the PL-200 exam, though there’s no mention of the […]",
+          "link": "https://365community.online/exam-ab-410-intelligent-applications-builder-associate",
+          "publishedOn": "2026-05-28T09:44:00.000Z",
+          "wordCount": 2982,
+          "title": "Exam AB-410: Intelligent Applications Builder Associate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/Exam-AB-410-Intelligent-Applications-Builder-Associate.webp?fit=1672%2C941&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-r-with-sql-server-combining-r-and-sql",
+          "author": "Mirko Peters",
+          "description": "Summary Here’s a story: a team trained a model, and everything worked fine — until their dataset doubled. Suddenly, their R pipeline crawled to a halt. The culprit? Compute context. By default they were running R in local compute, which meant every row had to cross the network. But when they switched to SQL compute […]",
+          "link": "https://365community.online/use-r-with-sql-server-combining-r-and-sql",
+          "publishedOn": "2026-05-28T08:28:17.000Z",
+          "wordCount": 5924,
+          "title": "Use R with SQL Server: Combining R and SQL",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1779956898_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/stop-using-folders-the-future-of-graph-based-architecture",
           "author": "Mirko Peters",
           "description": "For decades, enterprises built their digital workplaces around folders, directories, and deeply nested hierarchies. The assumption was simple: if information was organized into the right structure, people would always be able to find it. But in 2026, that assumption is collapsing under the weight of modern data complexity. Work no longer starts with navigation. It […]",
@@ -43129,6 +43229,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "https://kurthatlevik.com/?p=5236",
+          "author": "Kurt Hatlevik",
+          "description": "I got the inspiration of this post from the DynamicsMinds session “Log It Like It’s Hot : Smarter Change Tracking in D365FO by Johan Persson and André Arnaud de Calavon. When discussing security in Dynamics 365, most conversations quickly end up around roles, duties, privileges, segregation of duties, and access levels. All important topics. But … Continue reading D365 Electronic Signatures: One of the Most Underrated Security Features",
+          "link": "https://kurthatlevik.com/2026/05/28/d365-electronic-signatures-one-of-the-most-underrated-security-features/",
+          "publishedOn": "2026-05-28T13:12:01.000Z",
+          "wordCount": 3123,
+          "title": "D365 Electronic Signatures: One of the Most Underrated Security Features",
+          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2026/05/image-6.png"
+        },
         {
           "id": "https://kurthatlevik.com/?p=5209",
           "author": "Kurt Hatlevik",

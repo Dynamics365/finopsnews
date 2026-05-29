@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-28T03:55:53.849Z</updated>
+    <updated>2026-05-29T03:57:24.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Graph API Discovery Rewrites the Rules of Enterprise Semantic Search Performance]]></title>
+        <id>https://365community.online/how-graph-api-discovery-rewrites-the-rules-of-enterprise-semantic-search-performance</id>
+        <link href="https://365community.online/how-graph-api-discovery-rewrites-the-rules-of-enterprise-semantic-search-performance"/>
+        <updated>2026-05-28T23:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise search is broken — and most organizations still don’t realize why. The problem is no longer storage. It’s no longer indexing. And it’s definitely no longer about adding more servers to your search infrastructure. The real issue is latency between reality and discoverability. In this episode of the M365FM Podcast, we explore why traditional […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio and Azure AI Foundry: Which AI Solution is Right?]]></title>
+        <id>https://365community.online/copilot-studio-and-azure-ai-foundry-which-ai-solution-is-right</id>
+        <link href="https://365community.online/copilot-studio-and-azure-ai-foundry-which-ai-solution-is-right"/>
+        <updated>2026-05-28T19:36:42.000Z</updated>
+        <summary type="html"><![CDATA[The main difference between Copilot Studio and Azure AI Foundry comes from who uses them and how much control they need. If you work in a business team, want quick results, and prefer a low-code tool, Copilot Studio fits your needs. If you are a developer or data scientist who builds custom AI models, Azure […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OptimAL – performance still matters]]></title>
+        <id>https://365community.online/optimal-performance-still-matters</id>
+        <link href="https://365community.online/optimal-performance-still-matters"/>
+        <updated>2026-05-28T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Ok .. so .. I’ve been sitting on this one for a while.. A few months back, I got pulled into something Microsoft was cooking around “performance” .. and thanks to the usual NDA-stuff, I couldn’t say a word about it .. Well .. it’s out now – as you might have noticed : So […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Scale Barrier: Building Multi-Tenant SaaS on Power Pages]]></title>
+        <id>https://365community.online/breaking-the-scale-barrier-building-multi-tenant-saas-on-power-pages</id>
+        <link href="https://365community.online/breaking-the-scale-barrier-building-multi-tenant-saas-on-power-pages"/>
+        <updated>2026-05-28T15:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Building multi-tenant SaaS on Power Pages changes the way architects think about Dataverse scalability. Most developers traditionally viewed Power Pages as a portal platform intended for forms, authentication, and moderate business applications. Enterprise-scale SaaS workloads were assumed to require fully custom Azure infrastructure and external databases. Elastic Tables challenge that assumption by introducing Cosmos DB-backed […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Electronic Signatures: One of the Most Underrated Security Features]]></title>
+        <id>https://kurthatlevik.com/?p=5236</id>
+        <link href="https://kurthatlevik.com/2026/05/28/d365-electronic-signatures-one-of-the-most-underrated-security-features/"/>
+        <updated>2026-05-28T13:12:01.000Z</updated>
+        <summary type="html"><![CDATA[I got the inspiration of this post from the DynamicsMinds session “Log It Like It’s Hot : Smarter Change Tracking in D365FO by Johan Persson and André Arnaud de Calavon. When discussing security in Dynamics 365, most conversations quickly end up around roles, duties, privileges, segregation of duties, and access levels. All important topics. But … Continue reading D365 Electronic Signatures: One of the Most Underrated Security Features]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Electronic Signatures: One of the Most Underrated Security Features]]></title>
+        <id>https://365community.online/d365-electronic-signatures-one-of-the-most-underrated-security-features</id>
+        <link href="https://365community.online/d365-electronic-signatures-one-of-the-most-underrated-security-features"/>
+        <updated>2026-05-28T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[I got the inspiration of this post from the DynamicsMinds session “Log It Like It’s Hot : Smarter Change Tracking in D365FO by Johan Persson and André Arnaud de Calavon. When discussing security in Dynamics 365, most conversations quickly end up around roles, duties, privileges, segregation of duties, and access levels. All important topics. But […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now in the Reader: Bluesky, Mastodon, and the Fediverse]]></title>
+        <id>https://365community.online/now-in-the-reader-bluesky-mastodon-and-the-fediverse</id>
+        <link href="https://365community.online/now-in-the-reader-bluesky-mastodon-and-the-fediverse"/>
+        <updated>2026-05-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been blogging for a while, you’ll probably know the WordPress.com Reader – a calm place to catch up on the blogs you follow, without an algorithm deciding what you see. This month, we added a new Social section to the Reader. Now you can bring in the people you follow on Bluesky, on […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central Telemetry: Understanding and Setup]]></title>
+        <id>https://365community.online/dynamics-365-business-central-telemetry-understanding-and-setup</id>
+        <link href="https://365community.online/dynamics-365-business-central-telemetry-understanding-and-setup"/>
+        <updated>2026-05-28T12:14:02.000Z</updated>
+        <summary type="html"><![CDATA[You can enable telemetry in Dynamics 365 Business Central in less than half an hour. With telemetry, you gain real-time insights that help you monitor performance, resolve issues quickly, and make smarter decisions. When you enable business central monitoring, you unlock the full potential of your Dynamics environment. You do not need advanced technical skills […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Can Write Business Central Code Can It Replace Expertise?]]></title>
+        <id>https://365community.online/ai-can-write-business-central-code-can-it-replace-expertise</id>
+        <link href="https://365community.online/ai-can-write-business-central-code-can-it-replace-expertise"/>
+        <updated>2026-05-28T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming the world of Microsoft Dynamics 365 Business Central. Today, AI tools can generate AL code, create Business Central extensions, build APIs, automate workflows, generate Power BI measures, write SQL queries, prepare technical documentation, and even help troubleshoot system issues. Tasks that once required days of manual effort can now be […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exam AB-410: Intelligent Applications Builder Associate]]></title>
+        <id>https://365community.online/exam-ab-410-intelligent-applications-builder-associate</id>
+        <link href="https://365community.online/exam-ab-410-intelligent-applications-builder-associate"/>
+        <updated>2026-05-28T09:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Time for another exam post (I’ll actually be doing 2 posts around new exams this week), this time around building ‘AI Applications’. This is another one of the new ‘AB series’ of exams, which are replacing the older ‘PL series’ of exams. This exam specifically replaces the PL-200 exam, though there’s no mention of the […]]]></summary>
+        <author>
+            <name>thecrmninja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use R with SQL Server: Combining R and SQL]]></title>
+        <id>https://365community.online/use-r-with-sql-server-combining-r-and-sql</id>
+        <link href="https://365community.online/use-r-with-sql-server-combining-r-and-sql"/>
+        <updated>2026-05-28T08:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Summary Here’s a story: a team trained a model, and everything worked fine — until their dataset doubled. Suddenly, their R pipeline crawled to a halt. The culprit? Compute context. By default they were running R in local compute, which meant every row had to cross the network. But when they switched to SQL compute […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Using Folders: The Future of Graph-Based Architecture]]></title>
         <id>https://365community.online/stop-using-folders-the-future-of-graph-based-architecture</id>
