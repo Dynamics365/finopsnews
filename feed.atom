@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-29T03:57:24.824Z</updated>
+    <updated>2026-05-30T03:42:33.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Cowork IQ Implementation: Architecting Scalable Knowledge Graphs for Modern Hybrid Workforces]]></title>
+        <id>https://365community.online/microsoft-cowork-iq-implementation-architecting-scalable-knowledge-graphs-for-modern-hybrid-workforces</id>
+        <link href="https://365community.online/microsoft-cowork-iq-implementation-architecting-scalable-knowledge-graphs-for-modern-hybrid-workforces"/>
+        <updated>2026-05-29T23:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations believe they have an AI problem when the real issue is their knowledge architecture. Microsoft Copilot deployments are exposing a deeper enterprise challenge: organizations cannot reliably structure, govern, connect, or retrieve the knowledge they already own. Employees still spend enormous amounts of time searching across SharePoint, Teams, OneDrive, emails, project workspaces, and disconnected […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Foundry: Building AI Solutions with Microsoft Azure]]></title>
+        <id>https://365community.online/azure-ai-foundry-building-ai-solutions-with-microsoft-azure</id>
+        <link href="https://365community.online/azure-ai-foundry-building-ai-solutions-with-microsoft-azure"/>
+        <updated>2026-05-29T19:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Summary Working with The Azure AI Foundry Trap — Why Most Fail Fast is about navigating the sweet line between demo magic and production disaster. In this episode, I expose the places where Foundry rollouts collapse — not because the tech is flawed, but because teams skip essential grounding, observability, and governance. We dive into […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Modernization Without the Chaos with Alicia King [MVP]]]></title>
+        <id>https://365community.online/erp-modernization-without-the-chaos-with-alicia-king-mvp</id>
+        <link href="https://365community.online/erp-modernization-without-the-chaos-with-alicia-king-mvp"/>
+        <updated>2026-05-29T15:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) modernization is no longer just a technology initiative — it is a business transformation journey that directly impacts people, processes, culture, and long-term growth. In this episode of the M365 FM Podcast, Mirko Peters sits down with Alicia King, Microsoft MVP, Pre-Sales Engineering Director at RSM US LLP, speaker, and ERP […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Twin Builder (Preview) in Microsoft Fabric Real-Time Intelligence]]></title>
+        <id>https://365community.online/digital-twin-builder-preview-in-microsoft-fabric-real-time-intelligence</id>
+        <link href="https://365community.online/digital-twin-builder-preview-in-microsoft-fabric-real-time-intelligence"/>
+        <updated>2026-05-29T11:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary Exploring Microsoft Fabric’s Digital Twin means asking: is it finally the tool that tames messy data — or just another layer of complexity? In this episode, I walk through what the Digital Twin Builder (in Fabric’s Real-Time Intelligence) promises, how it plugs into OneLake, and whether it truly simplifies modeling, mapping, and dashboards — […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Financial Services Teams Use Dynamics 365 Maps for Field Sales and Route Optimization]]></title>
+        <id>https://365community.online/how-financial-services-teams-use-dynamics-365-maps-for-field-sales-and-route-optimization</id>
+        <link href="https://365community.online/how-financial-services-teams-use-dynamics-365-maps-for-field-sales-and-route-optimization"/>
+        <updated>2026-05-29T11:09:00.000Z</updated>
+        <summary type="html"><![CDATA[MRT Financial Services already had the data inside Microsoft Dynamics 365. What they did not have was visibility into how geography was affecting sales coverage, recovery routes, lead response time, and expansion planning. The company had been growing steadily for six years, with three regional offices, a field sales team of forty, a recovery division, […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Cowork for Dynamics 365 ERP]]></title>
+        <id>https://www.paragchapre.com/?p=16945</id>
+        <link href="https://www.paragchapre.com/copilot-cowork-for-dynamics-365-erp/"/>
+        <updated>2026-05-29T09:23:01.000Z</updated>
+        <summary type="html"><![CDATA[What Is Copilot Cowork? Copilot Cowork is an intelligent agentic orchestrator designed to help organizations accomplish complex business tasks by connecting and coordinating data across multiple systems. Built within the Microsoft ecosystem, Copilot Cowork enables users to work seamlessly with ERP data, emails, documents, meetings, and other Microsoft 365 services through a single conversational experience.…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Variable Inspector in Copilot Studio]]></title>
+        <id>https://365community.online/using-the-variable-inspector-in-copilot-studio</id>
+        <link href="https://365community.online/using-the-variable-inspector-in-copilot-studio"/>
+        <updated>2026-05-29T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Variables are the quiet killers in Copilot Studio agents. The topic logic looks correct, the conditions look correct, the flow looks correct, but the agent still does the wrong thing because a variable is null or holds a string when the condition expects a number or was never set because an action failed silently three […]]]></summary>
+        <author>
+            <name>Vivian Voss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Dataflows: Microsoft Learn Guide to Create a Dataflow]]></title>
+        <id>https://365community.online/power-bi-dataflows-microsoft-learn-guide-to-create-a-dataflow</id>
+        <link href="https://365community.online/power-bi-dataflows-microsoft-learn-guide-to-create-a-dataflow"/>
+        <updated>2026-05-29T08:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Is Your Dataflow Reusable—or a One-Trick Disaster? as a short, inflexible pipeline is risky. In this episode, I dig into how many “working” dataflows are secretly ticking time bombs—fragile against schema drift, hardcoding, and scale. I share a 60-second checklist you can run on yours right now to see if it’s durable or […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Grounded Copilot: Building a Trusted Foundation for Enterprise AI]]></title>
+        <id>https://365community.online/the-grounded-copilot-building-a-trusted-foundation-for-enterprise-ai</id>
+        <link href="https://365community.online/the-grounded-copilot-building-a-trusted-foundation-for-enterprise-ai"/>
+        <updated>2026-05-29T04:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot gives answers that sound confident, polished, and intelligent. But in many enterprise environments, those answers are still incomplete, generic, or entirely wrong. The problem usually is not the model itself. The problem is grounding.In this episode, Mirko Peters breaks down the hidden architecture problem behind enterprise AI deployments and explains why most organizations […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Graph API Discovery Rewrites the Rules of Enterprise Semantic Search Performance]]></title>
         <id>https://365community.online/how-graph-api-discovery-rewrites-the-rules-of-enterprise-semantic-search-performance</id>
@@ -27,26 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OptimAL – performance still matters]]></title>
-        <id>https://365community.online/optimal-performance-still-matters</id>
-        <link href="https://365community.online/optimal-performance-still-matters"/>
-        <updated>2026-05-28T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Ok .. so .. I’ve been sitting on this one for a while.. A few months back, I got pulled into something Microsoft was cooking around “performance” .. and thanks to the usual NDA-stuff, I couldn’t say a word about it .. Well .. it’s out now – as you might have noticed : So […]]]></summary>
-        <author>
-            <name>Waldo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the Scale Barrier: Building Multi-Tenant SaaS on Power Pages]]></title>
-        <id>https://365community.online/breaking-the-scale-barrier-building-multi-tenant-saas-on-power-pages</id>
-        <link href="https://365community.online/breaking-the-scale-barrier-building-multi-tenant-saas-on-power-pages"/>
-        <updated>2026-05-28T15:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Building multi-tenant SaaS on Power Pages changes the way architects think about Dataverse scalability. Most developers traditionally viewed Power Pages as a portal platform intended for forms, authentication, and moderate business applications. Enterprise-scale SaaS workloads were assumed to require fully custom Azure infrastructure and external databases. Elastic Tables challenge that assumption by introducing Cosmos DB-backed […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[D365 Electronic Signatures: One of the Most Underrated Security Features]]></title>
         <id>https://kurthatlevik.com/?p=5236</id>
         <link href="https://kurthatlevik.com/2026/05/28/d365-electronic-signatures-one-of-the-most-underrated-security-features/"/>
@@ -54,66 +124,6 @@
         <summary type="html"><![CDATA[I got the inspiration of this post from the DynamicsMinds session “Log It Like It’s Hot : Smarter Change Tracking in D365FO by Johan Persson and André Arnaud de Calavon. When discussing security in Dynamics 365, most conversations quickly end up around roles, duties, privileges, segregation of duties, and access levels. All important topics. But … Continue reading D365 Electronic Signatures: One of the Most Underrated Security Features]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 Electronic Signatures: One of the Most Underrated Security Features]]></title>
-        <id>https://365community.online/d365-electronic-signatures-one-of-the-most-underrated-security-features</id>
-        <link href="https://365community.online/d365-electronic-signatures-one-of-the-most-underrated-security-features"/>
-        <updated>2026-05-28T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[I got the inspiration of this post from the DynamicsMinds session “Log It Like It’s Hot : Smarter Change Tracking in D365FO by Johan Persson and André Arnaud de Calavon. When discussing security in Dynamics 365, most conversations quickly end up around roles, duties, privileges, segregation of duties, and access levels. All important topics. But […]]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now in the Reader: Bluesky, Mastodon, and the Fediverse]]></title>
-        <id>https://365community.online/now-in-the-reader-bluesky-mastodon-and-the-fediverse</id>
-        <link href="https://365community.online/now-in-the-reader-bluesky-mastodon-and-the-fediverse"/>
-        <updated>2026-05-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve been blogging for a while, you’ll probably know the WordPress.com Reader – a calm place to catch up on the blogs you follow, without an algorithm deciding what you see. This month, we added a new Social section to the Reader. Now you can bring in the people you follow on Bluesky, on […]]]></summary>
-        <author>
-            <name>Belinda Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central Telemetry: Understanding and Setup]]></title>
-        <id>https://365community.online/dynamics-365-business-central-telemetry-understanding-and-setup</id>
-        <link href="https://365community.online/dynamics-365-business-central-telemetry-understanding-and-setup"/>
-        <updated>2026-05-28T12:14:02.000Z</updated>
-        <summary type="html"><![CDATA[You can enable telemetry in Dynamics 365 Business Central in less than half an hour. With telemetry, you gain real-time insights that help you monitor performance, resolve issues quickly, and make smarter decisions. When you enable business central monitoring, you unlock the full potential of your Dynamics environment. You do not need advanced technical skills […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Can Write Business Central Code Can It Replace Expertise?]]></title>
-        <id>https://365community.online/ai-can-write-business-central-code-can-it-replace-expertise</id>
-        <link href="https://365community.online/ai-can-write-business-central-code-can-it-replace-expertise"/>
-        <updated>2026-05-28T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming the world of Microsoft Dynamics 365 Business Central. Today, AI tools can generate AL code, create Business Central extensions, build APIs, automate workflows, generate Power BI measures, write SQL queries, prepare technical documentation, and even help troubleshoot system issues. Tasks that once required days of manual effort can now be […]]]></summary>
-        <author>
-            <name>Amol Salvi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exam AB-410: Intelligent Applications Builder Associate]]></title>
-        <id>https://365community.online/exam-ab-410-intelligent-applications-builder-associate</id>
-        <link href="https://365community.online/exam-ab-410-intelligent-applications-builder-associate"/>
-        <updated>2026-05-28T09:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Time for another exam post (I’ll actually be doing 2 posts around new exams this week), this time around building ‘AI Applications’. This is another one of the new ‘AB series’ of exams, which are replacing the older ‘PL series’ of exams. This exam specifically replaces the PL-200 exam, though there’s no mention of the […]]]></summary>
-        <author>
-            <name>thecrmninja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use R with SQL Server: Combining R and SQL]]></title>
-        <id>https://365community.online/use-r-with-sql-server-combining-r-and-sql</id>
-        <link href="https://365community.online/use-r-with-sql-server-combining-r-and-sql"/>
-        <updated>2026-05-28T08:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Summary Here’s a story: a team trained a model, and everything worked fine — until their dataset doubled. Suddenly, their R pipeline crawled to a halt. The culprit? Compute context. By default they were running R in local compute, which meant every row had to cross the network. But when they switched to SQL compute […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -54169,17 +54179,6 @@ The post Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365
 The post May 2024 updates for modern controls and theming appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Yogesh Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Code View in Power Apps Studio (Public Preview)]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-code-view-in-power-apps-studio-public-preview/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-code-view-in-power-apps-studio-public-preview/"/>
-        <updated>2024-05-29T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[The goal of fusion development is to create an environment where Citizen Developers, Professional developers (aka code-first) and IT Professional can collaborate seamlessly. We want to create great experience for makers creating an app for the first time and for code-first developers that want to have the transparency of the source code for their Power Apps. We
-The post Introducing Code View in Power Apps Studio (Public Preview) appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Marcel Ferreira</name>
         </author>
     </entry>
     <entry>
