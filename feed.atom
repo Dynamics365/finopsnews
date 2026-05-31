@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-30T03:42:33.741Z</updated>
+    <updated>2026-05-31T04:09:04.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -54138,47 +54138,6 @@ The post Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365
         <summary type="html"><![CDATA[As you all may know, RCS (Regulatory Configuration Service) is being deprecated as the Electronic Reporting objects repository. No new provisioning of RCS environments from 10.0.39, and Microsoft will fully shut down it by the 1st of August of 2024. The new repository is nothing more and nothing less than the good Dataverse, so how do we migrate our ERs? keep reading to have the full picture of the process. … More Migrate RCS Electronic Reportings (ER) to Dataverse: Step-by-Step Guide]]></summary>
         <author>
             <name>Fernando Tudela Desantes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webhook validation handshake failed – Azure Event Grid]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3488</id>
-        <link href="https://anithasantosh.wordpress.com/2024/05/30/webhook-validation-handshake-failed-azure-event-grid/"/>
-        <updated>2024-05-30T20:30:12.000Z</updated>
-        <summary type="html"><![CDATA[There are various ways to integrate EventGrid in portal. In this article, let us learn how to create a Topic using Web Hook in the event grid. Read till the end , as the developers face challenge when saving the … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starting Azure VMs from Postman]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3486</id>
-        <link href="https://anithasantosh.wordpress.com/2024/05/30/starting-azure-vms-from-postman/"/>
-        <updated>2024-05-30T20:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Being a technical architect, my day usually begins with starting the FO azure VMs. This will be possible only if the user has access to LCS or azure portal. Auto start and auto shut -down is possible in Azure but … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odata query options with D365FO – Multiple filter]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3473</id>
-        <link href="https://anithasantosh.wordpress.com/2024/05/30/odata-query-options-with-d365fo-multiple-filter/"/>
-        <updated>2024-05-30T20:17:53.000Z</updated>
-        <summary type="html"><![CDATA[In my earlier posts , part1 , part2 I have explained about the various options for Odata. This is a short post on filter query. See the below query How do you pass this to the odata query This output … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 2024 updates for modern controls and theming]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/may-2024-updates-for-modern-controls-and-theming/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/may-2024-updates-for-modern-controls-and-theming/"/>
-        <updated>2024-05-30T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Note: This blog is in continuation of the series of modern controls coming to canvas apps. You can find the March 2024 updates here.  Since last update in early April, we have continued making critical leaps to enable our app creators to build truly modern apps. We have many exciting announcements – Updates to modern theming, availability of icon in buttons, more controls in generally available state and ~100 new styling properties across modern controls.
-The post May 2024 updates for modern controls and theming appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Yogesh Gupta</name>
         </author>
     </entry>
     <entry>
