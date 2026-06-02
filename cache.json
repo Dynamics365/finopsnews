@@ -478,6 +478,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive",
+          "author": "Mirko Peters",
+          "description": "Summary Running Why Leadership Thinks Copilot Is Useless (And Where the Numbers Back Them Up) feels like standing between two worlds: the marketing hype about AI changing everything, and leadership asking, “So where are the results?” In this episode, I tackle the harsh reality behind adoption dashboards: many leaders judge Copilot’s value by sign-in metrics […]",
+          "link": "https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive",
+          "publishedOn": "2026-06-02T01:52:18.000Z",
+          "wordCount": 5629,
+          "title": "Is Microsoft 365 Copilot Worth It? A Deep Dive",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780365138_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-automate-automate-approval-workflow-creation",
+          "author": "Mirko Peters",
+          "description": "Summary Running Your Power Automate Approval Flow is more than just pressing “Start and wait for an approval” — it’s about building a workflow that’s resilient, auditable, and flexible. In this episode, I dig into how to design approval flows that don’t break when someone is out, need rework paths, or you want a clean […]",
+          "link": "https://365community.online/power-automate-automate-approval-workflow-creation",
+          "publishedOn": "2026-06-01T22:17:09.000Z",
+          "wordCount": 5855,
+          "title": "Power Automate: Automate Approval Workflow Creation",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780352230_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-devops-vs-github-choosing-whats-right-for-you",
+          "author": "Mirko Peters",
+          "description": "When you compare GitHub vs Azure DevOps and Microsoft Fabric, you see that deployment ownership depends on how each platform manages your code, artifacts, access, and governance. Microsoft platforms give you clear control over each layer. As a technical leader, you must understand how Microsoft handles these aspects to maintain security and compliance. The table […]",
+          "link": "https://365community.online/azure-devops-vs-github-choosing-whats-right-for-you",
+          "publishedOn": "2026-06-01T18:43:41.000Z",
+          "wordCount": 10212,
+          "title": "Azure DevOps vs GitHub: Choosing What’s Right for You",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780339421_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/testing-the-new-runjobforsandbox-option-in-bulk-delete-jobs-preview-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Microsoft recently introduced a preview feature for Dataverse Bulk Delete Jobs that provides additional control over bulk delete processing. One of the new options available when creating a bulk delete job through the API is RunJobForSandbox. According to the documentation, this option is intended to control sandbox processing during bulk delete operations, which could be […]",
+          "link": "https://365community.online/testing-the-new-runjobforsandbox-option-in-bulk-delete-jobs-preview-dataverse-dynamics-365",
+          "publishedOn": "2026-06-01T18:35:00.000Z",
+          "wordCount": 1997,
+          "title": "Testing the New RunJobForSandbox Option in Bulk Delete Jobs (Preview) – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Testing-the-New-RunJobForSandbox-Option-in-Bulk-Delete-Jobs-Preview.png?fit=1016%2C128&ssl=1"
+        },
+        {
+          "id": "https://365community.online/scaling-copilot-studio-in-the-enterprise-with-isha-kapoor-mvp",
+          "author": "Mirko Peters",
+          "description": "In this episode of the M365 Podcast, host Mirko Peters sits down with Microsoft MVP and Copilot Engineer Isha Kapoor for an in-depth conversation about one of the most important topics facing organizations today: how to successfully scale Microsoft Copilot Studio in large enterprise environments.While many demonstrations of AI agents and Copilot Studio focus on […]",
+          "link": "https://365community.online/scaling-copilot-studio-in-the-enterprise-with-isha-kapoor-mvp",
+          "publishedOn": "2026-06-01T15:09:09.000Z",
+          "wordCount": 3101,
+          "title": "Scaling Copilot Studio in the Enterprise with Isha Kapoor [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/dbcdccd17b20b5f4967176d898265308.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/boosting-retention-managing-execution-history-in-logic-apps-standard",
+          "author": "Anitha Santosh",
+          "description": "If you’re using Logic Apps Standard, you’ll notice that the execution history (runs) is retained for 90 days. Having a longer retention period would be helpful for POC or demo scenarios, especially when customer responses are delayed or when you need to review historical runs. Is there a way to extend the retention period beyond […]",
+          "link": "https://365community.online/boosting-retention-managing-execution-history-in-logic-apps-standard",
+          "publishedOn": "2026-06-01T15:01:00.000Z",
+          "wordCount": 2226,
+          "title": "Boosting Retention: Managing Execution History in Logic Apps Standard",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Boosting-Retention-Managing-Execution-History-in-Logic-Apps-Standard.png?fit=615%2C236&ssl=1"
+        },
+        {
+          "id": "https://365community.online/teaching-your-ai-coworker",
+          "author": "Peter Petersen",
+          "description": "Monday AI Dispatch | June 1, 2026 Two of the most significant agentic AI platforms available right now, Claude Cowork from Anthropic and Copilot Cowork from Microsoft, both support custom skills and can be seen as an AI Coworker. That’s not a coincidence. It’s where enterprise AI is heading: from tools that respond to tools […]",
+          "link": "https://365community.online/teaching-your-ai-coworker",
+          "publishedOn": "2026-06-01T12:51:00.000Z",
+          "wordCount": 4059,
+          "title": "Teaching Your AI Coworker",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/72e9a0e7-5b5e-4ec2-bcef-be605e3abfed.png?fit=1254%2C1254&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-copilot-for-data-quality-data-insights-with-copilot",
+          "author": "Mirko Peters",
+          "description": "Microsoft Copilot Fails when poor data quality disrupts its transformative impact on your daily work. You can see this problem in real time—Gartner predicts that 30% of generative AI projects will get abandoned by 2025 because of issues with data quality. When you use Copilot, strong data helps you resolve security incidents faster and focus […]",
+          "link": "https://365community.online/microsoft-365-copilot-for-data-quality-data-insights-with-copilot",
+          "publishedOn": "2026-06-01T11:32:26.000Z",
+          "wordCount": 6837,
+          "title": "Microsoft 365 Copilot for Data Quality: Data Insights with Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780313547_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-smart-factory-is-evolving-industrial-iot-fabric-and-agentic-ai-in-manufacturing-youtube",
+          "author": "John Lunn",
+          "description": "The Smart Factory Is Evolving: Industrial IoT, Fabric, and Agentic AI in Manufacturing Unlock the future of manufacturing with Industrial IoT, Microsoft Fabric, and Agentic AI! In this episode, John and Ty break down how smart factories are evolving from siloed data to unified, intelligent operations. Discover how leading manufacturers are using real-time data, cloud […]",
+          "link": "https://365community.online/the-smart-factory-is-evolving-industrial-iot-fabric-and-agentic-ai-in-manufacturing-youtube",
+          "publishedOn": "2026-06-01T11:01:08.000Z",
+          "wordCount": 2308,
+          "title": "The Smart Factory Is Evolving: Industrial IoT, Fabric, and Agentic AI in Manufacturing – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780328901_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sanoto-s710-vs-shokz-openswim-pro-head-to-head-review-which-swimming-headphone-wins",
+          "author": "Ragnar Heil",
+          "description": "Introduction The market for waterproof sports headphones has grown significantly, and two models stand out at very different price points: the SANOTO S710 (~€59, Amazon Affiliate Link) and the SHOKZ OpenSwim Pro (~€229, Amazon Affiliate Link). Both are designed for swimming and aquatic sports, both feature built-in MP3 storage for underwater playback, and both use some form of bone […]",
+          "link": "https://365community.online/sanoto-s710-vs-shokz-openswim-pro-head-to-head-review-which-swimming-headphone-wins",
+          "publishedOn": "2026-06-01T10:46:00.000Z",
+          "wordCount": 3347,
+          "title": "SANOTO S710 vs. SHOKZ OpenSwim Pro — Head-to-Head Review: Which Swimming Headphone Wins?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/IMG_5450-1024x768.jpeg?fit=1024%2C768&ssl=1"
+        },
+        {
           "id": "https://365community.online/model-driven-apps-in-power-platform-a-microsoft-power-apps-guide",
           "author": "Mirko Peters",
           "description": "Summary Running Model-Driven Apps: The Unsung Power Platform Hero isn’t about flashy UI — it’s about building secure, stable, production-ready apps that stand the test of change. In this episode, I show you how I take a blank Dataverse table and convert it into a themed, role-aware application with custom forms, views, relationships, security, and […]",
@@ -41066,7 +41166,7 @@
           "description": "The title of this blog is an error that you may encounter when maintaining users in Microsoft Dynamics 365 Finance and Operations. In this blog, I will explain when this error will be triggered, how it might impact your licensing reports, and how to solve this error. The error explained Each user who will be […]\nThe post The user with this email does not exist in Microsoft Entra ID appeared first on Dynamicspedia.",
           "link": "https://dynamicspedia.com/2026/05/the-user-with-this-email-does-not-exist-in-microsoft-entra-id/",
           "publishedOn": "2026-05-31T12:40:53.000Z",
-          "wordCount": 4789,
+          "wordCount": 4784,
           "title": "The user with this email does not exist in Microsoft Entra ID",
           "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2026/05/Security-email-does-not-exist-1200x600-1.jpg"
         },
@@ -42188,6 +42288,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=4533",
+          "author": "AnithaEswaran",
+          "description": "If you’re using Logic Apps Standard, you’ll notice that the execution history (runs) is retained for 90 days. Having a longer retention period would be helpful for POC or demo scenarios, especially when customer responses are delayed or when you … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2026/06/01/boosting-retention-managing-execution-history-in-logic-apps-standard/",
+          "publishedOn": "2026-06-01T15:01:24.000Z",
+          "wordCount": 3562,
+          "title": "Boosting Retention: Managing Execution History in Logic Apps Standard",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2026/06/image-2.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=4514",
           "author": "AnithaEswaran",

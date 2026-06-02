@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-01T04:23:22.764Z</updated>
+    <updated>2026-06-02T04:16:55.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Microsoft 365 Copilot Worth It? A Deep Dive]]></title>
+        <id>https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive</id>
+        <link href="https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive"/>
+        <updated>2026-06-02T01:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Why Leadership Thinks Copilot Is Useless (And Where the Numbers Back Them Up) feels like standing between two worlds: the marketing hype about AI changing everything, and leadership asking, “So where are the results?” In this episode, I tackle the harsh reality behind adoption dashboards: many leaders judge Copilot’s value by sign-in metrics […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate: Automate Approval Workflow Creation]]></title>
+        <id>https://365community.online/power-automate-automate-approval-workflow-creation</id>
+        <link href="https://365community.online/power-automate-automate-approval-workflow-creation"/>
+        <updated>2026-06-01T22:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Your Power Automate Approval Flow is more than just pressing “Start and wait for an approval” — it’s about building a workflow that’s resilient, auditable, and flexible. In this episode, I dig into how to design approval flows that don’t break when someone is out, need rework paths, or you want a clean […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps vs GitHub: Choosing What’s Right for You]]></title>
+        <id>https://365community.online/azure-devops-vs-github-choosing-whats-right-for-you</id>
+        <link href="https://365community.online/azure-devops-vs-github-choosing-whats-right-for-you"/>
+        <updated>2026-06-01T18:43:41.000Z</updated>
+        <summary type="html"><![CDATA[When you compare GitHub vs Azure DevOps and Microsoft Fabric, you see that deployment ownership depends on how each platform manages your code, artifacts, access, and governance. Microsoft platforms give you clear control over each layer. As a technical leader, you must understand how Microsoft handles these aspects to maintain security and compliance. The table […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing the New RunJobForSandbox Option in Bulk Delete Jobs (Preview) – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/testing-the-new-runjobforsandbox-option-in-bulk-delete-jobs-preview-dataverse-dynamics-365</id>
+        <link href="https://365community.online/testing-the-new-runjobforsandbox-option-in-bulk-delete-jobs-preview-dataverse-dynamics-365"/>
+        <updated>2026-06-01T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft recently introduced a preview feature for Dataverse Bulk Delete Jobs that provides additional control over bulk delete processing. One of the new options available when creating a bulk delete job through the API is RunJobForSandbox. According to the documentation, this option is intended to control sandbox processing during bulk delete operations, which could be […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Copilot Studio in the Enterprise with Isha Kapoor [MVP]]]></title>
+        <id>https://365community.online/scaling-copilot-studio-in-the-enterprise-with-isha-kapoor-mvp</id>
+        <link href="https://365community.online/scaling-copilot-studio-in-the-enterprise-with-isha-kapoor-mvp"/>
+        <updated>2026-06-01T15:09:09.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the M365 Podcast, host Mirko Peters sits down with Microsoft MVP and Copilot Engineer Isha Kapoor for an in-depth conversation about one of the most important topics facing organizations today: how to successfully scale Microsoft Copilot Studio in large enterprise environments.While many demonstrations of AI agents and Copilot Studio focus on […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Retention: Managing Execution History in Logic Apps Standard]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4533</id>
+        <link href="https://anithasantosh.wordpress.com/2026/06/01/boosting-retention-managing-execution-history-in-logic-apps-standard/"/>
+        <updated>2026-06-01T15:01:24.000Z</updated>
+        <summary type="html"><![CDATA[If you’re using Logic Apps Standard, you’ll notice that the execution history (runs) is retained for 90 days. Having a longer retention period would be helpful for POC or demo scenarios, especially when customer responses are delayed or when you … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Retention: Managing Execution History in Logic Apps Standard]]></title>
+        <id>https://365community.online/boosting-retention-managing-execution-history-in-logic-apps-standard</id>
+        <link href="https://365community.online/boosting-retention-managing-execution-history-in-logic-apps-standard"/>
+        <updated>2026-06-01T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re using Logic Apps Standard, you’ll notice that the execution history (runs) is retained for 90 days. Having a longer retention period would be helpful for POC or demo scenarios, especially when customer responses are delayed or when you need to review historical runs. Is there a way to extend the retention period beyond […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Your AI Coworker]]></title>
+        <id>https://365community.online/teaching-your-ai-coworker</id>
+        <link href="https://365community.online/teaching-your-ai-coworker"/>
+        <updated>2026-06-01T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Monday AI Dispatch | June 1, 2026 Two of the most significant agentic AI platforms available right now, Claude Cowork from Anthropic and Copilot Cowork from Microsoft, both support custom skills and can be seen as an AI Coworker. That’s not a coincidence. It’s where enterprise AI is heading: from tools that respond to tools […]]]></summary>
+        <author>
+            <name>Peter Petersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot for Data Quality: Data Insights with Copilot]]></title>
+        <id>https://365community.online/microsoft-365-copilot-for-data-quality-data-insights-with-copilot</id>
+        <link href="https://365community.online/microsoft-365-copilot-for-data-quality-data-insights-with-copilot"/>
+        <updated>2026-06-01T11:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot Fails when poor data quality disrupts its transformative impact on your daily work. You can see this problem in real time—Gartner predicts that 30% of generative AI projects will get abandoned by 2025 because of issues with data quality. When you use Copilot, strong data helps you resolve security incidents faster and focus […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smart Factory Is Evolving: Industrial IoT, Fabric, and Agentic AI in Manufacturing – YouTube]]></title>
+        <id>https://365community.online/the-smart-factory-is-evolving-industrial-iot-fabric-and-agentic-ai-in-manufacturing-youtube</id>
+        <link href="https://365community.online/the-smart-factory-is-evolving-industrial-iot-fabric-and-agentic-ai-in-manufacturing-youtube"/>
+        <updated>2026-06-01T11:01:08.000Z</updated>
+        <summary type="html"><![CDATA[The Smart Factory Is Evolving: Industrial IoT, Fabric, and Agentic AI in Manufacturing Unlock the future of manufacturing with Industrial IoT, Microsoft Fabric, and Agentic AI! In this episode, John and Ty break down how smart factories are evolving from siloed data to unified, intelligent operations. Discover how leading manufacturers are using real-time data, cloud […]]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SANOTO S710 vs. SHOKZ OpenSwim Pro — Head-to-Head Review: Which Swimming Headphone Wins?]]></title>
+        <id>https://365community.online/sanoto-s710-vs-shokz-openswim-pro-head-to-head-review-which-swimming-headphone-wins</id>
+        <link href="https://365community.online/sanoto-s710-vs-shokz-openswim-pro-head-to-head-review-which-swimming-headphone-wins"/>
+        <updated>2026-06-01T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction The market for waterproof sports headphones has grown significantly, and two models stand out at very different price points: the SANOTO S710 (~€59, Amazon Affiliate Link) and the SHOKZ OpenSwim Pro (~€229, Amazon Affiliate Link). Both are designed for swimming and aquatic sports, both feature built-in MP3 storage for underwater playback, and both use some form of bone […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Model-Driven Apps in Power Platform: A Microsoft Power Apps Guide]]></title>
         <id>https://365community.online/model-driven-apps-in-power-platform-a-microsoft-power-apps-guide</id>
