@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-04T04:21:20.830Z</updated>
+    <updated>2026-06-05T04:04:03.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entity Framework Core Performance: Optimizing EF Core Query Speed]]></title>
+        <id>https://365community.online/entity-framework-core-performance-optimizing-ef-core-query-speed</id>
+        <link href="https://365community.online/entity-framework-core-performance-optimizing-ef-core-query-speed"/>
+        <updated>2026-06-05T02:50:19.000Z</updated>
+        <summary type="html"><![CDATA[You may encounter performance issues when using Entity Framework as your object-relational mapper. These performance issues can cause your apps to run slowly and become less effective. Common causes include incorrect settings, slow bulk operations, and excessive memory usage when tracking many entities. Default change tracking can quickly consume resources. Utilizing methods like AsNoTracking can […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Computing Security: Common Issues and Risk]]></title>
+        <id>https://365community.online/cloud-computing-security-common-issues-and-risk</id>
+        <link href="https://365community.online/cloud-computing-security-common-issues-and-risk"/>
+        <updated>2026-06-04T23:09:47.000Z</updated>
+        <summary type="html"><![CDATA[You can stop most cloud computing problems with good planning. You also need cost controls, security, backup, and monitoring. It is important to see what is happening in your system. A clear migration strategy is very important for success. This is true when you move to Microsoft Azure. The right strategy links technical goals to […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debug Quantum Programs with VS Code & Azure Quantum]]></title>
+        <id>https://365community.online/debug-quantum-programs-with-vs-code-azure-quantum</id>
+        <link href="https://365community.online/debug-quantum-programs-with-vs-code-azure-quantum"/>
+        <updated>2026-06-04T19:20:14.000Z</updated>
+        <summary type="html"><![CDATA[The Azure Quantum Development Kit helps you make, test, and run quantum programs. You can use these tools on simulators and real hardware. Microsoft is a leader in quantum computing. They give you an open-source quantum development kit. It works with Q#, Qiskit, and OpenQASM. This makes it simple to use programming languages you know. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 7.0 Has Arrived: Here’s Everything You Need to Know]]></title>
+        <id>https://365community.online/wordpress-7-0-has-arrived-heres-everything-you-need-to-know-2</id>
+        <link href="https://365community.online/wordpress-7-0-has-arrived-heres-everything-you-need-to-know-2"/>
+        <updated>2026-06-04T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress 7.0 “Armstrong” has landed. This major release makes WordPress more connected and easier to shape around the way you work.  WordPress 7.0 includes both immediate editor improvements and deeper foundational changes. Some improvements are visible right away, like visual revisions, responsive controls, and a cleaner dashboard. Others work behind the scenes are more foundational, […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure: Deploy ASP.NET Boilerplate App with Azure Functions]]></title>
+        <id>https://365community.online/azure-deploy-asp-net-boilerplate-app-with-azure-functions</id>
+        <link href="https://365community.online/azure-deploy-asp-net-boilerplate-app-with-azure-functions"/>
+        <updated>2026-06-04T15:37:10.000Z</updated>
+        <summary type="html"><![CDATA[You can make your app faster with azure boilerplate code. This boilerplate stops you from doing the same setup again and again. It lets you spend more time on important code. Azure App Service is a managed platform. It helps you handle your work easily. You use azure to build, deploy, and grow your projects […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint Information Architecture: Best Practices Guide]]></title>
+        <id>https://365community.online/sharepoint-information-architecture-best-practices-guide</id>
+        <link href="https://365community.online/sharepoint-information-architecture-best-practices-guide"/>
+        <updated>2026-06-04T11:49:11.000Z</updated>
+        <summary type="html"><![CDATA[You use SharePoint in Microsoft 365 to boost teamwork and manage documents with ease. Over 250,000 organizations depend on SharePoint, including more than 85% of Fortune 500 companies. You organize content and streamline access by applying information architecture. This approach shapes global navigation, hub structure, metadata, and search experiences. You avoid mapped drives and choose […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Construction Companies Use Dynamics 365 Maps to Improve Field Operations]]></title>
+        <id>https://365community.online/how-construction-companies-use-dynamics-365-maps-to-improve-field-operations</id>
+        <link href="https://365community.online/how-construction-companies-use-dynamics-365-maps-to-improve-field-operations"/>
+        <updated>2026-06-04T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The construction industry runs on precision, timelines, resource allocation, and coordination across sites that are often spread across cities, regions, or even countries. A missed site visit, a poorly planned route, or an unmonitored field crew can cascade into costly delays. Yet for most construction companies, field operations are still managed through spreadsheets, phone calls, […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 10: AI Integration, New Features, and Visual Studio Improvement]]></title>
+        <id>https://365community.online/net-10-ai-integration-new-features-and-visual-studio-improvement</id>
+        <link href="https://365community.online/net-10-ai-integration-new-features-and-visual-studio-improvement"/>
+        <updated>2026-06-04T08:11:53.000Z</updated>
+        <summary type="html"><![CDATA[icrosoft’s AI-first plan gives smarter tools to your work. AI-powered agents finish simple jobs quickly. Tools make reports in hours, not weeks. You make apps in one place. You can switch providers, add custom middleware, and check usage easily. Feature Description Provider flexibility Switch between AI providers without code changes Middleware pipeline Add caching, logging, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Passed Microsoft AI Transformation Leader (AB‑731) Certification?]]></title>
+        <id>https://365community.online/how-i-passed-microsoft-ai-transformation-leader-ab-731-certification</id>
+        <link href="https://365community.online/how-i-passed-microsoft-ai-transformation-leader-ab-731-certification"/>
+        <updated>2026-06-04T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction I’m excited to share my journey of successfully clearing the Microsoft AI Transformation Leader (AB‑731) certification. This certification focuses on enabling professionals to drive AI-led transformation, align business strategy with AI, and implement responsible AI practices. In this blog, I’ll walk you through: The resources I used My preparation strategy Key learnings Tips to […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Build 2026: What HR actually needs to know]]></title>
+        <id>https://365community.online/microsoft-build-2026-what-hr-actually-needs-to-know</id>
+        <link href="https://365community.online/microsoft-build-2026-what-hr-actually-needs-to-know"/>
+        <updated>2026-06-04T06:16:00.000Z</updated>
+        <summary type="html"><![CDATA[I was catching up with Microsoft Build 2026 and I want to be honest with you: this wasn’t a normal year. The announcements that dropped in San Francisco were not incremental feature updates. They were a direction, a clear, unmistakable signal about what enterprise work looks like in two to three years. Three of those […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Microsoft Copilot is now JARVIS: This is how I built it]]></title>
+        <id>https://365community.online/my-microsoft-copilot-is-now-jarvis-this-is-how-i-built-it</id>
+        <link href="https://365community.online/my-microsoft-copilot-is-now-jarvis-this-is-how-i-built-it"/>
+        <updated>2026-06-04T04:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Most people are using Microsoft Copilot completely wrong.They treat it as a smarter search engine, a better chatbot, or a productivity feature tucked away inside Outlook, Teams, or Word. They ask a question, get an answer, and move on to the next task.But that’s not JARVIS.In this episode of M365 FM, Mirko Peters explores how […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No-Code vs Low-Code vs Pro-Code: Which Approach Is Right for You?]]></title>
         <id>https://365community.online/no-code-vs-low-code-vs-pro-code-which-approach-is-right-for-you</id>
@@ -44,6 +154,17 @@
         <summary type="html"><![CDATA[In this episode of the M365 FM Podcast, Mirko Peters welcomes Areti Iles, Microsoft MVP, Head of Professional Services at Telefonica Tech’s AI Business Solutions Division, community leader, mentor, conference organizer, and one of the most respected voices in AI governance, compliance, Dynamics 365, and Power Platform. Together, they explore enterprise transformation, Agentic AI, leadership, […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try Email Classification in Dynamics 365 Customer Service]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/03/email-classification-dynamics-365-case-quality/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/03/email-classification-dynamics-365-case-quality/"/>
+        <updated>2026-06-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Email classification in Dynamics 365 ensures only meaningful customer emails become cases. Reduce noise, improve triage, and boost service productivity.
+The post Try Email Classification in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Soham Ghosh, Saurabh Gupta and Harish Tyagi</name>
         </author>
     </entry>
     <entry>
@@ -349,7 +470,7 @@ The post Managing Complex Service Work with Financial Clarity appeared first on 
     </entry>
     <entry>
         <title type="html"><![CDATA[Public Preview: Quality Evaluation Agent Extends Quality Oversight to Email]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202284</id>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/01/quality-evaluation-framework-customer-email/</id>
         <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/01/quality-evaluation-framework-customer-email/"/>
         <updated>2026-06-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Quality Evaluation Agent (QEA) in Dynamics 365 Customer Service now supports email evaluations, available in Public Preview. The same structured evaluation framework that powers consistent, automated quality assessments across cases and conversations now extends to customer-facing emails. This expansion brings greater trust, transparency, and accountability to another critical communication channel.
@@ -54567,28 +54688,6 @@ The post Transition from unified routing diagnostics to Azure Application Insigh
 The post Develop a tenant environment strategy to adopt Power Platform at scale appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Robert Standefer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SysFlushAOD: Refresh SysExtension cache in D365FO]]></title>
-        <id>https://erconsult.eu/?p=8239</id>
-        <link href="https://erconsult.eu/blog/sysflushaod-refresh-sysextension-cache-in-d365fo/"/>
-        <updated>2024-06-05T13:09:08.000Z</updated>
-        <summary type="html"><![CDATA[The SysExtension framework in Dynamics 365 for Supply Chain Management often fails to recognize newly created classes due to intensive caching of class IDs and attributes. This issue persists even after rebuilding the solution and performing an IISRESET. The solution is to clear the SysExtension factory cache by executing a specific command in the browser, which forces a rescan of the inherited classes.
-The post SysFlushAOD: Refresh SysExtension cache in D365FO appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new: Power Apps May 2024 Feature Update]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-power-apps-may-2024-feature-update/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-power-apps-may-2024-feature-update/"/>
-        <updated>2024-06-04T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we’ve got a great set of updates for Makers, Admins, and users across Power Apps, Dataverse and
-The post What’s new: Power Apps May 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
         </author>
     </entry>
     <entry>
