@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-06T03:49:16.565Z</updated>
+    <updated>2026-06-07T04:14:50.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure CLI vs PowerShell: Microsoft Azure Command-Line Tools]]></title>
+        <id>https://365community.online/azure-cli-vs-powershell-microsoft-azure-command-line-tools</id>
+        <link href="https://365community.online/azure-cli-vs-powershell-microsoft-azure-command-line-tools"/>
+        <updated>2026-06-07T01:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you need to manage azure resources quickly for a new project. You see two options: Azure CLI vs PowerShell. You wonder about the key differences between these tools. Azure CLI helps you automate tasks with simple commands, while PowerShell gives you powerful control for complex azure environments. When you master both, you improve how […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Cloud Security: Key Risks and Threat Mitigation]]></title>
+        <id>https://365community.online/azure-cloud-security-key-risks-and-threat-mitigation</id>
+        <link href="https://365community.online/azure-cloud-security-key-risks-and-threat-mitigation"/>
+        <updated>2026-06-06T21:20:34.000Z</updated>
+        <summary type="html"><![CDATA[What hidden risks in Azure Cloud do you miss while focusing on daily operations? Attackers often slip past defenses by exploiting overlooked gaps. Recent incidents show how phishing-based Azure AD account compromises, MFA fatigue attacks, and token theft have led to unauthorized access and data loss. You need to act fast. The threat landscape changes […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Private RAG: A Blueprint for SharePoint & n8n]]></title>
+        <id>https://365community.online/building-private-rag-a-blueprint-for-sharepoint-n8n</id>
+        <link href="https://365community.online/building-private-rag-a-blueprint-for-sharepoint-n8n"/>
+        <updated>2026-06-06T17:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations already have the ingredients for enterprise AI success. They have SharePoint. They have years of accumulated knowledge stored across documents, spreadsheets, policies, manuals, contracts, and project files. They may even have access to powerful AI models. Yet when employees ask questions, the answers are often incomplete, inaccurate, or missing entirely.The problem isn’t the […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stairway to Dataverse Heaven]]></title>
+        <id>https://365community.online/stairway-to-dataverse-heaven</id>
+        <link href="https://365community.online/stairway-to-dataverse-heaven"/>
+        <updated>2026-06-06T14:53:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a moment in every agentic strategy project where you realize: how your agent connects to data matters just as much as what data it sees. Now, coming from the world of Dynamics 365 and Model-Driven Power Apps, Dataverse is the golden data source. So naturally, when there is an ask to create a custom agent […]]]></summary>
+        <author>
+            <name>Angeliki Patsiavou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fabric: Power BI’s Next Evolution for BI & Data]]></title>
+        <id>https://365community.online/microsoft-fabric-power-bis-next-evolution-for-bi-data</id>
+        <link href="https://365community.online/microsoft-fabric-power-bis-next-evolution-for-bi-data"/>
+        <updated>2026-06-06T13:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Fabric has flipped the script for BI pros like you. You see your daily reporting turn from chaos to confidence, thanks to centralized data uploads and automated processes. Career paths shift as Microsoft aligns the BI roadmap with long-term intelligence goals. The urgency is real—Power BI users now get a unified analytics platform, live […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passkeys vs Passwords: Which is Better? Passkey Explained]]></title>
+        <id>https://365community.online/passkeys-vs-passwords-which-is-better-passkey-explained</id>
+        <link href="https://365community.online/passkeys-vs-passwords-which-is-better-passkey-explained"/>
+        <updated>2026-06-06T10:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Passkeys are the future when it comes to secure authentication. You no longer need to remember long, complex passwords or worry about hackers stealing them. Passkeys use a simple process: your device creates a unique code for each website, so only you can log in. Over 80% of hacking-related breaches happen because of weak or […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Changelog: WordPress 7.0 and Ways to Repurpose Your Written Content]]></title>
+        <id>https://365community.online/wordpress-com-changelog-wordpress-7-0-and-ways-to-repurpose-your-written-content</id>
+        <link href="https://365community.online/wordpress-com-changelog-wordpress-7-0-and-ways-to-repurpose-your-written-content"/>
+        <updated>2026-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[May 22–June 4, 2026 Welcome back to the WordPress.com changelog! We have lots to update you on, including information about a new core version running on every WordPress.com site, how you can repurpose your written blog content in audio and visual forms, and so much more. Core WordPress 7.0 is here WordPress 7.0 (“Armstrong”) shipped […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bridge the Gap: Connecting Copilot to Predictive Power BI]]></title>
+        <id>https://365community.online/how-to-bridge-the-gap-connecting-copilot-to-predictive-power-bi</id>
+        <link href="https://365community.online/how-to-bridge-the-gap-connecting-copilot-to-predictive-power-bi"/>
+        <updated>2026-06-06T06:21:41.000Z</updated>
+        <summary type="html"><![CDATA[rtificial Intelligence is rapidly changing how organizations interact with data, but many businesses are still searching for practical ways to connect AI-powered assistants with advanced analytics and predictive insights. In this episode, we explore how Microsoft Copilot and Power BI can work together to transform the way users discover, analyze, and act on business data.As […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Power Platform: Limitations and Limits]]></title>
         <id>https://365community.online/microsoft-power-platform-limitations-and-limits</id>
@@ -24,6 +104,17 @@
         <summary type="html"><![CDATA[WEBVTT 100:00:00.080 –> 00:00:02.160If you’ve ever thought your net app is safe just 200:00:02.200 –> 00:00:04.519because you’re running the latest framework, this might be the 300:00:04.559 –> 00:00:07.919wake up call you didn’t expect. O wasp’s upcoming update 400:00:07.960 –> 00:00:11.679emphasizes changes worth rethinking in your architecture. In this video, 500:00:11.720 –> 00:00:14.439you’ll see which O […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernize IVR with AI Voice in Dynamics 365 Contact Center]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/05/modernize-ivr-ai-voice-dynamics-365-contact-center/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/05/modernize-ivr-ai-voice-dynamics-365-contact-center/"/>
+        <updated>2026-06-05T17:54:13.000Z</updated>
+        <summary type="html"><![CDATA[For years, contact centers have relied on traditional IVR scripted workflows to manage customer conversations. While effective for predictable tasks, these solutions become brittle as interactions grow more complex or multi‑step. Every change—whether updating policies, adding new intents, or refining flows—requires manual reconfiguration. This makes IVRs expensive and time‑consuming to maintain at scale.
+The post Modernize IVR with AI Voice in Dynamics 365 Contact Center appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Joe Weeden</name>
         </author>
     </entry>
     <entry>
@@ -54734,28 +54825,6 @@ First, let's review the class delcartion. a few different modifiers on the clas
         <summary type="html"><![CDATA[In my previous article , I have mentioned about the preview features of 10.0.40 This post gives an overview of the features includes with GA. Copilot in finance and operations apps for developers Feature name : Extend Copilot with client … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print a custom product label: a Template solution in Process Guide Framework, with detours]]></title>
-        <id>https://erconsult.eu/?p=8259</id>
-        <link href="https://erconsult.eu/blog/template-solution-in-process-guide-framework-with-detours/"/>
-        <updated>2024-06-07T09:20:43.000Z</updated>
-        <summary type="html"><![CDATA[We offer a template for a menu item in Dynamics 365 SCM's Process Guide Framework that prints a custom product label from a mobile device. The setup involves extending enumerations, configuring a controller class, and defining steps and fields for detour use.
-The post Print a custom product label: a Template solution in Process Guide Framework, with detours appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips and Tricks for Creating Content as a Partner or ISV to Drive Engagement]]></title>
-        <id>https://alexdmeyer.com/?p=3203</id>
-        <link href="https://alexdmeyer.com/2024/06/06/tips-and-tricks-for-creating-content-as-a-partner-or-isv-to-drive-engagement/"/>
-        <updated>2024-06-06T16:09:26.000Z</updated>
-        <summary type="html"><![CDATA[This is going to be a slightly different type of post than I normally do and I fully expect it may cause some potential ‘spirited feedback’ but my goal is to lay out a roadmap to creating content from a partner or ISV perspective and how to increase your leads and prospect interactions. This post […]
-The post Tips and Tricks for Creating Content as a Partner or ISV to Drive Engagement appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
     <entry>

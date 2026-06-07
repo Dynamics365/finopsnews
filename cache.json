@@ -508,6 +508,86 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/azure-cli-vs-powershell-microsoft-azure-command-line-tools",
+          "author": "Mirko Peters",
+          "description": "Imagine you need to manage azure resources quickly for a new project. You see two options: Azure CLI vs PowerShell. You wonder about the key differences between these tools. Azure CLI helps you automate tasks with simple commands, while PowerShell gives you powerful control for complex azure environments. When you master both, you improve how […]",
+          "link": "https://365community.online/azure-cli-vs-powershell-microsoft-azure-command-line-tools",
+          "publishedOn": "2026-06-07T01:11:39.000Z",
+          "wordCount": 7942,
+          "title": "Azure CLI vs PowerShell: Microsoft Azure Command-Line Tools",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780794699_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-cloud-security-key-risks-and-threat-mitigation",
+          "author": "Mirko Peters",
+          "description": "What hidden risks in Azure Cloud do you miss while focusing on daily operations? Attackers often slip past defenses by exploiting overlooked gaps. Recent incidents show how phishing-based Azure AD account compromises, MFA fatigue attacks, and token theft have led to unauthorized access and data loss. You need to act fast. The threat landscape changes […]",
+          "link": "https://365community.online/azure-cloud-security-key-risks-and-threat-mitigation",
+          "publishedOn": "2026-06-06T21:20:34.000Z",
+          "wordCount": 8748,
+          "title": "Azure Cloud Security: Key Risks and Threat Mitigation",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780780834_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/building-private-rag-a-blueprint-for-sharepoint-n8n",
+          "author": "Mirko Peters",
+          "description": "Most organizations already have the ingredients for enterprise AI success. They have SharePoint. They have years of accumulated knowledge stored across documents, spreadsheets, policies, manuals, contracts, and project files. They may even have access to powerful AI models. Yet when employees ask questions, the answers are often incomplete, inaccurate, or missing entirely.The problem isn’t the […]",
+          "link": "https://365community.online/building-private-rag-a-blueprint-for-sharepoint-n8n",
+          "publishedOn": "2026-06-06T17:40:47.000Z",
+          "wordCount": 2876,
+          "title": "Building Private RAG: A Blueprint for SharePoint & n8n",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/67b38e2abf293fc8afdfed5f9ddb9422.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stairway-to-dataverse-heaven",
+          "author": "Angeliki Patsiavou",
+          "description": "There’s a moment in every agentic strategy project where you realize: how your agent connects to data matters just as much as what data it sees. Now, coming from the world of Dynamics 365 and Model-Driven Power Apps, Dataverse is the golden data source. So naturally, when there is an ask to create a custom agent […]",
+          "link": "https://365community.online/stairway-to-dataverse-heaven",
+          "publishedOn": "2026-06-06T14:53:00.000Z",
+          "wordCount": 2895,
+          "title": "Stairway to Dataverse Heaven",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/d7196d_aa86e6e93b8c41fc942ecf5efcbfbaa6mv2.gif?fit=640%2C414&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-fabric-power-bis-next-evolution-for-bi-data",
+          "author": "Mirko Peters",
+          "description": "Microsoft Fabric has flipped the script for BI pros like you. You see your daily reporting turn from chaos to confidence, thanks to centralized data uploads and automated processes. Career paths shift as Microsoft aligns the BI roadmap with long-term intelligence goals. The urgency is real—Power BI users now get a unified analytics platform, live […]",
+          "link": "https://365community.online/microsoft-fabric-power-bis-next-evolution-for-bi-data",
+          "publishedOn": "2026-06-06T13:56:22.000Z",
+          "wordCount": 6957,
+          "title": "Microsoft Fabric: Power BI’s Next Evolution for BI & Data",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780754183_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/passkeys-vs-passwords-which-is-better-passkey-explained",
+          "author": "Mirko Peters",
+          "description": "Passkeys are the future when it comes to secure authentication. You no longer need to remember long, complex passwords or worry about hackers stealing them. Passkeys use a simple process: your device creates a unique code for each website, so only you can log in. Over 80% of hacking-related breaches happen because of weak or […]",
+          "link": "https://365community.online/passkeys-vs-passwords-which-is-better-passkey-explained",
+          "publishedOn": "2026-06-06T10:09:02.000Z",
+          "wordCount": 6842,
+          "title": "Passkeys vs Passwords: Which is Better? Passkey Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780740543_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wordpress-com-changelog-wordpress-7-0-and-ways-to-repurpose-your-written-content",
+          "author": "Belinda Allen",
+          "description": "May 22–June 4, 2026 Welcome back to the WordPress.com changelog! We have lots to update you on, including information about a new core version running on every WordPress.com site, how you can repurpose your written blog content in audio and visual forms, and so much more. Core WordPress 7.0 is here WordPress 7.0 (“Armstrong”) shipped […]",
+          "link": "https://365community.online/wordpress-com-changelog-wordpress-7-0-and-ways-to-repurpose-your-written-content",
+          "publishedOn": "2026-06-06T10:00:00.000Z",
+          "wordCount": 2698,
+          "title": "WordPress.com Changelog: WordPress 7.0 and Ways to Repurpose Your Written Content",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/WordPresscom-Changelog-WordPress-70-and-Ways-to-Repurpose-Your-Written.jpg?fit=1200%2C756&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-bridge-the-gap-connecting-copilot-to-predictive-power-bi",
+          "author": "Mirko Peters",
+          "description": "rtificial Intelligence is rapidly changing how organizations interact with data, but many businesses are still searching for practical ways to connect AI-powered assistants with advanced analytics and predictive insights. In this episode, we explore how Microsoft Copilot and Power BI can work together to transform the way users discover, analyze, and act on business data.As […]",
+          "link": "https://365community.online/how-to-bridge-the-gap-connecting-copilot-to-predictive-power-bi",
+          "publishedOn": "2026-06-06T06:21:41.000Z",
+          "wordCount": 2536,
+          "title": "How to Bridge the Gap: Connecting Copilot to Predictive Power BI",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/77e2ff5c0b205ff0255beb6c35c21607.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-power-platform-limitations-and-limits",
           "author": "Mirko Peters",
           "description": "You rely on the power platform to automate tasks and drive results. Suddenly, you notice slow data sync or confusing error messages. These issues often trace back to power platform limits. Many users struggle with the licensing model, which can cause unexpected costs. You may also find the platform’s complexity overwhelming, especially in large organizations […]",
@@ -42565,16 +42645,6 @@
           "wordCount": 4347,
           "title": "New Release of D365FO Admin Toolkit v1.5",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/06/2.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=3203",
-          "author": "Alex",
-          "description": "This is going to be a slightly different type of post than I normally do and I fully expect it may cause some potential ‘spirited feedback’ but my goal is to lay out a roadmap to creating content from a partner or ISV perspective and how to increase your leads and prospect interactions. This post […]\nThe post Tips and Tricks for Creating Content as a Partner or ISV to Drive Engagement appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2024/06/06/tips-and-tricks-for-creating-content-as-a-partner-or-isv-to-drive-engagement/",
-          "publishedOn": "2024-06-06T16:09:26.000Z",
-          "wordCount": 5636,
-          "title": "Tips and Tricks for Creating Content as a Partner or ISV to Drive Engagement",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/05/1-1.png"
         }
       ]
     },
@@ -44293,6 +44363,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/05/modernize-ivr-ai-voice-dynamics-365-contact-center/",
+          "author": "Joe Weeden",
+          "description": "For years, contact centers have relied on traditional IVR scripted workflows to manage customer conversations. While effective for predictable tasks, these solutions become brittle as interactions grow more complex or multi‑step. Every change—whether updating policies, adding new intents, or refining flows—requires manual reconfiguration. This makes IVRs expensive and time‑consuming to maintain at scale.\nThe post Modernize IVR with AI Voice in Dynamics 365 Contact Center appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/05/modernize-ivr-ai-voice-dynamics-365-contact-center/",
+          "publishedOn": "2026-06-05T17:54:13.000Z",
+          "wordCount": 6732,
+          "title": "Modernize IVR with AI Voice in Dynamics 365 Contact Center",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/06/AdobeStock_331016011-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/03/email-classification-dynamics-365-case-quality/",
           "author": "Soham Ghosh, Saurabh Gupta and Harish Tyagi",
@@ -49708,16 +49788,6 @@
           "wordCount": 2119,
           "title": "D365 Mass de-reservation utility",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/07/ERP_small-1-1024x1024.jpg"
-        },
-        {
-          "id": "https://erconsult.eu/?p=8259",
-          "author": "Eugen Glasow",
-          "description": "We offer a template for a menu item in Dynamics 365 SCM's Process Guide Framework that prints a custom product label from a mobile device. The setup involves extending enumerations, configuring a controller class, and defining steps and fields for detour use.\nThe post Print a custom product label: a Template solution in Process Guide Framework, with detours appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/template-solution-in-process-guide-framework-with-detours/",
-          "publishedOn": "2024-06-07T09:20:43.000Z",
-          "wordCount": 2660,
-          "title": "Print a custom product label: a Template solution in Process Guide Framework, with detours",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/06/PrintProductLabel.png"
         }
       ]
     },
