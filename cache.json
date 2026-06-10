@@ -508,6 +508,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/sharepoint-classic-vs-modern-experience",
+          "author": "Mirko Peters",
+          "description": "Modern SharePoint marks a pivotal shift for your organization. You will notice real improvements in how your teams work together, thanks to a user-friendly design and seamless collaboration features. The table below highlights the measurable impact: Benefit Description Improved User Adoption Higher adoption rates from intuitive navigation and design. Enhanced Collaboration Real-time editing and integrated […]",
+          "link": "https://365community.online/sharepoint-classic-vs-modern-experience",
+          "publishedOn": "2026-06-10T02:04:13.000Z",
+          "wordCount": 7816,
+          "title": "SharePoint: Classic vs. Modern Experience",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781057053_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-cloud-solutions-support-and-kritis-analysis",
+          "author": "Mirko Peters",
+          "description": "You need to know if Microsoft 365 ready for KRITIS environments. Microsoft 365 brings strong productivity and security tools to your organization. You can use its advanced features to support compliance and resilience. Microsoft gives you a powerful cloud platform, but you must plan and configure it carefully to meet KRITIS standards. With the right […]",
+          "link": "https://365community.online/microsoft-365-cloud-solutions-support-and-kritis-analysis",
+          "publishedOn": "2026-06-09T22:18:17.000Z",
+          "wordCount": 7285,
+          "title": "Microsoft 365 & Cloud Solutions: Support and Kritis Analysis",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781043497_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365-quality-evaluation-agent-step-by-step-configuration-guide-youtube",
+          "author": "Dian Taylor",
+          "description": "D365 Quality Evaluation Agent: Step-by-Step Configuration Guide The Quality Evaluation Agent helps organizations automate and scale their quality management process by analyzing customer interactions, applying evaluation criteria, and helping supervisors identify opportunities to improve agent performance. In this video, we’re taking a deep dive into the Dynamics 365 Quality Evaluation Agent and walking through the […]",
+          "link": "https://365community.online/d365-quality-evaluation-agent-step-by-step-configuration-guide-youtube",
+          "publishedOn": "2026-06-09T18:47:45.000Z",
+          "wordCount": 2084,
+          "title": "D365 Quality Evaluation Agent: Step-by-Step Configuration Guide – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781045171_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365-quality-evaluation-agent-step-by-step-configuration-guide",
+          "author": "Dian Taylor",
+          "description": "If you’ve been following along, in a previous article I wrote called “Understanding the Dynamics 365 Quality Evaluation Agent: A Complete Breakdown“, I dove into the different components that make up the Quality Evaluation Agent, explained what each of them means, and I walked through how they all work together. If you haven’t had a […]",
+          "link": "https://365community.online/d365-quality-evaluation-agent-step-by-step-configuration-guide",
+          "publishedOn": "2026-06-09T18:46:00.000Z",
+          "wordCount": 1944,
+          "title": "D365 Quality Evaluation Agent: Step-by-Step Configuration Guide",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/microsoft-sentinel-vs-microsoft-defender-azure-security",
+          "author": "Mirko Peters",
+          "description": "You might wonder if Microsoft Defender Alone gives you all the security you need for Microsoft 365. Defender covers endpoints and stops many threats in real time. Sentinel takes a wider view and helps you see and manage risks across your whole organization. You should know the difference so you can make the best choice […]",
+          "link": "https://365community.online/microsoft-sentinel-vs-microsoft-defender-azure-security",
+          "publishedOn": "2026-06-09T18:36:48.000Z",
+          "wordCount": 7633,
+          "title": "Microsoft Sentinel vs Microsoft Defender: Azure Security",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781030209_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unable-to-delete-work-order-due-to-the-time-to-promised-must-be-later-than-the-time-from-promised-exception-dynamics-365-field-service",
+          "author": "Nishant Rana",
+          "description": "While attempting to delete a historical Dynamics 365 Field Service Work Order, we encountered the following error: Exception Message: The time to promised must be later than the time from promised. ErrorCode: -2147220891 HexErrorCode: 0x80040265 Error Details: {“errorCode”:2147746405,”message”:”The time to promised must be later than the time from promised.”,”code”:2147746405,”raw”:”{”_errorCode”:2147746405,”_errorFault”:{”_responseXml”:null,”_errorCode”:2147746405,”_innerFault”:{”_responseXml”:null,”_errorCode”:0,”_innerFault”:null,”_callStack”:null,”_responseText”:null,”_annotations”:null,”_hasCustomerInfo”:false,”_messages”:[”The time to promised must be later […]",
+          "link": "https://365community.online/unable-to-delete-work-order-due-to-the-time-to-promised-must-be-later-than-the-time-from-promised-exception-dynamics-365-field-service",
+          "publishedOn": "2026-06-09T18:35:00.000Z",
+          "wordCount": 2040,
+          "title": "Unable to Delete Work Order Due to “The Time To Promised Must Be Later Than The Time From Promised” exception – Dynamics 365 Field Service",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Unable-to-Delete-Work-Order-Due-to-The-Time-To.jpeg?fit=1200%2C798&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mastering-alm-for-power-platform-from-citizen-development-to-enterprise-delivery-with-parvez-ghumra-mvp",
+          "author": "Mirko Peters",
+          "description": "What separates successful Power Platform implementations from those that become difficult to manage, impossible to scale, and increasingly risky to maintain?In this in-depth episode of the M365 Podcast, host Mirko Peters welcomes Microsoft MVP Parvez Ghumra for a comprehensive discussion on Application Lifecycle Management (ALM), enterprise delivery, governance, DevOps, CI/CD, and the future of Microsoft […]",
+          "link": "https://365community.online/mastering-alm-for-power-platform-from-citizen-development-to-enterprise-delivery-with-parvez-ghumra-mvp",
+          "publishedOn": "2026-06-09T15:05:09.000Z",
+          "wordCount": 3033,
+          "title": "Mastering ALM for Power Platform: From Citizen Development to Enterprise Delivery with Parvez Ghumra [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/e90cc54455414d8ebd360647fab45609.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-customer-insights-data",
+          "author": "Gustaf Westerlund",
+          "description": "Why should a company choose customer insights data? This is a question I often get, especially when talking to people in the analytics department or with that type of background. “We already have customer analytical cubes in our warehouse/lakehouse, why build it again?”. With this article I will try to shed some light on this […]",
+          "link": "https://365community.online/why-customer-insights-data",
+          "publishedOn": "2026-06-09T14:39:00.000Z",
+          "wordCount": 2982,
+          "title": "Why Customer Insights Data?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/ai-900-vs-ai-901",
+          "author": "Julian Sharp",
+          "description": "The Azure AI Fundamentals AI-900 exam is retiring on 30th June and is being replaced by the AI-901 exam. There is quite a change in emphasis between the exams, so I thought I would explain the differences. Before we start, the certification is not retiring, just the exam required to earn it, so if you […]",
+          "link": "https://365community.online/ai-900-vs-ai-901",
+          "publishedOn": "2026-06-09T12:55:00.000Z",
+          "wordCount": 2432,
+          "title": "AI-900 vs AI-901",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/AI-900-vs-AI-901.jpg?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-copilot-in-microsoft-365-admin-centers",
+          "author": "Mirko Peters",
+          "description": "You expect Microsoft 365 Copilot to boost your productivity, so it feels frustrating when Copilot does not work as planned. Microsoft Copilot acts as a smart AI assistant within your Microsoft apps, helping you automate tasks and find insights quickly. Most Copilot issues happen because of configuration, licensing, or network problems—not the AI itself. You […]",
+          "link": "https://365community.online/microsoft-365-copilot-in-microsoft-365-admin-centers",
+          "publishedOn": "2026-06-09T11:26:10.000Z",
+          "wordCount": 7121,
+          "title": "Microsoft 365 Copilot in Microsoft 365 Admin Centers",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781004370_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-365-copilot-connector-overview",
           "author": "Mirko Peters",
           "description": "You can unlock new possibilities for your organization with Microsoft 365 Copilot Connectors. These connectors link Microsoft Copilot to external data sources, moving information into Microsoft Graph for powerful semantic indexing. This connection gives you a unified view of your data and makes knowledge discovery much easier. IT professionals often use Copilot Connectors for tasks […]",
@@ -44080,16 +44180,6 @@
           "publishedOn": "2024-06-15T01:16:48.000Z",
           "wordCount": 1665,
           "title": "BatchRetryable Individual Task Modeled Batch Job Example",
-          "imageUrl": null
-        },
-        {
-          "id": "1697 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "BatchRetryable RunBaseBatch Class\n\n\n\n\n\n\n06/09/24\n\n\n\n\n\n\n\n\n\n\n\n\n    \nRunBaseBatch      \nRunBaseBatch      \n\nUpdated \"Standard\" Batch Job for BatchRetryable\n\nI wrote an article on how to create a batch class several years ago. I thought I'd update it for modern times with the implementation of BatchRetryable. All source code for this article can be found here.\nAs compared to what we've done in the past to use this framework, not a whole lot has changed but there are a few notable call outs.\ninternal final class AAXStandardBatchJob extends RunBaseBatch implements BatchRetryable\nFirst, let's review the class delcartion. a few different modifiers on the class that are now defaults. Internal and Final are optional but will be added by default. The implements BatchRetryable makes this class retry-a…",
-          "link": "https://www.atomicax.com/blog-entry/batchretryable-runbasebatch-class",
-          "publishedOn": "2024-06-10T02:17:18.000Z",
-          "wordCount": 1283,
-          "title": "BatchRetryable RunBaseBatch Class",
           "imageUrl": null
         }
       ]
