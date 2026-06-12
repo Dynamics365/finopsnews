@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-11T04:15:29.689Z</updated>
+    <updated>2026-06-12T04:17:36.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Custom Data Entities not visible in UDE after deployment]]></title>
+        <id>https://alexvoy.blogspot.com/2026/06/custom-data-entities-not-visible-in-ude.html</id>
+        <link href="https://alexvoy.blogspot.com/2026/06/custom-data-entities-not-visible-in-ude.html"/>
+        <updated>2026-06-11T20:23:11.184Z</updated>
+        <summary type="html"><![CDATA[I experienced the same problem as explained here https://community.dynamics.com/forums/thread/details/?threadid=1b8af6ce-8502-f111-8406-7c1e525b1dbf
+After some check it turned out that my new custom data entities have been added with label references instead of their actual text values (in English). This seems to be the culprit. 
+I cannot see my DEs in the list after refreshing it. And even when I added them manually no fields mappings were generated.
+Once I manually changes their values in ENTITYNAME, they appeared after refreshing and I was able to generate field mappings.
+So, if you have similar issues, connect to your UDE SQL DB, check the names.
+
+
+SELECT DE.* FROM dbo.DMFENTITY AS DE
+
+WHERE de.targetentity like 'YourCustomTableEntity'
+
+
+And fix it by a simple command.
+
+
+update DMFENTITY
+set entityname = 'My custom table entity'
+WHERE targetentity like 'YourCustomTableEntity']]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevating Form Usability with Smarter Data Visibility:FastTab Summary in D365FO:]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4554</id>
+        <link href="https://anithasantosh.wordpress.com/2026/06/11/elevating-form-usability-with-smarter-data-visibilityfasttab-summary-in-d365fo/"/>
+        <updated>2026-06-11T18:24:01.000Z</updated>
+        <summary type="html"><![CDATA[FastTab Summary is one of those subtle but powerful features in D365FO that significantly improves form usability. By surfacing key information directly on collapsed FastTabs, users can quickly scan important data without expanding every section. This small enhancement can dramatically … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Conversation Orchestration in Dynamics 365 Contact Center]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202335</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/10/conversation-orchestration-dynamics-365-contact-center/"/>
+        <updated>2026-06-11T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Conversation Orchestration in Dynamics 365 Contact Center enables real-time decisioning, dynamic prioritization, and intelligent automation across every customer interaction.
+The post Introducing Conversation Orchestration in Dynamics 365 Contact Center  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Kumar Ashutosh (Ashu) and Saurabh Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Chatbots for Enterprise: Use Cases and Best Practices]]></title>
         <id>https://365community.online/ai-chatbots-for-enterprise-use-cases-and-best-practices</id>

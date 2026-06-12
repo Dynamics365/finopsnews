@@ -22,11 +22,144 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-06-10 datetime="2026-06-11T01:16:07.000Z">2026-06-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-06-10 datetime="2026-06-11T01:16:07.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-06-11 datetime="2026-06-11T20:23:11.184Z">2026-06-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-06-11 datetime="2026-06-11T20:23:11.184Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Adventures in Axapta world</button>
+                  <a class="source-heading__link" href="https://alexvoy.blogspot.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://alexvoy.blogspot.com/2026/06/custom-data-entities-not-visible-in-ude.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Custom Data Entities not visible in UDE after deployment</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://alexvoy.blogspot.com/2026/06/custom-data-entities-not-visible-in-ude.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I experienced the same problem as explained here https://community.dynamics.com/forums/thread/details/?threadid&#x3D;1b8af6ce-8502-f111-8406-7c1e525b1dbf
+After some check it turned out that my new custom data entities have been added with label references instead of their actual text values (in English). This seems to be the culprit. 
+I cannot see my DEs in the list after refreshing it. And even when I added them manually no fields mappings were generated.
+Once I manually changes their values in ENTITYNAME, they appeared after refreshing and I was able to generate field mappings.
+So, if you have similar issues, connect to your UDE SQL DB, check the names.
+
+
+SELECT DE.* FROM dbo.DMFENTITY AS DE
+
+WHERE de.targetentity like &#x27;YourCustomTableEntity&#x27;
+
+
+And fix it by a simple command.
+
+
+update DMFENTITY
+set entityname &#x3D; &#x27;My custom table entity&#x27;
+WHERE targetentity like &#x27;YourCustomTableEntity&#x27;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Anitha Eswaran – Dynamics Ax</button>
+                  <a class="source-heading__link" href="https://anithasantosh.wordpress.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://anithasantosh.wordpress.com/?p&#x3D;4554"
+                        open
+                      >
+                        <summary class="article-expander__title">Elevating Form Usability with Smarter Data Visibility:FastTab Summary in D365FO:</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://anithasantosh.wordpress.com/2026/06/11/elevating-form-usability-with-smarter-data-visibilityfasttab-summary-in-d365fo/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i0.wp.com/anithasantosh.wordpress.com/wp-content/uploads/2026/06/image-10.png?fit&#x3D;1200%2C232&amp;ssl&#x3D;1" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>FastTab Summary is one of those subtle but powerful features in D365FO that significantly improves form usability. By surfacing key information directly on collapsed FastTabs, users can quickly scan important data without expanding every section. This small enhancement can dramatically … Continue reading →</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-06-10 datetime="2026-06-11T02:00:00.000Z">2026-06-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-06-10 datetime="2026-06-11T02:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://www.microsoft.com/en-us/dynamics-365/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.microsoft.com/en-us/dynamics-365/blog/?p&#x3D;202335"
+                        open
+                      >
+                        <summary class="article-expander__title">Introducing Conversation Orchestration in Dynamics 365 Contact Center</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/10/conversation-orchestration-dynamics-365-contact-center/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/AdobeStock_321361422-scaled.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Conversation Orchestration in Dynamics 365 Contact Center enables real-time decisioning, dynamic prioritization, and intelligent automation across every customer interaction.
+The post Introducing Conversation Orchestration in Dynamics 365 Contact Center  appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;20
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -134519,8 +134652,8 @@ Errors that prevent your data sync operation from performing smoothly.  Whether 
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/27323368192">
-        <time id="build-timestamp" datetime="2026-06-11T04:15:29.522Z">2026-06-11T04:15:29.522Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/27394136190">
+        <time id="build-timestamp" datetime="2026-06-12T04:17:36.707Z">2026-06-12T04:17:36.707Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
