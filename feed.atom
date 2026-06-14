@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-13T04:05:46.451Z</updated>
+    <updated>2026-06-14T04:23:26.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manage Microsoft 365 with PowerShell]]></title>
+        <id>https://365community.online/manage-microsoft-365-with-powershell</id>
+        <link href="https://365community.online/manage-microsoft-365-with-powershell"/>
+        <updated>2026-06-13T13:33:39.000Z</updated>
+        <summary type="html"><![CDATA[PowerShell gives you powerful tools to manage Microsoft 365. With PowerShell, you automate tasks and gain advanced control over your Microsoft environment. You complete user administration, automate license assignments, and monitor security across your Microsoft 365 tenant with speed and accuracy. PowerShell reduces manual effort, scales with your needs, and helps you handle complex Microsoft […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stairway to Dataverse Heaven – Governance & Business Skills]]></title>
+        <id>https://365community.online/stairway-to-dataverse-heaven-governance-business-skills</id>
+        <link href="https://365community.online/stairway-to-dataverse-heaven-governance-business-skills"/>
+        <updated>2026-06-13T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last blog post, I covered how Copilot Studio really accesses Dataverse through various lenses with the Dataverse Knowledge Source, Dataverse Connector and Dataverse MCP Server. From the way the core model works, to the way inputs and outputs are managed, schema awareness, CRUD support and bound/ unbound actions. Here is what the summary […]]]></summary>
+        <author>
+            <name>Angeliki Patsiavou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Task Management: Planner vs Microsoft Planner]]></title>
+        <id>https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner</id>
+        <link href="https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner"/>
+        <updated>2026-06-13T10:05:39.000Z</updated>
+        <summary type="html"><![CDATA[You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Task Management: Planner vs Microsoft Planner]]></title>
+        <id>https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2</id>
+        <link href="https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2"/>
+        <updated>2026-06-13T10:05:39.000Z</updated>
+        <summary type="html"><![CDATA[You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptographic Agility: The Only Defense Against Quantum]]></title>
+        <id>https://365community.online/cryptographic-agility-the-only-defense-against-quantum</id>
+        <link href="https://365community.online/cryptographic-agility-the-only-defense-against-quantum"/>
+        <updated>2026-06-13T06:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Most discussions about quantum computing focus on a single question:When will quantum computers break encryption?The better question is this:How quickly can your organization replace encryption when it happens?Because the organizations that survive the quantum transition won’t necessarily be the ones that adopt the newest algorithms first. They’ll be the organizations that can change algorithms without […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Security Best Practice Guide]]></title>
         <id>https://365community.online/microsoft-365-security-best-practice-guide</id>

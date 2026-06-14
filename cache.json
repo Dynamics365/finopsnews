@@ -518,12 +518,62 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/manage-microsoft-365-with-powershell",
+          "author": "Mirko Peters",
+          "description": "PowerShell gives you powerful tools to manage Microsoft 365. With PowerShell, you automate tasks and gain advanced control over your Microsoft environment. You complete user administration, automate license assignments, and monitor security across your Microsoft 365 tenant with speed and accuracy. PowerShell reduces manual effort, scales with your needs, and helps you handle complex Microsoft […]",
+          "link": "https://365community.online/manage-microsoft-365-with-powershell",
+          "publishedOn": "2026-06-13T13:33:39.000Z",
+          "wordCount": 8533,
+          "title": "Manage Microsoft 365 with PowerShell",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781357620_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stairway-to-dataverse-heaven-governance-business-skills",
+          "author": "Angeliki Patsiavou",
+          "description": "In the last blog post, I covered how Copilot Studio really accesses Dataverse through various lenses with the Dataverse Knowledge Source, Dataverse Connector and Dataverse MCP Server. From the way the core model works, to the way inputs and outputs are managed, schema awareness, CRUD support and bound/ unbound actions. Here is what the summary […]",
+          "link": "https://365community.online/stairway-to-dataverse-heaven-governance-business-skills",
+          "publishedOn": "2026-06-13T13:27:00.000Z",
+          "wordCount": 3078,
+          "title": "Stairway to Dataverse Heaven – Governance & Business Skills",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/d7196d_d22e51a11e9e47f4ad1c2494f2779947mv2.gif?fit=500%2C296&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner",
+          "author": "Mirko Peters",
+          "description": "You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]",
+          "link": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner",
+          "publishedOn": "2026-06-13T10:05:39.000Z",
+          "wordCount": 10798,
+          "title": "Microsoft 365 Task Management: Planner vs Microsoft Planner",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781345140_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2",
+          "author": "Mirko Peters",
+          "description": "You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]",
+          "link": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2",
+          "publishedOn": "2026-06-13T10:05:39.000Z",
+          "wordCount": 10800,
+          "title": "Microsoft 365 Task Management: Planner vs Microsoft Planner",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781345140_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/cryptographic-agility-the-only-defense-against-quantum",
+          "author": "Mirko Peters",
+          "description": "Most discussions about quantum computing focus on a single question:When will quantum computers break encryption?The better question is this:How quickly can your organization replace encryption when it happens?Because the organizations that survive the quantum transition won’t necessarily be the ones that adopt the newest algorithms first. They’ll be the organizations that can change algorithms without […]",
+          "link": "https://365community.online/cryptographic-agility-the-only-defense-against-quantum",
+          "publishedOn": "2026-06-13T06:37:55.000Z",
+          "wordCount": 2892,
+          "title": "Cryptographic Agility: The Only Defense Against Quantum",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/b4359cd0b20d6ca5504ae52992997a0a.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-365-security-best-practice-guide",
           "author": "Mirko Peters",
           "description": "You can secure Microsoft 365 without making daily work harder for your team. Strong security does not have to slow down productivity. Microsoft 365 Security gives you tools to protect your organization’s data, identities, and devices. Use both technical controls and user awareness to reduce risks. Focus on building good habits and using smart features. […]",
           "link": "https://365community.online/microsoft-365-security-best-practice-guide",
           "publishedOn": "2026-06-13T02:54:58.000Z",
-          "wordCount": 8431,
+          "wordCount": 8403,
           "title": "Microsoft 365 Security Best Practice Guide",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781319298_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
