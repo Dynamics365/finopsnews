@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-14T04:23:26.194Z</updated>
+    <updated>2026-06-15T04:46:47.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Rise of Private LoRA: Architecting Secure AI on Proprietary Data]]></title>
+        <id>https://365community.online/the-rise-of-private-lora-architecting-secure-ai-on-proprietary-data</id>
+        <link href="https://365community.online/the-rise-of-private-lora-architecting-secure-ai-on-proprietary-data"/>
+        <updated>2026-06-15T04:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is talking about AI adoption. Far fewer are talking about AI sovereignty. Organizations have rushed to deploy Microsoft Copilot, Azure OpenAI, ChatGPT Enterprise, Claude, Gemini, and dozens of AI-powered productivity tools. The results have been impressive. Productivity has increased. Development cycles have accelerated. Knowledge discovery has improved. But beneath the excitement lies a growing […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot Training]]></title>
+        <id>https://365community.online/microsoft-365-copilot-training</id>
+        <link href="https://365community.online/microsoft-365-copilot-training"/>
+        <updated>2026-06-15T00:38:31.000Z</updated>
+        <summary type="html"><![CDATA[You no longer need to rely on static manuals or scheduled workshops to master Microsoft 365. Microsoft Copilot uses AI to deliver real-time, in-the-flow learning that adapts as you work. When you use Copilot, you receive embedded, contextual guidance that helps you complete tasks faster and boosts productivity. “I just completed a task in Word […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jira and Microsoft Teams Integration: Atlassian Support for Your Team]]></title>
+        <id>https://365community.online/jira-and-microsoft-teams-integration-atlassian-support-for-your-team</id>
+        <link href="https://365community.online/jira-and-microsoft-teams-integration-atlassian-support-for-your-team"/>
+        <updated>2026-06-14T20:52:24.000Z</updated>
+        <summary type="html"><![CDATA[You can now transform IT support by integrating Jira Service Management with Microsoft Teams. This integration lets you submit tickets directly in Teams, which speeds up issue resolution and keeps you focused on your work. You stay in the flow of conversation while your IT team manages requests without switching tools. See how this boosts […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Adoption Fails: Why & How to Fix It]]></title>
+        <id>https://365community.online/microsoft-copilot-adoption-fails-why-how-to-fix-it</id>
+        <link href="https://365community.online/microsoft-copilot-adoption-fails-why-how-to-fix-it"/>
+        <updated>2026-06-14T17:19:08.000Z</updated>
+        <summary type="html"><![CDATA[You may wonder why Microsoft Copilot Fails to meet expectations for many users. High costs, confusing licensing, and complex onboarding often prevent you from seeing immediate value. Many employees do not realize they have access to Microsoft Copilot or lack the skills to use it well. Concerns about data quality, privacy, and output accuracy also […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Guest Access Governance and User Management]]></title>
+        <id>https://365community.online/microsoft-365-guest-access-governance-and-user-management</id>
+        <link href="https://365community.online/microsoft-365-guest-access-governance-and-user-management"/>
+        <updated>2026-06-14T13:38:28.000Z</updated>
+        <summary type="html"><![CDATA[You need strong guest account governance in Microsoft 365 to keep your data safe. Unchecked guest accounts can lead to a silent guest pile-up, exposing your 365 environment to risk. Many organizations overlook guest user management, which can create compliance issues and make it hard to track who has access. With proper guest management and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale AI with Microsoft 365 Copilot and Agents]]></title>
+        <id>https://365community.online/scale-ai-with-microsoft-365-copilot-and-agents</id>
+        <link href="https://365community.online/scale-ai-with-microsoft-365-copilot-and-agents"/>
+        <updated>2026-06-14T09:50:32.000Z</updated>
+        <summary type="html"><![CDATA[You see the need to scale ai in your microsoft 365 environment grow every day. Recent studies show that microsoft 365 copilot boosts productivity—employees save time and work faster on documents. EY’s adoption of copilot has sparked transformation in both employee performance and client service. Microsoft Copilot Agents give you control and oversight, helping your […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of the Dropdown: Why Manual Tagging is Killing Your Governance]]></title>
+        <id>https://365community.online/the-death-of-the-dropdown-why-manual-tagging-is-killing-your-governance</id>
+        <link href="https://365community.online/the-death-of-the-dropdown-why-manual-tagging-is-killing-your-governance"/>
+        <updated>2026-06-14T06:04:35.000Z</updated>
+        <summary type="html"><![CDATA[or years, organizations believed metadata governance was a training problem.If users understood the taxonomy better, governance would improve.If the dropdown lists were clearer, metadata quality would improve.If more communication and documentation were provided, compliance would improve.But what if the problem was never the user?What if the real problem is that governance logic was placed in […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manage Microsoft 365 with PowerShell]]></title>
         <id>https://365community.online/manage-microsoft-365-with-powershell</id>
@@ -42,26 +112,6 @@
         <link href="https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2"/>
         <updated>2026-06-13T10:05:39.000Z</updated>
         <summary type="html"><![CDATA[You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptographic Agility: The Only Defense Against Quantum]]></title>
-        <id>https://365community.online/cryptographic-agility-the-only-defense-against-quantum</id>
-        <link href="https://365community.online/cryptographic-agility-the-only-defense-against-quantum"/>
-        <updated>2026-06-13T06:37:55.000Z</updated>
-        <summary type="html"><![CDATA[Most discussions about quantum computing focus on a single question:When will quantum computers break encryption?The better question is this:How quickly can your organization replace encryption when it happens?Because the organizations that survive the quantum transition won’t necessarily be the ones that adopt the newest algorithms first. They’ll be the organizations that can change algorithms without […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Security Best Practice Guide]]></title>
-        <id>https://365community.online/microsoft-365-security-best-practice-guide</id>
-        <link href="https://365community.online/microsoft-365-security-best-practice-guide"/>
-        <updated>2026-06-13T02:54:58.000Z</updated>
-        <summary type="html"><![CDATA[You can secure Microsoft 365 without making daily work harder for your team. Strong security does not have to slow down productivity. Microsoft 365 Security gives you tools to protect your organization’s data, identities, and devices. Use both technical controls and user awareness to reduce risks. Focus on building good habits and using smart features. […]]]></summary>
         <author>
             <name>Mirko Peters</name>
         </author>
@@ -55395,41 +55445,6 @@ The post Dynamics 365 Field Service announces the new Crew Allocation Tool, whic
 The post How To Write A Blog Article appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BatchRetryable Individual Task Modeled Batch Job Example]]></title>
-        <id>1698 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/blog-entry/batchretryable-individual-task-modeled-batch-job-example"/>
-        <updated>2024-06-15T01:16:48.000Z</updated>
-        <summary type="html"><![CDATA[BatchRetryable Individual Task Modeled Batch Job Example
-
-
-
-
-
-
-06/14/24
-
-
-
-
-
-
-
-
-
-
-
-
-    
-Batch      
-Individual Task Modeling      
-
-BatchRetryable With lots of Individual tasks from 1 batch job
-I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Individual task modeling with a review. Individual task modeling is an approach in task management and scheduling where each work item or unit of work is represented as a separate, individual task. This means that instead of grouping multiple work items into a single task, each work item gets its own distinct task. What this means when modeling tasks, we will create a task for each work item, resulting in a …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
