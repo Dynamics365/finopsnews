@@ -43499,6 +43499,26 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=4627",
+          "author": "AnithaEswaran",
+          "description": "After the database restore, we might face the following error ‘The formal parameter was not declared as an OUTPUT parameter, but the actual parameter passed in the requested output’ Given below one error where it says something about ‘getNumInternalWithNoBlocking’ Few … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2026/06/17/the-formal-parameter-was-not-declared-as-an-output-parameter-d365fo-error-after-db-restore/",
+          "publishedOn": "2026-06-17T20:07:09.000Z",
+          "wordCount": 3456,
+          "title": "The formal parameter was not declared as an output parameter – D365FO Error after DB restore",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2026/06/image-35.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=4584",
+          "author": "AnithaEswaran",
+          "description": "In my earlier post ,I had given a walkthrough of configuring Telemetry in D365FO and tracing the logs in Application Insights. With the latest update from Microsoft on DMF Telemtry , I digged deeper to understand how to gain deeper … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2026/06/17/d365fo-troubleshooters-radar-how-application-insights-exposes-hidden-failures/",
+          "publishedOn": "2026-06-17T17:39:43.000Z",
+          "wordCount": 3661,
+          "title": "Silent Imports, Loud Insights — How DIXF Telemetry + App Insights Transform D365FO Diagnostics",
+          "imageUrl": "https://i0.wp.com/anithasantosh.wordpress.com/wp-content/uploads/2026/06/dixf-telemetry.png?fit=1200%2C606&ssl=1"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=4554",
           "author": "AnithaEswaran",
           "description": "FastTab Summary is one of those subtle but powerful features in D365FO that significantly improves form usability. By surfacing key information directly on collapsed FastTabs, users can quickly scan important data without expanding every section. This small enhancement can dramatically … Continue reading →",
@@ -47317,36 +47337,6 @@
           "wordCount": 4264,
           "title": "AI summarization in Dynamics 365 synthesizes and simplifies complex data",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/06/CLO22_Factory_002-1024x683.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/18/announcing-unlimited-application-installs-in-dynamics-365-customer-insights/",
-          "author": "Autumn Arbury",
-          "description": "We’re excited to announce unlimited application installs when starting with Dynamics 365 Customer Insights, an improvement to our license definition and installation management experience. As of June 30, 2024 we’ve removed application installation limits for Customer Insights–Journeys (real-time journeys only) and Customer Insights–Data. Previous application installations had restrictions of four per base license of the\nThe post Announcing unlimited application installs in Dynamics 365 Customer Insights appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/18/announcing-unlimited-application-installs-in-dynamics-365-customer-insights/",
-          "publishedOn": "2024-06-18T15:59:00.000Z",
-          "wordCount": 2991,
-          "title": "Announcing unlimited application installs in Dynamics 365 Customer Insights",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/10/CLO22_HybridWork_056_1200.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/18/ernst-young-reinvents-sales-globally-with-microsoft-dynamics-365/",
-          "author": "Bryan Goode",
-          "description": "For Ernst & Young Limited (EY), one of the “Big Four” of the largest accounting firms worldwide, their sales transformation journey started with Microsoft Dynamics 365 Sales. \nThe post Ernst & Young reinvents sales globally with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/18/ernst-young-reinvents-sales-globally-with-microsoft-dynamics-365/",
-          "publishedOn": "2024-06-18T15:00:00.000Z",
-          "wordCount": 3841,
-          "title": "Ernst & Young reinvents sales globally with Microsoft Dynamics 365",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/MSFT_D365_FEB22_320382_Blog_Blogheader_240223_V02_1200.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/17/dynamics-365-field-service-announces-new-crew-allocation-tool-enabling-morning-shuffle/",
-          "author": "Michael Kelleher",
-          "description": "Being able to efficiently and effectively manage your resources is key to Dynamics 365 Field Service. Today, we introduce a new Crew Allocation Tool to streamline the process of making single-day membership changes to all your crews. We’ve heard from users that it can be tedious to manually go into crew records, take a resource\nThe post Dynamics 365 Field Service announces the new Crew Allocation Tool, which enables the “Morning Shuffle”  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/17/dynamics-365-field-service-announces-new-crew-allocation-tool-enabling-morning-shuffle/",
-          "publishedOn": "2024-06-17T21:51:39.000Z",
-          "wordCount": 5249,
-          "title": "Dynamics 365 Field Service announces the new Crew Allocation Tool, which enables the “Morning Shuffle”",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/04/CLO22_TechOffice_026-1024x683.jpg"
         }
       ]
     },
@@ -49654,6 +49644,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://www.paragchapre.com",
       "articles": [
+        {
+          "id": "https://www.paragchapre.com/?p=16955",
+          "author": "Parag Chapre",
+          "description": "Introduction While working with Unified Developer Experience (UDE) environments in Microsoft Dynamics 365 Finance & Operations, developers may occasionally encounter database synchronization issues during package deployment. Recently, after deploying a new UDE environment with Version 47, I experienced a package failure when attempting to deploy custom models. The package deployment process failed with a database…",
+          "link": "https://www.paragchapre.com/dssidecaroperationexception-dbsync-error-ude/",
+          "publishedOn": "2026-06-17T15:15:32.000Z",
+          "wordCount": 3939,
+          "title": "Resolving Microsoft.Dynamics.CAP.Iris.Connectors.Exceptions.DSSidecarOperationException UDE",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/06/Microsoft.Dynamics.CAP_.Iris_.Connectors.Exceptions.DSSidecarOperationException.webp"
+        },
         {
           "id": "https://www.paragchapre.com/?p=16945",
           "author": "Parag Chapre",
