@@ -518,6 +518,101 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/citizen-developers-power-platform-why-empowering-your-team-drives-business-results",
+          "author": "Mirko Peters",
+          "description": "Most organizations are sitting on untapped innovation potential — and it lives in the people who know their business processes best. Citizen developers, empowered with the Microsoft Power Platform, are turning business knowledge into working apps, automated workflows, and real-time data insights without writing a single line of code. This episode explores why empowering citizen […]",
+          "link": "https://365community.online/citizen-developers-power-platform-why-empowering-your-team-drives-business-results",
+          "publishedOn": "2026-06-20T01:29:58.000Z",
+          "wordCount": 2371,
+          "title": "Citizen Developers & Power Platform: Why Empowering Your Team Drives Business Results",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/c39a732c6c509102a692275b24f88edf.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-bi-copilot-why-you-need-a-broader-strategy-for-real-results",
+          "author": "Mirko Peters",
+          "description": "Power BI Copilot is a powerful AI tool — but most teams only scratch the surface of what it can do. The real bottleneck isn’t the technology. It’s the lack of a comprehensive data strategy built around it. Without strong governance, seamless integration, and skilled users, even the best AI copilot will underdeliver. This episode […]",
+          "link": "https://365community.online/power-bi-copilot-why-you-need-a-broader-strategy-for-real-results",
+          "publishedOn": "2026-06-19T21:51:08.000Z",
+          "wordCount": 2401,
+          "title": "Power BI Copilot: Why You Need a Broader Strategy for Real Results",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/0d926df24d48ffc60a2896f252d479d8.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-onenote-system-stop-drowning-in-notes-and-build-a-productive-knowledge-base",
+          "author": "Mirko Peters",
+          "description": "Most people use roughly 10 percent of what Microsoft OneNote can actually do — and then wonder why they are still drowning in a digital mess of random notes, buried meeting summaries, and ideas they can never find when they need them. OneNote is not just a digital notepad. When set up correctly, it becomes […]",
+          "link": "https://365community.online/microsoft-onenote-system-stop-drowning-in-notes-and-build-a-productive-knowledge-base",
+          "publishedOn": "2026-06-19T18:11:37.000Z",
+          "wordCount": 2311,
+          "title": "Microsoft OneNote System: Stop Drowning in Notes and Build a Productive Knowledge Base",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/ffa9b74296dd78844302ae3a719b101a.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/securing-identities-at-scale-conditional-access-azure-security-infrastructure-as-code-with-jonathan-hope-mvp",
+          "author": "Mirko Peters",
+          "description": "Identity has become the new security perimeter. As organizations continue moving workloads to Microsoft 365, Azure, and cloud-native platforms, traditional security models are no longer enough. In this episode of the M365 FM Podcast, Mirko Peters is joined by Microsoft MVP Jonathan Hope to explore how modern organizations can secure identities at scale using Conditional […]",
+          "link": "https://365community.online/securing-identities-at-scale-conditional-access-azure-security-infrastructure-as-code-with-jonathan-hope-mvp",
+          "publishedOn": "2026-06-19T14:33:46.000Z",
+          "wordCount": 2584,
+          "title": "Securing Identities at Scale: Conditional Access, Azure Security & Infrastructure as Code with Jonathan Hope [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/3e6179705b6758d5aee38b9f8816ebc1.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wordpress-com-changelog-sharper-image-editing-and-a-new-way-to-multitask",
+          "author": "Belinda Allen",
+          "description": "June 5 – 18, 2026 Welcome back to the WordPress.com changelog! These two weeks smoothed out everyday work — sharper image editing and easier-to-scan notifications. And if you connect an AI agent like Claude or ChatGPT to your site, it can now do a lot more, including editing your site’s design and managing plugins. Editing […]",
+          "link": "https://365community.online/wordpress-com-changelog-sharper-image-editing-and-a-new-way-to-multitask",
+          "publishedOn": "2026-06-19T14:00:00.000Z",
+          "wordCount": 2359,
+          "title": "WordPress.com Changelog: Sharper Image Editing and a New Way to Multitask",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/WordPresscom-Changelog-Sharper-Image-Editing-and-a-New-Way-to.jpg?fit=1200%2C756&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-teams-adaptive-cards-unlock-real-interactivity-workflows-automation",
+          "author": "Mirko Peters",
+          "description": "Most Teams Adaptive Cards are just pretty dashboards — and that’s a wasted opportunity. When you unlock the full potential of Adaptive Cards, they become interactive workflows that capture real-time feedback, launch automations, trigger bots, and eliminate context-switching — all without users ever leaving Microsoft Teams. This episode breaks down exactly how to go from […]",
+          "link": "https://365community.online/microsoft-teams-adaptive-cards-unlock-real-interactivity-workflows-automation",
+          "publishedOn": "2026-06-19T10:46:45.000Z",
+          "wordCount": 2339,
+          "title": "Microsoft Teams Adaptive Cards: Unlock Real Interactivity, Workflows & Automation",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/d59f1584693b6b2f9ca26cfe90c50ece.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/your-copilot-your-rules-customizing-chat-for-model-driven-apps",
+          "author": "Allan De Castro",
+          "description": "Something fundamental is changing in how Power Apps and Microsoft 365 Copilot work together. Until now, Copilot in Model-Driven Apps lived in its own world—a helpful chatbot embedded in your app, but isolated from the rest of M365. Meanwhile, M365 Copilot was transforming how people work in Word, Excel, Teams, and Outlook, but it knew […]",
+          "link": "https://365community.online/your-copilot-your-rules-customizing-chat-for-model-driven-apps",
+          "publishedOn": "2026-06-19T09:21:00.000Z",
+          "wordCount": 5093,
+          "title": "Your Copilot, Your Rules: Customizing Chat For Model-Driven Apps",
+          "enclosure": {
+            "url": "https://www.blog.allandecastro.com/wp-content/uploads/2026/05/CustomToolWidget.mp4",
+            "length": "1338233",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Your-Copilot-Your-Rules-Customizing-Chat-For-Model-Driven-Apps.png?fit=2400%2C1260&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stop-leaking-data-how-to-run-local-llama-on-your-sharepoint-files",
+          "author": "Mirko Peters",
+          "description": "AI is transforming the way organizations work with knowledge, documents, and collaboration platforms. But as more businesses adopt AI-powered assistants and large language models, one critical question continues to surface: how can you unlock the power of AI without exposing sensitive corporate information to external services?In this episode, we explore how organizations can run Local […]",
+          "link": "https://365community.online/stop-leaking-data-how-to-run-local-llama-on-your-sharepoint-files",
+          "publishedOn": "2026-06-19T07:04:11.000Z",
+          "wordCount": 2488,
+          "title": "Stop Leaking Data: How to Run Local Llama on Your SharePoint Files",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/bea52e9f5ee4f5be2947b017cf4a9ae1.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-businesses-can-refine-their-operations-with-smarter-maps-using-maplytics",
+          "author": null,
+          "description": "Field service and field sales run on two major things: good data and its location. Microsoft Dynamics 365 handles the data side well, tracking accounts, cases, leads, and customer relationships without much friction. What it does not tell you is where any of it actually sits geographically. That is the difference between a well-run day […]",
+          "link": "https://365community.online/how-businesses-can-refine-their-operations-with-smarter-maps-using-maplytics",
+          "publishedOn": "2026-06-19T05:29:00.000Z",
+          "wordCount": 3129,
+          "title": "How Businesses Can Refine Their Operations with Smarter Maps Using Maplytics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/How-Businesses-Can-Refine-Their-Operations-with-Smarter-Maps-Using-Maplytics.png?fit=1400%2C800&ssl=1"
+        },
+        {
           "id": "https://365community.online/teams-recording-how-compliance-recording-apis-bots-and-legal-hold-turn-your-calls-into-defensible-evidence-instead-of-risky-mp4-files",
           "author": "Mirko Peters",
           "description": "Stop Trusting Basic Teams Recording If you’re relying on basic Microsoft Teams recordings and default retention, you have a dangerous gap between what you think is compliant and what regulators or legal teams will actually accept. The “Record” button feels safe—files show up in OneDrive or SharePoint, transcripts exist, everyone relaxes—but the moment you face […]",
@@ -42276,76 +42371,6 @@
           "wordCount": 3129,
           "title": "Torne-se um Citizen Developer – Aula 4 – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718946588_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/expense-reports-dates-tbd",
-          "author": "Sarang Kusare",
-          "description": "Expense Creation Date = Document Date in the GL Transaction Date (when the expenses occurred) = Project Date in the sub-ledger GL Posting Date will be equal to Transaction […]",
-          "link": "https://365community.online/expense-reports-dates-tbd",
-          "publishedOn": "2024-06-20T15:33:00.000Z",
-          "wordCount": 3214,
-          "title": "Expense Reports Dates (TBD)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/dynamics-365-business-central-linked-power-platform-environment",
-          "author": "Stefano Demiliani",
-          "description": "In the last days, a new Linked Power Platform Environment option is appeared in the Administration Center of your Dynamics 365 Business Central tenant: This new option introduces the ability […]",
-          "link": "https://365community.online/dynamics-365-business-central-linked-power-platform-environment",
-          "publishedOn": "2024-06-20T10:31:45.000Z",
-          "wordCount": 3191,
-          "title": "Dynamics 365 Business Central: linked Power Platform environment",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718891121_Dynamics-365-Business-Central-linked-Power-Platform-environment.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-assign-number-series-in-purchasing",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Purchasing), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-assign-number-series-in-purchasing",
-          "publishedOn": "2024-06-20T10:00:56.000Z",
-          "wordCount": 3280,
-          "title": "In Microsoft Dynamics 365 Business Central (Purchasing), how do I… Assign Number Series in Purchasing",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718889766_In-Microsoft-Dynamics-365-Business-Central-Purchasing-how-do-I….png?fit=1172%2C534&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-in-spring-2024-map-routing-and-visualization-for-power-pages-portals",
-          "author": "Inogic",
-          "description": "“Morning Jo, what is the Tea this morning?”, Josh asked as he rushed into the office. “Well, Maplytics is now available in Power Pages Portals”, Jo exclaimed. “It lets you […]",
-          "link": "https://365community.online/new-in-spring-2024-map-routing-and-visualization-for-power-pages-portals",
-          "publishedOn": "2024-06-20T06:19:53.000Z",
-          "wordCount": 3528,
-          "title": "New in Spring 2024: Map Routing and Visualization for Power Pages Portals",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Maplytics-June-2024-Release.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/applying-modern-themes-to-the-modern-refreshed-look-app-header-model-driven-app-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "As we are aware the classic themes do not apply to the new modern refreshed look, however using the new modern themes at least for now we can modify the […]",
-          "link": "https://365community.online/applying-modern-themes-to-the-modern-refreshed-look-app-header-model-driven-app-dynamics-365",
-          "publishedOn": "2024-06-20T05:00:00.000Z",
-          "wordCount": 3305,
-          "title": "Applying Modern themes to the Modern Refreshed look (app header)– Model-driven App / Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Applying-Modern-themes-to-the-Modern-Refreshed-look-app-header–.jpg?fit=959%2C768&ssl=1"
-        },
-        {
-          "id": "https://365community.online/welsh-azure-user-group-june-2024-meet-up",
-          "author": "John Lunn",
-          "description": "It was the day of our Welsh Azure User Group #WAUG June 2024 meet up and we had yet another two amazing speakers join us. We were joined by Harshavardhan […]",
-          "link": "https://365community.online/welsh-azure-user-group-june-2024-meet-up",
-          "publishedOn": "2024-06-19T19:44:14.000Z",
-          "wordCount": 3249,
-          "title": "Welsh Azure User Group June 2024 Meet Up!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Welsh-Azure-User-Group-June-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/welsh-azure-user-group-june-2024-event-youtube",
-          "author": "John Lunn",
-          "description": "Welsh Azure User Group – June 2024 Event It was the day of our Welsh Azure User Group #WAUG June 2024 meet up and we had yet another two amazing […]",
-          "link": "https://365community.online/welsh-azure-user-group-june-2024-event-youtube",
-          "publishedOn": "2024-06-19T19:41:53.000Z",
-          "wordCount": 3439,
-          "title": "Welsh Azure User Group  – June 2024 Event – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718900187_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -45058,6 +45083,36 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202520",
+          "author": "Heer Patel and Jonathan Baker",
+          "description": "Field Service Mobile just got smarter.\nThe post What’s New in Dynamics 365 Field Service Mobile appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/19/field-service-mobile-updates-dynamics-365/",
+          "publishedOn": "2026-06-19T19:00:00.000Z",
+          "wordCount": 5635,
+          "title": "What’s New in Dynamics 365 Field Service Mobile",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/image-9.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/18/reinventing-source-to-pay-with-agentic-erp/",
+          "author": "Raghav Jandhyala",
+          "description": "Explore how AI agents transform source-to-pay by supporting faster insights, smarter actions, and more resilient procurement operations.\nThe post Reinventing source-to-pay with agentic ERP appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/18/reinventing-source-to-pay-with-agentic-erp/",
+          "publishedOn": "2026-06-18T15:00:00.000Z",
+          "wordCount": 6877,
+          "title": "Reinventing source-to-pay with agentic ERP",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/warehouse-inventory-management-digital-supply-chain-1-1024x576.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/16/copilot-cowork-dynamics-365/",
+          "author": "Deva Rajamohan",
+          "description": "Copilot Cowork is where people delegate multi-step, multi-source work and review it, drawing across records, knowledge, email, and meetings, and increasingly across Sales and Customer Service together. It meets users where they already work in Microsoft 365, and it keeps a person in the loop the whole way: grounded in your records, governed by your permissions, and gated by human approval before anything is written back.\nThe post Turning Copilot into a system of action with Dynamics 365 Sales and Service plug-ins in Copilot Cowork appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/16/copilot-cowork-dynamics-365/",
+          "publishedOn": "2026-06-16T22:18:49.000Z",
+          "wordCount": 6173,
+          "title": "Turning Copilot into a system of action with Dynamics 365 Sales and Service plug-ins in Copilot Cowork",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/D365-GA-plugins-1.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202335",
           "author": "Kumar Ashutosh (Ashu) and Saurabh Jain",
@@ -50043,16 +50098,6 @@
           "wordCount": 3396,
           "title": "Machine Learning Basics Everyone Should Know",
           "imageUrl": null
-        },
-        {
-          "id": "https://paragchapre.com/?p=13230",
-          "author": "paragchapre@gmail.com",
-          "description": "Learn how to create and post free text invoices in Dynamics 365 Finance and Operations using Power Platform and Fin & Ops connector, with automated batch jobs.\nThe post Creating Free Text Invoice in Dynamics 365 Finance and Operations Using Power Platform appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/creating-free-text-invoices-dynamics-365-power-platform/",
-          "publishedOn": "2024-06-20T01:49:43.000Z",
-          "wordCount": 2323,
-          "title": "Creating Free Text Invoice in Dynamics 365 Finance and Operations Using Power Platform",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/06/Free-text-invoice.png"
         }
       ]
     },

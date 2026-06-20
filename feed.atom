@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-19T04:45:16.596Z</updated>
+    <updated>2026-06-20T03:59:40.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Citizen Developers & Power Platform: Why Empowering Your Team Drives Business Results]]></title>
+        <id>https://365community.online/citizen-developers-power-platform-why-empowering-your-team-drives-business-results</id>
+        <link href="https://365community.online/citizen-developers-power-platform-why-empowering-your-team-drives-business-results"/>
+        <updated>2026-06-20T01:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations are sitting on untapped innovation potential — and it lives in the people who know their business processes best. Citizen developers, empowered with the Microsoft Power Platform, are turning business knowledge into working apps, automated workflows, and real-time data insights without writing a single line of code. This episode explores why empowering citizen […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Copilot: Why You Need a Broader Strategy for Real Results]]></title>
+        <id>https://365community.online/power-bi-copilot-why-you-need-a-broader-strategy-for-real-results</id>
+        <link href="https://365community.online/power-bi-copilot-why-you-need-a-broader-strategy-for-real-results"/>
+        <updated>2026-06-19T21:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Power BI Copilot is a powerful AI tool — but most teams only scratch the surface of what it can do. The real bottleneck isn’t the technology. It’s the lack of a comprehensive data strategy built around it. Without strong governance, seamless integration, and skilled users, even the best AI copilot will underdeliver. This episode […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Dynamics 365 Field Service Mobile]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202520</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/19/field-service-mobile-updates-dynamics-365/"/>
+        <updated>2026-06-19T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Field Service Mobile just got smarter.
+The post What’s New in Dynamics 365 Field Service Mobile appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Heer Patel and Jonathan Baker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft OneNote System: Stop Drowning in Notes and Build a Productive Knowledge Base]]></title>
+        <id>https://365community.online/microsoft-onenote-system-stop-drowning-in-notes-and-build-a-productive-knowledge-base</id>
+        <link href="https://365community.online/microsoft-onenote-system-stop-drowning-in-notes-and-build-a-productive-knowledge-base"/>
+        <updated>2026-06-19T18:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Most people use roughly 10 percent of what Microsoft OneNote can actually do — and then wonder why they are still drowning in a digital mess of random notes, buried meeting summaries, and ideas they can never find when they need them. OneNote is not just a digital notepad. When set up correctly, it becomes […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Identities at Scale: Conditional Access, Azure Security & Infrastructure as Code with Jonathan Hope [MVP]]]></title>
+        <id>https://365community.online/securing-identities-at-scale-conditional-access-azure-security-infrastructure-as-code-with-jonathan-hope-mvp</id>
+        <link href="https://365community.online/securing-identities-at-scale-conditional-access-azure-security-infrastructure-as-code-with-jonathan-hope-mvp"/>
+        <updated>2026-06-19T14:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Identity has become the new security perimeter. As organizations continue moving workloads to Microsoft 365, Azure, and cloud-native platforms, traditional security models are no longer enough. In this episode of the M365 FM Podcast, Mirko Peters is joined by Microsoft MVP Jonathan Hope to explore how modern organizations can secure identities at scale using Conditional […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Changelog: Sharper Image Editing and a New Way to Multitask]]></title>
+        <id>https://365community.online/wordpress-com-changelog-sharper-image-editing-and-a-new-way-to-multitask</id>
+        <link href="https://365community.online/wordpress-com-changelog-sharper-image-editing-and-a-new-way-to-multitask"/>
+        <updated>2026-06-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[June 5 – 18, 2026 Welcome back to the WordPress.com changelog! These two weeks smoothed out everyday work — sharper image editing and easier-to-scan notifications. And if you connect an AI agent like Claude or ChatGPT to your site, it can now do a lot more, including editing your site’s design and managing plugins. Editing […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams Adaptive Cards: Unlock Real Interactivity, Workflows & Automation]]></title>
+        <id>https://365community.online/microsoft-teams-adaptive-cards-unlock-real-interactivity-workflows-automation</id>
+        <link href="https://365community.online/microsoft-teams-adaptive-cards-unlock-real-interactivity-workflows-automation"/>
+        <updated>2026-06-19T10:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Most Teams Adaptive Cards are just pretty dashboards — and that’s a wasted opportunity. When you unlock the full potential of Adaptive Cards, they become interactive workflows that capture real-time feedback, launch automations, trigger bots, and eliminate context-switching — all without users ever leaving Microsoft Teams. This episode breaks down exactly how to go from […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Copilot, Your Rules: Customizing Chat For Model-Driven Apps]]></title>
+        <id>https://365community.online/your-copilot-your-rules-customizing-chat-for-model-driven-apps</id>
+        <link href="https://365community.online/your-copilot-your-rules-customizing-chat-for-model-driven-apps"/>
+        <updated>2026-06-19T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Something fundamental is changing in how Power Apps and Microsoft 365 Copilot work together. Until now, Copilot in Model-Driven Apps lived in its own world—a helpful chatbot embedded in your app, but isolated from the rest of M365. Meanwhile, M365 Copilot was transforming how people work in Word, Excel, Teams, and Outlook, but it knew […]]]></summary>
+        <author>
+            <name>Allan De Castro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Leaking Data: How to Run Local Llama on Your SharePoint Files]]></title>
+        <id>https://365community.online/stop-leaking-data-how-to-run-local-llama-on-your-sharepoint-files</id>
+        <link href="https://365community.online/stop-leaking-data-how-to-run-local-llama-on-your-sharepoint-files"/>
+        <updated>2026-06-19T07:04:11.000Z</updated>
+        <summary type="html"><![CDATA[AI is transforming the way organizations work with knowledge, documents, and collaboration platforms. But as more businesses adopt AI-powered assistants and large language models, one critical question continues to surface: how can you unlock the power of AI without exposing sensitive corporate information to external services?In this episode, we explore how organizations can run Local […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Businesses Can Refine Their Operations with Smarter Maps Using Maplytics]]></title>
+        <id>https://365community.online/how-businesses-can-refine-their-operations-with-smarter-maps-using-maplytics</id>
+        <link href="https://365community.online/how-businesses-can-refine-their-operations-with-smarter-maps-using-maplytics"/>
+        <updated>2026-06-19T05:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Field service and field sales run on two major things: good data and its location. Microsoft Dynamics 365 handles the data side well, tracking accounts, cases, leads, and customer relationships without much friction. What it does not tell you is where any of it actually sits geographically. That is the difference between a well-run day […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teams Recording: How Compliance Recording APIs, Bots, and Legal Hold Turn Your Calls into Defensible Evidence Instead of Risky MP4 Files]]></title>
         <id>https://365community.online/teams-recording-how-compliance-recording-apis-bots-and-legal-hold-turn-your-calls-into-defensible-evidence-instead-of-risky-mp4-files</id>
@@ -44,6 +145,17 @@
         <summary type="html"><![CDATA[Artificial Intelligence is transforming industries, redefining job roles, and forcing professionals to rethink how they build successful careers. In this episode of the M365 Podcast, Mirko Peters sits down with Sarah Jones, technology recruiter, career coach, freelancer, and community advocate, to explore what it really takes to stay relevant in an AI-driven world.With more than […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinventing source-to-pay with agentic ERP]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/18/reinventing-source-to-pay-with-agentic-erp/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/18/reinventing-source-to-pay-with-agentic-erp/"/>
+        <updated>2026-06-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore how AI agents transform source-to-pay by supporting faster insights, smarter actions, and more resilient procurement operations.
+The post Reinventing source-to-pay with agentic ERP appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Raghav Jandhyala</name>
         </author>
     </entry>
     <entry>
@@ -134,6 +246,17 @@
         <summary type="html"><![CDATA[Introduction While working with Unified Developer Experience (UDE) environments in Microsoft Dynamics 365 Finance & Operations, developers may occasionally encounter database synchronization issues during package deployment. Recently, after deploying a new UDE environment with Version 47, I experienced a package failure when attempting to deploy custom models. The package deployment process failed with a database…]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning Copilot into a system of action with Dynamics 365 Sales and Service plug-ins in Copilot Cowork]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/16/copilot-cowork-dynamics-365/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/16/copilot-cowork-dynamics-365/"/>
+        <updated>2026-06-16T22:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Copilot Cowork is where people delegate multi-step, multi-source work and review it, drawing across records, knowledge, email, and meetings, and increasingly across Sales and Customer Service together. It meets users where they already work in Microsoft 365, and it keeps a person in the loop the whole way: grounded in your records, governed by your permissions, and gated by human approval before anything is written back.
+The post Turning Copilot into a system of action with Dynamics 365 Sales and Service plug-ins in Copilot Cowork appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Deva Rajamohan</name>
         </author>
     </entry>
     <entry>
@@ -55430,87 +55553,6 @@ The post Batch job alerts and export (large untruncated) batch job logs appeared
 The post Work with complex data models in an ERD view assisted by Copilot appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Travis Shu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expense Reports Dates (TBD)]]></title>
-        <id>https://365community.online/expense-reports-dates-tbd</id>
-        <link href="https://365community.online/expense-reports-dates-tbd"/>
-        <updated>2024-06-20T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Expense Creation Date = Document Date in the GL Transaction Date (when the expenses occurred) = Project Date in the sub-ledger GL Posting Date will be equal to Transaction […]]]></summary>
-        <author>
-            <name>Sarang Kusare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: linked Power Platform environment]]></title>
-        <id>https://365community.online/dynamics-365-business-central-linked-power-platform-environment</id>
-        <link href="https://365community.online/dynamics-365-business-central-linked-power-platform-environment"/>
-        <updated>2024-06-20T10:31:45.000Z</updated>
-        <summary type="html"><![CDATA[In the last days, a new Linked Power Platform Environment option is appeared in the Administration Center of your Dynamics 365 Business Central tenant: This new option introduces the ability […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Purchasing), how do I… Assign Number Series in Purchasing]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-assign-number-series-in-purchasing</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-assign-number-series-in-purchasing"/>
-        <updated>2024-06-20T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Purchasing), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New in Spring 2024: Map Routing and Visualization for Power Pages Portals]]></title>
-        <id>https://365community.online/new-in-spring-2024-map-routing-and-visualization-for-power-pages-portals</id>
-        <link href="https://365community.online/new-in-spring-2024-map-routing-and-visualization-for-power-pages-portals"/>
-        <updated>2024-06-20T06:19:53.000Z</updated>
-        <summary type="html"><![CDATA[“Morning Jo, what is the Tea this morning?”, Josh asked as he rushed into the office. “Well, Maplytics is now available in Power Pages Portals”, Jo exclaimed. “It lets you […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applying Modern themes to the Modern Refreshed look (app header)– Model-driven App / Dynamics 365]]></title>
-        <id>https://365community.online/applying-modern-themes-to-the-modern-refreshed-look-app-header-model-driven-app-dynamics-365</id>
-        <link href="https://365community.online/applying-modern-themes-to-the-modern-refreshed-look-app-header-model-driven-app-dynamics-365"/>
-        <updated>2024-06-20T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As we are aware the classic themes do not apply to the new modern refreshed look, however using the new modern themes at least for now we can modify the […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Free Text Invoice in Dynamics 365 Finance and Operations Using Power Platform]]></title>
-        <id>https://paragchapre.com/?p=13230</id>
-        <link href="https://paragchapre.com/creating-free-text-invoices-dynamics-365-power-platform/"/>
-        <updated>2024-06-20T01:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create and post free text invoices in Dynamics 365 Finance and Operations using Power Platform and Fin & Ops connector, with automated batch jobs.
-The post Creating Free Text Invoice in Dynamics 365 Finance and Operations Using Power Platform appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group June 2024 Meet Up!]]></title>
-        <id>https://365community.online/welsh-azure-user-group-june-2024-meet-up</id>
-        <link href="https://365community.online/welsh-azure-user-group-june-2024-meet-up"/>
-        <updated>2024-06-19T19:44:14.000Z</updated>
-        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG June 2024 meet up and we had yet another two amazing speakers join us. We were joined by Harshavardhan […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group  – June 2024 Event – YouTube]]></title>
-        <id>https://365community.online/welsh-azure-user-group-june-2024-event-youtube</id>
-        <link href="https://365community.online/welsh-azure-user-group-june-2024-event-youtube"/>
-        <updated>2024-06-19T19:41:53.000Z</updated>
-        <summary type="html"><![CDATA[Welsh Azure User Group – June 2024 Event It was the day of our Welsh Azure User Group #WAUG June 2024 meet up and we had yet another two amazing […]]]></summary>
-        <author>
-            <name>John Lunn</name>
         </author>
     </entry>
     <entry>
