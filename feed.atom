@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-22T04:46:22.422Z</updated>
+    <updated>2026-06-23T03:52:03.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why I am betting on the Microsoft stack]]></title>
+        <id>https://kurthatlevik.com/?p=5315</id>
+        <link href="https://kurthatlevik.com/2026/06/22/why-i-am-betting-on-the-microsoft-stack/"/>
+        <updated>2026-06-22T13:56:32.000Z</updated>
+        <summary type="html"><![CDATA[I have been thinking quite a bit about the AI direction for Microsoft partners lately, as the landscape over the past year has been exploding. The question for a Microsoft partner should not only be: which model is best this month? That will continue to change. The better question is: where can we build repeatable … Continue reading Why I am betting on the Microsoft stack]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Fabric DP-600 Analytics Engineer Training Step 1 of 4:…]]></title>
         <id>https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-1-of-4-2</id>
@@ -55473,17 +55483,6 @@ The post GA of many long time Preview features appeared first on Microsoft Power
         <summary type="html"><![CDATA[To enable the feature, log in to Power Platform Admin Center https://admin.powerplatform.microsoft.com/environments Environment >> Settings >> Features and enable it We can specify 30 days as the maximum recovery time. […]]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigate Dynamics 365 F&O using Copilot]]></title>
-        <id>https://dynamicspedia.com/?p=19071</id>
-        <link href="https://dynamicspedia.com/2024/06/navigate-dynamics-365-fo-using-copilot/"/>
-        <updated>2024-06-23T15:12:37.000Z</updated>
-        <summary type="html"><![CDATA[This week, I presented about AI in Microsoft Dynamics 365 F&O together with Hylke Britstra at a Dutch Dynamics Community event. While preparing for the session, I created some demos to extend the Copilot sidecar and found some hints in the coding for using natural language to navigate the application. I will elaborate on the […]
-The post Navigate Dynamics 365 F&O using Copilot appeared first on Dynamicspedia.]]></summary>
-        <author>
-            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
