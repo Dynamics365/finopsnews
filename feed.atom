@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-23T03:52:03.629Z</updated>
+    <updated>2026-06-24T03:53:29.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read]]></title>
+        <id>https://alexdmeyer.com/?p=4007</id>
+        <link href="https://alexdmeyer.com/2026/06/23/the-d365fsc-security-configuration-form-when-read-doesnt-mean-read/"/>
+        <updated>2026-06-23T15:10:09.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent any time building custom security in Dynamics 365 Finance & Supply Chain Management, you know that assigning Read access to an object means you have the ability to view the record but cannot create new records and can’t edit or delete the record. But are there some forms that don’t follow this […]
+The post The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why I am betting on the Microsoft stack]]></title>
         <id>https://kurthatlevik.com/?p=5315</id>
@@ -7213,6 +7224,18 @@ The post Options for Deploying an ISV Unified Package in PPAC appeared first on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["Fix ‘This is Not a Unified Environment’ Error in D365 FO – Why Metadata Download Fails in Visual Studio"]]></title>
+        <id>https://d365cliffsnotes.com/fix-this-is-not-a-unified-environment-error-in-d365-fo-why-metadata-download-fails-in-visual-studio</id>
+        <link href="https://d365cliffsnotes.com/fix-this-is-not-a-unified-environment-error-in-d365-fo-why-metadata-download-fails-in-visual-studio"/>
+        <updated>2026-03-31T11:39:08.000Z</updated>
+        <summary type="html"><![CDATA[🚨 “This is not a unified environment…” - A Story Every Dynamics 365 Finance & Operations Developer Should Hear
+Let me start with a real story from one of my recent engagements.
+A few weeks ago, I was]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Power Apps in 2026: Which App Type Should You Actually Use? – YouTube]]></title>
         <id>https://365community.online/power-apps-in-2026-which-app-type-should-you-actually-use-youtube</id>
         <link href="https://365community.online/power-apps-in-2026-which-app-type-should-you-actually-use-youtube"/>
@@ -7301,6 +7324,17 @@ The post Options for Deploying an ISV Unified Package in PPAC appeared first on 
 The post How To Extend A D365 Email Template appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PPAC Unlocked: Deploying Dynamics 365 ERP Environments with and without Demo Data]]></title>
+        <id>https://d365cliffsnotes.com/ppac-unlocked-deploying-dynamics-365-erp-environments-with-and-without-demo-data</id>
+        <link href="https://d365cliffsnotes.com/ppac-unlocked-deploying-dynamics-365-erp-environments-with-and-without-demo-data"/>
+        <updated>2026-03-30T12:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Let me start with a story…
+A few months ago, I was working with a customer who was planning to implement Dynamics 365 ERP. Their approach was structured, predictable, and heavily dependent on LCS (Lif]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -11319,6 +11353,17 @@ Next, giving it the following instructions:
 you are a bot to help create, manage, update, and delete power platform environments. only create sandbox or development environments. to create a production environment, a user must promote a sandbox to a production. When not sure on your instructions based on what the API for the operation expects, ask clarifying questions to confirm you will deliver what the user wants. default to unitedstates for location if a location is required. environment creation for F&O should use a template. user must specify te…]]></summary>
         <author>
             <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Experience with AB-100: Earning the Microsoft Certified AI Business Solutions Architect Badge]]></title>
+        <id>https://d365cliffsnotes.com/my-experience-with-ab-100-earning-the-microsoft-certified-ai-business-solutions-architect-badge</id>
+        <link href="https://d365cliffsnotes.com/my-experience-with-ab-100-earning-the-microsoft-certified-ai-business-solutions-architect-badge"/>
+        <updated>2026-02-07T19:46:02.000Z</updated>
+        <summary type="html"><![CDATA[The AI space is evolving rapidly, but very few certifications truly reflect how AI is designed, governed, and delivered in real business environments.
+That’s exactly why clearing AB-100: Microsoft Certified – Agentic AI Business Solutions Architect f...]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -33763,6 +33808,16 @@ The post Inspection builder preview: digital transformation made easy with AI ap
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Demystifying the Copilot Sidecar Architecture in Dynamics 365 Finance and Operations ERP: A Solution Architect’s Guide]]></title>
+        <id>https://d365cliffsnotes.com/demystifying-the-copilot-sidecar-architecture-in-dynamics-365-finance-and-operations-erp-a-solution-architects-guide</id>
+        <link href="https://d365cliffsnotes.com/demystifying-the-copilot-sidecar-architecture-in-dynamics-365-finance-and-operations-erp-a-solution-architects-guide"/>
+        <updated>2025-04-15T17:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the future of enterprise resource planning! If you're exploring the world of Dynamics 365 Finance and Operations (F&O), you've likely come across the buzz around Copilot – Microsoft's generative AI assistant. But what does Copilot actually...]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D365 EventCUD and “orphan triggers”]]></title>
         <id>http://kurthatlevik.com/?p=4732</id>
         <link href="https://kurthatlevik.com/2025/04/15/d365-eventcud-and-orphan-triggers/"/>
@@ -36006,6 +36061,17 @@ The post Enhance Your Data Search with Smart Grid: Natural Language Filtering & 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Accelerate Your Development with Dynamics 365 FO Custom Batch Framework Templates]]></title>
+        <id>https://d365cliffsnotes.com/accelerate-your-development-with-dynamics-365-fo-custom-batch-framework-templates</id>
+        <link href="https://d365cliffsnotes.com/accelerate-your-development-with-dynamics-365-fo-custom-batch-framework-templates"/>
+        <updated>2025-03-19T04:30:13.000Z</updated>
+        <summary type="html"><![CDATA[No matter the complexity of Dynamics 365 FO implementation, developing custom batch jobs is always necessary to accommodate tailored business processes.
+As a Dynamics 365 Finance & Operations (D365 FO) developer, working with custom batch jobs is a r...]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Visualize Data in a View with Copilot (Preview) – Dataverse / Dynamics 365]]></title>
         <id>https://365community.online/visualize-data-in-a-view-with-copilot-preview-dataverse-dynamics-365</id>
         <link href="https://365community.online/visualize-data-in-a-view-with-copilot-preview-dataverse-dynamics-365"/>
@@ -36061,6 +36127,16 @@ The post Hierarchy View: Alternative to Dynamics 365 CRM Deprecating Hierarchy C
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Improve Dynamics 365 FO Non-continuous Number sequence Performance: Tips and Strategies for Success!]]></title>
+        <id>https://d365cliffsnotes.com/improve-dynamics-365-fo-non-continuous-number-sequence-performance-tips-and-strategies-for-success</id>
+        <link href="https://d365cliffsnotes.com/improve-dynamics-365-fo-non-continuous-number-sequence-performance-tips-and-strategies-for-success"/>
+        <updated>2025-03-18T08:32:11.000Z</updated>
+        <summary type="html"><![CDATA[Navigating performance issues in Dynamics 365 FO can be quite a challenge. There are numerous factors and considerations to take into account to ensure optimal performance in a production environment. It’s a puzzle that requires careful attention and...]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Create Beautiful Quote And Order Emails With Customer Insights – Journeys]]></title>
         <id>https://365community.online/create-beautiful-quote-and-order-emails-with-customer-insights-journeys</id>
         <link href="https://365community.online/create-beautiful-quote-and-order-emails-with-customer-insights-journeys"/>
@@ -36113,6 +36189,16 @@ The post Identify the Event That Triggered the Flow using the SdkMessage in Data
 The post Special spot secured! 😇 – YouTube appeared first on 365 Community Online.]]></summary>
         <author>
             <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do we analyze Dynamics 365 FO Golden Copy configurations across the environments?]]></title>
+        <id>https://d365cliffsnotes.com/how-do-we-analyze-dynamics-365-fo-golden-copy-configurations-across-the-environments</id>
+        <link href="https://d365cliffsnotes.com/how-do-we-analyze-dynamics-365-fo-golden-copy-configurations-across-the-environments"/>
+        <updated>2025-03-17T12:54:07.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving Dynamics 365 FO ecosystem, maintaining Golden Copy configurations remains one of the most discussed and reimagined aspects of Data migration process. While popular tools robust solutions, there's significant value in understandin...]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -55342,58 +55428,6 @@ The post AI summarization in Dynamics 365 synthesizes and simplifies complex dat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Installation of one or more roles, role services, or features failed. Error: 0x800f0954]]></title>
-        <id>1701 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/blog-entry/installation-one-or-more-roles-role-services-or-features-failed-error-0x800f0954"/>
-        <updated>2024-06-24T15:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Installation of one or more roles, role services, or features failed. Error: 0x800f0954
-
-
-
-
-
-
-06/24/24
-
-
-
-
-
-
-
-
-
-
-
-
-    
-LBD      
-
-Installation of one or more roles, role services, or features failed. Error: 0x800f0954 when configuration an AOS for Local Business Data (LBD)
-When you attempt to install .NET Framework 3.5 for Local Business Data Finance and Operations, you can resolve this fairly easily. First, let's understand the issue. 
-The Issue
-Typically this error surfaces when WSUS (https://learn.microsoft.com/en-us/windows-server/administration/windows-...) is used and the specific source for the feature we're looking for isn't available from WSUS ( or is maybe even actively blocked ). For whatever reason, the server you're running .\Configure-PreReqs.ps1 on is asking for a source for that specific Windows feature and that isn't be provided as a download to the server asking for it so the install fails with our specific error message: Installation of one or more roles, role services, or features failed. Error: 0x800f0954
-The Solution
-First, on the AOS mount the Windows ISO that matches your OS version.
-Next, Open a command prompt with administrator user rights (Run as Administrator).
-Next, run the following command where D is drive you mounted the ISO on
-DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:d:\sources\sxs
-What this does is uses local sources to install .NET 3.5 without using WSUS at all. The options uses in the command do the follow:
-Using /All will enable all parent features of the specified feature.
-This will allow for .NET 3.5 to be installed and if you're prepping an AOS with SSIS, this should unblock you without any other changes to the OS required.
-Alternative Solution
-You can also do something like this but any changes to the Registry will need to be undone and in general, i'm not a fan of making changes to the registry unless I have to: https://edulab.unitn.it/tecnici/fix-error-0x800f0954-installing-net-fram...
- 
-
-
-
-
-View the discussion thread.]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.5]]></title>
         <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5</id>
         <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5"/>
@@ -55401,17 +55435,6 @@ View the discussion thread.]]></summary>
         <summary type="html"><![CDATA[It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This […]]]></summary>
         <author>
             <name>Alex Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.5]]></title>
-        <id>https://alexdmeyer.com/?p=3242</id>
-        <link href="https://alexdmeyer.com/2024/06/24/new-release-of-d365fo-admin-toolkit-v1-5/"/>
-        <updated>2024-06-24T14:29:37.000Z</updated>
-        <summary type="html"><![CDATA[It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This release has been built against a 10.0.39 version of D365FO. Let’s look at the new features and functionality and bug fixes in this release! New […]
-The post New Release of D365FO Admin Toolkit v1.5 appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
     <entry>
@@ -55442,17 +55465,6 @@ The post New Release of D365FO Admin Toolkit v1.5 appeared first on Alex Meyer.]
         <summary type="html"><![CDATA[This time, let’s do things differently! We are thrilled to announce that we are back at one of the biggest yearly Power Platform events for the amazing Power Platform Community […]]]></summary>
         <author>
             <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GA of many long time Preview features]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/ga-of-many-long-time-preview-features/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/ga-of-many-long-time-preview-features/"/>
-        <updated>2024-06-24T10:28:12.000Z</updated>
-        <summary type="html"><![CDATA[How we introduce new features in Power Apps is a complicated business. We need to balance making innovative changes and iterating on your feedback with the rock-solid stability for your production apps. With version 3.24063 we are making changes to how we do this in Canvas apps. We will now have four feature stages: Why
-The post GA of many long time Preview features appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Greg Lindhorst</name>
         </author>
     </entry>
     <entry>
@@ -55493,132 +55505,6 @@ The post GA of many long time Preview features appeared first on Microsoft Power
         <summary type="html"><![CDATA[Recently one of my LinkedIn contacts reached out with an excellent question about Microsoft’s Omnichannel for Customer Service and Copilot Studio BOTs …. “With a new style Copilot Studio voice […]]]></summary>
         <author>
             <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Top 10 Learning of Copilot for Dynamics 365 Finance & Supply Chain Management]]></title>
-        <id>https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management</id>
-        <link href="https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management"/>
-        <updated>2024-02-14T18:23:49.000Z</updated>
-        <summary type="html"><![CDATA[Hey Learners, 👏
-It seems that Microsoft Copilot, the AI-powered assistant, is gaining popularity worldwide. Customers and partners are trying to understand the various features of Copilot to align them with their specific needs and set expectations for their business and IT strategies.
-While trying to understand Copilot's architecture, learners like me are also exploring its pricing model and extensions to incorporate custom business processes.
-To enable Copilot, there are numerous dependent components involved.
-
-Availability of Azure Open AI service in specific region
-
-Microsoft Power Platform integration in Microsoft Dynamics Lifecycle Services
-
-Microsoft Power Apps solution for Copilot from AppSource
-
-Dynamics 365 FO platform compatible version
-
-Dynamics 365 FO Feature management (User…]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Prompts for resolving Tier 1 ERP table mapping challenges with Dynamics 365 Finance & Supply chain]]></title>
-        <id>https://d365cliffsnotes.com/6-prompts-for-resolving-tier-1-erp-table-mapping-challenges-with-dynamics-365-finance-supply-chain</id>
-        <link href="https://d365cliffsnotes.com/6-prompts-for-resolving-tier-1-erp-table-mapping-challenges-with-dynamics-365-finance-supply-chain"/>
-        <updated>2024-02-13T19:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Wouldn't it be great if we could simplify a few complex tasks to boost Dynamics 365 FO implementation productivity?
-There have been a number of you who have reached out to me and said you'd like to overcome more about common learning challenges Dynamics 365 FO functional & technical consultants face when there is an ERP transformation. 
-SAP or Oracle consultants are experts in SAP or Oracle, while Dynamics 365 FO consultants are experts in Dynamics 365. Due to this, it is nearly impossible for Dynamics 365 consultants to learn how to integrate ERP functionality across different companies. 
-In today's blog post, we will discuss how gen AI can simplify this task, aka Table mapping Tier-1 or Tier-2 ERP tables with Dynamics 365 Finance and SCM.
-Generally, Tier 1 software is large scale and cap…]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Architecting For File Security : Solution Design Approaches to Encrypting and Decrypting File Data in Dynamics 365 Finance - Part I]]></title>
-        <id>https://d365cliffsnotes.com/architecting-for-file-security-solution-design-approaches-to-encrypting-and-decrypting-file-data-in-dynamics-365-finance-part-i</id>
-        <link href="https://d365cliffsnotes.com/architecting-for-file-security-solution-design-approaches-to-encrypting-and-decrypting-file-data-in-dynamics-365-finance-part-i"/>
-        <updated>2024-02-13T01:39:24.000Z</updated>
-        <summary type="html"><![CDATA[The security of data is one of the most pressing concerns in the digital age. Whether you're sharing sensitive information over the internet, protecting your files, or storing sensitive information, encryption is critical.
-This series of posts will focus on encryption and decryption concepts, common frameworks, solution design approaches, and step-by-step implementation in Dynamics 365 Finance.
-In this article, we will be looking at the core concepts and design principles of file encryption and how to go about it.
-Every Dynamics 365 Finance implementation especially when the business is focused on Finance processes has a use case that involves 3rd party file integration, such as banks, contractors & partners.
-Let's first understand the common use cases of file data encryption and decryptio…]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should You Learn CDS vs. Standard public data entities implementation approach First?]]></title>
-        <id>https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first</id>
-        <link href="https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first"/>
-        <updated>2023-05-11T18:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Let's look at some stats.
-So you want to get into integration between Dynamics 365 CE or Custom Power Apps and Dynamics 365 FO. The question is, which type of Public Data entities are to be used from Dynamics365 FO?
-As someone who's working on a list of integration approaches such as
-1. Dual-write
-2. Data integrator
-3. Connector
-4. API
-Should I use Customers V2, Customers V3, or Sales Quotation Header CDS entity? What is the difference between these entities and tables?
-It is always tricky to make decisions about which data entity to be used for the above-mentioned integration approaches, read on and I'll give you my thoughts.
-If you deep dive more into available Dynamics 365 FO Data entities whether named with CDS or not under the hood it is connected with business transactions or master …]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How To Troubleshoot Company Records Issue In Dual-write]]></title>
-        <id>https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write</id>
-        <link href="https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write"/>
-        <updated>2023-04-22T17:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Ever been configuring and validating Dual-write health checks and then notice that one of your colleagues set up a new legal entity in Dynamics 365 FO and failed to sync company records moving to Dataverse and refreshing the Dual-write maps as a last option but nothing is working?
-On checking the error or behavior using the Plug-in registration tool, you see an observation that reads Company records are not to Dataverse.
-In this blog post, I will share my learning on how to troubleshoot company records sync issues with Dataverse when you have Dual-write infrastructure.
-What is a Legal entity or company record sync issue?
-Well, when you enable Dual-write infrastructure for your business processes to sync data between Dynamics 365 CE (CRM) and Dynamics 365 FO (ERP). Sometimes your Dynamics 3…]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do I Deploy a Dynamics 365 Integrated Trial Environment? – Step -by-Step Guide]]></title>
-        <id>https://d365cliffsnotes.com/how-do-i-deploy-a-dynamics-365-integrated-trial-environment-step-by-step-guide</id>
-        <link href="https://d365cliffsnotes.com/how-do-i-deploy-a-dynamics-365-integrated-trial-environment-step-by-step-guide"/>
-        <updated>2023-04-19T05:00:39.000Z</updated>
-        <summary type="html"><![CDATA[The challenge is: what is it?
-Keeping up-to-date with the latest & greatest features of Dynamics 365 family products is essential in today's fast-paced technological landscape.
-The other day, I revisited my programming journal, only to discover several new features, updates, and changes I hadn't seen before. Simply to stay current, I had to revisit new features of Dynamics 365 Project Operations and some features of Dynamics 365 FO.
-At work, I am often required to use new frameworks or features. Although I concentrate on learning new Dynamics 365 Project Operations features, I might still feel that I am missing the full picture of Dynamics 365 Finance business processes. In some cases, it's frustrating not to have a dedicated, managed or trial-integrated Dynamics 365 Project Operations or …]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deal With Missing Fields on Dual-write Table Custom Maps]]></title>
-        <id>https://d365cliffsnotes.com/how-to-deal-with-missing-fields-on-dual-write-table-custom-maps</id>
-        <link href="https://d365cliffsnotes.com/how-to-deal-with-missing-fields-on-dual-write-table-custom-maps"/>
-        <updated>2023-04-14T08:57:27.000Z</updated>
-        <summary type="html"><![CDATA[Dual-write Custom entity Maps: I bet, You're probably missing something.
-Roughly a year ago I had to create a complex Dual-write table map and I couldn't decide the approach to start with Dataverse first or Dynamics 365 FO. However, I knew I wanted to use a custom data entity with a custom table of Dataverse to complete the data mapping. So I began a process of table mapping using Dual-write. I could able to complete the data fields mapping process and try to start the map to initiate the data sync. However, it failed in testing due to some missing fields or columns.
-I had almost no experience with Dual-write troubleshooting to resolve the issue. The only option left with me was to step-by-step approach right from Dynamics 365 FO Data entity to Dataverse table fields.
-Real-world Dual-write…]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual-write: Types of Errors and How to Fix them]]></title>
-        <id>https://d365cliffsnotes.com/dual-write-types-of-errors-and-how-to-fix-them</id>
-        <link href="https://d365cliffsnotes.com/dual-write-types-of-errors-and-how-to-fix-them"/>
-        <updated>2023-04-12T08:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Oopstheres an Error! :) 😬
-While using Dual-write infrastructure we encounter a wide variety of different types of errors. Often, these errors leave us scratching our heads. Nevertheless, we can learn what those errors mean by understanding why we get them. Our life will be a lot easier if we know how to solve or avoid them!
-With the Dual-write Alert capability feature, we can set up an error of type to happen in minute(s) and hour(s) for all the table maps.
-
-In today's blog, let's understand what the 'Types of Error' are. Why do we get those errors? And how are we supposed to avoid them?
-What is an error?
-Errors that prevent your data sync operation from performing smoothly.  Whether it is uni-directional or bi-directional using Dual-write infrastructure. There are eight main types of err…]]></summary>
-        <author>
-            <name>Rakesh Darge</name>
         </author>
     </entry>
 </feed>

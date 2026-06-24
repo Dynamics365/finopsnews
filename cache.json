@@ -43022,6 +43022,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=4007",
+          "author": "Alex",
+          "description": "If you’ve spent any time building custom security in Dynamics 365 Finance & Supply Chain Management, you know that assigning Read access to an object means you have the ability to view the record but cannot create new records and can’t edit or delete the record. But are there some forms that don’t follow this […]\nThe post The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2026/06/23/the-d365fsc-security-configuration-form-when-read-doesnt-mean-read/",
+          "publishedOn": "2026-06-23T15:10:09.000Z",
+          "wordCount": 4913,
+          "title": "The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2026/06/The-D365FSCM-Security-Configuration-Form-When-Read-Doesnt-Mean-Read.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=3991",
           "author": "Alex",
           "description": "The ‘Deny’ permission can be an extremely powerful tool to ensure compliance within D365FSC, but what impact does it have on licensing? I wrote about this topic a few years ago but figured it was time to revisit this with the new licensing methodology within D365FSC. Testing Scenarios For my testing I wanted to find […]\nThe post How Does the Deny Permission Impact User Licensing in D365FSC? appeared first on Alex Meyer.",
@@ -43335,16 +43345,6 @@
           "wordCount": 4333,
           "title": "New Release of D365FO Admin Toolkit v1.6",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/07/1.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=3242",
-          "author": "Alex",
-          "description": "It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This release has been built against a 10.0.39 version of D365FO. Let’s look at the new features and functionality and bug fixes in this release! New […]\nThe post New Release of D365FO Admin Toolkit v1.5 appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2024/06/24/new-release-of-d365fo-admin-toolkit-v1-5/",
-          "publishedOn": "2024-06-24T14:29:37.000Z",
-          "wordCount": 4347,
-          "title": "New Release of D365FO Admin Toolkit v1.5",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/06/2.png"
         }
       ]
     },
@@ -44590,16 +44590,6 @@
           "publishedOn": "2024-06-28T00:55:59.000Z",
           "wordCount": 993,
           "title": "Powershell to Deploy a PPAC UNO Environment",
-          "imageUrl": null
-        },
-        {
-          "id": "1701 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Installation of one or more roles, role services, or features failed. Error: 0x800f0954\n\n\n\n\n\n\n06/24/24\n\n\n\n\n\n\n\n\n\n\n\n\n    \nLBD      \n\nInstallation of one or more roles, role services, or features failed. Error: 0x800f0954 when configuration an AOS for Local Business Data (LBD)\nWhen you attempt to install .NET Framework 3.5 for Local Business Data Finance and Operations, you can resolve this fairly easily. First, let's understand the issue. \nThe Issue\nTypically this error surfaces when WSUS (https://learn.microsoft.com/en-us/windows-server/administration/windows-...) is used and the specific source for the feature we're looking for isn't available from WSUS ( or is maybe even actively blocked ). For whatever reason, the server you're running .\\Configure-PreReqs.ps1 on is asking for a source for that specific Windows feature and that isn't be provided as a download to the server asking for it so the install fails with our specific error message: Installation of one or more roles, role services, or features failed. Error: 0x800f0954\nThe Solution\nFirst, on the AOS mount the Windows ISO that matches your OS version.\nNext, Open a command prompt with administrator user rights (Run as Administrator).\nNext, run the following command where D is drive you mounted the ISO on\nDISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:d:\\sources\\sxs\nWhat this does is uses local sources to install .NET 3.5 without using WSUS at all. The options uses in the command do the follow:\nUsing /All will enable all parent features of the specified feature.\nThis will allow for .NET 3.5 to be installed and if you're prepping an AOS with SSIS, this should unblock you without any other changes to the OS required.\nAlternative Solution\nYou can also do something like this but any changes to the Registry will need to be undone and in general, i'm not a fan of making changes to the registry unless I have to: https://edulab.unitn.it/tecnici/fix-error-0x800f0954-installing-net-fram...\n \n\n\n\n\nView the discussion thread.",
-          "link": "https://www.atomicax.com/blog-entry/installation-one-or-more-roles-role-services-or-features-failed-error-0x800f0954",
-          "publishedOn": "2024-06-24T15:14:13.000Z",
-          "wordCount": 1162,
-          "title": "Installation of one or more roles, role services, or features failed. Error: 0x800f0954",
           "imageUrl": null
         }
       ]
@@ -50110,84 +50100,109 @@
       "siteUrl": "https://d365cliffsnotes.com",
       "articles": [
         {
-          "id": "https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management",
+          "id": "https://d365cliffsnotes.com/fix-this-is-not-a-unified-environment-error-in-d365-fo-why-metadata-download-fails-in-visual-studio",
           "author": "Rakesh Darge",
-          "description": "Hey Learners, 👏\nIt seems that Microsoft Copilot, the AI-powered assistant, is gaining popularity worldwide. Customers and partners are trying to understand the various features of Copilot to align them with their specific needs and set expectations for their business and IT strategies.\nWhile trying to understand Copilot's architecture, learners like me are also exploring its pricing model and extensions to incorporate custom business processes.\nTo enable Copilot, there are numerous dependent components involved.\n\nAvailability of Azure Open AI service in specific region\n\nMicrosoft Power Platform integration in Microsoft Dynamics Lifecycle Services\n\nMicrosoft Power Apps solution for Copilot from AppSource\n\nDynamics 365 FO platform compatible version\n\nDynamics 365 FO Feature management (User…",
-          "link": "https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management",
-          "publishedOn": "2024-02-14T18:23:49.000Z",
-          "wordCount": 3829,
-          "title": "My Top 10 Learning of Copilot for Dynamics 365 Finance & Supply Chain Management",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1707934999845%2F2ed2a8f5-93a6-4096-bf27-0ef847386330.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "description": "🚨 “This is not a unified environment…” - A Story Every Dynamics 365 Finance & Operations Developer Should Hear\nLet me start with a real story from one of my recent engagements.\nA few weeks ago, I was",
+          "link": "https://d365cliffsnotes.com/fix-this-is-not-a-unified-environment-error-in-d365-fo-why-metadata-download-fails-in-visual-studio",
+          "publishedOn": "2026-03-31T11:39:08.000Z",
+          "wordCount": 4332,
+          "title": "\"Fix ‘This is Not a Unified Environment’ Error in D365 FO – Why Metadata Download Fails in Visual Studio\"",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/uploads/covers/6154a77b414f78089df3d420/b2279f05-3044-4078-87fa-a3f908473807.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6154a77b414f78089df3d420/b2279f05-3044-4078-87fa-a3f908473807.png"
         },
         {
-          "id": "https://d365cliffsnotes.com/6-prompts-for-resolving-tier-1-erp-table-mapping-challenges-with-dynamics-365-finance-supply-chain",
+          "id": "https://d365cliffsnotes.com/ppac-unlocked-deploying-dynamics-365-erp-environments-with-and-without-demo-data",
           "author": "Rakesh Darge",
-          "description": "Wouldn't it be great if we could simplify a few complex tasks to boost Dynamics 365 FO implementation productivity?\nThere have been a number of you who have reached out to me and said you'd like to overcome more about common learning challenges Dynamics 365 FO functional & technical consultants face when there is an ERP transformation. \nSAP or Oracle consultants are experts in SAP or Oracle, while Dynamics 365 FO consultants are experts in Dynamics 365. Due to this, it is nearly impossible for Dynamics 365 consultants to learn how to integrate ERP functionality across different companies. \nIn today's blog post, we will discuss how gen AI can simplify this task, aka Table mapping Tier-1 or Tier-2 ERP tables with Dynamics 365 Finance and SCM.\nGenerally, Tier 1 software is large scale and cap…",
-          "link": "https://d365cliffsnotes.com/6-prompts-for-resolving-tier-1-erp-table-mapping-challenges-with-dynamics-365-finance-supply-chain",
-          "publishedOn": "2024-02-13T19:03:59.000Z",
-          "wordCount": 6590,
-          "title": "6 Prompts for resolving Tier 1 ERP table mapping challenges with Dynamics 365 Finance & Supply chain",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1707849931321%2F5c0be576-a0b8-4aec-aaf0-5a7d0ec8c98a.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "description": "Let me start with a story…\nA few months ago, I was working with a customer who was planning to implement Dynamics 365 ERP. Their approach was structured, predictable, and heavily dependent on LCS (Lif",
+          "link": "https://d365cliffsnotes.com/ppac-unlocked-deploying-dynamics-365-erp-environments-with-and-without-demo-data",
+          "publishedOn": "2026-03-30T12:20:34.000Z",
+          "wordCount": 4762,
+          "title": "PPAC Unlocked: Deploying Dynamics 365 ERP Environments with and without Demo Data",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/uploads/covers/6154a77b414f78089df3d420/b9073aa3-87be-4ee1-90de-cc9f5c20c77d.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6154a77b414f78089df3d420/b9073aa3-87be-4ee1-90de-cc9f5c20c77d.png"
         },
         {
-          "id": "https://d365cliffsnotes.com/architecting-for-file-security-solution-design-approaches-to-encrypting-and-decrypting-file-data-in-dynamics-365-finance-part-i",
+          "id": "https://d365cliffsnotes.com/my-experience-with-ab-100-earning-the-microsoft-certified-ai-business-solutions-architect-badge",
           "author": "Rakesh Darge",
-          "description": "The security of data is one of the most pressing concerns in the digital age. Whether you're sharing sensitive information over the internet, protecting your files, or storing sensitive information, encryption is critical.\nThis series of posts will focus on encryption and decryption concepts, common frameworks, solution design approaches, and step-by-step implementation in Dynamics 365 Finance.\nIn this article, we will be looking at the core concepts and design principles of file encryption and how to go about it.\nEvery Dynamics 365 Finance implementation especially when the business is focused on Finance processes has a use case that involves 3rd party file integration, such as banks, contractors & partners.\nLet's first understand the common use cases of file data encryption and decryptio…",
-          "link": "https://d365cliffsnotes.com/architecting-for-file-security-solution-design-approaches-to-encrypting-and-decrypting-file-data-in-dynamics-365-finance-part-i",
-          "publishedOn": "2024-02-13T01:39:24.000Z",
-          "wordCount": 11237,
-          "title": "Architecting For File Security : Solution Design Approaches to Encrypting and Decrypting File Data in Dynamics 365 Finance - Part I",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1707788138310%2F8efcf87f-c443-4764-ae1c-222aaf81e505.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "description": "The AI space is evolving rapidly, but very few certifications truly reflect how AI is designed, governed, and delivered in real business environments.\nThat’s exactly why clearing AB-100: Microsoft Certified – Agentic AI Business Solutions Architect f...",
+          "link": "https://d365cliffsnotes.com/my-experience-with-ab-100-earning-the-microsoft-certified-ai-business-solutions-architect-badge",
+          "publishedOn": "2026-02-07T19:46:02.000Z",
+          "wordCount": 5604,
+          "title": "My Experience with AB-100: Earning the Microsoft Certified AI Business Solutions Architect Badge",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770493429020/01cc76f9-011e-4bd9-8a1e-d01c9c655c68.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1770493429020/01cc76f9-011e-4bd9-8a1e-d01c9c655c68.png"
         },
         {
-          "id": "https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first",
+          "id": "https://d365cliffsnotes.com/demystifying-the-copilot-sidecar-architecture-in-dynamics-365-finance-and-operations-erp-a-solution-architects-guide",
           "author": "Rakesh Darge",
-          "description": "Let's look at some stats.\nSo you want to get into integration between Dynamics 365 CE or Custom Power Apps and Dynamics 365 FO. The question is, which type of Public Data entities are to be used from Dynamics365 FO?\nAs someone who's working on a list of integration approaches such as\n1. Dual-write\n2. Data integrator\n3. Connector\n4. API\nShould I use Customers V2, Customers V3, or Sales Quotation Header CDS entity? What is the difference between these entities and tables?\nIt is always tricky to make decisions about which data entity to be used for the above-mentioned integration approaches, read on and I'll give you my thoughts.\nIf you deep dive more into available Dynamics 365 FO Data entities whether named with CDS or not under the hood it is connected with business transactions or master …",
-          "link": "https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first",
-          "publishedOn": "2023-05-11T18:19:19.000Z",
-          "wordCount": 5451,
-          "title": "Should You Learn CDS vs. Standard public data entities implementation approach First?",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1683828463589%2F1f67bc2a-0269-4915-bd9b-b20aaa939341.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "description": "Welcome to the future of enterprise resource planning! If you're exploring the world of Dynamics 365 Finance and Operations (F&O), you've likely come across the buzz around Copilot – Microsoft's generative AI assistant. But what does Copilot actually...",
+          "link": "https://d365cliffsnotes.com/demystifying-the-copilot-sidecar-architecture-in-dynamics-365-finance-and-operations-erp-a-solution-architects-guide",
+          "publishedOn": "2025-04-15T17:43:51.000Z",
+          "wordCount": 7030,
+          "title": "Demystifying the Copilot Sidecar Architecture in Dynamics 365 Finance and Operations ERP: A Solution Architect’s Guide",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744738528379/990b7be4-af47-4138-867f-554c921441bd.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744738528379/990b7be4-af47-4138-867f-554c921441bd.png"
         },
         {
-          "id": "https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write",
+          "id": "https://d365cliffsnotes.com/accelerate-your-development-with-dynamics-365-fo-custom-batch-framework-templates",
           "author": "Rakesh Darge",
-          "description": "Ever been configuring and validating Dual-write health checks and then notice that one of your colleagues set up a new legal entity in Dynamics 365 FO and failed to sync company records moving to Dataverse and refreshing the Dual-write maps as a last option but nothing is working?\nOn checking the error or behavior using the Plug-in registration tool, you see an observation that reads Company records are not to Dataverse.\nIn this blog post, I will share my learning on how to troubleshoot company records sync issues with Dataverse when you have Dual-write infrastructure.\nWhat is a Legal entity or company record sync issue?\nWell, when you enable Dual-write infrastructure for your business processes to sync data between Dynamics 365 CE (CRM) and Dynamics 365 FO (ERP). Sometimes your Dynamics 3…",
-          "link": "https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write",
-          "publishedOn": "2023-04-22T17:03:26.000Z",
-          "wordCount": 5599,
-          "title": "Learn How To Troubleshoot Company Records Issue In Dual-write",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1682181912991%2F185976da-7bf9-4b1b-a38e-65e20a01de50.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "description": "No matter the complexity of Dynamics 365 FO implementation, developing custom batch jobs is always necessary to accommodate tailored business processes.\nAs a Dynamics 365 Finance & Operations (D365 FO) developer, working with custom batch jobs is a r...",
+          "link": "https://d365cliffsnotes.com/accelerate-your-development-with-dynamics-365-fo-custom-batch-framework-templates",
+          "publishedOn": "2025-03-19T04:30:13.000Z",
+          "wordCount": 3257,
+          "title": "Accelerate Your Development with Dynamics 365 FO Custom Batch Framework Templates",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742303015906/c8220809-2c67-4e2d-8ec9-ef2c2a3cbe28.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742303015906/c8220809-2c67-4e2d-8ec9-ef2c2a3cbe28.png"
         },
         {
-          "id": "https://d365cliffsnotes.com/how-do-i-deploy-a-dynamics-365-integrated-trial-environment-step-by-step-guide",
+          "id": "https://d365cliffsnotes.com/improve-dynamics-365-fo-non-continuous-number-sequence-performance-tips-and-strategies-for-success",
           "author": "Rakesh Darge",
-          "description": "The challenge is: what is it?\nKeeping up-to-date with the latest & greatest features of Dynamics 365 family products is essential in today's fast-paced technological landscape.\nThe other day, I revisited my programming journal, only to discover several new features, updates, and changes I hadn't seen before. Simply to stay current, I had to revisit new features of Dynamics 365 Project Operations and some features of Dynamics 365 FO.\nAt work, I am often required to use new frameworks or features. Although I concentrate on learning new Dynamics 365 Project Operations features, I might still feel that I am missing the full picture of Dynamics 365 Finance business processes. In some cases, it's frustrating not to have a dedicated, managed or trial-integrated Dynamics 365 Project Operations or …",
-          "link": "https://d365cliffsnotes.com/how-do-i-deploy-a-dynamics-365-integrated-trial-environment-step-by-step-guide",
-          "publishedOn": "2023-04-19T05:00:39.000Z",
-          "wordCount": 6226,
-          "title": "How Do I Deploy a Dynamics 365 Integrated Trial Environment? – Step -by-Step Guide",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1681823242722%2F0b833527-956d-43e2-a984-210b18d85b4f.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "description": "Navigating performance issues in Dynamics 365 FO can be quite a challenge. There are numerous factors and considerations to take into account to ensure optimal performance in a production environment. It’s a puzzle that requires careful attention and...",
+          "link": "https://d365cliffsnotes.com/improve-dynamics-365-fo-non-continuous-number-sequence-performance-tips-and-strategies-for-success",
+          "publishedOn": "2025-03-18T08:32:11.000Z",
+          "wordCount": 4360,
+          "title": "Improve Dynamics 365 FO Non-continuous Number sequence Performance: Tips and Strategies for Success!",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742285150000/27083d29-e152-478e-99bf-a142c9aab240.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742285150000/27083d29-e152-478e-99bf-a142c9aab240.png"
         },
         {
-          "id": "https://d365cliffsnotes.com/how-to-deal-with-missing-fields-on-dual-write-table-custom-maps",
+          "id": "https://d365cliffsnotes.com/how-do-we-analyze-dynamics-365-fo-golden-copy-configurations-across-the-environments",
           "author": "Rakesh Darge",
-          "description": "Dual-write Custom entity Maps: I bet, You're probably missing something.\nRoughly a year ago I had to create a complex Dual-write table map and I couldn't decide the approach to start with Dataverse first or Dynamics 365 FO. However, I knew I wanted to use a custom data entity with a custom table of Dataverse to complete the data mapping. So I began a process of table mapping using Dual-write. I could able to complete the data fields mapping process and try to start the map to initiate the data sync. However, it failed in testing due to some missing fields or columns.\nI had almost no experience with Dual-write troubleshooting to resolve the issue. The only option left with me was to step-by-step approach right from Dynamics 365 FO Data entity to Dataverse table fields.\nReal-world Dual-write…",
-          "link": "https://d365cliffsnotes.com/how-to-deal-with-missing-fields-on-dual-write-table-custom-maps",
-          "publishedOn": "2023-04-14T08:57:27.000Z",
-          "wordCount": 6413,
-          "title": "How to Deal With Missing Fields on Dual-write Table Custom Maps",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1681462386069%2F55b37e57-0906-48a4-bdcd-d6c37765a6cf.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://d365cliffsnotes.com/dual-write-types-of-errors-and-how-to-fix-them",
-          "author": "Rakesh Darge",
-          "description": "Oopstheres an Error! :) 😬\nWhile using Dual-write infrastructure we encounter a wide variety of different types of errors. Often, these errors leave us scratching our heads. Nevertheless, we can learn what those errors mean by understanding why we get them. Our life will be a lot easier if we know how to solve or avoid them!\nWith the Dual-write Alert capability feature, we can set up an error of type to happen in minute(s) and hour(s) for all the table maps.\n\nIn today's blog, let's understand what the 'Types of Error' are. Why do we get those errors? And how are we supposed to avoid them?\nWhat is an error?\nErrors that prevent your data sync operation from performing smoothly.  Whether it is uni-directional or bi-directional using Dual-write infrastructure. There are eight main types of err…",
-          "link": "https://d365cliffsnotes.com/dual-write-types-of-errors-and-how-to-fix-them",
-          "publishedOn": "2023-04-12T08:37:24.000Z",
-          "wordCount": 7421,
-          "title": "Dual-write: Types of Errors and How to Fix them",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1681287901862%2Fea0575fb-e691-49d7-8533-600112f40aa7.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+          "description": "In the ever-evolving Dynamics 365 FO ecosystem, maintaining Golden Copy configurations remains one of the most discussed and reimagined aspects of Data migration process. While popular tools robust solutions, there's significant value in understandin...",
+          "link": "https://d365cliffsnotes.com/how-do-we-analyze-dynamics-365-fo-golden-copy-configurations-across-the-environments",
+          "publishedOn": "2025-03-17T12:54:07.000Z",
+          "wordCount": 4555,
+          "title": "How do we analyze Dynamics 365 FO Golden Copy configurations across the environments?",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742212496510/de722f88-ddf7-445d-a62d-0269f7d718ee.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742212496510/de722f88-ddf7-445d-a62d-0269f7d718ee.png"
         }
       ]
     },
@@ -51439,16 +51454,6 @@
           "wordCount": 2747,
           "title": "Developer environment and plan now available in Sovereign clouds",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/OBO.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/ga-of-many-long-time-preview-features/",
-          "author": "Greg Lindhorst",
-          "description": "How we introduce new features in Power Apps is a complicated business. We need to balance making innovative changes and iterating on your feedback with the rock-solid stability for your production apps. With version 3.24063 we are making changes to how we do this in Canvas apps. We will now have four feature stages: Why\nThe post GA of many long time Preview features appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/ga-of-many-long-time-preview-features/",
-          "publishedOn": "2024-06-24T10:28:12.000Z",
-          "wordCount": 3425,
-          "title": "GA of many long time Preview features",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Screenshot-2024-06-20-182948-1024x885.webp"
         }
       ]
     },
