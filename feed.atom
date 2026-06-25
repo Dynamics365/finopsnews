@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-24T03:53:29.008Z</updated>
+    <updated>2026-06-25T03:54:10.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Terminal is No Longer for Commands: Building the Agentic Developer Stack]]></title>
+        <id>https://365community.online/the-terminal-is-no-longer-for-commands-building-the-agentic-developer-stack</id>
+        <link href="https://365community.online/the-terminal-is-no-longer-for-commands-building-the-agentic-developer-stack"/>
+        <updated>2026-06-25T02:46:22.000Z</updated>
+        <summary type="html"><![CDATA[The software development world is undergoing its biggest transformation since the introduction of modern IDEs. For decades, the terminal served a simple purpose: execute commands and return results. Developers wrote code, ran commands, reviewed outputs, and manually orchestrated every step of the software delivery lifecycle.That model is rapidly changing.In this episode, we explore how AI […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read]]></title>
         <id>https://alexdmeyer.com/?p=4007</id>
@@ -18,6 +28,78 @@ The post The D365FSC Security Configuration Form: When “Read” Doesn’t Mean
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read]]></title>
+        <id>https://365community.online/the-d365fsc-security-configuration-form-when-read-doesnt-mean-read</id>
+        <link href="https://365community.online/the-d365fsc-security-configuration-form-when-read-doesnt-mean-read"/>
+        <updated>2026-06-23T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent any time building custom security in Dynamics 365 Finance & Supply Chain Management, you know that assigning Read access to an object means you have the ability to view the record but cannot create new records and can’t edit or delete the record. But are there some forms that don’t follow this […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of Custom APIs: Microsoft Refine (Rayfin) as a Backend as a Service (BaaS)]]></title>
+        <id>https://365community.online/the-death-of-custom-apis-microsoft-refine-rayfin-as-a-backend-as-a-service-baas</id>
+        <link href="https://365community.online/the-death-of-custom-apis-microsoft-refine-rayfin-as-a-backend-as-a-service-baas"/>
+        <updated>2026-06-23T13:00:44.000Z</updated>
+        <summary type="html"><![CDATA[For years, custom APIs have been the foundation of modern application development. Whenever organizations needed to connect systems, expose data, automate processes, or enable new digital experiences, the answer was almost always the same: build another API.At first, the approach worked.Each API solved a specific problem and helped teams move faster. But over time, those […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot sessions: obtaining tips for better usage.]]></title>
+        <id>https://365community.online/github-copilot-sessions-obtaining-tips-for-better-usage</id>
+        <link href="https://365community.online/github-copilot-sessions-obtaining-tips-for-better-usage"/>
+        <updated>2026-06-23T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve discovered that few people know some useful hidden things around GitHub Copilot and this is the main reason of this quick post. Every time you start a session, GitHub Copilot builds under the hood a searchable history of everything you work on and then you can ask natural language questions about past sessions, search […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We Replacing Clicks With Prompts?]]></title>
+        <id>https://365community.online/are-we-replacing-clicks-with-prompts</id>
+        <link href="https://365community.online/are-we-replacing-clicks-with-prompts"/>
+        <updated>2026-06-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One thing has been bothering me lately. For as long as I’ve worked with CRM systems, people have complained about clicks. Too many clicks, too many screens, too many forms, and too many places where hope quietly dies between Save or Save & Close. I honestly can’t count the number of workshops where someone proudly […]]]></summary>
+        <author>
+            <name>Thomas Sandsør</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Up Verbatim Knowledge Responses in Dynamics 365 – YouTube]]></title>
+        <id>https://365community.online/set-up-verbatim-knowledge-responses-in-dynamics-365-youtube</id>
+        <link href="https://365community.online/set-up-verbatim-knowledge-responses-in-dynamics-365-youtube"/>
+        <updated>2026-06-23T07:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Set Up Verbatim Knowledge Responses in Dynamics 365 In this video, I take a look at one of the newest capabilities in Dynamics 365 Customer Service: verbatim knowledge responses. We all know and love Copilot in the Customer Service sidecar: the AI assistant that helps Customer Service Representatives find information from knowledge articles and turn […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer experience leadership in the age of AI: A new operating model with Dynamics 365]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202395</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/22/customer-experience-leadership-in-the-age-of-ai-a-new-operating-model-with-dynamics-365/"/>
+        <updated>2026-06-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft 2026 Work Trend Index is clear: the constraint on transformation is not people, but the gap between what employees can do and what organizations are built to support.
+The post Customer experience leadership in the age of AI: A new operating model with Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Darya Mazandarany and Deva Rajamohan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize workforce operations across people and AI agents with Dynamics 365]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202503</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/22/workforce-engagement-management-dynamics-3/"/>
+        <updated>2026-06-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Workforce engagement management in Dynamics 365 helps service organizations plan, manage, and improve performance across customer service reps and AI agents. With forecasting, scheduling, real-time adherence, AI Agent Estimator, quality evaluation, governance, and coaching capabilities built into the service platform, teams can create a more connected and responsive operating model.
+The post Optimize workforce operations across people and AI agents with Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Alan Ross</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why I am betting on the Microsoft stack]]></title>
         <id>https://kurthatlevik.com/?p=5315</id>
         <link href="https://kurthatlevik.com/2026/06/22/why-i-am-betting-on-the-microsoft-stack/"/>
@@ -25,6 +107,46 @@ The post The D365FSC Security Configuration Form: When “Read” Doesn’t Mean
         <summary type="html"><![CDATA[I have been thinking quite a bit about the AI direction for Microsoft partners lately, as the landscape over the past year has been exploding. The question for a Microsoft partner should not only be: which model is best this month? That will continue to change. The better question is: where can we build repeatable … Continue reading Why I am betting on the Microsoft stack]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I am betting on the Microsoft stack]]></title>
+        <id>https://365community.online/why-i-am-betting-on-the-microsoft-stack</id>
+        <link href="https://365community.online/why-i-am-betting-on-the-microsoft-stack"/>
+        <updated>2026-06-22T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[I have been thinking quite a bit about the AI direction for Microsoft partners lately, as the landscape over the past year has been exploding. The question for a Microsoft partner should not only be: which model is best this month? That will continue to change. The better question is: where can we build repeatable […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing Your Creativity: Building AI Assistants with Microsof…]]></title>
+        <id>https://365community.online/unleashing-your-creativity-building-ai-assistants-with-microsof</id>
+        <link href="https://365community.online/unleashing-your-creativity-building-ai-assistants-with-microsof"/>
+        <updated>2026-06-22T12:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Imagine being in a race against time, where the finish line is a fully operational AI assistant that you built yourself in just 24 hours. This was the exhilarating challenge I faced while participating in the Copilot Studio Challenge. With tools that required no coding know-how, I dove headfirst into the world of AI and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Context Is Expensive: 15 Ways to Cut Agent Costs – YouTube]]></title>
+        <id>https://365community.online/ai-context-is-expensive-15-ways-to-cut-agent-costs-youtube</id>
+        <link href="https://365community.online/ai-context-is-expensive-15-ways-to-cut-agent-costs-youtube"/>
+        <updated>2026-06-22T11:00:22.000Z</updated>
+        <summary type="html"><![CDATA[AI Context Is Expensive: 15 Ways to Cut Agent Costs]]></summary>
+        <author>
+            <name>Power Squared</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Como salvar anexos automaticamente usando o Power Automate e o SharePoint – YouTube]]></title>
+        <id>https://365community.online/como-salvar-anexos-automaticamente-usando-o-power-automate-e-o-sharepoint-youtube</id>
+        <link href="https://365community.online/como-salvar-anexos-automaticamente-usando-o-power-automate-e-o-sharepoint-youtube"/>
+        <updated>2026-06-22T10:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Meus cursos na Udemy e na Hotmart ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Udemy. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Hotmart. https://go.hotmart.com/S74000868Y ♐ Adquira meu curso Avançado de PowerApps na Hotmart. https://go.hotmart.com/U98457324E ♐ Quer aprender SharePoint Framework(SPFx)? Adquira […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
         </author>
     </entry>
     <entry>
@@ -55344,167 +55466,6 @@ The post Discover the power of Copilot in Dynamics 365 Project Operations for fa
         <summary type="html"><![CDATA[One of the new features of Copilot in Business Central is the sales line suggestions. With them, we can quickly obtain proposals for sales lines using natural language. Now, as […]]]></summary>
         <author>
             <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom Document Validation using AI Builder within Power Pages]]></title>
-        <id>https://365community.online/custom-document-validation-using-ai-builder-within-power-pages</id>
-        <link href="https://365community.online/custom-document-validation-using-ai-builder-within-power-pages"/>
-        <updated>2024-06-25T10:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Power Pages is a component of Microsoft’s Power Platform, designed to enable users to build, manage, and host modern, secure, and responsive business websites with minimal coding. It integrates seamlessly […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torne-se um Citizen Developer – Aula 5 – YouTube]]></title>
-        <id>https://365community.online/torne-se-um-citizen-developer-aula-5-youtube</id>
-        <link href="https://365community.online/torne-se-um-citizen-developer-aula-5-youtube"/>
-        <updated>2024-06-25T10:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Torne-se um Citizen Developer – Aula 5 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Understand Relationships Between Number Series]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-relationships-between-number-series</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-relationships-between-number-series"/>
-        <updated>2024-06-25T10:00:39.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restore deleted Dataverse rows with the Recycle Bin(preview)]]></title>
-        <id>https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview</id>
-        <link href="https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview"/>
-        <updated>2024-06-25T08:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Any organization that uses any type of system may at some point in time need to delete records or rows from their database(s). This can be for various reasons, like […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restore deleted Dataverse rows with the Recycle Bin(preview) – YouTube]]></title>
-        <id>https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview-youtube</id>
-        <link href="https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview-youtube"/>
-        <updated>2024-06-25T08:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Restore deleted Dataverse rows with the Recycle Bin(preview) Sometimes you might need to reverse a deletion and restore/recover data that was deleted. If your organization is using Dataverse to build […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Display Custom Message When Marketing Form Blocked By Browser]]></title>
-        <id>https://365community.online/display-custom-message-when-marketing-form-blocked-by-browser</id>
-        <link href="https://365community.online/display-custom-message-when-marketing-form-blocked-by-browser"/>
-        <updated>2024-06-25T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I love our community that blogs about and shares content on the Power Platform. It’s awesome having others there who are able to help or we can collaborate with. Amey […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI summarization in Dynamics 365 synthesizes and simplifies complex data]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/24/ai-summarization-in-dynamics-365-synthesizes-and-simplifie-complex-data/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/24/ai-summarization-in-dynamics-365-synthesizes-and-simplifie-complex-data/"/>
-        <updated>2024-06-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As enterprises are asked to manage increasingly complex data environments, the generative AI summarization capabilities of Copilot in Microsoft Dynamics 365 streamline operations by synthesizing complex data from multiple sources across Supply Chain Management, Finance, Commerce, and Human Resources.
-The post AI summarization in Dynamics 365 synthesizes and simplifies complex data appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Anupam Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installation of one or more roles, role services, or features failed. Error: 0x800f0954]]></title>
-        <id>https://365community.online/installation-of-one-or-more-roles-role-services-or-features-failed-error-0x800f0954</id>
-        <link href="https://365community.online/installation-of-one-or-more-roles-role-services-or-features-failed-error-0x800f0954"/>
-        <updated>2024-06-24T15:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Installation of one or more roles, role services, or features failed. Error: 0x800f0954 06/24/24 LBD Installation of one or more roles, role services, or features failed. Error: 0x800f0954 when configuration […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.5]]></title>
-        <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5</id>
-        <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5"/>
-        <updated>2024-06-24T14:29:37.000Z</updated>
-        <summary type="html"><![CDATA[It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This […]]]></summary>
-        <author>
-            <name>Alex Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovative Access Control Strategies – YouTube]]></title>
-        <id>https://365community.online/innovative-access-control-strategies-youtube</id>
-        <link href="https://365community.online/innovative-access-control-strategies-youtube"/>
-        <updated>2024-06-24T14:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Learn innovative access control strategies for securing AD DS and designing IAM solutions for the sc-100 exam in this comprehensive video guide. Episode Breakdown – 00:00 – Episode Intro 00:56 […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redirect AVD URL with a static web app]]></title>
-        <id>https://365community.online/redirect-avd-url-with-a-static-web-app</id>
-        <link href="https://365community.online/redirect-avd-url-with-a-static-web-app"/>
-        <updated>2024-06-24T12:16:04.000Z</updated>
-        <summary type="html"><![CDATA[When you read the title like this, you think "That could be pretty handy!". So that's why I put it in writing. I had this a recent customer, where I […]]]></summary>
-        <author>
-            <name>Jeroen Burgerhout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Power Platform Conference (EPPC) 2024 Highlights: Announcements, Updates and Brussels!]]></title>
-        <id>https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels</id>
-        <link href="https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels"/>
-        <updated>2024-06-24T12:06:16.000Z</updated>
-        <summary type="html"><![CDATA[This time, let’s do things differently! We are thrilled to announce that we are back at one of the biggest yearly Power Platform events for the amazing Power Platform Community […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot en Business Central : Sugerencias de líneas venta.]]></title>
-        <id>https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta</id>
-        <link href="https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta"/>
-        <updated>2024-06-24T10:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Una de las nuevas características de Copilot en Business Central son la sugerencias de líneas de venta. Con ellas podemos obtener usando lenguaje natural propuestas de líneas venta rápidamente. Ahora […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Understand the Master Data Management]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management"/>
-        <updated>2024-06-24T10:00:10.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Recycle Bin to restore deleted records (Preview)– Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365</id>
-        <link href="https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365"/>
-        <updated>2024-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To enable the feature, log in to Power Platform Admin Center https://admin.powerplatform.microsoft.com/environments Environment >> Settings >> Features and enable it We can specify 30 days as the maximum recovery time. […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio – DTMF Only Mode in IVR]]></title>
-        <id>https://365community.online/copilot-studio-dtmf-only-mode-in-ivr</id>
-        <link href="https://365community.online/copilot-studio-dtmf-only-mode-in-ivr"/>
-        <updated>2024-06-23T05:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Recently one of my LinkedIn contacts reached out with an excellent question about Microsoft’s Omnichannel for Customer Service and Copilot Studio BOTs …. “With a new style Copilot Studio voice […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
         </author>
     </entry>
 </feed>

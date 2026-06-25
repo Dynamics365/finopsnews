@@ -518,6 +518,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-terminal-is-no-longer-for-commands-building-the-agentic-developer-stack",
+          "author": "Mirko Peters",
+          "description": "The software development world is undergoing its biggest transformation since the introduction of modern IDEs. For decades, the terminal served a simple purpose: execute commands and return results. Developers wrote code, ran commands, reviewed outputs, and manually orchestrated every step of the software delivery lifecycle.That model is rapidly changing.In this episode, we explore how AI […]",
+          "link": "https://365community.online/the-terminal-is-no-longer-for-commands-building-the-agentic-developer-stack",
+          "publishedOn": "2026-06-25T02:46:22.000Z",
+          "wordCount": 2772,
+          "title": "The Terminal is No Longer for Commands: Building the Agentic Developer Stack",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/b114158aeb2755de780d14fed20dc80c.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-d365fsc-security-configuration-form-when-read-doesnt-mean-read",
+          "author": "Alex Meyer",
+          "description": "If you’ve spent any time building custom security in Dynamics 365 Finance & Supply Chain Management, you know that assigning Read access to an object means you have the ability to view the record but cannot create new records and can’t edit or delete the record. But are there some forms that don’t follow this […]",
+          "link": "https://365community.online/the-d365fsc-security-configuration-form-when-read-doesnt-mean-read",
+          "publishedOn": "2026-06-23T15:10:00.000Z",
+          "wordCount": 2879,
+          "title": "The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/The-D365FSC-Security-Configuration-Form-When-Read-Doesnt-Mean-Read.png?fit=806%2C462&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-death-of-custom-apis-microsoft-refine-rayfin-as-a-backend-as-a-service-baas",
+          "author": "Mirko Peters",
+          "description": "For years, custom APIs have been the foundation of modern application development. Whenever organizations needed to connect systems, expose data, automate processes, or enable new digital experiences, the answer was almost always the same: build another API.At first, the approach worked.Each API solved a specific problem and helped teams move faster. But over time, those […]",
+          "link": "https://365community.online/the-death-of-custom-apis-microsoft-refine-rayfin-as-a-backend-as-a-service-baas",
+          "publishedOn": "2026-06-23T13:00:44.000Z",
+          "wordCount": 2907,
+          "title": "The Death of Custom APIs: Microsoft Refine (Rayfin) as a Backend as a Service (BaaS)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/6fa93c6c0bcb997f7fe1e724f76b5e8d.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/github-copilot-sessions-obtaining-tips-for-better-usage",
+          "author": "Stefano Demiliani",
+          "description": "I’ve discovered that few people know some useful hidden things around GitHub Copilot and this is the main reason of this quick post. Every time you start a session, GitHub Copilot builds under the hood a searchable history of everything you work on and then you can ask natural language questions about past sessions, search […]",
+          "link": "https://365community.online/github-copilot-sessions-obtaining-tips-for-better-usage",
+          "publishedOn": "2026-06-23T08:20:00.000Z",
+          "wordCount": 2600,
+          "title": "GitHub Copilot sessions: obtaining tips for better usage.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/GitHub-Copilot-sessions-obtaining-tips-for-better-usage.png?fit=607%2C271&ssl=1"
+        },
+        {
+          "id": "https://365community.online/are-we-replacing-clicks-with-prompts",
+          "author": "Thomas Sandsør",
+          "description": "One thing has been bothering me lately. For as long as I’ve worked with CRM systems, people have complained about clicks. Too many clicks, too many screens, too many forms, and too many places where hope quietly dies between Save or Save & Close. I honestly can’t count the number of workshops where someone proudly […]",
+          "link": "https://365community.online/are-we-replacing-clicks-with-prompts",
+          "publishedOn": "2026-06-23T08:00:00.000Z",
+          "wordCount": 2637,
+          "title": "Are We Replacing Clicks With Prompts?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Are-We-Replacing-Clicks-With-Prompts.png?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/set-up-verbatim-knowledge-responses-in-dynamics-365-youtube",
+          "author": "Dian Taylor",
+          "description": "Set Up Verbatim Knowledge Responses in Dynamics 365 In this video, I take a look at one of the newest capabilities in Dynamics 365 Customer Service: verbatim knowledge responses. We all know and love Copilot in the Customer Service sidecar: the AI assistant that helps Customer Service Representatives find information from knowledge articles and turn […]",
+          "link": "https://365community.online/set-up-verbatim-knowledge-responses-in-dynamics-365-youtube",
+          "publishedOn": "2026-06-23T07:33:24.000Z",
+          "wordCount": 2290,
+          "title": "Set Up Verbatim Knowledge Responses in Dynamics 365 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1782221123_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-i-am-betting-on-the-microsoft-stack",
+          "author": "Kurt Hatlevik",
+          "description": "I have been thinking quite a bit about the AI direction for Microsoft partners lately, as the landscape over the past year has been exploding. The question for a Microsoft partner should not only be: which model is best this month? That will continue to change. The better question is: where can we build repeatable […]",
+          "link": "https://365community.online/why-i-am-betting-on-the-microsoft-stack",
+          "publishedOn": "2026-06-22T13:56:00.000Z",
+          "wordCount": 1959,
+          "title": "Why I am betting on the Microsoft stack",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Why-I-am-betting-on-the-Microsoft-stack.png?fit=875%2C867&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unleashing-your-creativity-building-ai-assistants-with-microsof",
+          "author": "Mirko Peters",
+          "description": "Imagine being in a race against time, where the finish line is a fully operational AI assistant that you built yourself in just 24 hours. This was the exhilarating challenge I faced while participating in the Copilot Studio Challenge. With tools that required no coding know-how, I dove headfirst into the world of AI and […]",
+          "link": "https://365community.online/unleashing-your-creativity-building-ai-assistants-with-microsof",
+          "publishedOn": "2026-06-22T12:25:51.000Z",
+          "wordCount": 5951,
+          "title": "Unleashing Your Creativity: Building AI Assistants with Microsof…",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/ai-context-is-expensive-15-ways-to-cut-agent-costs-youtube",
+          "author": "Power Squared",
+          "description": "AI Context Is Expensive: 15 Ways to Cut Agent Costs",
+          "link": "https://365community.online/ai-context-is-expensive-15-ways-to-cut-agent-costs-youtube",
+          "publishedOn": "2026-06-22T11:00:22.000Z",
+          "wordCount": 1919,
+          "title": "AI Context Is Expensive: 15 Ways to Cut Agent Costs – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1782130657_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/como-salvar-anexos-automaticamente-usando-o-power-automate-e-o-sharepoint-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Meus cursos na Udemy e na Hotmart ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Udemy. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Adquira meu curso Aprenda SharePoint, Power Apps e Power Automate do zero na Hotmart. https://go.hotmart.com/S74000868Y ♐ Adquira meu curso Avançado de PowerApps na Hotmart. https://go.hotmart.com/U98457324E ♐ Quer aprender SharePoint Framework(SPFx)? Adquira […]",
+          "link": "https://365community.online/como-salvar-anexos-automaticamente-usando-o-power-automate-e-o-sharepoint-youtube",
+          "publishedOn": "2026-06-22T10:00:28.000Z",
+          "wordCount": 1992,
+          "title": "Como salvar anexos automaticamente usando o Power Automate e o SharePoint – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1782211246_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-1-of-4-2",
           "author": "Mirko Peters",
           "description": "✅ Can Microsoft Teams Be Used for Project Management? Yes – Microsoft Teams can be used as a complete project management platform when it is configured correctly. While many organizations only use Teams for chat and meetings, its real power comes from its deep integration with Microsoft Planner, Microsoft Lists, SharePoint, and Power Automate. When […]",
@@ -42211,156 +42311,6 @@
           "wordCount": 3255,
           "title": "Copilot in Business Central : Suggest lines on sales documents.",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Copilot-en-Business-Central-Sugerencias-de-lineas-venta.jpg?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/custom-document-validation-using-ai-builder-within-power-pages",
-          "author": "Inogic",
-          "description": "Power Pages is a component of Microsoft’s Power Platform, designed to enable users to build, manage, and host modern, secure, and responsive business websites with minimal coding. It integrates seamlessly […]",
-          "link": "https://365community.online/custom-document-validation-using-ai-builder-within-power-pages",
-          "publishedOn": "2024-06-25T10:37:51.000Z",
-          "wordCount": 3508,
-          "title": "Custom Document Validation using AI Builder within Power Pages",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Custom-Document-Validation-using-AI-Builder-within-Power-Pages.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/torne-se-um-citizen-developer-aula-5-youtube",
-          "author": "Victor Dantas",
-          "description": "Torne-se um Citizen Developer – Aula 5 source",
-          "link": "https://365community.online/torne-se-um-citizen-developer-aula-5-youtube",
-          "publishedOn": "2024-06-25T10:05:41.000Z",
-          "wordCount": 3120,
-          "title": "Torne-se um Citizen Developer – Aula 5 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719338254_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-relationships-between-number-series",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-relationships-between-number-series",
-          "publishedOn": "2024-06-25T10:00:39.000Z",
-          "wordCount": 3277,
-          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Understand Relationships Between Number Series",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview",
-          "author": "Dian Taylor",
-          "description": "Any organization that uses any type of system may at some point in time need to delete records or rows from their database(s). This can be for various reasons, like […]",
-          "link": "https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview",
-          "publishedOn": "2024-06-25T08:11:00.000Z",
-          "wordCount": 3264,
-          "title": "Restore deleted Dataverse rows with the Recycle Bin(preview)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview-youtube",
-          "author": "Dian Taylor",
-          "description": "Restore deleted Dataverse rows with the Recycle Bin(preview) Sometimes you might need to reverse a deletion and restore/recover data that was deleted. If your organization is using Dataverse to build […]",
-          "link": "https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview-youtube",
-          "publishedOn": "2024-06-25T08:09:00.000Z",
-          "wordCount": 3307,
-          "title": "Restore deleted Dataverse rows with the Recycle Bin(preview) – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719350137_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/display-custom-message-when-marketing-form-blocked-by-browser",
-          "author": "Megan V. Walker",
-          "description": "I love our community that blogs about and shares content on the Power Platform. It’s awesome having others there who are able to help or we can collaborate with. Amey […]",
-          "link": "https://365community.online/display-custom-message-when-marketing-form-blocked-by-browser",
-          "publishedOn": "2024-06-25T07:30:00.000Z",
-          "wordCount": 3233,
-          "title": "Display Custom Message When Marketing Form Blocked By Browser",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Display-Custom-Message-When-Marketing-Form-Blocked-By-Browser.jpg?fit=1200%2C724&ssl=1"
-        },
-        {
-          "id": "https://365community.online/installation-of-one-or-more-roles-role-services-or-features-failed-error-0x800f0954",
-          "author": "Nathan Clouse",
-          "description": "Installation of one or more roles, role services, or features failed. Error: 0x800f0954 06/24/24 LBD Installation of one or more roles, role services, or features failed. Error: 0x800f0954 when configuration […]",
-          "link": "https://365community.online/installation-of-one-or-more-roles-role-services-or-features-failed-error-0x800f0954",
-          "publishedOn": "2024-06-24T15:14:13.000Z",
-          "wordCount": 3263,
-          "title": "Installation of one or more roles, role services, or features failed. Error: 0x800f0954",
-          "imageUrl": "https://365community.online/wp-content/uploads/2024/06/Installation-of-one-or-more-roles-role-services-or-features.jpg"
-        },
-        {
-          "id": "https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5",
-          "author": "Alex Meyer",
-          "description": "It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This […]",
-          "link": "https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5",
-          "publishedOn": "2024-06-24T14:29:37.000Z",
-          "wordCount": 3257,
-          "title": "New Release of D365FO Admin Toolkit v1.5",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/New-Release-of-D365FO-Admin-Toolkit-v15.png?fit=222%2C403&ssl=1"
-        },
-        {
-          "id": "https://365community.online/innovative-access-control-strategies-youtube",
-          "author": "shabaz darr",
-          "description": "Learn innovative access control strategies for securing AD DS and designing IAM solutions for the sc-100 exam in this comprehensive video guide. Episode Breakdown – 00:00 – Episode Intro 00:56 […]",
-          "link": "https://365community.online/innovative-access-control-strategies-youtube",
-          "publishedOn": "2024-06-24T14:20:36.000Z",
-          "wordCount": 3172,
-          "title": "Innovative Access Control Strategies – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719239141_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/redirect-avd-url-with-a-static-web-app",
-          "author": "Jeroen Burgerhout",
-          "description": "When you read the title like this, you think \"That could be pretty handy!\". So that's why I put it in writing. I had this a recent customer, where I […]",
-          "link": "https://365community.online/redirect-avd-url-with-a-static-web-app",
-          "publishedOn": "2024-06-24T12:16:04.000Z",
-          "wordCount": 3240,
-          "title": "Redirect AVD URL with a static web app",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Redirect-AVD-URL-with-a-static-web-app-scaled.jpeg?fit=802%2C1200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels",
-          "author": "Inogic",
-          "description": "This time, let’s do things differently! We are thrilled to announce that we are back at one of the biggest yearly Power Platform events for the amazing Power Platform Community […]",
-          "link": "https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels",
-          "publishedOn": "2024-06-24T12:06:16.000Z",
-          "wordCount": 3534,
-          "title": "European Power Platform Conference (EPPC) 2024 Highlights: Announcements, Updates and Brussels!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/European-Power-Platform-Conference-2024-1.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta",
-          "author": "jarmesto",
-          "description": "Una de las nuevas características de Copilot en Business Central son la sugerencias de líneas de venta. Con ellas podemos obtener usando lenguaje natural propuestas de líneas venta rápidamente. Ahora […]",
-          "link": "https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta",
-          "publishedOn": "2024-06-24T10:00:43.000Z",
-          "wordCount": 3241,
-          "title": "Copilot en Business Central : Sugerencias de líneas venta.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Copilot-en-Business-Central-Sugerencias-de-lineas-venta.jpg?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management",
-          "publishedOn": "2024-06-24T10:00:10.000Z",
-          "wordCount": 3278,
-          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Understand the Master Data Management",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "To enable the feature, log in to Power Platform Admin Center https://admin.powerplatform.microsoft.com/environments Environment >> Settings >> Features and enable it We can specify 30 days as the maximum recovery time. […]",
-          "link": "https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365",
-          "publishedOn": "2024-06-24T05:00:00.000Z",
-          "wordCount": 3292,
-          "title": "Use Recycle Bin to restore deleted records (Preview)– Dataverse / Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Use-Recycle-Bin-to-restore-deleted-records-Preview–-Dataverse.png?fit=1024%2C768&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-studio-dtmf-only-mode-in-ivr",
-          "author": "Neil Parkhurst",
-          "description": "Recently one of my LinkedIn contacts reached out with an excellent question about Microsoft’s Omnichannel for Customer Service and Copilot Studio BOTs …. “With a new style Copilot Studio voice […]",
-          "link": "https://365community.online/copilot-studio-dtmf-only-mode-in-ivr",
-          "publishedOn": "2024-06-23T05:26:20.000Z",
-          "wordCount": 3232,
-          "title": "Copilot Studio – DTMF Only Mode in IVR",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Copilot-Studio-–-DTMF-Only-Mode-in-IVR.png?fit=1024%2C1024&ssl=1"
         }
       ]
     },
@@ -45064,6 +45014,26 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202395",
+          "author": "Darya Mazandarany and Deva Rajamohan",
+          "description": "The Microsoft 2026 Work Trend Index is clear: the constraint on transformation is not people, but the gap between what employees can do and what organizations are built to support.\nThe post Customer experience leadership in the age of AI: A new operating model with Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/22/customer-experience-leadership-in-the-age-of-ai-a-new-operating-model-with-dynamics-365/",
+          "publishedOn": "2026-06-22T15:00:00.000Z",
+          "wordCount": 6730,
+          "title": "Customer experience leadership in the age of AI: A new operating model with Dynamics 365",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/team-meeting-collaboration-office-project-planning-1024x576.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202503",
+          "author": "Alan Ross",
+          "description": "Workforce engagement management in Dynamics 365 helps service organizations plan, manage, and improve performance across customer service reps and AI agents. With forecasting, scheduling, real-time adherence, AI Agent Estimator, quality evaluation, governance, and coaching capabilities built into the service platform, teams can create a more connected and responsive operating model.\nThe post Optimize workforce operations across people and AI agents with Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/22/workforce-engagement-management-dynamics-3/",
+          "publishedOn": "2026-06-22T15:00:00.000Z",
+          "wordCount": 6513,
+          "title": "Optimize workforce operations across people and AI agents with Dynamics 365",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/AdobeStock_2059153319-scaled.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202520",
           "author": "Heer Patel and Jonathan Baker",
           "description": "Field Service Mobile just got smarter.\nThe post What’s New in Dynamics 365 Field Service Mobile appeared first on Microsoft Dynamics 365 Blog.",
@@ -47352,16 +47322,6 @@
           "wordCount": 3579,
           "title": "Discover the power of Copilot in Dynamics 365 Project Operations for faster time entry",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/06/D365_Blog_Lifestyle_Abstract-08.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/24/ai-summarization-in-dynamics-365-synthesizes-and-simplifie-complex-data/",
-          "author": "Anupam Sharma",
-          "description": "As enterprises are asked to manage increasingly complex data environments, the generative AI summarization capabilities of Copilot in Microsoft Dynamics 365 streamline operations by synthesizing complex data from multiple sources across Supply Chain Management, Finance, Commerce, and Human Resources.\nThe post AI summarization in Dynamics 365 synthesizes and simplifies complex data appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/24/ai-summarization-in-dynamics-365-synthesizes-and-simplifie-complex-data/",
-          "publishedOn": "2024-06-24T22:00:00.000Z",
-          "wordCount": 4264,
-          "title": "AI summarization in Dynamics 365 synthesizes and simplifies complex data",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/06/CLO22_Factory_002-1024x683.jpg"
         }
       ]
     },
