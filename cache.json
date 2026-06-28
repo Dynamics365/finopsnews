@@ -44581,26 +44581,6 @@
           "wordCount": 1743,
           "title": "BatchRetryable Top Picking Batch Job Example",
           "imageUrl": null
-        },
-        {
-          "id": "1702 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "BatchRetryable Bundled Batch Job Example\n\n\n\n\n\n\n06/27/24\n\n\n\n\n\n\n\n\n\n\n\n\nBatchRetryable Bundled Batch Job Example\n\nI recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Batch bundling with a review of the code and design. Batch Bundling is a way of designing and managing a batch workload to be a collection of work bundles that need to be executed. This means that tasks are grouped together under 1 batch job with multiple task bundles where each task is given a set of work to accomplish as part of that tasks workload. In my last article on this, I compared batch capacity to be like a highway. If Individual task modeling is letting cars on the highway one at …",
-          "link": "https://www.atomicax.com/blog-entry/batchretryable-bundled-batch-job-example",
-          "publishedOn": "2024-06-28T01:20:25.000Z",
-          "wordCount": 1390,
-          "title": "BatchRetryable Bundled Batch Job Example",
-          "imageUrl": null
-        },
-        {
-          "id": "1704 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 06/27/24.\n\n\nLast modified: \n\n06/27/24\n\n\n\n\n\n\n\n\n\n\n\n\nPowerShell Script to Deploy an UNO Environment\nBelow is a PowerShell script to deploy a unified developer environment for F&O. But first, be sure to read Aurélien CLERE's great blog post about this type of environment. You should also check out this tech talk on the UDE environment type and some additional reading from MSFT. I found myself having to deploy a few of the UDE environments so I upgraded the PS Script form Aurélien's blog so it will prompt for a  display name. That's all.\n \n\n# Function to remove spaces from a string\n# Function to remove non-alphanumeric characters from a string\n# Prompt for the environment display name\n# Clean up the instance name\n# Install the necessary module\n# Create a session against the Power Platform API\n# Construct the JSON object to pass in\n# Kick off new environment provisioning\nWrite-Host \"Environment provisioning initiated successfully!\"\n\n\n\n\nView the discussion thread.",
-          "link": "https://www.atomicax.com/article/powershell-deploy-ppac-uno-environment",
-          "publishedOn": "2024-06-28T00:55:59.000Z",
-          "wordCount": 993,
-          "title": "Powershell to Deploy a PPAC UNO Environment",
-          "imageUrl": null
         }
       ]
     },
@@ -45073,6 +45053,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/25/autonomous-email-resolution-dynamics-365/",
+          "author": "Ramnath Srinivasan, Saurabh Gupta and Harish Tyagi",
+          "description": "Autonomous Email Resolution is a generative AI-powered capability that helps service teams resolve customer emails end to end. It understands the customer’s request, identifies the intent, determines whether the required information is available, and generates a resolution-ready response using enterprise knowledge, configured instructions, connectors, and custom agents.\nThe post Revolutionizing customer support with autonomous email resolution appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/25/autonomous-email-resolution-dynamics-365/",
+          "publishedOn": "2026-06-25T15:19:38.000Z",
+          "wordCount": 5722,
+          "title": "Revolutionizing customer support with autonomous email resolution",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/05/AdobeStock_437795863-scaled.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202576",
+          "author": "Ryan Braadstad",
+          "description": "When sellers can access customer context, relationship insights, next best actions, and agentic recommendations inside the tools they already use every day, they can respond faster, engage more thoughtfully, and build trust more consistently at every stage of the buying journey.\nThe post Agentic CRM in the flow of work: How AI is transforming sales and rebuilding customer trust appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/25/agentic-crm-in-the-flow-of-work-how-ai-is-transforming-sales-and-rebuilding-customer-trust/",
+          "publishedOn": "2026-06-25T15:00:00.000Z",
+          "wordCount": 7129,
+          "title": "Agentic CRM in the flow of work: How AI is transforming sales and rebuilding customer trust",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/dynamics-365-sales-collaboration-customer-meeting-workflow-1024x576.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202395",
           "author": "Darya Mazandarany and Deva Rajamohan",
@@ -47362,16 +47362,6 @@
           "wordCount": 3330,
           "title": "Microsoft Dynamics 365 Contact Center is now generally available",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/07/MSFT_D365_JUN26_351074_Blog_Blogheader_240626_V3-social-6.27.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/27/use-expanded-copilot-for-service-capabilities-in-your-crm/",
-          "author": "Tina Ding and Hardik Sanghavi",
-          "description": "On July 1, we are introducing several new capabilities in Copilot for Service to further support agents working in their CRM of choice. \nThe post Use expanded Copilot for Service capabilities in your CRM appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/27/use-expanded-copilot-for-service-capabilities-in-your-crm/",
-          "publishedOn": "2024-06-27T17:00:00.000Z",
-          "wordCount": 3061,
-          "title": "Use expanded Copilot for Service capabilities in your CRM",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/MSFT_M365_FEB23_320727_Blog_Blogheader_240227_V03_1200.png"
         }
       ]
     },

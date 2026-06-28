@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-27T03:44:16.505Z</updated>
+    <updated>2026-06-28T04:08:01.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -15,6 +15,28 @@
 The post Biens ou Services ou Mixte? appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing customer support with autonomous email resolution]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/25/autonomous-email-resolution-dynamics-365/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/25/autonomous-email-resolution-dynamics-365/"/>
+        <updated>2026-06-25T15:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Autonomous Email Resolution is a generative AI-powered capability that helps service teams resolve customer emails end to end. It understands the customer’s request, identifies the intent, determines whether the required information is available, and generates a resolution-ready response using enterprise knowledge, configured instructions, connectors, and custom agents.
+The post Revolutionizing customer support with autonomous email resolution appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ramnath Srinivasan, Saurabh Gupta and Harish Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic CRM in the flow of work: How AI is transforming sales and rebuilding customer trust]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202576</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/25/agentic-crm-in-the-flow-of-work-how-ai-is-transforming-sales-and-rebuilding-customer-trust/"/>
+        <updated>2026-06-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When sellers can access customer context, relationship insights, next best actions, and agentic recommendations inside the tools they already use every day, they can respond faster, engage more thoughtfully, and build trust more consistently at every stage of the buying journey.
+The post Agentic CRM in the flow of work: How AI is transforming sales and rebuilding customer trust appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ryan Braadstad</name>
         </author>
     </entry>
     <entry>
@@ -55118,38 +55140,6 @@ I recently presented at DynamicsMinds on batch jobs and how to design them for
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BatchRetryable Bundled Batch Job Example]]></title>
-        <id>1702 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/blog-entry/batchretryable-bundled-batch-job-example"/>
-        <updated>2024-06-28T01:20:25.000Z</updated>
-        <summary type="html"><![CDATA[BatchRetryable Bundled Batch Job Example
-
-
-
-
-
-
-06/27/24
-
-
-
-
-
-
-
-
-
-
-
-
-BatchRetryable Bundled Batch Job Example
-
-I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Batch bundling with a review of the code and design. Batch Bundling is a way of designing and managing a batch workload to be a collection of work bundles that need to be executed. This means that tasks are grouped together under 1 batch job with multiple task bundles where each task is given a set of work to accomplish as part of that tasks workload. In my last article on this, I compared batch capacity to be like a highway. If Individual task modeling is letting cars on the highway one at …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Powershell to Deploy a PPAC UNO Environment]]></title>
         <id>https://365community.online/powershell-to-deploy-a-ppac-uno-environment</id>
         <link href="https://365community.online/powershell-to-deploy-a-ppac-uno-environment"/>
@@ -55157,62 +55147,6 @@ I recently presented at DynamicsMinds on batch jobs and how to design them for
         <summary type="html"><![CDATA[Submitted by Nathan Clouse on 06/27/24. Last modified:  06/27/24 PowerShell Script to Deploy an UNO Environment Below is a PowerShell script to deploy a unified developer environment for F&O. But […]]]></summary>
         <author>
             <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powershell to Deploy a PPAC UNO Environment]]></title>
-        <id>1704 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/powershell-deploy-ppac-uno-environment"/>
-        <updated>2024-06-28T00:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 06/27/24.
-
-
-Last modified: 
-
-06/27/24
-
-
-
-
-
-
-
-
-
-
-
-
-PowerShell Script to Deploy an UNO Environment
-Below is a PowerShell script to deploy a unified developer environment for F&O. But first, be sure to read Aurélien CLERE's great blog post about this type of environment. You should also check out this tech talk on the UDE environment type and some additional reading from MSFT. I found myself having to deploy a few of the UDE environments so I upgraded the PS Script form Aurélien's blog so it will prompt for a  display name. That's all.
- 
-
-# Function to remove spaces from a string
-# Function to remove non-alphanumeric characters from a string
-# Prompt for the environment display name
-# Clean up the instance name
-# Install the necessary module
-# Create a session against the Power Platform API
-# Construct the JSON object to pass in
-# Kick off new environment provisioning
-Write-Host "Environment provisioning initiated successfully!"
-
-
-
-
-View the discussion thread.]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use expanded Copilot for Service capabilities in your CRM]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/27/use-expanded-copilot-for-service-capabilities-in-your-crm/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/27/use-expanded-copilot-for-service-capabilities-in-your-crm/"/>
-        <updated>2024-06-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On July 1, we are introducing several new capabilities in Copilot for Service to further support agents working in their CRM of choice. 
-The post Use expanded Copilot for Service capabilities in your CRM appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Tina Ding and Hardik Sanghavi</name>
         </author>
     </entry>
     <entry>
