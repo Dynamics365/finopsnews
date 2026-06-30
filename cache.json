@@ -43504,6 +43504,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=4653",
+          "author": "AnithaEswaran",
+          "description": "Most of us are now familiar with UDE, USE, and UPE in the D365FO ecosystem. While the foundational setup for these environments remains largely consistent, the screens, navigation paths, and configuration touchpoints continue to evolve with each platform update. This … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2026/06/29/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects/",
+          "publishedOn": "2026-06-29T20:18:54.000Z",
+          "wordCount": 4225,
+          "title": "The Ultimate UDE Playbook — Setting Up Unified Development for Modern D365FO Projects",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2026/06/image-78.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=4627",
           "author": "AnithaEswaran",
           "description": "After the database restore, we might face the following error ‘The formal parameter was not declared as an OUTPUT parameter, but the actual parameter passed in the requested output’ Given below one error where it says something about ‘getNumInternalWithNoBlocking’ Few … Continue reading →",
@@ -44571,16 +44581,6 @@
           "wordCount": 804,
           "title": "The Book of Batch Jobs",
           "imageUrl": null
-        },
-        {
-          "id": "1703 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "BatchRetryable Top Picking Batch Job Example\n\n\n\n\n\n\n06/29/24\n\n\n\n\n\n\n\n\n\n\n\n\nBatchRetryable Top Picking Batch Job Example\nI recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Top Picking with a review. Top picking is a method of creating a list of work that is stored in a table then \"picking\" from the \"top\" of it. You can think of it as a queue with mutliple consumers popping stuff from the queue to process. We're not using a real queue but we're getting very similar results. In prior articles, I used an analogy of a highway. While other batch job design methods maybe make use of the different lanes on the highway in different ways by used some kind of met…",
-          "link": "https://www.atomicax.com/blog-entry/batchretryable-top-picking-batch-job-example",
-          "publishedOn": "2024-06-29T20:09:40.000Z",
-          "wordCount": 1743,
-          "title": "BatchRetryable Top Picking Batch Job Example",
-          "imageUrl": null
         }
       ]
     },
@@ -45059,7 +45059,7 @@
           "description": "Autonomous Email Resolution is a generative AI-powered capability that helps service teams resolve customer emails end to end. It understands the customer’s request, identifies the intent, determines whether the required information is available, and generates a resolution-ready response using enterprise knowledge, configured instructions, connectors, and custom agents.\nThe post Revolutionizing customer support with autonomous email resolution appeared first on Microsoft Dynamics 365 Blog.",
           "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/25/autonomous-email-resolution-dynamics-365/",
           "publishedOn": "2026-06-25T15:19:38.000Z",
-          "wordCount": 5722,
+          "wordCount": 5716,
           "title": "Revolutionizing customer support with autonomous email resolution",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/05/AdobeStock_437795863-scaled.jpeg"
         },
@@ -49411,26 +49411,6 @@
           "wordCount": 12917,
           "title": "D365FO SysLastValue Framework Simplified",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/08/D365Blog_D365FO_SysLastValue_Framework_Simplified.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=28876",
-          "author": "Slobodan Vucicevic",
-          "description": "When you access customer or vendor details in Dynamics 365 for Finance and Operations (D365FO), their addresses are listed like this: “456 Peach Road, San Diego, CA 92114, USA”. This is great if you're familiar with San Diego, but if you're in Europe, for example, […]\nThe post Open Address in Google Maps with Right-Click in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/open-address-in-google-maps-with-right-click-in-d365fo/",
-          "publishedOn": "2024-06-30T08:27:49.000Z",
-          "wordCount": 14312,
-          "title": "Open Address in Google Maps with Right-Click in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/D365Blog_open_address_in_googlemaps_with_two_clicks.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=28876",
-          "author": "Slobodan Vucicevic",
-          "description": "When you access customer or vendor details in Dynamics 365 for Finance and Operations (D365FO), their addresses listed like this: “456 Peach Road, San Diego, CA 92114, USA”. This is great if you're familiar with San Diego, but if you're in Europe, for example, it […]\nThe post Open Address in Google Maps with Two Clicks appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/open-address-in-google-maps-with-two-clicks/",
-          "publishedOn": "2024-06-30T08:27:49.000Z",
-          "wordCount": 14275,
-          "title": "Open Address in Google Maps with Two Clicks",
-          "imageUrl": null
         }
       ]
     },
@@ -49439,6 +49419,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://www.paragchapre.com",
       "articles": [
+        {
+          "id": "https://www.paragchapre.com/?p=16993",
+          "author": "Parag Chapre",
+          "description": "A new way to streamline approval governance In today’s fast-moving organizations, managing financial approvals and signing authorities is more critical and complex than ever. Many organizations using Dynamics 365 Finance & Operations still rely on fragmented solutions or manual processes to track signing limits. This often leads to inefficiencies, lack of visibility, and governance risks.…",
+          "link": "https://www.paragchapre.com/signing-limit-app-dynamics-365-finance-operations/",
+          "publishedOn": "2026-06-29T06:30:10.000Z",
+          "wordCount": 4433,
+          "title": "Introducing Signing Limit App: A smarter way to manage signing authority in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/06/Signing-Limit-App.webp"
+        },
         {
           "id": "https://www.paragchapre.com/?p=16955",
           "author": "Parag Chapre",
