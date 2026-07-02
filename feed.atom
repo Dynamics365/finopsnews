@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-01T04:11:19.018Z</updated>
+    <updated>2026-07-02T03:52:13.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EXTENSIBILITY FIRST: Building .NET Systems That Survive Change with Miguel Castro [MVP]]]></title>
+        <id>https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp</id>
+        <link href="https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp"/>
+        <updated>2026-07-02T03:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Software rarely fails because developers cannot write code. It fails because applications are designed for today’s requirements instead of tomorrow’s changes. In this episode of the m365.fm Podcast, Mirko Peters sits down with Microsoft MVP Miguel Castro—software architect, consultant, conference speaker, and one of the most respected voices in the .NET ecosystem—to explore why extensibility […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 HR: 4 features you can use today, 5 to mark your calendar for]]></title>
+        <id>https://365community.online/d365-hr-4-features-you-can-use-today-5-to-mark-your-calendar-for</id>
+        <link href="https://365community.online/d365-hr-4-features-you-can-use-today-5-to-mark-your-calendar-for"/>
+        <updated>2026-07-01T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Release Wave 1 has been rolling out since April, so this isn’t a “what’s new” preview anymore. Some of it is already in your hands. Some is still on the way. So let’s split it honestly: what you can actually try today, and what’s worth putting on the calendar. The theme across both […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Adoption: What Actually Works]]></title>
         <id>https://365community.online/microsoft-copilot-adoption-what-actually-works</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[Artificial Intelligence has moved beyond experimentation and into the heart of modern business. Yet while organizations are investing heavily in Microsoft Copilot, many struggle to achieve meaningful adoption and measurable business value. Simply assigning licenses is no longer enough. Successful AI transformation requires governance, training, executive sponsorship, security, and a well-defined adoption strategy that helps […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps Governance (Part 3): Implementing Dynamic Application Security Testing (DAST) in Build…]]></title>
+        <id>https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build</id>
+        <link href="https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build"/>
+        <updated>2026-06-30T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[DevSecOps Governance (Part 3): Implementing Dynamic Application Security Testing (DAST) in Build Pipelines Photo by Bernd 📷 Dittrich on Unsplash Following on from my original blog ‘When “Shift‑Left” Leaves the Back Door Open: Why Governance Matters More Than Ever‘ this is part 3 of a 3 part follow up series where I’ll discuss practical tools and […]]]></summary>
+        <author>
+            <name>Kieran Holmes</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +77,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Ultimate UDE Playbook — Setting Up Unified Development for Modern D365FO Projects]]></title>
+        <id>https://365community.online/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects</id>
+        <link href="https://365community.online/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects"/>
+        <updated>2026-06-29T20:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of us are now familiar with UDE, USE, and UPE in the D365FO ecosystem. While the foundational setup for these environments remains largely consistent, the screens, navigation paths, and configuration touchpoints continue to evolve with each platform update. This post revisits the end‑to‑end setup of the Unified Development Environment in D365FO — a timely […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building a Business Central AI Documentation Assistant: Turning Metadata into Business Knowledge]]></title>
         <id>https://365community.online/building-a-business-central-ai-documentation-assistant-turning-metadata-into-business-knowledge</id>
         <link href="https://365community.online/building-a-business-central-ai-documentation-assistant-turning-metadata-into-business-knowledge"/>
@@ -64,6 +104,16 @@
         <summary type="html"><![CDATA[A new way to streamline approval governance In today’s fast-moving organizations, managing financial approvals and signing authorities is more critical and complex than ever. Many organizations using Dynamics 365 Finance & Operations still rely on fragmented solutions or manual processes to track signing limits. This often leads to inefficiencies, lack of visibility, and governance risks.…]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor & Supplier Portal Solution | Streamline Supplier Management | CRMJetty – YouTube]]></title>
+        <id>https://365community.online/vendor-supplier-portal-solution-streamline-supplier-management-crmjetty-youtube</id>
+        <link href="https://365community.online/vendor-supplier-portal-solution-streamline-supplier-management-crmjetty-youtube"/>
+        <updated>2026-06-28T08:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Vendor & Supplier Portal Solution | Streamline Supplier Management | CRMJetty Managing a large network of vendors and suppliers shouldn’t mean endless follow-up emails and manual paperwork. CRMJetty’s Vendor & Supplier Portal gives your suppliers secure, self-service access to everything they need — while giving your team back its time. In this video, see how […]]]></summary>
+        <author>
+            <name>CRM Jetty</name>
         </author>
     </entry>
     <entry>
@@ -54779,28 +54829,6 @@ Batch]]></summary>
         <updated>2024-07-02T22:57:14.000Z</updated>
         <summary type="html"><![CDATA[This month we're excited to share collaboration updates for canvas, the release of the Copilot enabled ERD view and Catalog, key updates for security and a huge set of Learning and Documentation updates.
 The post What’s new in Power Apps: June 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omni-channel real-time personalization with Dynamics 365 Customer Insights and Optimizely]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/02/omni-channel-real-time-personalization-with-dynamics-365-customer-insights-and-optimizely/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/02/omni-channel-real-time-personalization-with-dynamics-365-customer-insights-and-optimizely/"/>
-        <updated>2024-07-02T15:44:45.000Z</updated>
-        <summary type="html"><![CDATA[The world is getting noisier, which makes it harder to earn customer attention. We’ve previously described the importance of hyper-personalization to break through the noise and enable customers to explore brands and products on their own terms. Regardless of whether they are consumers or business-to-business (B2B) buyers. At Ignite 2023, we announced a unique Copilot-powered
-The post Omni-channel real-time personalization with Dynamics 365 Customer Insights and Optimizely appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Deepak Palled and Ayushman Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build apps as a team with live coauthoring]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-apps-as-a-team-with-live-coauthoring/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-apps-as-a-team-with-live-coauthoring/"/>
-        <updated>2024-07-01T22:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are thrilled to announce the much-anticipated Canvas Coauthoring experience is entering Preview and is now available for the public worldwide, including sovereign clouds. Coauthoring will bring a new level of collaboration and productivity to Power Apps developers.
-The post Build apps as a team with live coauthoring appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Clay Wesener</name>
         </author>
