@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-02T03:52:13.036Z</updated>
+    <updated>2026-07-03T03:34:07.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[EXTENSIBILITY FIRST: Building .NET Systems That Survive Change with Miguel Castro [MVP]]]></title>
-        <id>https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp</id>
-        <link href="https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp"/>
-        <updated>2026-07-02T03:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Software rarely fails because developers cannot write code. It fails because applications are designed for today’s requirements instead of tomorrow’s changes. In this episode of the m365.fm Podcast, Mirko Peters sits down with Microsoft MVP Miguel Castro—software architect, consultant, conference speaker, and one of the most respected voices in the .NET ecosystem—to explore why extensibility […]]]></summary>
+        <title type="html"><![CDATA[Integrating AS400 with Azure AI and Copilot]]></title>
+        <id>http://dynvision365.com/?p=1742</id>
+        <link href="https://dynvision365.com/2026/07/02/integrating-as400-with-azure-ai-and-copilot/"/>
+        <updated>2026-07-02T17:59:10.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been following my blog for a while, you know I love exploring how modern Microsoft technologies can connect with enterprise systems. Today, I want to share something I found really exciting , and I think you will too 🙂 . In many companies, an AS400 system has been running quietly in the background … Lire la suite Integrating AS400 with Azure AI and Copilot →]]></summary>
         <author>
-            <name>Mirko Peters</name>
+            <name>adalhix</name>
         </author>
     </entry>
     <entry>
@@ -54820,17 +54820,6 @@ Batch]]></summary>
         <summary type="html"><![CDATA[From Model Railroads to Azure Architect: Barret Blake’s Journey and the Future of AI Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) FULL SHOW NOTES https://podcast.nz365guy.com/566 What happens when a childhood […]]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new in Power Apps: June 2024 Feature Update]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2024-feature-update/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2024-feature-update/"/>
-        <updated>2024-07-02T22:57:14.000Z</updated>
-        <summary type="html"><![CDATA[This month we're excited to share collaboration updates for canvas, the release of the Copilot enabled ERD view and Catalog, key updates for security and a huge set of Learning and Documentation updates.
-The post What’s new in Power Apps: June 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
         </author>
     </entry>
 </feed>

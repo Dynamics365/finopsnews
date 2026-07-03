@@ -528,16 +528,6 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
-          "id": "https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp",
-          "author": "Mirko Peters",
-          "description": "Software rarely fails because developers cannot write code. It fails because applications are designed for today’s requirements instead of tomorrow’s changes. In this episode of the m365.fm Podcast, Mirko Peters sits down with Microsoft MVP Miguel Castro—software architect, consultant, conference speaker, and one of the most respected voices in the .NET ecosystem—to explore why extensibility […]",
-          "link": "https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp",
-          "publishedOn": "2026-07-02T03:36:05.000Z",
-          "wordCount": 2642,
-          "title": "EXTENSIBILITY FIRST: Building .NET Systems That Survive Change with Miguel Castro [MVP]",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/41186cf8c53882e1111ddcf93e810d04.jpg?fit=1200%2C630&ssl=1"
-        },
-        {
           "id": "https://365community.online/d365-hr-4-features-you-can-use-today-5-to-mark-your-calendar-for",
           "author": "Ana Inés Urrutia",
           "description": "The 2026 Release Wave 1 has been rolling out since April, so this isn’t a “what’s new” preview anymore. Some of it is already in your hands. Some is still on the way. So let’s split it honestly: what you can actually try today, and what’s worth putting on the calendar. The theme across both […]",
@@ -44697,6 +44687,16 @@
       "siteUrl": "https://dynvision365.com",
       "articles": [
         {
+          "id": "http://dynvision365.com/?p=1742",
+          "author": "adalhix",
+          "description": "If you’ve been following my blog for a while, you know I love exploring how modern Microsoft technologies can connect with enterprise systems. Today, I want to share something I found really exciting , and I think you will too 🙂 . In many companies, an AS400 system has been running quietly in the background … Lire la suite Integrating AS400 with Azure AI and Copilot →",
+          "link": "https://dynvision365.com/2026/07/02/integrating-as400-with-azure-ai-and-copilot/",
+          "publishedOn": "2026-07-02T17:59:10.000Z",
+          "wordCount": 13647,
+          "title": "Integrating AS400 with Azure AI and Copilot",
+          "imageUrl": "https://dynvision365.com/wp-content/uploads/2026/07/image-27.png"
+        },
+        {
           "id": "http://dynvision365.com/?p=1526",
           "author": "adalhix",
           "description": "Summary – Time to Bridge the Gap! Hey there! it’s been a while since i last shared something here, but here we are again, today, I have something really exciting to talk about! Working with AS/400 (IBM i) can feel like stepping back in time, yet many businesses still depend on it for critical operations. … Lire la suite Unlocking IBM i (AS/400) Data Potential with Microsoft Fabric and D365 FinOps →",
@@ -50844,16 +50844,6 @@
           "wordCount": 3787,
           "title": "Build intelligent and scalable solutions with Microsoft Power Apps and Microsoft Power Platform",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/7.16-social-MSC24-India-business-Adobe-550638570-rgb.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2024-feature-update/",
-          "author": "Clay Wesener",
-          "description": "This month we're excited to share collaboration updates for canvas, the release of the Copilot enabled ERD view and Catalog, key updates for security and a huge set of Learning and Documentation updates.\nThe post What’s new in Power Apps: June 2024 Feature Update appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2024-feature-update/",
-          "publishedOn": "2024-07-02T22:57:14.000Z",
-          "wordCount": 4420,
-          "title": "What’s new in Power Apps: June 2024 Feature Update",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/CopilotERD.gif"
         }
       ]
     },
