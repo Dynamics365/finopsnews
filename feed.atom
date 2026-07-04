@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-03T03:34:07.700Z</updated>
+    <updated>2026-07-04T03:26:33.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything Microsoft Didn’t Tell You About Teams with Everything Microsoft Didn’t Tell You About Teams with Josh Blalock [MVP]]]></title>
+        <id>https://365community.online/everything-microsoft-didnt-tell-you-about-teams-with-everything-microsoft-didnt-tell-you-about-teams-with-josh-blalock-mvp</id>
+        <link href="https://365community.online/everything-microsoft-didnt-tell-you-about-teams-with-everything-microsoft-didnt-tell-you-about-teams-with-josh-blalock-mvp"/>
+        <updated>2026-07-03T17:44:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams has evolved from a simple collaboration platform into the digital workplace at the heart of modern business. But behind every successful Teams meeting lies far more than software. In this episode of the M365 FM Podcast, host Mirko Peters sits down with Microsoft MVP, Microsoft 365 Copilot expert, technology evangelist, and Comms vNext […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Changelog: Shape Your Newsletter Signup and Get Domain Help in Chat]]></title>
+        <id>https://365community.online/wordpress-com-changelog-shape-your-newsletter-signup-and-get-domain-help-in-chat</id>
+        <link href="https://365community.online/wordpress-com-changelog-shape-your-newsletter-signup-and-get-domain-help-in-chat"/>
+        <updated>2026-07-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[June 19 – July 2, 2026 Welcome back to the WordPress.com changelog! During the last two weeks, we focused on giving you more control: a subscription signup you can tailor to your readers, a support assistant that can now sort out your domain settings right in the chat, and more. Create and publish Customize your […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before ERP VS After ERP – YouTube]]></title>
+        <id>https://365community.online/before-erp-vs-after-erp-youtube</id>
+        <link href="https://365community.online/before-erp-vs-after-erp-youtube"/>
+        <updated>2026-07-03T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Your team wasn’t hired to chase spreadsheets. They were hired to grow the business. The right ERP helps eliminate manual work, connect your data, and give your team the tools they need to work smarter every day. Less chaos. More control. Explore more your MODERN ERP – https://lnkd.in/dNaJH_7w #erp #shorts #tech #memes source]]></summary>
+        <author>
+            <name>Sam William</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365: View license requirement per object]]></title>
+        <id>https://dynamicspedia.com/?p=20351</id>
+        <link href="https://dynamicspedia.com/2026/07/dynamics-365-view-license-requirement-per-object/"/>
+        <updated>2026-07-03T12:07:34.000Z</updated>
+        <summary type="html"><![CDATA[The actual license enforcement for Microsoft Dynamics 365 F&O is activated for a lot of organizations worldwide. Although Microsoft provided reports and tooling, a lot of organizations still need help from experts with experience. Based on feedback, Microsoft has now added the ability to view license requirements per object. In this blog post, you will […]
+The post Dynamics 365: View license requirement per object appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrating AS400 with Azure AI and Copilot]]></title>
         <id>http://dynvision365.com/?p=1742</id>
@@ -14,6 +55,66 @@
         <summary type="html"><![CDATA[If you’ve been following my blog for a while, you know I love exploring how modern Microsoft technologies can connect with enterprise systems. Today, I want to share something I found really exciting , and I think you will too 🙂 . In many companies, an AS400 system has been running quietly in the background … Lire la suite Integrating AS400 with Azure AI and Copilot →]]></summary>
         <author>
             <name>adalhix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating AS400 with Azure AI and Copilot]]></title>
+        <id>https://365community.online/integrating-as400-with-azure-ai-and-copilot</id>
+        <link href="https://365community.online/integrating-as400-with-azure-ai-and-copilot"/>
+        <updated>2026-07-02T17:59:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been following my blog for a while, you know I love exploring how modern Microsoft technologies can connect with enterprise systems. Today, I want to share something I found really exciting , and I think you will too . In many companies, an AS400 system has been running quietly in the background for […]]]></summary>
+        <author>
+            <name>Adnane Dalhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Use Cases of Dynamics 365 Maps in the Chemical Supply Chain]]></title>
+        <id>https://365community.online/5-use-cases-of-dynamics-365-maps-in-the-chemical-supply-chain</id>
+        <link href="https://365community.online/5-use-cases-of-dynamics-365-maps-in-the-chemical-supply-chain"/>
+        <updated>2026-07-02T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[The chemical supply chain is one of the most geographically complex operations in the world. Raw materials move across borders. Distributors serve tightly regulated regional markets. Compliance audits require physical presence at specific facilities. When something goes wrong, a spill, a containment failure, an emergency at a production site, the speed of the geographic response […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building Bots, Start Building Runtimes: A Field Guide to Microsoft Agents]]></title>
+        <id>https://365community.online/stop-building-bots-start-building-runtimes-a-field-guide-to-microsoft-agents</id>
+        <link href="https://365community.online/stop-building-bots-start-building-runtimes-a-field-guide-to-microsoft-agents"/>
+        <updated>2026-07-02T07:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is calling Build 2026 the AI conference. Most of the attention went toward new copilots, voice experiences, and increasingly capable models. But beneath the headlines, Microsoft quietly introduced something far more significant. The real story is not about another AI feature. It is about the emergence of a completely new infrastructure layer for enterprise […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building AI Agents for Business Central: Lessons from My First Implementations]]></title>
+        <id>https://365community.online/building-ai-agents-for-business-central-lessons-from-my-first-implementations</id>
+        <link href="https://365community.online/building-ai-agents-for-business-central-lessons-from-my-first-implementations"/>
+        <updated>2026-07-02T06:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few months, I started experimenting with AI agents around different Business Central scenarios. The journey did not begin with the goal of creating a product or building something complex. It started with a simple curiosity and a question that kept coming to my mind: Can AI move beyond answering questions and actually […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Transformation in Housing: Why TSM Success Depends on Data, Leadership, and Change]]></title>
+        <id>https://365community.online/digital-transformation-in-housing-why-tsm-success-depends-on-data-leadership-and-change</id>
+        <link href="https://365community.online/digital-transformation-in-housing-why-tsm-success-depends-on-data-leadership-and-change"/>
+        <updated>2026-07-02T03:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The Two-Minute Read The issue: specialist housing teams can improve service quality, but fragmented data makes it harder to manage risk, evidence performance and understand the tenant experience.  The leadership challenge: TSM improvement is not just a reporting exercise; it requires joined-up data, clear governance, frontline adoption and measurable benefits.  The budget-conscious route: avoid a full system replacement […]]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXTENSIBILITY FIRST: Building .NET Systems That Survive Change with Miguel Castro [MVP]]]></title>
+        <id>https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp</id>
+        <link href="https://365community.online/extensibility-first-building-net-systems-that-survive-change-with-miguel-castro-mvp"/>
+        <updated>2026-07-02T03:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Software rarely fails because developers cannot write code. It fails because applications are designed for today’s requirements instead of tomorrow’s changes. In this episode of the m365.fm Podcast, Mirko Peters sits down with Microsoft MVP Miguel Castro—software architect, consultant, conference speaker, and one of the most respected voices in the .NET ecosystem—to explore why extensibility […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +135,28 @@
         <summary type="html"><![CDATA[Artificial Intelligence has moved beyond experimentation and into the heart of modern business. Yet while organizations are investing heavily in Microsoft Copilot, many struggle to achieve meaningful adoption and measurable business value. Simply assigning licenses is no longer enough. Successful AI transformation requires governance, training, executive sponsorship, security, and a well-defined adoption strategy that helps […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 and Dynamics 365 now provide a unified customer service experience]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202663</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/service-agent-general-availability/"/>
+        <updated>2026-06-30T18:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Service Agent is now generally available, helping customer service teams understand issues, find answers, and take action from one Copilot experience. Built on Microsoft 365 Copilot and Dynamics 365, Service Agent unifies customer, case, and knowledge context while enabling AI-powered actions that improve productivity across the service workflow.
+The post Microsoft 365 and Dynamics 365 now provide a unified customer service experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Alan Ross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Onboarding Agent in Dynamics 365 Human Resources]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202615</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/onboarding-agent-dynamics-365-human-resources/"/>
+        <updated>2026-06-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Now in public preview, the Onboarding Agent delivers a connected experience that helps streamline onboarding activities. The solution helps new hires ramp up faster, build connections, and stay engaged from day one. It works directly within Microsoft Teams, allowing employees to stay in the flow of work. It also writes data back to Dynamics 365 Human Resources, keeping records up to date.
+The post Introducing the Onboarding Agent in Dynamics 365 Human Resources appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ramappa Magadum</name>
         </author>
     </entry>
     <entry>
@@ -84,6 +207,17 @@
         <summary type="html"><![CDATA[Most of us are now familiar with UDE, USE, and UPE in the D365FO ecosystem. While the foundational setup for these environments remains largely consistent, the screens, navigation paths, and configuration touchpoints continue to evolve with each platform update. This post revisits the end‑to‑end setup of the Unified Development Environment in D365FO — a timely […]]]></summary>
         <author>
             <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Commerce introduces agentic capabilities with Model Context Protocol (MCP)]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202648</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/29/dynamics-365-commerce-introduces-agentic-capabilities-with-model-context-protocol-mcp/"/>
+        <updated>2026-06-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 Commerce MCP server enables AI agents to connect securely with retail operations, inventory, pricing, checkout, and fulfillment through the open Model Context Protocol (MCP). Organizations can build conversational and autonomous commerce experiences without creating custom integrations.
+The post Dynamics 365 Commerce introduces agentic capabilities with Model Context Protocol (MCP) appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Anupama Raju and Ashish Harchwani</name>
         </author>
     </entry>
     <entry>
@@ -54750,76 +54884,6 @@ Batch]]></summary>
         <summary type="html"><![CDATA[Do you want to make your Teams Avatar look similar to you without a long manual customization process? With the latest Avatars feature, you can take your photo or take […]]]></summary>
         <author>
             <name>Marcin Siewnicki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics GP vs. Microsoft Dynamics 365 Business Central]]></title>
-        <id>https://365community.online/microsoft-dynamics-gp-vs-microsoft-dynamics-365-business-central</id>
-        <link href="https://365community.online/microsoft-dynamics-gp-vs-microsoft-dynamics-365-business-central"/>
-        <updated>2024-07-04T14:00:45.000Z</updated>
-        <summary type="html"><![CDATA[I worked with Microsoft Dynamics GP for just over 19 years before I decided that the writing on the wall had become too large to ignore. With the announcement of […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Multiple Cases from an Email Sent to Multiple Mailboxes in Dynamics 365 CRM]]></title>
-        <id>https://365community.online/create-multiple-cases-from-an-email-sent-to-multiple-mailboxes-in-dynamics-365-crm</id>
-        <link href="https://365community.online/create-multiple-cases-from-an-email-sent-to-multiple-mailboxes-in-dynamics-365-crm"/>
-        <updated>2024-07-04T12:02:11.000Z</updated>
-        <summary type="html"><![CDATA[We recently encountered a requirement where the client utilized multiple queues in CRM (such as service team queue, product team queue, tech team queue, etc.) with configured email addresses. When […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell Boomi Full Course | Part 6 – How to Create JSON Profile in Boomi | MindMajix – YouTube]]></title>
-        <id>https://365community.online/dell-boomi-full-course-part-6-how-to-create-json-profile-in-boomi-mindmajix-youtube</id>
-        <link href="https://365community.online/dell-boomi-full-course-part-6-how-to-create-json-profile-in-boomi-mindmajix-youtube"/>
-        <updated>2024-07-04T12:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In this Dell Boomi full course for beginners you will learn all the concepts of Dell Boomi from scratch. In this particular Dell Boomi training video you will learn about […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Drag and Drop Email Attachments in Dynamics]]></title>
-        <id>https://365community.online/how-to-drag-and-drop-email-attachments-in-dynamics</id>
-        <link href="https://365community.online/how-to-drag-and-drop-email-attachments-in-dynamics"/>
-        <updated>2024-07-04T10:13:21.000Z</updated>
-        <summary type="html"><![CDATA[We’re used to dragging and dropping files on to emails in Outlook, or to move files in File Explorer. Dynamics never supported this out of the box, until now. Add […]]]></summary>
-        <author>
-            <name>Pete Murray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TwoCanada Podcast – YouTube]]></title>
-        <id>https://365community.online/twocanada-podcast-youtube</id>
-        <link href="https://365community.online/twocanada-podcast-youtube"/>
-        <updated>2024-07-04T10:12:03.000Z</updated>
-        <summary type="html"><![CDATA[No episódio do TwoCanada Podcast com Victor Dantas, um profissional da área de TI que já trabalhou no Estados Unidos, no Brasil e agora está no Canadá! source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Financial), how do I… Allow a User to Post into a Closed Period]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-allow-a-user-to-post-into-a-closed-period</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-allow-a-user-to-post-into-a-closed-period"/>
-        <updated>2024-07-04T10:00:20.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Model Railroads to Azure Architect: Barret Blake’s Journey and the Future of AI – YouTube]]></title>
-        <id>https://365community.online/from-model-railroads-to-azure-architect-barret-blakes-journey-and-the-future-of-ai-youtube</id>
-        <link href="https://365community.online/from-model-railroads-to-azure-architect-barret-blakes-journey-and-the-future-of-ai-youtube"/>
-        <updated>2024-07-04T09:26:22.000Z</updated>
-        <summary type="html"><![CDATA[From Model Railroads to Azure Architect: Barret Blake’s Journey and the Future of AI Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) FULL SHOW NOTES https://podcast.nz365guy.com/566 What happens when a childhood […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
         </author>
     </entry>
 </feed>
