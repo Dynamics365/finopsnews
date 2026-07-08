@@ -43899,21 +43899,6 @@
           "wordCount": 4829,
           "title": "D365 Continuous Updates",
           "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2024/11/D365-Continuous-Updates.png"
-        },
-        {
-          "id": "https://dynamics365musings.com/?p=3784",
-          "author": "peter.ramer",
-          "description": "As part of writing articles, I typically create a YouTube video that covers the same content. I have found that some people like to read articles while others like to watch videos. Creating content in both of these formats can help reach a wider audience. In this article and video, learn all of the tips... Continue Reading →\nThe post How To Create A YouTube Video appeared first on Dynamics 365 Musings.",
-          "link": "https://dynamics365musings.com/create-a-youtube-video/?utm_source=rss&utm_medium=rss&utm_campaign=create-a-youtube-video",
-          "publishedOn": "2024-07-08T13:00:00.000Z",
-          "wordCount": 6707,
-          "title": "How To Create A YouTube Video",
-          "enclosure": {
-            "url": "https://dynamics365musings.com/wp-content/uploads/2024/06/25102-347958100_small.mp4",
-            "length": "2184511",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2024/07/How-To-Create-A-YouTube-Video.png"
         }
       ]
     },
@@ -44240,16 +44225,6 @@
           "publishedOn": "2024-07-10T10:36:30.000Z",
           "wordCount": 2748,
           "title": "How to use a recurring Integration Endpoint to Import Data",
-          "imageUrl": null
-        },
-        {
-          "id": "1696 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 07/07/24.\n\n\nLast modified: \n\n07/07/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nperformance      \n\nDatabase Inserts - Primary Table Comparison between dev box and Sandbox Environment\nIn a previous article, I wrote about the fastest ways to insert data but only looked at it from a development VM ( In Azure ) perspective. I thought it would be worthwhile to review this from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The \"DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The \"TST\" label is for a standard Microsoft hosted Sandbox as a UAT environment available as …",
-          "link": "https://www.atomicax.com/article/database-inserts-code-table-comparison",
-          "publishedOn": "2024-07-08T03:07:43.000Z",
-          "wordCount": 1485,
-          "title": "Database Inserts - Code Table Comparison",
           "imageUrl": null
         }
       ]

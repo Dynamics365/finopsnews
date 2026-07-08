@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-07T03:41:48.144Z</updated>
+    <updated>2026-07-08T02:56:31.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -54668,17 +54668,6 @@ The post Improve Mobile Offline performance with Offline Table Column Selection 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create A YouTube Video]]></title>
-        <id>https://dynamics365musings.com/?p=3784</id>
-        <link href="https://dynamics365musings.com/create-a-youtube-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-a-youtube-video"/>
-        <updated>2024-07-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As part of writing articles, I typically create a YouTube video that covers the same content. I have found that some people like to read articles while others like to watch videos. Creating content in both of these formats can help reach a wider audience. In this article and video, learn all of the tips... Continue Reading →
-The post How To Create A YouTube Video appeared first on Dynamics 365 Musings.]]></summary>
-        <author>
-            <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Surprising IAM Design Solutions Unveiled – SC100 Exam! – YouTube]]></title>
         <id>https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube</id>
         <link href="https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube"/>
@@ -54734,39 +54723,6 @@ The post How To Create A YouTube Video appeared first on Dynamics 365 Musings.]]
         <link href="https://365community.online/database-inserts-code-table-comparison"/>
         <updated>2024-07-08T03:07:43.000Z</updated>
         <summary type="html"><![CDATA[Submitted by Nathan Clouse on 07/07/24. Last modified:  07/07/24 Tags:  performance Database Inserts – Primary Table Comparison between dev box and Sandbox Environment In a previous article, I wrote about […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Inserts - Code Table Comparison]]></title>
-        <id>1696 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/database-inserts-code-table-comparison"/>
-        <updated>2024-07-08T03:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 07/07/24.
-
-
-Last modified: 
-
-07/07/24
-
-
-
-
-
-
-
-
-
-
-
-
-      
-Tags: 
-performance      
-
-Database Inserts - Primary Table Comparison between dev box and Sandbox Environment
-In a previous article, I wrote about the fastest ways to insert data but only looked at it from a development VM ( In Azure ) perspective. I thought it would be worthwhile to review this from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The "DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The "TST" label is for a standard Microsoft hosted Sandbox as a UAT environment available as …]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
