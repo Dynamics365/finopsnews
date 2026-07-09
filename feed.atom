@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-08T02:56:31.298Z</updated>
+    <updated>2026-07-09T03:35:05.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -54566,17 +54566,6 @@ Recurring Integration Endpoints for Finance and Operations are  an interesting 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.6]]></title>
-        <id>https://alexdmeyer.com/?p=3254</id>
-        <link href="https://alexdmeyer.com/2024/07/09/new-release-of-d365fo-admin-toolkit-v1-6/"/>
-        <updated>2024-07-09T14:59:34.000Z</updated>
-        <summary type="html"><![CDATA[We’ve had some great community contributions to get us to v1.6 of the D365FO Admin Utility! D365FO Admin Toolkit v1.6 D365O Admin Toolkit v1.6 Release D365FO Admin Toolkit GitHub Note: This release has been built against a 10.0.39 version of D365FO. Let’s look at the new features and functionality and bug fixes in this release! […]
-The post New Release of D365FO Admin Toolkit v1.6 appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Financial), how do I… Close the Income Statement]]></title>
         <id>https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-the-income-statement</id>
         <link href="https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-the-income-statement"/>
@@ -54604,17 +54593,6 @@ The post New Release of D365FO Admin Toolkit v1.6 appeared first on Alex Meyer.]
         <summary type="html"><![CDATA[Recently, I encountered a frustrating error while trying to modify the length of a text field in Dataverse. The error message was: “Sql error: Generic SQL error. CRM ErrorCode: -2147204784 […]]]></summary>
         <author>
             <name>Mehdi El Amri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Mobile Offline performance with Offline Table Column Selection]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/08/improve-mobile-offline-performance-with-offline-table-column-selection/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/08/improve-mobile-offline-performance-with-offline-table-column-selection/"/>
-        <updated>2024-07-08T23:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Choosing columns for Dynamics 365 Field Service Mobile offline mode enhances Offline sync performance and user experience. 
-The post Improve Mobile Offline performance with Offline Table Column Selection appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jonathan Baker and Tristan Dehove</name>
         </author>
     </entry>
     <entry>
