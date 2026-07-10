@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-09T03:35:05.032Z</updated>
+    <updated>2026-07-10T03:36:58.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trust before you automate: introducing Shadow Mode in Case Management Agent]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202756</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/09/shadow-mode-case-management-agent/"/>
+        <updated>2026-07-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shadow Mode in Case Management Agent lets you evaluate AI on live production cases, without taking any action.
+The AI agent runs quietly alongside your human workflows. On real, incoming cases it observes, predicts, recommends, and simulates exactly what it would do if it were live. You see every recommendation, and the reasoning behind it, in real time. But nothing leaves the system : no record is updated, no customer is contacted, no status changes.
+You get to watch your future automation work on today’s hardest cases, before you ever hand it the keys.
+The post Trust before you automate: introducing Shadow Mode in Case Management Agent appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Madhuri Somara, Peter Bian and Saurabh Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202686</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot/"/>
+        <updated>2026-07-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Customer expectations have reset. Here’s how agentic AI across Microsoft 365 Copilot and Dynamics 365 helps sales and service teams meet the new standard—right in the flow of work.
+The post Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Deva Rajamohan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listening, Learning, and Delivering: New Schedule Board Enhancements for Everyday Scheduling]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202718</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/07/dynamics-365-field-service-schedule-board-enhancements/"/>
+        <updated>2026-07-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the latest Dynamics 365 Field Service Schedule Board enhancements designed to help schedulers work faster. Explore Move To, Reassign To, Map View, week numbers, and partial cancellation capabilities that simplify scheduling and improve operational flexibility.
+The post Listening, Learning, and Delivering: New Schedule Board Enhancements for Everyday Scheduling appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Michael Kelleher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything Microsoft Didn’t Tell You About Teams with Everything Microsoft Didn’t Tell You About Teams with Josh Blalock [MVP]]]></title>
         <id>https://365community.online/everything-microsoft-didnt-tell-you-about-teams-with-everything-microsoft-didnt-tell-you-about-teams-with-josh-blalock-mvp</id>
@@ -54486,41 +54521,6 @@ The post What is the purpose of the workflow parameter ‘Require explicitly ass
         <link href="https://365community.online/how-to-use-a-recurring-integration-endpoint"/>
         <updated>2024-07-10T10:36:30.000Z</updated>
         <summary type="html"><![CDATA[How To Use A Recurring Integration Endpoint 07/10/24 Integration How to use a recurring Integration Endpoint for importing data Recurring Integration Endpoints for Finance and Operations are  an interesting option […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use a recurring Integration Endpoint to Import Data]]></title>
-        <id>1709 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/blog-entry/how-use-recurring-integration-endpoint-import-data"/>
-        <updated>2024-07-10T10:36:30.000Z</updated>
-        <summary type="html"><![CDATA[How to use a recurring Integration Endpoint to Import Data
-
-
-
-
-
-
-07/10/24
-
-
-
-
-
-
-
-
-
-
-
-
-    
-Integration      
-
-How to use a recurring Integration Endpoint for importing data
-
-Recurring Integration Endpoints for Finance and Operations are  an interesting option for integrations. From the Microsoft docs, it looks like it's meant for an input/output scenario where we have an inbound message and expect to have an outbound message. That's not specifically the case. We can unlock nearly all of the DMF through a recurring integration endpoint. The only real difference between a recurring integration endpoint and any of the other APIs for DMF is recurring integrations go to a staging area first then get processed by a batch job rather than the request be processed immediately. If creating a record …]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
