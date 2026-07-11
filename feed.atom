@@ -2,21 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-10T03:36:58.149Z</updated>
+    <updated>2026-07-11T02:51:59.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Trust before you automate: introducing Shadow Mode in Case Management Agent]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202756</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/09/shadow-mode-case-management-agent/"/>
-        <updated>2026-07-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shadow Mode in Case Management Agent lets you evaluate AI on live production cases, without taking any action.
-The AI agent runs quietly alongside your human workflows. On real, incoming cases it observes, predicts, recommends, and simulates exactly what it would do if it were live. You see every recommendation, and the reasoning behind it, in real time. But nothing leaves the system : no record is updated, no customer is contacted, no status changes.
-You get to watch your future automation work on today’s hardest cases, before you ever hand it the keys.
-The post Trust before you automate: introducing Shadow Mode in Case Management Agent appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <title type="html"><![CDATA[Dynamics 365 Workflow Approval App with Leave Request Approval]]></title>
+        <id>https://www.paragchapre.com/?p=17149</id>
+        <link href="https://www.paragchapre.com/leave-request-approval-dynamics-365/"/>
+        <updated>2026-07-10T13:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Organizations today require fast, secure, and mobile-friendly approval processes to keep business operations running efficiently. Traditional workflow approvals often require users to access multiple systems, resulting in delays, missed approvals, and reduced productivity. The Workflow Approval App was developed as a customized business solution to simplify and centralize workflow approvals across the organization. The…]]></summary>
         <author>
-            <name>Madhuri Somara, Peter Bian and Saurabh Gupta</name>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the French e-invoice: E-Reporting]]></title>
+        <id>https://erconsult.eu/?p=10893</id>
+        <link href="https://erconsult.eu/blog/beyond-the-french-e-invoice-e-reporting/"/>
+        <updated>2026-07-10T11:15:55.000Z</updated>
+        <summary type="html"><![CDATA[France's e-invoicing reform goes far beyond exchanging XML invoices. Besides invoice lifecycle tracking, companies must prepare for e-reporting of B2C and international transactions through dedicated Payments and Transactions XML flows. This article explains the requirements, the ERP challenges in Dynamics 365 Finance, and how ER-Consult addresses them.
+The post Beyond the French e-invoice: E-Reporting appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
         </author>
     </entry>
     <entry>
