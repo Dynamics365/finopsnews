@@ -44689,6 +44689,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202756",
+          "author": "Madhuri Somara, Peter Bian and Saurabh Gupta",
+          "description": "Shadow Mode in Case Management Agent lets you evaluate AI on live production cases, without taking any action.\nThe AI agent runs quietly alongside your human workflows. On real, incoming cases it observes, predicts, recommends, and simulates exactly what it would do if it were live. You see every recommendation, and the reasoning behind it, in real time. But nothing leaves the system : no record is updated, no customer is contacted, no status changes.\nYou get to watch your future automation work on today’s hardest cases, before you ever hand it the keys.\nThe post Trust before you automate: introducing Shadow Mode in Case Management Agent appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/09/shadow-mode-case-management-agent/",
+          "publishedOn": "2026-07-09T07:00:00.000Z",
+          "wordCount": 5934,
+          "title": "Trust before you automate: introducing Shadow Mode in Case Management Agent",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/07/AdobeStock_1879459869-scaled.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202686",
           "author": "Deva Rajamohan",
           "description": "Customer expectations have reset. Here’s how agentic AI across Microsoft 365 Copilot and Dynamics 365 helps sales and service teams meet the new standard—right in the flow of work.\nThe post Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot appeared first on Microsoft Dynamics 365 Blog.",
