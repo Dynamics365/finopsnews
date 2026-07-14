@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-13T03:19:20.829Z</updated>
+    <updated>2026-07-14T02:43:53.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overview Quality Management in Microsoft Dynamics 365 Finance & Operations – Part 1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3121</id>
+        <link href="https://exploredynamics365.home.blog/2026/07/13/overview-quality-management-in-microsoft-dynamics-365-finance-operations-part-1/"/>
+        <updated>2026-07-13T07:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Why Every Manufacturing Business Needs Quality Management Overview Why Every Manufacturing Business Needs Quality Management Imagine walking into a supermarket to buy a bottle of drinking water. The bottle looks crystal clear. The cap is perfectly sealed. The label is neatly printed. Everything appears to be perfect. But have you ever wondered how manufacturers ensure […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Workflow Approval App with Leave Request Approval]]></title>
         <id>https://www.paragchapre.com/?p=17149</id>
