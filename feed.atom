@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-14T02:43:53.725Z</updated>
+    <updated>2026-07-15T02:42:10.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overview Quality Management in Microsoft Dynamics 365 Finance & Operations – Part 1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3121</id>
+        <link href="https://exploredynamics365.home.blog/2026/07/13/overview-quality-management-in-microsoft-dynamics-365-finance-operations-part-1/"/>
+        <updated>2026-07-13T07:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Why Every Manufacturing Business Needs Quality Management Overview Why Every Manufacturing Business Needs Quality Management Imagine walking into a supermarket to buy a bottle of drinking water. The bottle looks crystal clear. The cap is perfectly sealed. The label is neatly printed. Everything appears to be perfect. But have you ever wondered how manufacturers ensure […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overview Quality Management in Microsoft Dynamics 365 Finance & Operations – Part 1]]></title>
         <id>http://exploredynamics365.home.blog/?p=3121</id>
@@ -54266,16 +54276,6 @@ The post 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Powe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clean Code in X++ – Dynamics User Group India]]></title>
-        <id>http://fernitudela.dev/?p=1579</id>
-        <link href="https://fernitudela.dev/2024/07/15/clean-code-in-x-dynamics-user-group-india/"/>
-        <updated>2024-07-15T12:27:39.000Z</updated>
-        <summary type="html"><![CDATA[In this Episode for the Dynamics user group India, I am sharing invaluable insights and best practices on writing clean, efficient, and maintainable code in X++. This session is highly beneficial for all X++ developers and technical architects looking to enhance their coding skills and elevate their development practices. Thanks for watching!]]></summary>
-        <author>
-            <name>Fernando Tudela Desantes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Visualizing Data Models with Copilot in an ERD View]]></title>
         <id>https://365community.online/visualizing-data-models-with-copilot-in-an-erd-view</id>
         <link href="https://365community.online/visualizing-data-models-with-copilot-in-an-erd-view"/>
@@ -54343,17 +54343,6 @@ The post 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Powe
         <summary type="html"><![CDATA[Sometimes we can easily use manually triggered Power Automate Flows as ‘mini-scripts’, to run actions in bulk, such as creating/modifying data.  I recently came across the need to sync a […]]]></summary>
         <author>
             <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the purpose of the workflow parameter ‘Require explicitly assigned users’?]]></title>
-        <id>https://dynamicspedia.com/?p=19047</id>
-        <link href="https://dynamicspedia.com/2024/07/what-is-the-purpose-of-the-workflow-parameter-require-explicitly-assigned-users/"/>
-        <updated>2024-07-15T07:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Workflow and security do have strong relation in Microsoft Dynamics 365 Finance and Operations. A user not assigned to a workflow task can’t approve a workflow instance. Also, the user should have correct permissions from the security settings as I explained before in another blog. (Workflow security in Dynamics 365 Finance and Operations) In this […]
-The post What is the purpose of the workflow parameter ‘Require explicitly assigned users’? appeared first on Dynamicspedia.]]></summary>
-        <author>
-            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
