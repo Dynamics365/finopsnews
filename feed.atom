@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-16T02:48:57.270Z</updated>
+    <updated>2026-07-17T02:51:20.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Arc – Simply Explained]]></title>
+        <id>https://365community.online/azure-arc-simply-explained</id>
+        <link href="https://365community.online/azure-arc-simply-explained"/>
+        <updated>2026-07-17T02:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Modern IT environments rarely exist in a single cloud. Most organizations run Windows and Linux servers across on-premises data centers, Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), branch offices, and edge locations. Unfortunately, every environment introduces its own management portal, security tools, monitoring platform, and patching process. The result is fragmented operations, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Platform Engineering – Simply Explained]]></title>
+        <id>https://365community.online/platform-engineering-simply-explained</id>
+        <link href="https://365community.online/platform-engineering-simply-explained"/>
+        <updated>2026-07-16T23:02:54.000Z</updated>
+        <summary type="html"><![CDATA[For years, DevOps promised to break down the barriers between development and operations by giving teams greater ownership over the software they build. While the idea was powerful, reality became far more complicated. Developers suddenly found themselves responsible not only for writing code, but also for Kubernetes, Terraform, CI/CD pipelines, cloud networking, monitoring, security, secret […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Foundry – Simply Explained]]></title>
+        <id>https://365community.online/azure-ai-foundry-simply-explained</id>
+        <link href="https://365community.online/azure-ai-foundry-simply-explained"/>
+        <updated>2026-07-16T19:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is evolving faster than almost any other technology, and with new models, frameworks, and AI services appearing almost every month, it’s becoming increasingly difficult to know where to start. Microsoft has also renamed and expanded its AI platform several times—from Cognitive Services to Azure AI Services, Azure AI Studio, Azure AI Foundry, and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditch the Power Apps maker portal!]]></title>
+        <id>https://365community.online/ditch-the-power-apps-maker-portal</id>
+        <link href="https://365community.online/ditch-the-power-apps-maker-portal"/>
+        <updated>2026-07-16T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you a maker, a low-code developer, a builder? Do you want to be ten times more productive when you build Canvas apps, model-driven apps, Power Automate flows, and Power Pages? I’m going to show you a set of tools that will do exactly that. This is different from what you’re used to. But if […]]]></summary>
+        <author>
+            <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Purview – Simply Explained]]></title>
+        <id>https://365community.online/microsoft-purview-simply-explained</id>
+        <link href="https://365community.online/microsoft-purview-simply-explained"/>
+        <updated>2026-07-16T16:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Protecting your network is no longer enough to protect your business. Modern organizations store sensitive information across Microsoft 365, Azure, SharePoint, OneDrive, Teams, Exchange, file servers, cloud platforms, and even AI-powered applications like Microsoft 365 Copilot. Once someone has legitimate access, traditional infrastructure security can no longer control how that data is used or shared. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Entra Permissions Management – Simply Explained]]></title>
+        <id>https://365community.online/microsoft-entra-permissions-management-simply-explained</id>
+        <link href="https://365community.online/microsoft-entra-permissions-management-simply-explained"/>
+        <updated>2026-07-16T12:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Cloud security isn’t just about protecting user accounts anymore. Modern organizations manage thousands of identities across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP). Every user, service principal, workload, application, and automation account receives permissions over time, and those permissions rarely get removed. This silent growth of unnecessary privileges is known as […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your CRM Speaks English. Your Team Doesn’t. Let’s Fix That.]]></title>
+        <id>https://365community.online/your-crm-speaks-english-your-team-doesnt-lets-fix-that</id>
+        <link href="https://365community.online/your-crm-speaks-english-your-team-doesnt-lets-fix-that"/>
+        <updated>2026-07-16T12:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Consider this scenario- Your company has just expanded into Germany. Big move. Champagne was popped. A very confident slide deck was presented to leadership, and then your new German sales team opens Dynamics 365, looks at the map interface entirely in English, and collectively does the very German thing of saying nothing, going very quiet, […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Load Balancer — Simply Explained]]></title>
+        <id>https://365community.online/azure-load-balancer-simply-explained</id>
+        <link href="https://365community.online/azure-load-balancer-simply-explained"/>
+        <updated>2026-07-16T09:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Every application starts small. A single virtual machine serves your website, processes customer requests, and handles all incoming traffic. At first, everything works perfectly. But as your user base grows, traffic spikes, maintenance windows, or unexpected server failures quickly expose a major weakness—your entire application depends on one machine. In this episode of m365.fm, we […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Firewall – Simply Explained]]></title>
+        <id>https://365community.online/azure-firewall-simply-explained</id>
+        <link href="https://365community.online/azure-firewall-simply-explained"/>
+        <updated>2026-07-16T06:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Securing a traditional office network was relatively straightforward—you installed a physical firewall at the edge of your network and inspected everything entering or leaving your building. But cloud computing completely changes that model. Applications are distributed across regions, users connect from anywhere in the world, and workloads communicate constantly with each other. In this episode […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Policy – Simply Explained]]></title>
         <id>https://365community.online/azure-policy-simply-explained</id>
@@ -17,13 +107,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure MCP Server – Simply Explained]]></title>
-        <id>https://365community.online/azure-mcp-server-simply-explained</id>
-        <link href="https://365community.online/azure-mcp-server-simply-explained"/>
-        <updated>2026-07-15T09:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is rapidly evolving from simply answering questions to actively performing real work. But for AI agents to become truly useful, they need secure access to cloud resources, databases, monitoring systems, and development tools. That’s exactly where the Azure MCP Server comes in. In this episode, we explain Microsoft’s Azure Model Context Protocol (MCP) […]]]></summary>
+        <title type="html"><![CDATA[What an AI-Powered Donor Management Solution Taught Me About the Future of the Not-for-Profit Sector]]></title>
+        <id>https://365community.online/what-an-ai-powered-donor-management-solution-taught-me-about-the-future-of-the-not-for-profit-sector</id>
+        <link href="https://365community.online/what-an-ai-powered-donor-management-solution-taught-me-about-the-future-of-the-not-for-profit-sector"/>
+        <updated>2026-07-16T02:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, I have had the opportunity to work with a number of not-for-profit organisations across healthcare, disability services and community support sectors. Whilst each organisation has its own unique challenges, they often have more in common than they realise. Almost all are operating under increasing demand, facing pressure to demonstrate outcomes, […]]]></summary>
         <author>
-            <name>Mirko Peters</name>
+            <name>Saurav Dhyani</name>
         </author>
     </entry>
     <entry>
@@ -47,83 +137,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing AI Agents That Business Central Consultants Can Trust]]></title>
-        <id>https://365community.online/designing-ai-agents-that-business-central-consultants-can-trust</id>
-        <link href="https://365community.online/designing-ai-agents-that-business-central-consultants-can-trust"/>
-        <updated>2026-07-15T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction – Intelligence Alone Isn’t Enough Artificial Intelligence is changing the way we think about software development, consulting, and business applications. Every week brings a new Large Language Model, a new AI framework, or another breakthrough in agentic AI. The pace of innovation is incredible, and it’s becoming increasingly clear that AI will play a […]]]></summary>
+        <title type="html"><![CDATA[Expanding scheduling choice in Dynamics 365 Field Service with Solvares’ VISITOUR accelerator]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202802</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/14/dynamics-365-field-service-scheduling-optimization-solvares-visitour/"/>
+        <updated>2026-07-14T16:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is expanding scheduling choices in Dynamics 365 Field Service with the Solvares VISITOUR accelerator. The solution adds advanced scheduling optimization, predictive route planning, and continuous intraday re-optimization for complex field service operations.
+The post Expanding scheduling choice in Dynamics 365 Field Service with Solvares’ VISITOUR accelerator appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
-            <name>Amol Salvi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Copy Location Feature in Business Central 2026 Wave 1 (BC28)]]></title>
-        <id>https://365community.online/how-to-use-the-copy-location-feature-in-business-central-2026-wave-1-bc28</id>
-        <link href="https://365community.online/how-to-use-the-copy-location-feature-in-business-central-2026-wave-1-bc28"/>
-        <updated>2026-07-15T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi All, Learn how the new Copy Location feature in Business Central BC28 helps duplicate warehouse locations faster and reduce manual setup time. Business Central BC28 introduces Copy Location, allowing users to duplicate existing warehouse/location setups instead of recreating configurations manually. Managing multiple warehouse locations in Microsoft Dynamics 365 Business Central often involves repetitive configuration […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Sphere – Simply Explained]]></title>
-        <id>https://365community.online/azure-sphere-simply-explained</id>
-        <link href="https://365community.online/azure-sphere-simply-explained"/>
-        <updated>2026-07-14T21:43:44.000Z</updated>
-        <summary type="html"><![CDATA[The Internet of Things has connected billions of devices to the internet—from factory sensors and medical equipment to smart thermostats and industrial controllers. But many of these devices were never designed with cybersecurity in mind, making them attractive targets for attackers. In this episode of Microsoft Knowledge Nuggets on M365 FM, Mirko Peters explains Azure […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Open Datasets – Simply Explained]]></title>
-        <id>https://365community.online/azure-open-datasets-simply-explained</id>
-        <link href="https://365community.online/azure-open-datasets-simply-explained"/>
-        <updated>2026-07-14T18:07:55.000Z</updated>
-        <summary type="html"><![CDATA[Finding high-quality data is often the biggest obstacle when learning data science, machine learning, or business analytics. Public datasets are scattered across hundreds of websites, stored in different formats, and frequently require hours of cleaning before they become useful. Azure Open Datasets removes that barrier completely. In this episode of Microsoft Knowledge Nuggets on M365 […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Admin V2 – Create Rule Set Explained]]></title>
-        <id>https://365community.online/power-platform-admin-v2-create-rule-set-explained</id>
-        <link href="https://365community.online/power-platform-admin-v2-create-rule-set-explained"/>
-        <updated>2026-07-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I was chatting to Cooky the other day about APIs for Power Platform with some work he was trying to do for some tools. I went down a bit of a rabbit hole with the connector in Power Automate, as that can do similar actions, so I started looking at the actions and got very […]]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New D365 Field Service Scheduling Enhancements You Need to Know]]></title>
-        <id>https://365community.online/new-d365-field-service-scheduling-enhancements-you-need-to-know</id>
-        <link href="https://365community.online/new-d365-field-service-scheduling-enhancements-you-need-to-know"/>
-        <updated>2026-07-14T08:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft just released a ton of updates for Dynamics 365 Field Service scheduling as part of 2026 Release Wave 1 and I can’t wait to tell you all about it! If you spend any part of your day in the Schedule Board in D365 Field Service, you’re going to want to keep reading, because these […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New D365 Field Service Scheduling Enhancements You Need to Know! – YouTube]]></title>
-        <id>https://365community.online/new-d365-field-service-scheduling-enhancements-you-need-to-know-youtube</id>
-        <link href="https://365community.online/new-d365-field-service-scheduling-enhancements-you-need-to-know-youtube"/>
-        <updated>2026-07-14T08:06:11.000Z</updated>
-        <summary type="html"><![CDATA[New D365 Field Service Scheduling Enhancements You Need to Know! In this video, I walk through my favorite scheduling updates in D365 Field Service and explain how they can help dispatchers and schedulers work more efficiently. From moving and reassigning multiple bookings with just a few clicks to a new full-screen Map view, week numbers, […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Landing Zone Is A Liability]]></title>
-        <id>https://365community.online/your-ai-landing-zone-is-a-liability</id>
-        <link href="https://365community.online/your-ai-landing-zone-is-a-liability"/>
-        <updated>2026-07-14T06:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Most organizations believe deploying Azure OpenAI is as simple as provisioning another Azure resource. Create an endpoint, generate an API key, connect your application, and start building AI experiences. While this approach may work for prototypes, it quickly becomes a serious liability in enterprise environments. In this episode of the M365 FM Podcast, host Mirko […]]]></summary>
-        <author>
-            <name>Mirko Peters</name>
+            <name>Andrew Clear</name>
         </author>
     </entry>
     <entry>
@@ -54181,158 +54202,6 @@ The post Build intelligent and scalable solutions with Microsoft Power Apps and 
         <summary type="html"><![CDATA[Business Central 2024 Wave 2 – what is planned The 2024 release wave 2 plan covers all new functionalities planned to be delivered to market from October 2024 to March […]]]></summary>
         <author>
             <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Process Mining Microsoft 365 Personal Recommendations]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations"/>
-        <updated>2024-07-17T14:00:52.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Psychology, to Customer Insights – Journeys with Kelly Simpson – YouTube]]></title>
-        <id>https://365community.online/from-psychology-to-customer-insights-journeys-with-kelly-simpson-youtube-2</id>
-        <link href="https://365community.online/from-psychology-to-customer-insights-journeys-with-kelly-simpson-youtube-2"/>
-        <updated>2024-07-17T13:36:07.000Z</updated>
-        <summary type="html"><![CDATA[With Scottish Summit 2024 approaching we spoke to community star and marketing mastermind Kelly Simpson about how she started her career and Microsoft community activity. source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid Mistakes in On-Premises Identity Governance – YouTube]]></title>
-        <id>https://365community.online/avoid-mistakes-in-on-premises-identity-governance-youtube</id>
-        <link href="https://365community.online/avoid-mistakes-in-on-premises-identity-governance-youtube"/>
-        <updated>2024-07-17T11:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to avoid mistakes in on-premises identity governance and prepare for the SC-100 exam with our expert tips and insights. Perfect for those looking to enhance their skills in […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Flows with Connections from Users in Copilot Studio]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-flows-with-connections-from-users-in-copilot-studio</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-flows-with-connections-from-users-in-copilot-studio"/>
-        <updated>2024-07-17T10:00:23.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OOB: Model-driven app within D365 HR.]]></title>
-        <id>https://365community.online/oob-model-driven-app-within-d365-hr</id>
-        <link href="https://365community.online/oob-model-driven-app-within-d365-hr"/>
-        <updated>2024-07-17T09:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Release notes were shared a couple of days ago, and I'm beyond happy to share the following news with you: WE HAVE A RECRUITMENT PIECE BUILT IN POWER PLATFORM! Who […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Power Apps with Microsoft Planner using Microsoft Teams]]></title>
-        <id>https://365community.online/how-to-integrate-power-apps-with-microsoft-planner-using-microsoft-teams</id>
-        <link href="https://365community.online/how-to-integrate-power-apps-with-microsoft-planner-using-microsoft-teams"/>
-        <updated>2024-07-17T08:45:27.000Z</updated>
-        <summary type="html"><![CDATA[This blog will thoroughly explore the seamless integration of Power Apps with Microsoft Planner to effectively create and assign tasks to users within your organization using Microsoft Teams. The vast […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model-driven Apps – openAlertDialog – Code Snippet]]></title>
-        <id>https://365community.online/model-driven-apps-openalertdialog-code-snippet</id>
-        <link href="https://365community.online/model-driven-apps-openalertdialog-code-snippet"/>
-        <updated>2024-07-17T00:31:48.000Z</updated>
-        <summary type="html"><![CDATA[We quite often use the alert to display a dialog, which contains a message and a button. In this article, will explain about the syntax and with an example. Syntax: […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central v25: what’s coming for developers.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-v25-whats-coming-for-developers</id>
-        <link href="https://365community.online/dynamics-365-business-central-v25-whats-coming-for-developers"/>
-        <updated>2024-07-16T20:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has publicly announced today the plans for the 2024 Wave 2 release of their Dynamics 365 and Power Platform products. Lots of interesting features are coming also for Dynamics […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set an app (Model-driven or Canvas App) as a startup app – Power Apps Mobile]]></title>
-        <id>https://365community.online/set-an-app-model-driven-or-canvas-app-as-a-startup-app-power-apps-mobile</id>
-        <link href="https://365community.online/set-an-app-model-driven-or-canvas-app-as-a-startup-app-power-apps-mobile"/>
-        <updated>2024-07-16T18:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has introduced a new feature, through which we can now specify a particular app as a start-up app, that will open up when we launch the Power Apps mobile, […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Security Between D365FO Versions]]></title>
-        <id>https://365community.online/comparing-security-between-d365fo-versions</id>
-        <link href="https://365community.online/comparing-security-between-d365fo-versions"/>
-        <updated>2024-07-16T16:44:39.000Z</updated>
-        <summary type="html"><![CDATA[With Microsoft on a true ‘one version’ solution for Dynamics 365, it can become extremely important to ensure change management practices are followed during updates. I have previously released a […]]]></summary>
-        <author>
-            <name>Alex Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Security Between D365FO Versions]]></title>
-        <id>https://alexdmeyer.com/?p=3268</id>
-        <link href="https://alexdmeyer.com/2024/07/16/comparing-security-between-d365fo-versions/"/>
-        <updated>2024-07-16T16:44:39.000Z</updated>
-        <summary type="html"><![CDATA[With Microsoft on a true ‘one version’ solution for Dynamics 365, it can become extremely important to ensure change management practices are followed during updates. I have previously released a tool that could potentially help with this process and I wanted to walk through how this can be done. Extract Configuration Settings Because of my […]
-The post Comparing Security Between D365FO Versions appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Wave 2: Dynamics 365 Sales]]></title>
-        <id>https://365community.online/2024-wave-2-dynamics-365-sales</id>
-        <link href="https://365community.online/2024-wave-2-dynamics-365-sales"/>
-        <updated>2024-07-16T16:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Well, folks, Microsoft is at it again! They’ve just dropped some serious coolness with the 2024 wave 2 release notes, hot off the press just 90 minutes ago! I’m stoked […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/"/>
-        <updated>2024-07-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On July 16, 2024, we published the 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform.
-The post 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Ryan Darby Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release wave 2 2024 – Customer Insights – Data]]></title>
-        <id>https://365community.online/release-wave-2-2024-customer-insights-data</id>
-        <link href="https://365community.online/release-wave-2-2024-customer-insights-data"/>
-        <updated>2024-07-16T15:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Release wave 2 2024 is out, let’s take a look at the features that’ll come until March 2025 for Customer Insights – Data. PP is Public Preview and GA is […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release wave 2 2024 – Customer Insights – Journeys]]></title>
-        <id>https://365community.online/release-wave-2-2024-customer-insights-journeys</id>
-        <link href="https://365community.online/release-wave-2-2024-customer-insights-journeys"/>
-        <updated>2024-07-16T15:39:35.000Z</updated>
-        <summary type="html"><![CDATA[It’s that time of the year again, release wave 2 2024 is out! There are several things that originally was in the wave 1 release, but been pushed to this […]]]></summary>
-        <author>
-            <name>Malin Martnes</name>
         </author>
     </entry>
 </feed>
