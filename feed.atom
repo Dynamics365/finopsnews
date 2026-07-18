@@ -2,18 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-17T02:51:20.189Z</updated>
+    <updated>2026-07-18T02:43:46.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Azure Arc – Simply Explained]]></title>
-        <id>https://365community.online/azure-arc-simply-explained</id>
-        <link href="https://365community.online/azure-arc-simply-explained"/>
-        <updated>2026-07-17T02:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Modern IT environments rarely exist in a single cloud. Most organizations run Windows and Linux servers across on-premises data centers, Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), branch offices, and edge locations. Unfortunately, every environment introduces its own management portal, security tools, monitoring platform, and patching process. The result is fragmented operations, […]]]></summary>
+        <title type="html"><![CDATA[New User log and dormant user report feature]]></title>
+        <id>https://dynamicspedia.com/?p=20361</id>
+        <link href="https://dynamicspedia.com/2026/07/new-user-log-and-dormant-user-report-feature/"/>
+        <updated>2026-07-17T08:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Just recently, Microsoft released a new version for user logs, and based on this, a new dormant user report was created. Two weeks ago, I was checking for a new feature related to viewing the license requirement per object. I then also noticed another feature called (Preview) User log and dormant user report V2 feature. […]
+The post New User log and dormant user report feature appeared first on Dynamicspedia.]]></summary>
         <author>
-            <name>Mirko Peters</name>
+            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +115,28 @@
         <summary type="html"><![CDATA[Over the past few years, I have had the opportunity to work with a number of not-for-profit organisations across healthcare, disability services and community support sectors. Whilst each organisation has its own unique challenges, they often have more in common than they realise. Almost all are operating under increasing demand, facing pressure to demonstrate outcomes, […]]]></summary>
         <author>
             <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer insights, reimagined: The intelligence layer powering agentic customer experience]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202767</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/15/customer-insights-reimagined-the-intelligence-layer-powering-agentic-customer-experience/"/>
+        <updated>2026-07-15T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Customers expect a single, continuous relationship with your brand. One where every interaction feels informed and connected.
+The post Customer insights, reimagined: The intelligence layer powering agentic customer experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Morton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/15/service-agent-microsoft-365-copilot-customer-service/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/15/service-agent-microsoft-365-copilot-customer-service/"/>
+        <updated>2026-07-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Service Agent extends Dynamics 365 Customer Service beyond traditional assistance by enabling AI-powered actions across cases, knowledge, email, and workflow management in Microsoft 365 Copilot.
+The post From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Saurabh Gupta and Rushil Vora</name>
         </author>
     </entry>
     <entry>
@@ -54202,6 +54225,16 @@ The post Build intelligent and scalable solutions with Microsoft Power Apps and 
         <summary type="html"><![CDATA[Business Central 2024 Wave 2 – what is planned The 2024 release wave 2 plan covers all new functionalities planned to be delivered to market from October 2024 to March […]]]></summary>
         <author>
             <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Process Mining Microsoft 365 Personal Recommendations]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations"/>
+        <updated>2024-07-17T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
         </author>
     </entry>
 </feed>

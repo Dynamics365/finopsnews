@@ -528,16 +528,6 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
-          "id": "https://365community.online/azure-arc-simply-explained",
-          "author": "Mirko Peters",
-          "description": "Modern IT environments rarely exist in a single cloud. Most organizations run Windows and Linux servers across on-premises data centers, Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), branch offices, and edge locations. Unfortunately, every environment introduces its own management portal, security tools, monitoring platform, and patching process. The result is fragmented operations, […]",
-          "link": "https://365community.online/azure-arc-simply-explained",
-          "publishedOn": "2026-07-17T02:38:13.000Z",
-          "wordCount": 2495,
-          "title": "Azure Arc – Simply Explained",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/469f3253d99715d9ec139959e4f64fa2.jpg?fit=1200%2C630&ssl=1"
-        },
-        {
           "id": "https://365community.online/platform-engineering-simply-explained",
           "author": "Mirko Peters",
           "description": "For years, DevOps promised to break down the barriers between development and operations by giving teams greater ownership over the software they build. While the idea was powerful, reality became far more complicated. Developers suddenly found themselves responsible not only for writing code, but also for Kubernetes, Terraform, CI/CD pipelines, cloud networking, monitoring, security, secret […]",
@@ -41441,6 +41431,16 @@
           "wordCount": 3198,
           "title": "Business Central 2024 Wave 2 – what is planned",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Business-Central-2024-Wave-2-–-what-is-planned.png?fit=778%2C541&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations",
+          "publishedOn": "2024-07-17T14:00:52.000Z",
+          "wordCount": 3254,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use Process Mining Microsoft 365 Personal Recommendations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -41455,6 +41455,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=20361",
+          "author": "André Arnaud de Calavon",
+          "description": "Just recently, Microsoft released a new version for user logs, and based on this, a new dormant user report was created. Two weeks ago, I was checking for a new feature related to viewing the license requirement per object. I then also noticed another feature called (Preview) User log and dormant user report V2 feature. […]\nThe post New User log and dormant user report feature appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2026/07/new-user-log-and-dormant-user-report-feature/",
+          "publishedOn": "2026-07-17T08:03:30.000Z",
+          "wordCount": 5822,
+          "title": "New User log and dormant user report feature",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2026/07/UserLogV2-1200.png"
+        },
         {
           "id": "https://dynamicspedia.com/?p=20351",
           "author": "André Arnaud de Calavon",
@@ -44058,6 +44068,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202767",
+          "author": "Mike Morton",
+          "description": "Customers expect a single, continuous relationship with your brand. One where every interaction feels informed and connected.\nThe post Customer insights, reimagined: The intelligence layer powering agentic customer experience appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/15/customer-insights-reimagined-the-intelligence-layer-powering-agentic-customer-experience/",
+          "publishedOn": "2026-07-15T20:15:00.000Z",
+          "wordCount": 6585,
+          "title": "Customer insights, reimagined: The intelligence layer powering agentic customer experience",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/07/customer-loyalty-retail-point-of-sale-card-payment-cafe-1024x576.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/15/service-agent-microsoft-365-copilot-customer-service/",
+          "author": "Saurabh Gupta and Rushil Vora",
+          "description": "Service Agent extends Dynamics 365 Customer Service beyond traditional assistance by enabling AI-powered actions across cases, knowledge, email, and workflow management in Microsoft 365 Copilot.\nThe post From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/15/service-agent-microsoft-365-copilot-customer-service/",
+          "publishedOn": "2026-07-15T15:00:00.000Z",
+          "wordCount": 6203,
+          "title": "From Answers to Action: What’s New with Copilot in Dynamics 365 Customer Service",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/12/AdobeStock_1789964985-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202802",
           "author": "Andrew Clear",
