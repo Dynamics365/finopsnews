@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-20T03:27:32.165Z</updated>
+    <updated>2026-07-21T02:54:04.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Direct SQL Query Execution in D365 FO X++]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html"/>
+        <updated>2026-07-20T17:31:38.151Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+X++ is very powerful and has SQL like statements that can be used to interact with data.
+
+Select data: Select the data to view or modify.
+
+select statement – Fetch records.
+
+Insert data: Add one or more new records to a table.
+
+insert and doInsert methods – Insert one record at a time.
+
+insert_recordset, RecordInsertList.insertDatabase, and RecordSortedList.insertDatabase methods – Insert multiple records at the same time.
+
+Update data: Modify the data in existing table records.
+
+update and doUpdate methods – Update one record at a time.
+
+update_recordset statement – Update multiple records at the same time.
+1)
+
+
+
+class RunDirectSqlSelect
+{
+    public static void main(Args _args)
+    {
+        UserConnection                  connection = new UserConnection();
+        Statemen…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Security Governance – Security Object License Report]]></title>
+        <id>https://alexdmeyer.com/?p=4028</id>
+        <link href="https://alexdmeyer.com/2026/07/20/user-security-governance-security-object-license-report/"/>
+        <updated>2026-07-20T15:33:53.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written about the License Usage Summary report before as this is a key part of performing any license assessment within the User Security Governance functionality in D365FSC. One license report feature that was removed / deprecated in a previous version was the license reporting on the ‘View Permissions’ report at the object level. This […]
+The post User Security Governance – Security Object License Report appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring the Pre-requisite Master Data for Quality Management in D365 F&SCM – Part 2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3132</id>
+        <link href="https://exploredynamics365.home.blog/2026/07/20/configuring-the-pre-requisite-master-data-for-quality-management-in-microsoft-dynamics-365-finance-operations-part-2/"/>
+        <updated>2026-07-20T08:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Overview In Part 1, we understood why Quality Management is essential for every manufacturing organization and how Microsoft Dynamics 365 Finance & Operations helps automate the quality inspection process. Before the system can automatically create a Quality Order, we must first configure the master data that drives the entire Quality Management framework. Think of these […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Backup – Simply Explained]]></title>
         <id>https://365community.online/azure-backup-simply-explained</id>

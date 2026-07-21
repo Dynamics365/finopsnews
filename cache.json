@@ -397,6 +397,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html",
+          "author": null,
+          "description": "Introduction\n\nX++ is very powerful and has SQL like statements that can be used to interact with data.\n\nSelect data: Select the data to view or modify.\n\nselect statement – Fetch records.\n\nInsert data: Add one or more new records to a table.\n\ninsert and doInsert methods – Insert one record at a time.\n\ninsert_recordset, RecordInsertList.insertDatabase, and RecordSortedList.insertDatabase methods – Insert multiple records at the same time.\n\nUpdate data: Modify the data in existing table records.\n\nupdate and doUpdate methods – Update one record at a time.\n\nupdate_recordset statement – Update multiple records at the same time.\n1)\n\n\n\nclass RunDirectSqlSelect\n{\n    public static void main(Args _args)\n    {\n        UserConnection                  connection = new UserConnection();\n        Statemen…",
+          "link": "https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html",
+          "publishedOn": "2026-07-20T17:31:38.151Z",
+          "wordCount": 5723,
+          "title": "Understanding Direct SQL Query Execution in D365 FO X++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjm7cACnaV3fqSNEsu4wSOxK3uWuycaVlpffcfgFDiTS6Ht7q-rZfwcgFO1Ojy-oXGBd1W3pZWopl-TMll_zEEL41E5jGSwY0TW_4QnOnVWTzQKEpi3Ay7bNUl07KUi2vGFHRRq1Ha5B9LVI81UU2w04dM_zyvoDltGl2EkPoeIX3zVz5C3r3sihYZG580=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2026/06/inactive-vendor-blocking-enhancement.html",
           "author": null,
           "description": "Purpose\nThe purpose of this document is to describe the design and implementation of the Automatic Blocking of Inactive Vendors functionality in Microsoft Dynamics 365 Finance and Operations (D365FO).\nThis enhancement automates the identification and blocking of inactive vendors based on configurable business rules, eliminating the need for manual vendor maintenance. The solution introduces a configurable batch process that evaluates vendor inactivity using the latest vendor transaction date and automatically updates the vendor blocking status.\nThis functionality can be used for:\nVendor Blocking status to \"All\" for eligible inactive vendors.\n\nProviding parameter-based filtering using Vendor Groups and specific Vendors.\nProduct\nMicrosoft Dynamics 365 Finance and Operations (D365FO)\nDevelopm…",
@@ -42002,6 +42012,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=4028",
+          "author": "Alex",
+          "description": "I’ve written about the License Usage Summary report before as this is a key part of performing any license assessment within the User Security Governance functionality in D365FSC. One license report feature that was removed / deprecated in a previous version was the license reporting on the ‘View Permissions’ report at the object level. This […]\nThe post User Security Governance – Security Object License Report appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2026/07/20/user-security-governance-security-object-license-report/",
+          "publishedOn": "2026-07-20T15:33:53.000Z",
+          "wordCount": 4200,
+          "title": "User Security Governance – Security Object License Report",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2026/07/1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=4007",
           "author": "Alex",
           "description": "If you’ve spent any time building custom security in Dynamics 365 Finance & Supply Chain Management, you know that assigning Read access to an object means you have the ability to view the record but cannot create new records and can’t edit or delete the record. But are there some forms that don’t follow this […]\nThe post The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read appeared first on Alex Meyer.",
@@ -46939,6 +46959,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3132",
+          "author": "Arvind Bharti",
+          "description": "Overview In Part 1, we understood why Quality Management is essential for every manufacturing organization and how Microsoft Dynamics 365 Finance & Operations helps automate the quality inspection process. Before the system can automatically create a Quality Order, we must first configure the master data that drives the entire Quality Management framework. Think of these […]",
+          "link": "https://exploredynamics365.home.blog/2026/07/20/configuring-the-pre-requisite-master-data-for-quality-management-in-microsoft-dynamics-365-finance-operations-part-2/",
+          "publishedOn": "2026-07-20T08:03:03.000Z",
+          "wordCount": 4340,
+          "title": "Configuring the Pre-requisite Master Data for Quality Management in D365 F&SCM – Part 2",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/07/colorful-modern-designer-linkedin-banner-presentation-3.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3121",
           "author": "Arvind Bharti",
