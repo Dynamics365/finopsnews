@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-21T02:54:04.286Z</updated>
+    <updated>2026-07-22T02:52:07.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -53,6 +53,16 @@ class RunDirectSqlSelect
 The post User Security Governance – Security Object License Report appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring the Pre-requisite Master Data for Quality Management in D365 F&SCM – Part 2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3132</id>
+        <link href="https://exploredynamics365.home.blog/2026/07/20/configuring-the-pre-requisite-master-data-for-quality-management-in-microsoft-dynamics-365-finance-operations-part-2/"/>
+        <updated>2026-07-20T08:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Overview In Part 1, we understood why Quality Management is essential for every manufacturing organization and how Microsoft Dynamics 365 Finance & Operations helps automate the quality inspection process. Before the system can automatically create a Quality Order, we must first configure the master data that drives the entire Quality Management framework. Think of these […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
         </author>
     </entry>
     <entry>
@@ -54131,18 +54141,6 @@ The post 5 steps for becoming AI-ready in field service appeared first on Micros
         <summary type="html"><![CDATA[Prepare for the SC-100 exam by learning about SIEM, SOAR, detection, and response designs. This ultimate guide covers all the topics you need to know! Episode Breakdown: 00:00 – Episode […]]]></summary>
         <author>
             <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upload your Electronic Reporting objects to Dataverse solution automatically – How the new ALM in ER will look like.]]></title>
-        <id>http://fernitudela.dev/?p=1586</id>
-        <link href="https://fernitudela.dev/2024/07/22/upload-your-electronic-reporting-objects-to-dataverse-solution-automatically-how-the-new-alm-in-er-will-look-like/"/>
-        <updated>2024-07-22T10:08:11.000Z</updated>
-        <summary type="html"><![CDATA[In a previous post, I explained how I did to migrate all the existing ERs of a project to Dataverse. But what about the new ER reports or versions created after that? After months of not knowing what the new development/deployment cycle will look like due to the deprecation of RCS and the move to Dataverse, we finally have an answer! There is a new functionality to streamline the process of uploading to the Dataverse repository your Electronic Reporting objects right after you have developed and tested them in your development environment! That way you will be able to easily distribute them to all the different environments and also keep all your reports in one place, making easier to avoid ending up having divergent versions of the same report. 
-
-This functionality is included into the Upload into repository (that it normally worked so-so), but that now is a live safer/changer for all the ER developers that want to do the things correctly and use a Repository. … More Upload your Electronic Reporting objects to Dataverse solution automatically – How the new ALM in ER will look like.]]></summary>
-        <author>
-            <name>Fernando Tudela Desantes</name>
         </author>
     </entry>
     <entry>

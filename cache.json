@@ -41987,16 +41987,6 @@
           "wordCount": 3961,
           "title": "Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.",
           "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/09/featured-image.png?w=1200"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1586",
-          "author": "Fernando Tudela Desantes",
-          "description": "In a previous post, I explained how I did to migrate all the existing ERs of a project to Dataverse. But what about the new ER reports or versions created after that? After months of not knowing what the new development/deployment cycle will look like due to the deprecation of RCS and the move to Dataverse, we finally have an answer! There is a new functionality to streamline the process of uploading to the Dataverse repository your Electronic Reporting objects right after you have developed and tested them in your development environment! That way you will be able to easily distribute them to all the different environments and also keep all your reports in one place, making easier to avoid ending up having divergent versions of the same report. \n\nThis functionality is included into the Upload into repository (that it normally worked so-so), but that now is a live safer/changer for all the ER developers that want to do the things correctly and use a Repository. … More Upload your Electronic Reporting objects to Dataverse solution automatically – How the new ALM in ER will look like.",
-          "link": "https://fernitudela.dev/2024/07/22/upload-your-electronic-reporting-objects-to-dataverse-solution-automatically-how-the-new-alm-in-er-will-look-like/",
-          "publishedOn": "2024-07-22T10:08:11.000Z",
-          "wordCount": 3979,
-          "title": "Upload your Electronic Reporting objects to Dataverse solution automatically – How the new ALM in ER will look like.",
-          "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/07/featured-image-1.png?w=1200"
         }
       ]
     },
@@ -46542,6 +46532,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3132",
+          "author": "Arvind Bharti",
+          "description": "Overview In Part 1, we understood why Quality Management is essential for every manufacturing organization and how Microsoft Dynamics 365 Finance & Operations helps automate the quality inspection process. Before the system can automatically create a Quality Order, we must first configure the master data that drives the entire Quality Management framework. Think of these […]",
+          "link": "https://exploredynamics365.home.blog/2026/07/20/configuring-the-pre-requisite-master-data-for-quality-management-in-microsoft-dynamics-365-finance-operations-part-2/",
+          "publishedOn": "2026-07-20T08:03:03.000Z",
+          "wordCount": 4340,
+          "title": "Configuring the Pre-requisite Master Data for Quality Management in D365 F&SCM – Part 2",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/07/colorful-modern-designer-linkedin-banner-presentation-3.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3121",
           "author": "Arvind Bharti",
