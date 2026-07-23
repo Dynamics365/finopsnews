@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-22T02:52:07.154Z</updated>
+    <updated>2026-07-23T03:13:17.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extending agentic Microsoft Dynamics 365 Sales with MCP]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202817</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/21/extending-agentic-microsoft-dynamics-365-sales-with-mcp/"/>
+        <updated>2026-07-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI agents are only as capable as the tools, skills, and information they can reach. In sales, the intelligence that drives great decisions—buying signals, conversation insights, market and account context—often lives outside the customer relationships management (CRM). Getting it into the flow of work has traditionally meant costly integrations or data-duplication projects only the largest companies could sustain.
+The post Extending agentic Microsoft Dynamics 365 Sales with MCP appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Morton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Direct SQL Query Execution in D365 FO X++]]></title>
         <id>https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html</id>
@@ -54090,17 +54101,6 @@ The post New Analysis Engine Now Generally Available!  appeared first on Micros
         <summary type="html"><![CDATA[2024 Wave 2: Copilot for Sales This is part 2 of my video series about the new features that are part of 2024 Release Wave 2. In this episode I […]]]></summary>
         <author>
             <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 steps for becoming AI-ready in field service]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/22/5-steps-for-becoming-ai-ready-in-field-service/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/22/5-steps-for-becoming-ai-ready-in-field-service/"/>
-        <updated>2024-07-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The era of AI came upon us quickly, and many business leaders are scrambling to determine AI strategies that provide the best way forward for their employees and customers alike. The 2024 Microsoft Work Trend Index shows that 79% of leaders agree that their company needs to adopt AI to stay competitive; however, 60% of leaders worry that their organization lacks a plan and a vision for implementing AI.
-The post 5 steps for becoming AI-ready in field service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Safiyyah O’Quinn</name>
         </author>
     </entry>
     <entry>
