@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-24T02:52:40.496Z</updated>
+    <updated>2026-07-25T02:52:07.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Performance Timer: Complete Guide for Troubleshooting Slow Performance - D365 F&O]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2026/07/performance-timer-in-d365-f.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2026/07/performance-timer-in-d365-f.html"/>
+        <updated>2026-07-24T10:02:48.502Z</updated>
+        <summary type="html"><![CDATA[The Microsoft article gives only a high-level overview. Below is a more practical explanation that you can use for learning, troubleshooting, or knowledge-sharing sessions in D365 Finance & Operations.
+Reference: Microsoft Learn - Performance Timer Performance timer - Finance & Operations | Dynamics 365 | Microsoft Learn
+
+What is Performance Timer in D365 FO?
+Performance Timer is a built-in diagnostic tool used to identify whether a performance issue is occurring on:
+
+Client side (browser rendering)
+Server side (X++ execution)
+Database side (SQL queries)
+Network communication
+
+It helps developers and consultants quickly understand where time is being spent when opening forms, posting journals, running reports, or executing customizations
+
+
+How to Open Performance Timer
+Add the following pa…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365: An agent-ready business applications platform]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202870</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/23/microsoft-dynamics-365-an-agent-ready-business-applications-platform/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instead of integrating AI around enterprise resource planning (ERP), organizations can bring agents into the flow of work, where business decisions and transactions already happen.
+The post Microsoft Dynamics 365: An agent-ready business applications platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Cecilia Flombaum</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Custom Form Submission Validation in Dynamics 365 Customer Insights – Journeys: Inside the Validation Pipeline and the “ms_captcha_solution” Error]]></title>
         <id>https://365community.online/custom-form-submission-validation-in-dynamics-365-customer-insights-journeys-inside-the-validation-pipeline-and-the-ms_captcha_solution-error</id>
@@ -54010,97 +54046,6 @@ The post D365 Mass de-reservation utility appeared first on ER-Consult.]]></summ
         <summary type="html"><![CDATA[In Logic Apps Standard, parameters play a crucial role in creating dynamic, flexible, and reusable workflows. Parameters enable the reuse of workflows by allowing you to define values that can be changed without modifying the workflow’s structure. By centralizing common … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Scale Faster with Power Automate Process Mining Thin Client App]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app"/>
-        <updated>2024-07-25T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Analysis Engine Now Generally Available!]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/"/>
-        <updated>2024-07-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re thrilled to announce that the New Analysis Engine is now generally available (GA)! If you are facing performance issues in loading or editing a canvas app, consider enabling the New Analysis Engine setting.
-The post New Analysis Engine Now Generally Available!  appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Mansi Malik and McCall Saltzman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages: Set up OKTA as an identity provider]]></title>
-        <id>https://365community.online/power-pages-set-up-okta-as-an-identity-provider</id>
-        <link href="https://365community.online/power-pages-set-up-okta-as-an-identity-provider"/>
-        <updated>2024-07-25T12:27:41.000Z</updated>
-        <summary type="html"><![CDATA[If you have configured a Power Pages website, chances are that you will require external users to sign in to be able to access certain information. Things like their own […]]]></summary>
-        <author>
-            <name>Nick Doelman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use the New Desktop Flow Running Timeout Property]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property"/>
-        <updated>2024-07-25T10:00:41.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master prompt engineer with Microsoft Designer]]></title>
-        <id>https://365community.online/master-prompt-engineer-with-microsoft-designer</id>
-        <link href="https://365community.online/master-prompt-engineer-with-microsoft-designer"/>
-        <updated>2024-07-25T07:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Prompt engineering is one of the must-have skills at this point, but let's start from scratch: what TF is prompt engineering? That is more or less the idea, however, it's […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Explore and test Dataverse in the Web API playground (preview)?]]></title>
-        <id>https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview</id>
-        <link href="https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview"/>
-        <updated>2024-07-25T05:39:43.000Z</updated>
-        <summary type="html"><![CDATA[The API Playground is a pre-authenticated software testing environment designed to enable creators to interact swiftly and efficiently with the Microsoft Dataverse Web API. This web application facilitates developers in […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting Subfolder Details from Parent Directory using logic apps]]></title>
-        <id>https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps</id>
-        <link href="https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps"/>
-        <updated>2024-07-24T19:46:58.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting Subfolder Details from Parent Directory using logic apps]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3493</id>
-        <link href="https://anithasantosh.wordpress.com/2024/07/24/extracting-subfolder-details-from-parent-directory-using-logic-apps/"/>
-        <updated>2024-07-24T19:46:58.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect the folder name to create a corresponding document in D365FO. … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages Table Permissions: Configure permissions to see records from child Accounts]]></title>
-        <id>https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts</id>
-        <link href="https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts"/>
-        <updated>2024-07-24T17:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Table permissions is a feature that allows you to control who can view, edit, or delete Dataverse records from a Power Pages site.  Power Pages allows to easily configure table […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
         </author>
     </entry>
 </feed>
