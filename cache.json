@@ -548,6 +548,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/everyone-is-demoing-agents-almost-nobody-is-running-one-in-production",
+          "author": "Dag Calafell",
+          "description": "Agent demos are everywhere. I do them!  And yet I find that people say, \"that's interesting, can you do X instead?\".  The common ones: an agent that reads invoices, answers customer questions, or drafts purchase orders. The demos are genuinely…",
+          "link": "https://365community.online/everyone-is-demoing-agents-almost-nobody-is-running-one-in-production",
+          "publishedOn": "2026-07-27T11:14:21.000Z",
+          "wordCount": 1575,
+          "title": "Everyone Is Demoing Agents. Almost Nobody Is Running One in Production.",
+          "imageUrl": "https://calafell.me/wp-content/uploads/2026/07/demoing-agents-nobody-running-production.png"
+        },
+        {
           "id": "https://365community.online/php-snippets-data-types",
           "author": "Ian Grieve",
           "description": "This post is part of the series where I will be covering the basics of developing in PHP. PHP supports a number of data types which are used to store different kinds of values; understanding data types is important as…",
@@ -49108,16 +49118,6 @@
           "wordCount": 1971,
           "title": "Austrian Peppol-UBL e-invoice",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/09/Austrian_EInvoice.png"
-        },
-        {
-          "id": "https://erconsult.eu/?p=8369",
-          "author": "Eugen Glasow",
-          "description": "The Production control module in Dynamics 365 for Supply Chain Management (SCM) features an automatic BOM reservation that can unintentionally deplete stock, hindering urgent orders. Manual cancellation is labor-intensive, requiring line-by-line action.\nTo streamline this, a runnable class for mass de-reservation is provided. This solution, executable via a menu item or browser command, allows users to specify criteria such as order type and warehouse. Setting the 'Cancel reservation' parameter to Yes enables efficient cancellation with system-generated success messages. The X++ source code for this tool, named InventDeReserve, is available.\nThe post D365 Mass de-reservation utility appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/d365-mass-de-reservation-utility/",
-          "publishedOn": "2024-07-28T14:25:38.000Z",
-          "wordCount": 2119,
-          "title": "D365 Mass de-reservation utility",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/07/ERP_small-1-1024x1024.jpg"
         }
       ]
     },
