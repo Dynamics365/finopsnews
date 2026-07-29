@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-28T02:44:21.530Z</updated>
+    <updated>2026-07-29T02:51:17.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When Entity.Id Is Guid.Empty with QueryExpression.Distinct = True (Dataverse)]]></title>
+        <id>https://365community.online/when-entity-id-is-guid-empty-with-queryexpression-distinct-true-dataverse</id>
+        <link href="https://365community.online/when-entity-id-is-guid-empty-with-queryexpression-distinct-true-dataverse"/>
+        <updated>2026-07-28T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[While optimising the performance of a Dataverse plugin, we noticed a QueryExpression using ColumnSet(true). The business logic only required a few attributes, so replacing ColumnSet(true) with a minimal ColumnSet looked like an easy performance improvement. The query also used Distinct…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting Dynamics 365 data on a Power Pages site and letting people export it.]]></title>
+        <id>https://365community.online/putting-dynamics-365-data-on-a-power-pages-site-and-letting-people-export-it</id>
+        <link href="https://365community.online/putting-dynamics-365-data-on-a-power-pages-site-and-letting-people-export-it"/>
+        <updated>2026-07-28T14:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Two supported ways to show a Dataverse view on a public page with a working Excel download. One takes minutes. Most teams pick the other one anyway.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewiring the operating model]]></title>
+        <id>https://365community.online/rewiring-the-operating-model</id>
+        <link href="https://365community.online/rewiring-the-operating-model"/>
+        <updated>2026-07-28T11:02:46.000Z</updated>
+        <summary type="html"><![CDATA[The tooling question gets settled in a quarter. The harder change is what managers do all day, and that one takes years.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The number your CFO will accept]]></title>
+        <id>https://365community.online/the-number-your-cfo-will-accept</id>
+        <link href="https://365community.online/the-number-your-cfo-will-accept"/>
+        <updated>2026-07-28T11:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Hours saved is not a benefit. It is an input to a benefit, and the step in between is where most AI business cases fall apart.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governance that speeds you up]]></title>
+        <id>https://365community.online/governance-that-speeds-you-up</id>
+        <link href="https://365community.online/governance-that-speeds-you-up"/>
+        <updated>2026-07-28T11:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Controls get framed as the thing slowing AI down. In the programmes that ship, they are the reason anything reaches production at all.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents need onboarding too.]]></title>
+        <id>https://365community.online/agents-need-onboarding-too</id>
+        <link href="https://365community.online/agents-need-onboarding-too"/>
+        <updated>2026-07-28T10:57:27.000Z</updated>
+        <summary type="html"><![CDATA[You would never let a contractor into your systems without an identity, an owner and an end date. Most organisations are doing exactly that with agents, at speed.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing an agent that survives production]]></title>
+        <id>https://365community.online/designing-an-agent-that-survives-production</id>
+        <link href="https://365community.online/designing-an-agent-that-survives-production"/>
+        <updated>2026-07-28T10:55:57.000Z</updated>
+        <summary type="html"><![CDATA[A convincing demo takes an afternoon. Something that still works in month six is a different piece of engineering, and most of it is not the prompt.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where should you build it?]]></title>
+        <id>https://365community.online/where-should-you-build-it</id>
+        <link href="https://365community.online/where-should-you-build-it"/>
+        <updated>2026-07-28T10:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 Copilot, Copilot Studio or Foundry. Three questions settle it, and getting the answer wrong is expensive in both directions.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot is a habit, not a licence.]]></title>
+        <id>https://365community.online/copilot-is-a-habit-not-a-licence</id>
+        <link href="https://365community.online/copilot-is-a-habit-not-a-licence"/>
+        <updated>2026-07-28T10:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Deployment takes an afternoon. Adoption takes a quarter, and it is the only part that produces a return.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your data is not ready, and that is the real project]]></title>
+        <id>https://365community.online/your-data-is-not-ready-and-that-is-the-real-project</id>
+        <link href="https://365community.online/your-data-is-not-ready-and-that-is-the-real-project"/>
+        <updated>2026-07-28T10:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Copilot does not create a governance problem. It makes the one you already had visible to everyone at once.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Line Charges to Posted and Pro Forma Sales Invoices Using Electronic Reporting in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=34684</id>
+        <link href="https://ax.docentric.com/add-line-charges-to-posted-and-pro-forma-sales-invoices/"/>
+        <updated>2026-07-28T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Charges such as freight and handling are often added directly to sales order lines. Although Dynamics 365 Finance includes them in the invoice total, the standard Sales Invoice report doesn't show them separately. As a result, customers cannot see how the total amount was calculated […]
+The post Add Line Charges to Posted and Pro Forma Sales Invoices Using Electronic Reporting in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Amir Omanović</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everyone Is Demoing Agents. Almost Nobody Is Running One in Production.]]></title>
         <id>https://365community.online/everyone-is-demoing-agents-almost-nobody-is-running-one-in-production</id>
@@ -53884,76 +53995,6 @@ The post Introducing Traceability add-in for Dynamics 365 Supply Chain Managemen
         <summary type="html"><![CDATA[Below are the steps we need to follow to call SharePoint Online API through a Console App (C#). The first step is to register an Azure AD app. Provide appropriate […]]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Simplify collections with Copilot for Finance and Business Central]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central"/>
-        <updated>2024-07-29T14:00:06.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Install Field Service Integration with Business Central from AppSource]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-install-field-service-integration-with-business-central-from-appsource</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-install-field-service-integration-with-business-central-from-appsource"/>
-        <updated>2024-07-29T10:00:33.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group July 2024 Meet Up!]]></title>
-        <id>https://365community.online/welsh-azure-user-group-july-2024-meet-up</id>
-        <link href="https://365community.online/welsh-azure-user-group-july-2024-meet-up"/>
-        <updated>2024-07-29T08:05:32.000Z</updated>
-        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG July 2024 meet up and we had yet another two amazing speakers join us. We were joined by James […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group  – July 2024 Event – YouTube]]></title>
-        <id>https://365community.online/welsh-azure-user-group-july-2024-event-youtube</id>
-        <link href="https://365community.online/welsh-azure-user-group-july-2024-event-youtube"/>
-        <updated>2024-07-29T07:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Welsh Azure User Group – July 2024 Event It was the day of our Welsh Azure User Group #WAUG July 2024 meet up and we had yet another two amazing […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central 2024 Wave 2 release: Query.SaveAsJson… and why not more?]]></title>
-        <id>https://365community.online/dynamics-365-business-central-2024-wave-2-release-query-saveasjson-and-why-not-more</id>
-        <link href="https://365community.online/dynamics-365-business-central-2024-wave-2-release-query-saveasjson-and-why-not-more"/>
-        <updated>2024-07-29T06:25:56.000Z</updated>
-        <summary type="html"><![CDATA[When talking about integrations with REST services or, more generally speaking, as a cross-platform data exchange protocol, working with JSON objects is a must. JSON is a is a lightweight […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot – YouTube]]></title>
-        <id>https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube</id>
-        <link href="https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube"/>
-        <updated>2024-07-29T06:25:28.000Z</updated>
-        <summary type="html"><![CDATA[In this lesson you learn how to leverage AI/Copilots when writing Power Pages code (Liquid, Javascrip, HTML and webapi). source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get the Database Version of the Dataverse?]]></title>
-        <id>https://365community.online/how-to-get-the-database-version-of-the-dataverse</id>
-        <link href="https://365community.online/how-to-get-the-database-version-of-the-dataverse"/>
-        <updated>2024-07-29T03:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes we are required to know the Database version of the Dataverse environment to check for the features which are released or yet to be released. In this article, will […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
         </author>
     </entry>
 </feed>
