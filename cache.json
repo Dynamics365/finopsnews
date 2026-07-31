@@ -548,6 +548,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/microsoft-dynamics-365-patterns-and-practices",
+          "author": "Kurt Hatlevik",
+          "description": "For some years Microsoft have worked on patterns, practices, business process guides, and other types of guidance content for Microsoft Dynamics 365. In the July release, things became more interesting, as we now can go from a “glorified” excel sheet…",
+          "link": "https://365community.online/microsoft-dynamics-365-patterns-and-practices",
+          "publishedOn": "2026-07-30T08:55:08.000Z",
+          "wordCount": 3018,
+          "title": "Microsoft Dynamics 365 Patterns and Practices",
+          "imageUrl": "https://i0.wp.com/kurthatlevik.com/wp-content/uploads/2026/07/image-9.png?fit=1200%2C288&ssl=1"
+        },
+        {
           "id": "https://365community.online/why-trust-will-determine-the-success-of-ai-in-business-central",
           "author": "Amol Salvi",
           "description": "AI Is Moving Faster Than Business Confidence Artificial Intelligence has quickly become one of the most exciting topics in the Microsoft Dynamics 365 Business Central community. Every week brings new announcements, more capable language models, Copilot enhancements, AI agents, and…",
@@ -41021,106 +41031,6 @@
           "wordCount": 4022,
           "title": "From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/1722508043_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2",
-          "author": "Scottish Summit",
-          "description": "In this episode, Paddy and Rex catch up with Matt and Zoe to discuss their involvement in Scottish Summit including taking the event on tour to Manchester in 2023. source",
-          "link": "https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2",
-          "publishedOn": "2024-07-31T13:35:31.000Z",
-          "wordCount": 3129,
-          "title": "Taking Scottish Summit on Tour with Matt Beard and Zoe Wilson – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722448786_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index",
-          "author": "Ian Grieve",
-          "description": "This post is part of a series on the new functionality available in Wave 2 of Microsoft Dynamics 365 Business Central 2024. There are two release waves for Business Central […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index",
-          "publishedOn": "2024-07-31T12:00:18.000Z",
-          "wordCount": 3249,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Series Index",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january",
-          "author": "Ian Grieve",
-          "description": "On a recent implementation of Microsoft Dynamics 365 Business Central we created some data exchange definitions for the import of statements, but when it came to testing the client reported […]",
-          "link": "https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january",
-          "publishedOn": "2024-07-31T10:00:59.000Z",
-          "wordCount": 3239,
-          "title": "Microsoft Dynamics 365 Business Central Statement Import Importing all Dates as January",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Microsoft-Dynamics-365-Business-Central-Statement-Import-Importing-all-Dates.png?fit=860%2C245&ssl=1"
-        },
-        {
-          "id": "https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons",
-          "author": "Inogic",
-          "description": "Power BI has introduced an exciting feature that allows users to leverage the capabilities of Power Automate through buttons within Power BI reports. This enhancement significantly improves the user experience […]",
-          "link": "https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons",
-          "publishedOn": "2024-07-31T09:25:50.000Z",
-          "wordCount": 3496,
-          "title": "Automating Tasks in Power BI Reports with Power Automate Buttons",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Automating-Tasks-in-Power-BI-Reports-with-Power-Automate-Buttons.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2",
-          "author": "Victor Dantas",
-          "description": "Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot source",
-          "link": "https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2",
-          "publishedOn": "2024-07-31T07:01:26.000Z",
-          "wordCount": 3111,
-          "title": "Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722419610_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central",
-          "author": "jarmesto",
-          "description": "En octubre llegan algunas novedades muy interesantes en Business Central. Una de ellas es la incorporación del servicio Azure: AI Document Intelligence. Conociendo Document Intellgence Document Intelligence esta ubicado en […]",
-          "link": "https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central",
-          "publishedOn": "2024-07-31T07:00:00.000Z",
-          "wordCount": 3192,
-          "title": "🚀¿Por qué inventar la rueda? Llega Azure AI Document Intelligence a Business Central",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722416313_¿Por-que-inventar-la-rueda-Llega-Azure-AI-Document-Intelligence.jpeg?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions",
-          "author": "Stefano Demiliani",
-          "description": "On 31 August 2024, Microsoft will retire the Cloud Services (classic) deployment model (the announcement was made by Microsoft in March 2022). Before that date, you’ll need to migrate your services that were deployed using this model to Cloud Services (extended support) in Azure Resource […]",
-          "link": "https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions",
-          "publishedOn": "2024-07-31T06:49:00.000Z",
-          "wordCount": 3261,
-          "title": "Do you have again Classic Azure Storage Accounts? These are the last days for migrate and avoid service disruptions.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Do-you-have-again-Classic-Azure-Storage-Accounts-These-are.png?fit=1199%2C301&ssl=1"
-        },
-        {
-          "id": "https://365community.online/sample-code-to-check-if-a-folder-exists-else-create-it-sharepoint-online-pnp-framework-c",
-          "author": "Nishant Rana",
-          "description": "Sharing the sample code that we can use for checking if a particular folder exists and if not then create it in SharePoint Online. It uses PnP Framework and Azure […]",
-          "link": "https://365community.online/sample-code-to-check-if-a-folder-exists-else-create-it-sharepoint-online-pnp-framework-c",
-          "publishedOn": "2024-07-30T20:30:00.000Z",
-          "wordCount": 3271,
-          "title": "Sample code to check if a Folder exists else create it (SharePoint Online / PnP Framework / C#)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Sample-code-to-check-if-a-Folder-exists-else-create.jpeg?fit=867%2C660&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-%f0%9f%93%a7-send-d365-ce-emails-using-power-automate-%f0%9f%8c%9f-youtube",
-          "author": "Manish chauhan",
-          "description": "In this tutorial, we’ll guide you through the process of sending emails from Dynamics 365 Customer Engagement (D365 CE) using Power Automate. Learn how to set up flows that automate […]",
-          "link": "https://365community.online/how-to-%f0%9f%93%a7-send-d365-ce-emails-using-power-automate-%f0%9f%8c%9f-youtube",
-          "publishedOn": "2024-07-30T19:39:35.000Z",
-          "wordCount": 3193,
-          "title": "How to 📧 Send D365 CE Emails Using Power Automate 🌟 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722372701_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-open-custom-page-on-command-button-click-and-pass-parameters-in-the-model-driven-app-youtube",
-          "author": "Manish chauhan",
-          "description": "In this Dynamics 365 CRM tutorial, you’ll learn how to open a custom page from a command button click in a model-driven app and pass parameters seamlessly. This step-by-step guide […]",
-          "link": "https://365community.online/how-to-open-custom-page-on-command-button-click-and-pass-parameters-in-the-model-driven-app-youtube",
-          "publishedOn": "2024-07-30T16:42:00.000Z",
-          "wordCount": 3181,
-          "title": "How to open custom page on command button click and pass parameters in the model-driven app – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722357777_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -43255,6 +43165,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "https://kurthatlevik.com/?p=5390",
+          "author": "Kurt Hatlevik",
+          "description": "For some years Microsoft have worked on patterns, practices, business process guides, and other types of guidance content for Microsoft Dynamics 365. In the July release, things became more interesting, as we now can go from a “glorified” excel sheet to a more automated installation. The Microsoft team have done a fantastic job on building … Continue reading Microsoft Dynamics 365 Patterns and Practices",
+          "link": "https://kurthatlevik.com/2026/07/30/microsoft-dynamics-365-patterns-and-practices/",
+          "publishedOn": "2026-07-30T08:55:08.000Z",
+          "wordCount": 3010,
+          "title": "Microsoft Dynamics 365 Patterns and Practices",
+          "imageUrl": "https://i0.wp.com/kurthatlevik.com/wp-content/uploads/2026/07/image-9.png?fit=1200%2C288&ssl=1"
+        },
+        {
           "id": "https://kurthatlevik.com/?p=5315",
           "author": "Kurt Hatlevik",
           "description": "I have been thinking quite a bit about the AI direction for Microsoft partners lately, as the landscape over the past year has been exploding. The question for a Microsoft partner should not only be: which model is best this month? That will continue to change. The better question is: where can we build repeatable … Continue reading Why I am betting on the Microsoft stack",
@@ -43708,6 +43628,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/",
+          "author": "Angela Chang",
+          "description": "Business Central provides a modern cloud ERP foundation that helps organizations streamline operations, improve visibility, support AI-powered productivity, and build on a platform that continues to evolve.\nThe post Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/",
+          "publishedOn": "2026-07-28T16:00:00.000Z",
+          "wordCount": 6284,
+          "title": "Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/07/warehouse-workers-managing-inventory-in-distribution-center-1024x576.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202870",
           "author": "Cecilia Flombaum",
@@ -49929,26 +49859,6 @@
           "wordCount": 4278,
           "title": "What’s new in Power Apps: July 2024 Feature Update",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/08/comment2fx.gif"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/",
-          "author": "Lance Delano",
-          "description": "GA of calling stored procedures directly in Power Fx.  Speed up app development.  Speeds up Power App performance. \nThe post Call SQL Server procedures directly in Power Fx  (GA) appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/",
-          "publishedOn": "2024-07-31T14:00:00.000Z",
-          "wordCount": 2610,
-          "title": "Call SQL Server procedures directly in Power Fx  (GA)",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/choose-a-sp.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/",
-          "author": "Lance Delano",
-          "description": "Use natural language queries with Copilot for filter to fine tune the records you see in your canvas galleries at runtime.  \nThe post Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/",
-          "publishedOn": "2024-07-30T18:03:34.000Z",
-          "wordCount": 2906,
-          "title": "Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/Copilot-adorner.webp"
         }
       ]
     },

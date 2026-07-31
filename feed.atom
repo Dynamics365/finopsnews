@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-30T02:36:07.738Z</updated>
+    <updated>2026-07-31T03:17:19.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Patterns and Practices]]></title>
+        <id>https://365community.online/microsoft-dynamics-365-patterns-and-practices</id>
+        <link href="https://365community.online/microsoft-dynamics-365-patterns-and-practices"/>
+        <updated>2026-07-30T08:55:08.000Z</updated>
+        <summary type="html"><![CDATA[For some years Microsoft have worked on patterns, practices, business process guides, and other types of guidance content for Microsoft Dynamics 365. In the July release, things became more interesting, as we now can go from a “glorified” excel sheet…]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Patterns and Practices]]></title>
+        <id>https://kurthatlevik.com/?p=5390</id>
+        <link href="https://kurthatlevik.com/2026/07/30/microsoft-dynamics-365-patterns-and-practices/"/>
+        <updated>2026-07-30T08:55:08.000Z</updated>
+        <summary type="html"><![CDATA[For some years Microsoft have worked on patterns, practices, business process guides, and other types of guidance content for Microsoft Dynamics 365. In the July release, things became more interesting, as we now can go from a “glorified” excel sheet to a more automated installation. The Microsoft team have done a fantastic job on building … Continue reading Microsoft Dynamics 365 Patterns and Practices]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Trust Will Determine the Success of AI in Business Central]]></title>
         <id>https://365community.online/why-trust-will-determine-the-success-of-ai-in-business-central</id>
@@ -34,6 +54,17 @@
         <summary type="html"><![CDATA[While optimising the performance of a Dataverse plugin, we noticed a QueryExpression using ColumnSet(true). The business logic only required a few attributes, so replacing ColumnSet(true) with a minimal ColumnSet looked like an easy performance improvement. The query also used Distinct…]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Business Central provides a modern cloud ERP foundation that helps organizations streamline operations, improve visibility, support AI-powered productivity, and build on a platform that continues to evolve.
+The post Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Angela Chang</name>
         </author>
     </entry>
     <entry>
@@ -53792,128 +53823,6 @@ The post D365FO SysLastValue Framework Simplified appeared first on Docentric AX
         <summary type="html"><![CDATA[From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) The conversation covers Saurabh Bharti’s journey from India to […]]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call SQL Server procedures directly in Power Fx  (GA)]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/"/>
-        <updated>2024-07-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GA of calling stored procedures directly in Power Fx.  Speed up app development.  Speeds up Power App performance. 
-The post Call SQL Server procedures directly in Power Fx  (GA) appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Lance Delano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking Scottish Summit on Tour with Matt Beard and Zoe Wilson – YouTube]]></title>
-        <id>https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2</id>
-        <link href="https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2"/>
-        <updated>2024-07-31T13:35:31.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, Paddy and Rex catch up with Matt and Zoe to discuss their involvement in Scottish Summit including taking the event on tour to Manchester in 2023. source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Series Index]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index"/>
-        <updated>2024-07-31T12:00:18.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of a series on the new functionality available in Wave 2 of Microsoft Dynamics 365 Business Central 2024. There are two release waves for Business Central […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central Statement Import Importing all Dates as January]]></title>
-        <id>https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january</id>
-        <link href="https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january"/>
-        <updated>2024-07-31T10:00:59.000Z</updated>
-        <summary type="html"><![CDATA[On a recent implementation of Microsoft Dynamics 365 Business Central we created some data exchange definitions for the import of statements, but when it came to testing the client reported […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating Tasks in Power BI Reports with Power Automate Buttons]]></title>
-        <id>https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons</id>
-        <link href="https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons"/>
-        <updated>2024-07-31T09:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Power BI has introduced an exciting feature that allows users to leverage the capabilities of Power Automate through buttons within Power BI reports. This enhancement significantly improves the user experience […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot – YouTube]]></title>
-        <id>https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2</id>
-        <link href="https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2"/>
-        <updated>2024-07-31T07:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀¿Por qué inventar la rueda? Llega Azure AI Document Intelligence a Business Central]]></title>
-        <id>https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central</id>
-        <link href="https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central"/>
-        <updated>2024-07-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[En octubre llegan algunas novedades muy interesantes en Business Central. Una de ellas es la incorporación del servicio Azure: AI Document Intelligence. Conociendo Document Intellgence Document Intelligence esta ubicado en […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you have again Classic Azure Storage Accounts? These are the last days for migrate and avoid service disruptions.]]></title>
-        <id>https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions</id>
-        <link href="https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions"/>
-        <updated>2024-07-31T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[On 31 August 2024, Microsoft will retire the Cloud Services (classic) deployment model (the announcement was made by Microsoft in March 2022). Before that date, you’ll need to migrate your services that were deployed using this model to Cloud Services (extended support) in Azure Resource […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sample code to check if a Folder exists else create it (SharePoint Online / PnP Framework / C#)]]></title>
-        <id>https://365community.online/sample-code-to-check-if-a-folder-exists-else-create-it-sharepoint-online-pnp-framework-c</id>
-        <link href="https://365community.online/sample-code-to-check-if-a-folder-exists-else-create-it-sharepoint-online-pnp-framework-c"/>
-        <updated>2024-07-30T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Sharing the sample code that we can use for checking if a particular folder exists and if not then create it in SharePoint Online. It uses PnP Framework and Azure […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to 📧 Send D365 CE Emails Using Power Automate 🌟 – YouTube]]></title>
-        <id>https://365community.online/how-to-%f0%9f%93%a7-send-d365-ce-emails-using-power-automate-%f0%9f%8c%9f-youtube</id>
-        <link href="https://365community.online/how-to-%f0%9f%93%a7-send-d365-ce-emails-using-power-automate-%f0%9f%8c%9f-youtube"/>
-        <updated>2024-07-30T19:39:35.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we’ll guide you through the process of sending emails from Dynamics 365 Customer Engagement (D365 CE) using Power Automate. Learn how to set up flows that automate […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/"/>
-        <updated>2024-07-30T18:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Use natural language queries with Copilot for filter to fine tune the records you see in your canvas galleries at runtime.  
-The post Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Lance Delano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to open custom page on command button click and pass parameters in the model-driven app – YouTube]]></title>
-        <id>https://365community.online/how-to-open-custom-page-on-command-button-click-and-pass-parameters-in-the-model-driven-app-youtube</id>
-        <link href="https://365community.online/how-to-open-custom-page-on-command-button-click-and-pass-parameters-in-the-model-driven-app-youtube"/>
-        <updated>2024-07-30T16:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this Dynamics 365 CRM tutorial, you’ll learn how to open a custom page from a command button click in a model-driven app and pass parameters seamlessly. This step-by-step guide […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
         </author>
     </entry>
 </feed>
