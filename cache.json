@@ -548,6 +548,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/two-ai-models-broke-out-and-hacked-real-companies-the-tradecraft-was-ordinary",
+          "author": "Dave Burrell",
+          "description": "OpenAI's agent spent four and a half days inside Hugging Face. Three Claude models reached live systems they were never meant to touch. Almost everything they exploited is already on your own audit report.",
+          "link": "https://365community.online/two-ai-models-broke-out-and-hacked-real-companies-the-tradecraft-was-ordinary",
+          "publishedOn": "2026-07-31T07:15:50.000Z",
+          "wordCount": 7470,
+          "title": "Two AI models broke out and hacked real companies. The tradecraft was ordinary.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/microsoft-did-not-put-up-the-price-of-copilot",
+          "author": "Dave Burrell",
+          "description": "The add-on costs the same as it did last month. Everything underneath it went up, and the AI arrived in your bill anyway.",
+          "link": "https://365community.online/microsoft-did-not-put-up-the-price-of-copilot",
+          "publishedOn": "2026-07-31T06:06:13.000Z",
+          "wordCount": 7392,
+          "title": "Microsoft did not put up the price of Copilot.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/visual-studio-code-agent-hook-for-auditing-your-al-coding-sessions",
+          "author": "Stefano Demiliani",
+          "description": "Some week ago, I received a strange request from auditors: can you track every file touched (read/write) by your AI … More",
+          "link": "https://365community.online/visual-studio-code-agent-hook-for-auditing-your-al-coding-sessions",
+          "publishedOn": "2026-07-30T14:55:28.000Z",
+          "wordCount": 5452,
+          "title": "Visual Studio Code Agent hook for auditing your AL coding sessions.",
+          "imageUrl": "https://demiliani.com/wp-content/uploads/2026/07/vscode_alhook_01.png"
+        },
+        {
           "id": "https://365community.online/microsoft-dynamics-365-patterns-and-practices",
           "author": "Kurt Hatlevik",
           "description": "For some years Microsoft have worked on patterns, practices, business process guides, and other types of guidance content for Microsoft Dynamics 365. In the July release, things became more interesting, as we now can go from a “glorified” excel sheet…",
@@ -40941,96 +40971,6 @@
           "wordCount": 3432,
           "title": "Webinar: Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages!",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Empower-your-Field-Operations-with-integrated-maps-in-Dynamics-365-Power-Pages-1.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-manage-subscription-billing-and-revenue-and-expense-recognition",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-manage-subscription-billing-and-revenue-and-expense-recognition",
-          "publishedOn": "2024-08-01T14:00:00.000Z",
-          "wordCount": 3261,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Manage Subscription Billing and Revenue and Expense Recognition",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-new-reports-and-demo-data-for-financial-reporting",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-new-reports-and-demo-data-for-financial-reporting",
-          "publishedOn": "2024-08-01T12:00:00.000Z",
-          "wordCount": 3269,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use New Reports And Demo Data for Financial Reporting",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/5-challenges-of-duplicate-dynamics-365-crm-data-and-how-to-solve-them",
-          "author": "Inogic",
-          "description": "Duplicate CRM data can hinder your company at every level. If left unaddressed, 15-30% of your CRM data could be duplicates. These duplicates can negatively impact various departments: marketing teams […]",
-          "link": "https://365community.online/5-challenges-of-duplicate-dynamics-365-crm-data-and-how-to-solve-them",
-          "publishedOn": "2024-08-01T11:18:56.000Z",
-          "wordCount": 3492,
-          "title": "5 Challenges of Duplicate Dynamics 365 CRM Data and How to Solve Them!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Duplicate-Dynamics-365-CRM-Data.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-dynamics-price-increases-october-2024",
-          "author": "Pete Murray",
-          "description": "Microsoft has announced the first price increase for Dynamics 365 products in five years. These increases apply to new subscriptions and renewals from 1 October 2024. These licences are not […]",
-          "link": "https://365community.online/microsoft-dynamics-price-increases-october-2024",
-          "publishedOn": "2024-08-01T10:44:51.000Z",
-          "wordCount": 3201,
-          "title": "Microsoft Dynamics Price Increases October 2024",
-          "imageUrl": "https://365community.online/wp-content/uploads/2024/08/Microsoft-Dynamics-Price-Increases-October-2024.avif.avif"
-        },
-        {
-          "id": "https://365community.online/what-is-the-microsoft-power-platform",
-          "author": "Ian Grieve",
-          "description": "I’ve been posting about working with Power Automate in general and using it with Business Central for a while now, but I’ve never really explained the Power Platform, of which […]",
-          "link": "https://365community.online/what-is-the-microsoft-power-platform",
-          "publishedOn": "2024-08-01T10:00:29.000Z",
-          "wordCount": 3206,
-          "title": "What is the Microsoft Power Platform?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/%f0%9f%93%a2novedades-en-administracion-en-business-central",
-          "author": "jarmesto",
-          "description": "En esta nueva ola de actualizaciones para Dynamics 365 Business Central 2024 Wave 2, Microsoft ha incorporado una serie de novedades que tendrán un impacto significativo en la organización y […]",
-          "link": "https://365community.online/%f0%9f%93%a2novedades-en-administracion-en-business-central",
-          "publishedOn": "2024-08-01T06:18:00.000Z",
-          "wordCount": 3198,
-          "title": "📢Novedades en administración en Business Central",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Novedades-en-administracion-en-Business-Central.webp.jpeg?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/d365fo-document-management-with-sharepoint",
-          "author": "Anitha Santosh",
-          "description": "Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. […]",
-          "link": "https://365community.online/d365fo-document-management-with-sharepoint",
-          "publishedOn": "2024-07-31T21:31:33.000Z",
-          "wordCount": 3172,
-          "title": "D365FO Document Management with Sharepoint",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/D365FO-Document-Management-with-Sharepoint.png?fit=1200%2C507&ssl=1"
-        },
-        {
-          "id": "https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only",
-          "author": "Nishant Rana",
-          "description": "While trying to call SharePoint Online APIs using Azure AD App-Only using Certificate Auth we were getting the Access Denied exception. We were creating the ClientContext using the AuthenticationManager class […]",
-          "link": "https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only",
-          "publishedOn": "2024-07-31T20:30:00.000Z",
-          "wordCount": 3256,
-          "title": "Fixed – Access Denied (CryptographicException) on calling SharePoint Online APIs using Azure AD App-Only",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Fixed-–-Access-Denied-CryptographicException-on-calling-SharePoint-Online-APIs.jpeg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/from-bangalore-to-london-saurabh-bhartis-journey-through-indian-culture-cuisine-and-it-consul-youtube",
-          "author": "NZ365Guy",
-          "description": "From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) The conversation covers Saurabh Bharti’s journey from India to […]",
-          "link": "https://365community.online/from-bangalore-to-london-saurabh-bhartis-journey-through-indian-culture-cuisine-and-it-consul-youtube",
-          "publishedOn": "2024-07-31T18:24:09.000Z",
-          "wordCount": 4022,
-          "title": "From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/1722508043_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -42602,16 +42542,6 @@
           "wordCount": 3337,
           "title": "Export and download attachment- D365FO Document management",
           "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/08/image-2.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3535",
-          "author": "AnithaEswaran",
-          "description": "Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. Integration Setup Navigate to the Document Management parameters in D365FO … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2024/07/31/d365fo-docuement-management-with-sharepoint/",
-          "publishedOn": "2024-07-31T21:31:33.000Z",
-          "wordCount": 3171,
-          "title": "D365FO Document Management with Sharepoint",
-          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/07/image-23.png"
         }
       ]
     },
@@ -48096,16 +48026,6 @@
           "wordCount": 11516,
           "title": "Meet Us at NT Conference 2024 in Portorož",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/10/NTK_Visit_our_booth_24team.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=28980",
-          "author": "Jovica Zivkovic",
-          "description": "The SysLastValue is a handy framework in Dynamics 365 for Finance and Operations (D365FO). It saves the values you enter in forms for the current user within the current company so that the next time you open the form, your previous entries are already there. […]\nThe post D365FO SysLastValue Framework Simplified appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/d365fo-syslastvalue-framework-simplified/",
-          "publishedOn": "2024-08-01T05:36:50.000Z",
-          "wordCount": 12917,
-          "title": "D365FO SysLastValue Framework Simplified",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/08/D365Blog_D365FO_SysLastValue_Framework_Simplified.jpg"
         }
       ]
     },

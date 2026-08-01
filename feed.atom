@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-31T03:17:19.196Z</updated>
+    <updated>2026-08-01T03:15:21.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two AI models broke out and hacked real companies. The tradecraft was ordinary.]]></title>
+        <id>https://365community.online/two-ai-models-broke-out-and-hacked-real-companies-the-tradecraft-was-ordinary</id>
+        <link href="https://365community.online/two-ai-models-broke-out-and-hacked-real-companies-the-tradecraft-was-ordinary"/>
+        <updated>2026-07-31T07:15:50.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's agent spent four and a half days inside Hugging Face. Three Claude models reached live systems they were never meant to touch. Almost everything they exploited is already on your own audit report.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft did not put up the price of Copilot.]]></title>
+        <id>https://365community.online/microsoft-did-not-put-up-the-price-of-copilot</id>
+        <link href="https://365community.online/microsoft-did-not-put-up-the-price-of-copilot"/>
+        <updated>2026-07-31T06:06:13.000Z</updated>
+        <summary type="html"><![CDATA[The add-on costs the same as it did last month. Everything underneath it went up, and the AI arrived in your bill anyway.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code Agent hook for auditing your AL coding sessions.]]></title>
+        <id>https://365community.online/visual-studio-code-agent-hook-for-auditing-your-al-coding-sessions</id>
+        <link href="https://365community.online/visual-studio-code-agent-hook-for-auditing-your-al-coding-sessions"/>
+        <updated>2026-07-30T14:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Some week ago, I received a strange request from auditors: can you track every file touched (read/write) by your AI … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365 Patterns and Practices]]></title>
         <id>https://365community.online/microsoft-dynamics-365-patterns-and-practices</id>
@@ -53712,117 +53742,6 @@ The post Enhancing and Streamlining Financial Reporting with Dynamics 365 Financ
         <summary type="html"><![CDATA[Here’s a timeless principle- “Success is where preparation and opportunity meet” Team Maplytics has been embracing this wisdom for years, constantly refining our solutions to meet the evolving needs of […]]]></summary>
         <author>
             <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Manage Subscription Billing and Revenue and Expense Recognition]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-manage-subscription-billing-and-revenue-and-expense-recognition</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-manage-subscription-billing-and-revenue-and-expense-recognition"/>
-        <updated>2024-08-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use New Reports And Demo Data for Financial Reporting]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-new-reports-and-demo-data-for-financial-reporting</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-new-reports-and-demo-data-for-financial-reporting"/>
-        <updated>2024-08-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Challenges of Duplicate Dynamics 365 CRM Data and How to Solve Them!]]></title>
-        <id>https://365community.online/5-challenges-of-duplicate-dynamics-365-crm-data-and-how-to-solve-them</id>
-        <link href="https://365community.online/5-challenges-of-duplicate-dynamics-365-crm-data-and-how-to-solve-them"/>
-        <updated>2024-08-01T11:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Duplicate CRM data can hinder your company at every level. If left unaddressed, 15-30% of your CRM data could be duplicates. These duplicates can negatively impact various departments: marketing teams […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics Price Increases October 2024]]></title>
-        <id>https://365community.online/microsoft-dynamics-price-increases-october-2024</id>
-        <link href="https://365community.online/microsoft-dynamics-price-increases-october-2024"/>
-        <updated>2024-08-01T10:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has announced the first price increase for Dynamics 365 products in five years. These increases apply to new subscriptions and renewals from 1 October 2024. These licences are not […]]]></summary>
-        <author>
-            <name>Pete Murray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Microsoft Power Platform?]]></title>
-        <id>https://365community.online/what-is-the-microsoft-power-platform</id>
-        <link href="https://365community.online/what-is-the-microsoft-power-platform"/>
-        <updated>2024-08-01T10:00:29.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been posting about working with Power Automate in general and using it with Business Central for a while now, but I’ve never really explained the Power Platform, of which […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢Novedades en administración en Business Central]]></title>
-        <id>https://365community.online/%f0%9f%93%a2novedades-en-administracion-en-business-central</id>
-        <link href="https://365community.online/%f0%9f%93%a2novedades-en-administracion-en-business-central"/>
-        <updated>2024-08-01T06:18:00.000Z</updated>
-        <summary type="html"><![CDATA[En esta nueva ola de actualizaciones para Dynamics 365 Business Central 2024 Wave 2, Microsoft ha incorporado una serie de novedades que tendrán un impacto significativo en la organización y […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO SysLastValue Framework Simplified]]></title>
-        <id>https://ax.docentric.com/?p=28980</id>
-        <link href="https://ax.docentric.com/d365fo-syslastvalue-framework-simplified/"/>
-        <updated>2024-08-01T05:36:50.000Z</updated>
-        <summary type="html"><![CDATA[The SysLastValue is a handy framework in Dynamics 365 for Finance and Operations (D365FO). It saves the values you enter in forms for the current user within the current company so that the next time you open the form, your previous entries are already there. […]
-The post D365FO SysLastValue Framework Simplified appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Jovica Zivkovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO Document Management with Sharepoint]]></title>
-        <id>https://365community.online/d365fo-document-management-with-sharepoint</id>
-        <link href="https://365community.online/d365fo-document-management-with-sharepoint"/>
-        <updated>2024-07-31T21:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO Document Management with Sharepoint]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3535</id>
-        <link href="https://anithasantosh.wordpress.com/2024/07/31/d365fo-docuement-management-with-sharepoint/"/>
-        <updated>2024-07-31T21:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. Integration Setup Navigate to the Document Management parameters in D365FO … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed – Access Denied (CryptographicException) on calling SharePoint Online APIs using Azure AD App-Only]]></title>
-        <id>https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only</id>
-        <link href="https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only"/>
-        <updated>2024-07-31T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While trying to call SharePoint Online APIs using Azure AD App-Only using Certificate Auth we were getting the Access Denied exception. We were creating the ClientContext using the AuthenticationManager class […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… – YouTube]]></title>
-        <id>https://365community.online/from-bangalore-to-london-saurabh-bhartis-journey-through-indian-culture-cuisine-and-it-consul-youtube</id>
-        <link href="https://365community.online/from-bangalore-to-london-saurabh-bhartis-journey-through-indian-culture-cuisine-and-it-consul-youtube"/>
-        <updated>2024-07-31T18:24:09.000Z</updated>
-        <summary type="html"><![CDATA[From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) The conversation covers Saurabh Bharti’s journey from India to […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
         </author>
     </entry>
 </feed>
