@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-01T03:15:21.113Z</updated>
+    <updated>2026-08-02T03:15:30.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
@@ -84,17 +84,6 @@
         <summary type="html"><![CDATA[While optimising the performance of a Dataverse plugin, we noticed a QueryExpression using ColumnSet(true). The business logic only required a few attributes, so replacing ColumnSet(true) with a minimal ColumnSet looked like an easy performance improvement. The query also used Distinct…]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/"/>
-        <updated>2026-07-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Business Central provides a modern cloud ERP foundation that helps organizations streamline operations, improve visibility, support AI-powered productivity, and build on a platform that continues to evolve.
-The post Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Angela Chang</name>
         </author>
     </entry>
     <entry>
@@ -53692,56 +53681,6 @@ The post What’s new in Power Apps: July 2024 Feature Update appeared first on 
 The post Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Jinnie Wong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Access Keys with Key Tips In More Languages]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-access-keys-with-key-tips-in-more-languages</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-access-keys-with-key-tips-in-more-languages"/>
-        <updated>2024-08-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Archive Service Management Documents]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-archive-service-management-documents</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-archive-service-management-documents"/>
-        <updated>2024-08-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Integrate Field Service with Service Management]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-integrate-field-service-with-service-management</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-integrate-field-service-with-service-management"/>
-        <updated>2024-08-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[User Availability Monitoring with Power Automate]]></title>
-        <id>https://365community.online/user-availability-monitoring-with-power-automate</id>
-        <link href="https://365community.online/user-availability-monitoring-with-power-automate"/>
-        <updated>2024-08-02T09:44:10.000Z</updated>
-        <summary type="html"><![CDATA[In today’s workplaces, staying in sync with your team’s availability is key to smooth collaboration. Fortunately, tools like Power Automate offer an easy way to monitor when your colleagues are […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages!]]></title>
-        <id>https://365community.online/webinar-empower-your-field-operations-with-integrated-maps-in-dynamics-365-power-pages</id>
-        <link href="https://365community.online/webinar-empower-your-field-operations-with-integrated-maps-in-dynamics-365-power-pages"/>
-        <updated>2024-08-02T09:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a timeless principle- “Success is where preparation and opportunity meet” Team Maplytics has been embracing this wisdom for years, constantly refining our solutions to meet the evolving needs of […]]]></summary>
-        <author>
-            <name>Inogic</name>
         </author>
     </entry>
 </feed>
