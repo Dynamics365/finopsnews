@@ -548,6 +548,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/how-does-bcquality-currently-work-when-we-use-it-as-a-plugin",
+          "author": "jarmesto",
+          "description": "For those who are not familiar with BCQuality, let me give you a short introduction. I also recommend reading some very interesting posts, such as Why We Built BCQuality: Closing the Gap Between What Agents Know and What BC Developers…",
+          "link": "https://365community.online/how-does-bcquality-currently-work-when-we-use-it-as-a-plugin",
+          "publishedOn": "2026-08-03T14:01:00.000Z",
+          "wordCount": 12289,
+          "title": "How does BCQuality currently work when we use it as a plugin?",
+          "imageUrl": "https://i0.wp.com/techspheredynamics.com/wp-content/uploads/2026/08/hero_bcquality.png?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/two-ai-models-broke-out-and-hacked-real-companies-the-tradecraft-was-ordinary",
           "author": "Dave Burrell",
           "description": "OpenAI's agent spent four and a half days inside Hugging Face. Three Claude models reached live systems they were never meant to touch. Almost everything they exploited is already on your own audit report.",
@@ -40871,46 +40881,6 @@
           "wordCount": 3183,
           "title": "Improving Your Scrum Practice – Mastering Professional Scrum – chapter 1",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages",
-          "author": "Inogic",
-          "description": "Pssstt.. Did you hear the news? Team Maplytics at Inogic has organized an interesting Webinar ‘Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages! ‘ on […]",
-          "link": "https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages",
-          "publishedOn": "2024-08-04T12:06:20.000Z",
-          "wordCount": 3509,
-          "title": "Webinar: Unlock Field Management excellence with integrated maps in Dynamics 365 & Power Pages!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Empower-your-Field-Operations-with-integrated-maps-in-Dynamics-365-Power-Pages.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube",
-          "author": "Scottish Summit",
-          "description": "Rex de Koning and Mark Christie managed to catch up with these two community gems, Andrew Bibby and Areti Iles in person at Dynamics Minds in Slovenia. Join us as […]",
-          "link": "https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube",
-          "publishedOn": "2024-08-04T09:26:44.000Z",
-          "wordCount": 3145,
-          "title": "Areti Iles and Andrew Bibby Talk to Us from Slovenia – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube",
-          "author": "Scottish Summit",
-          "description": "In this episode, we are privileged to be joined by 16-time MVP Julie Yack! We discuss her work in the Microsoft community, her big takeaways from Scottish Summit, and how […]",
-          "link": "https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube",
-          "publishedOn": "2024-08-04T09:08:42.000Z",
-          "wordCount": 3173,
-          "title": "Training the Next Wave of Power Platform Professionals with Julie Yack – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-dataverse-accelerator-part-2-installation",
-          "author": "Arun Potti",
-          "description": "In my previous article, I had explained about Microsoft Dataverse Accelerator Introduction and in this video, will explain about the Installation of the Dataverse Accelerator App. Have a look at […]",
-          "link": "https://365community.online/microsoft-dataverse-accelerator-part-2-installation",
-          "publishedOn": "2024-08-04T06:59:26.000Z",
-          "wordCount": 3232,
-          "title": "Microsoft Dataverse Accelerator – Part 2 – Installation",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
         }
       ]
     },
@@ -41494,16 +41464,6 @@
           "wordCount": 4565,
           "title": "How to bypass table security in X++ coding",
           "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/09/Unchecked.jpg"
-        },
-        {
-          "id": "https://dynamicspedia.com/?p=19103",
-          "author": "André Arnaud de Calavon",
-          "description": "A few years ago, I wrote a blog post about how to use Azure Active Directory for managing users and security in Dynamics 365 for Finance and Operations. In the meantime, Microsoft renamed Azure Active Directory to Microsoft Entra ID. In my blog, I provided how to manage users and provide access permissions by using […]\nThe post Enhanced Entra ID group integration in D365FO Admin Toolkit appeared first on Dynamicspedia.",
-          "link": "https://dynamicspedia.com/2024/08/enhanced-entra-id-group-integration-in-d365fo-admin-toolkit/",
-          "publishedOn": "2024-08-04T06:51:34.000Z",
-          "wordCount": 5544,
-          "title": "Enhanced Entra ID group integration in D365FO Admin Toolkit",
-          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/08/EntraIDGroupEnhancement1200.jpg"
         }
       ]
     },
@@ -46062,6 +46022,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3155",
+          "author": "Arvind Bharti",
+          "description": "Overview Before we move ahead and create our first Quality Order, I thought it would be worthwhile to take a closer look at one of the most important configurations in the entire Quality Management process Quality Associations. In Part 1, we explored why every manufacturing organization needs a Quality Management process. In Part 2, we […]",
+          "link": "https://exploredynamics365.home.blog/2026/08/02/automating-quality-inspections-with-quality-associations-part-3/",
+          "publishedOn": "2026-08-02T11:51:46.000Z",
+          "wordCount": 4150,
+          "title": "Automating Quality Inspections with Quality Associations – Part 3",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/08/colorful-modern-designer-linkedin-banner-presentation-4.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3132",
           "author": "Arvind Bharti",
