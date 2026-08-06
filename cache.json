@@ -548,6 +548,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/dynamics-365-business-central-al-transaction-isolation-levels-and-cache-usage",
+          "author": "Stefano Demiliani",
+          "description": "With version 11 of the Dynamics 365 Business Central runtime, Microsoft introduced the Record.ReadIsolation method to control isolation level on … More",
+          "link": "https://365community.online/dynamics-365-business-central-al-transaction-isolation-levels-and-cache-usage",
+          "publishedOn": "2026-08-05T08:11:52.000Z",
+          "wordCount": 5395,
+          "title": "Dynamics 365 Business Central: AL transaction isolation levels and cache usage.",
+          "imageUrl": "https://i0.wp.com/demiliani.com/wp-content/uploads/2026/08/alisolationlevelcache_07.png?fit=1200%2C536&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-hidden-cost-of-not-using-ai-in-microsoft-dynamics-365-business-central",
+          "author": "Amol Salvi",
+          "description": "Artificial Intelligence has rapidly become one of the defining topics in the Microsoft Dynamics 365 Business Central ecosystem. Every week brings new announcements, increasingly capable AI models, Copilot enhancements, and AI-powered solutions that promise to transform the way organizations implement,…",
+          "link": "https://365community.online/the-hidden-cost-of-not-using-ai-in-microsoft-dynamics-365-business-central",
+          "publishedOn": "2026-08-05T07:19:16.000Z",
+          "wordCount": 5601,
+          "title": "The Hidden Cost of Not Using AI in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://bcaihub.com/wp-content/uploads/2026/08/image.png"
+        },
+        {
+          "id": "https://365community.online/how-to-dynamically-filter-by-current-user-when-using-custom-access-table-permissions-in-power-pages",
+          "author": "michelcarlo",
+          "description": "In my last post, we looked at how to use the new Custom access type in Power Pages to secure reference data (like ticket categories) [...] The post How to Dynamically Filter by Current User when using Custom access Table…",
+          "link": "https://365community.online/how-to-dynamically-filter-by-current-user-when-using-custom-access-table-permissions-in-power-pages",
+          "publishedOn": "2026-08-05T06:45:00.000Z",
+          "wordCount": 2240,
+          "title": "How to Dynamically Filter by Current User when using Custom access Table Permissions in Power Pages",
+          "imageUrl": "https://michelcarlo.com/wp-content/uploads/2026/08/blog_thumb2.png"
+        },
+        {
           "id": "https://365community.online/sql4cds-utc-mode-converting-advanced-find-date-filters-to-utc-boundaries-a-quick-reference-dataverse-dynamics-365",
           "author": "Nishant Rana",
           "description": "While validating record counts for a Work Orders view in Dynamics 365 Field Service, we ran into the same underlying issue covered in an earlier post – Why SQL4CDS Record Counts May Not Match Advanced Find for Date Filters. This…",
@@ -45837,16 +45867,6 @@
           "wordCount": 2772,
           "title": "Use the modern rich text editor in Dynamics 365 Customer Service",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/03/CLO22_RemoteHome_060-1024x683.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/05/announcing-public-preview-of-dynamics-365-store-commerce-self-checkout/",
-          "author": "Anusha Venkatesan",
-          "description": "The self-checkout solution in Dynamics 365 Commerce utilizes the same Store Commerce app in self-checkout mode, allowing retailers to quickly enable self-checkout by leveraging their existing investments. It supports payment integrations, localization, hardware integrations, and extensions built for fixed tills. Key features include a simplified login for cashiers and shoppers, an intuitive interface displaying only self-checkout actions, and an out-of-box layout for scanning items, supporting loyalty, and accepting credit or debit payments. \nThe post Announcing public preview of Dynamics 365 Store Commerce Self-checkout appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/05/announcing-public-preview-of-dynamics-365-store-commerce-self-checkout/",
-          "publishedOn": "2024-08-05T20:50:00.000Z",
-          "wordCount": 3683,
-          "title": "Announcing public preview of Dynamics 365 Store Commerce Self-checkout",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/AdobeStock_822074663-1024x683.jpeg"
         }
       ]
     },
@@ -46042,6 +46062,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3163",
+          "author": "Saurabh Bharti",
+          "description": "Ready to build your first AI Agent for Dynamics 365? In this hands-on ERP Mentorship & AMA session, we move beyond theory and build a Dynamics 365 AI Agent live using Microsoft Copilot Studio, ERP MCP (Model Context Protocol), and the CoWork plugin. Whether you’re a Functional Consultant, Technical Consultant, Solution Architect, or simply curious […]",
+          "link": "https://exploredynamics365.home.blog/2026/08/05/build-your-first-ai-agent-for-dynamics-365-copilot-studio-erp-mcp-erp-mentorship-ama-session-14/",
+          "publishedOn": "2026-08-04T19:56:49.000Z",
+          "wordCount": 3709,
+          "title": "Build Your First AI Agent for Dynamics 365 | Copilot Studio & ERP MCP | ERP Mentorship & AMA-Session-14",
+          "imageUrl": "http://img.youtube.com/vi/LnWIuAMkDNI/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3155",
           "author": "Arvind Bharti",

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-05T02:44:19.638Z</updated>
+    <updated>2026-08-06T02:47:07.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: AL transaction isolation levels and cache usage.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-al-transaction-isolation-levels-and-cache-usage</id>
+        <link href="https://365community.online/dynamics-365-business-central-al-transaction-isolation-levels-and-cache-usage"/>
+        <updated>2026-08-05T08:11:52.000Z</updated>
+        <summary type="html"><![CDATA[With version 11 of the Dynamics 365 Business Central runtime, Microsoft introduced the Record.ReadIsolation method to control isolation level on … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Cost of Not Using AI in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://365community.online/the-hidden-cost-of-not-using-ai-in-microsoft-dynamics-365-business-central</id>
+        <link href="https://365community.online/the-hidden-cost-of-not-using-ai-in-microsoft-dynamics-365-business-central"/>
+        <updated>2026-08-05T07:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence has rapidly become one of the defining topics in the Microsoft Dynamics 365 Business Central ecosystem. Every week brings new announcements, increasingly capable AI models, Copilot enhancements, and AI-powered solutions that promise to transform the way organizations implement,…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Dynamically Filter by Current User when using Custom access Table Permissions in Power Pages]]></title>
+        <id>https://365community.online/how-to-dynamically-filter-by-current-user-when-using-custom-access-table-permissions-in-power-pages</id>
+        <link href="https://365community.online/how-to-dynamically-filter-by-current-user-when-using-custom-access-table-permissions-in-power-pages"/>
+        <updated>2026-08-05T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In my last post, we looked at how to use the new Custom access type in Power Pages to secure reference data (like ticket categories) [...] The post How to Dynamically Filter by Current User when using Custom access Table…]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your First AI Agent for Dynamics 365 | Copilot Studio & ERP MCP | ERP Mentorship & AMA-Session-14]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3163</id>
+        <link href="https://exploredynamics365.home.blog/2026/08/05/build-your-first-ai-agent-for-dynamics-365-copilot-studio-erp-mcp-erp-mentorship-ama-session-14/"/>
+        <updated>2026-08-04T19:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Ready to build your first AI Agent for Dynamics 365? In this hands-on ERP Mentorship & AMA session, we move beyond theory and build a Dynamics 365 AI Agent live using Microsoft Copilot Studio, ERP MCP (Model Context Protocol), and the CoWork plugin. Whether you’re a Functional Consultant, Technical Consultant, Solution Architect, or simply curious […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Your First AI Agent for Dynamics 365 | Copilot Studio & ERP MCP | ERP Mentorship & AMA-Session-14]]></title>
         <id>http://exploredynamics365.home.blog/?p=3163</id>
@@ -53669,17 +53709,6 @@ The post New Release of D365FO Admin Toolkit v1.7 appeared first on Alex Meyer.]
 The post Use the modern rich text editor in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Madhuri Somara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing public preview of Dynamics 365 Store Commerce Self-checkout]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/05/announcing-public-preview-of-dynamics-365-store-commerce-self-checkout/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/05/announcing-public-preview-of-dynamics-365-store-commerce-self-checkout/"/>
-        <updated>2024-08-05T20:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The self-checkout solution in Dynamics 365 Commerce utilizes the same Store Commerce app in self-checkout mode, allowing retailers to quickly enable self-checkout by leveraging their existing investments. It supports payment integrations, localization, hardware integrations, and extensions built for fixed tills. Key features include a simplified login for cashiers and shoppers, an intuitive interface displaying only self-checkout actions, and an out-of-box layout for scanning items, supporting loyalty, and accepting credit or debit payments. 
-The post Announcing public preview of Dynamics 365 Store Commerce Self-checkout appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Anusha Venkatesan</name>
         </author>
     </entry>
 </feed>
