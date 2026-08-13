@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-11T01:55:51.843Z</updated>
+    <updated>2026-08-13T02:10:53.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accrue Revenue on the Line Property and project Group Behaviour]]></title>
+        <id>https://365community.online/accrue-revenue-on-the-line-property-and-project-group-behaviour</id>
+        <link href="https://365community.online/accrue-revenue-on-the-line-property-and-project-group-behaviour"/>
+        <updated>2026-08-12T07:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Accrue Revenue on the Line Property and project Group Behaviour]]></summary>
+        <author>
+            <name>Sarang Kusare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Skill Config in Power Platform]]></title>
+        <id>https://365community.online/ai-skill-config-in-power-platform</id>
+        <link href="https://365community.online/ai-skill-config-in-power-platform"/>
+        <updated>2026-08-11T17:56:00.000Z</updated>
+        <summary type="html"><![CDATA[This week I’ve been working with a client on creating tables within a solution. We found every now and then AI Skill Configs object being]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Sales Platforms for the sixteenth consecutive year]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202641</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/11/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-crm-sales-platforms-for-the-sixteenth-consecutive-year/"/>
+        <updated>2026-08-11T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Sales Platforms. Learn how AI-powered capabilities in Dynamics 365 are helping sales teams move from systems of record to systems of action.
+The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Sales Platforms for the sixteenth consecutive year appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Deva Rajamohan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft enhances the Implementation Portal for Dynamics 365 with business process visualization]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202953</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/11/dynamics-365-implementation-portal-business-process-visualization/"/>
+        <updated>2026-08-11T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Access Microsoft Business Process Catalog diagrams directly in the Dynamics 365 Implementation Portal to align stakeholders and improve implementation planning.
+The post Microsoft enhances the Implementation Portal for Dynamics 365 with business process visualization appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Swamy Narayana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Same Agent, Two Architectures: When MCP Wins (and When It Doesn’t)]]></title>
+        <id>https://365community.online/same-agent-two-architectures-when-mcp-wins-and-when-it-doesnt</id>
+        <link href="https://365community.online/same-agent-two-architectures-when-mcp-wins-and-when-it-doesnt"/>
+        <updated>2026-08-11T13:35:28.000Z</updated>
+        <summary type="html"><![CDATA[I know, I know. It has been almost five years since my last post, and in that time the masthead changed, the name changed, and frankly, the entire technology landscape changed with them. But I did not want to relaunch…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to enable and configure Service Agent in D365]]></title>
+        <id>https://365community.online/how-to-enable-and-configure-service-agent-in-d365</id>
+        <link href="https://365community.online/how-to-enable-and-configure-service-agent-in-d365"/>
+        <updated>2026-08-11T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[In my last post I wrote about the Service Agent in Dynamics 365 Customer Service and its capabilities. I discussed what it is, what it is capable of and how it can help customer service teams work more efficiently. If…]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Doesn’t Need More Reports. It Needs Better Decisions]]></title>
+        <id>https://365community.online/business-central-doesnt-need-more-reports-it-needs-better-decisions</id>
+        <link href="https://365community.online/business-central-doesnt-need-more-reports-it-needs-better-decisions"/>
+        <updated>2026-08-11T07:19:12.000Z</updated>
+        <summary type="html"><![CDATA[My journey from automating a Business Central report to thinking differently about ERP intelligence A few weeks ago, I was looking at a Business Central reporting process that, on the surface, seemed completely normal. The data was already there. Customer…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How can I move my Business Central-related Azure resources to a new Azure region?]]></title>
         <id>https://365community.online/how-can-i-move-my-business-central-related-azure-resources-to-a-new-azure-region</id>
@@ -53694,63 +53766,6 @@ The post Announcing public preview of expanded Single Sign-On authentication opt
         <summary type="html"><![CDATA[If you have looked into your D365 F&O capacity, you sometimes see a lot of data being stored in the tables EventEntitySyncTables and BIIncrementalTableModifications. I see in the code, that there are things in place to clean them up, but there be situations where this code for some reason is not executed. The contents of … Continue reading D365 : Purge Incremental Changes History]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Board, Your Way – Optimize schedule board navigation patterns in Universal Resource Scheduling]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/12/new-features-in-universal-resource-schedulings-schedule-board/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/12/new-features-in-universal-resource-schedulings-schedule-board/"/>
-        <updated>2024-08-12T21:37:15.000Z</updated>
-        <summary type="html"><![CDATA[The schedule board now utilizes the computer's local cache to remember user settings, including the last accessed tab, map panel state, view type and mode, board start date, and column width, allowing users to resume their work seamlessly without reconfiguring each time they return to the board.
-The post Your Board, Your Way – Optimize schedule board navigation patterns in Universal Resource Scheduling appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Ryan Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing public preview of Power Platform Managed Identity support for Dataverse Plug-ins]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/announcing-public-preview-of-power-platform-managed-identity-support-for-dataverse-plug-ins/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/announcing-public-preview-of-power-platform-managed-identity-support-for-dataverse-plug-ins/"/>
-        <updated>2024-08-12T18:19:56.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce public preview of Power Platform Managed Identity support for Dataverse plug-ins. This feature allows customers and partners to connect Dataverse plug-ins to Azure resources supporting managed identities, eliminating the need to manage credentials and reducing the risk of unauthorized data access. Power Platform Managed Identity leverages workload identities based on
-The post Announcing public preview of Power Platform Managed Identity support for Dataverse Plug-ins appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Ritesh Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to fix Admin account after refreshing data base in your dev box]]></title>
-        <id>https://alexvoy.blogspot.com/2024/08/how-to-fix-admin-account-after.html</id>
-        <link href="https://alexvoy.blogspot.com/2024/08/how-to-fix-admin-account-after.html"/>
-        <updated>2024-08-12T18:10:00.002Z</updated>
-        <summary type="html"><![CDATA[If you refresh your devbox database from another environment and need to set up its admin account to your user, you can do it by executing the following SQL command.
-
-
-
-update USERINFO 
-set NAME = 'Admin', 
-    NETWORKDOMAIN ='https://sts.windows.net/', 
-    NETWORKALIAS = 'a.voytsekhovskiy@mydomain.net', 
-    ENABLE = 1, 
-    SID = 'S-1-19-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX', 
-    IDENTITYPROVIDER ='https://sts.windows.net/'
-where ID = 'ADMIN'
-
-
-NB: use your own email address and SID.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.7]]></title>
-        <id>https://alexdmeyer.com/?p=3281</id>
-        <link href="https://alexdmeyer.com/2024/08/12/new-release-of-d365fo-admin-toolkit-v1-7/"/>
-        <updated>2024-08-12T16:24:11.000Z</updated>
-        <summary type="html"><![CDATA[We’ve had another contribution from the Microsoft Dynamics community and are ready to release the v1.7 version of the D365FO Admin Toolkit! D365FO Admin Toolkit v1.7 D365FO Admin Toolkit v1.7 Release D365FO Admin Toolkit GitHub Note: This has been built against a 10.0.39 version of D365FO Let’s look at the new features, functionality, and bug […]
-The post New Release of D365FO Admin Toolkit v1.7 appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
 </feed>
