@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-13T02:10:53.243Z</updated>
+    <updated>2026-08-14T02:08:33.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is your Power Pages site secure?]]></title>
+        <id>https://365community.online/is-your-power-pages-site-secure</id>
+        <link href="https://365community.online/is-your-power-pages-site-secure"/>
+        <updated>2026-08-13T15:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Power Pages is secure. Your configuration might not be. There has been public reporting recently about a data extortion group pulling Dataverse records out of Power Pages sites. The write-ups have been picked up widely, and the framing in a…]]></summary>
+        <author>
+            <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Register now for PPCC 2026: Come for the learning, stay for the community]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/?p=134894</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/"/>
+        <updated>2026-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re exploring AI in your business, building with low code, developing professional solutions, or leading enterprise-wide transformation, PPCC is your best opportunity to return to work on Monday ready to make an impact.
+The post Register now for PPCC 2026: Come for the learning, stay for the community appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Bryony Wolf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Power Automate Flows with Claude Code and FlowAgent]]></title>
+        <id>https://365community.online/building-power-automate-flows-with-claude-code-and-flowagent</id>
+        <link href="https://365community.online/building-power-automate-flows-with-claude-code-and-flowagent"/>
+        <updated>2026-08-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the past week, my team and I have been heads-down building a Business Central to Dynamics 365 CE billing integration: posted sales invoices, applied cash receipts, subscription cancellations, and the product registry automation that ties them all together. Every…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Part1: what-is-GitHub-copilot-in-vscode-business-central.]]></title>
+        <id>https://365community.online/ai-part1-what-is-github-copilot-in-vscode-business-central</id>
+        <link href="https://365community.online/ai-part1-what-is-github-copilot-in-vscode-business-central"/>
+        <updated>2026-08-13T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi,A plain-English overview of what GitHub Copilot actually does inside VS Code in 2026, written specifically for Business Central AL developers starting with AI-assisted development.This is part of a series where we try to explore all features of GitHub copilot…]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accrue Revenue on the Line Property and project Group Behaviour]]></title>
         <id>https://365community.online/accrue-revenue-on-the-line-property-and-project-group-behaviour</id>
@@ -53756,16 +53797,6 @@ The post Enhancing Supply Chain Integrity: introducing quality control for goods
 The post Announcing public preview of expanded Single Sign-On authentication options for SAP Connectors  appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Shailja Nair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 : Purge Incremental Changes History]]></title>
-        <id>http://kurthatlevik.com/?p=4611</id>
-        <link href="https://kurthatlevik.com/2024/08/14/d365-purge-incremental-changes-history/"/>
-        <updated>2024-08-14T10:32:50.000Z</updated>
-        <summary type="html"><![CDATA[If you have looked into your D365 F&O capacity, you sometimes see a lot of data being stored in the tables EventEntitySyncTables and BIIncrementalTableModifications. I see in the code, that there are things in place to clean them up, but there be situations where this code for some reason is not executed. The contents of … Continue reading D365 : Purge Incremental Changes History]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
 </feed>
