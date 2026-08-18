@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-17T01:24:36.400Z</updated>
+    <updated>2026-08-18T01:21:22.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AL Language extension and macOS: what’s next?]]></title>
+        <id>https://365community.online/al-language-extension-and-macos-whats-next</id>
+        <link href="https://365community.online/al-language-extension-and-macos-whats-next"/>
+        <updated>2026-08-17T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Many of you probably are using a macOS device to develop applications for Business Central (and not only them). Personally … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Solution, Two Source Trees: The Maker Portal’s Git Integration vs pac]]></title>
+        <id>https://365community.online/one-solution-two-source-trees-the-maker-portals-git-integration-vs-pac</id>
+        <link href="https://365community.online/one-solution-two-source-trees-the-maker-portals-git-integration-vs-pac"/>
+        <updated>2026-08-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Early in our Business Central to Dynamics 365 CE billing integration, the same project I wrote about in my FlowAgent article, we ran into a lesson that Microsoft's own documentation only caught up to this spring, and that I have…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatically Creating Quality Order – Part 4]]></title>
         <id>http://exploredynamics365.home.blog/?p=3169</id>
@@ -45,6 +65,17 @@ The post Announcing Shift Rotation Policies: automated shift rotations at scale 
         <summary type="html"><![CDATA[Power Pages is secure. Your configuration might not be. There has been public reporting recently about a data extortion group pulling Dataverse records out of Power Pages sites. The write-ups have been picked up widely, and the framing in a…]]></summary>
         <author>
             <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Register now for PPCC 2026: Come for the learning, stay for the community]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/"/>
+        <updated>2026-08-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re exploring AI in your business, building with low code, developing professional solutions, or leading enterprise-wide transformation, PPCC is your best opportunity to return to work on Monday ready to make an impact.
+The post Register now for PPCC 2026: Come for the learning, stay for the community appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Bryony Wolf</name>
         </author>
     </entry>
     <entry>
@@ -53764,16 +53795,6 @@ The post Summit Academy – D365FO Administration & Developer Overview Class Pla
 The post Generative AI in ERP means more accurate planning across the organization   appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Francois van Splunder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 Performance Checklist: Troubleshooting and Resolving Performance Issues]]></title>
-        <id>http://kurthatlevik.com/?p=4624</id>
-        <link href="https://kurthatlevik.com/2024/08/18/d365-performance-checklist-troubleshooting-and-resolving-performance-issues/"/>
-        <updated>2024-08-18T11:24:03.000Z</updated>
-        <summary type="html"><![CDATA[You often hear phrases like: Performance in Dynamics 365 is a critical aspect for both users and system owners. For end users, poor performance can lead to frustration, while system owners face challenges in identifying and resolving performance issues. To help streamline this process, I’ve created a practical checklist that outlines steps to quickly diagnose … Continue reading D365 Performance Checklist: Troubleshooting and Resolving Performance Issues]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
 </feed>

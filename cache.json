@@ -548,6 +548,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/al-language-extension-and-macos-whats-next",
+          "author": "Stefano Demiliani",
+          "description": "Many of you probably are using a macOS device to develop applications for Business Central (and not only them). Personally … More",
+          "link": "https://365community.online/al-language-extension-and-macos-whats-next",
+          "publishedOn": "2026-08-17T12:47:00.000Z",
+          "wordCount": 5371,
+          "title": "AL Language extension and macOS: what’s next?",
+          "imageUrl": "https://demiliani.com/wp-content/uploads/2026/08/rosettadeprecation.jpg"
+        },
+        {
+          "id": "https://365community.online/one-solution-two-source-trees-the-maker-portals-git-integration-vs-pac",
+          "author": "Mariano Gomez",
+          "description": "Early in our Business Central to Dynamics 365 CE billing integration, the same project I wrote about in my FlowAgent article, we ran into a lesson that Microsoft's own documentation only caught up to this spring, and that I have…",
+          "link": "https://365community.online/one-solution-two-source-trees-the-maker-portals-git-integration-vs-pac",
+          "publishedOn": "2026-08-17T11:00:00.000Z",
+          "wordCount": 4038,
+          "title": "One Solution, Two Source Trees: The Maker Portal’s Git Integration vs pac",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uZJ5ZcfyriO0BMGhNaL6h729gzk9yd9B5MK5atSL_hx6OFpUH9bnJUOxal2RfEtZ4WSqEw6jC9oiOyBdV9-Q1mRaIciFCZ9d4hTVJ97NQtgnc4FsXaQmOlns3eu0geV6JRwis0tZwU_OtqZpqnKIbFZK7QhdGoj_SRrZKMlt6wW7kpOf80=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://365community.online/is-your-power-pages-site-secure",
           "author": "Nick Doelman",
           "description": "Power Pages is secure. Your configuration might not be. There has been public reporting recently about a data extortion group pulling Dataverse records out of Power Pages sites. The write-ups have been picked up widely, and the framing in a…",
@@ -43533,16 +43553,6 @@
           "wordCount": 5027,
           "title": "Dynamics 365 eCommerce – Myths",
           "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2024/10/image.png?w=1200"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4624",
-          "author": "Kurt Hatlevik",
-          "description": "You often hear phrases like: Performance in Dynamics 365 is a critical aspect for both users and system owners. For end users, poor performance can lead to frustration, while system owners face challenges in identifying and resolving performance issues. To help streamline this process, I’ve created a practical checklist that outlines steps to quickly diagnose … Continue reading D365 Performance Checklist: Troubleshooting and Resolving Performance Issues",
-          "link": "https://kurthatlevik.com/2024/08/18/d365-performance-checklist-troubleshooting-and-resolving-performance-issues/",
-          "publishedOn": "2024-08-18T11:24:03.000Z",
-          "wordCount": 5957,
-          "title": "D365 Performance Checklist: Troubleshooting and Resolving Performance Issues",
-          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2024/08/image-14.png"
         }
       ]
     },
@@ -46168,9 +46178,9 @@
           "description": "Overview In the previous part, we explored Quality Associations and understood how they determine when, where, and under what conditions a Quality Order should be created automatically. Now it’s time to see all of our configurations in action. In this article, we’ll create a Purchase Order, post the Product Receipt, and watch Microsoft Dynamics 365 […]",
           "link": "https://exploredynamics365.home.blog/2026/08/16/automatically-creating-quality-order-part-4/",
           "publishedOn": "2026-08-16T18:12:02.000Z",
-          "wordCount": 4041,
+          "wordCount": 4043,
           "title": "Automatically Creating Quality Order – Part 4",
-          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/08/colorful-modern-designer-linkedin-banner-presentation-5.jpg?fit=1200%2C675&ssl=1"
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/08/colorful-modern-designer-linkedin-banner-presentation-6.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "http://exploredynamics365.home.blog/?p=3163",
@@ -49045,6 +49055,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/",
+          "author": "Bryony Wolf",
+          "description": "Whether you’re exploring AI in your business, building with low code, developing professional solutions, or leading enterprise-wide transformation, PPCC is your best opportunity to return to work on Monday ready to make an impact.\nThe post Register now for PPCC 2026: Come for the learning, stay for the community appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/",
+          "publishedOn": "2026-08-13T15:00:00.000Z",
+          "wordCount": 6409,
+          "title": "Register now for PPCC 2026: Come for the learning, stay for the community",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2026/08/power-platform-community-conference-2026-ppcc-community-attendees-las-vegas-1024x576.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134147",
           "author": "Greg Lindhorst",
