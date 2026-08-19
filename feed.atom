@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-18T01:21:22.077Z</updated>
+    <updated>2026-08-19T01:22:35.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your ERP Could Be Automated More Than Today]]></title>
+        <id>https://365community.online/your-erp-could-be-automated-more-than-today</id>
+        <link href="https://365community.online/your-erp-could-be-automated-more-than-today"/>
+        <updated>2026-08-18T15:03:58.000Z</updated>
+        <summary type="html"><![CDATA[Last week I polled my network: would you let a Dynamics 365 AI agent post a journal entry or release a purchase order without human review? 46% said yes, with guardrails. 31% would allow it only for low-risk items. 23%…]]></summary>
+        <author>
+            <name>Dag Calafell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AL Developer Is Entering the Age of AI Coding Agents]]></title>
+        <id>https://365community.online/the-al-developer-is-entering-the-age-of-ai-coding-agents</id>
+        <link href="https://365community.online/the-al-developer-is-entering-the-age-of-ai-coding-agents"/>
+        <updated>2026-08-18T12:13:43.000Z</updated>
+        <summary type="html"><![CDATA[For more than two decades, Business Central development has been about understanding the business, understanding the platform, and turning those two worlds into reliable software. AI is now changing how that software is created, and the biggest change may not…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracing Undocumented Application Users in Dataverse]]></title>
+        <id>https://365community.online/tracing-undocumented-application-users-in-dataverse</id>
+        <link href="https://365community.online/tracing-undocumented-application-users-in-dataverse"/>
+        <updated>2026-08-18T08:13:42.000Z</updated>
+        <summary type="html"><![CDATA[A client secret expiry notice landed in our inbox recently, and what should have been a five minute renewal turned into a proper archaeology exercise. The environment had a handful of Application Users sitting in the Power Platform admin centre…]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AL Language extension and macOS: what’s next?]]></title>
         <id>https://365community.online/al-language-extension-and-macos-whats-next</id>

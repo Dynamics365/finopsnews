@@ -548,6 +548,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/your-erp-could-be-automated-more-than-today",
+          "author": "Dag Calafell",
+          "description": "Last week I polled my network: would you let a Dynamics 365 AI agent post a journal entry or release a purchase order without human review? 46% said yes, with guardrails. 31% would allow it only for low-risk items. 23%…",
+          "link": "https://365community.online/your-erp-could-be-automated-more-than-today",
+          "publishedOn": "2026-08-18T15:03:58.000Z",
+          "wordCount": 1979,
+          "title": "Your ERP Could Be Automated More Than Today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-al-developer-is-entering-the-age-of-ai-coding-agents",
+          "author": "Amol Salvi",
+          "description": "For more than two decades, Business Central development has been about understanding the business, understanding the platform, and turning those two worlds into reliable software. AI is now changing how that software is created, and the biggest change may not…",
+          "link": "https://365community.online/the-al-developer-is-entering-the-age-of-ai-coding-agents",
+          "publishedOn": "2026-08-18T12:13:43.000Z",
+          "wordCount": 2904,
+          "title": "The AL Developer Is Entering the Age of AI Coding Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/tracing-undocumented-application-users-in-dataverse",
+          "author": "Linn Zaw Win",
+          "description": "A client secret expiry notice landed in our inbox recently, and what should have been a five minute renewal turned into a proper archaeology exercise. The environment had a handful of Application Users sitting in the Power Platform admin centre…",
+          "link": "https://365community.online/tracing-undocumented-application-users-in-dataverse",
+          "publishedOn": "2026-08-18T08:13:42.000Z",
+          "wordCount": 3104,
+          "title": "Tracing Undocumented Application Users in Dataverse",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/al-language-extension-and-macos-whats-next",
           "author": "Stefano Demiliani",
           "description": "Many of you probably are using a macOS device to develop applications for Business Central (and not only them). Personally … More",
