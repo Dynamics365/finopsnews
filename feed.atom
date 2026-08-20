@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-19T01:22:35.623Z</updated>
+    <updated>2026-08-20T01:22:26.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Company Boundary: Cross-Legal-Entity Fulfillment and Advanced Warehouse Support in DOM]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/19/cross-legal-entity-fulfillment-dynamics-365/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/19/cross-legal-entity-fulfillment-dynamics-365/"/>
+        <updated>2026-08-19T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Cross-Legal-Entity Fulfillment Optimization in Dynamics 365 enables organizations to source inventory across participating legal entities, automate intercompany transactions, and improve fulfillment decisions with Distributed Order Management.
+The post Breaking the Company Boundary: Cross-Legal-Entity Fulfillment and Advanced Warehouse Support in DOM appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Yufei Huang and Anupama Raju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate | Getting Secrets Out of Your Flows with Azure Key Vault]]></title>
+        <id>https://365community.online/power-automate-getting-secrets-out-of-your-flows-with-azure-key-vault</id>
+        <link href="https://365community.online/power-automate-getting-secrets-out-of-your-flows-with-azure-key-vault"/>
+        <updated>2026-08-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The flow we inherited at the start of our Business Central to Dynamics 365 CE billing integration, the same project from my FlowAgent article, had a problem so common it barely registers as a problem anymore: the OAuth client secret…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: important changes in PTE management.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-important-changes-in-pte-management</id>
+        <link href="https://365community.online/dynamics-365-business-central-important-changes-in-pte-management"/>
+        <updated>2026-08-19T08:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Everyone of you know that the Business Central administration center (Admin Center) provides a portal for administrators to do administrative … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your ERP Could Be Automated More Than Today]]></title>
         <id>https://365community.online/your-erp-could-be-automated-more-than-today</id>
@@ -53804,27 +53835,6 @@ Solution to help you on this journey !]]></summary>
 The post Summit Academy – D365FO Administration & Developer Overview Class Plan appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Export and download attachment- D365FO Document management]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3556</id>
-        <link href="https://anithasantosh.wordpress.com/2024/08/20/export-and-download-attachment-d365fo-document-management/"/>
-        <updated>2024-08-20T11:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Often we find it difficult to export the documents / attachments from D365FO as there is no direct way to handle this ask. I had similar requirement and managed to do it via Odata action and Logic apps. Logic apps … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI in ERP means more accurate planning across the organization]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/19/generative-ai-in-erp-means-more-accurate-planning-across-the-organization/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/19/generative-ai-in-erp-means-more-accurate-planning-across-the-organization/"/>
-        <updated>2024-08-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[EAs businesses have become more complex and computing more ubiquitous, ERP platforms have grown into aggregated tech stacks or suites with vertical extensions that track data from supply chain, logistics, asset management, HR, finance, and virtually every aspect of the business. But adding all those facets—and their attendant data streams—to the picture can clutter the frame, hampering the agility of an ERP platform. 
-The post Generative AI in ERP means more accurate planning across the organization   appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Francois van Splunder</name>
         </author>
     </entry>
 </feed>

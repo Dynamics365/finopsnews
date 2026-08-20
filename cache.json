@@ -548,6 +548,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/power-automate-getting-secrets-out-of-your-flows-with-azure-key-vault",
+          "author": "Mariano Gomez",
+          "description": "The flow we inherited at the start of our Business Central to Dynamics 365 CE billing integration, the same project from my FlowAgent article, had a problem so common it barely registers as a problem anymore: the OAuth client secret…",
+          "link": "https://365community.online/power-automate-getting-secrets-out-of-your-flows-with-azure-key-vault",
+          "publishedOn": "2026-08-19T11:00:00.000Z",
+          "wordCount": 3409,
+          "title": "Power Automate | Getting Secrets Out of Your Flows with Azure Key Vault",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-important-changes-in-pte-management",
+          "author": "Stefano Demiliani",
+          "description": "Everyone of you know that the Business Central administration center (Admin Center) provides a portal for administrators to do administrative … More",
+          "link": "https://365community.online/dynamics-365-business-central-important-changes-in-pte-management",
+          "publishedOn": "2026-08-19T08:12:59.000Z",
+          "wordCount": 2031,
+          "title": "Dynamics 365 Business Central: important changes in PTE management.",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/your-erp-could-be-automated-more-than-today",
           "author": "Dag Calafell",
           "description": "Last week I polled my network: would you let a Dynamics 365 AI agent post a journal entry or release a purchase order without human review? 46% said yes, with guardrails. 31% would allow it only for low-risk items. 23%…",
@@ -42622,16 +42642,6 @@
           "wordCount": 3205,
           "title": "Session information in D365FO – Why and Where?",
           "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/08/image-5.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3556",
-          "author": "AnithaEswaran",
-          "description": "Often we find it difficult to export the documents / attachments from D365FO as there is no direct way to handle this ask. I had similar requirement and managed to do it via Odata action and Logic apps. Logic apps … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2024/08/20/export-and-download-attachment-d365fo-document-management/",
-          "publishedOn": "2024-08-20T11:38:27.000Z",
-          "wordCount": 3337,
-          "title": "Export and download attachment- D365FO Document management",
-          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/08/image-2.png"
         }
       ]
     },
@@ -43628,6 +43638,21 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/19/cross-legal-entity-fulfillment-dynamics-365/",
+          "author": "Yufei Huang and Anupama Raju",
+          "description": "Cross-Legal-Entity Fulfillment Optimization in Dynamics 365 enables organizations to source inventory across participating legal entities, automate intercompany transactions, and improve fulfillment decisions with Distributed Order Management.\nThe post Breaking the Company Boundary: Cross-Legal-Entity Fulfillment and Advanced Warehouse Support in DOM appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/19/cross-legal-entity-fulfillment-dynamics-365/",
+          "publishedOn": "2026-08-19T15:30:00.000Z",
+          "wordCount": 6507,
+          "title": "Breaking the Company Boundary: Cross-Legal-Entity Fulfillment and Advanced Warehouse Support in DOM",
+          "enclosure": {
+            "url": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/08/DOM-cross-LE-fulfillment.mp4",
+            "length": "28832876",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/warehouse-inventory-management-digital-supply-chain-1-1024x576.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202991",
           "author": "Harish Tyagi and Charan Brahmandam",
@@ -45997,16 +46022,6 @@
           "wordCount": 3171,
           "title": "Enable Spatial annotations for your frontline technicians using Dynamics 365 Field Service & Teams",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2020/06/M365CO20_BusinessVoice_008-1024x683.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/19/generative-ai-in-erp-means-more-accurate-planning-across-the-organization/",
-          "author": "Francois van Splunder",
-          "description": "EAs businesses have become more complex and computing more ubiquitous, ERP platforms have grown into aggregated tech stacks or suites with vertical extensions that track data from supply chain, logistics, asset management, HR, finance, and virtually every aspect of the business. But adding all those facets—and their attendant data streams—to the picture can clutter the frame, hampering the agility of an ERP platform. \nThe post Generative AI in ERP means more accurate planning across the organization   appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/19/generative-ai-in-erp-means-more-accurate-planning-across-the-organization/",
-          "publishedOn": "2024-08-19T16:00:00.000Z",
-          "wordCount": 3758,
-          "title": "Generative AI in ERP means more accurate planning across the organization",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/social-image-8.13.png"
         }
       ]
     },
