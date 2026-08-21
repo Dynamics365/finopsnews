@@ -548,6 +548,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/graph-engineering-and-agentic-development",
+          "author": "jarmesto",
+          "description": "Graph Engineering is entering the agent conversation, but graphs have been part of software engineering for decades. What changes now is that nodes are non-deterministic. A look at real dependencies, verification hooks, and what this means for ALDC.",
+          "link": "https://365community.online/graph-engineering-and-agentic-development",
+          "publishedOn": "2026-08-20T09:21:36.000Z",
+          "wordCount": 3835,
+          "title": "Graph Engineering and Agentic Development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/give-your-al-review-agents-a-source-they-can-cite",
+          "author": "jarmesto",
+          "description": "How we wired BCQuality into ALDC and turned «trust me» reviews into falsifiable ones. Anyone who has pointed an LLM at an AL pull request has met the same two failure modes. It flags problems that aren’t there. It misses…",
+          "link": "https://365community.online/give-your-al-review-agents-a-source-they-can-cite",
+          "publishedOn": "2026-08-20T06:53:58.000Z",
+          "wordCount": 2715,
+          "title": "Give Your AL Review Agents a Source They Can Cite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/ai-part2-setup-vscode-al-copilot-business-central",
+          "author": "Saurav Dhyani",
+          "description": "HI,This article is a complete, up-to-date walkthrough for setting up Visual Studio Code, the AL Language extension, and GitHub Copilot for Business Central AL development.Setting Up VS Code, AL Language, and GitHub Copilot for Business Central DevelopmentRead Complete Article »",
+          "link": "https://365community.online/ai-part2-setup-vscode-al-copilot-business-central",
+          "publishedOn": "2026-08-20T05:30:00.000Z",
+          "wordCount": 1927,
+          "title": "AI-Part2: Setup-Vscode-al-copilot-business-central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/excel-to-dataverse-with-visual-studio-tools-for-office-vsto-a-starter-add-in",
+          "author": "Richard Wilson",
+          "description": "An open-source Excel add-in starter that puts the Dataverse SDK in your hands as ordinary C#, with batching, degree of parallelism, connection tuning, and a connection manager covering interactive, client-secret, and certificate sign-in across commercial and US government clouds.",
+          "link": "https://365community.online/excel-to-dataverse-with-visual-studio-tools-for-office-vsto-a-starter-add-in",
+          "publishedOn": "2026-08-20T00:00:00.000Z",
+          "wordCount": 3383,
+          "title": "Excel to Dataverse with Visual Studio Tools for Office (VSTO): A Starter Add-in",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/power-automate-getting-secrets-out-of-your-flows-with-azure-key-vault",
           "author": "Mariano Gomez",
           "description": "The flow we inherited at the start of our Business Central to Dynamics 365 CE billing integration, the same project from my FlowAgent article, had a problem so common it barely registers as a problem anymore: the OAuth client secret…",
@@ -565,6 +605,26 @@
           "publishedOn": "2026-08-19T08:12:59.000Z",
           "wordCount": 2031,
           "title": "Dynamics 365 Business Central: important changes in PTE management.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/impact-of-ai-05-capability-compounds-through-exposure",
+          "author": "Simon Owen",
+          "description": "Capability develops through practice, but judgement develops through exposure. As AI accelerates some forms of capability development, are we creating future leaders and trusted advisors at the same rate? This article explores how capability compounds over time, and why broad…",
+          "link": "https://365community.online/impact-of-ai-05-capability-compounds-through-exposure",
+          "publishedOn": "2026-08-19T07:00:47.000Z",
+          "wordCount": 3953,
+          "title": "Impact of AI 05: Capability Compounds Through Exposure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/blog-empower-your-world",
+          "author": "Simon Owen",
+          "description": "Featured Posts 19 August 2026 Impact of AI 05: Capability Compounds Through Exposure 19 August 2026 Capability develops through practice, but judgement develops through exposure. As AI accelerates some forms of capability development, are we creating future leaders and trusted…",
+          "link": "https://365community.online/blog-empower-your-world",
+          "publishedOn": "2026-08-19T00:00:00.000Z",
+          "wordCount": 3172,
+          "title": "Blog — EmPOWER Your World",
           "imageUrl": null
         },
         {
@@ -42035,16 +42095,6 @@
           "wordCount": 4335,
           "title": "What License Do SysAdmins Need in D365FO?",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/08/1-2.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=3305",
-          "author": "Alex",
-          "description": "With the Dynamics Communities Summit Conference fast approaching, I wanted to share a lesson plan overview of the Summit Academy class that Peter Ramer and myself are presenting. Links D365FO Administration & Developer Overview – Academy Class Class Overview YouTube Video Dynamic Communities Summit Conference Course Lesson Plan Overview Development Options Cloud Hosted Environment Local […]\nThe post Summit Academy – D365FO Administration & Developer Overview Class Plan appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2024/08/20/summit-academy-d365fo-administration-developer-overview-class-plan/",
-          "publishedOn": "2024-08-20T15:57:36.000Z",
-          "wordCount": 4144,
-          "title": "Summit Academy – D365FO Administration & Developer Overview Class Plan",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/08/Alex_Peter1200x6271.png"
         }
       ]
     },
