@@ -548,6 +548,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/power-automate-design-every-flow-so-a-resubmit-is-always-safe",
+          "author": "Mariano Gomez",
+          "description": "If there is one question I have learned to ask of every single action in every Power Automate flow I build, it is this one: what happens if this runs twice? Throughout our Business Central to Dynamics 365 CE billing…",
+          "link": "https://365community.online/power-automate-design-every-flow-so-a-resubmit-is-always-safe",
+          "publishedOn": "2026-08-21T11:00:00.000Z",
+          "wordCount": 3303,
+          "title": "Power Automate | Design Every Flow So a Resubmit Is Always Safe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-business-central-ai-agent-stack-from-copilot-to-autonomous-erp-operations",
+          "author": "Amol Salvi",
+          "description": "For decades, enterprise resource planning systems have been built around a simple operating model: people learn the software, navigate its screens, understand its processes, enter information, and ultimately tell the system what needs to happen. Microsoft Dynamics 365 Business Central…",
+          "link": "https://365community.online/the-business-central-ai-agent-stack-from-copilot-to-autonomous-erp-operations",
+          "publishedOn": "2026-08-21T10:43:30.000Z",
+          "wordCount": 4899,
+          "title": "The Business Central AI Agent Stack: From Copilot to Autonomous ERP Operations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/browser-automation-with-pydantic-ai-playwright",
+          "author": "Microsoft Tech Community",
+          "description": "When we build agents, we often want to give them the ability to browse the web: open webpages, navigate from one page to the other, and read the content of a webpage. By combining Pydantic AI with the Playwright capability from…",
+          "link": "https://365community.online/browser-automation-with-pydantic-ai-playwright",
+          "publishedOn": "2026-08-20T21:42:16.000Z",
+          "wordCount": 2993,
+          "title": "Browser automation with Pydantic-AI + Playwright",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/give-your-copilot-agents-real-tools-without-hand-wiring-mcp",
+          "author": "Microsoft Tech Community",
+          "description": "You’re running agents in the GitHub Copilot app - maybe three at once, each on its own branch, each working a task while you steer. It’s a good way to work, right up until an agent needs to reach outside…",
+          "link": "https://365community.online/give-your-copilot-agents-real-tools-without-hand-wiring-mcp",
+          "publishedOn": "2026-08-20T18:08:19.000Z",
+          "wordCount": 2637,
+          "title": "Give your Copilot agents real tools, without hand-wiring MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/you-belong-here-three-mvps-on-imposter-syndrome",
+          "author": "Microsoft Tech Community",
+          "description": "Imposter syndrome is the persistent feeling that your success is undeserved - or that others may discover you are not as capable as they think. It can surface before a presentation, while learning a fast-moving technology, or after receiving recognition…",
+          "link": "https://365community.online/you-belong-here-three-mvps-on-imposter-syndrome",
+          "publishedOn": "2026-08-20T17:11:39.000Z",
+          "wordCount": 3218,
+          "title": "You Belong Here: Three MVPs on Imposter Syndrome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/simplify-aks-observability-with-azure-native-new-relic-service",
+          "author": "Microsoft Tech Community",
+          "description": "An Azure Native path to New Relic Intelligent Observability for AKS  AKS environments are dynamic by design. Applications can span clusters, namespaces, nodes, pods, and containers, while workloads scale and change continuously. Obtaining consistent visibility often requires platform teams to deploy and maintain monitoring…",
+          "link": "https://365community.online/simplify-aks-observability-with-azure-native-new-relic-service",
+          "publishedOn": "2026-08-20T16:00:00.000Z",
+          "wordCount": 2175,
+          "title": "Simplify AKS observability with Azure Native New Relic Service",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/a-cleaner-simpler-engage-whats-changing-now-and-next",
+          "author": "Microsoft Tech Community",
+          "description": "Over time, Viva Engage has rapidly grown to support more ways to connect, communicate, and manage communities. But as capabilities expanded, so did the number of places users had to look. Customers told us they were encountering duplicate paths, crowded…",
+          "link": "https://365community.online/a-cleaner-simpler-engage-whats-changing-now-and-next",
+          "publishedOn": "2026-08-20T16:00:00.000Z",
+          "wordCount": 2735,
+          "title": "A cleaner, simpler Engage: what’s changing now and next",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-set-up-copilot-skills-in-powerpoint-and-build-your-own",
+          "author": "Microsoft Tech Community",
+          "description": "How to Set Up Copilot Skills in PowerPoint (and Build Your Own) You have a deck you rebuild every month. The business review, the project update, the readout for leadership. Every time, the same work. Cut the bullets down. Fix…",
+          "link": "https://365community.online/how-to-set-up-copilot-skills-in-powerpoint-and-build-your-own",
+          "publishedOn": "2026-08-20T15:47:53.000Z",
+          "wordCount": 2924,
+          "title": "How to Set Up Copilot Skills in PowerPoint (and Build Your Own)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/notes-from-the-field-testing-ewsallowedappids-safely",
+          "author": "Microsoft Tech Community",
+          "description": "As customers prepare for the final phase of Exchange Web Services (EWS) retirement in Exchange Online, many are asking the same practical question: how can I prove that EWSAllowedAppIDs is working before I depend on it? This field guide walks…",
+          "link": "https://365community.online/notes-from-the-field-testing-ewsallowedappids-safely",
+          "publishedOn": "2026-08-20T14:21:26.000Z",
+          "wordCount": 2753,
+          "title": "Notes from the field: testing EWSAllowedAppIDs safely",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/build-a-safe-agent-on-microsoft-foundry",
+          "author": "Microsoft Tech Community",
+          "description": "Use ACS to enforce Scope, Anchored Decisions, Flow Integrity, and Escalation while the agent runs, then prove the controls without model variance. Two sign-in failures, two correct outcomes A help desk agent receives two reports that sound almost identical: “I…",
+          "link": "https://365community.online/build-a-safe-agent-on-microsoft-foundry",
+          "publishedOn": "2026-08-20T14:00:00.000Z",
+          "wordCount": 5692,
+          "title": "Build a SAFE Agent on Microsoft Foundry",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/graph-engineering-and-agentic-development",
           "author": "jarmesto",
           "description": "Graph Engineering is entering the agent conversation, but graphs have been part of software engineering for decades. What changes now is that nodes are non-deterministic. A look at real dependencies, verification hooks, and what this means for ALDC.",
@@ -42124,17 +42224,6 @@
           "title": "Microsoft Fabric with Dynamics 365 FinOps",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:66c6036098a8a2740314ef56",
-          "author": "Aurélien Clere",
-          "description": "My goal here is to give to the community a solution for Power Platform to \r\nimprove ALM process in terms of deployment. While the ALM Accelerator for \r\nme is the best tool (coupled with an Azure DevOps to manage solution \r\ndeployment), it was still a manual process to release Dataverse solution. \r\nComing from a D365 Finance Operations background at first, it was for me \r\nimportant (as a lazy guy) to decrease the amount of time needed to release \r\nsomething on a Dataverse environment ! So I just released this GitHub \r\nSolution to help you on this journey !",
-          "link": "https://www.powerazure365.com/blog-1/automation-alm-power-platform",
-          "publishedOn": "2024-08-21T15:12:27.000Z",
-          "wordCount": null,
-          "title": "Automation ALM Power Platform / Dynamics 365 CRM",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -42682,16 +42771,6 @@
           "wordCount": 3154,
           "title": "New field in SSRS Temp table not reflecting the data – D365FO",
           "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/09/image-5.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3572",
-          "author": "AnithaEswaran",
-          "description": "When a support ticket is logged with Microsoft for D365FO . Microsoft often requests session information. What is the purpose ? Identifying the Affected User and Session: Session information allows Microsoft to pinpoint the specific user and session in which … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2024/08/21/session-information-in-d365fo-why-and-where/",
-          "publishedOn": "2024-08-21T21:00:43.000Z",
-          "wordCount": 3205,
-          "title": "Session information in D365FO – Why and Where?",
-          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/08/image-5.png"
         }
       ]
     },
@@ -46062,16 +46141,6 @@
           "wordCount": 2947,
           "title": "Announcing End of Support for Dynamics 365 Project Service Automation (PSA)",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/img-2.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/21/enable-spatial-annotations-for-your-frontline-technicians-using-dynamics-365-field-service-teams/",
-          "author": "Amanda Hillman and Prashant Prashant",
-          "description": "Access the new remote assistance capabilities in your mobile Teams app automatically upon release at no additional cost.\nThe post Enable Spatial annotations for your frontline technicians using Dynamics 365 Field Service & Teams appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/21/enable-spatial-annotations-for-your-frontline-technicians-using-dynamics-365-field-service-teams/",
-          "publishedOn": "2024-08-21T19:53:53.000Z",
-          "wordCount": 3171,
-          "title": "Enable Spatial annotations for your frontline technicians using Dynamics 365 Field Service & Teams",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2020/06/M365CO20_BusinessVoice_008-1024x683.jpg"
         }
       ]
     },
@@ -47412,6 +47481,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=34864",
+          "author": "Dragana Prošić",
+          "description": "Introduction A Sales quotation is usually sent to the person who requested it. In Dynamics 365 Finance & Operations (D365FO), you select that person as a Contact on the Quotation header. A Contact person can have multiple email addresses, each with a different Purpose. We'll […]\nThe post Email Sales Quotation to Quotation Contact from D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/email-sales-quotation-to-quotation-contact-from-d365fo/",
+          "publishedOn": "2026-08-21T07:58:34.000Z",
+          "wordCount": 12628,
+          "title": "Email Sales Quotation to Quotation Contact from D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2026/08/D365Blog_EmailSalesQuotationToQuotationContactfromD365FO_Image00_MAIN.png"
+        },
         {
           "id": "https://ax.docentric.com/?p=34684",
           "author": "Amir Omanović",
