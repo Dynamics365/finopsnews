@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-25T01:23:37.601Z</updated>
+    <updated>2026-08-26T01:26:51.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Comparing Web Resources (JavaScript) Across Multiple Dataverse Environments Using a Console App]]></title>
+        <id>https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app</id>
+        <link href="https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app"/>
+        <updated>2026-08-25T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently refactored a large JavaScript solution — replacing a number of deprecated methods with their supported equivalents, along with some performance improvements — the kind of change that touches a lot of files without changing what any of them…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capture hosting market opportunities without disrupting what already works]]></title>
+        <id>https://365community.online/capture-hosting-market-opportunities-without-disrupting-what-already-works</id>
+        <link href="https://365community.online/capture-hosting-market-opportunities-without-disrupting-what-already-works"/>
+        <updated>2026-08-24T20:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Evolve your hosting business for the future without disrupting the customers and operations you depend on today. With the Microsoft Adaptive Cloud strategy, you can modernize your platform and business model on your own terms—and open the door to new,…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmark Retrieval Patterns for Copilot Studio and Foundry IQ]]></title>
+        <id>https://365community.online/benchmark-retrieval-patterns-for-copilot-studio-and-foundry-iq</id>
+        <link href="https://365community.online/benchmark-retrieval-patterns-for-copilot-studio-and-foundry-iq"/>
+        <updated>2026-08-24T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 2 of a series. Part 1, Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ, defined five grounding patterns. This article gives you a reproducible way to compare them without mixing latency boundaries, billing units, or quality…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Platform Environment Not Showing Up in Maker Portal & Power Platform Admin Center (Dataverse / Dynamics 365)]]></title>
         <id>https://365community.online/power-platform-environment-not-showing-up-in-maker-portal-power-platform-admin-center-dataverse-dynamics-365</id>
@@ -24,6 +54,36 @@
         <summary type="html"><![CDATA[Here's a Preface to what AI in business applications will hold this side of the decade. My first note in the Thought Leadership series! The post AI in Business: Starting Your Automation Journey [A Preface] appeared first on D365 Demystified.]]></summary>
         <author>
             <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified AI Defense: Security Copilot, Project Perception, and MDASH]]></title>
+        <id>https://365community.online/unified-ai-defense-security-copilot-project-perception-and-mdash</id>
+        <link href="https://365community.online/unified-ai-defense-security-copilot-project-perception-and-mdash"/>
+        <updated>2026-08-24T17:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Executive Summary This triumvirate of tools present a cohesive and unified platform that tells a compelling story:  Microsoft Security Copilot as the assistive AI experience and extensible agent platform for security and IT work;   Project Perception as the coordinated multi-agent defense system that executes Red, Blue, and…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement]]></title>
+        <id>https://365community.online/help-us-shape-exchange-server-on-premises-to-different-online-org-free-busy-after-ews-retirement</id>
+        <link href="https://365community.online/help-us-shape-exchange-server-on-premises-to-different-online-org-free-busy-after-ews-retirement"/>
+        <updated>2026-08-24T16:57:31.000Z</updated>
+        <summary type="html"><![CDATA[As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and will be fully disabled in April 2027. As part of this work, we are addressing…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder: Ask Microsoft Anything with David Weston is Tomorrow (8/25) at 8AM PST!]]></title>
+        <id>https://365community.online/reminder-ask-microsoft-anything-with-david-weston-is-tomorrow-8-25-at-8am-pst</id>
+        <link href="https://365community.online/reminder-ask-microsoft-anything-with-david-weston-is-tomorrow-8-25-at-8am-pst"/>
+        <updated>2026-08-24T16:53:52.000Z</updated>
+        <summary type="html"><![CDATA[David Weston leads Agentic Security at Microsoft, where he and his team build the AI models, autonomous agents, and evaluation systems redefining how defenders operate. At Microsoft since the Windows 7 era, he has worked across exploit mitigation design, malware…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>

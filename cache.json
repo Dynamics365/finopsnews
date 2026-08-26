@@ -548,6 +548,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app",
+          "author": "Nishant Rana",
+          "description": "We recently refactored a large JavaScript solution — replacing a number of deprecated methods with their supported equivalents, along with some performance improvements — the kind of change that touches a lot of files without changing what any of them…",
+          "link": "https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app",
+          "publishedOn": "2026-08-25T18:35:00.000Z",
+          "wordCount": 2344,
+          "title": "Comparing Web Resources (JavaScript) Across Multiple Dataverse Environments Using a Console App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/capture-hosting-market-opportunities-without-disrupting-what-already-works",
+          "author": "Microsoft Tech Community",
+          "description": "Evolve your hosting business for the future without disrupting the customers and operations you depend on today. With the Microsoft Adaptive Cloud strategy, you can modernize your platform and business model on your own terms—and open the door to new,…",
+          "link": "https://365community.online/capture-hosting-market-opportunities-without-disrupting-what-already-works",
+          "publishedOn": "2026-08-24T20:17:21.000Z",
+          "wordCount": 1581,
+          "title": "Capture hosting market opportunities without disrupting what already works",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/benchmark-retrieval-patterns-for-copilot-studio-and-foundry-iq",
+          "author": "Microsoft Tech Community",
+          "description": "Part 2 of a series. Part 1, Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ, defined five grounding patterns. This article gives you a reproducible way to compare them without mixing latency boundaries, billing units, or quality…",
+          "link": "https://365community.online/benchmark-retrieval-patterns-for-copilot-studio-and-foundry-iq",
+          "publishedOn": "2026-08-24T19:00:00.000Z",
+          "wordCount": 5037,
+          "title": "Benchmark Retrieval Patterns for Copilot Studio and Foundry IQ",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/power-platform-environment-not-showing-up-in-maker-portal-power-platform-admin-center-dataverse-dynamics-365",
           "author": "Nishant Rana",
           "description": "Recently, we ran into an interesting issue while working with a Dynamics 365 / Dataverse environment. Even though the user was assigned the System Administrator security role, the environment did not appear in either the Power Platform Admin Center or…",
@@ -565,6 +595,36 @@
           "publishedOn": "2026-08-24T18:21:28.000Z",
           "wordCount": 2312,
           "title": "AI in Business: Starting Your Automation Journey [A Preface]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/unified-ai-defense-security-copilot-project-perception-and-mdash",
+          "author": "Microsoft Tech Community",
+          "description": "Executive Summary This triumvirate of tools present a cohesive and unified platform that tells a compelling story:  Microsoft Security Copilot as the assistive AI experience and extensible agent platform for security and IT work;   Project Perception as the coordinated multi-agent defense system that executes Red, Blue, and…",
+          "link": "https://365community.online/unified-ai-defense-security-copilot-project-perception-and-mdash",
+          "publishedOn": "2026-08-24T17:04:23.000Z",
+          "wordCount": 3702,
+          "title": "Unified AI Defense: Security Copilot, Project Perception, and MDASH",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/help-us-shape-exchange-server-on-premises-to-different-online-org-free-busy-after-ews-retirement",
+          "author": "Microsoft Tech Community",
+          "description": "As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and will be fully disabled in April 2027. As part of this work, we are addressing…",
+          "link": "https://365community.online/help-us-shape-exchange-server-on-premises-to-different-online-org-free-busy-after-ews-retirement",
+          "publishedOn": "2026-08-24T16:57:31.000Z",
+          "wordCount": 1735,
+          "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/reminder-ask-microsoft-anything-with-david-weston-is-tomorrow-8-25-at-8am-pst",
+          "author": "Microsoft Tech Community",
+          "description": "David Weston leads Agentic Security at Microsoft, where he and his team build the AI models, autonomous agents, and evaluation systems redefining how defenders operate. At Microsoft since the Windows 7 era, he has worked across exploit mitigation design, malware…",
+          "link": "https://365community.online/reminder-ask-microsoft-anything-with-david-weston-is-tomorrow-8-25-at-8am-pst",
+          "publishedOn": "2026-08-24T16:53:52.000Z",
+          "wordCount": 1692,
+          "title": "Reminder: Ask Microsoft Anything with David Weston is Tomorrow (8/25) at 8AM PST!",
           "imageUrl": null
         },
         {
