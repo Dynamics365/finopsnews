@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-27T08:16:16.668Z</updated>
+    <updated>2026-08-28T10:18:23.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zonal redundancy in API management Standard v2]]></title>
+        <id>https://365community.online/zonal-redundancy-in-api-management-standard-v2</id>
+        <link href="https://365community.online/zonal-redundancy-in-api-management-standard-v2"/>
+        <updated>2026-08-27T20:57:25.000Z</updated>
+        <summary type="html"><![CDATA[APIs are the backbone of modern applications, powering everything from mobile experiences and microservices to AI-driven applications and business-critical integrations. As customers continue to modernize their platforms on Azure, they increasingly expect their API infrastructure to remain available even in…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Cohere Parse V5]]></title>
+        <id>https://365community.online/introducing-cohere-parse-v5</id>
+        <link href="https://365community.online/introducing-cohere-parse-v5"/>
+        <updated>2026-08-27T19:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Cohere Parse, a vision language model built for converting enterprise documents into structured, machine-readable data, is now available in the Microsoft Foundry. Parse joins Cohere's Embed and Rerank models in Foundry.   What Parse does Cohere Parse takes complex, multimodal…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cohere Parse v5 is now available in Microsoft Foundry]]></title>
+        <id>https://365community.online/cohere-parse-v5-is-now-available-in-microsoft-foundry</id>
+        <link href="https://365community.online/cohere-parse-v5-is-now-available-in-microsoft-foundry"/>
+        <updated>2026-08-27T19:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Cohere Parse, a vision language model built for converting enterprise documents into structured, machine-readable data, is now available in the Microsoft Foundry model . Parse joins Cohere's Embed and Rerank models in Foundry.   What Parse does Cohere Parse takes…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transaction ID (XID) Wraparound Protection in Azure Database for PostgreSQL Flexible Server]]></title>
+        <id>https://365community.online/transaction-id-xid-wraparound-protection-in-azure-database-for-postgresql-flexible-server</id>
+        <link href="https://365community.online/transaction-id-xid-wraparound-protection-in-azure-database-for-postgresql-flexible-server"/>
+        <updated>2026-08-27T18:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Why this topic? Transaction wraparound is one of the most critical PostgreSQL issues because it can eventually cause the database to stop accepting write operations. Azure PostgreSQL flexible server includes autovacuum mechanisms and guidance to help prevent this situation Introduction…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Microsoft Intune – August]]></title>
+        <id>https://365community.online/whats-new-in-microsoft-intune-august</id>
+        <link href="https://365community.online/whats-new-in-microsoft-intune-august"/>
+        <updated>2026-08-27T18:06:32.000Z</updated>
+        <summary type="html"><![CDATA[At scale, endpoint management becomes a different job. A two-minute task on one device can become months of work across thousands of devices. Organizations can’t add headcount every time the device estate grows. They need repeatable processes that give IT…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔐 The Hidden Shield in D365FO : Understanding Encryption & Decryption Mechanisms for Secure Business Data (Part 1)]]></title>
+        <id>https://365community.online/%f0%9f%94%90-the-hidden-shield-in-d365fo-understanding-encryption-decryption-mechanisms-for-secure-business-data-part-1</id>
+        <link href="https://365community.online/%f0%9f%94%90-the-hidden-shield-in-d365fo-understanding-encryption-decryption-mechanisms-for-secure-business-data-part-1"/>
+        <updated>2026-08-27T17:44:49.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital landscape, data security is no longer optional. Organizations using Dynamics 365 Finance & Operations (D365FO) handle sensitive information such as customer records, financial transactions, banking details, integration credentials, and regulatory data. Protecting this information from unauthorized access…]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔐 The Hidden Shield in D365FO : Understanding Encryption & Decryption Mechanisms for Secure Business Data (Part 1)]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4744</id>
+        <link href="https://anithasantosh.wordpress.com/2026/08/27/%f0%9f%94%90-the-hidden-shield-in-d365fo-understanding-encryption-decryption-mechanisms-for-secure-business-data-part-1/"/>
+        <updated>2026-08-27T17:44:49.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital landscape, data security is no longer optional. Organizations using Dynamics 365 Finance & Operations (D365FO) handle sensitive information such as customer records, financial transactions, banking details, integration credentials, and regulatory data. Protecting this information from unauthorized access … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When your webshop goes down: the short guide to a D365 Commerce SLA claim]]></title>
+        <id>https://365community.online/when-your-webshop-goes-down-the-short-guide-to-a-d365-commerce-sla-claim</id>
+        <link href="https://365community.online/when-your-webshop-goes-down-the-short-guide-to-a-d365-commerce-sla-claim"/>
+        <updated>2026-08-27T09:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Not a Microsoft-bashing post. The SLA is a published, contractual mechanism — using it properly is just being a grown-up customer. This post was created with the help of AI. The one distinction that matters The business measures lost orders.…]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When your webshop goes down: the short guide to a D365 Commerce SLA claim]]></title>
+        <id>https://kurthatlevik.com/?p=5485</id>
+        <link href="https://kurthatlevik.com/2026/08/27/when-your-webshop-goes-down-the-short-guide-to-a-d365-commerce-sla-claim/"/>
+        <updated>2026-08-27T09:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Not a Microsoft-bashing post. The SLA is a published, contractual mechanism — using it properly is just being a grown-up customer. This post was created with the help of AI. The one distinction that matters The business measures lost orders. Microsoft measures the incident against a contractual definition of downtime. A broken customer journey is not automatically … Continue reading When your webshop goes down: the short guide to a D365 Commerce SLA claim]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Roadmap to Rule Them All: What the AI at Work Roadmap Means for Dynamics 365 and Power Platform Architects]]></title>
         <id>https://d365cliffsnotes.com/one-roadmap-to-rule-them-all-what-the-ai-at-work-roadmap-means-for-dynamics-365-and-power-platform-architects</id>
@@ -54225,17 +54315,6 @@ The post Transforming ERP, and the speed of business, with generative AI appeare
 The post Elevating experiences with AI, from productivity to personalization  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Jayme Mesecher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G&J Pepsi profit rises by $30 million with Microsoft Dynamics 365]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/28/gj-pepsi-profit-rises-by-30-million-with-microsoft-dynamics-365/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/28/gj-pepsi-profit-rises-by-30-million-with-microsoft-dynamics-365/"/>
-        <updated>2024-08-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2021, facing an uncertain post-pandemic economy, G&J Pepsi embarked on a transformation journey to maximize customer service, revenue, and cost savings by implementing solutions including Microsoft Dynamics 365 Field Service, Microsoft Dynamics 365 Remote Assist, Microsoft Dynamics 365 Sales, and other Microsoft technologies.
-The post G&J Pepsi profit rises by $30 million with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Safiyyah O’Quinn</name>
         </author>
     </entry>
 </feed>
