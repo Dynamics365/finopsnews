@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-28T10:18:23.511Z</updated>
+    <updated>2026-08-29T06:17:33.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Model Isn’t Your AI Strategy – The System Around It Is]]></title>
+        <id>https://365community.online/the-model-isnt-your-ai-strategy-the-system-around-it-is</id>
+        <link href="https://365community.online/the-model-isnt-your-ai-strategy-the-system-around-it-is"/>
+        <updated>2026-08-28T17:58:27.000Z</updated>
+        <summary type="html"><![CDATA[This week's biggest AI signals all point in the same direction: models are changing faster than enterprises can standardise. The winners will own the harness, memory, governance and economics around them - not allegiance to a single model.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio | Real ALM for Agents (and the One Click That Breaks Your Pipeline)]]></title>
+        <id>https://365community.online/copilot-studio-real-alm-for-agents-and-the-one-click-that-breaks-your-pipeline</id>
+        <link href="https://365community.online/copilot-studio-real-alm-for-agents-and-the-one-click-that-breaks-your-pipeline"/>
+        <updated>2026-08-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous Copilot Studio article, I was working on a support agent grounded in Dataverse knowledge articles and a custom table of curated case resolutions, and I showed how to wire those knowledge sources up with the Web API…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zonal redundancy in API management Standard v2]]></title>
         <id>https://365community.online/zonal-redundancy-in-api-management-standard-v2</id>
@@ -54282,39 +54302,6 @@ The post Copilot for Dynamics 365 Commerce revolutionizes retail with AI appeare
 The post Health and Safety with Dynamics 365 Human Resources appeared first on Parag Chapre.]]></summary>
         <author>
             <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: Copilot Page in Power Platform Admin Center (Preview)]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/"/>
-        <updated>2024-08-29T16:10:43.000Z</updated>
-        <summary type="html"><![CDATA[As Copilots and generative AI features light up across Microsoft Power Platform, admins increasingly need help governing these features. To address these needs, we are introducing the preview of the Copilot page in the Power Platform Admin Center, a centralized location for readiness resources and documentation, Copilot user activity, and unified Copilot settings. The Copilot
-The post Introducing: Copilot Page in Power Platform Admin Center (Preview) appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Caitlin Shaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming ERP, and the speed of business, with generative AI]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/"/>
-        <updated>2024-08-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise resource planning (ERP) platforms were designed to help integrate the fragmented processes that comprise the operation of a large enterprise. But the way we do business keeps fundamentally changing. New business models disrupt the way companies sell products and services, blurring industry lines and transforming customer experiences.
-The post Transforming ERP, and the speed of business, with generative AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Francois van Splunder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elevating experiences with AI, from productivity to personalization]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/"/>
-        <updated>2024-08-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post, we’re going to focus on the third item: elevating customer and employee experiences by showing how AI-enabled CRM platforms help increase productivity and provide unprecedented levels of personalized service across three key business functions: marketing, sales, and customer service.
-The post Elevating experiences with AI, from productivity to personalization  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jayme Mesecher</name>
         </author>
     </entry>
 </feed>

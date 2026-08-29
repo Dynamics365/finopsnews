@@ -548,6 +548,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-model-isnt-your-ai-strategy-the-system-around-it-is",
+          "author": "John Lunn",
+          "description": "This week's biggest AI signals all point in the same direction: models are changing faster than enterprises can standardise. The winners will own the harness, memory, governance and economics around them - not allegiance to a single model.",
+          "link": "https://365community.online/the-model-isnt-your-ai-strategy-the-system-around-it-is",
+          "publishedOn": "2026-08-28T17:58:27.000Z",
+          "wordCount": 3005,
+          "title": "The Model Isn’t Your AI Strategy – The System Around It Is",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/copilot-studio-real-alm-for-agents-and-the-one-click-that-breaks-your-pipeline",
+          "author": "Mariano Gomez",
+          "description": "In my previous Copilot Studio article, I was working on a support agent grounded in Dataverse knowledge articles and a custom table of curated case resolutions, and I showed how to wire those knowledge sources up with the Web API…",
+          "link": "https://365community.online/copilot-studio-real-alm-for-agents-and-the-one-click-that-breaks-your-pipeline",
+          "publishedOn": "2026-08-28T11:00:00.000Z",
+          "wordCount": 4455,
+          "title": "Copilot Studio | Real ALM for Agents (and the One Click That Breaks Your Pipeline)",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/zonal-redundancy-in-api-management-standard-v2",
           "author": "Microsoft Tech Community",
           "description": "APIs are the backbone of modern applications, powering everything from mobile experiences and microservices to AI-driven applications and business-critical integrations. As customers continue to modernize their platforms on Azure, they increasingly expect their API infrastructure to remain available even in…",
@@ -46471,26 +46491,6 @@
           "wordCount": 3564,
           "title": "Copilot for Dynamics 365 Commerce revolutionizes retail with AI",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/CLO22_Retail_019-1024x683.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/",
-          "author": "Francois van Splunder",
-          "description": "Enterprise resource planning (ERP) platforms were designed to help integrate the fragmented processes that comprise the operation of a large enterprise. But the way we do business keeps fundamentally changing. New business models disrupt the way companies sell products and services, blurring industry lines and transforming customer experiences.\nThe post Transforming ERP, and the speed of business, with generative AI appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/",
-          "publishedOn": "2024-08-29T15:00:00.000Z",
-          "wordCount": 4018,
-          "title": "Transforming ERP, and the speed of business, with generative AI",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/D365_363349_Blog_240821_1200.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/",
-          "author": "Jayme Mesecher",
-          "description": "In this blog post, we’re going to focus on the third item: elevating customer and employee experiences by showing how AI-enabled CRM platforms help increase productivity and provide unprecedented levels of personalized service across three key business functions: marketing, sales, and customer service.\nThe post Elevating experiences with AI, from productivity to personalization  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/",
-          "publishedOn": "2024-08-29T15:00:00.000Z",
-          "wordCount": 4074,
-          "title": "Elevating experiences with AI, from productivity to personalization",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/364767-social-image.png"
         }
       ]
     },
@@ -50378,16 +50378,6 @@
           "wordCount": 8620,
           "title": "Microsoft Power Platform Stories",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2022/09/PPStories_Banner100.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/",
-          "author": "Caitlin Shaw",
-          "description": "As Copilots and generative AI features light up across Microsoft Power Platform, admins increasingly need help governing these features. To address these needs, we are introducing the preview of the Copilot page in the Power Platform Admin Center, a centralized location for readiness resources and documentation, Copilot user activity, and unified Copilot settings. The Copilot\nThe post Introducing: Copilot Page in Power Platform Admin Center (Preview) appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/",
-          "publishedOn": "2024-08-29T16:10:43.000Z",
-          "wordCount": 2614,
-          "title": "Introducing: Copilot Page in Power Platform Admin Center (Preview)",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/08/image-5.webp"
         }
       ]
     },
