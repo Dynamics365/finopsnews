@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-30T04:26:58.184Z</updated>
+    <updated>2026-08-31T04:30:58.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[STAIRS Is Live: What the Ombudsman’s 2026 Report Means for Every Dynamics 365 Product Owner]]></title>
+        <id>https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner</id>
+        <link href="https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner"/>
+        <updated>2026-08-29T08:43:36.000Z</updated>
+        <summary type="html"><![CDATA[The Housing Ombudsman’s July 2026 STAIRS (The Social Tenant Access to Information Requirements) consultation analysis report is officially out, and if you manage Microsoft Dynamics 365 or Power Platform for a housing association, the operational landscape just shifted. The Breakdown:…]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Title Plan Update – August 28, 2026]]></title>
         <id>https://365community.online/title-plan-update-august-28-2026</id>
@@ -54279,88 +54289,6 @@ The post What License Do SysAdmins Need in D365FO? appeared first on Alex Meyer.
 The post Microsoft Power Platform Stories appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Sameer Bhangar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual-write setup from Lifecycle Services fails at Application step]]></title>
-        <id>https://alexvoy.blogspot.com/2024/08/dual-write-setup-from-lifecycle.html</id>
-        <link href="https://alexvoy.blogspot.com/2024/08/dual-write-setup-from-lifecycle.html"/>
-        <updated>2024-08-30T21:45:00.002Z</updated>
-        <summary type="html"><![CDATA[If you receive the issue with applying Dual-write for your D365FO environment following the standard procedure, you may need just to change one database parameter.
-
-
-
-
-
- Open SQL MS and switch this flip to True and keep default values for your database.
-
-
-Now you can resume the process.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get back Import users button in D365FO]]></title>
-        <id>https://alexvoy.blogspot.com/2024/08/how-to-get-back-import-users-button-in.html</id>
-        <link href="https://alexvoy.blogspot.com/2024/08/how-to-get-back-import-users-button-in.html"/>
-        <updated>2024-08-30T21:03:00.002Z</updated>
-        <summary type="html"><![CDATA[You may start experiencing the following issue with button Import users.
-
-
-
-
-
-
-It happens because Microsoft changed their approach to devboxes settings:
-
-
-As of November 15, 2023, certificates in your Microsoft Entra tenant are no longer installed in new one-box development environments by default. 
-
-
-You can find more detail on how to install a certificate in this article, but we can use a shortcut using D365fo.tools.
-
-
-Here are the steps:
-    
-
-
-   1) Go to Azure portal and select app registration and create a new one (name the app to be the same as the environment name & leave settings at default) 
-
-
-   2) The app registration needs to have the following: 
-
-
-       a) 2 reply URLs > https://<fno-url> & https://<fno-url>/oauth 
-
-
-       b) add the following API permissions to the App registration: 
-
-
-
-
-
-
-
-Grant above permissions.
-3) On the VM for the environment, open PowerShell 
-   4) Run the following commands: 
-        a) Install-Module D365fo.tools, and accept all the prompts 
-        b) New-D365EntraIntegration -ClientId <client-id> (client-id is the app registration id that was created) 
-   5) The above command will save a certificate, which then needs to be uploaded to the app registration that was created]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot for Dynamics 365 Commerce revolutionizes retail with AI]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/"/>
-        <updated>2024-08-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Copilot for Dynamics 365 Commerce can help you deliver personalized customer experiences, optimize product management, and streamline retail operations for store associates, managers, and back-office staff with AI.
-The post Copilot for Dynamics 365 Commerce revolutionizes retail with AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Ashish Harchwani</name>
         </author>
     </entry>
 </feed>

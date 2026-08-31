@@ -548,6 +548,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner",
+          "author": "Chris Roberts",
+          "description": "The Housing Ombudsman’s July 2026 STAIRS (The Social Tenant Access to Information Requirements) consultation analysis report is officially out, and if you manage Microsoft Dynamics 365 or Power Platform for a housing association, the operational landscape just shifted. The Breakdown:…",
+          "link": "https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner",
+          "publishedOn": "2026-08-29T08:43:36.000Z",
+          "wordCount": 2068,
+          "title": "STAIRS Is Live: What the Ombudsman’s 2026 Report Means for Every Dynamics 365 Product Owner",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/title-plan-update-august-28-2026",
           "author": "Microsoft Tech Community",
           "description": "📁August 28, 2026 - Title Plan Now Available Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version. 📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a…",
@@ -46551,16 +46561,6 @@
           "wordCount": 3083,
           "title": "Try the first-party WhatsApp channel in Dynamics 365 Contact Center",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/11/CLO22_Cafe_009_600.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/",
-          "author": "Ashish Harchwani",
-          "description": "Discover how Copilot for Dynamics 365 Commerce can help you deliver personalized customer experiences, optimize product management, and streamline retail operations for store associates, managers, and back-office staff with AI.\nThe post Copilot for Dynamics 365 Commerce revolutionizes retail with AI appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/",
-          "publishedOn": "2024-08-30T17:00:00.000Z",
-          "wordCount": 3564,
-          "title": "Copilot for Dynamics 365 Commerce revolutionizes retail with AI",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/CLO22_Retail_019-1024x683.jpg"
         }
       ]
     },
@@ -47745,26 +47745,6 @@
           "wordCount": 2330,
           "title": "Find all tables with relations to a given field",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhOgKTGrQpqMryXRGT6XniFVNsw5J7dqVZLeGHRnLy3ZKep3hAHfxIkaQq1LBB8R_9F3mvHk8yPuJawH_JO-lJElTue4HNff-pRpoAvqJ09B1OA9Uyl0heVhNeF_Au1Jv43drw2INCwEB1D5tjVd0MBSjnv2nOeAwHrmSmH619vDi4IBepULVQ4dfiKN-0=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2024/08/dual-write-setup-from-lifecycle.html",
-          "author": null,
-          "description": "If you receive the issue with applying Dual-write for your D365FO environment following the standard procedure, you may need just to change one database parameter.\n\n\n\n\n\n Open SQL MS and switch this flip to True and keep default values for your database.\n\n\nNow you can resume the process.",
-          "link": "https://alexvoy.blogspot.com/2024/08/dual-write-setup-from-lifecycle.html",
-          "publishedOn": "2024-08-30T21:45:00.002Z",
-          "wordCount": 2068,
-          "title": "Dual-write setup from Lifecycle Services fails at Application step",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiLTk6P7qTj-k0TODsIykSuP6rYEDNtaTLLwUnSXYsfOV6yrYVaWpnFp5gnpw6F-F8ki7FLCAyjV_UyFmLIINnovBqZnviLvF8Exib0iXb1Z_9d8oBBZ5T7TwxYd5TyTLYYfYbrC89YiRRAWZnhX4Tnnq5J2hr-QFAO_6b2Kh8mk3xBJ9wY5t561ENklnA=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2024/08/how-to-get-back-import-users-button-in.html",
-          "author": null,
-          "description": "You may start experiencing the following issue with button Import users.\n\n\n\n\n\n\nIt happens because Microsoft changed their approach to devboxes settings:\n\n\nAs of November 15, 2023, certificates in your Microsoft Entra tenant are no longer installed in new one-box development environments by default. \n\n\nYou can find more detail on how to install a certificate in this article, but we can use a shortcut using D365fo.tools.\n\n\nHere are the steps:\n    \n\n\n   1) Go to Azure portal and select app registration and create a new one (name the app to be the same as the environment name & leave settings at default) \n\n\n   2) The app registration needs to have the following: \n\n\n       a) 2 reply URLs > https://<fno-url> & https://<fno-url>/oauth \n\n\n       b) add the following API permissions to the App registration: \n\n\n\n\n\n\n\nGrant above permissions.\n3) On the VM for the environment, open PowerShell \n   4) Run the following commands: \n        a) Install-Module D365fo.tools, and accept all the prompts \n        b) New-D365EntraIntegration -ClientId <client-id> (client-id is the app registration id that was created) \n   5) The above command will save a certificate, which then needs to be uploaded to the app registration that was created",
-          "link": "https://alexvoy.blogspot.com/2024/08/how-to-get-back-import-users-button-in.html",
-          "publishedOn": "2024-08-30T21:03:00.002Z",
-          "wordCount": 2204,
-          "title": "How to get back Import users button in D365FO",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiXwhWZZFK_ZQBqLYesXUr9AK0WKNvz2_Xh6ABxEzLwKtWmRDAjYd2ah9fuN1mYrcZn9iiI3bYs3UbCHOR7GR_8q1-vuqpciCHiGrYRj4ozh6yhLey1r6qCi2zgZe0JwQYny4H1bowNZAQBQEFWXX607z4BGOxBEnKsU6REUl6SnjFRpiRJQeldeQHwYTU=w1200-h630-p-k-no-nu"
         }
       ]
     },
