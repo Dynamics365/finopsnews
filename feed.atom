@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-31T04:30:58.997Z</updated>
+    <updated>2026-09-01T04:14:18.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI in Dynamics 365 CE Applications: Transforming Solution Architecting]]></title>
+        <id>https://365community.online/ai-in-dynamics-365-ce-applications-transforming-solution-architecting</id>
+        <link href="https://365community.online/ai-in-dynamics-365-ce-applications-transforming-solution-architecting"/>
+        <updated>2026-08-31T14:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Here's how Dynamics 365 CE applications are starting to take AI-route, big time. Let's get onboarded well before it all takes off really quick. The post AI in Dynamics 365 CE Applications: Transforming Solution Architecting appeared first on D365 Demystified.]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio | Turning War Stories into Guardrails: Introducing pac-copilot-kit]]></title>
+        <id>https://365community.online/copilot-studio-turning-war-stories-into-guardrails-introducing-pac-copilot-kit</id>
+        <link href="https://365community.online/copilot-studio-turning-war-stories-into-guardrails-introducing-pac-copilot-kit"/>
+        <updated>2026-08-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let me start with the announcement, because some of you came for the tool and not the story, and that is perfectly fine. Today I am releasing pac-copilot-kit, open source under MIT at github.com/dgpblogster/pac-copilot-kit. It is a paved-road toolkit for…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Windows Firewall]]></title>
+        <id>https://365community.online/advanced-windows-firewall</id>
+        <link href="https://365community.online/advanced-windows-firewall"/>
+        <updated>2026-08-30T22:38:47.000Z</updated>
+        <summary type="html"><![CDATA[If you administer Windows, you’re already aware of Windows Firewall. You might use it to allow an application, open a port, or block unwanted inbound traffic. But those familiar tasks only scratch the surface of what it can do. The…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons Learned #552:10 Lines in an SSMS MSAL Trace That Tell You Almost Everything You Need to Know]]></title>
+        <id>https://365community.online/lessons-learned-55210-lines-in-an-ssms-msal-trace-that-tell-you-almost-everything-you-need-to-know</id>
+        <link href="https://365community.online/lessons-learned-55210-lines-in-an-ssms-msal-trace-that-tell-you-almost-everything-you-need-to-know"/>
+        <updated>2026-08-30T09:16:40.000Z</updated>
+        <summary type="html"><![CDATA[In one of our support cases, a customer reported higher-than-expected connection times when connecting from SQL Server Management Studio (SSMS) to Azure SQL Database using Microsoft Entra authentication. The behavior was also not completely consistent. Sometimes the connection required interaction with…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STAIRS Is Live: What the Ombudsman’s 2026 Report Means for Every Dynamics 365 Product Owner]]></title>
         <id>https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner</id>
@@ -54278,17 +54318,6 @@ The post What’s new in Power Apps: August 2024 Feature Update appeared first o
 The post What License Do SysAdmins Need in D365FO? appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Power Platform Stories]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-stories/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-stories/"/>
-        <updated>2024-09-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a list of customer stories curated by the Power CAT team. These stories showcase the ingenuity of a wide breadth of organizations and users that have adopted low-code and Microsoft Power Platform along with Microsoft 365, Azure, and Dynamics 365. Makers of apps, flows, reports, and chatbots have digitally transformed their business processes, and in some cases transformed organization culture, careers, and lives. We hope these serve as inspiration for you as you embark on your own Power Platform journey.
-The post Microsoft Power Platform Stories appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Sameer Bhangar</name>
         </author>
     </entry>
 </feed>
