@@ -548,6 +548,86 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-future-of-digital-collaboration-with-mto",
+          "author": "Onyinye Madubuko",
+          "description": "Months ago, I published a blog post titled \"Taming the Tenant the Tree: Why Restricting Sub-Tenants Matters\" where I briefly introduced today's blog subject and highlighted its importance.",
+          "link": "https://365community.online/the-future-of-digital-collaboration-with-mto",
+          "publishedOn": "2026-09-01T20:03:08.000Z",
+          "wordCount": 1441,
+          "title": "The Future of Digital Collaboration with MTO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/i-built-an-ai-film-studio-what-frameforge-taught-me",
+          "author": "John Lunn",
+          "description": "I built FrameForge to turn one idea into a directed AI film. Here is the multi-model architecture, safety approach, quality gates and real cost story.",
+          "link": "https://365community.online/i-built-an-ai-film-studio-what-frameforge-taught-me",
+          "publishedOn": "2026-09-01T18:20:45.000Z",
+          "wordCount": 3354,
+          "title": "I Built an AI Film Studio: What FrameForge Taught Me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/why-your-business-central-job-queue-needs-idempotent-external-effects-when-integrating-external-systems",
+          "author": "Stefano Demiliani",
+          "description": "If you have a job queue entry in Business Central that talks to an external system (pushing an export, calling … More",
+          "link": "https://365community.online/why-your-business-central-job-queue-needs-idempotent-external-effects-when-integrating-external-systems",
+          "publishedOn": "2026-09-01T08:34:56.000Z",
+          "wordCount": 2817,
+          "title": "Why your Business Central job queue needs idempotent external effects when integrating external systems.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/close-the-gaps-layered-data-protection-with-microsoft-purview-across-endpoint-browser-and-network",
+          "author": "Microsoft Tech Community",
+          "description": "Three layers that work like a good team and slides to show it Data Loss Prevention (DLP) is not new, many use it daily without ever even knowing it, but with AI bringing faster results for productivity so does the…",
+          "link": "https://365community.online/close-the-gaps-layered-data-protection-with-microsoft-purview-across-endpoint-browser-and-network",
+          "publishedOn": "2026-08-31T22:25:14.000Z",
+          "wordCount": 2374,
+          "title": "Close the gaps: layered data protection with Microsoft Purview across endpoint, browser, and network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/upcoming-changes-to-classic-experiences-in-sharepoint-online",
+          "author": "Microsoft Tech Community",
+          "description": "For the latest details, timelines, FAQs, and implementation guidance, read the full Microsoft Learn article. In 2016, we introduced modern SharePoint and the SharePoint Framework to our online service – a cloud-born user experience & developer extensibility framework. Ten years later,…",
+          "link": "https://365community.online/upcoming-changes-to-classic-experiences-in-sharepoint-online",
+          "publishedOn": "2026-08-31T20:10:33.000Z",
+          "wordCount": 2326,
+          "title": "Upcoming changes to classic experiences in SharePoint Online",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/model-migration-process-on-microsoft-foundry-and-azure-openai",
+          "author": "Microsoft Tech Community",
+          "description": "Every app built on an LLM will eventually move to a new model. The model you shipped may be retired, or a newer model may offer better quality, cost, or performance. Changing a model name in code from a retiring model…",
+          "link": "https://365community.online/model-migration-process-on-microsoft-foundry-and-azure-openai",
+          "publishedOn": "2026-08-31T20:00:00.000Z",
+          "wordCount": 5398,
+          "title": "Model Migration Process on Microsoft Foundry and Azure OpenAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/build-governed-asynchronous-apis-with-azure-api-management-and-azure-service-bus",
+          "author": "Microsoft Tech Community",
+          "description": "Many applications use Azure Service Bus to decouple services, handle traffic spikes, and process workloads asynchronously. However, securely exposing messaging capabilities to applications, partners, and internal teams can require custom middleware or messaging-specific client implementations. Today, we’re announcing the general…",
+          "link": "https://365community.online/build-governed-asynchronous-apis-with-azure-api-management-and-azure-service-bus",
+          "publishedOn": "2026-08-31T18:38:04.000Z",
+          "wordCount": 2379,
+          "title": "Build governed asynchronous APIs with Azure API Management and Azure Service Bus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-in-microsoft-copilot-august-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Welcome to the August 2026 edition of What's New in Microsoft Copilot! Every month, we highlight new features and enhancements to keep Microsoft 365 customers up to date with Copilot features that help your users be more productive and efficient…",
+          "link": "https://365community.online/whats-new-in-microsoft-copilot-august-2026",
+          "publishedOn": "2026-08-31T17:51:17.000Z",
+          "wordCount": 3616,
+          "title": "What’s New in Microsoft Copilot | August 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/ai-in-dynamics-365-ce-applications-transforming-solution-architecting",
           "author": "Priyesh Wagh",
           "description": "Here's how Dynamics 365 CE applications are starting to take AI-route, big time. Let's get onboarded well before it all takes off really quick. The post AI in Dynamics 365 CE Applications: Transforming Solution Architecting appeared first on D365 Demystified.",

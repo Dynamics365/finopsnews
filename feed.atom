@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-01T04:14:18.285Z</updated>
+    <updated>2026-09-02T03:36:35.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Future of Digital Collaboration with MTO]]></title>
+        <id>https://365community.online/the-future-of-digital-collaboration-with-mto</id>
+        <link href="https://365community.online/the-future-of-digital-collaboration-with-mto"/>
+        <updated>2026-09-01T20:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Months ago, I published a blog post titled "Taming the Tenant the Tree: Why Restricting Sub-Tenants Matters" where I briefly introduced today's blog subject and highlighted its importance.]]></summary>
+        <author>
+            <name>Onyinye Madubuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Film Studio: What FrameForge Taught Me]]></title>
+        <id>https://365community.online/i-built-an-ai-film-studio-what-frameforge-taught-me</id>
+        <link href="https://365community.online/i-built-an-ai-film-studio-what-frameforge-taught-me"/>
+        <updated>2026-09-01T18:20:45.000Z</updated>
+        <summary type="html"><![CDATA[I built FrameForge to turn one idea into a directed AI film. Here is the multi-model architecture, safety approach, quality gates and real cost story.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why your Business Central job queue needs idempotent external effects when integrating external systems.]]></title>
+        <id>https://365community.online/why-your-business-central-job-queue-needs-idempotent-external-effects-when-integrating-external-systems</id>
+        <link href="https://365community.online/why-your-business-central-job-queue-needs-idempotent-external-effects-when-integrating-external-systems"/>
+        <updated>2026-09-01T08:34:56.000Z</updated>
+        <summary type="html"><![CDATA[If you have a job queue entry in Business Central that talks to an external system (pushing an export, calling … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Close the gaps: layered data protection with Microsoft Purview across endpoint, browser, and network]]></title>
+        <id>https://365community.online/close-the-gaps-layered-data-protection-with-microsoft-purview-across-endpoint-browser-and-network</id>
+        <link href="https://365community.online/close-the-gaps-layered-data-protection-with-microsoft-purview-across-endpoint-browser-and-network"/>
+        <updated>2026-08-31T22:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Three layers that work like a good team and slides to show it Data Loss Prevention (DLP) is not new, many use it daily without ever even knowing it, but with AI bringing faster results for productivity so does the…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming changes to classic experiences in SharePoint Online]]></title>
+        <id>https://365community.online/upcoming-changes-to-classic-experiences-in-sharepoint-online</id>
+        <link href="https://365community.online/upcoming-changes-to-classic-experiences-in-sharepoint-online"/>
+        <updated>2026-08-31T20:10:33.000Z</updated>
+        <summary type="html"><![CDATA[For the latest details, timelines, FAQs, and implementation guidance, read the full Microsoft Learn article. In 2016, we introduced modern SharePoint and the SharePoint Framework to our online service – a cloud-born user experience & developer extensibility framework. Ten years later,…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Migration Process on Microsoft Foundry and Azure OpenAI]]></title>
+        <id>https://365community.online/model-migration-process-on-microsoft-foundry-and-azure-openai</id>
+        <link href="https://365community.online/model-migration-process-on-microsoft-foundry-and-azure-openai"/>
+        <updated>2026-08-31T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every app built on an LLM will eventually move to a new model. The model you shipped may be retired, or a newer model may offer better quality, cost, or performance. Changing a model name in code from a retiring model…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build governed asynchronous APIs with Azure API Management and Azure Service Bus]]></title>
+        <id>https://365community.online/build-governed-asynchronous-apis-with-azure-api-management-and-azure-service-bus</id>
+        <link href="https://365community.online/build-governed-asynchronous-apis-with-azure-api-management-and-azure-service-bus"/>
+        <updated>2026-08-31T18:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Many applications use Azure Service Bus to decouple services, handle traffic spikes, and process workloads asynchronously. However, securely exposing messaging capabilities to applications, partners, and internal teams can require custom middleware or messaging-specific client implementations. Today, we’re announcing the general…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Microsoft Copilot | August 2026]]></title>
+        <id>https://365community.online/whats-new-in-microsoft-copilot-august-2026</id>
+        <link href="https://365community.online/whats-new-in-microsoft-copilot-august-2026"/>
+        <updated>2026-08-31T17:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the August 2026 edition of What's New in Microsoft Copilot! Every month, we highlight new features and enhancements to keep Microsoft 365 customers up to date with Copilot features that help your users be more productive and efficient…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI in Dynamics 365 CE Applications: Transforming Solution Architecting]]></title>
         <id>https://365community.online/ai-in-dynamics-365-ce-applications-transforming-solution-architecting</id>
