@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-02T03:36:35.369Z</updated>
+    <updated>2026-09-03T03:35:48.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Impact of AI 07 – Where does judgement come from?]]></title>
+        <id>https://365community.online/impact-of-ai-07-where-does-judgement-come-from</id>
+        <link href="https://365community.online/impact-of-ai-07-where-does-judgement-come-from"/>
+        <updated>2026-09-02T07:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Where does judgement actually come from? A look at the industry's answer — the Forward Deployed Engineer — and why buying judgement doesn't mean owning it.]]></summary>
+        <author>
+            <name>Simon Owen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Digital Collaboration with MTO]]></title>
         <id>https://365community.online/the-future-of-digital-collaboration-with-mto</id>
@@ -54376,28 +54386,6 @@ The post All in on AI: Exploring Microsoft’s AI journey through customer servi
 The post Try the first-party WhatsApp channel in Dynamics 365 Contact Center appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Yan Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new in Power Apps: August 2024 Feature Update]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-august-2024-feature-update/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-august-2024-feature-update/"/>
-        <updated>2024-09-03T15:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share what's new in Power Apps. A summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we're excited to share Copilot updates, GA of some key features for our makers and a huge set of Learning and Documentation updates.
-The post What’s new in Power Apps: August 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What License Do SysAdmins Need in D365FO?]]></title>
-        <id>https://alexdmeyer.com/?p=3310</id>
-        <link href="https://alexdmeyer.com/2024/09/03/what-license-do-sysadmins-need-in-d365fo/"/>
-        <updated>2024-09-03T13:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Photo designed by FreePik Licensing in Dynamics 365 is complex, licensing in D365FO is even more difficult. I’ve written numerous articles in the past on licensing but one question I get quite often is ‘What License Do SysAdmins Need in D365FO?’ Let’s take a look at what the Dynamics 365 Licensing Guide says and if […]
-The post What License Do SysAdmins Need in D365FO? appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
 </feed>
