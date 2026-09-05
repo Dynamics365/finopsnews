@@ -548,6 +548,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/%f0%9f%95%92-time-matters-understanding-validtimestate-tables-in-d365fo",
+          "author": "Anitha Santosh",
+          "description": "In D365FO, not all data is static. Certain business information changes over time while retaining historical accuracy. This is where ValidTimeState tables become extremely valuable. Whether you’re tracking worker assignments, resource group memberships, organizational hierarchies, positions, or pricing information, ValidTimeState…",
+          "link": "https://365community.online/%f0%9f%95%92-time-matters-understanding-validtimestate-tables-in-d365fo",
+          "publishedOn": "2026-09-04T15:07:48.000Z",
+          "wordCount": 1899,
+          "title": "🕒 Time Matters: Understanding ValidTimeState Tables in D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/power-apps-describe-the-app-approve-the-plan",
+          "author": "Mariano Gomez",
+          "description": "Every one of us who has stood up a model-driven app from nothing has lived the same first afternoon. You know the business process cold, you could describe it to a colleague in ninety seconds, and yet the next four…",
+          "link": "https://365community.online/power-apps-describe-the-app-approve-the-plan",
+          "publishedOn": "2026-09-04T11:00:00.000Z",
+          "wordCount": 4156,
+          "title": "Power Apps | Describe the App, Approve the Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/building-a-microsoft-release-radar-with-mcp-in-copilot-studio-and-vs-code",
+          "author": "Kristine Risberg",
+          "description": "Forget the Release Wave PDF: Bring Microsoft’s roadmap into your AI agent with MRC MCP For years, those of us working with Dynamics 365 and Power Platform have lived by the release waves. Twice a year, Microsoft published the next…",
+          "link": "https://365community.online/building-a-microsoft-release-radar-with-mcp-in-copilot-studio-and-vs-code",
+          "publishedOn": "2026-09-03T19:02:32.000Z",
+          "wordCount": 2777,
+          "title": "Building a Microsoft Release Radar with MCP in Copilot Studio and VS Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/from-ai-infrastructure-to-secure-ai-agent-infrastructure-with-kars",
+          "author": "Microsoft Tech Community",
+          "description": "Opening scene: a three-minute bug fix that is still unsafe for an enterprise ByteCraft AI is a four-person startup. Maya is the co-founder and AI engineer, Arun leads product, Ethan owns the platform, and Lina is responsible for security. They…",
+          "link": "https://365community.online/from-ai-infrastructure-to-secure-ai-agent-infrastructure-with-kars",
+          "publishedOn": "2026-09-03T07:00:00.000Z",
+          "wordCount": 4768,
+          "title": "From AI Infrastructure to Secure AI Agent Infrastructure with kars",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/your-business-central-ai-agent-is-only-as-good-as-the-data-behind-it",
           "author": "Amol Salvi",
           "description": "The conversation around AI in Business Central is quickly moving from what AI can do to what AI can be trusted to do. We are seeing AI move beyond answering questions and generating summaries toward agents that can understand business…",
@@ -555,6 +595,46 @@
           "publishedOn": "2026-09-03T03:46:24.000Z",
           "wordCount": 2492,
           "title": "Your Business Central AI Agent Is Only as Good as the Data Behind It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/four-things-leading-partners-teach-their-sellers-to-turn-a-marketplace-listing-into-co-sell-growth",
+          "author": "Microsoft Tech Community",
+          "description": "About the author: Reis Barrie is the Founder and CEO of Carve Partners, a growth advisory firm that helps software companies build and scale their Microsoft partnerships. Reis and his team have deep expertise in co-sell, Marketplace, Partner Center, and…",
+          "link": "https://365community.online/four-things-leading-partners-teach-their-sellers-to-turn-a-marketplace-listing-into-co-sell-growth",
+          "publishedOn": "2026-09-02T23:32:08.000Z",
+          "wordCount": 2547,
+          "title": "Four things leading partners teach their sellers to turn a Marketplace listing into co-sell growth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-in-copilot-in-sharepoint-september-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Your monthly roundup of what's new in Copilot in SharePoint. Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office files using natural language. This month, reusable…",
+          "link": "https://365community.online/whats-new-in-copilot-in-sharepoint-september-2026",
+          "publishedOn": "2026-09-02T23:26:40.000Z",
+          "wordCount": 2582,
+          "title": "What’s New in Copilot in SharePoint: September 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/welcome-to-winhec-online",
+          "author": "Microsoft Tech Community",
+          "description": "One place to follow the work At WinHEC 2026, we made a commitment with the hardware ecosystem: raise the bar on Windows driver quality, together. The Driver Quality Initiative (DQI) is how we are putting that commitment into action. It…",
+          "link": "https://365community.online/welcome-to-winhec-online",
+          "publishedOn": "2026-09-02T22:12:42.000Z",
+          "wordCount": 2134,
+          "title": "Welcome to WinHEC Online",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/onedrive-office-hours-september-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Get ready for the September 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they support the way you use your files every day. In this month’s session, we’ll walk through…",
+          "link": "https://365community.online/onedrive-office-hours-september-2026",
+          "publishedOn": "2026-09-02T21:55:18.000Z",
+          "wordCount": 1905,
+          "title": "OneDrive Office Hours | September 2026",
           "imageUrl": null
         },
         {
@@ -41821,106 +41901,6 @@
           "wordCount": 1106,
           "title": "Dynamics 365 Business Central 2024 Wave 2: new Search in List pages (but don’t abuse of it)",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-be-more-productive-with-power-automate-and-excel-desktop",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 3rd of the new functionality in the Cloud flows section is be more productive with Power Automate and Excel […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-be-more-productive-with-power-automate-and-excel-desktop",
-          "publishedOn": "2024-09-05T14:00:40.000Z",
-          "wordCount": 1112,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Be More Productive With Power Automate And Excel Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/ai-detected-tuberculosis-tb-by-hearing-cough-sounds-mindmajix-ai-shorts-technology-youtube",
-          "author": "Jaya Sri",
-          "description": "In this #Shorts video, we explained how Google’s Health Acoustic Representations (HeAR) an #AI model has integrated by Salcit Technologies that detected Tuberculosis (TB) by hearing cough sounds. Watch out how artificial intelligence is taking the healtcare industry to the next level. #artificialintelligence #ai #google #shortsfeed #shortsvideo #shortsfeedviral #mindmajix source",
-          "link": "https://365community.online/ai-detected-tuberculosis-tb-by-hearing-cough-sounds-mindmajix-ai-shorts-technology-youtube",
-          "publishedOn": "2024-09-05T13:30:15.000Z",
-          "wordCount": 1004,
-          "title": "AI Detected Tuberculosis (TB) By Hearing Cough Sounds | MindMajix #AI #Shorts #technology – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-run-a-cloud-flow-for-more-than-30-days-per-invocation",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 2nd of the new functionality in the Cloud flows section is run a cloud flow for more than 30 […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-run-a-cloud-flow-for-more-than-30-days-per-invocation",
-          "publishedOn": "2024-09-05T12:00:05.000Z",
-          "wordCount": 1120,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Run A Cloud Flow For More Than 30 Days Per Invocation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-create-power-automate-flows-in-excel",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 1st of the new functionality in the Cloud flows section is create Power Automate flows in Excel. Makers can […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-create-power-automate-flows-in-excel",
-          "publishedOn": "2024-09-05T10:00:32.000Z",
-          "wordCount": 1101,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Create Power Automate Flows In Excel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/unleashing-the-power-of-dynamics-365-business-central-2024-release-wave-2-public-preview-now-available",
-          "author": "Saurav Dhyani",
-          "description": "Hi readers, Exciting News for Business Central Users & Consultants! The public preview for Dynamics 365 Business Central 2024 release wave 2 (BC25) is officially here. This means you now have the opportunity to explore and test the latest innovations and enhancements that Microsoft has packed into this upcoming release. How to Access the Public […]",
-          "link": "https://365community.online/unleashing-the-power-of-dynamics-365-business-central-2024-release-wave-2-public-preview-now-available",
-          "publishedOn": "2024-09-05T09:48:00.000Z",
-          "wordCount": 1047,
-          "title": "Unleashing the Power of Dynamics 365 Business Central 2024 Release Wave 2: Public Preview Now Available.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/sharepoint-action-check-out-file-youtube",
-          "author": "Matt Collins",
-          "description": "In this video, I look at the SharePoint action, Check out file. How this action works, and how you can use it. Blog: https://www.mattcollinsjones.co.uk Twitter/X: https://twitter.com/D365geek LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source",
-          "link": "https://365community.online/sharepoint-action-check-out-file-youtube",
-          "publishedOn": "2024-09-05T09:00:26.000Z",
-          "wordCount": 934,
-          "title": "SharePoint Action – Check out file – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/introducing-scottish-summit-2024-i-digital-sponsor-i-lowcodera-ai-apps-youtube",
-          "author": "Scottish Summit",
-          "description": "lowcodera was established with the vision of revolutionising business app delivery on the Power Platform. Through advanced AI-powered innovation, we deliver unparalleled speed, quality, and scalability in Power Apps development. Find out more here http://www.lowcodera.com/ and following us on LinkedIn https://www.linkedin.com/company/lowcodera/ source",
-          "link": "https://365community.online/introducing-scottish-summit-2024-i-digital-sponsor-i-lowcodera-ai-apps-youtube",
-          "publishedOn": "2024-09-05T07:52:22.000Z",
-          "wordCount": 975,
-          "title": "Introducing Scottish Summit 2024 I Digital Sponsor I lowcodera AI Apps – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/introducing-scottish-summit-2024-i-bronze-sponsor-i-noteworthy-support-youtube",
-          "author": "Scottish Summit",
-          "description": "We’re Noteworthy, the Microsoft Partner Pro’s. We support partners in maximising the value from their Microsoft partnership, enabling them to focus on what they do best – growing their business.  Find out more: Website: https://noteworthy.support/ LinkedIn: https://www.linkedin.com/company/noteworthysupport source",
-          "link": "https://365community.online/introducing-scottish-summit-2024-i-bronze-sponsor-i-noteworthy-support-youtube",
-          "publishedOn": "2024-09-05T07:52:11.000Z",
-          "wordCount": 968,
-          "title": "Introducing Scottish Summit 2024 I Bronze Sponsor I NoteWorthy Support – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/introducing-scottish-summit-2024-i-silver-sponsor-i-mscrm-addons-youtube",
-          "author": "Scottish Summit",
-          "description": "mscrm-addons.com is a trusted Microsoft Gold Partner specializing in solutions for Dynamics 365 and Power Platform. Their suite of customizable add-ons enhances user experience and productivity, helping organizations maximize their Dynamics 365 & Power Platform investment. With solutions for common pain points like document creation, capacity management, and more, mscrm-addons.com empowers customers to achieve their […]",
-          "link": "https://365community.online/introducing-scottish-summit-2024-i-silver-sponsor-i-mscrm-addons-youtube",
-          "publishedOn": "2024-09-05T07:51:52.000Z",
-          "wordCount": 1026,
-          "title": "Introducing Scottish Summit 2024 I Silver Sponsor I mscrm-addons – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/innovate-with-ai-powered-low-code-microsofts-power-platform-professional-tools",
-          "author": "Inogic",
-          "description": "Navigating Modern Work Challenges with AI in Microsoft’s Power Platform The rapid pace of modern work is overwhelming, with studies revealing that 85% of emails are read in under 15 seconds, highlighting the immense pressure on workers. Beyond communication overload, 68% of employees struggle to keep up with their workload, and 46% feel burned out. […]",
-          "link": "https://365community.online/innovate-with-ai-powered-low-code-microsofts-power-platform-professional-tools",
-          "publishedOn": "2024-09-05T06:38:57.000Z",
-          "wordCount": 1305,
-          "title": "Innovate with AI-Powered Low Code Microsoft’s Power Platform Professional Tools",
-          "imageUrl": null
         }
       ]
     },
@@ -42972,6 +42952,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=4764",
+          "author": "AnithaEswaran",
+          "description": "In D365FO, not all data is static. Certain business information changes over time while retaining historical accuracy. This is where ValidTimeState tables become extremely valuable. Whether you’re tracking worker assignments, resource group memberships, organizational hierarchies, positions, or pricing information, ValidTimeState … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2026/09/04/%f0%9f%95%92-time-matters-understanding-validtimestate-tables-in-d365fo/",
+          "publishedOn": "2026-09-04T15:07:48.000Z",
+          "wordCount": 3745,
+          "title": "🕒 Time Matters: Understanding ValidTimeState Tables in D365FO",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2026/09/image.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=4744",
           "author": "AnithaEswaran",
@@ -49804,6 +49794,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134949",
+          "author": "Tasha Scott",
+          "description": "Canvas apps agentic coauthoring is now generally available Today we’re excited to announce a major milestone for makers: canvas apps coauthoring with agents is now generally available.\nThe post Turbocharge your canvas development with the canvas authoring agent plugin – now generally available! appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/turbocharge-your-canvas-development-with-the-canvas-authoring-agent-plugin-now-generally-available/",
+          "publishedOn": "2026-09-01T15:00:00.000Z",
+          "wordCount": 6021,
+          "title": "Turbocharge your canvas development with the canvas authoring agent plugin – now generally available!",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2026/08/CanvasAgentGAimg1-1.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/",
           "author": "Bryony Wolf",
