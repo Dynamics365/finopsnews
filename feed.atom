@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-06T03:38:30.630Z</updated>
+    <updated>2026-09-07T03:38:48.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unified Dynamics 365 system administrator management in PPAC]]></title>
+        <id>https://dynamicspedia.com/?p=20673</id>
+        <link href="https://dynamicspedia.com/2026/09/unified-dynamics-365-system-administrator-management-in-ppac/"/>
+        <updated>2026-09-06T17:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft keeps bringing experiences across different Dynamics 365 applications and the Power Platform together. A new preview feature is available where you can manage system administrator users for Dynamics 365 and the Power Platform in a single place. This blog describes the details and impact of enabling the preview via Feature management. Unified admin user […]
+The post Unified Dynamics 365 system administrator management in PPAC appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 29.0 Preview: AL Tooling Starts Being Designed for Agents Too]]></title>
+        <id>https://365community.online/business-central-29-0-preview-al-tooling-starts-being-designed-for-agents-too</id>
+        <link href="https://365community.online/business-central-29-0-preview-al-tooling-starts-being-designed-for-agents-too"/>
+        <updated>2026-09-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has published the public preview of Business Central 2026 release wave 2. Reading through the change list, one thing stands out well above the feature count.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Move to Modern SQL Server Licensing with Confidence]]></title>
         <id>https://365community.online/move-to-modern-sql-server-licensing-with-confidence</id>
@@ -54395,46 +54416,6 @@ The post How to bypass table security in X++ coding appeared first on Dynamicspe
         <summary type="html"><![CDATA[One conference, two career-changing connections. source]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages: Use a custom Rich Text Files table to store images (and avoid exposing the full msdyn_richtextfiles table)]]></title>
-        <id>https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table</id>
-        <link href="https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table"/>
-        <updated>2024-09-07T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post, I explained how to display images from a Dataverse Rich Text field in Power Pages using Liquid. However, this method enables read access to all records in the Rich Text Attachments (msdyn_richtextfiles) table, which might not be ideal in case the Dataverse environment has other functionalities that have private information stored […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Game Changing Programming Lessons You Wish You Knew Sooner! – YouTube]]></title>
-        <id>https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube</id>
-        <link href="https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube"/>
-        <updated>2024-09-07T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[12 Game Changing Programming Lessons You Wish You Knew Sooner! – 🤔 Struggling with programming?    Wish you had a roadmap to navigate the coding world more effectively? – 📹 In this video, we unveil:    12 essential programming lessons that could have saved you time, frustration, and countless late nights. – 📚 Key Takeaways: […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minha experiência como desenvolvedor 😃 – YouTube]]></title>
-        <id>https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube</id>
-        <link href="https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube"/>
-        <updated>2024-09-07T11:00:08.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qual a importância na comunidade como um desenvolver? – YouTube]]></title>
-        <id>https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube</id>
-        <link href="https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube"/>
-        <updated>2024-09-06T20:00:23.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
         </author>
     </entry>
 </feed>
