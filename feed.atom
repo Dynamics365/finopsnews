@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-09T03:47:59.312Z</updated>
+    <updated>2026-09-10T03:46:10.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Column Visualizations for Grids / Views (Preview) –Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/column-visualizations-for-grids-views-preview-dataverse-dynamics-365</id>
+        <link href="https://365community.online/column-visualizations-for-grids-views-preview-dataverse-dynamics-365"/>
+        <updated>2026-09-09T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Apps now lets us render a column’s data as a small graphic in the grid – a gauge, a sparkline, a colored bar, or stars – instead of plain text. We tried it out on a couple of our…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of ALDC: The Right Piece from the Start Wasn’t Enough]]></title>
+        <id>https://365community.online/the-evolution-of-aldc-the-right-piece-from-the-start-wasnt-enough</id>
+        <link href="https://365community.online/the-evolution-of-aldc-the-right-piece-from-the-start-wasnt-enough"/>
+        <updated>2026-09-09T14:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Twelve months of framework, and having the right piece from the start still was not enough. When is it ever?]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC v29: The AL Rule That Just Quietly Disappeared]]></title>
+        <id>https://365community.online/bc-v29-the-al-rule-that-just-quietly-disappeared</id>
+        <link href="https://365community.online/bc-v29-the-al-rule-that-just-quietly-disappeared"/>
+        <updated>2026-09-09T10:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Some Business Central restrictions become so familiar that developers stop questioning them. They design around the limitation, build the workaround into the pattern, and eventually forget it was ever a choice rather than a fact of the platform. Version 29…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of AI 08 – Everything Leads Back to Judgement]]></title>
+        <id>https://365community.online/impact-of-ai-08-everything-leads-back-to-judgement</id>
+        <link href="https://365community.online/impact-of-ai-08-everything-leads-back-to-judgement"/>
+        <updated>2026-09-09T07:00:42.000Z</updated>
+        <summary type="html"><![CDATA[The most valuable capability in an AI-rich world is not access to knowledge, but the ability to develop and exercise judgement. Mentors, coaches, communities and orchestrated agents are all different mechanisms for building judgement, trust and capability at scale.]]></summary>
+        <author>
+            <name>Simon Owen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Central in the work conversation]]></title>
         <id>https://365community.online/business-central-in-the-work-conversation</id>
@@ -85,26 +125,6 @@
         <summary type="html"><![CDATA[Scenario Working on a custom multi-entity Business Process Flow (Opportunity → Quote) recently, we ran into this error while trying to reactivate the process: The BPF (custom_salesprocess) had already traversed several stages — Generate Opportunity → Qualify → Generate Quote…]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earn the badge built for Frontier AI leaders]]></title>
-        <id>https://365community.online/earn-the-badge-built-for-frontier-ai-leaders</id>
-        <link href="https://365community.online/earn-the-badge-built-for-frontier-ai-leaders"/>
-        <updated>2026-09-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The next wave of AI transformation needs more than ambition. Customers need partners with the skills and proven capabilities to deliver real outcomes.   The Frontier Transformation Engineer badge recognizes partners building the capabilities to design, implement, and deliver Microsoft Frontier AI solutions. Earn…]]></summary>
-        <author>
-            <name>Microsoft Tech Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes and documents – the way clinicians want them]]></title>
-        <id>https://365community.online/notes-and-documents-the-way-clinicians-want-them</id>
-        <link href="https://365community.online/notes-and-documents-the-way-clinicians-want-them"/>
-        <updated>2026-09-07T15:48:13.000Z</updated>
-        <summary type="html"><![CDATA[The moment after the visit There is a moment in every patient encounter when the clinical story needs to become something more than a note. It may become a referral letter, a set of patient instructions, a school or work…]]></summary>
-        <author>
-            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -54352,106 +54372,6 @@ Si…]]></summary>
         <link href="https://365community.online/sample-code-to-create-and-associate-folder-sharepoint-document-location-dataverse-dynamics-365-sharepoint-online"/>
         <updated>2024-09-10T20:30:00.000Z</updated>
         <summary type="html"><![CDATA[Below is our sample record for a custom table custom_contract for which we will be creating the folder in SharePoint and associated it with this record using the SharePoint Document Location record. We’d use the same naming pattern that CRM uses i.e. Name + ”_” + ”GUID” Below we have passed the details of the […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Use Copilot To Ask Power Automate Product Questions]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-ask-power-automate-product-questions</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-ask-power-automate-product-questions"/>
-        <updated>2024-09-10T14:00:14.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 6th of the new functionality in the Desktop flows section is use Copilot to ask Power Automate product questions. […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Use Copilot To Analyze Work Queue Data]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-work-queue-data</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-work-queue-data"/>
-        <updated>2024-09-10T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 5th of the new functionality in the Desktop flows section is use Copilot to analyze work queue data. The […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qual o futuro da IA na vida das pessoas? – YouTube]]></title>
-        <id>https://365community.online/qual-o-futuro-da-ia-na-vida-das-pessoas-youtube</id>
-        <link href="https://365community.online/qual-o-futuro-da-ia-na-vida-das-pessoas-youtube"/>
-        <updated>2024-09-10T11:00:28.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Use Copilot To Analyze Desktop Flow Runs]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-desktop-flow-runs</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-desktop-flow-runs"/>
-        <updated>2024-09-10T10:00:10.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 4th of the new functionality in the Desktop flows section is use Copilot to analyze desktop flow runs. The […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate with Ease: Triggering Power Automate Flows with Data Activator]]></title>
-        <id>https://365community.online/automate-with-ease-triggering-power-automate-flows-with-data-activator</id>
-        <link href="https://365community.online/automate-with-ease-triggering-power-automate-flows-with-data-activator"/>
-        <updated>2024-09-10T09:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Fabrics (Microsoft Fabric) is an integrated data platform crafted to enhance data engineering, science, and analytics. It provides a comprehensive range of tools and services to handle every aspect of data operations, from storage and processing to analysis. Microsoft Fabric simplifies the data management workflow by providing a unified environment that allows seamless execution of […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With Statement Deprecation in Business Central.]]></title>
-        <id>https://365community.online/with-statement-deprecation-in-business-central</id>
-        <link href="https://365community.online/with-statement-deprecation-in-business-central"/>
-        <updated>2024-09-10T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, The “with statement deprecation in Business Central” is a significant change that developers need to address. Microsoft’s decision to remove support for this statement has far-reaching implications for AL development and upgrade projects. Let’s explore what this means for Business Central developers and how to prepare for this important transition. Understanding the With […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Logic Apps workflows: restrict access by IP ranges.]]></title>
-        <id>https://365community.online/azure-logic-apps-workflows-restrict-access-by-ip-ranges</id>
-        <link href="https://365community.online/azure-logic-apps-workflows-restrict-access-by-ip-ranges"/>
-        <updated>2024-09-10T08:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Azure Logic Apps is a great technology to use when integrating Dynamics 365 Business Central with external systems. It permits you to create complex integration workflows with a low-code approach (same technology that drives Power Automate) in an enterprise-ready and security-oriented way. When you have for example an external application that need to interact with […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New lead qualification experience]]></title>
-        <id>https://365community.online/new-lead-qualification-experience</id>
-        <link href="https://365community.online/new-lead-qualification-experience"/>
-        <updated>2024-09-10T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[When 2024 release wave 2 came out, one of the features in the long list of updates for Dynamics 365 Sales was the new lead qualification experience. This feature was originally part of the first wave of the 2024 release wave, but unfortunately it was pushed to a later date for unknown reasons. When I […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Lead Qualification Experience in D365 Sales – YouTube]]></title>
-        <id>https://365community.online/new-lead-qualification-experience-in-d365-sales-youtube</id>
-        <link href="https://365community.online/new-lead-qualification-experience-in-d365-sales-youtube"/>
-        <updated>2024-09-10T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[New Lead Qualification Experience in D365 Sales When 2024 release wave 2 came out, one of the features in the long list of updates for Dynamics 365 Sales was the new lead qualification experience. This feature was originally part of the first wave of the 2024 release wave, but unfortunately it was pushed to a […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed – The attempted operation is prohibited because it exceeds the list view threshold error– SharePoint Online]]></title>
-        <id>https://365community.online/fixed-the-attempted-operation-is-prohibited-because-it-exceeds-the-list-view-threshold-error-sharepoint-online</id>
-        <link href="https://365community.online/fixed-the-attempted-operation-is-prohibited-because-it-exceeds-the-list-view-threshold-error-sharepoint-online"/>
-        <updated>2024-09-09T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While trying to load all the files in a particular folder for processing, we got the below error The attempted operation is prohibited because it exceeds the list view threshold – Microsoft.SharePoint.SPQueryThrottledException The folder we were targeting contained 25K files in it. (the default threshold – 5000 items) So we updated our code to make […]]]></summary>
         <author>
             <name>Nishant Rana</name>
         </author>
