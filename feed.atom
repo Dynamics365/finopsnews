@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-10T03:46:10.437Z</updated>
+    <updated>2026-09-11T03:43:57.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central on Italy North Datacenter: here we are!]]></title>
+        <id>https://365community.online/dynamics-365-business-central-on-italy-north-datacenter-here-we-are</id>
+        <link href="https://365community.online/dynamics-365-business-central-on-italy-north-datacenter-here-we-are"/>
+        <updated>2026-09-10T14:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Do you remember this post? It was November 5, 2025 when Microsoft planned to start deploying Italy localization on Italy … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio | Grounding a Copilot Studio Agent on Azure SQL]]></title>
+        <id>https://365community.online/copilot-studio-grounding-a-copilot-studio-agent-on-azure-sql</id>
+        <link href="https://365community.online/copilot-studio-grounding-a-copilot-studio-agent-on-azure-sql"/>
+        <updated>2026-09-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every Monday I read what moved in the Microsoft Learn documentation over the previous week, mostly because I got tired of finding out about a capability three months late, when a customer asks why we are not already using it.…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing “Exceeded Retry Count of 10” Build Error in Visual Studio for D365 CE Projects]]></title>
+        <id>https://365community.online/fixing-exceeded-retry-count-of-10-build-error-in-visual-studio-for-d365-ce-projects</id>
+        <link href="https://365community.online/fixing-exceeded-retry-count-of-10-build-error-in-visual-studio-for-d365-ce-projects"/>
+        <updated>2026-09-10T06:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Developers working with Dynamics 365 CE often encounter the Visual Studio error “Could not copy D365CEConsoleApp.exe - Exceeded retry count of 10.” This happens when the executable is locked by a running process. Here’s how to diagnose and fix it…]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the Dataverse MCP “Describe” Tool FileLoadException in Copilot Studio]]></title>
+        <id>https://365community.online/fixing-the-dataverse-mcp-describe-tool-fileloadexception-in-copilot-studio</id>
+        <link href="https://365community.online/fixing-the-dataverse-mcp-describe-tool-fileloadexception-in-copilot-studio"/>
+        <updated>2026-09-10T06:12:06.000Z</updated>
+        <summary type="html"><![CDATA[The problem If your Copilot Studio agent uses the Dataverse MCP server and calls the describe operation (for example, "describe the account table"), you may have hit an error similar to this:Something went wrong. Plugin context correlation ID: a6739c5d-b8ef-4b8c-8a81-75d7b5432a28. Exception…]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the D365 Estimator Cowork Skill: Automate Your Dynamics 365 Cost Estimates]]></title>
+        <id>https://365community.online/introducing-the-d365-estimator-cowork-skill-automate-your-dynamics-365-cost-estimates</id>
+        <link href="https://365community.online/introducing-the-d365-estimator-cowork-skill-automate-your-dynamics-365-cost-estimates"/>
+        <updated>2026-09-10T04:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Estimating a Dynamics 365 implementation stalls on gathering the inputs, not on the math. So I built a Cowork skill that runs the interview and writes the estimate data file for you.]]></summary>
+        <author>
+            <name>Dag Calafell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC v29: The Index You Couldn’t Touch Is Finally Under Your Control]]></title>
+        <id>https://365community.online/bc-v29-the-index-you-couldnt-touch-is-finally-under-your-control</id>
+        <link href="https://365community.online/bc-v29-the-index-you-couldnt-touch-is-finally-under-your-control"/>
+        <updated>2026-09-10T03:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Business Central 2026 release wave 1 gave administrators something they’d wanted for a long time: the ability to see exactly which indexes existed on a table, how much they cost in storage, and to turn off the ones nobody needed.…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets]]></title>
+        <id>https://365community.online/public-preview-automatic-zone-placement-for-virtual-machine-scale-sets</id>
+        <link href="https://365community.online/public-preview-automatic-zone-placement-for-virtual-machine-scale-sets"/>
+        <updated>2026-09-09T22:57:26.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce the public preview of Automatic Zone Placement for Azure Virtual Machine Scale Sets. This new capability lets Azure select availability zones for your scale set based on SKU availability, capacity, and your placement requirements. Automatic Zone Placement simplifies…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing MSClickID reporting in the Microsoft Advertising API]]></title>
+        <id>https://365community.online/introducing-msclickid-reporting-in-the-microsoft-advertising-api</id>
+        <link href="https://365community.online/introducing-msclickid-reporting-in-the-microsoft-advertising-api"/>
+        <updated>2026-09-09T21:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Advertisers increasingly rely on their own analytics, data warehouses, and attribution systems to understand what happens after an ad click. To support these advanced reporting and attribution scenarios, Microsoft Advertising is introducing MSClickID reporting in the Microsoft Advertising API.  MSClickID…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixes in Microsoft Access – Version 2608 (Build 16.0.20326.20100)]]></title>
+        <id>https://365community.online/fixes-in-microsoft-access-version-2608-build-16-0-20326-20100</id>
+        <link href="https://365community.online/fixes-in-microsoft-access-version-2608-build-16-0-20326-20100"/>
+        <updated>2026-09-09T20:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Important update: A regression introduced by an earlier security update could cause labels, text boxes, combo boxes, and other controls to lose their fonts, colors, or styles after printing or previewing reports that contain embedded images or OLE objects. It could…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Execution, Optimization, and Exploration: Evaluating Scientific AI Through RF Engineering]]></title>
+        <id>https://365community.online/execution-optimization-and-exploration-evaluating-scientific-ai-through-rf-engineering</id>
+        <link href="https://365community.online/execution-optimization-and-exploration-evaluating-scientific-ai-through-rf-engineering"/>
+        <updated>2026-09-09T20:41:33.000Z</updated>
+        <summary type="html"><![CDATA[When we evaluate AI systems, we often focus on whether they can produce the correct answer. Done wrong, evals turn into “trivia,” instead of an ability to accomplish a complex task. But in science and engineering, the fact recall is…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally Available: Restrict usage of user delegation SAS to an Entra ID identity]]></title>
+        <id>https://365community.online/generally-available-restrict-usage-of-user-delegation-sas-to-an-entra-id-identity</id>
+        <link href="https://365community.online/generally-available-restrict-usage-of-user-delegation-sas-to-an-entra-id-identity"/>
+        <updated>2026-09-09T19:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Shared access signatures (SAS) grant time-bound, scoped access to Azure Storage resources without sharing account keys. Over time, Azure Storage has continued to strengthen SAS security, moving from account keys to user delegation (UD) SAS secured by Microsoft Entra ID.   Today, we’re taking the next step forward…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Column Visualizations for Grids / Views (Preview) –Dataverse / Dynamics 365]]></title>
         <id>https://365community.online/column-visualizations-for-grids-views-preview-dataverse-dynamics-365</id>
@@ -14,6 +124,17 @@
         <summary type="html"><![CDATA[Power Apps now lets us render a column’s data as a small graphic in the grid – a gauge, a sparkline, a colored bar, or stars – instead of plain text. We tried it out on a couple of our…]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate your move to agentic business applications with Dynamics 365 Activate]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=203089</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/09/09/accelerate-your-move-to-agentic-business-applications-with-dynamics-365-activate/"/>
+        <updated>2026-09-09T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don’t let legacy applications hold back your adoption of innovation Organizations around the world are exploring how AI and agents could redesign and transform their critical business processes.
+The post Accelerate your move to agentic business applications with Dynamics 365 Activate appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jeff Teper</name>
         </author>
     </entry>
     <entry>
@@ -54314,66 +54435,6 @@ Si…]]></summary>
         <summary type="html"><![CDATA[source]]></summary>
         <author>
             <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Data Security Tactics – YouTube]]></title>
-        <id>https://365community.online/advanced-data-security-tactics-youtube</id>
-        <link href="https://365community.online/advanced-data-security-tactics-youtube"/>
-        <updated>2024-09-11T14:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Learn advanced data security tactics to protect data at rest, in motion, and in use. Prepare for the SC-100 Exam with these essential strategies. Episode Breakdown: 00:00 – Episode Intro 00:29 – Episode Breakdown 01:05 – Design a solution for protection of data at rest, data in motion, and data in use 04:53 – Data […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carl Cookson Busts Pub Quiz Myth – YouTube]]></title>
-        <id>https://365community.online/carl-cookson-busts-pub-quiz-myth-youtube-2</id>
-        <link href="https://365community.online/carl-cookson-busts-pub-quiz-myth-youtube-2"/>
-        <updated>2024-09-11T13:34:59.000Z</updated>
-        <summary type="html"><![CDATA[It’s an episode packed full of revelations this time around! Carl ‘Cooky’ Cookson has some news which will leave Ana shocked! Also, stay tuned for news of another exclusive Scottish Summit charity initiative that will have the community lip-syncing for their lives. source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberArk Full Course | Part 5: CyberArk Vault Installation | CyberArk PAM Training | MindMajix – YouTube]]></title>
-        <id>https://365community.online/cyberark-full-course-part-5-cyberark-vault-installation-cyberark-pam-training-mindmajix-youtube</id>
-        <link href="https://365community.online/cyberark-full-course-part-5-cyberark-vault-installation-cyberark-pam-training-mindmajix-youtube"/>
-        <updated>2024-09-11T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[This CyberArk Full Course will help learners to implement advanced identity security and access management solutions. The CyberArk training will help you learn to design, build, deploy identity security practices, and detect threats effectively. This CyberArk course content with a solid practical approach and includes the latest skills expected by industries, In this particular video […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explore metropolitan areas & travel with integrated maps within Dynamics 365]]></title>
-        <id>https://365community.online/explore-metropolitan-areas-travel-with-integrated-maps-within-dynamics-365</id>
-        <link href="https://365community.online/explore-metropolitan-areas-travel-with-integrated-maps-within-dynamics-365"/>
-        <updated>2024-09-11T12:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Travel they say is a book in motion, it is a practical teacher, and that mentors several lives. Field Reps, travel a lot for business needs but very rarely get the opportunity to explore the cities and the states they visit. Today, let’s have a look at the history of some such wonderful regions of […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Scale Faster With Process Mining Thin Client App]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-scale-faster-with-process-mining-thin-client-app</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-scale-faster-with-process-mining-thin-client-app"/>
-        <updated>2024-09-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 1st of the new functionality in the Process mining section is scale faster with Process Mining thin client app. […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sample Code to create and associate Folder / SharePoint Document Location (Dataverse /Dynamics 365 / SharePoint Online)]]></title>
-        <id>https://365community.online/sample-code-to-create-and-associate-folder-sharepoint-document-location-dataverse-dynamics-365-sharepoint-online</id>
-        <link href="https://365community.online/sample-code-to-create-and-associate-folder-sharepoint-document-location-dataverse-dynamics-365-sharepoint-online"/>
-        <updated>2024-09-10T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Below is our sample record for a custom table custom_contract for which we will be creating the folder in SharePoint and associated it with this record using the SharePoint Document Location record. We’d use the same naming pattern that CRM uses i.e. Name + ”_” + ”GUID” Below we have passed the details of the […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
         </author>
     </entry>
 </feed>
