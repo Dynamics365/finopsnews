@@ -2,18 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-11T03:43:57.359Z</updated>
+    <updated>2026-09-12T03:47:13.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central on Italy North Datacenter: here we are!]]></title>
-        <id>https://365community.online/dynamics-365-business-central-on-italy-north-datacenter-here-we-are</id>
-        <link href="https://365community.online/dynamics-365-business-central-on-italy-north-datacenter-here-we-are"/>
-        <updated>2026-09-10T14:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Do you remember this post? It was November 5, 2025 when Microsoft planned to start deploying Italy localization on Italy … More]]></summary>
+        <title type="html"><![CDATA[What an Agent Doesn’t Know It Doesn’t Know]]></title>
+        <id>https://365community.online/what-an-agent-doesnt-know-it-doesnt-know</id>
+        <link href="https://365community.online/what-an-agent-doesnt-know-it-doesnt-know"/>
+        <updated>2026-09-11T14:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Strategic programming in Business Central, and how to find the line where your own judgement runs out.]]></summary>
         <author>
-            <name>Stefano Demiliani</name>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting Agent Feed to the Test: Human Oversight for Autonomous Agents in D365]]></title>
+        <id>https://365community.online/putting-agent-feed-to-the-test-human-oversight-for-autonomous-agents-in-d365</id>
+        <link href="https://365community.online/putting-agent-feed-to-the-test-human-oversight-for-autonomous-agents-in-d365"/>
+        <updated>2026-09-11T13:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Until a few weeks ago, Agent Feed wasn’t really on my radar. I’ve built quite a few autonomous agents by now. Some have been allowed to run fully autonomously, while others have had very deliberate points of human oversight: triggering…]]></summary>
+        <author>
+            <name>Kristine Risberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Rules for Good Discovery]]></title>
+        <id>https://365community.online/13-rules-for-good-discovery</id>
+        <link href="https://365community.online/13-rules-for-good-discovery"/>
+        <updated>2026-09-11T10:13:04.000Z</updated>
+        <summary type="html"><![CDATA[A good discovery will set a project up for success, whilst a bad discovery will do the opposite. In this article I’m going to explain what I think makes a discovery successful. This applies whether you are a providing the…]]></summary>
+        <author>
+            <name>Kieran Holmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t be Too Helpful…]]></title>
+        <id>https://365community.online/dont-be-too-helpful</id>
+        <link href="https://365community.online/dont-be-too-helpful"/>
+        <updated>2026-09-11T10:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Why Discipline Beats HelpfulnessDelivery teams implementing Power Apps and Dynamics 365 are typically motivated by a strong desire to help. Consultants, developers, and architects want to unblock users, respond quickly to requests, and demonstrate value through action. In most cases,…]]></summary>
+        <author>
+            <name>Kieran Holmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Version 29: Recently Searched in Tell Me and Recently Used Lookups]]></title>
+        <id>https://365community.online/business-central-version-29-recently-searched-in-tell-me-and-recently-used-lookups</id>
+        <link href="https://365community.online/business-central-version-29-recently-searched-in-tell-me-and-recently-used-lookups"/>
+        <updated>2026-09-11T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[IntroductionMicrosoft Dynamics 365 Business Central Version 29 introduces two productivity-focused enhancements designed to help users work faster: Recently Searched in Tell Me and Recently Used Records in Lookups. These features reduce repetitive searching, accelerate data entry, and provide a more…]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC v29 Closes a Gap That’s Been There Since 2020]]></title>
+        <id>https://365community.online/bc-v29-closes-a-gap-thats-been-there-since-2020</id>
+        <link href="https://365community.online/bc-v29-closes-a-gap-thats-been-there-since-2020"/>
+        <updated>2026-09-11T04:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Since Business Central 2020 release wave 2, every table in the product has carried four audit fields SystemCreatedAt, SystemCreatedBy, SystemModifiedAt, and SystemModifiedBy. For years, these fields have been sitting there available to every developer, and for years, half of what…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating Agentic AI in Microsoft Foundry: Beyond Final-Answer Quality]]></title>
+        <id>https://365community.online/evaluating-agentic-ai-in-microsoft-foundry-beyond-final-answer-quality</id>
+        <link href="https://365community.online/evaluating-agentic-ai-in-microsoft-foundry-beyond-final-answer-quality"/>
+        <updated>2026-09-11T02:40:18.000Z</updated>
+        <summary type="html"><![CDATA[As AI systems evolve from single-turn assistants into tool-using agents, evaluation has to evolve with them.For a traditional LLM application, teams often focus on whether the final response is relevant, coherent, or grounded. For an agent, that is only part…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent ROI Framework]]></title>
+        <id>https://365community.online/ai-agent-roi-framework</id>
+        <link href="https://365community.online/ai-agent-roi-framework"/>
+        <updated>2026-09-10T22:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction  AI agents are rapidly becoming a core component of enterprise transformation strategies. Organizations are deploying agents to assist employees, automate business processes, improve customer experiences, accelerate decision-making, and scale operations. Yet many organizations still face a fundamental challenge. How…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft ODBC Driver 18.7.1: smaller vectors, easier configuration, and better cloud routing]]></title>
+        <id>https://365community.online/microsoft-odbc-driver-18-7-1-smaller-vectors-easier-configuration-and-better-cloud-routing</id>
+        <link href="https://365community.online/microsoft-odbc-driver-18-7-1-smaller-vectors-easier-configuration-and-better-cloud-routing"/>
+        <updated>2026-09-10T22:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft ODBC Driver 18.7.1 for SQL Server is now generally available. This release continues the work we started in 18.6 to support modern application patterns while making the driver easier to deploy and operate. It adds float16 vector support, brings…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create multimodal applications with OpenAI models in Microsoft Foundry]]></title>
+        <id>https://365community.online/create-multimodal-applications-with-openai-models-in-microsoft-foundry</id>
+        <link href="https://365community.online/create-multimodal-applications-with-openai-models-in-microsoft-foundry"/>
+        <updated>2026-09-10T20:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you are building a home design application. A customer says, “Show me a modern kitchen with dark cabinets and a large center island.” Images appear in seconds. Before the application finishes describing the design, the customer interrupts: “Make it…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -54365,76 +54455,6 @@ Si…]]></summary>
         <summary type="html"><![CDATA[The fastest way to grow your Tech Career source]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Configuración e Instalación de Copilot for Finance en Business Central]]></title>
-        <id>https://365community.online/configuracion-e-instalacion-de-copilot-for-finance-en-business-central</id>
-        <link href="https://365community.online/configuracion-e-instalacion-de-copilot-for-finance-en-business-central"/>
-        <updated>2024-09-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[¿Que es Copilot for Finance? Copilot for Finance acelera el tiempo de impacto para los profesionales financieros al ofrecer insights que apoyan la toma de decisiones estratégicas y reducen el tiempo dedicado a tareas manuales y repetitivas. Esta herramienta empodera a los equipos financieros para mantenerse concentrados en su flujo de trabajo, conectando de manera […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Challenges in Territory Management and Solutions with Integrated Maps in Dynamics 365]]></title>
-        <id>https://365community.online/top-5-challenges-in-territory-management-and-solutions-with-integrated-maps-in-dynamics-365</id>
-        <link href="https://365community.online/top-5-challenges-in-territory-management-and-solutions-with-integrated-maps-in-dynamics-365"/>
-        <updated>2024-09-12T10:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Sabrina was the last person to leave the conference room, exhausted from the meeting. However, she felt a sense of relief as things were starting to fall into place. The quarterly report revealed that eight of her sales managers were focusing solely on clients in the western region of the country. While the other three […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the “For a selected Record V3” Microsoft Dynamics 365 Business Central Trigger in Power Automate, the Record URL is Avalable Without Using “Get url V3” Action]]></title>
-        <id>https://365community.online/in-the-for-a-selected-record-v3-microsoft-dynamics-365-business-central-trigger-in-power-automate-the-record-url-is-avalable-without-using-get-url-v3-action</id>
-        <link href="https://365community.online/in-the-for-a-selected-record-v3-microsoft-dynamics-365-business-central-trigger-in-power-automate-the-record-url-is-avalable-without-using-get-url-v3-action"/>
-        <updated>2024-09-12T10:00:13.000Z</updated>
-        <summary type="html"><![CDATA[I am writing a few related series at the moment, includong In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… which is a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SharePoint Action – Copy file – YouTube]]></title>
-        <id>https://365community.online/sharepoint-action-copy-file-youtube</id>
-        <link href="https://365community.online/sharepoint-action-copy-file-youtube"/>
-        <updated>2024-09-12T09:30:17.000Z</updated>
-        <summary type="html"><![CDATA[In this video, I look at the SharePoint action, Copy file. How this action works, and how you can use it. Blog: https://www.mattcollinsjones.co.uk Twitter/X: https://twitter.com/D365geek LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many of are you are in this phase? – YouTube]]></title>
-        <id>https://365community.online/how-many-of-are-you-are-in-this-phase-youtube</id>
-        <link href="https://365community.online/how-many-of-are-you-are-in-this-phase-youtube"/>
-        <updated>2024-09-12T06:55:21.000Z</updated>
-        <summary type="html"><![CDATA[How many of are you are in this phase? source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error in Power Automate: There’s a problem that needs to be fixed to trigger this flow. To see more details, open Flow checker.]]></title>
-        <id>https://365community.online/error-in-power-automate-theres-a-problem-that-needs-to-be-fixed-to-trigger-this-flow-to-see-more-details-open-flow-checker</id>
-        <link href="https://365community.online/error-in-power-automate-theres-a-problem-that-needs-to-be-fixed-to-trigger-this-flow-to-see-more-details-open-flow-checker"/>
-        <updated>2024-09-12T04:05:55.000Z</updated>
-        <summary type="html"><![CDATA[I was getting the below error after opening the Power Automate. There’s a problem that needs to be fixed to trigger this flow. To see more details, open Flow checker. Followed the below steps to resolve this issue. Step 1: Clicked on the Flow checker to see the Errors. Step 2: As per the error, there […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Scottish Summit 2024 I Silver Sponsor I Lightning Tools – YouTube]]></title>
-        <id>https://365community.online/introducing-scottish-summit-2024-i-silver-sponsor-i-lightning-tools-youtube</id>
-        <link href="https://365community.online/introducing-scottish-summit-2024-i-silver-sponsor-i-lightning-tools-youtube"/>
-        <updated>2024-09-11T18:47:24.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
         </author>
     </entry>
 </feed>
