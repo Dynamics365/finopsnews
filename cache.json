@@ -538,6 +538,86 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/sql-automatic-index-compaction-preview",
+          "author": "Kurt Hatlevik",
+          "description": "I was watching Microsoft youtube video’s, and came over the following video. So I asked my AI to create a blogpost on it. Looks promising 🙂 Microsoft’s Azure SQL team recently announced the public preview of Automatic Index Compaction. The…",
+          "link": "https://365community.online/sql-automatic-index-compaction-preview",
+          "publishedOn": "2026-09-14T14:03:55.000Z",
+          "wordCount": 2585,
+          "title": "SQL: Automatic index compaction (preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/hydrafusion-and-aldc-choosing-how-to-solve-a-task",
+          "author": "jarmesto",
+          "description": "Where might HydraFusion fit in AL development? A reflection on adaptive execution, context and evidence, with ALDC as a potential application.",
+          "link": "https://365community.online/hydrafusion-and-aldc-choosing-how-to-solve-a-task",
+          "publishedOn": "2026-09-14T14:00:00.000Z",
+          "wordCount": 2560,
+          "title": "HydraFusion and ALDC: choosing how to solve a task",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/power-automate-licensing-the-flow-nobody-owns",
+          "author": "Mariano Gomez",
+          "description": "If you have done any serious application lifecycle management work in Power Platform, you know the pattern: you move flow ownership off a human being and onto a service principal, because people change roles, people leave, and a mission critical…",
+          "link": "https://365community.online/power-automate-licensing-the-flow-nobody-owns",
+          "publishedOn": "2026-09-14T11:00:00.000Z",
+          "wordCount": 2973,
+          "title": "Power Automate | Licensing the Flow Nobody Owns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/locking-down-paws-internet-access-when-gsa-drops",
+          "author": "Microsoft Tech Community",
+          "description": "By: Christian Friedel-Jain - Sr. Security Consultant | James Noyce - Sr. Security Solution Engineer  Introduction Privileged Access Workstations (PAWs) are among the most sensitive endpoints in any organization. A PAW, in most of our Microsoft consulting projects, exists to…",
+          "link": "https://365community.online/locking-down-paws-internet-access-when-gsa-drops",
+          "publishedOn": "2026-09-14T08:38:19.000Z",
+          "wordCount": 6709,
+          "title": "Locking down PAWs internet access when GSA drops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-locking-down-isolatedstorage-reads",
+          "author": "Stefano Demiliani",
+          "description": "If you’ve ever used Dynamics 365 Business Central IsolatedStorage object to store module-scoped settings or secret keys in AL, maybe … More",
+          "link": "https://365community.online/dynamics-365-business-central-locking-down-isolatedstorage-reads",
+          "publishedOn": "2026-09-14T07:34:58.000Z",
+          "wordCount": 1839,
+          "title": "Dynamics 365 Business Central: locking down IsolatedStorage reads.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/business-central-29-0-major-change-to-table-extensions-and-sql-storage",
+          "author": "Saurav Dhyani",
+          "description": "Hi All,Business Central 29.0 introduces a major change to the data model used for table extensions. With the new model, fields from table extensions are stored in the same database table as the base table instead of being stored using the…",
+          "link": "https://365community.online/business-central-29-0-major-change-to-table-extensions-and-sql-storage",
+          "publishedOn": "2026-09-14T05:30:00.000Z",
+          "wordCount": 3758,
+          "title": "Business Central 29.0: Major Change to Table Extensions and SQL Storage.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/securing-ai-agent-tool-calls-in-azure-identity-authorization-and-verified-execution",
+          "author": "Microsoft Tech Community",
+          "description": "When an agent can use tools, untrusted content can influence requests to access sensitive data or change external systems. A retrieved document might tell the agent to send a file to an external address. An attacker-controlled log field might suggest…",
+          "link": "https://365community.online/securing-ai-agent-tool-calls-in-azure-identity-authorization-and-verified-execution",
+          "publishedOn": "2026-09-14T04:15:00.000Z",
+          "wordCount": 3960,
+          "title": "Securing AI Agent Tool Calls in Azure: Identity, Authorization, and Verified Execution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/expanding-model-choice-in-copilot-with-grok",
+          "author": "Microsoft Tech Community",
+          "description": "Today we are expanding model choice in Copilot with the addition of Grok models from SpaceXAI1. This continues our commitment to bring the latest AI innovation in the industry to Copilot, tuned for work and tailored to business needs.  Adding…",
+          "link": "https://365community.online/expanding-model-choice-in-copilot-with-grok",
+          "publishedOn": "2026-09-12T15:00:30.000Z",
+          "wordCount": 1703,
+          "title": "Expanding model choice in Copilot with Grok",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/lessons-learned-554-i-have-used-bcp-for-years-but-how-does-it-actually-work",
           "author": "Microsoft Tech Community",
           "description": "BCP is one of those SQL Server tools that many of us have been using for years. It is simple, reliable, and extremely fast when we need to move large amounts of data. We execute it, and millions of rows…",
@@ -41841,26 +41921,6 @@
           "wordCount": 1046,
           "title": "Database Inserts – Code Data Entity Comparison",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube",
-          "author": "Scottish Summit",
-          "description": "Get ready for an inspiring episode of the Power Platform Podcast! We’re sitting down with Ecosystem Engineer Craig White, a master of balancing it all—family, hobbies, a thriving blog, and leading countless community initiatives. Want to know his secrets to stay on top while still enjoying life? You won’t want to miss this conversation! Plus, […]",
-          "link": "https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube",
-          "publishedOn": "2024-09-15T10:10:17.000Z",
-          "wordCount": 978,
-          "title": "Achieving Work-Life-Lego Balance with Craig White – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365",
-          "author": "Inogic",
-          "description": "For managers, keeping track of crucial CRM alerts and notifications is vital for smooth operations and timely decisions. However, with the constant flow of alerts from different CRM activities, it’s easy to overlook important updates, leading to missed actions and delays. Alert4Dynamics by Inogic is designed to solve this problem for users of Dynamics 365 […]",
-          "link": "https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365",
-          "publishedOn": "2024-09-15T09:23:13.000Z",
-          "wordCount": 1343,
-          "title": "Easy Steps to Set Up Email Notifications and Never Miss an Alert in Dynamics 365",
-          "imageUrl": null
         }
       ]
     },
@@ -43913,6 +43973,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "https://kurthatlevik.com/?p=5515",
+          "author": "Kurt Hatlevik",
+          "description": "I was watching Microsoft youtube video’s, and came over the following video. So I asked my AI to create a blogpost on it. Looks promising 🙂 Microsoft’s Azure SQL team recently announced the public preview of Automatic Index Compaction. The headline is appealing: stop running disruptive index-maintenance jobs, reduce storage consumption, and let the database … Continue reading SQL: Automatic index compaction (preview)",
+          "link": "https://kurthatlevik.com/2026/09/14/sql-automatic-index-compaction-preview/",
+          "publishedOn": "2026-09-14T14:03:55.000Z",
+          "wordCount": 3731,
+          "title": "SQL: Automatic index compaction (preview)",
+          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2026/09/image.png"
+        },
         {
           "id": "https://kurthatlevik.com/?p=5485",
           "author": "Kurt Hatlevik",

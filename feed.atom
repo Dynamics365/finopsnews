@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-14T04:02:21.962Z</updated>
+    <updated>2026-09-15T04:02:01.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQL: Automatic index compaction (preview)]]></title>
+        <id>https://365community.online/sql-automatic-index-compaction-preview</id>
+        <link href="https://365community.online/sql-automatic-index-compaction-preview"/>
+        <updated>2026-09-14T14:03:55.000Z</updated>
+        <summary type="html"><![CDATA[I was watching Microsoft youtube video’s, and came over the following video. So I asked my AI to create a blogpost on it. Looks promising 🙂 Microsoft’s Azure SQL team recently announced the public preview of Automatic Index Compaction. The…]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL: Automatic index compaction (preview)]]></title>
+        <id>https://kurthatlevik.com/?p=5515</id>
+        <link href="https://kurthatlevik.com/2026/09/14/sql-automatic-index-compaction-preview/"/>
+        <updated>2026-09-14T14:03:55.000Z</updated>
+        <summary type="html"><![CDATA[I was watching Microsoft youtube video’s, and came over the following video. So I asked my AI to create a blogpost on it. Looks promising 🙂 Microsoft’s Azure SQL team recently announced the public preview of Automatic Index Compaction. The headline is appealing: stop running disruptive index-maintenance jobs, reduce storage consumption, and let the database … Continue reading SQL: Automatic index compaction (preview)]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HydraFusion and ALDC: choosing how to solve a task]]></title>
+        <id>https://365community.online/hydrafusion-and-aldc-choosing-how-to-solve-a-task</id>
+        <link href="https://365community.online/hydrafusion-and-aldc-choosing-how-to-solve-a-task"/>
+        <updated>2026-09-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Where might HydraFusion fit in AL development? A reflection on adaptive execution, context and evidence, with ALDC as a potential application.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate | Licensing the Flow Nobody Owns]]></title>
+        <id>https://365community.online/power-automate-licensing-the-flow-nobody-owns</id>
+        <link href="https://365community.online/power-automate-licensing-the-flow-nobody-owns"/>
+        <updated>2026-09-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have done any serious application lifecycle management work in Power Platform, you know the pattern: you move flow ownership off a human being and onto a service principal, because people change roles, people leave, and a mission critical…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Locking down PAWs internet access when GSA drops]]></title>
+        <id>https://365community.online/locking-down-paws-internet-access-when-gsa-drops</id>
+        <link href="https://365community.online/locking-down-paws-internet-access-when-gsa-drops"/>
+        <updated>2026-09-14T08:38:19.000Z</updated>
+        <summary type="html"><![CDATA[By: Christian Friedel-Jain - Sr. Security Consultant | James Noyce - Sr. Security Solution Engineer  Introduction Privileged Access Workstations (PAWs) are among the most sensitive endpoints in any organization. A PAW, in most of our Microsoft consulting projects, exists to…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: locking down IsolatedStorage reads.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-locking-down-isolatedstorage-reads</id>
+        <link href="https://365community.online/dynamics-365-business-central-locking-down-isolatedstorage-reads"/>
+        <updated>2026-09-14T07:34:58.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever used Dynamics 365 Business Central IsolatedStorage object to store module-scoped settings or secret keys in AL, maybe … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 29.0: Major Change to Table Extensions and SQL Storage.]]></title>
+        <id>https://365community.online/business-central-29-0-major-change-to-table-extensions-and-sql-storage</id>
+        <link href="https://365community.online/business-central-29-0-major-change-to-table-extensions-and-sql-storage"/>
+        <updated>2026-09-14T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,Business Central 29.0 introduces a major change to the data model used for table extensions. With the new model, fields from table extensions are stored in the same database table as the base table instead of being stored using the…]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing AI Agent Tool Calls in Azure: Identity, Authorization, and Verified Execution]]></title>
+        <id>https://365community.online/securing-ai-agent-tool-calls-in-azure-identity-authorization-and-verified-execution</id>
+        <link href="https://365community.online/securing-ai-agent-tool-calls-in-azure-identity-authorization-and-verified-execution"/>
+        <updated>2026-09-14T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[When an agent can use tools, untrusted content can influence requests to access sensitive data or change external systems. A retrieved document might tell the agent to send a file to an external address. An attacker-controlled log field might suggest…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding model choice in Copilot with Grok]]></title>
+        <id>https://365community.online/expanding-model-choice-in-copilot-with-grok</id>
+        <link href="https://365community.online/expanding-model-choice-in-copilot-with-grok"/>
+        <updated>2026-09-12T15:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Today we are expanding model choice in Copilot with the addition of Grok models from SpaceXAI1. This continues our commitment to bring the latest AI innovation in the industry to Copilot, tuned for work and tailored to business needs.  Adding…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lessons Learned #554: I Have Used BCP for Years — But How Does It Actually Work?]]></title>
         <id>https://365community.online/lessons-learned-554-i-have-used-bcp-for-years-but-how-does-it-actually-work</id>
@@ -54365,26 +54455,6 @@ Reading this article is a good place to start as we continue testing but with da
 Si…]]></summary>
         <author>
             <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Work-Life-Lego Balance with Craig White – YouTube]]></title>
-        <id>https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube</id>
-        <link href="https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube"/>
-        <updated>2024-09-15T10:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Get ready for an inspiring episode of the Power Platform Podcast! We’re sitting down with Ecosystem Engineer Craig White, a master of balancing it all—family, hobbies, a thriving blog, and leading countless community initiatives. Want to know his secrets to stay on top while still enjoying life? You won’t want to miss this conversation! Plus, […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Steps to Set Up Email Notifications and Never Miss an Alert in Dynamics 365]]></title>
-        <id>https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365</id>
-        <link href="https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365"/>
-        <updated>2024-09-15T09:23:13.000Z</updated>
-        <summary type="html"><![CDATA[For managers, keeping track of crucial CRM alerts and notifications is vital for smooth operations and timely decisions. However, with the constant flow of alerts from different CRM activities, it’s easy to overlook important updates, leading to missed actions and delays. Alert4Dynamics by Inogic is designed to solve this problem for users of Dynamics 365 […]]]></summary>
-        <author>
-            <name>Inogic</name>
         </author>
     </entry>
 </feed>
