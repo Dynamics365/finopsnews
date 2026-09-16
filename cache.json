@@ -538,12 +538,42 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/how-to-configure-governance-in-d365-customer-service",
+          "author": "Dian Taylor",
+          "description": "In today’s world AI is becoming a bigger part of the customer service experience. AI is already helping customer service reps by generating email responses, find solutions to customer issues, summarizing conversations, and even handling customer interactions autonomously. And while…",
+          "link": "https://365community.online/how-to-configure-governance-in-d365-customer-service",
+          "publishedOn": "2026-09-15T18:31:00.000Z",
+          "wordCount": 1496,
+          "title": "How to configure governance in D365 Customer Service",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/invoke-an-http-request-and-external-guest-users-in-power-apps",
+          "author": "Pieter Veenstra",
+          "description": "This morning I had a look at an app that security details of a user. The user run my Canvas app and then a flow",
+          "link": "https://365community.online/invoke-an-http-request-and-external-guest-users-in-power-apps",
+          "publishedOn": "2026-09-15T11:31:55.000Z",
+          "wordCount": 2413,
+          "title": "Invoke an HTTP request and External Guest Users in Power Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/business-central-the-way-youve-been-deploying-customer-extensions-is-being-retired",
+          "author": "Amol Salvi",
+          "description": "For as long as most Business Central partners have been shipping per-tenant extensions, the workflow has looked the same: log into the customer’s tenant, open Extension Management, choose Upload Extension, select the .app file, pick a schema sync mode, accept…",
+          "link": "https://365community.online/business-central-the-way-youve-been-deploying-customer-extensions-is-being-retired",
+          "publishedOn": "2026-09-15T03:58:29.000Z",
+          "wordCount": 2380,
+          "title": "Business Central: The Way You’ve Been Deploying Customer Extensions Is Being Retired",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/sql-automatic-index-compaction-preview",
           "author": "Kurt Hatlevik",
           "description": "I was watching Microsoft youtube video’s, and came over the following video. So I asked my AI to create a blogpost on it. Looks promising 🙂 Microsoft’s Azure SQL team recently announced the public preview of Automatic Index Compaction. The…",
           "link": "https://365community.online/sql-automatic-index-compaction-preview",
           "publishedOn": "2026-09-14T14:03:55.000Z",
-          "wordCount": 2585,
+          "wordCount": 2598,
           "title": "SQL: Automatic index compaction (preview)",
           "imageUrl": null
         },
@@ -41851,76 +41881,6 @@
           "wordCount": 1145,
           "title": "Bypass Power Automate Flows using SuppressCallbackRegistrationExpanderJob optional parameter – Dataverse / Dynamics 365",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/why-you-need-to-prioritize-azure-storage-and-sql-security-youtube",
-          "author": "shabaz darr",
-          "description": "Learn why prioritizing Azure Storage and SQL security is crucial for protecting your data. Prepare for the SC-100 exam with tips on Azure Storage security and Defender for SQL. Episode Breakdown – 00:00 – Episode Summary 00:43 – Episode Breakdown 01:04 – Security for Azure Storage 06:15 – Defender for SQL and Defender for Storage […]",
-          "link": "https://365community.online/why-you-need-to-prioritize-azure-storage-and-sql-security-youtube",
-          "publishedOn": "2024-09-16T14:15:01.000Z",
-          "wordCount": 1011,
-          "title": "Why you need to prioritize Azure Storage and SQL security – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/what-happens-when-you-hide-outbound-marketing",
-          "author": "Megan V. Walker",
-          "description": "If you are using Customer Insights – Journeys and did so before it became Realtime Marketing only (prior to September 2023), Outbound Marketing is still a thing for you. However, as you SHOULD know, Microsoft have announced that June 2025 is when it will truly go away for good. Hopefully you’ve already started making that […]",
-          "link": "https://365community.online/what-happens-when-you-hide-outbound-marketing",
-          "publishedOn": "2024-09-16T12:16:10.000Z",
-          "wordCount": 1024,
-          "title": "What Happens When You Hide Outbound Marketing?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/what-is-oracle-database-administrator-dba-oracle-dba-19c-training-oracle-dba-12c-course-youtube",
-          "author": "Jaya Sri",
-          "description": "In this video we are talking about the Oracle Database Administrator (DBA) 12c & 19c basics. In Oracle DBA training we will understand what they are, the crucial role of an Oracle DBA, and the fundamental concepts of RDBMS. Learn the key differences between Oracle database and instance, explore the architecture of Oracle databases, and […]",
-          "link": "https://365community.online/what-is-oracle-database-administrator-dba-oracle-dba-19c-training-oracle-dba-12c-course-youtube",
-          "publishedOn": "2024-09-16T12:00:33.000Z",
-          "wordCount": 1214,
-          "title": "What is Oracle Database Administrator (DBA) | Oracle DBA 19c Training | Oracle DBA 12c Course – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-records-v3-action",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-records-v3-action",
-          "publishedOn": "2024-09-16T10:00:33.000Z",
-          "wordCount": 1104,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Find records V3” Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/unified-routing-diagnostics-in-azure",
-          "author": "Neil Parkhurst",
-          "description": "You may (or may not) be aware that the diagnostics option in Unified Routing has been deprecated. It is being replaced by diagnostics in Azure Application Insights. As of September 2024, I believe the existing routing diagnostics are too due to be deprecated in October. But you may need to check for the latest details. […]",
-          "link": "https://365community.online/unified-routing-diagnostics-in-azure",
-          "publishedOn": "2024-09-16T09:35:46.000Z",
-          "wordCount": 1012,
-          "title": "Unified Routing – Diagnostics in Azure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/steps-to-add-copilot-control-to-your-rich-text-editor",
-          "author": "Inogic",
-          "description": "Copilot is a powerful AI tool that enhances user experience by providing intelligent suggestions and automation. Whether you’re composing emails or working on other forms, Copilot helps you draft content faster and more efficiently by offering contextual recommendations and completing sentences based on the text you’ve already written. This feature is designed to boost productivity, […]",
-          "link": "https://365community.online/steps-to-add-copilot-control-to-your-rich-text-editor",
-          "publishedOn": "2024-09-16T09:17:12.000Z",
-          "wordCount": 1318,
-          "title": "Steps to Add Copilot Control to Your Rich Text Editor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/database-inserts-code-data-entity-comparison",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 09/15/24. Last modified:  09/15/24 Reading this article is a good place to start as we continue testing but with data entities for the same table. We review performance from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO […]",
-          "link": "https://365community.online/database-inserts-code-data-entity-comparison",
-          "publishedOn": "2024-09-16T03:41:56.000Z",
-          "wordCount": 1046,
-          "title": "Database Inserts – Code Data Entity Comparison",
-          "imageUrl": null
         }
       ]
     },
@@ -42547,16 +42507,6 @@
           "wordCount": 3807,
           "title": "Start using properly the D365FO Number Sequences in your forms: NumberSeqFormHandler X++ class",
           "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/12/featured-image.png?w=1200"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1628",
-          "author": "Fernando Tudela Desantes",
-          "description": "In this video, we are going to see in detail the different Electronic reporting Data Source types that have methods, and how to use them. We will see with an example how to call and use a method with parameters, and also in the post you will find a brief summary of the video with all the content in a very short read, for the blog post format lovers out there. I promise both formats are worth the time! … More Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.",
-          "link": "https://fernitudela.dev/2024/09/16/use-of-methods-in-d365fo-electronic-reporting-explained-table-vs-table-records-class-vs-object/",
-          "publishedOn": "2024-09-16T10:53:35.000Z",
-          "wordCount": 3961,
-          "title": "Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.",
-          "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/09/featured-image.png?w=1200"
         }
       ]
     },
@@ -43954,16 +43904,6 @@
           "publishedOn": "2024-12-08T03:21:33.000Z",
           "wordCount": 1563,
           "title": "Database Inserts - Primary Table Comparison",
-          "imageUrl": null
-        },
-        {
-          "id": "1695 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 09/15/24.\n\n\nLast modified: \n\n09/15/24\n\n\n\n\n\n\n\n\n\n\n\n\nReading this article is a good place to start as we continue testing but with data entities for the same table. We review performance from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The \"DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The \"TST\" label is for a standard Microsoft hosted Sandbox as a UAT environment available as part of the standard license offering. Lastly, the \"UNO\" label is for a new PPAC based development environment. This time, however, i got some very unexpected results.\nSi…",
-          "link": "https://www.atomicax.com/article/database-inserts-code-data-entity-comparison",
-          "publishedOn": "2024-09-16T03:41:56.000Z",
-          "wordCount": 1991,
-          "title": "Database Inserts - Code Data Entity Comparison",
           "imageUrl": null
         }
       ]
@@ -50583,16 +50523,6 @@
           "wordCount": 3448,
           "title": "Build user-focused intelligent solutions in Power Apps, start with a plan.",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/09/Intelligent-Studio-Plan-User-Stories.gif"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/",
-          "author": "Ryan Jones",
-          "description": "In today’s rapidly evolving digital landscape, organizations are constantly seeking innovative ways to enhance productivity and streamline operations. Microsoft 365 Copilot is at the forefront of this transformation, offering a suite of governance capabilities that empower organizations to harness the full potential of generative AI. With Microsoft 365 Copilot, makers can develop powerful agents directly\nThe post IT Governance Controls for Your Copilot agents appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/",
-          "publishedOn": "2024-09-16T15:00:00.000Z",
-          "wordCount": 3706,
-          "title": "IT Governance Controls for Your Copilot agents",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/09/MSC24-ASEAN-developer-Getty-1469706471-rgb-scaled.jpg"
         }
       ]
     },
