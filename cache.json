@@ -538,6 +538,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/replace-vpn-access-with-identity-driven-security",
+          "author": "Microsoft Tech Community",
+          "description": "Traditional VPNs no longer fit the security or agility needs of modern enterprises. Static tunnels, device trust assumptions, and network-level access introduce risk in a Zero Trust world. Microsoft Entra Private Access offers a different path. As a component of…",
+          "link": "https://365community.online/replace-vpn-access-with-identity-driven-security",
+          "publishedOn": "2026-09-16T16:30:30.000Z",
+          "wordCount": 2391,
+          "title": "Replace VPN access with identity-driven security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/find-the-workloads-bottleneck-not-just-a-busy-resource",
+          "author": "Microsoft Tech Community",
+          "description": "A resource is busy. Another is quiet. The workload score looks reassuring. Which one should the team investigate before approving more capacity? Azure Monitor supplies the metric observations. Azure Resource Graph supplies the resource context. Azure Support Agent's Performance Profiler…",
+          "link": "https://365community.online/find-the-workloads-bottleneck-not-just-a-busy-resource",
+          "publishedOn": "2026-09-16T15:43:40.000Z",
+          "wordCount": 5939,
+          "title": "Find the workload’s bottleneck, not just a busy resource",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/azure-delivers-strong-mlperf-inference-v6-1-results-with-nvidia-gb300-gb200",
+          "author": "Microsoft Tech Community",
+          "description": "By Mark Gitau and Azin Heidarshenas In the MLPerf Inference v6.1 round, Azure demonstrated strong Deepseek-R1 performance on GB300 NVL72 and GB200 NVL72 platforms. Azure submitted GB200 results at 18-node (1-rack) and 72-node (4-rack) scale, and GB300 results at 18…",
+          "link": "https://365community.online/azure-delivers-strong-mlperf-inference-v6-1-results-with-nvidia-gb300-gb200",
+          "publishedOn": "2026-09-16T15:25:04.000Z",
+          "wordCount": 1836,
+          "title": "Azure Delivers Strong MLPerf Inference v6.1 Results with NVIDIA GB300 & GB200",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/practical-local-ai-for-enterprise-architects-a-workload-placement-approach",
+          "author": "Microsoft Tech Community",
+          "description": "Enterprise AI discussions often begin with a use case and end with a deployment constraint. A clinical document assistant may have clear value, yet protected health information cannot leave an approved environment. A factory assistant may improve operations, yet the…",
+          "link": "https://365community.online/practical-local-ai-for-enterprise-architects-a-workload-placement-approach",
+          "publishedOn": "2026-09-16T14:00:00.000Z",
+          "wordCount": 3240,
+          "title": "Practical Local AI for Enterprise Architects: A Workload Placement Approach",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/after-the-prompt-series-agents-that-learn-from-your-corrections",
+          "author": "jarmesto",
+          "description": "Warp turns human feedback into reviewed skill updates. I explore what this could mean for ALDC, AL projects and a partner's engineering knowledge.",
+          "link": "https://365community.online/after-the-prompt-series-agents-that-learn-from-your-corrections",
+          "publishedOn": "2026-09-16T14:00:00.000Z",
+          "wordCount": 2768,
+          "title": "After the Prompt Series: Agents That Learn from Your Corrections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/introducing-a-guided-copilot-experience-for-building-azure-apps-in-vs-code",
+          "author": "Microsoft Tech Community",
+          "description": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session…",
+          "link": "https://365community.online/introducing-a-guided-copilot-experience-for-building-azure-apps-in-vs-code",
+          "publishedOn": "2026-09-16T13:59:47.000Z",
+          "wordCount": 2124,
+          "title": "Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/impact-of-ai-09-where-will-tomorrows-wisdom-come-from",
+          "author": "Simon Owen",
+          "description": "Organisations keep turning yesterday's judgement into today's procedures, but risk hollowing out the very conditions that produce judgement in the first place. Using AI governance as a live example, this piece asks where tomorrow's wisdom will actually come from.",
+          "link": "https://365community.online/impact-of-ai-09-where-will-tomorrows-wisdom-come-from",
+          "publishedOn": "2026-09-16T07:00:16.000Z",
+          "wordCount": 3704,
+          "title": "Impact of AI 09 – Where Will Tomorrow’s Wisdom Come From?",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/how-to-configure-governance-in-d365-customer-service",
           "author": "Dian Taylor",
           "description": "In today’s world AI is becoming a bigger part of the customer service experience. AI is already helping customer service reps by generating email responses, find solutions to customer issues, summarizing conversations, and even handling customer interactions autonomously. And while…",
@@ -41821,66 +41891,6 @@
           "wordCount": 1065,
           "title": "New Lead Qualification Experience – Dynamics 365 Sales",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-one-record-v3-action",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-one-record-v3-action",
-          "publishedOn": "2024-09-17T10:00:39.000Z",
-          "wordCount": 1100,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Find One record V3” Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/dynamics-365-contact-center-voice-upgrade-date",
-          "author": "Neil Parkhurst",
-          "description": "Are you using the voice channel of Microsoft’s Dynamics 365 Contact Center (aka Omnichannel for Customer Service)? If you are … you need to be aware that you must  upgrade your voice channel by 31st Dec 2024. Below you can see that Microsoft is sending confirmation of the need to upgrade to all customers using […]",
-          "link": "https://365community.online/dynamics-365-contact-center-voice-upgrade-date",
-          "publishedOn": "2024-09-17T09:00:34.000Z",
-          "wordCount": 1025,
-          "title": "Dynamics 365 Contact Center – Voice Upgrade Date",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/dynamics-365-contact-center-chat-widget-domains",
-          "author": "Neil Parkhurst",
-          "description": "Recently I noticed that a couple of my customers hadn’t set the options on their chat widgets to only show on certain domains. If you are using the chat channel within Microsoft’s Dynamics 365 Contact Center …. I would like to suggest that restricting your widget to known domains is important! Therefore, in this post […]",
-          "link": "https://365community.online/dynamics-365-contact-center-chat-widget-domains",
-          "publishedOn": "2024-09-17T08:36:52.000Z",
-          "wordCount": 1039,
-          "title": "Dynamics 365 Contact Center – Chat Widget Domains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/preparing-for-the-transition-to-power-platform-admin-center-ppac",
-          "author": "Adnane Dalhi",
-          "description": "A Unified Future for Admin and Dev Experiences It’s clear the deprecation of Lifecycle Services (LCS) has started as seen in the “LCS System Diagnostics being retired in September 2024 notification message”. Microsoft is removing features from LCS as part of the transition to the Power Platform Admin Center (PPAC). This is a big signal […]",
-          "link": "https://365community.online/preparing-for-the-transition-to-power-platform-admin-center-ppac",
-          "publishedOn": "2024-09-17T08:08:36.000Z",
-          "wordCount": 1070,
-          "title": "Preparing for the Transition to Power Platform Admin Center (PPAC)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/when-your-manager-texts-you-to-push-the-bug-fix-asap-youtube",
-          "author": "Sourav Raj",
-          "description": "When your manager texts you to push the bug fix ASAP source",
-          "link": "https://365community.online/when-your-manager-texts-you-to-push-the-bug-fix-asap-youtube",
-          "publishedOn": "2024-09-17T06:30:00.000Z",
-          "wordCount": 935,
-          "title": "When your manager texts you to push the bug fix ASAP – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/bypass-power-automate-flows-using-suppresscallbackregistrationexpanderjob-optional-parameter-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "Using the SuppressCallbackRegistrationExpanderJob optional parameter in our Request object, we can bypass the execution of the flows registered against that particular event/trigger. We have a flow registered on the update event of the lead record. Now let us create a lead record through SDK. We can see our flow triggered. Now let us add the […]",
-          "link": "https://365community.online/bypass-power-automate-flows-using-suppresscallbackregistrationexpanderjob-optional-parameter-dataverse-dynamics-365",
-          "publishedOn": "2024-09-16T20:30:00.000Z",
-          "wordCount": 1145,
-          "title": "Bypass Power Automate Flows using SuppressCallbackRegistrationExpanderJob optional parameter – Dataverse / Dynamics 365",
-          "imageUrl": null
         }
       ]
     },
@@ -44359,16 +44369,6 @@
           "wordCount": 11554,
           "title": "Unlocking IBM i (AS/400) Data Potential with Microsoft Fabric and D365 FinOps",
           "imageUrl": "https://dynvision365.com/wp-content/uploads/2025/03/brdige-the-gap-between-as-400-and-microsoft-fabric-1.png"
-        },
-        {
-          "id": "http://dynvision365.com/?p=1518",
-          "author": "adalhix",
-          "description": "A Unified Future for Admin and Dev Experiences It’s clear the deprecation of Lifecycle Services (LCS) has started as seen in the “LCS System Diagnostics being retired in September 2024 notification message”. Microsoft is removing features from LCS as part of the transition to the Power Platform Admin Center (PPAC). This is a big signal … Lire la suite Preparing for the Transition to Power Platform Admin Center (PPAC) →",
-          "link": "https://dynvision365.com/2024/09/17/preparing-for-the-transition-to-power-platform-admin-center-ppac/",
-          "publishedOn": "2024-09-17T08:08:36.000Z",
-          "wordCount": 8708,
-          "title": "Preparing for the Transition to Power Platform Admin Center (PPAC)",
-          "imageUrl": "https://dynvision365.com/wp-content/uploads/2024/09/1725878713387.jpeg"
         }
       ]
     },
@@ -44377,6 +44377,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203140",
+          "author": "Anees Ansari",
+          "description": "Microsoft Dynamics 365 Commerce provides a composable, API-first architecture that separates the experience layer from the commerce engine. New licensing offers customers more flexibility to use Dynamics 365 Commerce to build custom applications, connect third-party experiences, and support new commerce scenarios. Organizations can create experiences for their specific business requirements while using Dynamics 365 Commerce capabilities for pricing, promotions, inventory, loyalty, orders, fulfillment, and other commerce processes.\nThe post Build custom commerce experiences with Dynamics 365 Commerce appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/15/dynamics-365-commerce-composable-architecture/",
+          "publishedOn": "2026-09-15T15:30:00.000Z",
+          "wordCount": 6030,
+          "title": "Build custom commerce experiences with Dynamics 365 Commerce",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/05/AdobeStock_1147325179-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203089",
           "author": "Jeff Teper",
@@ -46691,16 +46701,6 @@
           "wordCount": 4149,
           "title": "How generative AI in customer relationship management emphasizes human skills to drive sales",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/09/D365_371508_Blog_240920_1200.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/16/announcing-the-general-availability-of-the-new-ux-in-field-service-mobile/",
-          "author": "Dhruv Goel",
-          "description": "We are thrilled to announce the General Availability (GA) of the new User Experience (UX) in our Field Service Mobile (FSM) application! We heard your feedback during the preview period and are excited to mark this milestone with key enhancements and changes!  When we started this journey, our goal was to deliver an intuitive, modern\nThe post Announcing the General Availability of the New UX in Field Service Mobile  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/16/announcing-the-general-availability-of-the-new-ux-in-field-service-mobile/",
-          "publishedOn": "2024-09-16T18:04:16.000Z",
-          "wordCount": 3297,
-          "title": "Announcing the General Availability of the New UX in Field Service Mobile",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2022/11/CLO17_warehouse_003.jpg"
         }
       ]
     },
@@ -48032,6 +48032,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=34948",
+          "author": "Miha Vuk",
+          "description": "Introduction Batch job retries in Dynamics 365 Finance and Operations can mitigate some errors that can occur at batch job execution, but only for batch jobs that can handle repetitions. For batch jobs that also perform activities outside the database (e.g., send email or call […]\nThe post How to Skip Batch Job Retries in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/how-to-skip-batch-job-retries-in-d365fo/",
+          "publishedOn": "2026-09-16T11:51:49.000Z",
+          "wordCount": 12366,
+          "title": "How to Skip Batch Job Retries in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2026/09/D365Blog_SkipBatchJobRetries_Title.png"
+        },
+        {
           "id": "https://ax.docentric.com/?p=34864",
           "author": "Dragana Prošić",
           "description": "Introduction A Sales quotation is usually sent to the person who requested it. In Dynamics 365 Finance & Operations (D365FO), you select that person as a Contact on the Quotation header. A Contact person can have multiple email addresses, each with a different Purpose. We'll […]\nThe post Email Sales Quotation to Quotation Contact from D365FO appeared first on Docentric AX.",
@@ -48858,6 +48868,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://www.paragchapre.com",
       "articles": [
+        {
+          "id": "https://www.paragchapre.com/?p=17161",
+          "author": "Parag Chapre",
+          "description": "Microsoft has announced an important X++ compiler change that Dynamics 365 Finance & Operations developers should be aware of. Starting with version 10.0.50, the X++ compiler will no longer tolerate the legacy client and server method modifiers and will generate compilation errors whenever these keywords are present in your code. If your organization maintains customizations,…",
+          "link": "https://www.paragchapre.com/xpp-client-server-keywords-removal/",
+          "publishedOn": "2026-09-16T07:41:07.000Z",
+          "wordCount": 4289,
+          "title": "Upcoming X++ Compiler Change in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/09/D365FO_Xpp_Compiler_Change.webp"
+        },
         {
           "id": "https://www.paragchapre.com/?p=17149",
           "author": "Parag Chapre",
