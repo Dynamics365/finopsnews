@@ -538,6 +538,86 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/power-apps-seven-skills-one-prompt-the-dataverse-plugin-for-coding-agents",
+          "author": "Mariano Gomez",
+          "description": "Anyone who has built anything nontrivial on Microsoft Dataverse knows the tax. You want to stand up a small data model, load a few thousand rows into it, and move the whole thing to a test environment. That is one…",
+          "link": "https://365community.online/power-apps-seven-skills-one-prompt-the-dataverse-plugin-for-coding-agents",
+          "publishedOn": "2026-09-17T11:00:00.000Z",
+          "wordCount": 3416,
+          "title": "Power Apps | Seven Skills, One Prompt: The Dataverse Plugin for Coding Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/azure-functions-rolling-updates-are-now-generally-available-on-flex-consumption",
+          "author": "Stefano Demiliani",
+          "description": "Flex Consumption is a hosting plan for Azure Functions that combines serverless, pay-for-what-you-use billing with more control over how your … More",
+          "link": "https://365community.online/azure-functions-rolling-updates-are-now-generally-available-on-flex-consumption",
+          "publishedOn": "2026-09-17T08:38:44.000Z",
+          "wordCount": 2078,
+          "title": "Azure Functions: rolling updates are now generally available on Flex consumption.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/bcv29-the-table-extension-redesign-had-a-second-half-here-it-is",
+          "author": "Amol Salvi",
+          "description": "Last week, I wrote about the table extension storage change in v29 base table fields and extension fields now living in one physical SQL table instead of two. I framed it as a change that made extension architecture simpler and…",
+          "link": "https://365community.online/bcv29-the-table-extension-redesign-had-a-second-half-here-it-is",
+          "publishedOn": "2026-09-17T05:45:36.000Z",
+          "wordCount": 2286,
+          "title": "BCv29 : The Table Extension Redesign Had a Second Half. Here It Is.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/from-co-sell-ready-to-closed-won-a-practical-playbook-for-your-microsoft-co-sell-motion",
+          "author": "Microsoft Tech Community",
+          "description": "Achieving co-sell ready status is an important milestone. It means the offer is on Microsoft Marketplace, Partner Center is set up, sales collateral and contacts are on file, and the solution is exposed to Microsoft sales teams for co-sell opportunities.…",
+          "link": "https://365community.online/from-co-sell-ready-to-closed-won-a-practical-playbook-for-your-microsoft-co-sell-motion",
+          "publishedOn": "2026-09-17T00:57:15.000Z",
+          "wordCount": 3421,
+          "title": "From co-sell ready to closed-won: A practical playbook for your Microsoft co-sell motion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/moving-from-windows-autopilot-to-windows-autopilot-device-preparation",
+          "author": "Microsoft Tech Community",
+          "description": "By: Maggie Dakeva, Senior Product Manager - Microsoft Intune Organizations have spent years refining Windows Autopilot deployments. Profiles, Enrollment Status Page settings, group tags, dynamic groups, application assignments, and support processes all work together to deliver a familiar provisioning experience.…",
+          "link": "https://365community.online/moving-from-windows-autopilot-to-windows-autopilot-device-preparation",
+          "publishedOn": "2026-09-16T23:03:15.000Z",
+          "wordCount": 3360,
+          "title": "Moving from Windows Autopilot to Windows Autopilot device preparation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/recovering-tps-after-a-cross-database-migration",
+          "author": "Microsoft Tech Community",
+          "description": "1. The Investigation A thorough investigation led to the following observations: CPU remained saturated. The server ran at 100% CPU throughout the benchmark, while wait samples showed that most time was spent executing SQL - indicating queries were either using…",
+          "link": "https://365community.online/recovering-tps-after-a-cross-database-migration",
+          "publishedOn": "2026-09-16T20:39:02.000Z",
+          "wordCount": 3177,
+          "title": "Recovering TPS After a Cross-Database Migration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-bottleneck-isnt-ai-its-transformation-capacity",
+          "author": "Microsoft Tech Community",
+          "description": "AI everywhere, except at scale Ask almost any operator where they are with AI and the answer sounds impressive. Hundreds of potential use cases. Dozens of pilots in play. Multiple foundation models, thousands of agents, several data platforms, and a…",
+          "link": "https://365community.online/the-bottleneck-isnt-ai-its-transformation-capacity",
+          "publishedOn": "2026-09-16T19:17:48.000Z",
+          "wordCount": 3032,
+          "title": "The bottleneck isn’t AI. It’s transformation capacity.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/save-the-date-join-us-october-20-for-the-onedrive-copilot-digital-event",
+          "author": "Microsoft Tech Community",
+          "description": "Files and photos are at the center of how we work, create, and collaborate. As AI and Copilot transform the way we use content, OneDrive is evolving for this era - helping people get more from their files with Copilot,…",
+          "link": "https://365community.online/save-the-date-join-us-october-20-for-the-onedrive-copilot-digital-event",
+          "publishedOn": "2026-09-16T19:14:46.000Z",
+          "wordCount": 1743,
+          "title": "Save the Date: Join us October 20 for the OneDrive + Copilot Digital Event",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/replace-vpn-access-with-identity-driven-security",
           "author": "Microsoft Tech Community",
           "description": "Traditional VPNs no longer fit the security or agility needs of modern enterprises. Static tunnels, device trust assumptions, and network-level access introduce risk in a Zero Trust world. Microsoft Entra Private Access offers a different path. As a component of…",
@@ -41800,96 +41880,6 @@
           "publishedOn": "2024-09-18T19:12:23.000Z",
           "wordCount": 1187,
           "title": "Welsh Azure User Group  – September 2024 Event – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/is-your-business-safe-from-iaas-saas-and-paas-security-threats-youtube",
-          "author": "shabaz darr",
-          "description": "Is your business protected from IaaS, SaaS, and PaaS security threats? Find out how to secure your cloud services in this video! Learn about security baselines and best practices for keeping your data safe. Episode Breakdown – 00:00 – Episode Intro 00:57 – Episode Breakdown 01:40 – Securing SaaS, PaaS, and IaaS (Shared Responsibility) 04:10 […]",
-          "link": "https://365community.online/is-your-business-safe-from-iaas-saas-and-paas-security-threats-youtube",
-          "publishedOn": "2024-09-18T15:26:25.000Z",
-          "wordCount": 1021,
-          "title": "Is Your Business SAFE from IaaS, SaaS, and PaaS Security Threats? – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-define-shipping-information-for-shopify-shipping-fees",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 13th of the new functionality in the Application section is define shipping information for Shopify […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-define-shipping-information-for-shopify-shipping-fees",
-          "publishedOn": "2024-09-18T14:00:55.000Z",
-          "wordCount": 1107,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Define Shipping Information For Shopify Shipping Fees",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-auto-apply-templates-when-you-synchronize-data-with-dataverse",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 1st of the new functionality in the Adapt faster with Power Platform section is auto-apply […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-auto-apply-templates-when-you-synchronize-data-with-dataverse",
-          "publishedOn": "2024-09-18T12:00:54.000Z",
-          "wordCount": 1112,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Auto-Apply Templates When You Synchronize Data With Dataverse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-update-record-v3-action",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-update-record-v3-action",
-          "publishedOn": "2024-09-18T10:00:45.000Z",
-          "wordCount": 1106,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Update Record V3” Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/transforming-your-business-with-microsoft-power-platform-a-guide-to-app-building-modernization",
-          "author": "Inogic",
-          "description": "Today’s rapid-evolving digital landscape, demands staying competitive means embracing technological solutions that streamline business operations, improve collaboration, and enable rapid innovation. One of the most effective ways businesses can achieve this is through app building and modernization. With Microsoft Power Platform, organizations can create custom apps and update legacy systems quickly and efficiently—whether you are […]",
-          "link": "https://365community.online/transforming-your-business-with-microsoft-power-platform-a-guide-to-app-building-modernization",
-          "publishedOn": "2024-09-18T09:22:03.000Z",
-          "wordCount": 1317,
-          "title": "Transforming Your Business with Microsoft Power Platform: A Guide to App Building & Modernization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/isvlicensegenerator-v0-9-a-farewell",
-          "author": "Adrià Ariste Santacreu",
-          "description": "I’ve been working on the ISVLicenseGenerator open source tool for some years now, almost five. It all started when I ordered a code-signing certificate to sign ISV solutions, and I got a USB token instead of a software certificate. After many years of Microsoft not offering support for these devices to sign the license files,… […]",
-          "link": "https://365community.online/isvlicensegenerator-v0-9-a-farewell",
-          "publishedOn": "2024-09-18T04:47:58.000Z",
-          "wordCount": 1034,
-          "title": "ISVLicenseGenerator v0.9: a farewell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/power-platform-community-conference-daily-updated-youtube",
-          "author": "Victor Dantas",
-          "description": "Short update of the 2024 edition of the Power Platform Community Conference. source",
-          "link": "https://365community.online/power-platform-community-conference-daily-updated-youtube",
-          "publishedOn": "2024-09-17T21:23:15.000Z",
-          "wordCount": 924,
-          "title": "Power Platform Community Conference – Daily Updated – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/power-platform-community-conference-daily-updated-youtube-2",
-          "author": "Victor Dantas",
-          "description": "Short updated from the 2024 Edition of the Power Platform Community Conference source",
-          "link": "https://365community.online/power-platform-community-conference-daily-updated-youtube-2",
-          "publishedOn": "2024-09-17T21:15:28.000Z",
-          "wordCount": 924,
-          "title": "Power Platform Community Conference – Daily Updated – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-lead-qualification-experience-dynamics-365-sales",
-          "author": "Nishant Rana",
-          "description": "To enable the new lead experience, navigate to App Settings >> Lead + opportunity management in the Sales Hub App. On enabling it, we get the option to specify whether the Account, Contact, and Opportunity records are created automatically or the user (seller) has the option to specify which record to create. We also see […]",
-          "link": "https://365community.online/new-lead-qualification-experience-dynamics-365-sales",
-          "publishedOn": "2024-09-17T20:30:00.000Z",
-          "wordCount": 1065,
-          "title": "New Lead Qualification Experience – Dynamics 365 Sales",
           "imageUrl": null
         }
       ]
