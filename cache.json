@@ -538,6 +538,86 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/?p=101680",
+          "author": "Sara Suarez",
+          "description": "The traditional offshore delivery model had a clear logic. A small group of senior architects designed the solution, a larger group of mid-level engineers built it, and a…",
+          "link": "https://365community.online/why-net-development-outsourcing-now-favors-small-senior-teams",
+          "publishedOn": "2026-09-18T21:45:33.000Z",
+          "wordCount": 3090,
+          "title": "Why .NET Development Outsourcing Now Favors Small Senior Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/after-the-prompt-series-after-the-feedback-what-if-we-could-train-skills",
+          "author": "jarmesto",
+          "description": "SkillOpt tests whether small edits to a skill improve an agent. I explore how that process could connect human feedback, validation and ALDC in Business Central development.",
+          "link": "https://365community.online/after-the-prompt-series-after-the-feedback-what-if-we-could-train-skills",
+          "publishedOn": "2026-09-18T14:00:00.000Z",
+          "wordCount": 3147,
+          "title": "After the Prompt Series: After the Feedback, What If We Could Train Skills?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/bc-v29-al-extensions-just-learned-to-share",
+          "author": "Amol Salvi",
+          "description": "Since Business Central 2024 release wave 2, AL extensions have been able to package resources images, JSON files, templates, anything an extension needs at runtime directly inside the app and access them through code. It’s a genuinely useful capability, and…",
+          "link": "https://365community.online/bc-v29-al-extensions-just-learned-to-share",
+          "publishedOn": "2026-09-18T03:59:50.000Z",
+          "wordCount": 2192,
+          "title": "BC V29: AL Extensions Just Learned to Share",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-publishing-updates-help-engage-posts-land-the-way-you-intend",
+          "author": "Microsoft Tech Community",
+          "description": "You’ve put thought and care into your Engage post. Now you want confidence that it will reach the right people and appear as intended. Will the attachment open for everyone who needs it? Will formatting hold when I paste from…",
+          "link": "https://365community.online/new-publishing-updates-help-engage-posts-land-the-way-you-intend",
+          "publishedOn": "2026-09-18T00:10:37.000Z",
+          "wordCount": 2143,
+          "title": "New publishing updates help Engage posts land the way you intend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/agent-experience-with-data-in-onelake-using-fabric-iq",
+          "author": "Microsoft Tech Community",
+          "description": "Business Scenario A retail organization runs multiple promotional sales events across its store network in different cities, featuring various product categories. Data is captured from: Third-party systems (products, stores, sales events) ERP system i.e. Finance and Operations (customer data) Customers…",
+          "link": "https://365community.online/agent-experience-with-data-in-onelake-using-fabric-iq",
+          "publishedOn": "2026-09-17T23:57:52.000Z",
+          "wordCount": 2579,
+          "title": "Agent experience with data in Onelake using Fabric IQ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/action-required-promql-regex-matching-in-azure-monitor-workspace-is-becoming-spec-compliant",
+          "author": "Microsoft Tech Community",
+          "description": "TL;DR: Bare regex matchers like pod=~\"foo\" will soon return only exact matches, not substring matches. If you rely on =~ for \"starts with\" or \"contains\" semantics, update your queries to add .* before the change lands.  What is changing AMW's…",
+          "link": "https://365community.online/action-required-promql-regex-matching-in-azure-monitor-workspace-is-becoming-spec-compliant",
+          "publishedOn": "2026-09-17T23:10:32.000Z",
+          "wordCount": 1988,
+          "title": "Action required: PromQL regex matching in Azure Monitor Workspace is becoming spec-compliant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/your-certificate-renewed-your-gateway-didnt-notice",
+          "author": "Microsoft Tech Community",
+          "description": "A setup that looks fine API Management sits behind a global entry point like Traffic Manager or Front Door. Your custom domain, api.contoso.com, points at that entry point. APIM holds the same custom domain, with a certificate pulled from Key…",
+          "link": "https://365community.online/your-certificate-renewed-your-gateway-didnt-notice",
+          "publishedOn": "2026-09-17T20:56:22.000Z",
+          "wordCount": 2424,
+          "title": "Your Certificate Renewed. Your Gateway Didn’t Notice.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/expand-marketplace-sales-with-mpo-and-app-advisor",
+          "author": "Microsoft Tech Community",
+          "description": "This is part of a series where we look at improvements to negotiated deals in Microsoft Marketplace and how App Advisor helps you choose the right deal type for your business.   Customers don’t always want to buy directly from a…",
+          "link": "https://365community.online/expand-marketplace-sales-with-mpo-and-app-advisor",
+          "publishedOn": "2026-09-17T20:54:28.000Z",
+          "wordCount": 2465,
+          "title": "Expand Marketplace sales with MPO and App Advisor",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/power-apps-seven-skills-one-prompt-the-dataverse-plugin-for-coding-agents",
           "author": "Mariano Gomez",
           "description": "Anyone who has built anything nontrivial on Microsoft Dataverse knows the tax. You want to stand up a small data model, load a few thousand rows into it, and move the whole thing to a test environment. That is one…",
@@ -41790,96 +41870,6 @@
           "publishedOn": "2024-09-19T15:51:26.000Z",
           "wordCount": 996,
           "title": "New-but-not-new feature",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 10th of the new functionality in the Copilot and AI innovation section is start creating […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot",
-          "publishedOn": "2024-09-19T14:00:18.000Z",
-          "wordCount": 1105,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Start Creating Power Automate Flows With Copilot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "In this video we are talking about the Primavera P6 software basics. In this Oracle Primavera P6 training we will start with the introduction, then we will install and setup the Primavera software and then will create a project and EPS. 🔥 Check out our Oracle Primavera P6 mastery course: https://mindmajix.com/oracle-primavera-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 🔵 About MindMajix’s Primavera […]",
-          "link": "https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube",
-          "publishedOn": "2024-09-19T12:00:43.000Z",
-          "wordCount": 1168,
-          "title": "Primavera P6 Introduction | Oracle Primavera P6 Training Course | What is Primavera P6 | MindMajix – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the Application section is see improved usability for service […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects",
-          "publishedOn": "2024-09-19T12:00:16.000Z",
-          "wordCount": 1103,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: See Improved Usability For Service And Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 14th of the new functionality in the Application section is enable locations in Shopify refunds. […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds",
-          "publishedOn": "2024-09-19T10:00:45.000Z",
-          "wordCount": 1096,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Enable Locations In Shopify Refunds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration",
-          "author": "Inogic",
-          "description": "The integration between Power Pages and DocuSign simplifies the inclusion of e-signatures in multi-step forms using a low-code Studio interface. By utilizing a Microsoft Power Automate Flow with a DocuSign connector, users can easily view and sign documents. This allows you to seamlessly add a digital signature step to your forms, streamlining the signing process. […]",
-          "link": "https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration",
-          "publishedOn": "2024-09-19T09:37:09.000Z",
-          "wordCount": 1318,
-          "title": "Streamlining E-Signatures in Multi-Step Forms with Power Pages and DocuSign Integration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/sharepoint-action-copy-folder-youtube",
-          "author": "Matt Collins",
-          "description": "In this video, I look at the SharePoint action, Copy folder. How this action works, and how you can use it. Blog: https://www.mattcollinsjones.co.uk Twitter/X: https://twitter.com/D365geek LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source",
-          "link": "https://365community.online/sharepoint-action-copy-folder-youtube",
-          "publishedOn": "2024-09-19T09:30:29.000Z",
-          "wordCount": 929,
-          "title": "SharePoint Action – Copy folder – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/use-optionset-wrapper-component-to-show-color-coded-options-on-the-form-model-driven-apps-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "We can make use of the OptionSet Wrapper component to show color-coded options on the form for the choices or option set fields. Below we have added the Option Set wrapper component to the Rating field of the lead in the Lead (Main) form. We can see the field added but do not see any […]",
-          "link": "https://365community.online/use-optionset-wrapper-component-to-show-color-coded-options-on-the-form-model-driven-apps-dynamics-365",
-          "publishedOn": "2024-09-18T20:30:00.000Z",
-          "wordCount": 1106,
-          "title": "Use OptionSet Wrapper component to show color-coded options on the form – Model-driven apps/ Dynamics 365",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/welsh-azure-user-group-september-2024-meet-up",
-          "author": "John Lunn",
-          "description": "It was the day of our Welsh Azure User Group #WAUG September 2024 meet up and we had yet another two amazing speakers join us. We were joined by yet another two awesome presenters. First up we had Radu Vunvulea on to discuss the AI Architecture in the Cloud, then Carlos Solis Salazar joined us […]",
-          "link": "https://365community.online/welsh-azure-user-group-september-2024-meet-up",
-          "publishedOn": "2024-09-18T19:15:58.000Z",
-          "wordCount": 1047,
-          "title": "Welsh Azure User Group September 2024 Meet Up!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/welsh-azure-user-group-september-2024-event-youtube",
-          "author": "John Lunn",
-          "description": "Welsh Azure User Group – September 2024 Event It was the day of our Welsh Azure User Group #WAUG September 2024 meet up and we had yet another two amazing speakers join us. We were joined by yet another two awesome presenters. First up we had Radu Vunvulea on to discuss the AI Architecture in […]",
-          "link": "https://365community.online/welsh-azure-user-group-september-2024-event-youtube",
-          "publishedOn": "2024-09-18T19:12:23.000Z",
-          "wordCount": 1187,
-          "title": "Welsh Azure User Group  – September 2024 Event – YouTube",
           "imageUrl": null
         }
       ]

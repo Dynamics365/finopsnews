@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-18T03:51:36.260Z</updated>
+    <updated>2026-09-19T03:48:22.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why .NET Development Outsourcing Now Favors Small Senior Teams]]></title>
+        <id>https://365community.online/?p=101680</id>
+        <link href="https://365community.online/why-net-development-outsourcing-now-favors-small-senior-teams"/>
+        <updated>2026-09-18T21:45:33.000Z</updated>
+        <summary type="html"><![CDATA[The traditional offshore delivery model had a clear logic. A small group of senior architects designed the solution, a larger group of mid-level engineers built it, and a…]]></summary>
+        <author>
+            <name>Sara Suarez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After the Prompt Series: After the Feedback, What If We Could Train Skills?]]></title>
+        <id>https://365community.online/after-the-prompt-series-after-the-feedback-what-if-we-could-train-skills</id>
+        <link href="https://365community.online/after-the-prompt-series-after-the-feedback-what-if-we-could-train-skills"/>
+        <updated>2026-09-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SkillOpt tests whether small edits to a skill improve an agent. I explore how that process could connect human feedback, validation and ALDC in Business Central development.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC V29: AL Extensions Just Learned to Share]]></title>
+        <id>https://365community.online/bc-v29-al-extensions-just-learned-to-share</id>
+        <link href="https://365community.online/bc-v29-al-extensions-just-learned-to-share"/>
+        <updated>2026-09-18T03:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Since Business Central 2024 release wave 2, AL extensions have been able to package resources images, JSON files, templates, anything an extension needs at runtime directly inside the app and access them through code. It’s a genuinely useful capability, and…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New publishing updates help Engage posts land the way you intend]]></title>
+        <id>https://365community.online/new-publishing-updates-help-engage-posts-land-the-way-you-intend</id>
+        <link href="https://365community.online/new-publishing-updates-help-engage-posts-land-the-way-you-intend"/>
+        <updated>2026-09-18T00:10:37.000Z</updated>
+        <summary type="html"><![CDATA[You’ve put thought and care into your Engage post. Now you want confidence that it will reach the right people and appear as intended. Will the attachment open for everyone who needs it? Will formatting hold when I paste from…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent experience with data in Onelake using Fabric IQ]]></title>
+        <id>https://365community.online/agent-experience-with-data-in-onelake-using-fabric-iq</id>
+        <link href="https://365community.online/agent-experience-with-data-in-onelake-using-fabric-iq"/>
+        <updated>2026-09-17T23:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Business Scenario A retail organization runs multiple promotional sales events across its store network in different cities, featuring various product categories. Data is captured from: Third-party systems (products, stores, sales events) ERP system i.e. Finance and Operations (customer data) Customers…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Action required: PromQL regex matching in Azure Monitor Workspace is becoming spec-compliant]]></title>
+        <id>https://365community.online/action-required-promql-regex-matching-in-azure-monitor-workspace-is-becoming-spec-compliant</id>
+        <link href="https://365community.online/action-required-promql-regex-matching-in-azure-monitor-workspace-is-becoming-spec-compliant"/>
+        <updated>2026-09-17T23:10:32.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: Bare regex matchers like pod=~"foo" will soon return only exact matches, not substring matches. If you rely on =~ for "starts with" or "contains" semantics, update your queries to add .* before the change lands.  What is changing AMW's…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Certificate Renewed. Your Gateway Didn’t Notice.]]></title>
+        <id>https://365community.online/your-certificate-renewed-your-gateway-didnt-notice</id>
+        <link href="https://365community.online/your-certificate-renewed-your-gateway-didnt-notice"/>
+        <updated>2026-09-17T20:56:22.000Z</updated>
+        <summary type="html"><![CDATA[A setup that looks fine API Management sits behind a global entry point like Traffic Manager or Front Door. Your custom domain, api.contoso.com, points at that entry point. APIM holds the same custom domain, with a certificate pulled from Key…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expand Marketplace sales with MPO and App Advisor]]></title>
+        <id>https://365community.online/expand-marketplace-sales-with-mpo-and-app-advisor</id>
+        <link href="https://365community.online/expand-marketplace-sales-with-mpo-and-app-advisor"/>
+        <updated>2026-09-17T20:54:28.000Z</updated>
+        <summary type="html"><![CDATA[This is part of a series where we look at improvements to negotiated deals in Microsoft Marketplace and how App Advisor helps you choose the right deal type for your business.   Customers don’t always want to buy directly from a…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Apps | Seven Skills, One Prompt: The Dataverse Plugin for Coding Agents]]></title>
         <id>https://365community.online/power-apps-seven-skills-one-prompt-the-dataverse-plugin-for-coding-agents</id>
@@ -54276,96 +54356,6 @@ The post Build user-focused intelligent solutions in Power Apps, start with a pl
         <summary type="html"><![CDATA[Using Bulk Data Updater can be a bit scary… Which records did I update? Which fields did I change? What did really happen?? I have a soft spot in my heart, and the spot is logging… I’m not a big fan of logs , but I’m a fan of logs . If you have read […]]]></summary>
         <author>
             <name>Jonas Rapp ᴹᴠᴾ ??</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Start Creating Power Automate Flows With Copilot]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot"/>
-        <updated>2024-09-19T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 10th of the new functionality in the Copilot and AI innovation section is start creating […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primavera P6 Introduction | Oracle Primavera P6 Training Course | What is Primavera P6 | MindMajix – YouTube]]></title>
-        <id>https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube</id>
-        <link href="https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube"/>
-        <updated>2024-09-19T12:00:43.000Z</updated>
-        <summary type="html"><![CDATA[In this video we are talking about the Primavera P6 software basics. In this Oracle Primavera P6 training we will start with the introduction, then we will install and setup the Primavera software and then will create a project and EPS. 🔥 Check out our Oracle Primavera P6 mastery course: https://mindmajix.com/oracle-primavera-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 🔵 About MindMajix’s Primavera […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: See Improved Usability For Service And Projects]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects"/>
-        <updated>2024-09-19T12:00:16.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the Application section is see improved usability for service […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Enable Locations In Shopify Refunds]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds"/>
-        <updated>2024-09-19T10:00:45.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 14th of the new functionality in the Application section is enable locations in Shopify refunds. […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamlining E-Signatures in Multi-Step Forms with Power Pages and DocuSign Integration]]></title>
-        <id>https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration</id>
-        <link href="https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration"/>
-        <updated>2024-09-19T09:37:09.000Z</updated>
-        <summary type="html"><![CDATA[The integration between Power Pages and DocuSign simplifies the inclusion of e-signatures in multi-step forms using a low-code Studio interface. By utilizing a Microsoft Power Automate Flow with a DocuSign connector, users can easily view and sign documents. This allows you to seamlessly add a digital signature step to your forms, streamlining the signing process. […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SharePoint Action – Copy folder – YouTube]]></title>
-        <id>https://365community.online/sharepoint-action-copy-folder-youtube</id>
-        <link href="https://365community.online/sharepoint-action-copy-folder-youtube"/>
-        <updated>2024-09-19T09:30:29.000Z</updated>
-        <summary type="html"><![CDATA[In this video, I look at the SharePoint action, Copy folder. How this action works, and how you can use it. Blog: https://www.mattcollinsjones.co.uk Twitter/X: https://twitter.com/D365geek LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use OptionSet Wrapper component to show color-coded options on the form – Model-driven apps/ Dynamics 365]]></title>
-        <id>https://365community.online/use-optionset-wrapper-component-to-show-color-coded-options-on-the-form-model-driven-apps-dynamics-365</id>
-        <link href="https://365community.online/use-optionset-wrapper-component-to-show-color-coded-options-on-the-form-model-driven-apps-dynamics-365"/>
-        <updated>2024-09-18T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We can make use of the OptionSet Wrapper component to show color-coded options on the form for the choices or option set fields. Below we have added the Option Set wrapper component to the Rating field of the lead in the Lead (Main) form. We can see the field added but do not see any […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group September 2024 Meet Up!]]></title>
-        <id>https://365community.online/welsh-azure-user-group-september-2024-meet-up</id>
-        <link href="https://365community.online/welsh-azure-user-group-september-2024-meet-up"/>
-        <updated>2024-09-18T19:15:58.000Z</updated>
-        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG September 2024 meet up and we had yet another two amazing speakers join us. We were joined by yet another two awesome presenters. First up we had Radu Vunvulea on to discuss the AI Architecture in the Cloud, then Carlos Solis Salazar joined us […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group  – September 2024 Event – YouTube]]></title>
-        <id>https://365community.online/welsh-azure-user-group-september-2024-event-youtube</id>
-        <link href="https://365community.online/welsh-azure-user-group-september-2024-event-youtube"/>
-        <updated>2024-09-18T19:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Welsh Azure User Group – September 2024 Event It was the day of our Welsh Azure User Group #WAUG September 2024 meet up and we had yet another two amazing speakers join us. We were joined by yet another two awesome presenters. First up we had Radu Vunvulea on to discuss the AI Architecture in […]]]></summary>
-        <author>
-            <name>John Lunn</name>
         </author>
     </entry>
     <entry>
