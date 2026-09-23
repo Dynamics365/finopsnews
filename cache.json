@@ -538,6 +538,96 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-right-evidence-asked-at-the-wrong-moment-also-blocks",
+          "author": "jarmesto",
+          "description": "What the AI-DLC adoption anti-patterns teach us about architecture, technical specification and gates in ALDC.",
+          "link": "https://365community.online/the-right-evidence-asked-at-the-wrong-moment-also-blocks",
+          "publishedOn": "2026-09-22T14:00:53.000Z",
+          "wordCount": 3119,
+          "title": "The right evidence, asked at the wrong moment, also blocks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/bc-v29-lets-words-design-tab-brand-your-sales-orders",
+          "author": "Amol Salvi",
+          "description": "Every Business Central partner has fielded some version of the same client request: can our invoices look like they came from us, not from generic ERP output. The honest answer has usually involved a developer, a custom Word layout, and…",
+          "link": "https://365community.online/bc-v29-lets-words-design-tab-brand-your-sales-orders",
+          "publishedOn": "2026-09-22T12:14:25.000Z",
+          "wordCount": 2234,
+          "title": "BC v29 Lets Word’s Design Tab Brand Your Sales Orders",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/schema-validity-is-not-enough",
+          "author": "Microsoft Tech Community",
+          "description": "Guest post by Adhish Rao, MSc Systems Engineering for the Internet of Things, UCL Developed through UCL's Industry Exchange Network (IXN) with Microsoft industry supervision.       About me My name is Adhish Rao, an Electronic Engineering graduate and…",
+          "link": "https://365community.online/schema-validity-is-not-enough",
+          "publishedOn": "2026-09-22T07:00:00.000Z",
+          "wordCount": 3668,
+          "title": "Schema Validity Is Not Enough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/when-the-coding-agent-leaves-the-codebase-building-a-multi-runtime-ai-agent-infra-with-azure-kars",
+          "author": "Microsoft Tech Community",
+          "description": "1. The story starts with someone who doesn't write code Let me start with a scene I keep running into at community events. Late last year, after a meetup, I got an email. The sender wasn't a developer — he…",
+          "link": "https://365community.online/when-the-coding-agent-leaves-the-codebase-building-a-multi-runtime-ai-agent-infra-with-azure-kars",
+          "publishedOn": "2026-09-22T07:00:00.000Z",
+          "wordCount": 5519,
+          "title": "When the Coding Agent Leaves the Codebase: Building a Multi-Runtime AI Agent Infra with Azure KARS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-and-friends-where-does-your-copilot-prompt-go",
+          "author": "Stefano Demiliani",
+          "description": "Copilot and agent capabilities in Dynamics 365 Business Central are available wherever Business Central Online is available, while Azure OpenAI … More",
+          "link": "https://365community.online/dynamics-365-business-central-and-friends-where-does-your-copilot-prompt-go",
+          "publishedOn": "2026-09-22T06:59:14.000Z",
+          "wordCount": 3316,
+          "title": "Dynamics 365 Business Central (and friends): where does your Copilot prompt go?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/%e6%97%a5%e6%9c%ac%e3%81%a7%e5%8a%a0%e9%80%9f%e3%81%99%e3%82%8b%e3%83%81%e3%83%a3%e3%83%8d%e3%83%ab%e6%88%90%e9%95%b7-multiparty-private-offer-%e3%81%a7%e5%ba%83%e3%81%8c%e3%82%8b-microsoft-marketpla",
+          "author": "Microsoft Tech Community",
+          "description": "先日、2026年8月6日に開催された Marketplace community の partner office hour に、長岩とともに登壇しました。テーマは、Microsoft Commercial Marketplace の最新動向と、日本で提供が始まったばかりの multiparty private offer (MPO) を軸にした、日本市場でのチャネルビジネスの成長です。当日は多くのパートナーの皆様にご参加いただき、活発なご質問もいただきました。本記事では、その要点を Blog として共有します。日本のチャネルビジネスに関心をお持ちの ISV・販売パートナーの皆様のヒントになれば幸いです。 Marketplace はいま、どれだけ伸びているのか まず長岩から、Marketplace の全体像と市場のモメンタムをお話ししました。 Marketplace は、Microsoft AppSource と Azure Marketplace を統合した購買プラットフォームです。お客様はソリューションの「検索 → 購入 → デプロイ」までを一気通貫で行え、ISV にとっては販売チャネル、販売パートナーにとってはビジネスを広げるエコシステムになります。 数字が語るモメンタムは明確です。 クラウド Marketplace 市場は、2024年の約300億ドルから2030年には1,630億ドルへと拡大が見込まれ、チャネル経由の販売比率が高まっています（出典: Omdia,…",
+          "link": "https://365community.online/%e6%97%a5%e6%9c%ac%e3%81%a7%e5%8a%a0%e9%80%9f%e3%81%99%e3%82%8b%e3%83%81%e3%83%a3%e3%83%8d%e3%83%ab%e6%88%90%e9%95%b7-multiparty-private-offer-%e3%81%a7%e5%ba%83%e3%81%8c%e3%82%8b-microsoft-marketpla",
+          "publishedOn": "2026-09-22T04:14:37.000Z",
+          "wordCount": 3697,
+          "title": "日本で加速するチャネル成長: Multiparty private offer で広がる Microsoft Marketplace の可能性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/microsoft-data-sqlclient-7-1-0-is-now-generally-available",
+          "author": "Microsoft Tech Community",
+          "description": "This release is about making everyday database workloads more predictable. It fixes a collection of issues that could appear under connection failures, retries, transactions, pooling, streaming, encryption, and newer SQL Server data types. If your application uses Microsoft.Data.SqlClient, upgrading to…",
+          "link": "https://365community.online/microsoft-data-sqlclient-7-1-0-is-now-generally-available",
+          "publishedOn": "2026-09-22T00:49:12.000Z",
+          "wordCount": 1994,
+          "title": "Microsoft.Data.SqlClient 7.1.0 is now generally available",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-for-msps-september-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Welcome to a new series for a new era of MSPs! I'm Bryan Irwin and in this new blog series, I'll share practical guidance to help managed service providers grow with Microsoft. Managed service providers (MSPs) turn software into impact.…",
+          "link": "https://365community.online/whats-new-for-msps-september-2026",
+          "publishedOn": "2026-09-22T00:00:51.000Z",
+          "wordCount": 4973,
+          "title": "What’s new for MSPs: September 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-hidden-shield-in-d365fo-part-2-symmetric-vs-asymmetric-encryption-with-practical-x-examples",
+          "author": "Anitha Santosh",
+          "description": "This blog builds on my previous article, which introduced the fundamentals of encryption and decryption in Dynamics 365 Finance & Operations (D365FO). As organizations increasingly rely on integrations, cloud services, and external platforms, protecting sensitive business information has become more…",
+          "link": "https://365community.online/the-hidden-shield-in-d365fo-part-2-symmetric-vs-asymmetric-encryption-with-practical-x-examples",
+          "publishedOn": "2026-09-21T18:18:01.000Z",
+          "wordCount": 2269,
+          "title": "The Hidden Shield in D365FO – Part 2: Symmetric vs Asymmetric Encryption with Practical X++ Examples",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/after-the-prompt-series-how-do-we-package-everything-we-have-built-around-the-model",
           "author": "jarmesto",
           "description": "Agent Plugins let us distribute how we want AI to work. What belongs in the shared core, what depends on the client, and what should a team validate?",
@@ -41801,86 +41891,6 @@
           "wordCount": 1120,
           "title": "Use the new Associated Grid Control to display details of other tables in subgrids  – Model-driven App / Dynamics 365",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/protecting-web-workloads-with-sc-100-whats-the-best-choice-youtube",
-          "author": "shabaz darr",
-          "description": "Learn how to protect web workloads with SC-100 certification. Find out the best choice for specifying security requirements for your web projects. Episode Breakdown: 00:00 – Episode Introduction 00:43 – Episode Breakdown 01:17 – Specify security for web workloads 02:43 – Demo: Microsoft Defender for Azure App Services overview MeasureUp Exam Discount – https://www.measureup.com/microsoft-practice-test-sc-100-cybersecurity-architect-grc.html#u7 Microsoft […]",
-          "link": "https://365community.online/protecting-web-workloads-with-sc-100-whats-the-best-choice-youtube",
-          "publishedOn": "2024-09-23T14:15:02.000Z",
-          "wordCount": 1000,
-          "title": "Protecting Web Workloads with SC-100 What’s the Best Choice? – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/upcoming-microsoft-dynamics-365-business-central-knowledge-hub-webinars-oct-dec-2024-from-madic-dynamics",
-          "author": "Ian Grieve",
-          "description": "Every month, on the third Tuesday, at MADIC dynamics we will be presenting a Knowledge Hub Webinar on Microsoft Dynamics 365 Business Central and related products; I will be presenting some of the webinars, but other consultants will be getting involved as well, so there will be a variety of presenters through time. We aim […]",
-          "link": "https://365community.online/upcoming-microsoft-dynamics-365-business-central-knowledge-hub-webinars-oct-dec-2024-from-madic-dynamics",
-          "publishedOn": "2024-09-23T14:00:49.000Z",
-          "wordCount": 1086,
-          "title": "Upcoming Microsoft Dynamics 365 Business Central Knowledge Hub Webinars (Oct-Dec 2024) from MADIC dynamics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/dynamics-365-business-central-httpclient-and-remote-certificate-validation-future-changes",
-          "author": "Stefano Demiliani",
-          "description": "I think that everyone of you know that the AL HttpClient data type provides a data type for sending HTTP requests and receiving HTTP responses from a resource identified by a URI. A very basic piece of AL code that sends a GET request to an endpoint and return a response can be defined as […]",
-          "link": "https://365community.online/dynamics-365-business-central-httpclient-and-remote-certificate-validation-future-changes",
-          "publishedOn": "2024-09-23T13:54:52.000Z",
-          "wordCount": 1080,
-          "title": "Dynamics 365 Business Central: HttpClient and remote certificate validation future changes.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/unified-routing-queue-priority",
-          "author": "Neil Parkhurst",
-          "description": "I’m using Microsoft’s Dynamics 365 Contact Center to route cases and I have multiple queues …. but what if I want one queue to have priority over another? This requirement has been expressed in several of my projects! And until recently I would have explained that routing based on queue priority was not possible. As […]",
-          "link": "https://365community.online/unified-routing-queue-priority",
-          "publishedOn": "2024-09-23T13:28:55.000Z",
-          "wordCount": 1004,
-          "title": "Unified Routing – Queue Priority",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/step-by-step-guide-to-use-brand-profiles-in-emails-enhancing-engagement-in-customer-insights",
-          "author": "Inogic",
-          "description": "In today’s digital landscape, email remains one of the most powerful tools for brand communication. Whether you’re reaching out to potential customers, engaging with loyal clients, or nurturing leads, your emails serve as a direct reflection of your brand. Therefore, it’s essential to ensure that your email communications are not only consistent but also a […]",
-          "link": "https://365community.online/step-by-step-guide-to-use-brand-profiles-in-emails-enhancing-engagement-in-customer-insights",
-          "publishedOn": "2024-09-23T12:32:34.000Z",
-          "wordCount": 1328,
-          "title": "Step-By-Step Guide to Use Brand Profiles in Emails: Enhancing Engagement in Customer Insights",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-track-sustainability-certificates-for-items-and-vendors",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 11th of the new functionality in the Legislation section is track sustainability certificates for items […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-track-sustainability-certificates-for-items-and-vendors",
-          "publishedOn": "2024-09-23T12:00:26.000Z",
-          "wordCount": 1100,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Track Sustainability Certificates For Items And Vendors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-encrypt-data-at-rest-with-customer-managed-encryption-key",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 8th of the new functionality in the Governance and administration section is encrypt data at-rest […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-encrypt-data-at-rest-with-customer-managed-encryption-key",
-          "publishedOn": "2024-09-23T10:00:40.000Z",
-          "wordCount": 1100,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Encrypt Data At-Rest With Customer-Managed Encryption Key",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/power-automate-ler-excel-do-email-salvar-no-sharepoint-inserir-dados-do-excel-na-lista-youtube",
-          "author": "Saulo Soares Oliveira",
-          "description": "Nesse vídeo vamos aprender a criar uma automação completa que lê um excel do email, salva em uma biblioteca do SharePoint e depois lê esse excel e salva em uma lista do SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? […]",
-          "link": "https://365community.online/power-automate-ler-excel-do-email-salvar-no-sharepoint-inserir-dados-do-excel-na-lista-youtube",
-          "publishedOn": "2024-09-23T10:00:17.000Z",
-          "wordCount": 1047,
-          "title": "Power Automate  – Ler excel do email, salvar no SharePoint, inserir dados do excel na lista – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -46907,6 +46917,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=3182",
+          "author": "Arvind Bharti",
+          "description": "Overview In Part 4, we followed a real business transaction at USMF Bottled Water Manufacturing Ltd. We created a Purchase Order for 10,000 Empty PET Bottles, confirmed the order, posted the Product Receipt, and watched Dynamics 365 automatically create a Quality Order based on our Quality Association. But creating a Quality Order is only the […]",
+          "link": "https://exploredynamics365.home.blog/2026/09/20/from-quality-order-to-quality-decision-performing-the-inspection-part-5/",
+          "publishedOn": "2026-09-20T13:13:43.000Z",
+          "wordCount": 4503,
+          "title": "From Quality Order to Quality Decision: Performing the Inspection – Part 5",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/09/colorful-modern-designer-linkedin-banner-presentation-7.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=3169",
           "author": "Arvind Bharti",
           "description": "Overview In the previous part, we explored Quality Associations and understood how they determine when, where, and under what conditions a Quality Order should be created automatically. Now it’s time to see all of our configurations in action. In this article, we’ll create a Purchase Order, post the Product Receipt, and watch Microsoft Dynamics 365 […]",
@@ -48860,16 +48880,6 @@
           "wordCount": 11886,
           "title": "Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Tabular-View-Advanced-Search-and-Update-in-Bulk-of-D365FO-Print-Management-Settings-main-image.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=29200",
-          "author": "Irena Vujcic Pavlovic",
-          "description": "We are happy to be part of this year’s NT Conference,  Slovenia's largest tech-business event, which will take place in sunny Portorož from September 23-25, 2024. We will be there as sponsors, speakers and participants. 🌟 Check out our PANEL: Men as Hunters, Women as […]\nThe post Meet Us at NT Conference 2024 in Portorož appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/meet-us-at-ntk24/",
-          "publishedOn": "2024-09-23T08:00:59.000Z",
-          "wordCount": 11516,
-          "title": "Meet Us at NT Conference 2024 in Portorož",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/10/NTK_Visit_our_booth_24team.jpg"
         }
       ]
     },
