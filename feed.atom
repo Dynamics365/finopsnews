@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-24T03:50:10.447Z</updated>
+    <updated>2026-09-25T04:04:45.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Is Solved, Bugs Included. «Fix Incoming»]]></title>
+        <id>https://365community.online/coding-is-solved-bugs-included-fix-incoming</id>
+        <link href="https://365community.online/coding-is-solved-bugs-included-fix-incoming"/>
+        <updated>2026-09-24T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Did it blow up, or is the wave just starting to form? The creator of Claude Code says agent-generated code is on its way to needing no review. Where does that leave developers, and where does it leave Business Central?]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: AL Query objects and the new ReadState property.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-al-query-objects-and-the-new-readstate-property</id>
+        <link href="https://365community.online/dynamics-365-business-central-al-query-objects-and-the-new-readstate-property"/>
+        <updated>2026-09-24T10:05:09.000Z</updated>
+        <summary type="html"><![CDATA[A query object in AL object type built for one job: reading data. You describe a result set by declaring … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC v29: Every AL Query You’ve Written Has Been Doing a Dirty Read]]></title>
+        <id>https://365community.online/bc-v29-every-al-query-youve-written-has-been-doing-a-dirty-read</id>
+        <link href="https://365community.online/bc-v29-every-al-query-youve-written-has-been-doing-a-dirty-read"/>
+        <updated>2026-09-24T06:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Every AL query object you’ve ever written has been reading data a specific way, and most developers have never had to think about it because there was never a choice to make. Queries in Business Central default to reading uncommitted…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Container Apps Sandboxes, Now Generally Available]]></title>
+        <id>https://365community.online/azure-container-apps-sandboxes-now-generally-available</id>
+        <link href="https://365community.online/azure-container-apps-sandboxes-now-generally-available"/>
+        <updated>2026-09-23T23:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Agents Act. You Set the Limits. Your platform needs to run untrusted code. Agents choose actions at runtime, from installing packages to calling APIs. In a multi-tenant service, you have to support both without letting one customer's code reach another…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes to Microsoft Learn’s public documentation repositories]]></title>
+        <id>https://365community.online/changes-to-microsoft-learns-public-documentation-repositories</id>
+        <link href="https://365community.online/changes-to-microsoft-learns-public-documentation-repositories"/>
+        <updated>2026-09-23T23:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Learn is changing how it manages public documentation repositories. Learn what the changes mean for GitHub contributors and where to continue sharing feedback.   If you contribute to Microsoft Learn documentation through GitHub, here’s what you need to know…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek-V4.1-Flash is coming to Microsoft Foundry]]></title>
+        <id>https://365community.online/deepseek-v4-1-flash-is-coming-to-microsoft-foundry</id>
+        <link href="https://365community.online/deepseek-v4-1-flash-is-coming-to-microsoft-foundry"/>
+        <updated>2026-09-23T21:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Agentic applications increasingly need to process entire code repositories, large document collections, images, tool results, and long-running conversation histories. As that context grows, the key-value, or KV, cache maintained during inference can become a major constraint on cost, memory, and…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Ignite: Build the skills customers are searching for]]></title>
+        <id>https://365community.online/microsoft-ignite-build-the-skills-customers-are-searching-for</id>
+        <link href="https://365community.online/microsoft-ignite-build-the-skills-customers-are-searching-for"/>
+        <updated>2026-09-23T19:30:12.000Z</updated>
+        <summary type="html"><![CDATA[You don’t want to miss out: the right learning experience can turn new technology into practical action. Register for Microsoft Ignite to deepen your technical knowledge, strengthen your business expertise, and learn directly from the people building Microsoft technologies. Sessions…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Enable Microsoft 365 Copilot in Model-Driven Apps]]></title>
         <id>https://365community.online/how-to-enable-microsoft-365-copilot-in-model-driven-apps</id>
@@ -14,6 +84,16 @@
         <summary type="html"><![CDATA[Microsoft 365 Copilot brings conversational AI directly into Model-Driven Apps, allowing users to ask natural language questions about Dataverse data, quickly locate records, and improve productivity without leaving the application. In this post, we walk through the steps we follow…]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving you more control over camera, microphone, and location]]></title>
+        <id>https://365community.online/giving-you-more-control-over-camera-microphone-and-location</id>
+        <link href="https://365community.online/giving-you-more-control-over-camera-microphone-and-location"/>
+        <updated>2026-09-23T17:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Windows Insiders in the Experimental channel can now decide which desktop apps access their camera, microphone, and location. Instead of relying on a single setting for all desktop apps, you can now review and manage access individually, giving you more…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -54179,99 +54259,6 @@ The post Harnessing transformative AI for field service excellence appeared firs
         <summary type="html"><![CDATA[Honeywell, SAP and the Power Platform Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) From writing a French fluency book during lockdown to becoming an MVP, Mourtaza Moïse Fazlehoussen’s story is a testament to discipline and passion. Don’t miss this inspiring episode! 🔴 For full Show Notes: https://podcast.nz365guy.com/601 What You Will Learn: ✅Curious about how a […]]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing End of Support for Dynamics GP]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/25/announcing-end-of-support-for-dynamics-gp/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/25/announcing-end-of-support-for-dynamics-gp/"/>
-        <updated>2024-09-25T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today we are announcing that we will end product support and updates for Dynamics GP on the 30th of September 2029 (with security patches ending on the 30th of April 2031). 
-The post Announcing End of Support for Dynamics GP appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Mike Morton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics GP End of Life announcement]]></title>
-        <id>https://365community.online/dynamics-gp-end-of-life-announcement</id>
-        <link href="https://365community.online/dynamics-gp-end-of-life-announcement"/>
-        <updated>2024-09-25T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Today is a sad day for those of us in the Microsoft Dynamics GP ecosystem, though we all knew it would come eventually. Microsoft has announced a "Support End Date" for the product, 31 years after its 1.0 release in 1993. RIP, buddy, it's been a great run… Links (provided by Microsoft) For customers: aka.ms/customerGP-EOL […]]]></summary>
-        <author>
-            <name>Jen Kuntz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How generative AI in customer relationship management emphasizes human skills to drive sales]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/25/how-generative-ai-in-customer-relationship-management-emphasizes-human-skills-to-drive-sales/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/25/how-generative-ai-in-customer-relationship-management-emphasizes-human-skills-to-drive-sales/"/>
-        <updated>2024-09-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Successful sales is and always will be about human interactions, and the building of familiarity, comfort, and trust. But getting to those moments—all the searching and compiling and preparation—can take a lot of drudgery. Ensuring that an entire team of sellers has the time and capacity to strengthen those human relationships can be an enormous feat.
-The post How generative AI in customer relationship management emphasizes human skills to drive sales appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jayme Mesecher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Role Based Sitemap Navigation in D365 CE – YouTube]]></title>
-        <id>https://365community.online/role-based-sitemap-navigation-in-d365-ce-youtube</id>
-        <link href="https://365community.online/role-based-sitemap-navigation-in-d365-ce-youtube"/>
-        <updated>2024-09-25T11:28:50.000Z</updated>
-        <summary type="html"><![CDATA[Role Based Sitemap Navigation in D365 CE source]]></summary>
-        <author>
-            <name>Deepesh Somani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Integrated Maps with A Video Guide to Maximize Dynamics 365 Impact]]></title>
-        <id>https://365community.online/exploring-integrated-maps-with-a-video-guide-to-maximize-dynamics-365-impact</id>
-        <link href="https://365community.online/exploring-integrated-maps-with-a-video-guide-to-maximize-dynamics-365-impact"/>
-        <updated>2024-09-25T10:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Maplytics is a powerful tool for enhancing the capabilities of Dynamics 365 CRM through location-based insights and map visualizations. Below is a summary of each tutorial from two Maplytics video series, explaining how you can master its various features for field service, sales, and more! Tutorial 1: Visualizing Dynamics 365 Data on an Integrated Map […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Configuring Copilot by using Different End User Authentication for Actions]]></title>
-        <id>https://365community.online/configuring-copilot-by-using-different-end-user-authentication-for-actions</id>
-        <link href="https://365community.online/configuring-copilot-by-using-different-end-user-authentication-for-actions"/>
-        <updated>2024-09-25T10:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Copilot in Microsoft Dynamics 365 helps to streamline the sales process and close deals faster by reducing the time they spend usually on critical tasks. Copilot provides AI assistance to boost the productivity of the business, generative AI capabilities can be utilized for the summarization of records and email content generation. You can find more details […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “List Companies V3” Action]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-list-companies-v3-action</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-list-companies-v3-action"/>
-        <updated>2024-09-25T10:00:26.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to remove contact and customer validation on Cases– Dynamics 365]]></title>
-        <id>https://365community.online/how-to-remove-contact-and-customer-validation-on-cases-dynamics-365</id>
-        <link href="https://365community.online/how-to-remove-contact-and-customer-validation-on-cases-dynamics-365"/>
-        <updated>2024-09-24T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[By default, we can only specify the contact associated with the customer for the case record. If we try specifying a contact record that is not associated with the Customer selected, we will get the below error message. Invalid Contact – The specified contact doesn’t belong to the account selected as the customer. Specify a […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check if D365FO Print Management Settings Overrides are Configured]]></title>
-        <id>https://ax.docentric.com/?p=29061</id>
-        <link href="https://ax.docentric.com/d365fo-print-management-overrides-configuration/"/>
-        <updated>2024-09-24T18:23:26.000Z</updated>
-        <summary type="html"><![CDATA[D365FO Print management framework gives you a lot of flexibility for a price of potentially complex maintenance and even unwanted results. If you are using D365FO Print management overrides, you know what I am talking about. A common problem is that you occasionally get unexpected […]
-The post Check if D365FO Print Management Settings Overrides are Configured appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Sanja Kolundzija</name>
         </author>
     </entry>
     <entry>
