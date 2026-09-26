@@ -538,6 +538,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/fixes-in-microsoft-access-version-2609-build-16-0-20430-20092",
+          "author": "Microsoft Tech Community",
+          "description": "Zoom IssueFixLabel captions could be truncated after using Size To FitLabels sized to fit their captions could clip the final character at some zoom levels. Access now allows for font-size rounding so the entire caption remains visible.VBA could return the…",
+          "link": "https://365community.online/fixes-in-microsoft-access-version-2609-build-16-0-20430-20092",
+          "publishedOn": "2026-09-25T00:59:34.000Z",
+          "wordCount": 2128,
+          "title": "Fixes in Microsoft Access – Version 2609 (Build 16.0.20430.20092)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/creating-community-before-the-event-lessons-from-m365-nyc",
+          "author": "Microsoft Tech Community",
+          "description": "I never actually attended M365 NYC. That is probably a strange way to start a recap about my contribution to the event, but it is also the reason I wanted to write this. Most conference recaps are written from the…",
+          "link": "https://365community.online/creating-community-before-the-event-lessons-from-m365-nyc",
+          "publishedOn": "2026-09-24T23:34:44.000Z",
+          "wordCount": 4554,
+          "title": "Creating community before the event: Lessons from M365 NYC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/engineering-touch-into-modern-computing-the-evolution-of-haptics-on-surface",
+          "author": "Microsoft Tech Community",
+          "description": "Most computing experiences rely on sight and sound. A window moves into place. An object aligns to a guide. A control changes on screen. Haptics adds another channel: touch.  A well-designed tactile signal can reinforce an action, creating a more…",
+          "link": "https://365community.online/engineering-touch-into-modern-computing-the-evolution-of-haptics-on-surface",
+          "publishedOn": "2026-09-24T23:21:35.000Z",
+          "wordCount": 3111,
+          "title": "Engineering touch into modern computing: The evolution of haptics on Surface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/microsoft-intune-and-apple-os-27-new-settings-support-and-platform-changes",
+          "author": "Microsoft Tech Community",
+          "description": "With Apple's release of OS 27, we’ve been working hard to ensure that Microsoft Intune provides support for Apple’s latest operating systems (OS) so that existing features work as expected, and adding support for new features that were introduced at…",
+          "link": "https://365community.online/microsoft-intune-and-apple-os-27-new-settings-support-and-platform-changes",
+          "publishedOn": "2026-09-24T22:48:40.000Z",
+          "wordCount": 2961,
+          "title": "Microsoft Intune and Apple OS 27: New settings, support, and platform changes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/introducing-voice-agents-in-microsoft-foundry",
+          "author": "Microsoft Tech Community",
+          "description": "Voice is quickly becoming a major way people interact with AI agents. Recent research found that 14% of users already prefer speaking with generative AI rather than typing1, signaling that voice interactions are moving beyond early-adopter use cases and toward…",
+          "link": "https://365community.online/introducing-voice-agents-in-microsoft-foundry",
+          "publishedOn": "2026-09-24T22:02:23.000Z",
+          "wordCount": 2757,
+          "title": "Introducing voice agents in Microsoft Foundry",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/coding-is-solved-bugs-included-fix-incoming",
           "author": "jarmesto",
           "description": "Did it blow up, or is the wave just starting to form? The creator of Claude Code says agent-generated code is on its way to needing no review. Where does that leave developers, and where does it leave Business Central?",
@@ -41751,96 +41801,6 @@
           "wordCount": 1043,
           "title": "Ladies and gentlemen, welcome Power Platform Plan Designer! 📑 – YouTube",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-google-it-like-a-senior-software-engineer-youtube",
-          "author": "Sourav Raj",
-          "description": "How to Google It Like a Senior Software Engineer 🧐Are you tired of wasting time searching for answers online? 🚀 In this video, we’ll share expert tips and techniques on how to Google like a senior software engineer. From basic search operators to advanced techniques, we’ll cover everything you need to know to boost your […]",
-          "link": "https://365community.online/how-to-google-it-like-a-senior-software-engineer-youtube",
-          "publishedOn": "2024-09-26T15:27:47.000Z",
-          "wordCount": 1732,
-          "title": "How to Google It Like a Senior Software Engineer – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-workflows-on-calendar-events-in-teams-and-outlook",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 4th of the new functionality in the Cloud flows section is use workflows on calendar events in Teams and […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-workflows-on-calendar-events-in-teams-and-outlook",
-          "publishedOn": "2024-09-26T14:00:48.000Z",
-          "wordCount": 1099,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Use Workflows On Calendar Events In Teams and Outlook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-run-action-v3-action",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-run-action-v3-action",
-          "publishedOn": "2024-09-26T12:00:00.000Z",
-          "wordCount": 1094,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… Use the “Run Action V3” Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/end-of-life-for-microsoft-dynamics-gp-announced",
-          "author": "Ian Grieve",
-          "description": "In an announcement which cannot be a surprise to anyone, Microsoft have announced that Microsoft Dynamics GP is coming to the end of it’s life. Today, we’re announcing we will end product support and updates for Dynamics GP on the 30th of September 2029 (with security patches ending on the 30th of April 2031). We […]",
-          "link": "https://365community.online/end-of-life-for-microsoft-dynamics-gp-announced",
-          "publishedOn": "2024-09-26T10:00:43.000Z",
-          "wordCount": 1058,
-          "title": "End of Life for Microsoft Dynamics GP Announced",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/maximizing-dynamics-365-impact-with-video-tutorials-on-integrated-maps",
-          "author": "Inogic",
-          "description": "Maplytics is a powerful, location-based tool that enhances the capabilities of Dynamics 365 CRM by offering deep insights through map visualizations. This series of tutorials introduces a variety of ways to master its features, benefiting field service, sales teams, and more. Below is a comprehensive summary of the Maplytics video guides, explaining how to effectively […]",
-          "link": "https://365community.online/maximizing-dynamics-365-impact-with-video-tutorials-on-integrated-maps",
-          "publishedOn": "2024-09-26T09:34:19.000Z",
-          "wordCount": 1315,
-          "title": "Maximizing Dynamics 365 Impact with Video Tutorials on Integrated Maps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/customer-service-workspace-multiple-browsers",
-          "author": "Neil Parkhurst",
-          "description": "Have you tried loading Microsoft’s, customer service workspace in multiple browsers? If you are working with Dynamics 365 Contact Center and haven’t tried recently you might want to experiment with it! In the past, if an agent loaded customer service workspace in a second browser, they would see a “friendly” yellow notification bar warning them […]",
-          "link": "https://365community.online/customer-service-workspace-multiple-browsers",
-          "publishedOn": "2024-09-26T08:58:40.000Z",
-          "wordCount": 1006,
-          "title": "Customer Service Workspace – Multiple Browsers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/technically-stable-mouse-mat-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Technically Stable Mouse Mat Check out my new custom mouse mat!! Check out my new custom mouse mat!! source",
-          "link": "https://365community.online/technically-stable-mouse-mat-youtube",
-          "publishedOn": "2024-09-26T08:34:52.000Z",
-          "wordCount": 921,
-          "title": "Technically Stable Mouse Mat – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/appsource-apps-and-breaking-changes-a-short-story",
-          "author": "Waldo",
-          "description": "So .. here’s a short story for you in the hopes you don’t have to go through what we went through.. . We like to think we’re well organized.  We have many pipelines.  A shitload of automated tests (+8500), including integration tests, upgrade tests, breaking change tests, copy document tests, .. you name it!  And […]",
-          "link": "https://365community.online/appsource-apps-and-breaking-changes-a-short-story",
-          "publishedOn": "2024-09-26T07:10:41.000Z",
-          "wordCount": 1040,
-          "title": "AppSource apps and breaking changes – a short story",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/honeywell-sap-and-the-power-platform-youtube",
-          "author": "NZ365Guy",
-          "description": "Honeywell, SAP and the Power Platform Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) From writing a French fluency book during lockdown to becoming an MVP, Mourtaza Moïse Fazlehoussen’s story is a testament to discipline and passion. Don’t miss this inspiring episode! 🔴 For full Show Notes: https://podcast.nz365guy.com/601 What You Will Learn: ✅Curious about how a […]",
-          "link": "https://365community.online/honeywell-sap-and-the-power-platform-youtube",
-          "publishedOn": "2024-09-25T18:34:02.000Z",
-          "wordCount": 1732,
-          "title": "Honeywell, SAP and the Power Platform – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -44338,6 +44298,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203154",
+          "author": "Sameer Verma",
+          "description": "Discover what’s next for Microsoft Dynamics 365 ERP, from new capabilities across Finance, Supply Chain Management, Commerce, and more to the foundation for agentic ERP. Explore how AI, agents, and connected business processes are helping organizations prepare for the next generation of ERP.\nThe post Build the future of agentic ERP with new Microsoft Dynamics 365 capabilities appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/09/23/build-the-future-of-agentic-erp-with-new-microsoft-dynamics-365-capabilities/",
+          "publishedOn": "2026-09-23T16:00:00.000Z",
+          "wordCount": 7128,
+          "title": "Build the future of agentic ERP with new Microsoft Dynamics 365 capabilities",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/09/Microsoft-Dynamics-365-ERP_1-1.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203140",
           "author": "Anees Ansari",
           "description": "Microsoft Dynamics 365 Commerce provides a composable, API-first architecture that separates the experience layer from the commerce engine. New licensing offers customers more flexibility to use Dynamics 365 Commerce to build custom applications, connect third-party experiences, and support new commerce scenarios. Organizations can create experiences for their specific business requirements while using Dynamics 365 Commerce capabilities for pricing, promotions, inventory, loyalty, orders, fulfillment, and other commerce processes.\nThe post Build custom commerce experiences with Dynamics 365 Commerce appeared first on Microsoft Dynamics 365 Blog.",
@@ -46631,16 +46601,6 @@
           "wordCount": 3477,
           "title": "Optimizing ERP Security Configuration and Licensing within Microsoft Dynamics 365",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/09/AdobeStock_313745282-scaled.jpeg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/26/harnessing-transformative-ai-for-field-service-excellence/",
-          "author": "Safiyyah O’Quinn",
-          "description": "Microsoft Dynamics 365 Field Service customers can use Connected Field Service to seamlessly connect their IoT devices to diagnose problems.\nThe post Harnessing transformative AI for field service excellence appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/26/harnessing-transformative-ai-for-field-service-excellence/",
-          "publishedOn": "2024-09-26T15:00:00.000Z",
-          "wordCount": 3834,
-          "title": "Harnessing transformative AI for field service excellence",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/09/9.23-d365-social.png"
         }
       ]
     },
@@ -48779,6 +48739,16 @@
       "siteUrl": "https://www.paragchapre.com",
       "articles": [
         {
+          "id": "https://www.paragchapre.com/?p=17171",
+          "author": "Parag Chapre",
+          "description": "As Microsoft continues to enhance the Power Platform Admin Center (PPAC) experience, you may have noticed a new Environment View toggle available in the Environments section. While the refreshed interface looks modern and provides a different navigation experience, we recently discovered an important limitation that administrators should be aware of. This week’s Friday Tip is…",
+          "link": "https://www.paragchapre.com/ppac-new-environment-view-transactionless-copy-missing/",
+          "publishedOn": "2026-09-25T09:34:54.000Z",
+          "wordCount": 4106,
+          "title": "PPAC Friday Tip: New Environment View Toggle Hides Transaction less Copy Option",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/09/PPAC-New-Environment-View.webp"
+        },
+        {
           "id": "https://www.paragchapre.com/?p=17161",
           "author": "Parag Chapre",
           "description": "Microsoft has announced an important X++ compiler change that Dynamics 365 Finance & Operations developers should be aware of. Starting with version 10.0.50, the X++ compiler will no longer tolerate the legacy client and server method modifiers and will generate compilation errors whenever these keywords are present in your code. If your organization maintains customizations,…",
@@ -48787,6 +48757,16 @@
           "wordCount": 4289,
           "title": "Upcoming X++ Compiler Change in Dynamics 365 Finance & Operations",
           "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/09/D365FO_Xpp_Compiler_Change.webp"
+        },
+        {
+          "id": "https://www.paragchapre.com/?p=17178",
+          "author": "Parag Chapre",
+          "description": "If you’re working with Dynamics 365 Finance & Operations Unified Developer Experience (UDE) and frequently encounter the following error when launching Visual Studio: “Failed to add assembly redirects to test platform configuration files. Please open the output window pane ‘Dynamics 365 for Finance and Operations’ to see more details. You’re not alone. This is a…",
+          "link": "https://www.paragchapre.com/fix-failed-to-add-assembly-redirects-d365fo-ude/",
+          "publishedOn": "2026-08-29T09:59:11.000Z",
+          "wordCount": 4044,
+          "title": "Fix the “Failed to Add Assembly Redirects” Error in Dynamics 365 F&O UDE",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/09/D365FO-UDE-Assembly-Redirect-Friday-Tip.webp"
         },
         {
           "id": "https://www.paragchapre.com/?p=17149",

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-25T04:04:45.865Z</updated>
+    <updated>2026-09-26T04:10:05.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PPAC Friday Tip: New Environment View Toggle Hides Transaction less Copy Option]]></title>
+        <id>https://www.paragchapre.com/?p=17171</id>
+        <link href="https://www.paragchapre.com/ppac-new-environment-view-transactionless-copy-missing/"/>
+        <updated>2026-09-25T09:34:54.000Z</updated>
+        <summary type="html"><![CDATA[As Microsoft continues to enhance the Power Platform Admin Center (PPAC) experience, you may have noticed a new Environment View toggle available in the Environments section. While the refreshed interface looks modern and provides a different navigation experience, we recently discovered an important limitation that administrators should be aware of. This week’s Friday Tip is…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixes in Microsoft Access – Version 2609 (Build 16.0.20430.20092)]]></title>
+        <id>https://365community.online/fixes-in-microsoft-access-version-2609-build-16-0-20430-20092</id>
+        <link href="https://365community.online/fixes-in-microsoft-access-version-2609-build-16-0-20430-20092"/>
+        <updated>2026-09-25T00:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Zoom IssueFixLabel captions could be truncated after using Size To FitLabels sized to fit their captions could clip the final character at some zoom levels. Access now allows for font-size rounding so the entire caption remains visible.VBA could return the…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating community before the event: Lessons from M365 NYC]]></title>
+        <id>https://365community.online/creating-community-before-the-event-lessons-from-m365-nyc</id>
+        <link href="https://365community.online/creating-community-before-the-event-lessons-from-m365-nyc"/>
+        <updated>2026-09-24T23:34:44.000Z</updated>
+        <summary type="html"><![CDATA[I never actually attended M365 NYC. That is probably a strange way to start a recap about my contribution to the event, but it is also the reason I wanted to write this. Most conference recaps are written from the…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineering touch into modern computing: The evolution of haptics on Surface]]></title>
+        <id>https://365community.online/engineering-touch-into-modern-computing-the-evolution-of-haptics-on-surface</id>
+        <link href="https://365community.online/engineering-touch-into-modern-computing-the-evolution-of-haptics-on-surface"/>
+        <updated>2026-09-24T23:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Most computing experiences rely on sight and sound. A window moves into place. An object aligns to a guide. A control changes on screen. Haptics adds another channel: touch.  A well-designed tactile signal can reinforce an action, creating a more…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Intune and Apple OS 27: New settings, support, and platform changes]]></title>
+        <id>https://365community.online/microsoft-intune-and-apple-os-27-new-settings-support-and-platform-changes</id>
+        <link href="https://365community.online/microsoft-intune-and-apple-os-27-new-settings-support-and-platform-changes"/>
+        <updated>2026-09-24T22:48:40.000Z</updated>
+        <summary type="html"><![CDATA[With Apple's release of OS 27, we’ve been working hard to ensure that Microsoft Intune provides support for Apple’s latest operating systems (OS) so that existing features work as expected, and adding support for new features that were introduced at…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing voice agents in Microsoft Foundry]]></title>
+        <id>https://365community.online/introducing-voice-agents-in-microsoft-foundry</id>
+        <link href="https://365community.online/introducing-voice-agents-in-microsoft-foundry"/>
+        <updated>2026-09-24T22:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Voice is quickly becoming a major way people interact with AI agents. Recent research found that 14% of users already prefer speaking with generative AI rather than typing1, signaling that voice interactions are moving beyond early-adopter use cases and toward…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Is Solved, Bugs Included. «Fix Incoming»]]></title>
         <id>https://365community.online/coding-is-solved-bugs-included-fix-incoming</id>
@@ -94,6 +154,17 @@
         <summary type="html"><![CDATA[Windows Insiders in the Experimental channel can now decide which desktop apps access their camera, microphone, and location. Instead of relying on a single setting for all desktop apps, you can now review and manage access individually, giving you more…]]></summary>
         <author>
             <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build the future of agentic ERP with new Microsoft Dynamics 365 capabilities]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=203154</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/09/23/build-the-future-of-agentic-erp-with-new-microsoft-dynamics-365-capabilities/"/>
+        <updated>2026-09-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover what’s next for Microsoft Dynamics 365 ERP, from new capabilities across Finance, Supply Chain Management, Commerce, and more to the foundation for agentic ERP. Explore how AI, agents, and connected business processes are helping organizations prepare for the next generation of ERP.
+The post Build the future of agentic ERP with new Microsoft Dynamics 365 capabilities appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sameer Verma</name>
         </author>
     </entry>
     <entry>
@@ -1673,6 +1744,16 @@ The post Turbocharge your canvas development with the canvas authoring agent plu
         <summary type="html"><![CDATA[In one of our support cases, a customer reported higher-than-expected connection times when connecting from SQL Server Management Studio (SSMS) to Azure SQL Database using Microsoft Entra authentication. The behavior was also not completely consistent. Sometimes the connection required interaction with…]]></summary>
         <author>
             <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix the “Failed to Add Assembly Redirects” Error in Dynamics 365 F&O UDE]]></title>
+        <id>https://www.paragchapre.com/?p=17178</id>
+        <link href="https://www.paragchapre.com/fix-failed-to-add-assembly-redirects-d365fo-ude/"/>
+        <updated>2026-08-29T09:59:11.000Z</updated>
+        <summary type="html"><![CDATA[If you’re working with Dynamics 365 Finance & Operations Unified Developer Experience (UDE) and frequently encounter the following error when launching Visual Studio: “Failed to add assembly redirects to test platform configuration files. Please open the output window pane ‘Dynamics 365 for Finance and Operations’ to see more details. You’re not alone. This is a…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -54158,107 +54239,6 @@ The post Z4-Meldung an Bundesbank in D365 for Finance appeared first on ER-Consu
         <summary type="html"><![CDATA[In today’s AI-driven world, building intelligent apps starts with more than just code—it starts with a plan! With Microsoft Power Platform, you can design solutions that truly meet business needs by first understanding the problem and defining user roles. Copilot makes this process easier by helping developers iterate on user requirements, data models, and automation […]]]></summary>
         <author>
             <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Google It Like a Senior Software Engineer – YouTube]]></title>
-        <id>https://365community.online/how-to-google-it-like-a-senior-software-engineer-youtube</id>
-        <link href="https://365community.online/how-to-google-it-like-a-senior-software-engineer-youtube"/>
-        <updated>2024-09-26T15:27:47.000Z</updated>
-        <summary type="html"><![CDATA[How to Google It Like a Senior Software Engineer 🧐Are you tired of wasting time searching for answers online? 🚀 In this video, we’ll share expert tips and techniques on how to Google like a senior software engineer. From basic search operators to advanced techniques, we’ll cover everything you need to know to boost your […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing transformative AI for field service excellence]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/26/harnessing-transformative-ai-for-field-service-excellence/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/26/harnessing-transformative-ai-for-field-service-excellence/"/>
-        <updated>2024-09-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics 365 Field Service customers can use Connected Field Service to seamlessly connect their IoT devices to diagnose problems.
-The post Harnessing transformative AI for field service excellence appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Safiyyah O’Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Use Workflows On Calendar Events In Teams and Outlook]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-workflows-on-calendar-events-in-teams-and-outlook</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-workflows-on-calendar-events-in-teams-and-outlook"/>
-        <updated>2024-09-26T14:00:48.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 4th of the new functionality in the Cloud flows section is use workflows on calendar events in Teams and […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… Use the “Run Action V3” Action]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-run-action-v3-action</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-run-action-v3-action"/>
-        <updated>2024-09-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End of Life for Microsoft Dynamics GP Announced]]></title>
-        <id>https://365community.online/end-of-life-for-microsoft-dynamics-gp-announced</id>
-        <link href="https://365community.online/end-of-life-for-microsoft-dynamics-gp-announced"/>
-        <updated>2024-09-26T10:00:43.000Z</updated>
-        <summary type="html"><![CDATA[In an announcement which cannot be a surprise to anyone, Microsoft have announced that Microsoft Dynamics GP is coming to the end of it’s life. Today, we’re announcing we will end product support and updates for Dynamics GP on the 30th of September 2029 (with security patches ending on the 30th of April 2031). We […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximizing Dynamics 365 Impact with Video Tutorials on Integrated Maps]]></title>
-        <id>https://365community.online/maximizing-dynamics-365-impact-with-video-tutorials-on-integrated-maps</id>
-        <link href="https://365community.online/maximizing-dynamics-365-impact-with-video-tutorials-on-integrated-maps"/>
-        <updated>2024-09-26T09:34:19.000Z</updated>
-        <summary type="html"><![CDATA[Maplytics is a powerful, location-based tool that enhances the capabilities of Dynamics 365 CRM by offering deep insights through map visualizations. This series of tutorials introduces a variety of ways to master its features, benefiting field service, sales teams, and more. Below is a comprehensive summary of the Maplytics video guides, explaining how to effectively […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customer Service Workspace – Multiple Browsers]]></title>
-        <id>https://365community.online/customer-service-workspace-multiple-browsers</id>
-        <link href="https://365community.online/customer-service-workspace-multiple-browsers"/>
-        <updated>2024-09-26T08:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Have you tried loading Microsoft’s, customer service workspace in multiple browsers? If you are working with Dynamics 365 Contact Center and haven’t tried recently you might want to experiment with it! In the past, if an agent loaded customer service workspace in a second browser, they would see a “friendly” yellow notification bar warning them […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technically Stable Mouse Mat – YouTube]]></title>
-        <id>https://365community.online/technically-stable-mouse-mat-youtube</id>
-        <link href="https://365community.online/technically-stable-mouse-mat-youtube"/>
-        <updated>2024-09-26T08:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Technically Stable Mouse Mat Check out my new custom mouse mat!! Check out my new custom mouse mat!! source]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppSource apps and breaking changes – a short story]]></title>
-        <id>https://365community.online/appsource-apps-and-breaking-changes-a-short-story</id>
-        <link href="https://365community.online/appsource-apps-and-breaking-changes-a-short-story"/>
-        <updated>2024-09-26T07:10:41.000Z</updated>
-        <summary type="html"><![CDATA[So .. here’s a short story for you in the hopes you don’t have to go through what we went through.. . We like to think we’re well organized.  We have many pipelines.  A shitload of automated tests (+8500), including integration tests, upgrade tests, breaking change tests, copy document tests, .. you name it!  And […]]]></summary>
-        <author>
-            <name>Waldo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honeywell, SAP and the Power Platform – YouTube]]></title>
-        <id>https://365community.online/honeywell-sap-and-the-power-platform-youtube</id>
-        <link href="https://365community.online/honeywell-sap-and-the-power-platform-youtube"/>
-        <updated>2024-09-25T18:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Honeywell, SAP and the Power Platform Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) From writing a French fluency book during lockdown to becoming an MVP, Mourtaza Moïse Fazlehoussen’s story is a testament to discipline and passion. Don’t miss this inspiring episode! 🔴 For full Show Notes: https://podcast.nz365guy.com/601 What You Will Learn: ✅Curious about how a […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
