@@ -538,6 +538,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/aldc-version-5-0-0-what-changes-when-developing-al-with-ai-agents",
+          "author": "jarmesto",
+          "description": "ALDC 5.0.0 adds visual project management, a dedicated Spec Agent and BCQuality knowledge during design. A look at the changes and what to check before upgrading.",
+          "link": "https://365community.online/aldc-version-5-0-0-what-changes-when-developing-al-with-ai-agents",
+          "publishedOn": "2026-09-28T10:00:00.000Z",
+          "wordCount": 2508,
+          "title": "ALDC – Version 5.0.0: what changes when developing AL with AI agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-business-central-roadmap-youve-bookmarked-just-stopped-updating",
+          "author": "Amol Salvi",
+          "description": "For as long as most Business Central partners have been planning around Microsoft’s release cadence, the rhythm has been predictable: a Wave 1 plan lands around February, a Wave 2 plan lands around July, and everything a partner needs to…",
+          "link": "https://365community.online/the-business-central-roadmap-youve-bookmarked-just-stopped-updating",
+          "publishedOn": "2026-09-28T06:17:41.000Z",
+          "wordCount": 2237,
+          "title": "The Business Central Roadmap You’ve Bookmarked Just Stopped Updating",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/scale-repeatable-channel-sales-with-marketplace-resale-enabled-offers-reo-and-app-advisor",
           "author": "Microsoft Tech Community",
           "description": "Want to dive right into setting up REO details? Head to right to the App Advisor step on negotiated deals   Selling more doesn’t always mean building a bigger sales organization. You can extend your sales reach through channel partners…",
@@ -41716,16 +41736,6 @@
           "wordCount": 1118,
           "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Create And Edit Expressions With Copilot",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/we-have-conducted-a-2-day-hands-on-logic-building-hackathon-in-dsvv-dev-sanskriti-vishwavidyalaya-youtube",
-          "author": "Sourav Raj",
-          "description": "We have conducted a 2-day hands-on logic-building hackathon in (DSVV) Dev Sanskriti vishwavidyalaya source",
-          "link": "https://365community.online/we-have-conducted-a-2-day-hands-on-logic-building-hackathon-in-dsvv-dev-sanskriti-vishwavidyalaya-youtube",
-          "publishedOn": "2024-09-29T12:00:31.000Z",
-          "wordCount": 958,
-          "title": "We have conducted a  2-day hands-on logic-building hackathon in (DSVV) Dev Sanskriti vishwavidyalaya – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -49378,6 +49388,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=11280",
+          "author": "Eugen Glasow",
+          "description": "Microsoft documents the syntax for advanced queries in Dynamics 365 Finance, but the example is not sufficient for more complex queries involving joined tables. This article shows how to build nested n:1 joins, reference the resulting data sources, and combine fields from different tables in one advanced filter.\nThe post Advanced query syntax in Dynamics 365 Finance: an example with joined tables appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/advanced-query-syntax-in-dynamics-365-finance-an-example-with-joined-tables/",
+          "publishedOn": "2026-09-28T19:34:20.000Z",
+          "wordCount": 2668,
+          "title": "Advanced query syntax in Dynamics 365 Finance: an example with joined tables",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2026/09/Join-conditions-across-tables-in-D365.png"
+        },
         {
           "id": "https://erconsult.eu/?p=11188",
           "author": "Eugen Glasow",

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-28T04:26:07.091Z</updated>
+    <updated>2026-09-29T04:55:50.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced query syntax in Dynamics 365 Finance: an example with joined tables]]></title>
+        <id>https://erconsult.eu/?p=11280</id>
+        <link href="https://erconsult.eu/blog/advanced-query-syntax-in-dynamics-365-finance-an-example-with-joined-tables/"/>
+        <updated>2026-09-28T19:34:20.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft documents the syntax for advanced queries in Dynamics 365 Finance, but the example is not sufficient for more complex queries involving joined tables. This article shows how to build nested n:1 joins, reference the resulting data sources, and combine fields from different tables in one advanced filter.
+The post Advanced query syntax in Dynamics 365 Finance: an example with joined tables appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALDC – Version 5.0.0: what changes when developing AL with AI agents]]></title>
+        <id>https://365community.online/aldc-version-5-0-0-what-changes-when-developing-al-with-ai-agents</id>
+        <link href="https://365community.online/aldc-version-5-0-0-what-changes-when-developing-al-with-ai-agents"/>
+        <updated>2026-09-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ALDC 5.0.0 adds visual project management, a dedicated Spec Agent and BCQuality knowledge during design. A look at the changes and what to check before upgrading.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Business Central Roadmap You’ve Bookmarked Just Stopped Updating]]></title>
+        <id>https://365community.online/the-business-central-roadmap-youve-bookmarked-just-stopped-updating</id>
+        <link href="https://365community.online/the-business-central-roadmap-youve-bookmarked-just-stopped-updating"/>
+        <updated>2026-09-28T06:17:41.000Z</updated>
+        <summary type="html"><![CDATA[For as long as most Business Central partners have been planning around Microsoft’s release cadence, the rhythm has been predictable: a Wave 1 plan lands around February, a Wave 2 plan lands around July, and everything a partner needs to…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reusing Dynamics 365 BPC Across Azure DevOps Implementation Projects]]></title>
         <id>https://ax.docentric.com/?p=35206</id>
@@ -54179,16 +54210,6 @@ The post What’s new in Power Apps: September 2024 Feature Update appeared firs
         <summary type="html"><![CDATA[Product bundle was first introduced in module revenue recognition but as we all know the there is new modules which has been introduced and will replace revenue recognition “Subscription Billing “. Few Questions?]]></summary>
         <author>
             <name>Saurabh Bharti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We have conducted a  2-day hands-on logic-building hackathon in (DSVV) Dev Sanskriti vishwavidyalaya – YouTube]]></title>
-        <id>https://365community.online/we-have-conducted-a-2-day-hands-on-logic-building-hackathon-in-dsvv-dev-sanskriti-vishwavidyalaya-youtube</id>
-        <link href="https://365community.online/we-have-conducted-a-2-day-hands-on-logic-building-hackathon-in-dsvv-dev-sanskriti-vishwavidyalaya-youtube"/>
-        <updated>2024-09-29T12:00:31.000Z</updated>
-        <summary type="html"><![CDATA[We have conducted a 2-day hands-on logic-building hackathon in (DSVV) Dev Sanskriti vishwavidyalaya source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
