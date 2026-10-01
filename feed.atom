@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-30T04:42:24.360Z</updated>
+    <updated>2026-10-01T04:54:09.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AL Records Can Finally Tell You If They’re Dirty]]></title>
+        <id>https://365community.online/al-records-can-finally-tell-you-if-theyre-dirty</id>
+        <link href="https://365community.online/al-records-can-finally-tell-you-if-theyre-dirty"/>
+        <updated>2026-09-30T11:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday’s issue was about queries reading dirty data without knowing it. This one is almost the mirror image: version 29 gives the Record data type a way to know, directly, whether it’s holding changes that haven’t been saved yet. The…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps | Ask in English, Get Rows Back]]></title>
+        <id>https://365community.online/power-apps-ask-in-english-get-rows-back</id>
+        <link href="https://365community.online/power-apps-ask-in-english-get-rows-back"/>
+        <updated>2026-09-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every so often a question comes back around wearing a different costume. The version I have fielded most often, in one form or another, from just about every organization that has ever put a serious amount of data into Dataverse,…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One ALDC project, several surfaces: what `aldc.yaml` controls]]></title>
+        <id>https://365community.online/one-aldc-project-several-surfaces-what-aldc-yaml-controls</id>
+        <link href="https://365community.online/one-aldc-project-several-surfaces-what-aldc-yaml-controls"/>
+        <updated>2026-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how `aldc.yaml` declares project paths and contracts so ALDC’s agents and tools can find plans, audits, solution roots and BCQuality across different development surfaces.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Jev with Agents in Microsoft Foundry for Model Evaluation]]></title>
+        <id>https://365community.online/using-jev-with-agents-in-microsoft-foundry-for-model-evaluation</id>
+        <link href="https://365community.online/using-jev-with-agents-in-microsoft-foundry-for-model-evaluation"/>
+        <updated>2026-09-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Jev? Jev is a new AI model from TypeSafe AI, first released in early access on 15 September 2026. TypeSafe describes Jev as its first “System One” model, designed specifically to make fast, structured decisions rather than generate free-form…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Cybersecurity Awareness Month, build skills to secure the future]]></title>
+        <id>https://365community.online/this-cybersecurity-awareness-month-build-skills-to-secure-the-future</id>
+        <link href="https://365community.online/this-cybersecurity-awareness-month-build-skills-to-secure-the-future"/>
+        <updated>2026-09-30T05:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Build practical cybersecurity skills to help protect yourself and your environment while preparing for an AI-powered future. Cybersecurity is relevant to every role. Whether you build applications, manage data, lead a team, protect systems, or simply use digital tools, the…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: data mirroring to Microsoft Fabric announced.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-data-mirroring-to-microsoft-fabric-announced</id>
+        <link href="https://365community.online/dynamics-365-business-central-data-mirroring-to-microsoft-fabric-announced"/>
+        <updated>2026-09-30T05:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday at FabCon Europe in Barcelona, Microsoft publicly announced data mirroring for Dynamics 365 Business Central in Microsoft Fabric and … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Databricks Cost and Workload Assessment: a Local Web UI]]></title>
+        <id>https://365community.online/azure-databricks-cost-and-workload-assessment-a-local-web-ui</id>
+        <link href="https://365community.online/azure-databricks-cost-and-workload-assessment-a-local-web-ui"/>
+        <updated>2026-09-30T03:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents Introduction 1. What you can assess 2. The five-step workflow Configure Validate Run analysis Visualize results Review & export 3. Reopen saved assessments 4. Architecture and collection flow 5. Get started Try it Learn more Contribute Introduction…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling classification and labeling: an interactive reference architecture update]]></title>
+        <id>https://365community.online/scaling-classification-and-labeling-an-interactive-reference-architecture-update</id>
+        <link href="https://365community.online/scaling-classification-and-labeling-an-interactive-reference-architecture-update"/>
+        <updated>2026-09-30T02:33:27.000Z</updated>
+        <summary type="html"><![CDATA[In April, I published a set of referential architecture diagrams for Microsoft Purview — Microsoft Purview Referential Architecture Diagrams. They have been useful in workshops and training sessions for a simple reason: one picture is worth a thousand words - attempting…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 2026 M365 Champions Community call]]></title>
+        <id>https://365community.online/september-2026-m365-champions-community-call</id>
+        <link href="https://365community.online/september-2026-m365-champions-community-call"/>
+        <updated>2026-09-30T02:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a recap and top Q+A from our September M365 Champions monthly call of 2026. We kicked off the call annoucing a new Champion Stories program to showcase real-world Microsoft 365 Copilot adoption success stories from the Champions community. Organizations…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wave Reaches the Reviewers]]></title>
         <id>https://365community.online/the-wave-reaches-the-reviewers</id>
@@ -53978,107 +54068,6 @@ The post Use Copilot to quickly filter, sort, and search canvas app galleries wi
         <link href="https://365community.online/using-microsoft-copilot-studio-to-create-copilot-for-teams-channel-with-dataverse-as-knowledge-source-copilot-dataverse"/>
         <updated>2024-10-01T20:30:00.000Z</updated>
         <summary type="html"><![CDATA[Below are the quick steps to create a copilot with Dataverse as the Knowledge source and Teams as the channel Open the Microsoft Copilot Studio site https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio Select the Try free option to get started. Select the appropriate environment and click on New copilot option (Create+) Select Create Here we have renamed the Copilot, next… […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new in Power Apps: September 2024 Feature Update]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-september-2024-feature-update/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-september-2024-feature-update/"/>
-        <updated>2024-10-01T15:21:54.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered Development This month on Power Apps Pulse! This month we’re excited to share improvements to Modern Theming, a new responsive template to create a list and details screen with lightning speed, a way to choose a data source for multiple controls on a screen with one click, and a new way to open existing
-The post What’s new in Power Apps: September 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Transform Scripting Using AI-Driven Natural Language]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-transform-scripting-using-ai-driven-natural-language</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-transform-scripting-using-ai-driven-natural-language"/>
-        <updated>2024-10-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 4th of the new functionality in the Copilot for Power Automate section is transform scripting using AI-driven natural language. […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Automate With Ease Using The AI Recorder]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-automate-with-ease-using-the-ai-recorder</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-automate-with-ease-using-the-ai-recorder"/>
-        <updated>2024-10-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 3rd of the new functionality in the Copilot for Power Automate section is automate with ease using the AI […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate Work Order Summary with Copilot in Dynamics 365 Field Service (Part I)]]></title>
-        <id>https://365community.online/generate-work-order-summary-with-copilot-in-dynamics-365-field-service-part-i</id>
-        <link href="https://365community.online/generate-work-order-summary-with-copilot-in-dynamics-365-field-service-part-i"/>
-        <updated>2024-10-01T11:44:54.000Z</updated>
-        <summary type="html"><![CDATA[A Work Order in Dynamics 365 Field Service is a critical document that outlines the specifics of a service request or job assigned to a technician. It encompasses all the necessary information, including the issues that need addressing, details about the customer, the tasks that must be completed, the parts required for the job, the […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… Use the “Get an Image, File or Document V3” Action]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-get-an-image-file-or-document-v3-action</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-get-an-image-file-or-document-v3-action"/>
-        <updated>2024-10-01T10:00:18.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Community Conference Top Announcements]]></title>
-        <id>https://365community.online/power-platform-community-conference-top-announcements</id>
-        <link href="https://365community.online/power-platform-community-conference-top-announcements"/>
-        <updated>2024-10-01T08:08:00.000Z</updated>
-        <summary type="html"><![CDATA[This year I attended the Power Platform Community Conference for the third year in a row. The event took place in Las Vegas, Nevada which was the same place the conference took place last year and the same place where it will be held next year. The conference is always a hub of innovation, collaboration, […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Community Conference Top Announcements – YouTube]]></title>
-        <id>https://365community.online/power-platform-community-conference-top-announcements-youtube</id>
-        <link href="https://365community.online/power-platform-community-conference-top-announcements-youtube"/>
-        <updated>2024-10-01T08:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Power Platform Community Conference Top Announcements In this video I take you through the top announcements that were made in Las Vegas during the Power Platform Community Conference of 2024. Related Article: https://d365goddess.com/ppcc-top-announcements/ Twitter: https://twitter.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ In this video I take you through the top announcements that were made in Las Vegas during the […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: triggering an Azure DevOps pipeline when a tenant upgrade occurs.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-triggering-an-azure-devops-pipeline-when-a-tenant-upgrade-occurs</id>
-        <link href="https://365community.online/dynamics-365-business-central-triggering-an-azure-devops-pipeline-when-a-tenant-upgrade-occurs"/>
-        <updated>2024-10-01T07:54:06.000Z</updated>
-        <summary type="html"><![CDATA[Last week I had a quick message exchangement with a partner asking how to automatically trigger an Azure DevOps pipeline when a Dynamics 365 Business Central environment update occurs: I’ve promised a post describing a possible idea for a solution, and here it is. Triggering a build pipeline in Azure Devops when an update happens […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wave 2 2024: Release Notes Don't Make Sense Anymore]]></title>
-        <id>https://365community.online/wave-2-2024-release-notes-dont-make-sense-anymore</id>
-        <link href="https://365community.online/wave-2-2024-release-notes-dont-make-sense-anymore"/>
-        <updated>2024-09-30T21:54:00.000Z</updated>
-        <summary type="html"><![CDATA[In this [delayed] episode of Refresh the Cache, George and Nick dive into the latest Wave 2 2024 release notes for Power Pages. They discuss the evolving landscape of agile development, where new features roll out continuously, and release notes serve as checkpoints rather than game-changers. The conversation touches on deprecations, governance updates, and intriguing […]]]></summary>
-        <author>
-            <name>CRMAudio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Copilot to generate knowledge articles from resolved cases – Dynamics 365 Customer Service]]></title>
-        <id>https://365community.online/use-copilot-to-generate-knowledge-articles-from-resolved-cases-dynamics-365-customer-service</id>
-        <link href="https://365community.online/use-copilot-to-generate-knowledge-articles-from-resolved-cases-dynamics-365-customer-service"/>
-        <updated>2024-09-30T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[To enable the feature of generating knowledge articles through Copilot, navigate to Customer Service Admin Center >> Agent Experience >> Knowledge >> Knowledge Creation Agree to the terms and select Opt-in Set it up by checking the options With this feature enabled, now when we resolve the case, we will get the option to create […]]]></summary>
         <author>
             <name>Nishant Rana</name>
         </author>
