@@ -568,12 +568,42 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/copilot-studio-hooks-explained-make-one-rule-run-every-time",
+          "author": "Valantis Avramopoulos",
+          "description": "Copilot Studio hooks run a workflow every time an event fires. The six events, what Pre tool use can block, setup steps, and the fail-open gotcha.",
+          "link": "https://365community.online/copilot-studio-hooks-explained-make-one-rule-run-every-time",
+          "publishedOn": "2026-11-17T19:22:55.000Z",
+          "wordCount": 3215,
+          "title": "Copilot Studio Hooks Explained: Make One Rule Run Every Time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/copilot-studio-five-tools-fifty-one-actions",
+          "author": "Mariano Gomez",
+          "description": "I pointed an MCP client at Microsoft's new Copilot Studio MCP server and asked it what tools it had. It answered with nine, and not one of the nine appears in the documentation. That is not a bug, and by…",
+          "link": "https://365community.online/copilot-studio-five-tools-fifty-one-actions",
+          "publishedOn": "2026-11-17T12:00:00.000Z",
+          "wordCount": 3376,
+          "title": "Copilot Studio | Five Tools, Fifty-One Actions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/yampi-dynamics-365-business-central-admin-mcp-server-version-2-0-x-a-ground-up-refresh",
+          "author": "Stefano Demiliani",
+          "description": "YAMPI (the open source D365 Business Central Admin MCP Server I’ve released last year at Directions EMEA) lets AI assistants … More",
+          "link": "https://365community.online/yampi-dynamics-365-business-central-admin-mcp-server-version-2-0-x-a-ground-up-refresh",
+          "publishedOn": "2026-11-17T11:35:36.000Z",
+          "wordCount": 2843,
+          "title": "YAMPI (Dynamics 365 Business Central Admin MCP Server) version 2.0.x: a ground-up refresh.",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/modernizing-treasury-operations-with-sharepoint-driven-bank-statement-imports",
           "author": "Anitha Santosh",
           "description": "Bank statement imports are a critical part of treasury and cash management processes. While Dynamics 365 Finance & Operations provides an out-of-the-box approach using Data Management (DIXF) entities for importing bank statements, organizations often look for a more automated and…",
           "link": "https://365community.online/modernizing-treasury-operations-with-sharepoint-driven-bank-statement-imports",
           "publishedOn": "2026-11-16T19:36:14.000Z",
-          "wordCount": 2396,
+          "wordCount": 2410,
           "title": "Modernizing Treasury Operations with SharePoint-Driven Bank Statement Imports",
           "imageUrl": null
         },
@@ -595,6 +625,26 @@
           "publishedOn": "2026-11-16T15:01:00.000Z",
           "wordCount": 2656,
           "title": "From an Excel file to Business Central with Copilot, then to a reusable skill",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/unlock-multi-region-hpc-capabilities-with-azure-cyclecloud",
+          "author": "Microsoft Tech Community",
+          "description": "As HPC workloads grow, organizations need the flexibility to access more compute capacity without adding complexity to how they manage data. Expanding across regions can unlock new resources, but moving data between environments often introduces additional operational overhead. The Azure…",
+          "link": "https://365community.online/unlock-multi-region-hpc-capabilities-with-azure-cyclecloud",
+          "publishedOn": "2026-11-16T14:03:28.000Z",
+          "wordCount": 2450,
+          "title": "Unlock multi-region HPC capabilities with Azure CycleCloud",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-provance-serviceteam-in-microsoft-marketplace-shows-ai-in-itsm-is-about-more-than-smarter-it",
+          "author": "Microsoft Tech Community",
+          "description": "In this guest blog post, Roger Labelle, Head of Product, Provance Technologies, explains how Provance ServiceTeam ITSM in Microsoft Marketplace uses artificial intelligence (AI) to improve IT support knowledge retention and access while enhancing IT capabilities and ultimately boosting business…",
+          "link": "https://365community.online/how-provance-serviceteam-in-microsoft-marketplace-shows-ai-in-itsm-is-about-more-than-smarter-it",
+          "publishedOn": "2026-11-16T14:00:00.000Z",
+          "wordCount": 2410,
+          "title": "How Provance ServiceTeam in Microsoft Marketplace shows AI in ITSM is about more than smarter IT",
           "imageUrl": null
         },
         {
@@ -39145,46 +39195,6 @@
           "publishedOn": "2024-11-18T20:30:00.000Z",
           "wordCount": 1093,
           "title": "Using Copilot to Create and Explain Formulas – Power Apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/curso-power-automate-aula-5-tecnica-super-facil-para-usar-condicoes-de-gatilho-em-uma-lista-youtube",
-          "author": "Saulo Soares Oliveira",
-          "description": "Nesse curso vamos aprender os conceitos do Power Automate e vamos fazer práticas para aprender mais sobre essa tecnologia. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 Seja membro […]",
-          "link": "https://365community.online/curso-power-automate-aula-5-tecnica-super-facil-para-usar-condicoes-de-gatilho-em-uma-lista-youtube",
-          "publishedOn": "2024-11-18T10:00:09.000Z",
-          "wordCount": 1077,
-          "title": "Curso Power Automate – Aula 5 – Técnica super fácil para usar condições de gatilho em uma lista – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/enhancing-data-quality-with-smart-email-address-validation-in-dynamics-365-crm",
-          "author": "Inogic",
-          "description": "Introduction In my earlier blog post from November 2022, we discussed the Smart Email Validation feature found in Dynamics 365 Sales and its advantages for managing leads effectively by identifying invalid email entries. This feature played a crucial role in making sure that email communications successfully reach their designated recipients, thereby enhancing engagement and the […]",
-          "link": "https://365community.online/enhancing-data-quality-with-smart-email-address-validation-in-dynamics-365-crm",
-          "publishedOn": "2024-11-18T09:29:51.000Z",
-          "wordCount": 1343,
-          "title": "Enhancing Data Quality with Smart Email Address Validation in Dynamics 365 CRM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-create-pop-up-confirmation-dialogue-notifications-with-power-fx365-in-dynamics-365-ce-youtube",
-          "author": "Manish chauhan",
-          "description": "In this video, learn how to create a custom button and display pop-up notifications using the Confirm Power FX function in Microsoft Dynamics 365 CE. We guide you step-by-step on integrating Power FX to enhance user interactions and streamline notifications. Whether you’re customizing workflows or improving user experience, this tutorial provides practical tips and insights […]",
-          "link": "https://365community.online/how-to-create-pop-up-confirmation-dialogue-notifications-with-power-fx365-in-dynamics-365-ce-youtube",
-          "publishedOn": "2024-11-18T07:30:17.000Z",
-          "wordCount": 1064,
-          "title": "How to create POP-UP CONFIRMATION DIALOGUE NOTIFICATIONS with POWER FX365 in Dynamics 365 CE – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/dev-box-expert-shares-top-roadmap-strategies-for-success-youtube",
-          "author": "shabaz darr",
-          "description": "Get expert advice on Dev Box roadmap strategies for success, including development, management, and performance tips. Perfect for coders and developers! Episode Breakdown: 00:00 – Episode Intro 00:43 – Episode Breakdown 01:09 – Ready-to-code Development Environment 04:57 – Enterprise Management 07:11 – Fundamental Performance & Reliability Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Shabaz X – https://x.com/ShabazDarr Microsoft […]",
-          "link": "https://365community.online/dev-box-expert-shares-top-roadmap-strategies-for-success-youtube",
-          "publishedOn": "2024-11-18T04:00:09.000Z",
-          "wordCount": 1012,
-          "title": "Dev Box EXPERT Shares Top Roadmap Strategies for Success! – YouTube",
           "imageUrl": null
         }
       ]
