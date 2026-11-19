@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-18T06:32:29.378Z</updated>
+    <updated>2026-11-19T06:34:26.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why AI Answers From SharePoint Cite Outdated Documents, and How to Stop It]]></title>
+        <id>https://365community.online/why-ai-answers-from-sharepoint-cite-outdated-documents-and-how-to-stop-it</id>
+        <link href="https://365community.online/why-ai-answers-from-sharepoint-cite-outdated-documents-and-how-to-stop-it"/>
+        <updated>2026-11-18T18:21:38.000Z</updated>
+        <summary type="html"><![CDATA[One procedure in SharePoint can exist as the current version, older versions, a minor draft and copies elsewhere. Which of them reach the AI index decides whether the answer is current, and a simple test shows what your assistant reads.]]></summary>
+        <author>
+            <name>Kaspars Jurjāns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indexing SharePoint lists for the Power Platform]]></title>
+        <id>https://365community.online/indexing-sharepoint-lists-for-the-power-platform</id>
+        <link href="https://365community.online/indexing-sharepoint-lists-for-the-power-platform"/>
+        <updated>2026-11-18T12:49:08.000Z</updated>
+        <summary type="html"><![CDATA[When you use SharePoint lists within the Power Platform, there are some things you can do to improve performance. Indexes on SharePoint lists can make]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Support for ZUGFeRD e-Invoices in Germany: Watch the Webinar]]></title>
+        <id>https://ax.docentric.com/?p=35770</id>
+        <link href="https://ax.docentric.com/support-for-zugferd-e-invoices-in-germany-watch-the-webinar/"/>
+        <updated>2026-11-18T10:21:45.000Z</updated>
+        <summary type="html"><![CDATA[ZUGFeRD is an e-invoicing format used in Germany. Organizations running Microsoft Dynamics 365 Finance and Supply Chain Management need to understand its requirements and how to generate compliant e-invoices as they prepare for the transition to electronic invoicing. In our webinar, Support for ZUGFeRD e-Invoices […]
+The post Support for ZUGFeRD e-Invoices in Germany: Watch the Webinar appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marko Panjan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Elastic SAN Next Generation public preview: Mission-critical performance & cloud-native scale]]></title>
+        <id>https://365community.online/azure-elastic-san-next-generation-public-preview-mission-critical-performance-cloud-native-scale</id>
+        <link href="https://365community.online/azure-elastic-san-next-generation-public-preview-mission-critical-performance-cloud-native-scale"/>
+        <updated>2026-11-18T09:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Mission-critical applications such as SAP HANA, Epic, and core transactional databases demand consistently high performance and predictable low latency. Cloud-native platforms running stateful applications, vector databases, and fast-growing fleets of AI agent environments need persistent storage that can scale across…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure SQL Query Editor Won’t Connect? Start Here]]></title>
+        <id>https://365community.online/azure-sql-query-editor-wont-connect-start-here</id>
+        <link href="https://365community.online/azure-sql-query-editor-wont-connect-start-here"/>
+        <updated>2026-11-18T09:10:08.000Z</updated>
+        <summary type="html"><![CDATA[The Azure portal loads fine, you open Query Editor, and then you get "failed to fetch" or a vague connection error. It's tempting to assume the database is down, or to look for "the Query Editor IP" to add to…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations]]></title>
+        <id>https://365community.online/addressing-java4shell-cve-2026-114938-upgrade-guidance-and-azure-waf-mitigations</id>
+        <link href="https://365community.online/addressing-java4shell-cve-2026-114938-upgrade-guidance-and-azure-waf-mitigations"/>
+        <updated>2026-11-18T07:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction  On November 17, 2026, CVE-2026-114938, also known as Java4Shell, a critical remote code execution (RCE) vulnerability affecting OpenJDK, was publicly disclosed. Under specific conditions, specially crafted Base64 input can trigger memory corruption in affected Java runtimes, potentially allowing unauthenticated…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Field Service isn’t like your other Dynamics 365 projects]]></title>
+        <id>https://365community.online/why-field-service-isnt-like-your-other-dynamics-365-projects</id>
+        <link href="https://365community.online/why-field-service-isnt-like-your-other-dynamics-365-projects"/>
+        <updated>2026-11-18T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For Microsoft partners with a Sales or Customer Service practice. Why Field Service behaves like an ERP deployment, and how we deliver it behind you.]]></summary>
+        <author>
+            <name>Proximo 3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiring a SharePoint or Microsoft 365 Developer? What to Check Before You Start]]></title>
+        <id>https://365community.online/hiring-a-sharepoint-or-microsoft-365-developer-what-to-check-before-you-start</id>
+        <link href="https://365community.online/hiring-a-sharepoint-or-microsoft-365-developer-what-to-check-before-you-start"/>
+        <updated>2026-11-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hiring a SharePoint or Microsoft 365 developer? What to prepare, the questions to ask, the red flags to watch for, and what a sensible first project looks like.]]></summary>
+        <author>
+            <name>Billy Peralta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From canvas to run: a better Logic Apps Automation experience]]></title>
+        <id>https://365community.online/from-canvas-to-run-a-better-logic-apps-automation-experience</id>
+        <link href="https://365community.online/from-canvas-to-run-a-better-logic-apps-automation-experience"/>
+        <updated>2026-11-18T04:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Building a workflow is only the beginning. A few weeks later, someone needs to add an approval, change a condition, or understand why an order took an unexpected path. Those changes should be as approachable as creating the workflow in…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernize applications and databases together with the Modernize CLI]]></title>
+        <id>https://365community.online/modernize-applications-and-databases-together-with-the-modernize-cli</id>
+        <link href="https://365community.online/modernize-applications-and-databases-together-with-the-modernize-cli"/>
+        <updated>2026-11-18T01:44:14.000Z</updated>
+        <summary type="html"><![CDATA[An application might need a framework upgrade, dependency updates, or a move to Azure. But behind that application is often a database that needs its own modernization decisions: Is the SQL Server workload ready to move? Which Azure SQL target…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot Studio Hooks Explained: Make One Rule Run Every Time]]></title>
         <id>https://365community.online/copilot-studio-hooks-explained-make-one-rule-run-every-time</id>
@@ -51275,127 +51376,6 @@ Continue reading ‘Run settings for SysTest’ »]]></summary>
         <link href="https://365community.online/manage-solution-dependencies-easily-through-the-refreshed-look-dataverse"/>
         <updated>2024-11-19T20:30:00.000Z</updated>
         <summary type="html"><![CDATA[In Dataverse, solution dependencies are a vital aspect of managing and deploying applications. Dependencies ensure that required components are present for a solution to work seamlessly across environments. However, with complex solutions, understanding and managing these dependencies can become overwhelming. The updated dependencies page is designed to simplify dependency management by… Continue Reading Nishant Rana’s […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Scottish Summit 2024 I Blade Sponsor I Riada Consultancy – YouTube]]></title>
-        <id>https://365community.online/introducing-scottish-summit-2024-i-blade-sponsor-i-riada-consultancy-youtube-2</id>
-        <link href="https://365community.online/introducing-scottish-summit-2024-i-blade-sponsor-i-riada-consultancy-youtube-2"/>
-        <updated>2024-11-19T15:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Riada Consultancy helps technology companies align and develop their marketing to achieve revenue, impact and growth. We help leaders and teams incorporate the right marketing tools, tactics and activities to achieve their business goals and objectives. Every organisation is different and constantly needs to evolve by bringing together the people, processes and the technology that […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Scottish Summit 2024 I Digital Sponsor I Proximo 3 – YouTube]]></title>
-        <id>https://365community.online/introducing-scottish-summit-2024-i-digital-sponsor-i-proximo-3-youtube</id>
-        <link href="https://365community.online/introducing-scottish-summit-2024-i-digital-sponsor-i-proximo-3-youtube"/>
-        <updated>2024-11-19T15:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Proximo 3 as a Digital Sponsor at this year’s Scottish Summit! Proximo 3 are experts in Power Platform and Dynamics 365 led by a team of trusted Microsoft MVPs with over 40 years combined industry experience and strong connections within Microsoft and its community. Their consultancy practice helps customers maximise any Microsoft project investment […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligent apps: Now created with a plan, optimized with agents, and scaled on a fully managed platform]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/intelligent-apps-now-created-with-a-plan-optimized-with-agents-and-scaled-on-a-fully-managed-platform/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/intelligent-apps-now-created-with-a-plan-optimized-with-agents-and-scaled-on-a-fully-managed-platform/"/>
-        <updated>2024-11-19T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Join us at Microsoft Ignite 2024 to see the newest Power Apps announcements and embrace the era of Copilot-first development.
-The post Intelligent apps: Now created with a plan, optimized with agents, and scaled on a fully managed platform appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Ryan Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Configure Editable Subgrids in Dynamics 365 or Dataverse Forms – YouTube]]></title>
-        <id>https://365community.online/how-to-configure-editable-subgrids-in-dynamics-365-or-dataverse-forms-youtube</id>
-        <link href="https://365community.online/how-to-configure-editable-subgrids-in-dynamics-365-or-dataverse-forms-youtube"/>
-        <updated>2024-11-19T12:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to configure editable subgrids in Dynamics 365 or Dataverse Forms to streamline record management. Editable subgrids allow users to manage related records directly from the parent record form, enhancing efficiency and user experience. This tutorial covers the step-by-step process to add and configure subgrids, ensuring the right settings and permissions are in place […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Create Word Template for Mail Merge]]></title>
-        <id>https://365community.online/word-template-mail-merge-in-business-central-create-word-template-for-mail-merge</id>
-        <link href="https://365community.online/word-template-mail-merge-in-business-central-create-word-template-for-mail-merge"/>
-        <updated>2024-11-19T11:00:44.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. To create a new Word template there is an assisted […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomous Agents are here! (preview)]]></title>
-        <id>https://365community.online/autonomous-agents-are-here-preview</id>
-        <link href="https://365community.online/autonomous-agents-are-here-preview"/>
-        <updated>2024-11-19T09:06:00.000Z</updated>
-        <summary type="html"><![CDATA[If you have been following any of the announcements from Microsoft around Copilot Studio than you might have heard the term autonomous agents before. For you who have no idea what I am talking about, let me explain what this is. An autonomous agent is an AI driven agent (previously known as Copilot) that can […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio: Autonomous Agents are here! (preview) – YouTube]]></title>
-        <id>https://365community.online/copilot-studio-autonomous-agents-are-here-preview-youtube</id>
-        <link href="https://365community.online/copilot-studio-autonomous-agents-are-here-preview-youtube"/>
-        <updated>2024-11-19T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Copilot Studio: Autonomous Agents are here! (preview) An autonomous agent is an AI driven agent (previously known as Copilot) that can automate business processes by making decisions and completing tasks on its own without needing constant human supervision. In this video I will build an autonomous agent that handles a very simple account onboarding process. […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Custom Entity & Add it to a Site Map in Power Apps in MS Dynamics 365 CE – YouTube]]></title>
-        <id>https://365community.online/how-to-create-a-custom-entity-add-it-to-a-site-map-in-power-apps-in-ms-dynamics-365-ce-youtube</id>
-        <link href="https://365community.online/how-to-create-a-custom-entity-add-it-to-a-site-map-in-power-apps-in-ms-dynamics-365-ce-youtube"/>
-        <updated>2024-11-19T09:00:53.000Z</updated>
-        <summary type="html"><![CDATA[This video is a step-by-step guide to understanding and working with entities in Microsoft Dynamics 365 CE. Learn what an entity is, how to create a custom entity, and the process of adding it to a site map using Power Apps. Enhance your knowledge of customizing Dynamics 365 to suit your business needs effortlessly. Whether […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Assign Leads Without Code Using Lead Scoring & Work Assignment]]></title>
-        <id>https://365community.online/auto-assign-leads-without-code-using-lead-scoring-work-assignment</id>
-        <link href="https://365community.online/auto-assign-leads-without-code-using-lead-scoring-work-assignment"/>
-        <updated>2024-11-19T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve written about creating your Lead Scoring models in Customer Insights – Journeys, and also explained how the Lead Scoring Qualification functionality works. I’m not really keen on the Qualification process as it’s not the right approach for everyone and it doesn’t assign Leads to people based on them reaching a specific score. However, if […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clone Records in Microsoft Dynamics 365 CRM!]]></title>
-        <id>https://365community.online/clone-records-in-microsoft-dynamics-365-crm</id>
-        <link href="https://365community.online/clone-records-in-microsoft-dynamics-365-crm"/>
-        <updated>2024-11-19T06:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a customer service team at a busy call center handling a flood of new requests and inquiries. Each record, including service requests and support tickets, requires meticulous manual entry, which can consume up to 40% of an employee’s time and lead to errors. Most of these requests/inquiries are similar in nature, but reps still […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Contact Center – Manage Chat SPAM]]></title>
-        <id>https://365community.online/dynamics-365-contact-center-manage-chat-spam</id>
-        <link href="https://365community.online/dynamics-365-contact-center-manage-chat-spam"/>
-        <updated>2024-11-19T04:25:31.000Z</updated>
-        <summary type="html"><![CDATA[In this post I will suggest some basic steps worth considering if you’re trying to reduce chat spam when using Microsoft’s Dynamics 365 Contact Center. I have previously explained how you should limit access to your chat widget to specific domains. If you haven’t configured your widget to only show from your domains … then […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Copilot to Create and Explain Formulas – Power Apps]]></title>
-        <id>https://365community.online/using-copilot-to-create-and-explain-formulas-power-apps</id>
-        <link href="https://365community.online/using-copilot-to-create-and-explain-formulas-power-apps"/>
-        <updated>2024-11-18T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using the new features – Create a formula (preview) and Explain this formula we can now easily write, edit, and understand formulas in Power Apps. To enable it, navigate to switch on – Settings >> Updates >> Preview >> Copilot for formulas Here in the sample app below, we are trying to set the Items […]]]></summary>
         <author>
             <name>Nishant Rana</name>
         </author>
