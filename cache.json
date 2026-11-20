@@ -378,16 +378,6 @@
           "wordCount": 3062,
           "title": "D365FO Integration: Import Sales Orders from an External Web Application",
           "imageUrl": "https://denistrunin.com/static/e3b127d6c2dd2fec7f62873bc59fcce4/62b1f/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/ax2012-howtosupport/",
-          "author": null,
-          "description": "Optimizing and maintaining a legacy Dynamics AX system can be challenging. This guide provides actionable steps, from technical audits to performance monitoring, helping you keep your system running smoothly.",
-          "link": "https://denistrunin.com/ax2012-howtosupport/",
-          "publishedOn": "2024-11-19T22:12:03.000Z",
-          "wordCount": 1672,
-          "title": "Optimizing Your Legacy Dynamics AX System(AX2012, AX2009, AX40)",
-          "imageUrl": "https://denistrunin.com/static/f798314f8a60c79614a78f77578d071f/d4be3/logo.png"
         }
       ]
     },
@@ -396,6 +386,16 @@
       "feedUrl": "https://d365fotechexpert.blogspot.com/feeds/posts/default",
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2026/11/generate-multi-sheet-excel-file-from.html",
+          "author": null,
+          "description": "Purpose\nThe purpose of this document is to explain how to generate a single Excel workbook containing two worksheets from an SSRS report in Microsoft Dynamics 365 Finance and Operations (D365FO).\nIn this example:\n\nThe Details worksheet displays the account numbers and names of the top 10 vendors, ordered by vendor account number.\n\nThe Summary worksheet displays the total number of vendors included in the Details worksheet.\n\nHere, “top 10” means the first 10 vendors ordered by account number—not vendors ranked by balance or transaction value.\nThis functionality can be useful for:\n\nPresenting detailed records and their summary in one Excel workbook.\n\nProviding business users with a report that is easy to review.\n\nAvoiding manual preparation of separate detail and summary files.\n\nDemonstratin…",
+          "link": "https://d365fotechexpert.blogspot.com/2026/11/generate-multi-sheet-excel-file-from.html",
+          "publishedOn": "2026-11-19T15:07:00.032Z",
+          "wordCount": null,
+          "title": "Generate Multi-Sheet Excel File from SSRS Report in D365FO",
+          "imageUrl": null
+        },
         {
           "id": "https://d365fotechexpert.blogspot.com/2026/11/configure-batch-task-dependency-in.html",
           "author": null,
@@ -568,6 +568,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/diagnose-dashboard-for-unified-routing-not-working-after-following-the-ms-learn-setup",
+          "author": "Linn Zaw Win",
+          "description": "We set up the Diagnose dashboard (real-time analytics for Unified Routing) by following the MS Learn article step by step. The dashboard still didn't work, and it took a few MS Support tickets to get it working. We hit different…",
+          "link": "https://365community.online/diagnose-dashboard-for-unified-routing-not-working-after-following-the-ms-learn-setup",
+          "publishedOn": "2026-11-19T10:06:12.000Z",
+          "wordCount": 2574,
+          "title": "Diagnose Dashboard for Unified Routing Not Working After Following the MS Learn Setup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/from-events-to-decisions-real-time-logistics-with-microsoft-fabric-and-microsoft-decision-1-1",
+          "author": "Microsoft Tech Community",
+          "description": "In logistics, every single shipment carries inherent risks. When delivery timelines are tied to contractual outcomes, or regulatory implications, that adds to the complexity of how the shipment provider should handle it. Often, such agencies implement rule-based systems to deal…",
+          "link": "https://365community.online/from-events-to-decisions-real-time-logistics-with-microsoft-fabric-and-microsoft-decision-1-1",
+          "publishedOn": "2026-11-19T09:44:55.000Z",
+          "wordCount": 2561,
+          "title": "From Events to Decisions: Real-Time Logistics with Microsoft Fabric and Microsoft-Decision-1.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-model-watches-sewer-cctv-with-azure-content-understanding-in-microsoft-foundry",
+          "author": "Microsoft Tech Community",
+          "description": "A city crew drives a camera through a sewer pipe and records everything. The footage lands in SharePoint, and then someone has to watch it, every minute of it, pausing to log each crack, root intrusion, and joint offset against…",
+          "link": "https://365community.online/the-model-watches-sewer-cctv-with-azure-content-understanding-in-microsoft-foundry",
+          "publishedOn": "2026-11-19T08:00:00.000Z",
+          "wordCount": 2841,
+          "title": "The Model Watches: Sewer CCTV with Azure Content Understanding in Microsoft Foundry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/citrix-daas-profiles-flex-profiles-that-outlive-the-desktop",
+          "author": "Microsoft Tech Community",
+          "description": "Desktops are temporary, but a user's work shouldn't be. Virtual desktops are routinely reassigned, reimaged, and reprovisioned, yet users still expect their settings, files, and personalized experience to be there every time they sign in.  Citrix DaaS Profiles Flex, an…",
+          "link": "https://365community.online/citrix-daas-profiles-flex-profiles-that-outlive-the-desktop",
+          "publishedOn": "2026-11-19T05:27:25.000Z",
+          "wordCount": 2723,
+          "title": "Citrix DaaS™ Profiles Flex: Profiles that outlive the desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/designing-github-actions-runners-on-private-aks-with-a-secured-azure-virtual-wan-hub",
+          "author": "Microsoft Tech Community",
+          "description": "Self-hosted GitHub Actions runners can execute workflows close to private deployment targets without making those targets publicly reachable. That network access also makes the runner environment part of the security boundary. A workflow can use the connectivity and credentials available…",
+          "link": "https://365community.online/designing-github-actions-runners-on-private-aks-with-a-secured-azure-virtual-wan-hub",
+          "publishedOn": "2026-11-19T05:09:10.000Z",
+          "wordCount": 5763,
+          "title": "Designing GitHub Actions Runners on Private AKS with a Secured Azure Virtual WAN Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/what-your-service-bus-messages-can-tell-you-about-your-business",
+          "author": "Microsoft Tech Community",
+          "description": "Which business decisions could benefit from the information already moving through your applications? The messages exchanged through Azure Service Bus can carry details that matter beyond the application receiving them. Connecting Service Bus to Microsoft Fabric lets you analyze those…",
+          "link": "https://365community.online/what-your-service-bus-messages-can-tell-you-about-your-business",
+          "publishedOn": "2026-11-19T02:19:54.000Z",
+          "wordCount": 2465,
+          "title": "What your Service Bus messages can tell you about your business",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/why-ai-answers-from-sharepoint-cite-outdated-documents-and-how-to-stop-it",
           "author": "Kaspars Jurjāns",
           "description": "One procedure in SharePoint can exist as the current version, older versions, a minor draft and copies elsewhere. Which of them reach the AI index decides whether the answer is current, and a simple test shows what your assistant reads.",
@@ -595,6 +655,16 @@
           "publishedOn": "2026-11-18T09:14:47.000Z",
           "wordCount": 3065,
           "title": "Azure Elastic SAN Next Generation public preview: Mission-critical performance & cloud-native scale",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-timeline-doesnt-have-to-look-like-this",
+          "author": "Thomas Sandsør",
+          "description": "An open-source PCF control reimagines the Dataverse timeline without changing underlying data, licensing, or model-driven app structure. It highlights overdue and upcoming activities, groups emails, supports content search and flexible filtering, and enables inline editing through a preview panel. The…",
+          "link": "https://365community.online/the-timeline-doesnt-have-to-look-like-this",
+          "publishedOn": "2026-11-18T09:11:00.000Z",
+          "wordCount": 1993,
+          "title": "The Timeline Doesn’t Have to Look Like This",
           "imageUrl": null
         },
         {
@@ -39116,66 +39186,6 @@
           "wordCount": 1072,
           "title": "From Messy to Manageable: Cleanly Load Dataverse Tables in Power BI",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/harnessing-ai-and-coding-tools-for-modern-development-with-andrzej-zwierzchowski-youtube",
-          "author": "NZ365Guy",
-          "description": "Harnessing AI and Coding Tools for Modern Development with Andrzej Zwierzchowski Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) FULL SHOW NOTES https://podcast.nz365guy.com/625   What if you could revolutionize your coding process with tools designed by a Microsoft MVP? Join us as we chat with Andrzej Zwierzchowski, a 2023 MVP awardee and development standards lead at […]",
-          "link": "https://365community.online/harnessing-ai-and-coding-tools-for-modern-development-with-andrzej-zwierzchowski-youtube",
-          "publishedOn": "2024-11-20T17:25:33.000Z",
-          "wordCount": 1456,
-          "title": "Harnessing AI and Coding Tools for Modern Development with Andrzej Zwierzchowski – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/microsoft-ignite-2024-recap",
-          "author": "Marcin Siewnicki",
-          "description": "Microsoft Ignite 2024 is Live! There is so much news, information, and updates so it’s really hard to follow all of them and watch online sessions at the same time (or attend in Chicago). I selected the most interesting announcements and explored them a little bit. Let’s check out if this edition is only about […]",
-          "link": "https://365community.online/microsoft-ignite-2024-recap",
-          "publishedOn": "2024-11-20T14:35:11.000Z",
-          "wordCount": 1036,
-          "title": "Microsoft Ignite 2024 Recap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-master-command-bar-buttons-in-powerapps-a-complete-guide-youtube",
-          "author": "Manish chauhan",
-          "description": "Dive into the world of PowerApps command bar buttons! In this video, we’ll explore all four types of buttons and show you how to create each one with practical examples. Whether you’re new to PowerApps or looking to sharpen your skills, this step-by-step guide will help you master button creation and boost your app’s functionality. […]",
-          "link": "https://365community.online/how-to-master-command-bar-buttons-in-powerapps-a-complete-guide-youtube",
-          "publishedOn": "2024-11-20T12:30:06.000Z",
-          "wordCount": 1063,
-          "title": "How to master Command Bar Buttons in Powerapps: A complete guide – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-set-up-custom-insights-trial-in-dynamics-365-youtube",
-          "author": "Manish chauhan",
-          "description": "Ready to transform your customer data? This video shows you how to set up a free Dynamics 365 Customer Insights trial (formerly D365 CE Marketing) in just a few steps. Discover how to unify data, gain actionable insights, and create personalized experiences to drive business growth. Helpful Links:   •How to Set Up a Microsoft Account […]",
-          "link": "https://365community.online/how-to-set-up-custom-insights-trial-in-dynamics-365-youtube",
-          "publishedOn": "2024-11-20T10:00:29.000Z",
-          "wordCount": 1035,
-          "title": "How to set up Custom Insights Trial in Dynamics 365 – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/dynamics-365-business-central-appsource-and-pte-apps-under-the-hood",
-          "author": "Stefano Demiliani",
-          "description": "I think that everyone of you know the difference between a Dynamics 365 Business Central AppSource extension and a per-tenant extension (PTE): AppSource apps are apps that are published in the Microsoft AppSource marketplace (after passing a validation) and that are installed in the global scope. Per-tenant extensions apps (PTEs) are apps created by the […]",
-          "link": "https://365community.online/dynamics-365-business-central-appsource-and-pte-apps-under-the-hood",
-          "publishedOn": "2024-11-20T09:56:12.000Z",
-          "wordCount": 1081,
-          "title": "Dynamics 365 Business Central: AppSource and PTE apps under the hood.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/manage-solution-dependencies-easily-through-the-refreshed-look-dataverse",
-          "author": "Nishant Rana",
-          "description": "In Dataverse, solution dependencies are a vital aspect of managing and deploying applications. Dependencies ensure that required components are present for a solution to work seamlessly across environments. However, with complex solutions, understanding and managing these dependencies can become overwhelming. The updated dependencies page is designed to simplify dependency management by… Continue Reading Nishant Rana’s […]",
-          "link": "https://365community.online/manage-solution-dependencies-easily-through-the-refreshed-look-dataverse",
-          "publishedOn": "2024-11-19T20:30:00.000Z",
-          "wordCount": 1076,
-          "title": "Manage solution dependencies easily through the refreshed look – Dataverse",
-          "imageUrl": null
         }
       ]
     },
@@ -44208,26 +44218,6 @@
           "wordCount": 1470,
           "title": "Electronic reporting: Method returning a list of records",
           "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=10102",
-          "author": "Martin Dráb",
-          "description": "In X++, you can decorate classes and methods with attributes. Attributes were added in AX 2012 (I believe), where the typical use case was a definition of data contracts. They’re much more common in F&O, because they’re also used for CoC and event handlers. For most developers, attributes are something defined by Microsoft and used ...\nContinue reading ‘Getting attributes in X++’ »",
-          "link": "https://dev.goshoom.net/2024/11/getting-attributes-in-x/",
-          "publishedOn": "2024-11-20T10:51:27.000Z",
-          "wordCount": 1307,
-          "title": "Getting attributes in X++",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=10105",
-          "author": "Martin Dráb",
-          "description": "When you execute automated tests of X++ code with SysTest, the test service (SysTestService class) gets called with some parameters, defined in SysTestRunnerSettings: You could, for example, set granularity to execute just unit tests and skip integration tests, or produce a trace file for diagnostics. You may want to use such parameters in automatic processes ...\nContinue reading ‘Run settings for SysTest’ »",
-          "link": "https://dev.goshoom.net/2024/11/run-settings-for-systest/",
-          "publishedOn": "2024-11-20T07:44:56.000Z",
-          "wordCount": 1291,
-          "title": "Run settings for SysTest",
-          "imageUrl": null
         }
       ]
     },
@@ -45227,9 +45217,29 @@
           "description": "ZUGFeRD is an e-invoicing format used in Germany. Organizations running Microsoft Dynamics 365 Finance and Supply Chain Management need to understand its requirements and how to generate compliant e-invoices as they prepare for the transition to electronic invoicing. In our webinar, Support for ZUGFeRD e-Invoices […]\nThe post Support for ZUGFeRD e-Invoices in Germany: Watch the Webinar appeared first on Docentric AX.",
           "link": "https://ax.docentric.com/support-for-zugferd-e-invoices-in-germany-watch-the-webinar/",
           "publishedOn": "2026-11-18T10:21:45.000Z",
-          "wordCount": 11940,
+          "wordCount": 11951,
           "title": "Support for ZUGFeRD e-Invoices in Germany: Watch the Webinar",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2026/11/D365Blog_SupportforZUGFeRDe-InvoicesInGermanyWatchTheWebinar.png"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=35816",
+          "author": "Marek Rolecki",
+          "description": "It started when Miha Vuk connected with Microsoft and was soon joined by Jovica Živković, Klemen Novak, Jim Willsher, and Marek Rolecki to form a small project team. In this article, we share what we learned. Docentric participated in Microsoft's Dynamics 365 ERP in Work […]\nThe post Docentric’s Experience with Microsoft Business Skills and Dynamics 365 ERP MCP Server appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/docentrics-experience-with-microsoft-business-skills-and-dynamics-365-erp-mcp-server/",
+          "publishedOn": "2026-11-17T13:07:08.000Z",
+          "wordCount": 13028,
+          "title": "Docentric’s Experience with Microsoft Business Skills and Dynamics 365 ERP MCP Server",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2026/11/D365Blog_DocentricExperience_Title.jpeg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=35813",
+          "author": "Ana Gligorijevic",
+          "description": "Microsoft Business Skills and the Dynamics 365 ERP MCP server provide two complementary capabilities for AI agents: understanding how to perform a business process and having the tools to execute it in Dynamics 365 Finance and Operations (D365FO). These capabilities are also part of Microsoft's […]\nThe post How Microsoft Business Skills and the Dynamics 365 ERP MCP Server Work Together appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/how-microsoft-business-skills-and-the-dynamics-365-erp-mcp-server-work-together/",
+          "publishedOn": "2026-11-17T12:54:46.000Z",
+          "wordCount": 13519,
+          "title": "How Microsoft Business Skills and the Dynamics 365 ERP MCP Server Work Together",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2026/11/D365Blog_BusinessSkillsAndERPMCP_Title.jpeg"
         },
         {
           "id": "https://ax.docentric.com/?p=35514",
