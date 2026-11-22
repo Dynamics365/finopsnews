@@ -568,6 +568,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/azure-api-management-credential-rotation-guidance",
+          "author": "Microsoft Tech Community",
+          "description": "Find your instances and credentials Step 1: List your API Management instances In the Azure portal, search for API Management services, or use Azure CLI: In one subscription: az apim list --subscription {subscriptionId} --query \"[].{name:name, resourceGroup:resourceGroup}\" --output table Across accessible…",
+          "link": "https://365community.online/azure-api-management-credential-rotation-guidance",
+          "publishedOn": "2026-11-21T02:56:26.000Z",
+          "wordCount": 2401,
+          "title": "Azure API Management: Credential Rotation Guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/amplify-healthcare-intelligence-workshop-recap",
+          "author": "Microsoft Tech Community",
+          "description": "What We Covered The evolving role of data in becoming a frontier AI organization The modern data estate and how Microsoft Fabric unifies analytics Architecture patterns for healthcare data platforms Real-world healthcare and life sciences use cases driving impact Building…",
+          "link": "https://365community.online/amplify-healthcare-intelligence-workshop-recap",
+          "publishedOn": "2026-11-20T23:12:18.000Z",
+          "wordCount": 1639,
+          "title": "Amplify Healthcare Intelligence: Workshop Recap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/azure-api-management-premium-v2-now-supports-private-cname-records",
+          "author": "Microsoft Tech Community",
+          "description": "We’re excited to announce support for private CNAME records in Azure API Management Premium v2, providing greater flexibility for customers deploying API gateways in private network environments. Organizations increasingly rely on private networking to securely expose APIs to internal applications, enterprise…",
+          "link": "https://365community.online/azure-api-management-premium-v2-now-supports-private-cname-records",
+          "publishedOn": "2026-11-20T22:33:28.000Z",
+          "wordCount": 1997,
+          "title": "Azure API Management Premium v2 now supports private CNAME records",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/title-plan-update-november-20-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version.   📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a weekly publishing cadence for the title plan.…",
+          "link": "https://365community.online/title-plan-update-november-20-2026",
+          "publishedOn": "2026-11-20T20:16:00.000Z",
+          "wordCount": 1493,
+          "title": "Title Plan Update – November 20, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot",
+          "author": "Microsoft Tech Community",
+          "description": "OpenAI's GPT-6.2 Sol and GPT-6.2 Astra are now joining the frontier models available in Microsoft Copilot, giving customers more choice as they delegate more complex tasks to AI.  With both models in Copilot, you can match the model to the…",
+          "link": "https://365community.online/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot",
+          "publishedOn": "2026-11-20T20:07:04.000Z",
+          "wordCount": 1702,
+          "title": "Available today: OpenAI’s GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/introducing-azure-sre-agent-in-azure-managed-grafana-the-dashboard-as-command-center",
           "author": "Microsoft Tech Community",
           "description": "We're introducing the Azure SRE Agent integration in Azure Managed Grafana, now in preview. Pair an Azure SRE Agent with your Grafana workspace, and an agent icon appears in the toolbar of your dashboards. Select it, and the agent opens…",
@@ -39096,76 +39146,6 @@
           "wordCount": 1193,
           "title": "Power Pages CSP: Starter Settings",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube",
-          "author": "Scottish Summit",
-          "description": "Explore power platform deployment approaches, lowcode approach using power platform pipelines. source",
-          "link": "https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube",
-          "publishedOn": "2024-11-22T15:13:50.000Z",
-          "wordCount": 951,
-          "title": "Lowcode Deployment approaches with Sabjan Sama – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube",
-          "author": "John Lunn",
-          "description": "Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes Welcome to another episode of AzBytes! In this video, John and Ty dive into the transformative benefits of Azure Arc, a game-changer for managing, monitoring, and updating on-premises servers. Discover how Azure Arc extends Azure management capabilities to on-premises, multi-cloud, […]",
-          "link": "https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube",
-          "publishedOn": "2024-11-22T14:12:40.000Z",
-          "wordCount": 1461,
-          "title": "Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-control-form-visibility-in-power-apps-dynamics-365-ce-youtube",
-          "author": "Manish chauhan",
-          "description": "In this video, we’ll demonstrate how to hide forms in Model-Driven Power Apps within Microsoft Dynamics 365 Customer Engagement (CE). You’ll learn how to manage form visibility by simply setting a form to be hidden, without needing any complex conditions or rules. #powerapps #dynamics365crm #techtutorial #Formvisibility #powerplatform #crm #tutorial #microsoftdynamics #microsoftsoftware #d365crm #d365ce #microsoftcrm #businessapps source",
-          "link": "https://365community.online/how-to-control-form-visibility-in-power-apps-dynamics-365-ce-youtube",
-          "publishedOn": "2024-11-22T13:30:10.000Z",
-          "wordCount": 1021,
-          "title": "How to control Form Visibility in Power Apps (Dynamics 365 CE) – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/manage-accounting-billing-within-dynamics-365-crm-with-quickbooks-integration",
-          "author": "Inogic",
-          "description": "The success of any business hinges on its sales performance and revenue generation. To achieve this, maintaining accurate and organized accounting and billing records is non-negotiable. A flawless balance sheet is the ultimate goal—but have you ever wondered if your accounting and billing are truly in sync with the business entities influencing your bottom line? […]",
-          "link": "https://365community.online/manage-accounting-billing-within-dynamics-365-crm-with-quickbooks-integration",
-          "publishedOn": "2024-11-22T11:53:29.000Z",
-          "wordCount": 1332,
-          "title": "Manage Accounting & Billing within Dynamics 365 CRM with QuickBooks Integration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/work-wellness-festivities-balanced-getmerry4holidays",
-          "author": "Inogic",
-          "description": "The holiday season is a magical time, but the lead-up can often be overwhelming. Between work deadlines, holiday shopping, and festive preparations, maintaining mental peace becomes a challenge. Tools like Maplytics, integrated within Microsoft Dynamics 365, Dataverse, and Power Pages offer innovative solutions to streamline holiday planning, enhance well-being, and manage professional responsibilities effectively. Welcome […]",
-          "link": "https://365community.online/work-wellness-festivities-balanced-getmerry4holidays",
-          "publishedOn": "2024-11-22T08:50:33.000Z",
-          "wordCount": 1256,
-          "title": "Work, Wellness & Festivities Balanced #GetMerry4Holidays",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-send-approval-in-microsoft-dynamics-365-crm-using-power-automate-flow-youtube",
-          "author": "Manish chauhan",
-          "description": "Learn how to simplify and automate your approval processes in Microsoft Dynamics 365 CRM with Power Automate! This step-by-step tutorial will guide you through creating a seamless approval flow, helping you save time and streamline workflows. Whether you need to request manager approval for record updates, manage tasks, or enhance collaboration, this guide covers it […]",
-          "link": "https://365community.online/how-to-send-approval-in-microsoft-dynamics-365-crm-using-power-automate-flow-youtube",
-          "publishedOn": "2024-11-22T07:13:37.000Z",
-          "wordCount": 1056,
-          "title": "How to send Approval in Microsoft Dynamics 365 CRM using Power Automate Flow – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/become-a-propilot-lesson-04-youtube",
-          "author": "Victor Dantas",
-          "description": "Presenter: Daniel Christian Learn Azure OpenAI integration, agent deployment, and the latest Copilot innovations. source",
-          "link": "https://365community.online/become-a-propilot-lesson-04-youtube",
-          "publishedOn": "2024-11-22T04:00:06.000Z",
-          "wordCount": 948,
-          "title": "Become a ProPilot: Lesson 04 – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -44177,16 +44157,6 @@
           "publishedOn": "2025-01-16T09:08:56.000Z",
           "wordCount": 1084,
           "title": "Default fields in Open in Excel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=10124",
-          "author": "Martin Dráb",
-          "description": "I had a scenario in electronic report where I wanted to reuse existing X++ code that generates some temporary table records for reporting purpose. Therefore I wanted electronic reporting to call my X++ method (for a particular context, an invoice in this case) and use the list of records returned by this method. Electronic reporting ...\nContinue reading ‘Electronic reporting: Method returning a list of records’ »",
-          "link": "https://dev.goshoom.net/2024/11/electronic-reporting-method-returning-a-list-of-records/",
-          "publishedOn": "2024-11-22T08:51:37.000Z",
-          "wordCount": 1470,
-          "title": "Electronic reporting: Method returning a list of records",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-21T06:11:51.733Z</updated>
+    <updated>2026-11-22T05:46:04.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure API Management: Credential Rotation Guidance]]></title>
+        <id>https://365community.online/azure-api-management-credential-rotation-guidance</id>
+        <link href="https://365community.online/azure-api-management-credential-rotation-guidance"/>
+        <updated>2026-11-21T02:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Find your instances and credentials Step 1: List your API Management instances In the Azure portal, search for API Management services, or use Azure CLI: In one subscription: az apim list --subscription {subscriptionId} --query "[].{name:name, resourceGroup:resourceGroup}" --output table Across accessible…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify Healthcare Intelligence: Workshop Recap]]></title>
+        <id>https://365community.online/amplify-healthcare-intelligence-workshop-recap</id>
+        <link href="https://365community.online/amplify-healthcare-intelligence-workshop-recap"/>
+        <updated>2026-11-20T23:12:18.000Z</updated>
+        <summary type="html"><![CDATA[What We Covered The evolving role of data in becoming a frontier AI organization The modern data estate and how Microsoft Fabric unifies analytics Architecture patterns for healthcare data platforms Real-world healthcare and life sciences use cases driving impact Building…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure API Management Premium v2 now supports private CNAME records]]></title>
+        <id>https://365community.online/azure-api-management-premium-v2-now-supports-private-cname-records</id>
+        <link href="https://365community.online/azure-api-management-premium-v2-now-supports-private-cname-records"/>
+        <updated>2026-11-20T22:33:28.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce support for private CNAME records in Azure API Management Premium v2, providing greater flexibility for customers deploying API gateways in private network environments. Organizations increasingly rely on private networking to securely expose APIs to internal applications, enterprise…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Title Plan Update – November 20, 2026]]></title>
+        <id>https://365community.online/title-plan-update-november-20-2026</id>
+        <link href="https://365community.online/title-plan-update-november-20-2026"/>
+        <updated>2026-11-20T20:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version.   📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a weekly publishing cadence for the title plan.…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Available today: OpenAI’s GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot]]></title>
+        <id>https://365community.online/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot</id>
+        <link href="https://365community.online/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot"/>
+        <updated>2026-11-20T20:07:04.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's GPT-6.2 Sol and GPT-6.2 Astra are now joining the frontier models available in Microsoft Copilot, giving customers more choice as they delegate more complex tasks to AI.  With both models in Copilot, you can match the model to the…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Azure SRE Agent in Azure Managed Grafana: The Dashboard as Command Center]]></title>
         <id>https://365community.online/introducing-azure-sre-agent-in-azure-managed-grafana-the-dashboard-as-command-center</id>
@@ -51283,87 +51333,6 @@ The post Email Collection Letters without Attached Report in D365FO appeared fir
         <summary type="html"><![CDATA[While working on CSP (Content Security Policy) settings on Power Pages to make the site external connections or loading of external references more restrictive, we can find a few challenges if we restrict all to ‘self’, we will break a lot of out-of-the-box functionality as some fonts, scripts and content are by default hosted outside […]]]></summary>
         <author>
             <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lowcode Deployment approaches with Sabjan Sama – YouTube]]></title>
-        <id>https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube</id>
-        <link href="https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube"/>
-        <updated>2024-11-22T15:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Explore power platform deployment approaches, lowcode approach using power platform pipelines. source]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes – YouTube]]></title>
-        <id>https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube</id>
-        <link href="https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube"/>
-        <updated>2024-11-22T14:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes Welcome to another episode of AzBytes! In this video, John and Ty dive into the transformative benefits of Azure Arc, a game-changer for managing, monitoring, and updating on-premises servers. Discover how Azure Arc extends Azure management capabilities to on-premises, multi-cloud, […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to control Form Visibility in Power Apps (Dynamics 365 CE) – YouTube]]></title>
-        <id>https://365community.online/how-to-control-form-visibility-in-power-apps-dynamics-365-ce-youtube</id>
-        <link href="https://365community.online/how-to-control-form-visibility-in-power-apps-dynamics-365-ce-youtube"/>
-        <updated>2024-11-22T13:30:10.000Z</updated>
-        <summary type="html"><![CDATA[In this video, we’ll demonstrate how to hide forms in Model-Driven Power Apps within Microsoft Dynamics 365 Customer Engagement (CE). You’ll learn how to manage form visibility by simply setting a form to be hidden, without needing any complex conditions or rules. #powerapps #dynamics365crm #techtutorial #Formvisibility #powerplatform #crm #tutorial #microsoftdynamics #microsoftsoftware #d365crm #d365ce #microsoftcrm #businessapps source]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage Accounting & Billing within Dynamics 365 CRM with QuickBooks Integration]]></title>
-        <id>https://365community.online/manage-accounting-billing-within-dynamics-365-crm-with-quickbooks-integration</id>
-        <link href="https://365community.online/manage-accounting-billing-within-dynamics-365-crm-with-quickbooks-integration"/>
-        <updated>2024-11-22T11:53:29.000Z</updated>
-        <summary type="html"><![CDATA[The success of any business hinges on its sales performance and revenue generation. To achieve this, maintaining accurate and organized accounting and billing records is non-negotiable. A flawless balance sheet is the ultimate goal—but have you ever wondered if your accounting and billing are truly in sync with the business entities influencing your bottom line? […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic reporting: Method returning a list of records]]></title>
-        <id>https://dev.goshoom.net/?p=10124</id>
-        <link href="https://dev.goshoom.net/2024/11/electronic-reporting-method-returning-a-list-of-records/"/>
-        <updated>2024-11-22T08:51:37.000Z</updated>
-        <summary type="html"><![CDATA[I had a scenario in electronic report where I wanted to reuse existing X++ code that generates some temporary table records for reporting purpose. Therefore I wanted electronic reporting to call my X++ method (for a particular context, an invoice in this case) and use the list of records returned by this method. Electronic reporting ...
-Continue reading ‘Electronic reporting: Method returning a list of records’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work, Wellness & Festivities Balanced #GetMerry4Holidays]]></title>
-        <id>https://365community.online/work-wellness-festivities-balanced-getmerry4holidays</id>
-        <link href="https://365community.online/work-wellness-festivities-balanced-getmerry4holidays"/>
-        <updated>2024-11-22T08:50:33.000Z</updated>
-        <summary type="html"><![CDATA[The holiday season is a magical time, but the lead-up can often be overwhelming. Between work deadlines, holiday shopping, and festive preparations, maintaining mental peace becomes a challenge. Tools like Maplytics, integrated within Microsoft Dynamics 365, Dataverse, and Power Pages offer innovative solutions to streamline holiday planning, enhance well-being, and manage professional responsibilities effectively. Welcome […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to send Approval in Microsoft Dynamics 365 CRM using Power Automate Flow – YouTube]]></title>
-        <id>https://365community.online/how-to-send-approval-in-microsoft-dynamics-365-crm-using-power-automate-flow-youtube</id>
-        <link href="https://365community.online/how-to-send-approval-in-microsoft-dynamics-365-crm-using-power-automate-flow-youtube"/>
-        <updated>2024-11-22T07:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to simplify and automate your approval processes in Microsoft Dynamics 365 CRM with Power Automate! This step-by-step tutorial will guide you through creating a seamless approval flow, helping you save time and streamline workflows. Whether you need to request manager approval for record updates, manage tasks, or enhance collaboration, this guide covers it […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Become a ProPilot: Lesson 04 – YouTube]]></title>
-        <id>https://365community.online/become-a-propilot-lesson-04-youtube</id>
-        <link href="https://365community.online/become-a-propilot-lesson-04-youtube"/>
-        <updated>2024-11-22T04:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Presenter: Daniel Christian Learn Azure OpenAI integration, agent deployment, and the latest Copilot innovations. source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
