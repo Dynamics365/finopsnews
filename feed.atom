@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-22T05:46:04.544Z</updated>
+    <updated>2026-11-23T06:31:20.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teaching AI how your Business works with Dynamics 365 Business Skills]]></title>
+        <id>https://dynamicspedia.com/?p=20757</id>
+        <link href="https://dynamicspedia.com/2026/11/teaching-ai-how-your-business-works-with-dynamics-365-business-skills/"/>
+        <updated>2026-11-22T14:12:11.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago, Microsoft announced new possibilities for Dynamics 365 AI ERP with Work IQ and business skills. This changes how users will interact with the ERP application. Instead of always going into Finance and Operations to find information and execute transactions, instead, users can work through Microsoft Copilot and AI agents. Dynamics 365 […]
+The post Teaching AI how your Business works with Dynamics 365 Business Skills appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ignite 2026: The next era of enterprise AI starts with the infrastructure beneath it]]></title>
+        <id>https://365community.online/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it</id>
+        <link href="https://365community.online/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it"/>
+        <updated>2026-11-22T02:13:31.000Z</updated>
+        <summary type="html"><![CDATA[By Arun Kishan, Technical Fellow and Corporate Vice President, Azure Compute Every major technology shift eventually asks whether infrastructure can turn possibility into dependable progress, and for enterprise AI, that moment is here. As organizations move beyond isolated experiments toward…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotating credentials in Azure API Management]]></title>
+        <id>https://365community.online/rotating-credentials-in-azure-api-management</id>
+        <link href="https://365community.online/rotating-credentials-in-azure-api-management"/>
+        <updated>2026-11-21T22:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Credentials covered by this guidance Subscription keys Named values that contain secrets Backend credentials (headers, query parameters, client certificates) OAuth 2.0 and OpenID Connect client secrets Connection strings (for example, Event Hubs loggers) Credentials written directly into policies How to…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement Virtual WAN Secure Hub with Customer-Owned Public IPs for Firewall using AVM]]></title>
+        <id>https://365community.online/implement-virtual-wan-secure-hub-with-customer-owned-public-ips-for-firewall-using-avm</id>
+        <link href="https://365community.online/implement-virtual-wan-secure-hub-with-customer-owned-public-ips-for-firewall-using-avm"/>
+        <updated>2026-11-21T10:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Azure Virtual WAN provides a managed networking architecture that simplifies connectivity between virtual networks, branch locations, VPN connections, and ExpressRoute connections. At the centre of this architecture is the Virtual Hub, which provides managed connectivity and routing. When Azure Firewall…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure API Management: Credential Rotation Guidance]]></title>
         <id>https://365community.online/azure-api-management-credential-rotation-guidance</id>
@@ -51323,16 +51364,6 @@ The post Email Collection Letters without Attached Report in D365FO appeared fir
         <summary type="html"><![CDATA[After the intro published a week ago: Model-driven app for D365HR I decided to follow up and show you how two solutions can finish each other's processes. This OOB functionality is quite simple and easy to move things from ERP to PP and the other way around. Microsoft describes this add-on as: App that provides […]]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages CSP: Starter Settings]]></title>
-        <id>https://365community.online/power-pages-csp-starter-settings</id>
-        <link href="https://365community.online/power-pages-csp-starter-settings"/>
-        <updated>2024-11-23T12:31:09.000Z</updated>
-        <summary type="html"><![CDATA[While working on CSP (Content Security Policy) settings on Power Pages to make the site external connections or loading of external references more restrictive, we can find a few challenges if we restrict all to ‘self’, we will break a lot of out-of-the-box functionality as some fonts, scripts and content are by default hosted outside […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
         </author>
     </entry>
     <entry>

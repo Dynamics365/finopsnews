@@ -568,6 +568,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it",
+          "author": "Microsoft Tech Community",
+          "description": "By Arun Kishan, Technical Fellow and Corporate Vice President, Azure Compute Every major technology shift eventually asks whether infrastructure can turn possibility into dependable progress, and for enterprise AI, that moment is here. As organizations move beyond isolated experiments toward…",
+          "link": "https://365community.online/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it",
+          "publishedOn": "2026-11-22T02:13:31.000Z",
+          "wordCount": 3164,
+          "title": "Ignite 2026: The next era of enterprise AI starts with the infrastructure beneath it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/rotating-credentials-in-azure-api-management",
+          "author": "Microsoft Tech Community",
+          "description": "Credentials covered by this guidance Subscription keys Named values that contain secrets Backend credentials (headers, query parameters, client certificates) OAuth 2.0 and OpenID Connect client secrets Connection strings (for example, Event Hubs loggers) Credentials written directly into policies How to…",
+          "link": "https://365community.online/rotating-credentials-in-azure-api-management",
+          "publishedOn": "2026-11-21T22:12:12.000Z",
+          "wordCount": 2408,
+          "title": "Rotating credentials in Azure API Management",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/implement-virtual-wan-secure-hub-with-customer-owned-public-ips-for-firewall-using-avm",
+          "author": "Microsoft Tech Community",
+          "description": "Azure Virtual WAN provides a managed networking architecture that simplifies connectivity between virtual networks, branch locations, VPN connections, and ExpressRoute connections. At the centre of this architecture is the Virtual Hub, which provides managed connectivity and routing. When Azure Firewall…",
+          "link": "https://365community.online/implement-virtual-wan-secure-hub-with-customer-owned-public-ips-for-firewall-using-avm",
+          "publishedOn": "2026-11-21T10:27:54.000Z",
+          "wordCount": 2606,
+          "title": "Implement Virtual WAN Secure Hub with Customer-Owned Public IPs for Firewall using AVM",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/azure-api-management-credential-rotation-guidance",
           "author": "Microsoft Tech Community",
           "description": "Find your instances and credentials Step 1: List your API Management instances In the Azure portal, search for API Management services, or use Azure CLI: In one subscription: az apim list --subscription {subscriptionId} --query \"[].{name:name, resourceGroup:resourceGroup}\" --output table Across accessible…",
@@ -39136,16 +39166,6 @@
           "wordCount": 1053,
           "title": "OOB: Power Apps + D365 HR",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/power-pages-csp-starter-settings",
-          "author": "michelcarlo",
-          "description": "While working on CSP (Content Security Policy) settings on Power Pages to make the site external connections or loading of external references more restrictive, we can find a few challenges if we restrict all to ‘self’, we will break a lot of out-of-the-box functionality as some fonts, scripts and content are by default hosted outside […]",
-          "link": "https://365community.online/power-pages-csp-starter-settings",
-          "publishedOn": "2024-11-23T12:31:09.000Z",
-          "wordCount": 1193,
-          "title": "Power Pages CSP: Starter Settings",
-          "imageUrl": null
         }
       ]
     },
@@ -39160,6 +39180,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=20757",
+          "author": "André Arnaud de Calavon",
+          "description": "A few days ago, Microsoft announced new possibilities for Dynamics 365 AI ERP with Work IQ and business skills. This changes how users will interact with the ERP application. Instead of always going into Finance and Operations to find information and execute transactions, instead, users can work through Microsoft Copilot and AI agents. Dynamics 365 […]\nThe post Teaching AI how your Business works with Dynamics 365 Business Skills appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2026/11/teaching-ai-how-your-business-works-with-dynamics-365-business-skills/",
+          "publishedOn": "2026-11-22T14:12:11.000Z",
+          "wordCount": 8749,
+          "title": "Teaching AI how your Business works with Dynamics 365 Business Skills",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2026/11/TeachingAI-1200.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=20694",
           "author": "André Arnaud de Calavon",
