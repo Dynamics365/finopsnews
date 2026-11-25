@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-24T09:00:19.727Z</updated>
+    <updated>2026-11-25T07:39:08.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to Workforce Engagement Management: Importing External Data]]></title>
+        <id>https://365community.online/a-complete-guide-to-workforce-engagement-management-importing-external-data</id>
+        <link href="https://365community.online/a-complete-guide-to-workforce-engagement-management-importing-external-data"/>
+        <updated>2026-11-24T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[In the third part of my series on Dynamics 365 Workforce Engagement Management (WEM) I will cover how we can import data from an external call center system into Dynamics 365 Contact Center. If your organization is moving from another…]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Design Things with AI: From an Idea to a Part I Can Print]]></title>
+        <id>https://365community.online/how-i-design-things-with-ai-from-an-idea-to-a-part-i-can-print</id>
+        <link href="https://365community.online/how-i-design-things-with-ai-from-an-idea-to-a-part-i-can-print"/>
+        <updated>2026-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My workflow for designing physical things with AI in VS Code: code-based CAD, small fit tests, slicer checks, and reusable agents and skills. A Pixel Tag collar holder is the example.]]></summary>
+        <author>
+            <name>Richard Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control hybrid path selection with route maps in Azure Route Server]]></title>
+        <id>https://365community.online/control-hybrid-path-selection-with-route-maps-in-azure-route-server</id>
+        <link href="https://365community.online/control-hybrid-path-selection-with-route-maps-in-azure-route-server"/>
+        <updated>2026-11-23T13:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Azure Route Server uses Border Gateway Protocol (BGP) to exchange routes dynamically with network virtual appliances (NVAs) and with ExpressRoute and VPN gateways in a virtual network (VNet). For maximum resilience, many hybrid designs combine all three connectivity options:…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Exposure to Fix: Connecting Microsoft Perception to Your Image Pipeline]]></title>
+        <id>https://365community.online/from-exposure-to-fix-connecting-microsoft-perception-to-your-image-pipeline</id>
+        <link href="https://365community.online/from-exposure-to-fix-connecting-microsoft-perception-to-your-image-pipeline"/>
+        <updated>2026-11-23T13:40:17.000Z</updated>
+        <summary type="html"><![CDATA[This is Part 2 of a two-part series. Part 1 explained how Microsoft Perception works: red, blue and green team agents, Microsoft-published playbooks, and sessions that record every step. This part puts it to work for an Azure platform team.…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Perception for Azure Platform Teams: How Multi-Agent Security Works]]></title>
+        <id>https://365community.online/microsoft-perception-for-azure-platform-teams-how-multi-agent-security-works</id>
+        <link href="https://365community.online/microsoft-perception-for-azure-platform-teams-how-multi-agent-security-works"/>
+        <updated>2026-11-23T13:39:25.000Z</updated>
+        <summary type="html"><![CDATA[This is Part 1 of a two-part series. Part 1 explains how Microsoft Perception works and why it matters to teams that run Azure infrastructure. Part 2 will connect it to a real image-automation pipeline. 1. Why security operations need…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot Studio Governance: Agent Accounts, What They Are and How to Turn Them On]]></title>
         <id>https://365community.online/copilot-studio-governance-agent-accounts-what-they-are-and-how-to-turn-them-on</id>
@@ -14,6 +64,26 @@
         <summary type="html"><![CDATA[Turn on Copilot Studio agent accounts: Frontier enrollment, template activation, Early release environment, identity planning and licenses, step by step.]]></summary>
         <author>
             <name>Valantis Avramopoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build on-device text and speech experiences with Foundry Local for Android]]></title>
+        <id>https://365community.online/build-on-device-text-and-speech-experiences-with-foundry-local-for-android</id>
+        <link href="https://365community.online/build-on-device-text-and-speech-experiences-with-foundry-local-for-android"/>
+        <updated>2026-11-23T10:17:35.000Z</updated>
+        <summary type="html"><![CDATA[You have a voice note on your phone and want to turn it into something useful like a short summary, a clearer message or a question for another model. Before building the rest of the app, there are a few…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W3C Web of Things is now fully integrated in Azure IoT Operations]]></title>
+        <id>https://365community.online/w3c-web-of-things-is-now-fully-integrated-in-azure-iot-operations</id>
+        <link href="https://365community.online/w3c-web-of-things-is-now-fully-integrated-in-azure-iot-operations"/>
+        <updated>2026-11-23T06:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Industrial integration projects usually begin with a deceptively simple question: what is this asset, and how do I talk to it? With OPC UA, much of that answer travels with the machine. With a Modbus power meter, a REST-enabled sensor…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -51314,56 +51384,6 @@ The post Email Collection Letters without Attached Report in D365FO appeared fir
         <summary type="html"><![CDATA[Recently we had a requirement to make different sets of fields mandatory and non-mandatory on the Quick Create form for Contact, based on the parent record type it is opened from. Quick Create Form As we cannot have multiple Quick Create Form specified for different forms, we had to use JavaScript to identify the parent […]]]></summary>
         <author>
             <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing AI and Power Platform for Business Success with Vibhuti Dadhich – YouTube]]></title>
-        <id>https://365community.online/harnessing-ai-and-power-platform-for-business-success-with-vibhuti-dadhich-youtube</id>
-        <link href="https://365community.online/harnessing-ai-and-power-platform-for-business-success-with-vibhuti-dadhich-youtube"/>
-        <updated>2024-11-25T17:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Harnessing AI and Power Platform for Business Success with Vibhuti Dadhich Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) Unravel the impact of AI in document processing with Vibhuti Dadhich! Learn how AI integration with tools like Microsoft Teams and SAP is reshaping industries. Listen now for a deep dive into AI-driven automation! What You Will […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to prevent duplicate contacts in d365 CRM via Plugin(Pre-Operation) with email Validation – YouTube]]></title>
-        <id>https://365community.online/how-to-prevent-duplicate-contacts-in-d365-crm-via-pluginpre-operation-with-email-validation-youtube</id>
-        <link href="https://365community.online/how-to-prevent-duplicate-contacts-in-d365-crm-via-pluginpre-operation-with-email-validation-youtube"/>
-        <updated>2024-11-25T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create a Pre-Operation Plugin in Dynamics 365 CRM to prevent duplicate contacts based on email addresses. In this step-by-step tutorial, we implement a plugin that checks for existing records with the same email and blocks duplicate contact creation. #dynamics365 #crm #email #microsoftsoftware #microsoftdynamics #crmsoftware #techtutorial #plugin #Pre-OperationPlugin #errormessage #duplicateprevention #tutorial #d365crm source]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 .𝐍𝐞𝐭 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐫𝐨𝐥𝐞 – YouTube]]></title>
-        <id>https://365community.online/%f0%9d%90%93%f0%9d%90%a2%f0%9d%90%a9%f0%9d%90%ac-%f0%9d%90%9f%f0%9d%90%a8%f0%9d%90%ab-%f0%9d%90%9e%f0%9d%90%a7%f0%9d%90%a1%f0%9d%90%9a%f0%9d%90%a7%f0%9d%90%9c%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%9e</id>
-        <link href="https://365community.online/%f0%9d%90%93%f0%9d%90%a2%f0%9d%90%a9%f0%9d%90%ac-%f0%9d%90%9f%f0%9d%90%a8%f0%9d%90%ab-%f0%9d%90%9e%f0%9d%90%a7%f0%9d%90%a1%f0%9d%90%9a%f0%9d%90%a7%f0%9d%90%9c%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%9e"/>
-        <updated>2024-11-25T12:04:47.000Z</updated>
-        <summary type="html"><![CDATA[𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 .𝐍𝐞𝐭 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐫𝐨𝐥𝐞 source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Field Controls in MS  Dynamics 365 CE – YouTube]]></title>
-        <id>https://365community.online/how-to-add-field-controls-in-ms-dynamics-365-ce-youtube</id>
-        <link href="https://365community.online/how-to-add-field-controls-in-ms-dynamics-365-ce-youtube"/>
-        <updated>2024-11-25T12:01:06.000Z</updated>
-        <summary type="html"><![CDATA[In this video, we’ll show you how to create a star rating field and a budget input field (using the currency data type) in Model-Driven Power Apps within Dynamics 365 CE. You’ll learn how to implement these fields to capture user feedback and budget data seamlessly in your app. #dynamics365 #powerapps #crmdevelopment #starrating #budget #microsoftdynamics #customfields #techtutorial #dynamics365crm #d365crm #d365ce […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Create Mail Merge from Business Central Using a Word Template]]></title>
-        <id>https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-using-a-word-template</id>
-        <link href="https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-using-a-word-template"/>
-        <updated>2024-11-25T11:00:43.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. With Word templates created, using them is quite easy to […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>

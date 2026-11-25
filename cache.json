@@ -568,6 +568,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/a-complete-guide-to-workforce-engagement-management-importing-external-data",
+          "author": "Dian Taylor",
+          "description": "In the third part of my series on Dynamics 365 Workforce Engagement Management (WEM) I will cover how we can import data from an external call center system into Dynamics 365 Contact Center. If your organization is moving from another…",
+          "link": "https://365community.online/a-complete-guide-to-workforce-engagement-management-importing-external-data",
+          "publishedOn": "2026-11-24T16:38:00.000Z",
+          "wordCount": 1504,
+          "title": "A Complete Guide to Workforce Engagement Management: Importing External Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-i-design-things-with-ai-from-an-idea-to-a-part-i-can-print",
+          "author": "Richard Wilson",
+          "description": "My workflow for designing physical things with AI in VS Code: code-based CAD, small fit tests, slicer checks, and reusable agents and skills. A Pixel Tag collar holder is the example.",
+          "link": "https://365community.online/how-i-design-things-with-ai-from-an-idea-to-a-part-i-can-print",
+          "publishedOn": "2026-11-24T00:00:00.000Z",
+          "wordCount": 5187,
+          "title": "How I Design Things with AI: From an Idea to a Part I Can Print",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/control-hybrid-path-selection-with-route-maps-in-azure-route-server",
+          "author": "Microsoft Tech Community",
+          "description": "Introduction Azure Route Server uses Border Gateway Protocol (BGP) to exchange routes dynamically with network virtual appliances (NVAs) and with ExpressRoute and VPN gateways in a virtual network (VNet). For maximum resilience, many hybrid designs combine all three connectivity options:…",
+          "link": "https://365community.online/control-hybrid-path-selection-with-route-maps-in-azure-route-server",
+          "publishedOn": "2026-11-23T13:58:42.000Z",
+          "wordCount": 3530,
+          "title": "Control hybrid path selection with route maps in Azure Route Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/from-exposure-to-fix-connecting-microsoft-perception-to-your-image-pipeline",
+          "author": "Microsoft Tech Community",
+          "description": "This is Part 2 of a two-part series. Part 1 explained how Microsoft Perception works: red, blue and green team agents, Microsoft-published playbooks, and sessions that record every step. This part puts it to work for an Azure platform team.…",
+          "link": "https://365community.online/from-exposure-to-fix-connecting-microsoft-perception-to-your-image-pipeline",
+          "publishedOn": "2026-11-23T13:40:17.000Z",
+          "wordCount": 3545,
+          "title": "From Exposure to Fix: Connecting Microsoft Perception to Your Image Pipeline",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/microsoft-perception-for-azure-platform-teams-how-multi-agent-security-works",
+          "author": "Microsoft Tech Community",
+          "description": "This is Part 1 of a two-part series. Part 1 explains how Microsoft Perception works and why it matters to teams that run Azure infrastructure. Part 2 will connect it to a real image-automation pipeline. 1. Why security operations need…",
+          "link": "https://365community.online/microsoft-perception-for-azure-platform-teams-how-multi-agent-security-works",
+          "publishedOn": "2026-11-23T13:39:25.000Z",
+          "wordCount": 3376,
+          "title": "Microsoft Perception for Azure Platform Teams: How Multi-Agent Security Works",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/copilot-studio-governance-agent-accounts-what-they-are-and-how-to-turn-them-on",
           "author": "Valantis Avramopoulos",
           "description": "Turn on Copilot Studio agent accounts: Frontier enrollment, template activation, Early release environment, identity planning and licenses, step by step.",
@@ -575,6 +625,26 @@
           "publishedOn": "2026-11-23T10:41:43.000Z",
           "wordCount": 4051,
           "title": "Copilot Studio Governance: Agent Accounts, What They Are and How to Turn Them On",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/build-on-device-text-and-speech-experiences-with-foundry-local-for-android",
+          "author": "Microsoft Tech Community",
+          "description": "You have a voice note on your phone and want to turn it into something useful like a short summary, a clearer message or a question for another model. Before building the rest of the app, there are a few…",
+          "link": "https://365community.online/build-on-device-text-and-speech-experiences-with-foundry-local-for-android",
+          "publishedOn": "2026-11-23T10:17:35.000Z",
+          "wordCount": 3262,
+          "title": "Build on-device text and speech experiences with Foundry Local for Android",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/w3c-web-of-things-is-now-fully-integrated-in-azure-iot-operations",
+          "author": "Microsoft Tech Community",
+          "description": "Industrial integration projects usually begin with a deceptively simple question: what is this asset, and how do I talk to it? With OPC UA, much of that answer travels with the machine. With a Modbus power meter, a REST-enabled sensor…",
+          "link": "https://365community.online/w3c-web-of-things-is-now-fully-integrated-in-azure-iot-operations",
+          "publishedOn": "2026-11-23T06:40:08.000Z",
+          "wordCount": 2583,
+          "title": "W3C Web of Things is now fully integrated in Azure IoT Operations",
           "imageUrl": null
         },
         {
@@ -39115,56 +39185,6 @@
           "publishedOn": "2024-11-25T20:30:00.000Z",
           "wordCount": 1126,
           "title": "Using Xrm.Utility.getPageContext().input to identity or get parent record details for the Quick Create form – Dataverse / Dynamics 365",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/harnessing-ai-and-power-platform-for-business-success-with-vibhuti-dadhich-youtube",
-          "author": "NZ365Guy",
-          "description": "Harnessing AI and Power Platform for Business Success with Vibhuti Dadhich Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) Unravel the impact of AI in document processing with Vibhuti Dadhich! Learn how AI integration with tools like Microsoft Teams and SAP is reshaping industries. Listen now for a deep dive into AI-driven automation! What You Will […]",
-          "link": "https://365community.online/harnessing-ai-and-power-platform-for-business-success-with-vibhuti-dadhich-youtube",
-          "publishedOn": "2024-11-25T17:31:44.000Z",
-          "wordCount": 1879,
-          "title": "Harnessing AI and Power Platform for Business Success with Vibhuti Dadhich – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-prevent-duplicate-contacts-in-d365-crm-via-pluginpre-operation-with-email-validation-youtube",
-          "author": "Manish chauhan",
-          "description": "Learn how to create a Pre-Operation Plugin in Dynamics 365 CRM to prevent duplicate contacts based on email addresses. In this step-by-step tutorial, we implement a plugin that checks for existing records with the same email and blocks duplicate contact creation. #dynamics365 #crm #email #microsoftsoftware #microsoftdynamics #crmsoftware #techtutorial #plugin #Pre-OperationPlugin #errormessage #duplicateprevention #tutorial #d365crm source",
-          "link": "https://365community.online/how-to-prevent-duplicate-contacts-in-d365-crm-via-pluginpre-operation-with-email-validation-youtube",
-          "publishedOn": "2024-11-25T13:00:01.000Z",
-          "wordCount": 1028,
-          "title": "How to prevent duplicate contacts in d365 CRM via Plugin(Pre-Operation) with email Validation – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/%f0%9d%90%93%f0%9d%90%a2%f0%9d%90%a9%f0%9d%90%ac-%f0%9d%90%9f%f0%9d%90%a8%f0%9d%90%ab-%f0%9d%90%9e%f0%9d%90%a7%f0%9d%90%a1%f0%9d%90%9a%f0%9d%90%a7%f0%9d%90%9c%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%9e",
-          "author": "Sourav Raj",
-          "description": "𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 .𝐍𝐞𝐭 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐫𝐨𝐥𝐞 source",
-          "link": "https://365community.online/%f0%9d%90%93%f0%9d%90%a2%f0%9d%90%a9%f0%9d%90%ac-%f0%9d%90%9f%f0%9d%90%a8%f0%9d%90%ab-%f0%9d%90%9e%f0%9d%90%a7%f0%9d%90%a1%f0%9d%90%9a%f0%9d%90%a7%f0%9d%90%9c%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%9e",
-          "publishedOn": "2024-11-25T12:04:47.000Z",
-          "wordCount": 952,
-          "title": "𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 .𝐍𝐞𝐭 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐫𝐨𝐥𝐞 – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-add-field-controls-in-ms-dynamics-365-ce-youtube",
-          "author": "Manish chauhan",
-          "description": "In this video, we’ll show you how to create a star rating field and a budget input field (using the currency data type) in Model-Driven Power Apps within Dynamics 365 CE. You’ll learn how to implement these fields to capture user feedback and budget data seamlessly in your app. #dynamics365 #powerapps #crmdevelopment #starrating #budget #microsoftdynamics #customfields #techtutorial #dynamics365crm #d365crm #d365ce […]",
-          "link": "https://365community.online/how-to-add-field-controls-in-ms-dynamics-365-ce-youtube",
-          "publishedOn": "2024-11-25T12:01:06.000Z",
-          "wordCount": 1026,
-          "title": "How to Add Field Controls in MS  Dynamics 365 CE – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-using-a-word-template",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. With Word templates created, using them is quite easy to […]",
-          "link": "https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-using-a-word-template",
-          "publishedOn": "2024-11-25T11:00:43.000Z",
-          "wordCount": 1110,
-          "title": "Word Template Mail Merge in Business Central: Create Mail Merge from Business Central Using a Word Template",
           "imageUrl": null
         }
       ]
