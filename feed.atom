@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-26T07:28:25.950Z</updated>
+    <updated>2026-11-27T07:25:13.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Record Didn’t Save, So I Built an AI Agent to Find Out Why]]></title>
+        <id>https://365community.online/my-record-didnt-save-so-i-built-an-ai-agent-to-find-out-why</id>
+        <link href="https://365community.online/my-record-didnt-save-so-i-built-an-ai-agent-to-find-out-why"/>
+        <updated>2026-11-26T14:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Every Dataverse admin knows the "my record didn't save" message. I built a Copilot Studio agent that digs through System Jobs and plug-in traces for me, plus the agent and multi-agent practices I'd use again.]]></summary>
+        <author>
+            <name>Rehan Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Applications post Ignite 2026]]></title>
+        <id>https://365community.online/business-applications-post-ignite-2026</id>
+        <link href="https://365community.online/business-applications-post-ignite-2026"/>
+        <updated>2026-11-25T22:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Ignite 2026 was held in November at San Francisco. And if you work with Power Platform / Copilot Studio or Dynamics 365 there was a lot to take in. The common thread across the week was clear: Copilot is…]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Change Radar: Is It Going to Rain on Your Barbecue?]]></title>
         <id>https://365community.online/change-radar-is-it-going-to-rain-on-your-barbecue</id>
@@ -51334,96 +51354,6 @@ The post Email Collection Letters without Attached Report in D365FO appeared fir
         <summary type="html"><![CDATA[Application ID and client secret were the preferred way of authenticating Azure DevOps (ADO) to a Dataverse instance. For a few months, there has been a new way of doing this part, workload identity federation. This blog post will show you how to set up Workload Identity federation for ADO connection. The service connection we […]]]></summary>
         <author>
             <name>Benedikt Bergmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central – Sustainability management feature, agenda 2030]]></title>
-        <id>https://365community.online/business-central-sustainability-management-feature-agenda-2030</id>
-        <link href="https://365community.online/business-central-sustainability-management-feature-agenda-2030"/>
-        <updated>2024-11-27T13:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Business Central – Sustainability management feature, agenda 2030 Business Central includes a sustainability management feature that helps you monitor and manage your organization’s environmental impact. This feature is designed to oversee and regulate an organization’s environmental impact by tracking various greenhouse gas (GHG) emissions. The feature supports the basic process of… Continue Reading rs’s Article […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Send Email Using a Word Template]]></title>
-        <id>https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template</id>
-        <link href="https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template"/>
-        <updated>2024-11-27T11:00:39.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Another feature of the Word Template functionality in Business Central […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Create Mail Merge from a Business Central Entity using a Word Template]]></title>
-        <id>https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-a-business-central-entity-using-a-word-template</id>
-        <link href="https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-a-business-central-entity-using-a-word-template"/>
-        <updated>2024-11-27T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. As well as mail merging the Word template from the […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create a Custom Activity Table in Power Apps & Dynamics 365 CE – YouTube]]></title>
-        <id>https://365community.online/how-to-create-a-custom-activity-table-in-power-apps-dynamics-365-ce-youtube</id>
-        <link href="https://365community.online/how-to-create-a-custom-activity-table-in-power-apps-dynamics-365-ce-youtube"/>
-        <updated>2024-11-27T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In this video, we walk you through the process of creating a custom Activity Table in Power Apps and Microsoft Dynamics 365 Customer Engagement (CE). You’ll learn how to design, configure, and integrate custom activity tables to track and manage your organization’s unique tasks, events, or interactions. #powerapps #dynamics365 #customerengagement #ActivityTable #customtable #microsoftpowerplatform #CRMCustomization #dynamics365crm […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Site Security: How the New Power Pages Security Workspace Enhances Site Protection]]></title>
-        <id>https://365community.online/simplifying-site-security-how-the-new-power-pages-security-workspace-enhances-site-protection</id>
-        <link href="https://365community.online/simplifying-site-security-how-the-new-power-pages-security-workspace-enhances-site-protection"/>
-        <updated>2024-11-27T09:33:05.000Z</updated>
-        <summary type="html"><![CDATA[As an administrator at a technology company, one of my main responsibilities is ensuring that sensitive customer data is protected and that only the right people have access to selected areas of the system. However, with multiple users, roles, and sites in Dynamics 365, keeping track of who can access what and making sure everything […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanksgiving with Maplytics where Gratitude meets Geo-Analytics!]]></title>
-        <id>https://365community.online/thanksgiving-with-maplytics-where-gratitude-meets-geo-analytics</id>
-        <link href="https://365community.online/thanksgiving-with-maplytics-where-gratitude-meets-geo-analytics"/>
-        <updated>2024-11-27T09:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Thanksgiving is a time of gratitude, togetherness, and celebration, often marked by family gatherings, delicious feasts, and heartfelt traditions. Many of the traditional Thanksgiving practices resonate deeply with aspects of Maplytics, the advanced geo-analytical geo-mapping app for Microsoft Dynamics 365, Power Pages, and Dataverse. Confused how? Let’s explore how the spirit of Thanksgiving aligns with […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vote for Cange first result! ✅🏆]]></title>
-        <id>https://365community.online/vote-for-cange-first-result-%e2%9c%85%f0%9f%8f%86</id>
-        <link href="https://365community.online/vote-for-cange-first-result-%e2%9c%85%f0%9f%8f%86"/>
-        <updated>2024-11-27T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A while back I started the YouTube series Vote For Change where I highlighted different Ideas on Microsoft’s change portal and pushed for more votes. The idea was to create more traction around the subjects so that we could all push for changes that the people wanted, and not just Microsoft’s top priority. With the […]]]></summary>
-        <author>
-            <name>Thomas Sandsør</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create or Insert SPARKLINE in Excel in 1 Miunute? #exceltricks #trendingshorts #excel – YouTube]]></title>
-        <id>https://365community.online/how-to-create-or-insert-sparkline-in-excel-in-1-miunute-exceltricks-trendingshorts-excel-youtube</id>
-        <link href="https://365community.online/how-to-create-or-insert-sparkline-in-excel-in-1-miunute-exceltricks-trendingshorts-excel-youtube"/>
-        <updated>2024-11-27T06:35:25.000Z</updated>
-        <summary type="html"><![CDATA[In this #short video learn how to add or insert Sparkline in Excel with this easy tutorial. Sparklines are mini-charts that fit into a single cell and help you visualize data trends quickly. In this video, we’ll show you step-by-step how to create Sparklines in Excel, including line, column, and win/loss types. ⏩ Learn more […]]]></summary>
-        <author>
-            <name>365 Community Online</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Windows 365 Setup Mistake That’s Costing You Productivity – YouTube]]></title>
-        <id>https://365community.online/the-windows-365-setup-mistake-thats-costing-you-productivity-youtube</id>
-        <link href="https://365community.online/the-windows-365-setup-mistake-thats-costing-you-productivity-youtube"/>
-        <updated>2024-11-27T04:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Don’t let a simple setup mistake cost you productivity with Windows 365. Learn about Windows 365 prerequisites and how to buy subscriptions and assign licenses to make the most of this powerful tool. Episode Breakdown – 00:00 – Episode Intro 00:49 – Episode Breakdown 01:08 – Windows 365 Business Prerequisites 01:53 – Buy Subscriptions 02:51 […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>

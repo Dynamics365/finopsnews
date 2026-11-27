@@ -568,6 +568,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/my-record-didnt-save-so-i-built-an-ai-agent-to-find-out-why",
+          "author": "Rehan Khan",
+          "description": "Every Dataverse admin knows the \"my record didn't save\" message. I built a Copilot Studio agent that digs through System Jobs and plug-in traces for me, plus the agent and multi-agent practices I'd use again.",
+          "link": "https://365community.online/my-record-didnt-save-so-i-built-an-ai-agent-to-find-out-why",
+          "publishedOn": "2026-11-26T14:40:09.000Z",
+          "wordCount": 3575,
+          "title": "My Record Didn’t Save, So I Built an AI Agent to Find Out Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/business-applications-post-ignite-2026",
+          "author": "Saurav Dhyani",
+          "description": "Microsoft Ignite 2026 was held in November at San Francisco. And if you work with Power Platform / Copilot Studio or Dynamics 365 there was a lot to take in. The common thread across the week was clear: Copilot is…",
+          "link": "https://365community.online/business-applications-post-ignite-2026",
+          "publishedOn": "2026-11-25T22:30:14.000Z",
+          "wordCount": 2990,
+          "title": "Business Applications post Ignite 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/change-radar-is-it-going-to-rain-on-your-barbecue",
           "author": "Simon Owen",
           "description": "Every week Microsoft tells us what’s changing in Power Platform and Copilot. What they can’t tell us is whether any of it touches the things that we’ve built… So I drew a picture, and ended up building something that can.",
@@ -39125,96 +39145,6 @@
           "publishedOn": "2024-11-28T07:00:00.000Z",
           "wordCount": 1047,
           "title": "Set up Workload Identity federation for ADO Connection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/business-central-sustainability-management-feature-agenda-2030",
-          "author": "Roberto Stefanetti",
-          "description": "Business Central – Sustainability management feature, agenda 2030 Business Central includes a sustainability management feature that helps you monitor and manage your organization’s environmental impact. This feature is designed to oversee and regulate an organization’s environmental impact by tracking various greenhouse gas (GHG) emissions. The feature supports the basic process of… Continue Reading rs’s Article […]",
-          "link": "https://365community.online/business-central-sustainability-management-feature-agenda-2030",
-          "publishedOn": "2024-11-27T13:50:23.000Z",
-          "wordCount": 1066,
-          "title": "Business Central – Sustainability management feature, agenda 2030",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Another feature of the Word Template functionality in Business Central […]",
-          "link": "https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template",
-          "publishedOn": "2024-11-27T11:00:39.000Z",
-          "wordCount": 1102,
-          "title": "Word Template Mail Merge in Business Central: Send Email Using a Word Template",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-a-business-central-entity-using-a-word-template",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. As well as mail merging the Word template from the […]",
-          "link": "https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-a-business-central-entity-using-a-word-template",
-          "publishedOn": "2024-11-27T11:00:22.000Z",
-          "wordCount": 1129,
-          "title": "Word Template Mail Merge in Business Central: Create Mail Merge from a Business Central Entity using a Word Template",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-create-a-custom-activity-table-in-power-apps-dynamics-365-ce-youtube",
-          "author": "Manish chauhan",
-          "description": "In this video, we walk you through the process of creating a custom Activity Table in Power Apps and Microsoft Dynamics 365 Customer Engagement (CE). You’ll learn how to design, configure, and integrate custom activity tables to track and manage your organization’s unique tasks, events, or interactions. #powerapps #dynamics365 #customerengagement #ActivityTable #customtable #microsoftpowerplatform #CRMCustomization #dynamics365crm […]",
-          "link": "https://365community.online/how-to-create-a-custom-activity-table-in-power-apps-dynamics-365-ce-youtube",
-          "publishedOn": "2024-11-27T10:40:00.000Z",
-          "wordCount": 1045,
-          "title": "How to create a Custom Activity Table in Power Apps & Dynamics 365 CE – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/simplifying-site-security-how-the-new-power-pages-security-workspace-enhances-site-protection",
-          "author": "Inogic",
-          "description": "As an administrator at a technology company, one of my main responsibilities is ensuring that sensitive customer data is protected and that only the right people have access to selected areas of the system. However, with multiple users, roles, and sites in Dynamics 365, keeping track of who can access what and making sure everything […]",
-          "link": "https://365community.online/simplifying-site-security-how-the-new-power-pages-security-workspace-enhances-site-protection",
-          "publishedOn": "2024-11-27T09:33:05.000Z",
-          "wordCount": 1357,
-          "title": "Simplifying Site Security: How the New Power Pages Security Workspace Enhances Site Protection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/thanksgiving-with-maplytics-where-gratitude-meets-geo-analytics",
-          "author": "Inogic",
-          "description": "Thanksgiving is a time of gratitude, togetherness, and celebration, often marked by family gatherings, delicious feasts, and heartfelt traditions. Many of the traditional Thanksgiving practices resonate deeply with aspects of Maplytics, the advanced geo-analytical geo-mapping app for Microsoft Dynamics 365, Power Pages, and Dataverse. Confused how? Let’s explore how the spirit of Thanksgiving aligns with […]",
-          "link": "https://365community.online/thanksgiving-with-maplytics-where-gratitude-meets-geo-analytics",
-          "publishedOn": "2024-11-27T09:29:14.000Z",
-          "wordCount": 1255,
-          "title": "Thanksgiving with Maplytics where Gratitude meets Geo-Analytics!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/vote-for-cange-first-result-%e2%9c%85%f0%9f%8f%86",
-          "author": "Thomas Sandsør",
-          "description": "A while back I started the YouTube series Vote For Change where I highlighted different Ideas on Microsoft’s change portal and pushed for more votes. The idea was to create more traction around the subjects so that we could all push for changes that the people wanted, and not just Microsoft’s top priority. With the […]",
-          "link": "https://365community.online/vote-for-cange-first-result-%e2%9c%85%f0%9f%8f%86",
-          "publishedOn": "2024-11-27T09:00:00.000Z",
-          "wordCount": 1065,
-          "title": "Vote for Cange first result! ✅🏆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-create-or-insert-sparkline-in-excel-in-1-miunute-exceltricks-trendingshorts-excel-youtube",
-          "author": null,
-          "description": "In this #short video learn how to add or insert Sparkline in Excel with this easy tutorial. Sparklines are mini-charts that fit into a single cell and help you visualize data trends quickly. In this video, we’ll show you step-by-step how to create Sparklines in Excel, including line, column, and win/loss types. ⏩ Learn more […]",
-          "link": "https://365community.online/how-to-create-or-insert-sparkline-in-excel-in-1-miunute-exceltricks-trendingshorts-excel-youtube",
-          "publishedOn": "2024-11-27T06:35:25.000Z",
-          "wordCount": 1192,
-          "title": "How to Create or Insert SPARKLINE in Excel in 1 Miunute? #exceltricks #trendingshorts #excel – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/the-windows-365-setup-mistake-thats-costing-you-productivity-youtube",
-          "author": "shabaz darr",
-          "description": "Don’t let a simple setup mistake cost you productivity with Windows 365. Learn about Windows 365 prerequisites and how to buy subscriptions and assign licenses to make the most of this powerful tool. Episode Breakdown – 00:00 – Episode Intro 00:49 – Episode Breakdown 01:08 – Windows 365 Business Prerequisites 01:53 – Buy Subscriptions 02:51 […]",
-          "link": "https://365community.online/the-windows-365-setup-mistake-thats-costing-you-productivity-youtube",
-          "publishedOn": "2024-11-27T04:00:02.000Z",
-          "wordCount": 1044,
-          "title": "The Windows 365 Setup Mistake That’s Costing You Productivity – YouTube",
           "imageUrl": null
         }
       ]
