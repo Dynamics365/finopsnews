@@ -568,6 +568,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/microsoft-agent-365-the-controls-that-come-after-the-identity-part-2",
+          "author": "Richa Pandit",
+          "description": "London, United Kingdom | October 2025In Part 1, we gave our agents something concrete to govern. We built Wealth Advisor Copilot in Copilot Studio and gave the code-based Portfolio Risk Monitor its own Microsoft Entra Agent ID. We then put preventive…",
+          "link": "https://365community.online/microsoft-agent-365-the-controls-that-come-after-the-identity-part-2",
+          "publishedOn": "2026-11-27T17:28:22.000Z",
+          "wordCount": 3290,
+          "title": "Microsoft Agent 365: The Controls That Come After the Identity, Part 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/unlocking-data-value-with-fabric-and-microsoft-ai-agents-choose-deploy-optimise",
+          "author": "Microsoft Tech Community",
+          "description": "Over the past few years, most organisations I work with have invested heavily in their data platforms: landing data, modelling it and publishing reports. Yet when a business leader has a new question, the answer is often still a request…",
+          "link": "https://365community.online/unlocking-data-value-with-fabric-and-microsoft-ai-agents-choose-deploy-optimise",
+          "publishedOn": "2026-11-26T15:45:59.000Z",
+          "wordCount": 4395,
+          "title": "Unlocking Data Value with Fabric and Microsoft AI Agents: Choose, Deploy, Optimise",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/my-record-didnt-save-so-i-built-an-ai-agent-to-find-out-why",
           "author": "Rehan Khan",
           "description": "Every Dataverse admin knows the \"my record didn't save\" message. I built a Copilot Studio agent that digs through System Jobs and plug-in traces for me, plus the agent and multi-agent practices I'd use again.",
@@ -575,6 +595,46 @@
           "publishedOn": "2026-11-26T14:40:09.000Z",
           "wordCount": 3575,
           "title": "My Record Didn’t Save, So I Built an AI Agent to Find Out Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/running-green-hydrogen-export-plants-with-ai-agents-on-azure",
+          "author": "Microsoft Tech Community",
+          "description": "Before you read. I wrote this paper for my capstone in the Azure Master Architect Program. The design has not been built, and the test in section 9 is a simulation. The value figures come from the case and from that…",
+          "link": "https://365community.online/running-green-hydrogen-export-plants-with-ai-agents-on-azure",
+          "publishedOn": "2026-11-26T13:35:43.000Z",
+          "wordCount": 4697,
+          "title": "Running green hydrogen export plants with AI agents on Azure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/news-to-know-volume-3-edition-12-november-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Welcome to the November edition! This month is about giving you more control and clarity in Viva Glint. You can now decide more precisely who sees what across reports and comments, and your data exports come with a clear description…",
+          "link": "https://365community.online/news-to-know-volume-3-edition-12-november-2026",
+          "publishedOn": "2026-11-26T09:31:10.000Z",
+          "wordCount": 2370,
+          "title": "News to Know – Volume 3, Edition 12, November 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/where-should-llm-weights-live-on-aks-three-options-for-gpu-cold-starts-measured",
+          "author": "Microsoft Tech Community",
+          "description": "Summary  When you self-host an open-weight large language model (LLM) on Azure Kubernetes Service (AKS), each new replica needs two payloads before it can answer a request: the container image that holds the inference runtime, and the model weights. That…",
+          "link": "https://365community.online/where-should-llm-weights-live-on-aks-three-options-for-gpu-cold-starts-measured",
+          "publishedOn": "2026-11-26T05:30:00.000Z",
+          "wordCount": 4315,
+          "title": "Where should LLM weights live on AKS? Three options for GPU cold starts, measured",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/azure-functions-and-aws-lambda-one-trigger-vs-multiple-triggers-what-changes-in-your-design",
+          "author": "Microsoft Tech Community",
+          "description": "When moving between Azure Functions and AWS Lambda, one difference quickly stands out: An individual Azure function must have exactly one trigger. An AWS Lambda function can have multiple triggers. At first glance, Lambda appears more flexible. But what does this difference…",
+          "link": "https://365community.online/azure-functions-and-aws-lambda-one-trigger-vs-multiple-triggers-what-changes-in-your-design",
+          "publishedOn": "2026-11-26T02:28:19.000Z",
+          "wordCount": 2064,
+          "title": "Azure Functions and AWS Lambda: One Trigger vs. Multiple Triggers—What Changes in Your Design?",
           "imageUrl": null
         },
         {
@@ -39095,56 +39155,6 @@
           "publishedOn": "2024-11-29T04:00:06.000Z",
           "wordCount": 953,
           "title": "Become a ProPilot: Lesson 05 – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube",
-          "author": "Manish chauhan",
-          "description": "Learn how to use a pre-operation plugin in Dynamics 365 to automate the creation of participant records whenever a trial is created. In this step-by-step tutorial, I demonstrate the complete process, including plugin registration and coding tips for seamless integration. This video is perfect for developers and CRM consultants looking to streamline data entry and […]",
-          "link": "https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube",
-          "publishedOn": "2024-11-28T12:45:00.000Z",
-          "wordCount": 1052,
-          "title": "How to Auto Create Records in D365 CRM using Plugin – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-manage-products-in-dynamics-365",
-          "author": "Pete Murray",
-          "description": "You can add your product catalogue to Dynamics Sales so that your sales team can browse it and add products to opportunities and orders from it. There are many aspects to consider before you can list products in Dynamics In what quantities do you sell (weight, number, pallet etc) These are Units in Dynamics Do […]",
-          "link": "https://365community.online/how-to-manage-products-in-dynamics-365",
-          "publishedOn": "2024-11-28T09:54:42.000Z",
-          "wordCount": 1040,
-          "title": "How To Manage Products in Dynamics 365",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-add-timeline-control-to-custom-entity-form-in-power-apps-dynamics-365-ce-youtube",
-          "author": "Manish chauhan",
-          "description": "In this video, you’ll learn how to add the timeline control to a custom entity form in Power Apps within Microsoft Dynamics 365 Customer Engagement (CE). The timeline control allows you to easily track and display activities like emails, appointments, and tasks directly on your custom forms. #dynamics365 #powerapps #customerengagement #TimelineControl #CustomEntityForm #crm #microsoftdynamics #datatracking […]",
-          "link": "https://365community.online/how-to-add-timeline-control-to-custom-entity-form-in-power-apps-dynamics-365-ce-youtube",
-          "publishedOn": "2024-11-28T07:45:01.000Z",
-          "wordCount": 1062,
-          "title": "How to add Timeline Control to Custom Entity Form in Power Apps & Dynamics 365 CE – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/season-3-scaling-new-heights-with-dynamics-365-apps-your-2025-roadmap",
-          "author": "Inogic",
-          "description": "As the holiday season approaches, it’s the perfect time to simplify and automate your business processes while planning for success in 2025. If your CRM isn’t yet delivering location-based insights, optimized storage, secure document management, seamless communication, timely notifications, or insightful activity visualization, we’ve got you covered! Join us for Season 3 of our Dynamics […]",
-          "link": "https://365community.online/season-3-scaling-new-heights-with-dynamics-365-apps-your-2025-roadmap",
-          "publishedOn": "2024-11-28T07:00:37.000Z",
-          "wordCount": 1351,
-          "title": "Season 3: Scaling New Heights with Dynamics 365 Apps – Your 2025 Roadmap!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/set-up-workload-identity-federation-for-ado-connection",
-          "author": "Benedikt Bergmann",
-          "description": "Application ID and client secret were the preferred way of authenticating Azure DevOps (ADO) to a Dataverse instance. For a few months, there has been a new way of doing this part, workload identity federation. This blog post will show you how to set up Workload Identity federation for ADO connection. The service connection we […]",
-          "link": "https://365community.online/set-up-workload-identity-federation-for-ado-connection",
-          "publishedOn": "2024-11-28T07:00:00.000Z",
-          "wordCount": 1047,
-          "title": "Set up Workload Identity federation for ADO Connection",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-27T07:25:13.733Z</updated>
+    <updated>2026-11-28T06:56:03.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Agent 365: The Controls That Come After the Identity, Part 2]]></title>
+        <id>https://365community.online/microsoft-agent-365-the-controls-that-come-after-the-identity-part-2</id>
+        <link href="https://365community.online/microsoft-agent-365-the-controls-that-come-after-the-identity-part-2"/>
+        <updated>2026-11-27T17:28:22.000Z</updated>
+        <summary type="html"><![CDATA[London, United Kingdom | October 2025In Part 1, we gave our agents something concrete to govern. We built Wealth Advisor Copilot in Copilot Studio and gave the code-based Portfolio Risk Monitor its own Microsoft Entra Agent ID. We then put preventive…]]></summary>
+        <author>
+            <name>Richa Pandit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Data Value with Fabric and Microsoft AI Agents: Choose, Deploy, Optimise]]></title>
+        <id>https://365community.online/unlocking-data-value-with-fabric-and-microsoft-ai-agents-choose-deploy-optimise</id>
+        <link href="https://365community.online/unlocking-data-value-with-fabric-and-microsoft-ai-agents-choose-deploy-optimise"/>
+        <updated>2026-11-26T15:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, most organisations I work with have invested heavily in their data platforms: landing data, modelling it and publishing reports. Yet when a business leader has a new question, the answer is often still a request…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Record Didn’t Save, So I Built an AI Agent to Find Out Why]]></title>
         <id>https://365community.online/my-record-didnt-save-so-i-built-an-ai-agent-to-find-out-why</id>
@@ -14,6 +34,46 @@
         <summary type="html"><![CDATA[Every Dataverse admin knows the "my record didn't save" message. I built a Copilot Studio agent that digs through System Jobs and plug-in traces for me, plus the agent and multi-agent practices I'd use again.]]></summary>
         <author>
             <name>Rehan Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running green hydrogen export plants with AI agents on Azure]]></title>
+        <id>https://365community.online/running-green-hydrogen-export-plants-with-ai-agents-on-azure</id>
+        <link href="https://365community.online/running-green-hydrogen-export-plants-with-ai-agents-on-azure"/>
+        <updated>2026-11-26T13:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Before you read. I wrote this paper for my capstone in the Azure Master Architect Program. The design has not been built, and the test in section 9 is a simulation. The value figures come from the case and from that…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News to Know – Volume 3, Edition 12, November 2026]]></title>
+        <id>https://365community.online/news-to-know-volume-3-edition-12-november-2026</id>
+        <link href="https://365community.online/news-to-know-volume-3-edition-12-november-2026"/>
+        <updated>2026-11-26T09:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the November edition! This month is about giving you more control and clarity in Viva Glint. You can now decide more precisely who sees what across reports and comments, and your data exports come with a clear description…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where should LLM weights live on AKS? Three options for GPU cold starts, measured]]></title>
+        <id>https://365community.online/where-should-llm-weights-live-on-aks-three-options-for-gpu-cold-starts-measured</id>
+        <link href="https://365community.online/where-should-llm-weights-live-on-aks-three-options-for-gpu-cold-starts-measured"/>
+        <updated>2026-11-26T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary  When you self-host an open-weight large language model (LLM) on Azure Kubernetes Service (AKS), each new replica needs two payloads before it can answer a request: the container image that holds the inference runtime, and the model weights. That…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Functions and AWS Lambda: One Trigger vs. Multiple Triggers—What Changes in Your Design?]]></title>
+        <id>https://365community.online/azure-functions-and-aws-lambda-one-trigger-vs-multiple-triggers-what-changes-in-your-design</id>
+        <link href="https://365community.online/azure-functions-and-aws-lambda-one-trigger-vs-multiple-triggers-what-changes-in-your-design"/>
+        <updated>2026-11-26T02:28:19.000Z</updated>
+        <summary type="html"><![CDATA[When moving between Azure Functions and AWS Lambda, one difference quickly stands out: An individual Azure function must have exactly one trigger. An AWS Lambda function can have multiple triggers. At first glance, Lambda appears more flexible. But what does this difference…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -51304,56 +51364,6 @@ The post Email Collection Letters without Attached Report in D365FO appeared fir
         <summary type="html"><![CDATA[Leverage Copilots in Dataverse, Power Automate, Canvas Apps, and more. source]]></summary>
         <author>
             <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Auto Create Records in D365 CRM using Plugin – YouTube]]></title>
-        <id>https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube</id>
-        <link href="https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube"/>
-        <updated>2024-11-28T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use a pre-operation plugin in Dynamics 365 to automate the creation of participant records whenever a trial is created. In this step-by-step tutorial, I demonstrate the complete process, including plugin registration and coding tips for seamless integration. This video is perfect for developers and CRM consultants looking to streamline data entry and […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Manage Products in Dynamics 365]]></title>
-        <id>https://365community.online/how-to-manage-products-in-dynamics-365</id>
-        <link href="https://365community.online/how-to-manage-products-in-dynamics-365"/>
-        <updated>2024-11-28T09:54:42.000Z</updated>
-        <summary type="html"><![CDATA[You can add your product catalogue to Dynamics Sales so that your sales team can browse it and add products to opportunities and orders from it. There are many aspects to consider before you can list products in Dynamics In what quantities do you sell (weight, number, pallet etc) These are Units in Dynamics Do […]]]></summary>
-        <author>
-            <name>Pete Murray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to add Timeline Control to Custom Entity Form in Power Apps & Dynamics 365 CE – YouTube]]></title>
-        <id>https://365community.online/how-to-add-timeline-control-to-custom-entity-form-in-power-apps-dynamics-365-ce-youtube</id>
-        <link href="https://365community.online/how-to-add-timeline-control-to-custom-entity-form-in-power-apps-dynamics-365-ce-youtube"/>
-        <updated>2024-11-28T07:45:01.000Z</updated>
-        <summary type="html"><![CDATA[In this video, you’ll learn how to add the timeline control to a custom entity form in Power Apps within Microsoft Dynamics 365 Customer Engagement (CE). The timeline control allows you to easily track and display activities like emails, appointments, and tasks directly on your custom forms. #dynamics365 #powerapps #customerengagement #TimelineControl #CustomEntityForm #crm #microsoftdynamics #datatracking […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Season 3: Scaling New Heights with Dynamics 365 Apps – Your 2025 Roadmap!]]></title>
-        <id>https://365community.online/season-3-scaling-new-heights-with-dynamics-365-apps-your-2025-roadmap</id>
-        <link href="https://365community.online/season-3-scaling-new-heights-with-dynamics-365-apps-your-2025-roadmap"/>
-        <updated>2024-11-28T07:00:37.000Z</updated>
-        <summary type="html"><![CDATA[As the holiday season approaches, it’s the perfect time to simplify and automate your business processes while planning for success in 2025. If your CRM isn’t yet delivering location-based insights, optimized storage, secure document management, seamless communication, timely notifications, or insightful activity visualization, we’ve got you covered! Join us for Season 3 of our Dynamics […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set up Workload Identity federation for ADO Connection]]></title>
-        <id>https://365community.online/set-up-workload-identity-federation-for-ado-connection</id>
-        <link href="https://365community.online/set-up-workload-identity-federation-for-ado-connection"/>
-        <updated>2024-11-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Application ID and client secret were the preferred way of authenticating Azure DevOps (ADO) to a Dataverse instance. For a few months, there has been a new way of doing this part, workload identity federation. This blog post will show you how to set up Workload Identity federation for ADO connection. The service connection we […]]]></summary>
-        <author>
-            <name>Benedikt Bergmann</name>
         </author>
     </entry>
     <entry>
